@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "773bb4faeb925a32dc2065028c45544293db9db84390e831ae7962c6bdabcf61",
+    "hash": "7519c312aa8be72ddab7d50f024e9865c0d0a66b1829fc9cd49c81d417e804c6",
     "confirmed": [
       {
         "name": "Following Sea",
@@ -23,6 +23,12 @@
         ]
       },
       {
+        "name": "Fair Winds",
+        "legs": [
+          "Hunter Goodman"
+        ]
+      },
+      {
         "name": "Climbing the Ladder",
         "legs": [
           "Abimelec Ortiz",
@@ -31,8 +37,8 @@
         ]
       }
     ],
-    "last_modified": "Mon, 31 Aug 2026 19:22:30 GMT",
-    "checked_at": "2026-08-31T19:25:18.538005+00:00"
+    "last_modified": "Mon, 31 Aug 2026 19:48:06 GMT",
+    "checked_at": "2026-08-31T19:50:19.509347+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -60,7 +66,7 @@
         ]
       }
     ],
-    "last_modified": "Mon, 31 Aug 2026 19:22:30 GMT",
-    "checked_at": "2026-08-31T19:25:18.795343+00:00"
+    "last_modified": "Mon, 31 Aug 2026 19:48:06 GMT",
+    "checked_at": "2026-08-31T19:50:19.958506+00:00"
   }
 }
