@@ -59,13 +59,15 @@ def extract_signature(html: str) -> dict | None:
 
     Per the site owner, tickets are redrafted (price movements, live weather)
     until every leg is confirmed — so the signature covers ONLY fully
-    confirmed tickets: name plus leg players, where all legs have
-    status "confirmed". Unconfirmed/partially-confirmed tickets, odds, model
-    totals, the internal `pool` candidate list, weather, and everything else
-    are excluded, so redrafting never pings. Leg order is normalized so a
-    reshuffle of the same players isn't a change. Returns None if the page
-    structure changed and the data can't be found (caller falls back to
-    raw-page hashing).
+    confirmed tickets: name plus leg players. A leg counts as confirmed when
+    its status is "confirmed" OR its game has already started (meta.gs marks
+    live games, meta.finals finished ones) — a listed leg whose game is
+    underway is locked in even if the flag never flipped.
+    Unconfirmed/partially-confirmed tickets, odds, model totals, the internal
+    `pool` candidate list, weather, and everything else are excluded, so
+    redrafting never pings. Leg order is normalized so a reshuffle of the
+    same players isn't a change. Returns None if the page structure changed
+    and the data can't be found (caller falls back to raw-page hashing).
     """
     m = re.search(r"const D\s*=\s*", html)
     if not m:
@@ -77,10 +79,18 @@ def extract_signature(html: str) -> dict | None:
     if not isinstance(data, dict) or "tickets" not in data:
         return None
 
+    meta = data.get("meta") or {}
+    started_games = {str(g) for g in (meta.get("gs") or {})}
+    started_games |= {str(g) for g in (meta.get("finals") or [])}
+
+    def leg_confirmed(leg: dict) -> bool:
+        return (leg.get("status") == "confirmed"
+                or str(leg.get("game")) in started_games)
+
     confirmed = []
     for t in data.get("tickets", []):
         legs = t.get("players", [])
-        if legs and all(leg.get("status") == "confirmed" for leg in legs):
+        if legs and all(leg_confirmed(leg) for leg in legs):
             confirmed.append({
                 "name": t.get("name"),
                 "legs": sorted(leg.get("name") for leg in legs if leg.get("name")),
