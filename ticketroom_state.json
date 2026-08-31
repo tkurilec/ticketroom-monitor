@@ -1,21 +1,52 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "ff79c8d0d5f17cc497a881670bd32b9184db35b52903a8ee083e9bffdc7096cb",
+    "hash": "a65381cbbb33d1ce796e98e5cf95d622802821ef92c58c1b8d9ac0bb714f863f",
     "confirmed": [
       {
         "name": "Following Sea",
         "legs": [
           "Rafael Devers"
         ]
+      },
+      {
+        "name": "Heat Shield Off",
+        "legs": [
+          "JJ Bleday",
+          "Kody Clemens",
+          "Rafael Devers"
+        ]
       }
     ],
-    "last_modified": "Mon, 31 Aug 2026 18:38:12 GMT",
-    "checked_at": "2026-08-31T18:40:15.729053+00:00"
+    "last_modified": "Mon, 31 Aug 2026 19:07:06 GMT",
+    "checked_at": "2026-08-31T19:10:17.387440+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Mon, 31 Aug 2026 18:38:12 GMT",
-    "checked_at": "2026-08-31T18:40:15.877434+00:00"
+    "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
+    "confirmed": [
+      {
+        "name": "Top Corner",
+        "legs": [
+          "Gianluca Scamacca",
+          "Kai Havertz",
+          "Raphinha"
+        ]
+      },
+      {
+        "name": "From Distance",
+        "legs": [
+          "Giacomo Raspadori",
+          "Nicolas Jackson",
+          "Raphinha"
+        ]
+      },
+      {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Raphinha"
+        ]
+      }
+    ],
+    "last_modified": "Mon, 31 Aug 2026 19:07:05 GMT",
+    "checked_at": "2026-08-31T19:10:18.149581+00:00"
   }
 }
