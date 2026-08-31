@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e97381c00f8cfcbe27f6edfad3385d9d4c8a91b374a0f8bf7b26598611d701c3",
+    "hash": "8aaf73d3fe89930ca3243933f19f34b79f277c24aeb823b4a1316913a5fb7053",
     "confirmed": [
       {
         "name": "Following Sea",
@@ -37,6 +37,12 @@
         ]
       },
       {
+        "name": "The Capstan",
+        "legs": [
+          "Munetaka Murakami"
+        ]
+      },
+      {
         "name": "The Apollo",
         "legs": [
           "Andr\u00e9s Chaparro",
@@ -45,8 +51,8 @@
         ]
       }
     ],
-    "last_modified": "Mon, 31 Aug 2026 20:27:26 GMT",
-    "checked_at": "2026-08-31T20:30:21.258535+00:00"
+    "last_modified": "Mon, 31 Aug 2026 20:31:06 GMT",
+    "checked_at": "2026-08-31T20:35:16.836617+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -74,7 +80,7 @@
         ]
       }
     ],
-    "last_modified": "Mon, 31 Aug 2026 20:27:26 GMT",
-    "checked_at": "2026-08-31T20:30:21.405746+00:00"
+    "last_modified": "Mon, 31 Aug 2026 20:31:06 GMT",
+    "checked_at": "2026-08-31T20:35:17.015560+00:00"
   }
 }
