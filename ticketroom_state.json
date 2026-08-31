@@ -1,14 +1,21 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Mon, 31 Aug 2026 17:58:13 GMT",
-    "checked_at": "2026-08-31T17:58:46.278415+00:00"
+    "hash": "ff79c8d0d5f17cc497a881670bd32b9184db35b52903a8ee083e9bffdc7096cb",
+    "confirmed": [
+      {
+        "name": "Following Sea",
+        "legs": [
+          "Rafael Devers"
+        ]
+      }
+    ],
+    "last_modified": "Mon, 31 Aug 2026 18:38:12 GMT",
+    "checked_at": "2026-08-31T18:40:15.729053+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Mon, 31 Aug 2026 17:58:13 GMT",
-    "checked_at": "2026-08-31T17:58:46.714420+00:00"
+    "last_modified": "Mon, 31 Aug 2026 18:38:12 GMT",
+    "checked_at": "2026-08-31T18:40:15.877434+00:00"
   }
 }
