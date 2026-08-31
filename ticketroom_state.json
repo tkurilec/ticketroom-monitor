@@ -1,0 +1,14 @@
+{
+  "https://theticketroom.live/mlb/": {
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Mon, 31 Aug 2026 17:58:13 GMT",
+    "checked_at": "2026-08-31T17:58:46.278415+00:00"
+  },
+  "https://theticketroom.live/soccer/": {
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Mon, 31 Aug 2026 17:58:13 GMT",
+    "checked_at": "2026-08-31T17:58:46.714420+00:00"
+  }
+}
