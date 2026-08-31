@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e478fe33292738254b129b0e05befa6125263d9e77f3a7c1c804767db9337d87",
+    "hash": "4518c2122eae6febcb7706ab6233cf5d302ffa4cef7a0469ab54ced8112e5004",
     "confirmed": [
       {
         "name": "Following Sea",
@@ -35,6 +35,14 @@
         ]
       },
       {
+        "name": "The Slingshot",
+        "legs": [
+          "Heriberto Hern\u00e1ndez",
+          "Jake Bauers",
+          "Rafael Devers"
+        ]
+      },
+      {
         "name": "Climbing the Ladder",
         "legs": [
           "Abimelec Ortiz",
@@ -51,8 +59,8 @@
         ]
       }
     ],
-    "last_modified": "Mon, 31 Aug 2026 20:36:52 GMT",
-    "checked_at": "2026-08-31T20:40:16.786602+00:00"
+    "last_modified": "Mon, 31 Aug 2026 20:47:29 GMT",
+    "checked_at": "2026-08-31T20:50:15.806785+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -80,7 +88,7 @@
         ]
       }
     ],
-    "last_modified": "Mon, 31 Aug 2026 20:36:52 GMT",
-    "checked_at": "2026-08-31T20:40:17.107585+00:00"
+    "last_modified": "Mon, 31 Aug 2026 20:47:29 GMT",
+    "checked_at": "2026-08-31T20:50:16.105554+00:00"
   }
 }
