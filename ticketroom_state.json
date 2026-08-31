@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "a65381cbbb33d1ce796e98e5cf95d622802821ef92c58c1b8d9ac0bb714f863f",
+    "hash": "1861ecacb78cd83c94dba7d95c70fe86814e9efd3b57b4684a8524f8020839b7",
     "confirmed": [
       {
         "name": "Following Sea",
@@ -15,10 +15,16 @@
           "Kody Clemens",
           "Rafael Devers"
         ]
+      },
+      {
+        "name": "The Keel",
+        "legs": [
+          "Matt Olson"
+        ]
       }
     ],
-    "last_modified": "Mon, 31 Aug 2026 19:07:06 GMT",
-    "checked_at": "2026-08-31T19:10:17.387440+00:00"
+    "last_modified": "Mon, 31 Aug 2026 19:12:10 GMT",
+    "checked_at": "2026-08-31T19:15:28.403382+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -46,7 +52,7 @@
         ]
       }
     ],
-    "last_modified": "Mon, 31 Aug 2026 19:07:05 GMT",
-    "checked_at": "2026-08-31T19:10:18.149581+00:00"
+    "last_modified": "Mon, 31 Aug 2026 19:12:10 GMT",
+    "checked_at": "2026-08-31T19:15:28.603832+00:00"
   }
 }
