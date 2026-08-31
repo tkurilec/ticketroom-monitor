@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "74660d262d46cdb3b63ebfa3d5205e2226b2c0741f9dd3f679d89725cebb06f7",
+    "hash": "16e01a5ea94b1a69fc0b5407e83aaefecf8c9d25aee341fd99f5be886dcc0644",
     "confirmed": [
       {
         "name": "Following Sea",
@@ -67,17 +67,17 @@
         ]
       },
       {
+        "name": "Last Train Home",
+        "legs": [
+          "Coby Mayo"
+        ]
+      },
+      {
         "name": "Star Sailor",
         "legs": [
           "Cal Raleigh",
           "Munetaka Murakami",
           "Samuel Basallo"
-        ]
-      },
-      {
-        "name": "Last Train Home",
-        "legs": [
-          "Coby Mayo"
         ]
       },
       {
@@ -89,8 +89,8 @@
         ]
       }
     ],
-    "last_modified": "Mon, 31 Aug 2026 21:14:44 GMT",
-    "checked_at": "2026-08-31T21:15:14.916049+00:00"
+    "last_modified": "Mon, 31 Aug 2026 21:17:36 GMT",
+    "checked_at": "2026-08-31T21:20:20.137834+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -118,7 +118,7 @@
         ]
       }
     ],
-    "last_modified": "Mon, 31 Aug 2026 21:14:44 GMT",
-    "checked_at": "2026-08-31T21:15:15.047620+00:00"
+    "last_modified": "Mon, 31 Aug 2026 21:17:36 GMT",
+    "checked_at": "2026-08-31T21:20:20.350919+00:00"
   }
 }
