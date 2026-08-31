@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "1861ecacb78cd83c94dba7d95c70fe86814e9efd3b57b4684a8524f8020839b7",
+    "hash": "773bb4faeb925a32dc2065028c45544293db9db84390e831ae7962c6bdabcf61",
     "confirmed": [
       {
         "name": "Following Sea",
@@ -21,10 +21,18 @@
         "legs": [
           "Matt Olson"
         ]
+      },
+      {
+        "name": "Climbing the Ladder",
+        "legs": [
+          "Abimelec Ortiz",
+          "Manny Machado",
+          "Matt Olson"
+        ]
       }
     ],
-    "last_modified": "Mon, 31 Aug 2026 19:12:10 GMT",
-    "checked_at": "2026-08-31T19:15:28.403382+00:00"
+    "last_modified": "Mon, 31 Aug 2026 19:22:30 GMT",
+    "checked_at": "2026-08-31T19:25:18.538005+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -52,7 +60,7 @@
         ]
       }
     ],
-    "last_modified": "Mon, 31 Aug 2026 19:12:10 GMT",
-    "checked_at": "2026-08-31T19:15:28.603832+00:00"
+    "last_modified": "Mon, 31 Aug 2026 19:22:30 GMT",
+    "checked_at": "2026-08-31T19:25:18.795343+00:00"
   }
 }
