@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "4beb961f213a2388dad29a49ad32b65d8cfb057b86c841fa04d0eed1e9ae2c47",
+    "hash": "3c2425dbb0b3a4ab35493e0505d35eed4492de913cf331eaef3c4342ca9d7bba",
     "confirmed": [
       {
         "name": "Set the Hook",
@@ -23,17 +23,17 @@
         ]
       },
       {
+        "name": "Following Sea",
+        "legs": [
+          "Hunter Goodman"
+        ]
+      },
+      {
         "name": "Heat Shield Off",
         "legs": [
           "Hunter Goodman",
           "Jac Caglianone",
           "Yordan Alvarez"
-        ]
-      },
-      {
-        "name": "Following Sea",
-        "legs": [
-          "Hunter Goodman"
         ]
       },
       {
@@ -53,8 +53,8 @@
         ]
       }
     ],
-    "last_modified": "Tue, 01 Sep 2026 21:19:04 GMT",
-    "checked_at": "2026-09-01T21:20:17.456839+00:00"
+    "last_modified": "Tue, 01 Sep 2026 21:23:25 GMT",
+    "checked_at": "2026-09-01T21:25:19.214466+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -82,7 +82,7 @@
         ]
       }
     ],
-    "last_modified": "Tue, 01 Sep 2026 21:19:04 GMT",
-    "checked_at": "2026-09-01T21:20:17.590080+00:00"
+    "last_modified": "Tue, 01 Sep 2026 21:23:25 GMT",
+    "checked_at": "2026-09-01T21:25:19.608172+00:00"
   }
 }
