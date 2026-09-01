@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "6e70952da6a5268cc24a54713e4948711be86142b434a9ecd1556dbaf132f9d5",
+    "hash": "c51799e2eda3ef6f8e165677878eba6d04e58e6c9fe412699beef6f2cf6f8769",
     "confirmed": [
       {
         "name": "Set the Hook",
@@ -57,10 +57,18 @@
           "Munetaka Murakami",
           "Seiya Suzuki"
         ]
+      },
+      {
+        "name": "Terminal Climb",
+        "legs": [
+          "Fernando Tatis",
+          "Griffin Conine",
+          "Munetaka Murakami"
+        ]
       }
     ],
-    "last_modified": "Tue, 01 Sep 2026 21:48:26 GMT",
-    "checked_at": "2026-09-01T21:50:22.263071+00:00"
+    "last_modified": "Tue, 01 Sep 2026 21:58:30 GMT",
+    "checked_at": "2026-09-01T22:00:22.853307+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -88,7 +96,7 @@
         ]
       }
     ],
-    "last_modified": "Tue, 01 Sep 2026 21:48:26 GMT",
-    "checked_at": "2026-09-01T21:50:22.426409+00:00"
+    "last_modified": "Tue, 01 Sep 2026 21:58:30 GMT",
+    "checked_at": "2026-09-01T22:00:22.983731+00:00"
   }
 }
