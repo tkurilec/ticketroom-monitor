@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "c51799e2eda3ef6f8e165677878eba6d04e58e6c9fe412699beef6f2cf6f8769",
+    "hash": "3056cb6909e71a961aab7dc34a8ec76a52277d5169a1df58c986df446b4d3267",
     "confirmed": [
       {
         "name": "Set the Hook",
@@ -65,10 +65,32 @@
           "Griffin Conine",
           "Munetaka Murakami"
         ]
+      },
+      {
+        "name": "Ballistic Arc",
+        "legs": [
+          "Bobby Witt",
+          "Pete Crow-Armstrong",
+          "Samuel Basallo"
+        ]
+      },
+      {
+        "name": "Going Supersonic",
+        "legs": [
+          "Ben Rice",
+          "Carter Jensen",
+          "Samuel Basallo"
+        ]
+      },
+      {
+        "name": "Anchors Aweigh",
+        "legs": [
+          "Samuel Basallo"
+        ]
       }
     ],
-    "last_modified": "Tue, 01 Sep 2026 21:58:30 GMT",
-    "checked_at": "2026-09-01T22:00:22.853307+00:00"
+    "last_modified": "Tue, 01 Sep 2026 22:58:53 GMT",
+    "checked_at": "2026-09-01T23:00:22.732943+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -96,7 +118,7 @@
         ]
       }
     ],
-    "last_modified": "Tue, 01 Sep 2026 21:58:30 GMT",
-    "checked_at": "2026-09-01T22:00:22.983731+00:00"
+    "last_modified": "Tue, 01 Sep 2026 22:58:53 GMT",
+    "checked_at": "2026-09-01T23:00:22.872081+00:00"
   }
 }
