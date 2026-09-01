@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "5767a3ffeec38d7aa3e93674032dfc55f6a956dd2172891c9a1f4451395c2ecd",
+    "hash": "4beb961f213a2388dad29a49ad32b65d8cfb057b86c841fa04d0eed1e9ae2c47",
     "confirmed": [
       {
         "name": "Set the Hook",
@@ -31,17 +31,17 @@
         ]
       },
       {
+        "name": "Following Sea",
+        "legs": [
+          "Hunter Goodman"
+        ]
+      },
+      {
         "name": "Beyond the Bleachers",
         "legs": [
           "Colson Montgomery",
           "Hunter Goodman",
           "Rafael Devers"
-        ]
-      },
-      {
-        "name": "Following Sea",
-        "legs": [
-          "Hunter Goodman"
         ]
       },
       {
@@ -53,8 +53,8 @@
         ]
       }
     ],
-    "last_modified": "Tue, 01 Sep 2026 21:13:03 GMT",
-    "checked_at": "2026-09-01T21:15:26.101491+00:00"
+    "last_modified": "Tue, 01 Sep 2026 21:19:04 GMT",
+    "checked_at": "2026-09-01T21:20:17.456839+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -82,7 +82,7 @@
         ]
       }
     ],
-    "last_modified": "Tue, 01 Sep 2026 21:13:03 GMT",
-    "checked_at": "2026-09-01T21:15:26.311140+00:00"
+    "last_modified": "Tue, 01 Sep 2026 21:19:04 GMT",
+    "checked_at": "2026-09-01T21:20:17.590080+00:00"
   }
 }
