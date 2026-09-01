@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "9a9035589fb8ed86889b500bcee42448a5c34c211414c8b3df084a50ba1080d5",
+    "hash": "6e70952da6a5268cc24a54713e4948711be86142b434a9ecd1556dbaf132f9d5",
     "confirmed": [
       {
         "name": "Set the Hook",
@@ -29,17 +29,17 @@
         ]
       },
       {
+        "name": "The Curfew",
+        "legs": [
+          "Joshua B\u00e1ez"
+        ]
+      },
+      {
         "name": "Heat Shield Off",
         "legs": [
           "Hunter Goodman",
           "Jac Caglianone",
           "Yordan Alvarez"
-        ]
-      },
-      {
-        "name": "The Curfew",
-        "legs": [
-          "Joshua B\u00e1ez"
         ]
       },
       {
@@ -59,8 +59,8 @@
         ]
       }
     ],
-    "last_modified": "Tue, 01 Sep 2026 21:43:39 GMT",
-    "checked_at": "2026-09-01T21:45:17.777879+00:00"
+    "last_modified": "Tue, 01 Sep 2026 21:48:26 GMT",
+    "checked_at": "2026-09-01T21:50:22.263071+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -88,7 +88,7 @@
         ]
       }
     ],
-    "last_modified": "Tue, 01 Sep 2026 21:43:39 GMT",
-    "checked_at": "2026-09-01T21:45:17.985436+00:00"
+    "last_modified": "Tue, 01 Sep 2026 21:48:26 GMT",
+    "checked_at": "2026-09-01T21:50:22.426409+00:00"
   }
 }
