@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "1fbadc05c9ec3214063ec4f9d97056696d6e7b157474e42a86452e6be31842f0",
+    "hash": "16d99bdf691dd1eef604799cd3ee50d97b06983ce0c87f544086fda53dee2386",
     "confirmed": [
       {
         "name": "Set the Hook",
@@ -15,10 +15,16 @@
           "Kyle Stowers",
           "Manny Machado"
         ]
+      },
+      {
+        "name": "The Capstan",
+        "legs": [
+          "Munetaka Murakami"
+        ]
       }
     ],
-    "last_modified": "Tue, 01 Sep 2026 20:53:23 GMT",
-    "checked_at": "2026-09-01T20:55:13.070947+00:00"
+    "last_modified": "Tue, 01 Sep 2026 21:02:46 GMT",
+    "checked_at": "2026-09-01T21:05:17.904397+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -46,7 +52,7 @@
         ]
       }
     ],
-    "last_modified": "Tue, 01 Sep 2026 20:53:23 GMT",
-    "checked_at": "2026-09-01T20:55:13.191318+00:00"
+    "last_modified": "Tue, 01 Sep 2026 21:02:46 GMT",
+    "checked_at": "2026-09-01T21:05:18.026149+00:00"
   }
 }
