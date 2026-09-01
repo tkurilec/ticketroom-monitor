@@ -1,16 +1,24 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "41d717fa70d0422d8d2eaec6232c20ed5831ae71015aa59ab079d9b7f01fb033",
+    "hash": "1fbadc05c9ec3214063ec4f9d97056696d6e7b157474e42a86452e6be31842f0",
     "confirmed": [
       {
         "name": "Set the Hook",
         "legs": [
           "Kyle Stowers"
         ]
+      },
+      {
+        "name": "The Slingshot",
+        "legs": [
+          "Drake Baldwin",
+          "Kyle Stowers",
+          "Manny Machado"
+        ]
       }
     ],
-    "last_modified": "Tue, 01 Sep 2026 20:48:19 GMT",
-    "checked_at": "2026-09-01T20:50:16.529453+00:00"
+    "last_modified": "Tue, 01 Sep 2026 20:53:23 GMT",
+    "checked_at": "2026-09-01T20:55:13.070947+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -38,7 +46,7 @@
         ]
       }
     ],
-    "last_modified": "Tue, 01 Sep 2026 20:48:19 GMT",
-    "checked_at": "2026-09-01T20:50:17.313865+00:00"
+    "last_modified": "Tue, 01 Sep 2026 20:53:23 GMT",
+    "checked_at": "2026-09-01T20:55:13.191318+00:00"
   }
 }
