@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "16d99bdf691dd1eef604799cd3ee50d97b06983ce0c87f544086fda53dee2386",
+    "hash": "5767a3ffeec38d7aa3e93674032dfc55f6a956dd2172891c9a1f4451395c2ecd",
     "confirmed": [
       {
         "name": "Set the Hook",
@@ -21,10 +21,40 @@
         "legs": [
           "Munetaka Murakami"
         ]
+      },
+      {
+        "name": "Heat Shield Off",
+        "legs": [
+          "Hunter Goodman",
+          "Jac Caglianone",
+          "Yordan Alvarez"
+        ]
+      },
+      {
+        "name": "Beyond the Bleachers",
+        "legs": [
+          "Colson Montgomery",
+          "Hunter Goodman",
+          "Rafael Devers"
+        ]
+      },
+      {
+        "name": "Following Sea",
+        "legs": [
+          "Hunter Goodman"
+        ]
+      },
+      {
+        "name": "Into the Upper Air",
+        "legs": [
+          "Mickey Moniak",
+          "Munetaka Murakami",
+          "Seiya Suzuki"
+        ]
       }
     ],
-    "last_modified": "Tue, 01 Sep 2026 21:02:46 GMT",
-    "checked_at": "2026-09-01T21:05:17.904397+00:00"
+    "last_modified": "Tue, 01 Sep 2026 21:13:03 GMT",
+    "checked_at": "2026-09-01T21:15:26.101491+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -52,7 +82,7 @@
         ]
       }
     ],
-    "last_modified": "Tue, 01 Sep 2026 21:02:46 GMT",
-    "checked_at": "2026-09-01T21:05:18.026149+00:00"
+    "last_modified": "Tue, 01 Sep 2026 21:13:03 GMT",
+    "checked_at": "2026-09-01T21:15:26.311140+00:00"
   }
 }
