@@ -1,9 +1,16 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Tue, 01 Sep 2026 15:32:08 GMT",
-    "checked_at": "2026-09-01T15:35:16.423644+00:00"
+    "hash": "41d717fa70d0422d8d2eaec6232c20ed5831ae71015aa59ab079d9b7f01fb033",
+    "confirmed": [
+      {
+        "name": "Set the Hook",
+        "legs": [
+          "Kyle Stowers"
+        ]
+      }
+    ],
+    "last_modified": "Tue, 01 Sep 2026 20:48:19 GMT",
+    "checked_at": "2026-09-01T20:50:16.529453+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -31,7 +38,7 @@
         ]
       }
     ],
-    "last_modified": "Tue, 01 Sep 2026 15:32:08 GMT",
-    "checked_at": "2026-09-01T15:35:16.532432+00:00"
+    "last_modified": "Tue, 01 Sep 2026 20:48:19 GMT",
+    "checked_at": "2026-09-01T20:50:17.313865+00:00"
   }
 }
