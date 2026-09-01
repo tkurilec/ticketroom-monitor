@@ -1,104 +1,9 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e548815dc7d3931302fbdeadc333fe5328eeb3ad42ed0a6205450bbd197f4c50",
-    "confirmed": [
-      {
-        "name": "Following Sea",
-        "legs": [
-          "Rafael Devers"
-        ]
-      },
-      {
-        "name": "Heat Shield Off",
-        "legs": [
-          "JJ Bleday",
-          "Kody Clemens",
-          "Rafael Devers"
-        ]
-      },
-      {
-        "name": "The Keel",
-        "legs": [
-          "Matt Olson"
-        ]
-      },
-      {
-        "name": "Fair Winds",
-        "legs": [
-          "Hunter Goodman"
-        ]
-      },
-      {
-        "name": "The Capstan",
-        "legs": [
-          "Munetaka Murakami"
-        ]
-      },
-      {
-        "name": "The Slingshot",
-        "legs": [
-          "Heriberto Hern\u00e1ndez",
-          "Jake Bauers",
-          "Rafael Devers"
-        ]
-      },
-      {
-        "name": "Climbing the Ladder",
-        "legs": [
-          "Abimelec Ortiz",
-          "Manny Machado",
-          "Matt Olson"
-        ]
-      },
-      {
-        "name": "The Apollo",
-        "legs": [
-          "Andr\u00e9s Chaparro",
-          "Jake Burger",
-          "Matt Olson"
-        ]
-      },
-      {
-        "name": "Orbital Insertion",
-        "legs": [
-          "Hunter Goodman",
-          "Junior Caminero",
-          "Seiya Suzuki"
-        ]
-      },
-      {
-        "name": "Last Train Home",
-        "legs": [
-          "Coby Mayo"
-        ]
-      },
-      {
-        "name": "Beyond the Bleachers",
-        "legs": [
-          "Colson Montgomery",
-          "Hunter Goodman",
-          "Kyle Schwarber"
-        ]
-      },
-      {
-        "name": "Star Sailor",
-        "legs": [
-          "Cal Raleigh",
-          "Munetaka Murakami",
-          "Samuel Basallo"
-        ]
-      },
-      {
-        "name": "Going Supersonic",
-        "legs": [
-          "Gunnar Henderson",
-          "Jackson Merrill",
-          "Munetaka Murakami"
-        ]
-      }
-    ],
-    "last_modified": "Mon, 31 Aug 2026 22:22:48 GMT",
-    "checked_at": "2026-08-31T22:25:15.836217+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Tue, 01 Sep 2026 15:32:08 GMT",
+    "checked_at": "2026-09-01T15:35:16.423644+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -126,7 +31,7 @@
         ]
       }
     ],
-    "last_modified": "Mon, 31 Aug 2026 22:22:48 GMT",
-    "checked_at": "2026-08-31T22:25:16.108545+00:00"
+    "last_modified": "Tue, 01 Sep 2026 15:32:08 GMT",
+    "checked_at": "2026-09-01T15:35:16.532432+00:00"
   }
 }
