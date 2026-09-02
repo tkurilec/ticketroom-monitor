@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "a98d59aaae48e702c2ffae3c746d4c95576f10ca417cfbaf2b0df6100fa1322c",
+    "hash": "be6e57865fb90cf5bb0a828675c476f9be143451d811853abcc713ad748640a2",
     "confirmed": [
       {
         "name": "Orbital Insertion",
@@ -43,14 +43,6 @@
         ]
       },
       {
-        "name": "Into the Upper Air",
-        "legs": [
-          "Bobby Witt",
-          "Rafael Devers",
-          "Seiya Suzuki"
-        ]
-      },
-      {
         "name": "Burning the Midnight Oil",
         "legs": [
           "Mike Trout"
@@ -81,6 +73,14 @@
         ]
       },
       {
+        "name": "Into the Upper Air",
+        "legs": [
+          "Bobby Witt",
+          "Rafael Devers",
+          "Seiya Suzuki"
+        ]
+      },
+      {
         "name": "The Apollo",
         "legs": [
           "Bobby Witt",
@@ -89,8 +89,8 @@
         ]
       }
     ],
-    "last_modified": "Wed, 02 Sep 2026 22:13:55 GMT",
-    "checked_at": "2026-09-02T22:15:17.849481+00:00"
+    "last_modified": "Wed, 02 Sep 2026 22:19:15 GMT",
+    "checked_at": "2026-09-02T22:20:17.688232+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -118,7 +118,7 @@
         ]
       }
     ],
-    "last_modified": "Wed, 02 Sep 2026 22:13:55 GMT",
-    "checked_at": "2026-09-02T22:15:18.099346+00:00"
+    "last_modified": "Wed, 02 Sep 2026 22:19:15 GMT",
+    "checked_at": "2026-09-02T22:20:17.937355+00:00"
   }
 }
