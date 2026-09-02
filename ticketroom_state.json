@@ -1,96 +1,16 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "be6e57865fb90cf5bb0a828675c476f9be143451d811853abcc713ad748640a2",
+    "hash": "dcd018566f05449d90329c24729a4c45a9fd06622f76e097c6cc1ce1be94cf72",
     "confirmed": [
-      {
-        "name": "Orbital Insertion",
-        "legs": [
-          "Gary S\u00e1nchez",
-          "Kody Clemens",
-          "Munetaka Murakami"
-        ]
-      },
-      {
-        "name": "Star Sailor",
-        "legs": [
-          "Kazuma Okamoto",
-          "Munetaka Murakami",
-          "Salvador Perez"
-        ]
-      },
-      {
-        "name": "Going Supersonic",
-        "legs": [
-          "Carter Jensen",
-          "Junior Caminero",
-          "Yordan Alvarez"
-        ]
-      },
-      {
-        "name": "The Slingshot",
-        "legs": [
-          "Bryce Eldridge",
-          "Heriberto Hern\u00e1ndez",
-          "Yordan Alvarez"
-        ]
-      },
-      {
-        "name": "Beyond the Bleachers",
-        "legs": [
-          "Pete Crow-Armstrong",
-          "Riley Greene",
-          "Vinnie Pasquantino"
-        ]
-      },
-      {
-        "name": "Burning the Midnight Oil",
-        "legs": [
-          "Mike Trout"
-        ]
-      },
       {
         "name": "Following Sea",
         "legs": [
-          "Munetaka Murakami"
-        ]
-      },
-      {
-        "name": "Set the Hook",
-        "legs": [
-          "Yordan Alvarez"
-        ]
-      },
-      {
-        "name": "The Capstan",
-        "legs": [
-          "Pete Crow-Armstrong"
-        ]
-      },
-      {
-        "name": "Anchors Aweigh",
-        "legs": [
-          "Bobby Witt"
-        ]
-      },
-      {
-        "name": "Into the Upper Air",
-        "legs": [
-          "Bobby Witt",
-          "Rafael Devers",
-          "Seiya Suzuki"
-        ]
-      },
-      {
-        "name": "The Apollo",
-        "legs": [
-          "Bobby Witt",
-          "Brandon Lowe",
-          "Colson Montgomery"
+          "Matt Olson"
         ]
       }
     ],
-    "last_modified": "Wed, 02 Sep 2026 22:19:15 GMT",
-    "checked_at": "2026-09-02T22:20:17.688232+00:00"
+    "last_modified": "Wed, 02 Sep 2026 22:25:14 GMT",
+    "checked_at": "2026-09-02T22:25:16.621062+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -118,7 +38,7 @@
         ]
       }
     ],
-    "last_modified": "Wed, 02 Sep 2026 22:19:15 GMT",
-    "checked_at": "2026-09-02T22:20:17.937355+00:00"
+    "last_modified": "Wed, 02 Sep 2026 22:25:14 GMT",
+    "checked_at": "2026-09-02T22:25:16.816431+00:00"
   }
 }
