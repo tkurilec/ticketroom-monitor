@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "9e49fd70a3447df04154f996d03b2244e2016c7b49aad8107d191382e6b9eb67",
+    "hash": "70cc9d5aae9eecfbef97f5ff63c285c8000d421709f2e21db6ea77b2f76e2cd1",
     "confirmed": [
       {
         "name": "Following Sea",
@@ -23,10 +23,16 @@
           "Jake Burger",
           "Matt Olson"
         ]
+      },
+      {
+        "name": "Half-Day Hammer",
+        "legs": [
+          "Kyle Schwarber"
+        ]
       }
     ],
-    "last_modified": "Wed, 02 Sep 2026 15:38:27 GMT",
-    "checked_at": "2026-09-02T15:40:23.840067+00:00"
+    "last_modified": "Wed, 02 Sep 2026 17:07:07 GMT",
+    "checked_at": "2026-09-02T17:10:19.111060+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -54,7 +60,7 @@
         ]
       }
     ],
-    "last_modified": "Wed, 02 Sep 2026 15:38:27 GMT",
-    "checked_at": "2026-09-02T15:40:24.077436+00:00"
+    "last_modified": "Wed, 02 Sep 2026 17:07:07 GMT",
+    "checked_at": "2026-09-02T17:10:19.377518+00:00"
   }
 }
