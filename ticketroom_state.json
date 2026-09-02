@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e88a92b290a706940fea32fe99dfd557f6d9ccb61eb2d8e4ca3c50c11ebe46a7",
+    "hash": "44f8f8b1145881586639c42b1b55cc02950b384e782bca2ca6eab3c4874ff59d",
     "confirmed": [
       {
         "name": "Orbital Insertion",
@@ -67,6 +67,12 @@
         ]
       },
       {
+        "name": "Burning the Midnight Oil",
+        "legs": [
+          "Paul Goldschmidt"
+        ]
+      },
+      {
         "name": "Half-Day Hammer",
         "legs": [
           "Kyle Schwarber"
@@ -97,8 +103,8 @@
         ]
       }
     ],
-    "last_modified": "Wed, 02 Sep 2026 22:34:09 GMT",
-    "checked_at": "2026-09-02T22:35:51.542652+00:00"
+    "last_modified": "Wed, 02 Sep 2026 22:39:21 GMT",
+    "checked_at": "2026-09-02T22:40:17.087301+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -126,7 +132,7 @@
         ]
       }
     ],
-    "last_modified": "Wed, 02 Sep 2026 22:34:09 GMT",
-    "checked_at": "2026-09-02T22:35:51.969247+00:00"
+    "last_modified": "Wed, 02 Sep 2026 22:39:21 GMT",
+    "checked_at": "2026-09-02T22:40:17.235056+00:00"
   }
 }
