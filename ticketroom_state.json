@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "9d0d61dca19af0444f1cf23b13c17ce1638eb11b64e3b379fdb64572d6e7d42c",
+    "hash": "2291514dd2ad4ef76c176d8061c4546f98a4cfe54b3ead69e25b82a48e37fcfd",
     "confirmed": [
       {
         "name": "Following Sea",
@@ -73,10 +73,24 @@
           "Pete Crow-Armstrong",
           "Riley Greene"
         ]
+      },
+      {
+        "name": "The Slingshot",
+        "legs": [
+          "Gary S\u00e1nchez",
+          "Heriberto Hern\u00e1ndez",
+          "Kazuma Okamoto"
+        ]
+      },
+      {
+        "name": "Set the Hook",
+        "legs": [
+          "Gary S\u00e1nchez"
+        ]
       }
     ],
-    "last_modified": "Wed, 02 Sep 2026 20:33:22 GMT",
-    "checked_at": "2026-09-02T20:35:19.637222+00:00"
+    "last_modified": "Wed, 02 Sep 2026 21:03:27 GMT",
+    "checked_at": "2026-09-02T21:05:15.605197+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -104,7 +118,7 @@
         ]
       }
     ],
-    "last_modified": "Wed, 02 Sep 2026 20:33:22 GMT",
-    "checked_at": "2026-09-02T20:35:19.841342+00:00"
+    "last_modified": "Wed, 02 Sep 2026 21:03:27 GMT",
+    "checked_at": "2026-09-02T21:05:15.702759+00:00"
   }
 }
