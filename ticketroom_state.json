@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "ff8f44ac257b15a9ab57d1a7dd64b93d196282f56d27494259c50dafca6273aa",
+    "hash": "9d0d61dca19af0444f1cf23b13c17ce1638eb11b64e3b379fdb64572d6e7d42c",
     "confirmed": [
       {
         "name": "Following Sea",
@@ -51,16 +51,32 @@
         ]
       },
       {
+        "name": "Terminal Climb",
+        "legs": [
+          "Munetaka Murakami",
+          "Rafael Devers",
+          "Salvador Perez"
+        ]
+      },
+      {
         "name": "Beyond the Bleachers",
         "legs": [
           "Junior Caminero",
           "Kody Clemens",
           "Pete Crow-Armstrong"
         ]
+      },
+      {
+        "name": "Heat Shield Off",
+        "legs": [
+          "Colson Montgomery",
+          "Pete Crow-Armstrong",
+          "Riley Greene"
+        ]
       }
     ],
-    "last_modified": "Wed, 02 Sep 2026 20:18:06 GMT",
-    "checked_at": "2026-09-02T20:20:18.124886+00:00"
+    "last_modified": "Wed, 02 Sep 2026 20:33:22 GMT",
+    "checked_at": "2026-09-02T20:35:19.637222+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -88,7 +104,7 @@
         ]
       }
     ],
-    "last_modified": "Wed, 02 Sep 2026 20:18:06 GMT",
-    "checked_at": "2026-09-02T20:20:18.347419+00:00"
+    "last_modified": "Wed, 02 Sep 2026 20:33:22 GMT",
+    "checked_at": "2026-09-02T20:35:19.841342+00:00"
   }
 }
