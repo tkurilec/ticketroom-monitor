@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "68b523ed861ffa57e3ba0cd23dfecb54f73f876cb3cd5b6e60adac43029935e9",
+    "hash": "a98d59aaae48e702c2ffae3c746d4c95576f10ca417cfbaf2b0df6100fa1322c",
     "confirmed": [
       {
         "name": "Orbital Insertion",
@@ -51,14 +51,6 @@
         ]
       },
       {
-        "name": "The Apollo",
-        "legs": [
-          "Bobby Witt",
-          "Brandon Lowe",
-          "Colson Montgomery"
-        ]
-      },
-      {
         "name": "Burning the Midnight Oil",
         "legs": [
           "Mike Trout"
@@ -87,10 +79,18 @@
         "legs": [
           "Bobby Witt"
         ]
+      },
+      {
+        "name": "The Apollo",
+        "legs": [
+          "Bobby Witt",
+          "Brandon Lowe",
+          "Colson Montgomery"
+        ]
       }
     ],
-    "last_modified": "Wed, 02 Sep 2026 22:09:09 GMT",
-    "checked_at": "2026-09-02T22:10:16.876188+00:00"
+    "last_modified": "Wed, 02 Sep 2026 22:13:55 GMT",
+    "checked_at": "2026-09-02T22:15:17.849481+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -118,7 +118,7 @@
         ]
       }
     ],
-    "last_modified": "Wed, 02 Sep 2026 22:09:10 GMT",
-    "checked_at": "2026-09-02T22:10:17.074090+00:00"
+    "last_modified": "Wed, 02 Sep 2026 22:13:55 GMT",
+    "checked_at": "2026-09-02T22:15:18.099346+00:00"
   }
 }
