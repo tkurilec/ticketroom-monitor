@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "f8966cab537c338cd593a384f88cd2beeae634d91432b2b5db2424958e1d9ab3",
+    "hash": "ff8f44ac257b15a9ab57d1a7dd64b93d196282f56d27494259c50dafca6273aa",
     "confirmed": [
       {
         "name": "Following Sea",
@@ -43,10 +43,24 @@
           "Juan Soto",
           "Rafael Devers"
         ]
+      },
+      {
+        "name": "The Capstan",
+        "legs": [
+          "Pete Crow-Armstrong"
+        ]
+      },
+      {
+        "name": "Beyond the Bleachers",
+        "legs": [
+          "Junior Caminero",
+          "Kody Clemens",
+          "Pete Crow-Armstrong"
+        ]
       }
     ],
-    "last_modified": "Wed, 02 Sep 2026 20:03:24 GMT",
-    "checked_at": "2026-09-02T20:05:19.065136+00:00"
+    "last_modified": "Wed, 02 Sep 2026 20:18:06 GMT",
+    "checked_at": "2026-09-02T20:20:18.124886+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -74,7 +88,7 @@
         ]
       }
     ],
-    "last_modified": "Wed, 02 Sep 2026 20:03:24 GMT",
-    "checked_at": "2026-09-02T20:05:19.241558+00:00"
+    "last_modified": "Wed, 02 Sep 2026 20:18:06 GMT",
+    "checked_at": "2026-09-02T20:20:18.347419+00:00"
   }
 }
