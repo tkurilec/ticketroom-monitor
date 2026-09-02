@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "70cc9d5aae9eecfbef97f5ff63c285c8000d421709f2e21db6ea77b2f76e2cd1",
+    "hash": "ab6b47ca43299ac7a862f6e291ce93a2aae82875c0d3431d577419499c6b4e17",
     "confirmed": [
       {
         "name": "Following Sea",
@@ -29,10 +29,16 @@
         "legs": [
           "Kyle Schwarber"
         ]
+      },
+      {
+        "name": "Riding the Tide",
+        "legs": [
+          "Rafael Devers"
+        ]
       }
     ],
-    "last_modified": "Wed, 02 Sep 2026 17:07:07 GMT",
-    "checked_at": "2026-09-02T17:10:19.111060+00:00"
+    "last_modified": "Wed, 02 Sep 2026 19:58:07 GMT",
+    "checked_at": "2026-09-02T20:00:24.580456+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -60,7 +66,7 @@
         ]
       }
     ],
-    "last_modified": "Wed, 02 Sep 2026 17:07:07 GMT",
-    "checked_at": "2026-09-02T17:10:19.377518+00:00"
+    "last_modified": "Wed, 02 Sep 2026 19:58:07 GMT",
+    "checked_at": "2026-09-02T20:00:24.783877+00:00"
   }
 }
