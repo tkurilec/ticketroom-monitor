@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "6ae6adb743c65acf1df82b751f3727001487fb5bac3ae87ea7a79290f2f6e45d",
+    "hash": "a6800ae38311903706e6d43cc20fb88b185713bf7304f525e51052a5b0e7d70c",
     "confirmed": [
       {
         "name": "The Slingshot",
@@ -95,10 +95,16 @@
           "Kyle Stowers",
           "Seiya Suzuki"
         ]
+      },
+      {
+        "name": "Nightfall",
+        "legs": [
+          "Joshua B\u00e1ez"
+        ]
       }
     ],
-    "last_modified": "Thu, 03 Sep 2026 21:12:54 GMT",
-    "checked_at": "2026-09-03T21:15:16.445384+00:00"
+    "last_modified": "Thu, 03 Sep 2026 22:23:16 GMT",
+    "checked_at": "2026-09-03T22:25:15.630587+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "89a97bfe939f082ecf609e01232a2b1e1cb84e8777ccd8369881e956e2720696",
@@ -122,7 +128,7 @@
         ]
       }
     ],
-    "last_modified": "Thu, 03 Sep 2026 21:12:54 GMT",
-    "checked_at": "2026-09-03T21:15:16.562488+00:00"
+    "last_modified": "Thu, 03 Sep 2026 22:23:16 GMT",
+    "checked_at": "2026-09-03T22:25:15.866474+00:00"
   }
 }
