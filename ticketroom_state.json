@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "688dbe4377e6ac891763d2ba7428bbdc935b0f9414c32622817b1b3ac7d299b6",
+    "hash": "3c0f012957d90454df6ff914e6a0c4f9473aaea1044ccc66d7f0e48c38bb1a43",
     "confirmed": [
       {
         "name": "The Slingshot",
@@ -51,6 +51,14 @@
         ]
       },
       {
+        "name": "Into the Upper Air",
+        "legs": [
+          "Jac Caglianone",
+          "Jackson Chourio",
+          "Wilyer Abreu"
+        ]
+      },
+      {
         "name": "Terminal Climb",
         "legs": [
           "Bobby Witt",
@@ -59,8 +67,8 @@
         ]
       }
     ],
-    "last_modified": "Thu, 03 Sep 2026 20:02:38 GMT",
-    "checked_at": "2026-09-03T20:05:15.787240+00:00"
+    "last_modified": "Thu, 03 Sep 2026 20:17:11 GMT",
+    "checked_at": "2026-09-03T20:20:15.763743+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "89a97bfe939f082ecf609e01232a2b1e1cb84e8777ccd8369881e956e2720696",
@@ -84,7 +92,7 @@
         ]
       }
     ],
-    "last_modified": "Thu, 03 Sep 2026 20:02:38 GMT",
-    "checked_at": "2026-09-03T20:05:15.867156+00:00"
+    "last_modified": "Thu, 03 Sep 2026 20:17:11 GMT",
+    "checked_at": "2026-09-03T20:20:15.898173+00:00"
   }
 }
