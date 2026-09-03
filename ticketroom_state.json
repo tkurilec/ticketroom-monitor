@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "b005cb427c42fc3825eb090fca431ddaca4bda8405746893fd59292491fee2e8",
+    "hash": "6ae6adb743c65acf1df82b751f3727001487fb5bac3ae87ea7a79290f2f6e45d",
     "confirmed": [
       {
         "name": "The Slingshot",
@@ -87,10 +87,18 @@
         "legs": [
           "Kyle Stowers"
         ]
+      },
+      {
+        "name": "Going Supersonic",
+        "legs": [
+          "Junior Caminero",
+          "Kyle Stowers",
+          "Seiya Suzuki"
+        ]
       }
     ],
-    "last_modified": "Thu, 03 Sep 2026 20:47:44 GMT",
-    "checked_at": "2026-09-03T20:50:18.666938+00:00"
+    "last_modified": "Thu, 03 Sep 2026 21:12:54 GMT",
+    "checked_at": "2026-09-03T21:15:16.445384+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "89a97bfe939f082ecf609e01232a2b1e1cb84e8777ccd8369881e956e2720696",
@@ -114,7 +122,7 @@
         ]
       }
     ],
-    "last_modified": "Thu, 03 Sep 2026 20:47:44 GMT",
-    "checked_at": "2026-09-03T20:50:18.782166+00:00"
+    "last_modified": "Thu, 03 Sep 2026 21:12:54 GMT",
+    "checked_at": "2026-09-03T21:15:16.562488+00:00"
   }
 }
