@@ -31,36 +31,13 @@
         ]
       }
     ],
-    "last_modified": "Thu, 03 Sep 2026 16:37:34 GMT",
-    "checked_at": "2026-09-03T16:40:16.221976+00:00"
+    "last_modified": "Thu, 03 Sep 2026 16:57:30 GMT",
+    "checked_at": "2026-09-03T17:00:27.465243+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
-    "confirmed": [
-      {
-        "name": "Top Corner",
-        "legs": [
-          "Gianluca Scamacca",
-          "Kai Havertz",
-          "Raphinha"
-        ]
-      },
-      {
-        "name": "From Distance",
-        "legs": [
-          "Giacomo Raspadori",
-          "Nicolas Jackson",
-          "Raphinha"
-        ]
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Raphinha"
-        ]
-      }
-    ],
-    "last_modified": "Thu, 03 Sep 2026 16:37:34 GMT",
-    "checked_at": "2026-09-03T16:40:16.424455+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Thu, 03 Sep 2026 16:57:30 GMT",
+    "checked_at": "2026-09-03T17:00:29.490745+00:00"
   }
 }
