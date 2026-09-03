@@ -1,110 +1,38 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "44f8f8b1145881586639c42b1b55cc02950b384e782bca2ca6eab3c4874ff59d",
+    "hash": "bc46504d01fd7093efcf682c1cf8c4381b340e04b0112e8b41083514fd93971d",
     "confirmed": [
-      {
-        "name": "Orbital Insertion",
-        "legs": [
-          "Fernando Tatis",
-          "Matt Olson",
-          "Wyatt Langford"
-        ]
-      },
-      {
-        "name": "Star Sailor",
-        "legs": [
-          "JJ Bleday",
-          "Jake Burger",
-          "Matt Olson"
-        ]
-      },
-      {
-        "name": "Going Supersonic",
-        "legs": [
-          "Jac Caglianone",
-          "Kody Clemens",
-          "Munetaka Murakami"
-        ]
-      },
       {
         "name": "The Slingshot",
         "legs": [
-          "Bryce Eldridge",
-          "Junior Caminero",
-          "Munetaka Murakami"
+          "Jes\u00fas S\u00e1nchez",
+          "Munetaka Murakami",
+          "Rafael Devers"
         ]
       },
       {
         "name": "Heat Shield Off",
         "legs": [
-          "Gary S\u00e1nchez",
-          "Kazuma Okamoto",
-          "Yordan Alvarez"
-        ]
-      },
-      {
-        "name": "Beyond the Bleachers",
-        "legs": [
-          "Riley Greene",
-          "Salvador Perez",
-          "Yordan Alvarez"
-        ]
-      },
-      {
-        "name": "Into the Upper Air",
-        "legs": [
-          "Bobby Witt",
           "Colson Montgomery",
-          "Pete Crow-Armstrong"
+          "Rafael Devers",
+          "Sean Keys"
         ]
       },
       {
-        "name": "The Apollo",
+        "name": "The Matinee",
         "legs": [
-          "Carter Jensen",
-          "Pete Crow-Armstrong",
-          "Rafael Devers"
-        ]
-      },
-      {
-        "name": "Burning the Midnight Oil",
-        "legs": [
-          "Paul Goldschmidt"
-        ]
-      },
-      {
-        "name": "Half-Day Hammer",
-        "legs": [
-          "Kyle Schwarber"
-        ]
-      },
-      {
-        "name": "Following Sea",
-        "legs": [
-          "Matt Olson"
-        ]
-      },
-      {
-        "name": "Set the Hook",
-        "legs": [
-          "Munetaka Murakami"
+          "Oneil Cruz"
         ]
       },
       {
         "name": "The Capstan",
         "legs": [
-          "Yordan Alvarez"
-        ]
-      },
-      {
-        "name": "Anchors Aweigh",
-        "legs": [
-          "Pete Crow-Armstrong"
+          "Rafael Devers"
         ]
       }
     ],
-    "last_modified": "Wed, 02 Sep 2026 22:39:21 GMT",
-    "checked_at": "2026-09-02T22:40:17.087301+00:00"
+    "last_modified": "Thu, 03 Sep 2026 16:37:34 GMT",
+    "checked_at": "2026-09-03T16:40:16.221976+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b2b9f4036ae8e294c50c740ae6c006b4818912994b149a6b9c12b112d7124",
@@ -132,7 +60,7 @@
         ]
       }
     ],
-    "last_modified": "Wed, 02 Sep 2026 22:39:21 GMT",
-    "checked_at": "2026-09-02T22:40:17.235056+00:00"
+    "last_modified": "Thu, 03 Sep 2026 16:37:34 GMT",
+    "checked_at": "2026-09-03T16:40:16.424455+00:00"
   }
 }
