@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "3c0f012957d90454df6ff914e6a0c4f9473aaea1044ccc66d7f0e48c38bb1a43",
+    "hash": "b005cb427c42fc3825eb090fca431ddaca4bda8405746893fd59292491fee2e8",
     "confirmed": [
       {
         "name": "The Slingshot",
@@ -65,10 +65,32 @@
           "Coby Mayo",
           "Corey Seager"
         ]
+      },
+      {
+        "name": "The Apollo",
+        "legs": [
+          "Coby Mayo",
+          "Heriberto Hern\u00e1ndez",
+          "Ian Happ"
+        ]
+      },
+      {
+        "name": "Star Sailor",
+        "legs": [
+          "Jake Bauers",
+          "Kyle Stowers",
+          "Roman Anthony"
+        ]
+      },
+      {
+        "name": "Set the Hook",
+        "legs": [
+          "Kyle Stowers"
+        ]
       }
     ],
-    "last_modified": "Thu, 03 Sep 2026 20:17:11 GMT",
-    "checked_at": "2026-09-03T20:20:15.763743+00:00"
+    "last_modified": "Thu, 03 Sep 2026 20:47:44 GMT",
+    "checked_at": "2026-09-03T20:50:18.666938+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "89a97bfe939f082ecf609e01232a2b1e1cb84e8777ccd8369881e956e2720696",
@@ -92,7 +114,7 @@
         ]
       }
     ],
-    "last_modified": "Thu, 03 Sep 2026 20:17:11 GMT",
-    "checked_at": "2026-09-03T20:20:15.898173+00:00"
+    "last_modified": "Thu, 03 Sep 2026 20:47:44 GMT",
+    "checked_at": "2026-09-03T20:50:18.782166+00:00"
   }
 }
