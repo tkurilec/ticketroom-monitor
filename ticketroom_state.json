@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "bc46504d01fd7093efcf682c1cf8c4381b340e04b0112e8b41083514fd93971d",
+    "hash": "5e3a4dec064aa8b4c0f0a8f439b4ea81d19c0a2ff9c57fd5f86c78204863e44f",
     "confirmed": [
       {
         "name": "The Slingshot",
@@ -29,10 +29,16 @@
         "legs": [
           "Rafael Devers"
         ]
+      },
+      {
+        "name": "Anchors Aweigh",
+        "legs": [
+          "Wilyer Abreu"
+        ]
       }
     ],
-    "last_modified": "Thu, 03 Sep 2026 18:12:40 GMT",
-    "checked_at": "2026-09-03T18:15:29.615076+00:00"
+    "last_modified": "Thu, 03 Sep 2026 19:47:02 GMT",
+    "checked_at": "2026-09-03T19:50:22.181742+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "89a97bfe939f082ecf609e01232a2b1e1cb84e8777ccd8369881e956e2720696",
@@ -56,7 +62,7 @@
         ]
       }
     ],
-    "last_modified": "Thu, 03 Sep 2026 18:12:40 GMT",
-    "checked_at": "2026-09-03T18:15:30.262425+00:00"
+    "last_modified": "Thu, 03 Sep 2026 19:47:02 GMT",
+    "checked_at": "2026-09-03T19:50:22.375844+00:00"
   }
 }
