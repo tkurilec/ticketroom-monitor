@@ -9,11 +9,11 @@
         ]
       }
     ],
-    "last_modified": "Fri, 04 Sep 2026 18:12:54 GMT",
-    "checked_at": "2026-09-04T18:15:17.022157+00:00"
+    "last_modified": "Fri, 04 Sep 2026 18:27:59 GMT",
+    "checked_at": "2026-09-04T18:30:20.819762+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "d9513e51697fe87615ad2758e3f1c91b822782e845a1f47e0e1cbce8a6e0716e",
+    "hash": "d2d0e8a2994c0aa3245f06e62483bd0bb1286cf069dd91227ccc02b4ef0c4646",
     "confirmed": [
       {
         "name": "Early Doors",
@@ -28,13 +28,81 @@
         ]
       },
       {
+        "name": "Top Corner",
+        "legs": [
+          "Alexander Isak",
+          "Anastasios Douvikas",
+          "Deniz Undav"
+        ]
+      },
+      {
+        "name": "From Distance",
+        "legs": [
+          "Deniz Undav",
+          "Jose Vinicius Junior",
+          "Victor Munoz"
+        ]
+      },
+      {
         "name": "The Nine",
         "legs": [
           "Kylian Mbappe"
         ]
+      },
+      {
+        "name": "Postage Stamp",
+        "legs": [
+          "Desire Doue",
+          "Dzenan Pejcinovic",
+          "Kylian Mbappe"
+        ]
+      },
+      {
+        "name": "Curled Home",
+        "legs": [
+          "Kylian Mbappe",
+          "Maghnes Akliouche",
+          "Ragnar Ache"
+        ]
+      },
+      {
+        "name": "Half Volley",
+        "legs": [
+          "Chris Fuhrich",
+          "Cody Gakpo",
+          "Khvicha Kvaratskhelia"
+        ]
+      },
+      {
+        "name": "Thirty Yards",
+        "legs": [
+          "Florian Wirtz",
+          "Khvicha Kvaratskhelia",
+          "Nicolas Paz"
+        ]
+      },
+      {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Khvicha Kvaratskhelia"
+        ]
+      },
+      {
+        "name": "Off the Underside",
+        "legs": [
+          "Dominik Szoboszlai",
+          "Jude Bellingham",
+          "Milutin Osmajic"
+        ]
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Jude Bellingham"
+        ]
       }
     ],
-    "last_modified": "Fri, 04 Sep 2026 18:12:54 GMT",
-    "checked_at": "2026-09-04T18:15:17.510065+00:00"
+    "last_modified": "Fri, 04 Sep 2026 18:27:59 GMT",
+    "checked_at": "2026-09-04T18:30:22.580584+00:00"
   }
 }
