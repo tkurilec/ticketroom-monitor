@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "eded6e236a631109ea3918221a7fc4de7ea6b444fdd13fb3b4c627c3cbe48d27",
+    "hash": "3edacaed82c5795f00f7415fd7538f2bd2602ab445bd7f39623745fd549ddeb3",
     "confirmed": [
       {
         "name": "Going Supersonic",
@@ -95,10 +95,16 @@
           "Kazuma Okamoto",
           "Yordan Alvarez"
         ]
+      },
+      {
+        "name": "Nightfall",
+        "legs": [
+          "Ben Rice"
+        ]
       }
     ],
-    "last_modified": "Fri, 04 Sep 2026 22:17:28 GMT",
-    "checked_at": "2026-09-04T22:20:15.592935+00:00"
+    "last_modified": "Fri, 04 Sep 2026 22:37:51 GMT",
+    "checked_at": "2026-09-04T22:40:23.555474+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "d2d0e8a2994c0aa3245f06e62483bd0bb1286cf069dd91227ccc02b4ef0c4646",
@@ -190,7 +196,7 @@
         ]
       }
     ],
-    "last_modified": "Fri, 04 Sep 2026 22:17:28 GMT",
-    "checked_at": "2026-09-04T22:20:15.703195+00:00"
+    "last_modified": "Fri, 04 Sep 2026 22:37:51 GMT",
+    "checked_at": "2026-09-04T22:40:25.671558+00:00"
   }
 }
