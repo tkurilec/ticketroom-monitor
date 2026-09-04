@@ -103,32 +103,13 @@
         ]
       }
     ],
-    "last_modified": "Thu, 03 Sep 2026 22:23:16 GMT",
-    "checked_at": "2026-09-03T22:25:15.630587+00:00"
+    "last_modified": "Fri, 04 Sep 2026 03:21:56 GMT",
+    "checked_at": "2026-09-04T03:25:16.477421+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "89a97bfe939f082ecf609e01232a2b1e1cb84e8777ccd8369881e956e2720696",
-    "confirmed": [
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Olivier Giroud"
-        ]
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Orri Steinn Oskarsson"
-        ]
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Mikel Oyarzabal"
-        ]
-      }
-    ],
-    "last_modified": "Thu, 03 Sep 2026 22:23:16 GMT",
-    "checked_at": "2026-09-03T22:25:15.866474+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Fri, 04 Sep 2026 03:21:56 GMT",
+    "checked_at": "2026-09-04T03:25:17.381705+00:00"
   }
 }
