@@ -9,13 +9,20 @@
         ]
       }
     ],
-    "last_modified": "Fri, 04 Sep 2026 15:08:18 GMT",
-    "checked_at": "2026-09-04T15:10:18.053295+00:00"
+    "last_modified": "Fri, 04 Sep 2026 16:17:50 GMT",
+    "checked_at": "2026-09-04T16:20:16.316370+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Fri, 04 Sep 2026 15:08:18 GMT",
-    "checked_at": "2026-09-04T15:10:18.206476+00:00"
+    "hash": "6ce7bc39ee5a1a2086731ee6a0a9cff27b25358e34833b5a055e94f1b9468d7c",
+    "confirmed": [
+      {
+        "name": "Early Doors",
+        "legs": [
+          "Pavel Sulc"
+        ]
+      }
+    ],
+    "last_modified": "Fri, 04 Sep 2026 16:17:50 GMT",
+    "checked_at": "2026-09-04T16:20:17.051321+00:00"
   }
 }
