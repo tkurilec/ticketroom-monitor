@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "7e9b7d77db6f731872729f0799a759e87df78fa03f2f226a31eb2ae81a4f7b88",
+    "hash": "eded6e236a631109ea3918221a7fc4de7ea6b444fdd13fb3b4c627c3cbe48d27",
     "confirmed": [
       {
         "name": "Going Supersonic",
@@ -57,6 +57,14 @@
         ]
       },
       {
+        "name": "Heat Shield Off",
+        "legs": [
+          "Cal Raleigh",
+          "Hunter Goodman",
+          "Jac Caglianone"
+        ]
+      },
+      {
         "name": "The Apollo",
         "legs": [
           "Carter Jensen",
@@ -89,8 +97,8 @@
         ]
       }
     ],
-    "last_modified": "Fri, 04 Sep 2026 21:52:11 GMT",
-    "checked_at": "2026-09-04T21:55:14.371597+00:00"
+    "last_modified": "Fri, 04 Sep 2026 22:17:28 GMT",
+    "checked_at": "2026-09-04T22:20:15.592935+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "d2d0e8a2994c0aa3245f06e62483bd0bb1286cf069dd91227ccc02b4ef0c4646",
@@ -182,7 +190,7 @@
         ]
       }
     ],
-    "last_modified": "Fri, 04 Sep 2026 21:52:11 GMT",
-    "checked_at": "2026-09-04T21:55:14.713944+00:00"
+    "last_modified": "Fri, 04 Sep 2026 22:17:28 GMT",
+    "checked_at": "2026-09-04T22:20:15.703195+00:00"
   }
 }
