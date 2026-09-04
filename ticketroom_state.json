@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "4dacd3b36b0d67e4b5288b58abde3d9a601ce99a53cfdb3f103f5727db3374e7",
+    "hash": "7e9b7d77db6f731872729f0799a759e87df78fa03f2f226a31eb2ae81a4f7b88",
     "confirmed": [
       {
         "name": "Going Supersonic",
@@ -79,10 +79,18 @@
           "Kody Clemens",
           "Yordan Alvarez"
         ]
+      },
+      {
+        "name": "Terminal Climb",
+        "legs": [
+          "Alec Burleson",
+          "Kazuma Okamoto",
+          "Yordan Alvarez"
+        ]
       }
     ],
-    "last_modified": "Fri, 04 Sep 2026 21:36:58 GMT",
-    "checked_at": "2026-09-04T21:40:18.244431+00:00"
+    "last_modified": "Fri, 04 Sep 2026 21:52:11 GMT",
+    "checked_at": "2026-09-04T21:55:14.371597+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "d2d0e8a2994c0aa3245f06e62483bd0bb1286cf069dd91227ccc02b4ef0c4646",
@@ -174,7 +182,7 @@
         ]
       }
     ],
-    "last_modified": "Fri, 04 Sep 2026 21:36:58 GMT",
-    "checked_at": "2026-09-04T21:40:18.661558+00:00"
+    "last_modified": "Fri, 04 Sep 2026 21:52:11 GMT",
+    "checked_at": "2026-09-04T21:55:14.713944+00:00"
   }
 }
