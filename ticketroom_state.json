@@ -15,11 +15,11 @@
         ]
       }
     ],
-    "last_modified": "Fri, 04 Sep 2026 18:43:52 GMT",
-    "checked_at": "2026-09-04T18:45:18.026261+00:00"
+    "last_modified": "Fri, 04 Sep 2026 19:07:33 GMT",
+    "checked_at": "2026-09-04T19:10:17.549833+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "d2d0e8a2994c0aa3245f06e62483bd0bb1286cf069dd91227ccc02b4ef0c4646",
+    "hash": "9ab4d06bcdf05e25cf5e4995ee07644ac35b639611bd413b4962b1c099e4c778",
     "confirmed": [
       {
         "name": "Early Doors",
@@ -106,9 +106,17 @@
         "legs": [
           "Jude Bellingham"
         ]
+      },
+      {
+        "name": "Upper Ninety",
+        "legs": [
+          "Bilal El Khannouss",
+          "Emersonn Silva",
+          "Jude Bellingham"
+        ]
       }
     ],
-    "last_modified": "Fri, 04 Sep 2026 18:43:52 GMT",
-    "checked_at": "2026-09-04T18:45:18.188197+00:00"
+    "last_modified": "Fri, 04 Sep 2026 19:07:33 GMT",
+    "checked_at": "2026-09-04T19:10:20.471871+00:00"
   }
 }
