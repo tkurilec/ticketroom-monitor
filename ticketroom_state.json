@@ -1,14 +1,21 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Fri, 04 Sep 2026 14:07:38 GMT",
-    "checked_at": "2026-09-04T14:10:16.491747+00:00"
+    "hash": "6d1f7c4eb3d345bb34d72292aba91fafddf5e440125f3c121ca687aac1f8ec2b",
+    "confirmed": [
+      {
+        "name": "The Early Bird",
+        "legs": [
+          "Jo Adell"
+        ]
+      }
+    ],
+    "last_modified": "Fri, 04 Sep 2026 15:08:18 GMT",
+    "checked_at": "2026-09-04T15:10:18.053295+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 04 Sep 2026 14:07:38 GMT",
-    "checked_at": "2026-09-04T14:10:16.655836+00:00"
+    "last_modified": "Fri, 04 Sep 2026 15:08:18 GMT",
+    "checked_at": "2026-09-04T15:10:18.206476+00:00"
   }
 }
