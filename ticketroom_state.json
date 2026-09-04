@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "2e2cf9141082f174f8da246f322322ef13dcd0e8fadd911e28f08c0540904cbe",
+    "hash": "3abe23a287a2491bf79a8fd151084fa615726b32600406bbd4574a85bc9bdd04",
     "confirmed": [
       {
         "name": "The Early Bird",
@@ -41,10 +41,18 @@
           "Joc Pederson",
           "Rafael Devers"
         ]
+      },
+      {
+        "name": "Heat Shield Off",
+        "legs": [
+          "Munetaka Murakami",
+          "Pete Crow-Armstrong",
+          "Sal Stewart"
+        ]
       }
     ],
-    "last_modified": "Fri, 04 Sep 2026 20:07:43 GMT",
-    "checked_at": "2026-09-04T20:10:20.771300+00:00"
+    "last_modified": "Fri, 04 Sep 2026 20:22:59 GMT",
+    "checked_at": "2026-09-04T20:25:18.966487+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "9ab4d06bcdf05e25cf5e4995ee07644ac35b639611bd413b4962b1c099e4c778",
@@ -144,7 +152,7 @@
         ]
       }
     ],
-    "last_modified": "Fri, 04 Sep 2026 20:07:43 GMT",
-    "checked_at": "2026-09-04T20:10:20.968888+00:00"
+    "last_modified": "Fri, 04 Sep 2026 20:22:59 GMT",
+    "checked_at": "2026-09-04T20:25:19.069947+00:00"
   }
 }
