@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "1ee247586a28890575ee32bc6f48772e819ed7286e08ced8a32c2e31d3b2df49",
+    "hash": "8eaeaddb0857c7020655a5ac956936f4ee95b7993b8ce9891172b7efbfbe7c01",
     "confirmed": [
       {
         "name": "Going Supersonic",
@@ -24,14 +24,6 @@
           "Hunter Goodman",
           "Miguel Vargas",
           "Pete Crow-Armstrong"
-        ]
-      },
-      {
-        "name": "The Apollo",
-        "legs": [
-          "Carter Jensen",
-          "Colson Montgomery",
-          "Jake Bauers"
         ]
       },
       {
@@ -65,6 +57,14 @@
         ]
       },
       {
+        "name": "The Apollo",
+        "legs": [
+          "Carter Jensen",
+          "Colson Montgomery",
+          "Jake Bauers"
+        ]
+      },
+      {
         "name": "Past Low Earth Orbit",
         "legs": [
           "Coby Mayo",
@@ -73,11 +73,11 @@
         ]
       }
     ],
-    "last_modified": "Fri, 04 Sep 2026 20:51:37 GMT",
-    "checked_at": "2026-09-04T20:54:47.749019+00:00"
+    "last_modified": "Fri, 04 Sep 2026 21:04:25 GMT",
+    "checked_at": "2026-09-04T21:05:15.759304+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "9ab4d06bcdf05e25cf5e4995ee07644ac35b639611bd413b4962b1c099e4c778",
+    "hash": "d2d0e8a2994c0aa3245f06e62483bd0bb1286cf069dd91227ccc02b4ef0c4646",
     "confirmed": [
       {
         "name": "Early Doors",
@@ -164,17 +164,9 @@
         "legs": [
           "Jude Bellingham"
         ]
-      },
-      {
-        "name": "Upper Ninety",
-        "legs": [
-          "Bilal El Khannouss",
-          "Emersonn Silva",
-          "Jude Bellingham"
-        ]
       }
     ],
-    "last_modified": "Fri, 04 Sep 2026 20:51:37 GMT",
-    "checked_at": "2026-09-04T20:54:47.864032+00:00"
+    "last_modified": "Fri, 04 Sep 2026 21:04:25 GMT",
+    "checked_at": "2026-09-04T21:05:16.624982+00:00"
   }
 }
