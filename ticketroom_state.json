@@ -1,115 +1,14 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "a6800ae38311903706e6d43cc20fb88b185713bf7304f525e51052a5b0e7d70c",
-    "confirmed": [
-      {
-        "name": "The Slingshot",
-        "legs": [
-          "Jes\u00fas S\u00e1nchez",
-          "Munetaka Murakami",
-          "Rafael Devers"
-        ]
-      },
-      {
-        "name": "Heat Shield Off",
-        "legs": [
-          "Colson Montgomery",
-          "Rafael Devers",
-          "Sean Keys"
-        ]
-      },
-      {
-        "name": "The Matinee",
-        "legs": [
-          "Oneil Cruz"
-        ]
-      },
-      {
-        "name": "The Capstan",
-        "legs": [
-          "Rafael Devers"
-        ]
-      },
-      {
-        "name": "Anchors Aweigh",
-        "legs": [
-          "Wilyer Abreu"
-        ]
-      },
-      {
-        "name": "Beyond the Bleachers",
-        "legs": [
-          "Carter Jensen",
-          "Jake Burger",
-          "Wilyer Abreu"
-        ]
-      },
-      {
-        "name": "Riding the Tide",
-        "legs": [
-          "Coby Mayo"
-        ]
-      },
-      {
-        "name": "Into the Upper Air",
-        "legs": [
-          "Jac Caglianone",
-          "Jackson Chourio",
-          "Wilyer Abreu"
-        ]
-      },
-      {
-        "name": "Terminal Climb",
-        "legs": [
-          "Bobby Witt",
-          "Coby Mayo",
-          "Corey Seager"
-        ]
-      },
-      {
-        "name": "The Apollo",
-        "legs": [
-          "Coby Mayo",
-          "Heriberto Hern\u00e1ndez",
-          "Ian Happ"
-        ]
-      },
-      {
-        "name": "Star Sailor",
-        "legs": [
-          "Jake Bauers",
-          "Kyle Stowers",
-          "Roman Anthony"
-        ]
-      },
-      {
-        "name": "Set the Hook",
-        "legs": [
-          "Kyle Stowers"
-        ]
-      },
-      {
-        "name": "Going Supersonic",
-        "legs": [
-          "Junior Caminero",
-          "Kyle Stowers",
-          "Seiya Suzuki"
-        ]
-      },
-      {
-        "name": "Nightfall",
-        "legs": [
-          "Joshua B\u00e1ez"
-        ]
-      }
-    ],
-    "last_modified": "Fri, 04 Sep 2026 03:21:56 GMT",
-    "checked_at": "2026-09-04T03:25:16.477421+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Fri, 04 Sep 2026 14:07:38 GMT",
+    "checked_at": "2026-09-04T14:10:16.491747+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 04 Sep 2026 03:21:56 GMT",
-    "checked_at": "2026-09-04T03:25:17.381705+00:00"
+    "last_modified": "Fri, 04 Sep 2026 14:07:38 GMT",
+    "checked_at": "2026-09-04T14:10:16.655836+00:00"
   }
 }
