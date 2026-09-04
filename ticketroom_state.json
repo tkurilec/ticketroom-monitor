@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "8aed81ef51fbe5e488b934c50714ae7183eb96b7c2bb180850174b4b204bd6de",
+    "hash": "ca3e0b186e4ba048af0f09ef381a36c4af326d053eaf3788fcb88be3398f1824",
     "confirmed": [
       {
         "name": "The Early Bird",
@@ -13,10 +13,30 @@
         "legs": [
           "Hunter Goodman"
         ]
+      },
+      {
+        "name": "The Slingshot",
+        "legs": [
+          "Colson Montgomery",
+          "Jac Caglianone",
+          "Mickey Moniak"
+        ]
+      },
+      {
+        "name": "The Capstan",
+        "legs": [
+          "Colson Montgomery"
+        ]
+      },
+      {
+        "name": "Anchors Aweigh",
+        "legs": [
+          "Munetaka Murakami"
+        ]
       }
     ],
-    "last_modified": "Fri, 04 Sep 2026 19:07:33 GMT",
-    "checked_at": "2026-09-04T19:10:17.549833+00:00"
+    "last_modified": "Fri, 04 Sep 2026 20:02:07 GMT",
+    "checked_at": "2026-09-04T20:05:14.399390+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "9ab4d06bcdf05e25cf5e4995ee07644ac35b639611bd413b4962b1c099e4c778",
@@ -116,7 +136,7 @@
         ]
       }
     ],
-    "last_modified": "Fri, 04 Sep 2026 19:07:33 GMT",
-    "checked_at": "2026-09-04T19:10:20.471871+00:00"
+    "last_modified": "Fri, 04 Sep 2026 20:02:07 GMT",
+    "checked_at": "2026-09-04T20:05:14.850373+00:00"
   }
 }
