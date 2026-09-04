@@ -1,16 +1,22 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "6d1f7c4eb3d345bb34d72292aba91fafddf5e440125f3c121ca687aac1f8ec2b",
+    "hash": "8aed81ef51fbe5e488b934c50714ae7183eb96b7c2bb180850174b4b204bd6de",
     "confirmed": [
       {
         "name": "The Early Bird",
         "legs": [
           "Jo Adell"
         ]
+      },
+      {
+        "name": "High Water",
+        "legs": [
+          "Hunter Goodman"
+        ]
       }
     ],
-    "last_modified": "Fri, 04 Sep 2026 18:27:59 GMT",
-    "checked_at": "2026-09-04T18:30:20.819762+00:00"
+    "last_modified": "Fri, 04 Sep 2026 18:43:52 GMT",
+    "checked_at": "2026-09-04T18:45:18.026261+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "d2d0e8a2994c0aa3245f06e62483bd0bb1286cf069dd91227ccc02b4ef0c4646",
@@ -102,7 +108,7 @@
         ]
       }
     ],
-    "last_modified": "Fri, 04 Sep 2026 18:27:59 GMT",
-    "checked_at": "2026-09-04T18:30:22.580584+00:00"
+    "last_modified": "Fri, 04 Sep 2026 18:43:52 GMT",
+    "checked_at": "2026-09-04T18:45:18.188197+00:00"
   }
 }
