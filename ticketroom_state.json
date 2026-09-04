@@ -9,11 +9,11 @@
         ]
       }
     ],
-    "last_modified": "Fri, 04 Sep 2026 17:42:50 GMT",
-    "checked_at": "2026-09-04T17:45:16.785430+00:00"
+    "last_modified": "Fri, 04 Sep 2026 18:12:54 GMT",
+    "checked_at": "2026-09-04T18:15:17.022157+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "923816cdf521bb4f071241b20bf416203f767a427fb04520d9c9e5d70608c345",
+    "hash": "d9513e51697fe87615ad2758e3f1c91b822782e845a1f47e0e1cbce8a6e0716e",
     "confirmed": [
       {
         "name": "Early Doors",
@@ -26,9 +26,15 @@
         "legs": [
           "Deniz Undav"
         ]
+      },
+      {
+        "name": "The Nine",
+        "legs": [
+          "Kylian Mbappe"
+        ]
       }
     ],
-    "last_modified": "Fri, 04 Sep 2026 17:42:50 GMT",
-    "checked_at": "2026-09-04T17:45:17.792823+00:00"
+    "last_modified": "Fri, 04 Sep 2026 18:12:54 GMT",
+    "checked_at": "2026-09-04T18:15:17.510065+00:00"
   }
 }
