@@ -2,11 +2,11 @@
   "https://theticketroom.live/mlb/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 05 Sep 2026 14:38:06 GMT",
-    "checked_at": "2026-09-05T14:40:15.549055+00:00"
+    "last_modified": "Sat, 05 Sep 2026 15:46:35 GMT",
+    "checked_at": "2026-09-05T15:50:15.258417+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "ff8c4e85fa2d6f14ddda8b4d49f8ebe319ce9ca6f32f4c4612320be25c708c8a",
+    "hash": "22f5ca89a0a12f9257241ab9ee7b1d46edab74c9e1322941e9c03449398ccda5",
     "confirmed": [
       {
         "name": "Upper Ninety",
@@ -51,9 +51,53 @@
         "legs": [
           "Patrik Schick"
         ]
+      },
+      {
+        "name": "Dipping Effort",
+        "legs": [
+          "Jorge De Frutos",
+          "Luis Diaz",
+          "Pio Esposito"
+        ]
+      },
+      {
+        "name": "Curled Home",
+        "legs": [
+          "Luis Diaz",
+          "Oliver McBurnie",
+          "Yassir Zabiri"
+        ]
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Luis Diaz"
+        ]
+      },
+      {
+        "name": "Half Volley",
+        "legs": [
+          "Ismael Saibari",
+          "Lautaro Martinez",
+          "Nicolas Jackson"
+        ]
+      },
+      {
+        "name": "Thirty Yards",
+        "legs": [
+          "Lautaro Martinez",
+          "Lennart Karl",
+          "Sergio Camello"
+        ]
+      },
+      {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Lautaro Martinez"
+        ]
       }
     ],
-    "last_modified": "Sat, 05 Sep 2026 14:38:06 GMT",
-    "checked_at": "2026-09-05T14:40:15.751154+00:00"
+    "last_modified": "Sat, 05 Sep 2026 15:46:35 GMT",
+    "checked_at": "2026-09-05T15:50:16.059238+00:00"
   }
 }
