@@ -103,11 +103,11 @@
         ]
       }
     ],
-    "last_modified": "Sat, 05 Sep 2026 14:06:12 GMT",
-    "checked_at": "2026-09-05T14:10:15.025791+00:00"
+    "last_modified": "Sat, 05 Sep 2026 14:11:17 GMT",
+    "checked_at": "2026-09-05T14:15:14.950480+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "26d1c7e960c42228f6621eaab753d77a739fd12b6dc8a1000d898d267d4509bc",
+    "hash": "ff8c4e85fa2d6f14ddda8b4d49f8ebe319ce9ca6f32f4c4612320be25c708c8a",
     "confirmed": [
       {
         "name": "Upper Ninety",
@@ -123,6 +123,12 @@
           "Charalampos Kostoulas",
           "Erling Haaland",
           "Tim Kleindienst"
+        ]
+      },
+      {
+        "name": "Shoulder of the Last Man",
+        "legs": [
+          "Erling Haaland"
         ]
       },
       {
@@ -142,19 +148,13 @@
         ]
       },
       {
-        "name": "Shoulder of the Last Man",
-        "legs": [
-          "Erling Haaland"
-        ]
-      },
-      {
         "name": "Target Man",
         "legs": [
           "Patrik Schick"
         ]
       }
     ],
-    "last_modified": "Sat, 05 Sep 2026 14:06:12 GMT",
-    "checked_at": "2026-09-05T14:10:15.476214+00:00"
+    "last_modified": "Sat, 05 Sep 2026 14:11:17 GMT",
+    "checked_at": "2026-09-05T14:15:15.599407+00:00"
   }
 }
