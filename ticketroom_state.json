@@ -1,16 +1,36 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "6657b8b0eed3c686d63a277e29088522cc8a35fca16c5f19192868693a2893c3",
+    "hash": "c32e3217583bc30466ee30267c03810de82c02bfca3bb11854b0936d6805c534",
     "confirmed": [
       {
         "name": "Midday Money",
         "legs": [
           "Francisco Lindor"
         ]
+      },
+      {
+        "name": "Past Low Earth Orbit",
+        "legs": [
+          "Juan Soto",
+          "Kyle Schwarber",
+          "Pete Crow-Armstrong"
+        ]
+      },
+      {
+        "name": "Anchors Aweigh",
+        "legs": [
+          "Hunter Goodman"
+        ]
+      },
+      {
+        "name": "Made Fast",
+        "legs": [
+          "Kyle Schwarber"
+        ]
       }
     ],
-    "last_modified": "Sat, 05 Sep 2026 18:05:02 GMT",
-    "checked_at": "2026-09-05T18:05:17.046041+00:00"
+    "last_modified": "Sat, 05 Sep 2026 18:45:30 GMT",
+    "checked_at": "2026-09-05T18:50:14.887941+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "105a751f2833aae103f2a3b16107cfa879b034d1100576fee9b95ac2078ca796",
@@ -110,7 +130,7 @@
         ]
       }
     ],
-    "last_modified": "Sat, 05 Sep 2026 18:05:02 GMT",
-    "checked_at": "2026-09-05T18:05:18.480131+00:00"
+    "last_modified": "Sat, 05 Sep 2026 18:45:30 GMT",
+    "checked_at": "2026-09-05T18:50:15.083050+00:00"
   }
 }
