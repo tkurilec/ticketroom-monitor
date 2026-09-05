@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "3648f57c86de6a85ca40b233d3f471d5cc6fa5b020c64aee59b30aa47af97da0",
+    "hash": "4bbe819a0b46e26852651745342f3f357ebdd8b5d09bde676f7da514803e3393",
     "confirmed": [
       {
         "name": "Midday Money",
@@ -77,10 +77,34 @@
         "legs": [
           "Cal Raleigh"
         ]
+      },
+      {
+        "name": "Into the Upper Air",
+        "legs": [
+          "Alec Burleson",
+          "Esmerlyn Valdez",
+          "Yordan Alvarez"
+        ]
+      },
+      {
+        "name": "The Apollo",
+        "legs": [
+          "Cal Raleigh",
+          "Jordan Walker",
+          "Max Muncy"
+        ]
+      },
+      {
+        "name": "Terminal Climb",
+        "legs": [
+          "Cal Raleigh",
+          "James Wood",
+          "Nolan Gorman"
+        ]
       }
     ],
-    "last_modified": "Sat, 05 Sep 2026 21:56:53 GMT",
-    "checked_at": "2026-09-05T22:00:21.954929+00:00"
+    "last_modified": "Sat, 05 Sep 2026 22:21:58 GMT",
+    "checked_at": "2026-09-05T22:25:15.259982+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "105a751f2833aae103f2a3b16107cfa879b034d1100576fee9b95ac2078ca796",
@@ -180,7 +204,7 @@
         ]
       }
     ],
-    "last_modified": "Sat, 05 Sep 2026 21:56:53 GMT",
-    "checked_at": "2026-09-05T22:00:22.095322+00:00"
+    "last_modified": "Sat, 05 Sep 2026 22:21:58 GMT",
+    "checked_at": "2026-09-05T22:25:15.405148+00:00"
   }
 }
