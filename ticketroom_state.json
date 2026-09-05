@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e40156759b4a0c6e4863229eaf9c5cf40b2255c302ad749a0297629560f06032",
+    "hash": "3648f57c86de6a85ca40b233d3f471d5cc6fa5b020c64aee59b30aa47af97da0",
     "confirmed": [
       {
         "name": "Midday Money",
@@ -65,10 +65,22 @@
           "Matt Olson",
           "Yordan Alvarez"
         ]
+      },
+      {
+        "name": "The Witching Hour",
+        "legs": [
+          "Randy Arozarena"
+        ]
+      },
+      {
+        "name": "High Water",
+        "legs": [
+          "Cal Raleigh"
+        ]
       }
     ],
-    "last_modified": "Sat, 05 Sep 2026 20:36:20 GMT",
-    "checked_at": "2026-09-05T20:40:15.489116+00:00"
+    "last_modified": "Sat, 05 Sep 2026 21:56:53 GMT",
+    "checked_at": "2026-09-05T22:00:21.954929+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "105a751f2833aae103f2a3b16107cfa879b034d1100576fee9b95ac2078ca796",
@@ -168,7 +180,7 @@
         ]
       }
     ],
-    "last_modified": "Sat, 05 Sep 2026 20:36:20 GMT",
-    "checked_at": "2026-09-05T20:40:15.696146+00:00"
+    "last_modified": "Sat, 05 Sep 2026 21:56:53 GMT",
+    "checked_at": "2026-09-05T22:00:22.095322+00:00"
   }
 }
