@@ -103,11 +103,11 @@
         ]
       }
     ],
-    "last_modified": "Sat, 05 Sep 2026 13:46:13 GMT",
-    "checked_at": "2026-09-05T13:50:15.861172+00:00"
+    "last_modified": "Sat, 05 Sep 2026 13:51:19 GMT",
+    "checked_at": "2026-09-05T13:55:14.550452+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "b8b91b8f05e0537b11203d41395f242dfa31b344734a41b06043464a3fc877c8",
+    "hash": "771dee13879c09d9f2b3cf45c51de0029b13e328bf9bda46ddc11f27819c3057",
     "confirmed": [
       {
         "name": "Top Corner",
@@ -126,6 +126,12 @@
         ]
       },
       {
+        "name": "Runs the Channel",
+        "legs": [
+          "Erling Haaland"
+        ]
+      },
+      {
         "name": "Upper Ninety",
         "legs": [
           "Ademola Lookman",
@@ -138,6 +144,12 @@
         "legs": [
           "Adam Hlozek",
           "David Mokwa",
+          "Patrik Schick"
+        ]
+      },
+      {
+        "name": "Shoulder of the Last Man",
+        "legs": [
           "Patrik Schick"
         ]
       },
@@ -158,6 +170,12 @@
         ]
       },
       {
+        "name": "Target Man",
+        "legs": [
+          "Serhou Guirassy"
+        ]
+      },
+      {
         "name": "Dipping Effort",
         "legs": [
           "Gonzalo Garcia",
@@ -174,31 +192,13 @@
         ]
       },
       {
-        "name": "Runs the Channel",
-        "legs": [
-          "Erling Haaland"
-        ]
-      },
-      {
-        "name": "Shoulder of the Last Man",
-        "legs": [
-          "Patrik Schick"
-        ]
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Serhou Guirassy"
-        ]
-      },
-      {
         "name": "The Poacher",
         "legs": [
           "Igor Thiago"
         ]
       }
     ],
-    "last_modified": "Sat, 05 Sep 2026 13:46:13 GMT",
-    "checked_at": "2026-09-05T13:50:17.101483+00:00"
+    "last_modified": "Sat, 05 Sep 2026 13:51:18 GMT",
+    "checked_at": "2026-09-05T13:55:15.095859+00:00"
   }
 }
