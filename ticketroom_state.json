@@ -1,110 +1,9 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "3edacaed82c5795f00f7415fd7538f2bd2602ab445bd7f39623745fd549ddeb3",
-    "confirmed": [
-      {
-        "name": "Going Supersonic",
-        "legs": [
-          "Joc Pederson",
-          "Munetaka Murakami",
-          "Rafael Devers"
-        ]
-      },
-      {
-        "name": "The Slingshot",
-        "legs": [
-          "Munetaka Murakami",
-          "Sal Stewart",
-          "Wilyer Abreu"
-        ]
-      },
-      {
-        "name": "Beyond the Bleachers",
-        "legs": [
-          "Hunter Goodman",
-          "Miguel Vargas",
-          "Pete Crow-Armstrong"
-        ]
-      },
-      {
-        "name": "The Early Bird",
-        "legs": [
-          "Jos\u00e9 Ram\u00edrez"
-        ]
-      },
-      {
-        "name": "The Capstan",
-        "legs": [
-          "Munetaka Murakami"
-        ]
-      },
-      {
-        "name": "Anchors Aweigh",
-        "legs": [
-          "Hunter Goodman"
-        ]
-      },
-      {
-        "name": "Riding the Tide",
-        "legs": [
-          "Colson Montgomery"
-        ]
-      },
-      {
-        "name": "High Water",
-        "legs": [
-          "Yordan Alvarez"
-        ]
-      },
-      {
-        "name": "Heat Shield Off",
-        "legs": [
-          "Cal Raleigh",
-          "Hunter Goodman",
-          "Jac Caglianone"
-        ]
-      },
-      {
-        "name": "The Apollo",
-        "legs": [
-          "Carter Jensen",
-          "Colson Montgomery",
-          "Jake Bauers"
-        ]
-      },
-      {
-        "name": "Into the Upper Air",
-        "legs": [
-          "Colson Montgomery",
-          "Junior Caminero",
-          "Mickey Moniak"
-        ]
-      },
-      {
-        "name": "Past Low Earth Orbit",
-        "legs": [
-          "Coby Mayo",
-          "Kody Clemens",
-          "Yordan Alvarez"
-        ]
-      },
-      {
-        "name": "Terminal Climb",
-        "legs": [
-          "Alec Burleson",
-          "Kazuma Okamoto",
-          "Yordan Alvarez"
-        ]
-      },
-      {
-        "name": "Nightfall",
-        "legs": [
-          "Ben Rice"
-        ]
-      }
-    ],
-    "last_modified": "Sat, 05 Sep 2026 14:11:17 GMT",
-    "checked_at": "2026-09-05T14:15:14.950480+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Sat, 05 Sep 2026 14:38:06 GMT",
+    "checked_at": "2026-09-05T14:40:15.549055+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "ff8c4e85fa2d6f14ddda8b4d49f8ebe319ce9ca6f32f4c4612320be25c708c8a",
@@ -154,7 +53,7 @@
         ]
       }
     ],
-    "last_modified": "Sat, 05 Sep 2026 14:11:17 GMT",
-    "checked_at": "2026-09-05T14:15:15.599407+00:00"
+    "last_modified": "Sat, 05 Sep 2026 14:38:06 GMT",
+    "checked_at": "2026-09-05T14:40:15.751154+00:00"
   }
 }
