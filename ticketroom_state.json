@@ -103,100 +103,102 @@
         ]
       }
     ],
-    "last_modified": "Fri, 04 Sep 2026 22:37:51 GMT",
-    "checked_at": "2026-09-04T22:40:23.555474+00:00"
+    "last_modified": "Sat, 05 Sep 2026 13:46:13 GMT",
+    "checked_at": "2026-09-05T13:50:15.861172+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "d2d0e8a2994c0aa3245f06e62483bd0bb1286cf069dd91227ccc02b4ef0c4646",
+    "hash": "b8b91b8f05e0537b11203d41395f242dfa31b344734a41b06043464a3fc877c8",
     "confirmed": [
-      {
-        "name": "Early Doors",
-        "legs": [
-          "Pavel Sulc"
-        ]
-      },
-      {
-        "name": "Near Post",
-        "legs": [
-          "Deniz Undav"
-        ]
-      },
       {
         "name": "Top Corner",
         "legs": [
-          "Alexander Isak",
-          "Anastasios Douvikas",
-          "Deniz Undav"
+          "Erling Haaland",
+          "Kevin Schade",
+          "Tim Lemperle"
         ]
       },
       {
         "name": "From Distance",
         "legs": [
-          "Deniz Undav",
-          "Jose Vinicius Junior",
-          "Victor Munoz"
+          "Erling Haaland",
+          "Mateo Pellegrino",
+          "Maximilian Beier"
         ]
       },
       {
-        "name": "The Nine",
+        "name": "Upper Ninety",
         "legs": [
-          "Kylian Mbappe"
+          "Ademola Lookman",
+          "Omar Marmoush",
+          "Patrik Schick"
         ]
       },
       {
         "name": "Postage Stamp",
         "legs": [
-          "Desire Doue",
-          "Dzenan Pejcinovic",
-          "Kylian Mbappe"
-        ]
-      },
-      {
-        "name": "Curled Home",
-        "legs": [
-          "Kylian Mbappe",
-          "Maghnes Akliouche",
-          "Ragnar Ache"
-        ]
-      },
-      {
-        "name": "Half Volley",
-        "legs": [
-          "Chris Fuhrich",
-          "Cody Gakpo",
-          "Khvicha Kvaratskhelia"
-        ]
-      },
-      {
-        "name": "Thirty Yards",
-        "legs": [
-          "Florian Wirtz",
-          "Khvicha Kvaratskhelia",
-          "Nicolas Paz"
-        ]
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Khvicha Kvaratskhelia"
+          "Adam Hlozek",
+          "David Mokwa",
+          "Patrik Schick"
         ]
       },
       {
         "name": "Off the Underside",
         "legs": [
-          "Dominik Szoboszlai",
-          "Jude Bellingham",
-          "Milutin Osmajic"
+          "Dominic Calvert-Lewin",
+          "Serhou Guirassy",
+          "Taiwo Awoniyi"
+        ]
+      },
+      {
+        "name": "Outside the Box",
+        "legs": [
+          "Antoine Semenyo",
+          "Charalampos Kostoulas",
+          "Serhou Guirassy"
+        ]
+      },
+      {
+        "name": "Dipping Effort",
+        "legs": [
+          "Gonzalo Garcia",
+          "Igor Matanovic",
+          "Igor Thiago"
+        ]
+      },
+      {
+        "name": "Curled Home",
+        "legs": [
+          "Christopher Nkunku",
+          "Igor Thiago",
+          "Tim Kleindienst"
+        ]
+      },
+      {
+        "name": "Runs the Channel",
+        "legs": [
+          "Erling Haaland"
+        ]
+      },
+      {
+        "name": "Shoulder of the Last Man",
+        "legs": [
+          "Patrik Schick"
         ]
       },
       {
         "name": "Target Man",
         "legs": [
-          "Jude Bellingham"
+          "Serhou Guirassy"
+        ]
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Igor Thiago"
         ]
       }
     ],
-    "last_modified": "Fri, 04 Sep 2026 22:37:51 GMT",
-    "checked_at": "2026-09-04T22:40:25.671558+00:00"
+    "last_modified": "Sat, 05 Sep 2026 13:46:13 GMT",
+    "checked_at": "2026-09-05T13:50:17.101483+00:00"
   }
 }
