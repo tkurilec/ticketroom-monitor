@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "df7cc93f6745cd2ab093b667d1efc0f17c787195897d70c9000685ae2a4d6bf7",
+    "hash": "e40156759b4a0c6e4863229eaf9c5cf40b2255c302ad749a0297629560f06032",
     "confirmed": [
       {
         "name": "Midday Money",
@@ -35,11 +35,27 @@
         ]
       },
       {
+        "name": "Escape Velocity",
+        "legs": [
+          "Carter Jensen",
+          "Colson Montgomery",
+          "Kyle Schwarber"
+        ]
+      },
+      {
         "name": "Heat Shield Off",
         "legs": [
           "Corbin Carroll",
           "Hunter Goodman",
           "Jac Caglianone"
+        ]
+      },
+      {
+        "name": "The Slingshot",
+        "legs": [
+          "Gary S\u00e1nchez",
+          "Hunter Goodman",
+          "Munetaka Murakami"
         ]
       },
       {
@@ -51,8 +67,8 @@
         ]
       }
     ],
-    "last_modified": "Sat, 05 Sep 2026 20:25:57 GMT",
-    "checked_at": "2026-09-05T20:29:57.618411+00:00"
+    "last_modified": "Sat, 05 Sep 2026 20:36:20 GMT",
+    "checked_at": "2026-09-05T20:40:15.489116+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "105a751f2833aae103f2a3b16107cfa879b034d1100576fee9b95ac2078ca796",
@@ -152,7 +168,7 @@
         ]
       }
     ],
-    "last_modified": "Sat, 05 Sep 2026 20:25:57 GMT",
-    "checked_at": "2026-09-05T20:29:57.877937+00:00"
+    "last_modified": "Sat, 05 Sep 2026 20:36:20 GMT",
+    "checked_at": "2026-09-05T20:40:15.696146+00:00"
   }
 }
