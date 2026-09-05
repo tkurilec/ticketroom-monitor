@@ -1,9 +1,16 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Sat, 05 Sep 2026 15:46:35 GMT",
-    "checked_at": "2026-09-05T15:50:15.258417+00:00"
+    "hash": "6657b8b0eed3c686d63a277e29088522cc8a35fca16c5f19192868693a2893c3",
+    "confirmed": [
+      {
+        "name": "Midday Money",
+        "legs": [
+          "Francisco Lindor"
+        ]
+      }
+    ],
+    "last_modified": "Sat, 05 Sep 2026 16:42:44 GMT",
+    "checked_at": "2026-09-05T16:45:16.222677+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "22f5ca89a0a12f9257241ab9ee7b1d46edab74c9e1322941e9c03449398ccda5",
@@ -97,7 +104,7 @@
         ]
       }
     ],
-    "last_modified": "Sat, 05 Sep 2026 15:46:35 GMT",
-    "checked_at": "2026-09-05T15:50:16.059238+00:00"
+    "last_modified": "Sat, 05 Sep 2026 16:42:44 GMT",
+    "checked_at": "2026-09-05T16:45:16.349156+00:00"
   }
 }
