@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "6bc58c9aeffd5918cde3e36b4645b18c747054f9d60a1fe22c6e51047c7f2245",
+    "hash": "3b280dfb08f2e300571e65aeae796cf9d47f0cf110a9f1437a3ef70b9ff81183",
     "confirmed": [
       {
         "name": "Midday Money",
@@ -35,10 +35,24 @@
           "Hunter Goodman",
           "Jac Caglianone"
         ]
+      },
+      {
+        "name": "Riding the Tide",
+        "legs": [
+          "Yordan Alvarez"
+        ]
+      },
+      {
+        "name": "Beyond the Bleachers",
+        "legs": [
+          "Bobby Witt",
+          "Matt Olson",
+          "Yordan Alvarez"
+        ]
       }
     ],
-    "last_modified": "Sat, 05 Sep 2026 19:05:38 GMT",
-    "checked_at": "2026-09-05T19:10:21.200663+00:00"
+    "last_modified": "Sat, 05 Sep 2026 20:20:56 GMT",
+    "checked_at": "2026-09-05T20:25:13.751555+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "105a751f2833aae103f2a3b16107cfa879b034d1100576fee9b95ac2078ca796",
@@ -138,7 +152,7 @@
         ]
       }
     ],
-    "last_modified": "Sat, 05 Sep 2026 19:05:37 GMT",
-    "checked_at": "2026-09-05T19:10:21.348583+00:00"
+    "last_modified": "Sat, 05 Sep 2026 20:20:56 GMT",
+    "checked_at": "2026-09-05T20:25:13.876526+00:00"
   }
 }
