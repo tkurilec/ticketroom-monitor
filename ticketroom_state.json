@@ -9,11 +9,11 @@
         ]
       }
     ],
-    "last_modified": "Sat, 05 Sep 2026 16:42:44 GMT",
-    "checked_at": "2026-09-05T16:45:16.222677+00:00"
+    "last_modified": "Sat, 05 Sep 2026 18:05:02 GMT",
+    "checked_at": "2026-09-05T18:05:17.046041+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "22f5ca89a0a12f9257241ab9ee7b1d46edab74c9e1322941e9c03449398ccda5",
+    "hash": "105a751f2833aae103f2a3b16107cfa879b034d1100576fee9b95ac2078ca796",
     "confirmed": [
       {
         "name": "Upper Ninety",
@@ -102,9 +102,15 @@
         "legs": [
           "Lautaro Martinez"
         ]
+      },
+      {
+        "name": "Early Doors",
+        "legs": [
+          "Donyell Malen"
+        ]
       }
     ],
-    "last_modified": "Sat, 05 Sep 2026 16:42:44 GMT",
-    "checked_at": "2026-09-05T16:45:16.349156+00:00"
+    "last_modified": "Sat, 05 Sep 2026 18:05:02 GMT",
+    "checked_at": "2026-09-05T18:05:18.480131+00:00"
   }
 }
