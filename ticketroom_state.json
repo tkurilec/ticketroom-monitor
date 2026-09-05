@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "c32e3217583bc30466ee30267c03810de82c02bfca3bb11854b0936d6805c534",
+    "hash": "6bc58c9aeffd5918cde3e36b4645b18c747054f9d60a1fe22c6e51047c7f2245",
     "confirmed": [
       {
         "name": "Midday Money",
@@ -27,10 +27,18 @@
         "legs": [
           "Kyle Schwarber"
         ]
+      },
+      {
+        "name": "Heat Shield Off",
+        "legs": [
+          "Corbin Carroll",
+          "Hunter Goodman",
+          "Jac Caglianone"
+        ]
       }
     ],
-    "last_modified": "Sat, 05 Sep 2026 18:45:30 GMT",
-    "checked_at": "2026-09-05T18:50:14.887941+00:00"
+    "last_modified": "Sat, 05 Sep 2026 19:05:38 GMT",
+    "checked_at": "2026-09-05T19:10:21.200663+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "105a751f2833aae103f2a3b16107cfa879b034d1100576fee9b95ac2078ca796",
@@ -130,7 +138,7 @@
         ]
       }
     ],
-    "last_modified": "Sat, 05 Sep 2026 18:45:30 GMT",
-    "checked_at": "2026-09-05T18:50:15.083050+00:00"
+    "last_modified": "Sat, 05 Sep 2026 19:05:37 GMT",
+    "checked_at": "2026-09-05T19:10:21.348583+00:00"
   }
 }
