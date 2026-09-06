@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "9250d6cdb8033dc1ecf50b6803afe3e4aa195d465f7d29f8f8d9f982854b8dd4",
+    "hash": "1122ebde2b003e168fffe8de919c1ad3b15849b747eb506f905131d30e3e7c2f",
     "confirmed": [
       {
         "name": "First-Pitch Feast",
@@ -35,10 +35,54 @@
           "Kazuma Okamoto",
           "Kyle Schwarber"
         ]
+      },
+      {
+        "name": "Heat Shield Off",
+        "legs": [
+          "Alec Burleson",
+          "Pete Crow-Armstrong",
+          "Yordan Alvarez"
+        ]
+      },
+      {
+        "name": "The Apollo",
+        "legs": [
+          "Bobby Witt",
+          "Joshua B\u00e1ez",
+          "Matt Olson"
+        ]
+      },
+      {
+        "name": "Terminal Climb",
+        "legs": [
+          "Jordan Walker",
+          "Kyle Stowers",
+          "Matt Olson"
+        ]
+      },
+      {
+        "name": "Made Fast",
+        "legs": [
+          "Alec Burleson"
+        ]
+      },
+      {
+        "name": "Slack Tide",
+        "legs": [
+          "Nolan Gorman"
+        ]
+      },
+      {
+        "name": "Past Low Earth Orbit",
+        "legs": [
+          "Corey Seager",
+          "Nolan Gorman",
+          "Rafael Devers"
+        ]
       }
     ],
-    "last_modified": "Sun, 06 Sep 2026 15:51:54 GMT",
-    "checked_at": "2026-09-06T15:55:13.333603+00:00"
+    "last_modified": "Sun, 06 Sep 2026 16:53:03 GMT",
+    "checked_at": "2026-09-06T16:55:13.598719+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "daebe7108e57f2958428a71da0978a33b922c61b28c4174d6df68d697eee2768",
@@ -122,7 +166,7 @@
         ]
       }
     ],
-    "last_modified": "Sun, 06 Sep 2026 15:51:54 GMT",
-    "checked_at": "2026-09-06T15:55:13.467556+00:00"
+    "last_modified": "Sun, 06 Sep 2026 16:53:03 GMT",
+    "checked_at": "2026-09-06T16:55:13.742379+00:00"
   }
 }
