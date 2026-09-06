@@ -103,11 +103,11 @@
         ]
       }
     ],
-    "last_modified": "Sun, 06 Sep 2026 14:36:13 GMT",
-    "checked_at": "2026-09-06T14:40:14.785564+00:00"
+    "last_modified": "Sun, 06 Sep 2026 14:41:14 GMT",
+    "checked_at": "2026-09-06T14:45:15.487752+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "afe72504c2ee1ccc910b1a9fc7facc8df46d4ca224e6d0df387de1d0dcbc9c77",
+    "hash": "7103b96287c432ec17a67d00c8fc40763384b4cf29e142d170e508c3e21b5965",
     "confirmed": [
       {
         "name": "Top Corner",
@@ -142,9 +142,23 @@
         "legs": [
           "Esteban Lepaul"
         ]
+      },
+      {
+        "name": "Off the Underside",
+        "legs": [
+          "Fermin Lopez",
+          "Jonathan Burkardt",
+          "de Jesus Joao Pedro"
+        ]
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Jonathan Burkardt"
+        ]
       }
     ],
-    "last_modified": "Sun, 06 Sep 2026 14:36:13 GMT",
-    "checked_at": "2026-09-06T14:40:15.335831+00:00"
+    "last_modified": "Sun, 06 Sep 2026 14:41:14 GMT",
+    "checked_at": "2026-09-06T14:45:16.090775+00:00"
   }
 }
