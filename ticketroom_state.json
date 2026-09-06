@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "b3640952991f7ef019d048373141865bd7651527cb29fed810c756b7a6c53346",
+    "hash": "c369019bbdedbc0374b201072227c315d1e0b53b5d1fcd10cdc46073dee3a257",
     "confirmed": [
       {
         "name": "First-Pitch Feast",
@@ -57,6 +57,14 @@
         ]
       },
       {
+        "name": "Beyond the Bleachers",
+        "legs": [
+          "Alec Burleson",
+          "Ben Rice",
+          "Junior Caminero"
+        ]
+      },
+      {
         "name": "The Apollo",
         "legs": [
           "Bobby Witt",
@@ -81,8 +89,8 @@
         ]
       }
     ],
-    "last_modified": "Sun, 06 Sep 2026 17:01:09 GMT",
-    "checked_at": "2026-09-06T17:05:17.575240+00:00"
+    "last_modified": "Sun, 06 Sep 2026 17:17:24 GMT",
+    "checked_at": "2026-09-06T17:20:15.459084+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "daebe7108e57f2958428a71da0978a33b922c61b28c4174d6df68d697eee2768",
@@ -166,7 +174,7 @@
         ]
       }
     ],
-    "last_modified": "Sun, 06 Sep 2026 17:01:09 GMT",
-    "checked_at": "2026-09-06T17:05:18.245522+00:00"
+    "last_modified": "Sun, 06 Sep 2026 17:17:24 GMT",
+    "checked_at": "2026-09-06T17:20:15.586028+00:00"
   }
 }
