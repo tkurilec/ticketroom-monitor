@@ -103,11 +103,11 @@
         ]
       }
     ],
-    "last_modified": "Sun, 06 Sep 2026 13:21:42 GMT",
-    "checked_at": "2026-09-06T13:25:13.009506+00:00"
+    "last_modified": "Sun, 06 Sep 2026 14:36:13 GMT",
+    "checked_at": "2026-09-06T14:40:14.785564+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "27403b40acd6d773ac881f99af328f07c9d973ebb156e897667156381c3e200c",
+    "hash": "afe72504c2ee1ccc910b1a9fc7facc8df46d4ca224e6d0df387de1d0dcbc9c77",
     "confirmed": [
       {
         "name": "Top Corner",
@@ -136,9 +136,15 @@
         "legs": [
           "Lamine Yamal"
         ]
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Esteban Lepaul"
+        ]
       }
     ],
-    "last_modified": "Sun, 06 Sep 2026 13:21:42 GMT",
-    "checked_at": "2026-09-06T13:25:13.903358+00:00"
+    "last_modified": "Sun, 06 Sep 2026 14:36:13 GMT",
+    "checked_at": "2026-09-06T14:40:15.335831+00:00"
   }
 }
