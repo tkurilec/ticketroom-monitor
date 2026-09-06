@@ -21,11 +21,11 @@
         ]
       }
     ],
-    "last_modified": "Sun, 06 Sep 2026 15:37:24 GMT",
-    "checked_at": "2026-09-06T15:40:16.055636+00:00"
+    "last_modified": "Sun, 06 Sep 2026 15:42:05 GMT",
+    "checked_at": "2026-09-06T15:45:14.455607+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "44ca0602d9c76120edc8934f0c9450a3ae57a0e0691ee06d1f2f0628e5baa575",
+    "hash": "daebe7108e57f2958428a71da0978a33b922c61b28c4174d6df68d697eee2768",
     "confirmed": [
       {
         "name": "Top Corner",
@@ -92,13 +92,21 @@
         ]
       },
       {
+        "name": "Outside the Box",
+        "legs": [
+          "Jonathan Burkardt",
+          "Raul Garcia",
+          "Roberto Piccoli"
+        ]
+      },
+      {
         "name": "Early Doors",
         "legs": [
           "Carlos Chupete"
         ]
       }
     ],
-    "last_modified": "Sun, 06 Sep 2026 15:37:24 GMT",
-    "checked_at": "2026-09-06T15:40:16.494747+00:00"
+    "last_modified": "Sun, 06 Sep 2026 15:42:05 GMT",
+    "checked_at": "2026-09-06T15:45:15.253514+00:00"
   }
 }
