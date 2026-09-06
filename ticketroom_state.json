@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "c369019bbdedbc0374b201072227c315d1e0b53b5d1fcd10cdc46073dee3a257",
+    "hash": "281e4f2fc4488074502de13aed9abb43d5d5bd9099415a183922d641f94cd18c",
     "confirmed": [
       {
         "name": "First-Pitch Feast",
@@ -87,10 +87,18 @@
           "Nolan Gorman",
           "Rafael Devers"
         ]
+      },
+      {
+        "name": "Escape Velocity",
+        "legs": [
+          "Cal Raleigh",
+          "Nolan Gorman",
+          "Spencer Jones"
+        ]
       }
     ],
-    "last_modified": "Sun, 06 Sep 2026 17:17:24 GMT",
-    "checked_at": "2026-09-06T17:20:15.459084+00:00"
+    "last_modified": "Sun, 06 Sep 2026 18:17:05 GMT",
+    "checked_at": "2026-09-06T18:20:17.045984+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "daebe7108e57f2958428a71da0978a33b922c61b28c4174d6df68d697eee2768",
@@ -174,7 +182,7 @@
         ]
       }
     ],
-    "last_modified": "Sun, 06 Sep 2026 17:17:24 GMT",
-    "checked_at": "2026-09-06T17:20:15.586028+00:00"
+    "last_modified": "Sun, 06 Sep 2026 18:17:05 GMT",
+    "checked_at": "2026-09-06T18:20:17.182157+00:00"
   }
 }
