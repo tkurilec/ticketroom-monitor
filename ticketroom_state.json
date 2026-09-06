@@ -103,11 +103,11 @@
         ]
       }
     ],
-    "last_modified": "Sun, 06 Sep 2026 14:41:14 GMT",
-    "checked_at": "2026-09-06T14:45:15.487752+00:00"
+    "last_modified": "Sun, 06 Sep 2026 14:46:10 GMT",
+    "checked_at": "2026-09-06T14:50:16.484705+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "7103b96287c432ec17a67d00c8fc40763384b4cf29e142d170e508c3e21b5965",
+    "hash": "dbcccd7773594a02e3f7d0697b18e59c7d61d9e84b80de25ab6f4a8b2185ea7b",
     "confirmed": [
       {
         "name": "Top Corner",
@@ -138,6 +138,22 @@
         ]
       },
       {
+        "name": "Dipping Effort",
+        "legs": [
+          "Bukayo Saka",
+          "Lamine Yamal",
+          "Michael Gregoritsch"
+        ]
+      },
+      {
+        "name": "Half Volley",
+        "legs": [
+          "Kai Havertz",
+          "Lamine Yamal",
+          "Younes Ebnoutalib"
+        ]
+      },
+      {
         "name": "The Poacher",
         "legs": [
           "Esteban Lepaul"
@@ -158,7 +174,7 @@
         ]
       }
     ],
-    "last_modified": "Sun, 06 Sep 2026 14:41:14 GMT",
-    "checked_at": "2026-09-06T14:45:16.090775+00:00"
+    "last_modified": "Sun, 06 Sep 2026 14:46:10 GMT",
+    "checked_at": "2026-09-06T14:50:17.448412+00:00"
   }
 }
