@@ -1,110 +1,28 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "d5b489a26ca6b60eca53aa6c9764f7e1ebd7ba646b36b32e21bf332eab74248c",
+    "hash": "3c9169f9e75d3c7ba22132f4f673f5947832301cf329fa455905c9af999839b7",
     "confirmed": [
       {
-        "name": "Midday Money",
+        "name": "First-Pitch Feast",
         "legs": [
-          "Francisco Lindor"
-        ]
-      },
-      {
-        "name": "Past Low Earth Orbit",
-        "legs": [
-          "Juan Soto",
-          "Kyle Schwarber",
-          "Pete Crow-Armstrong"
-        ]
-      },
-      {
-        "name": "Anchors Aweigh",
-        "legs": [
-          "Hunter Goodman"
-        ]
-      },
-      {
-        "name": "Made Fast",
-        "legs": [
-          "Kyle Schwarber"
-        ]
-      },
-      {
-        "name": "Riding the Tide",
-        "legs": [
-          "Yordan Alvarez"
-        ]
-      },
-      {
-        "name": "Escape Velocity",
-        "legs": [
-          "Carter Jensen",
-          "Colson Montgomery",
-          "Kyle Schwarber"
-        ]
-      },
-      {
-        "name": "Heat Shield Off",
-        "legs": [
-          "Corbin Carroll",
-          "Hunter Goodman",
-          "Jac Caglianone"
-        ]
-      },
-      {
-        "name": "The Slingshot",
-        "legs": [
-          "Gary S\u00e1nchez",
-          "Hunter Goodman",
-          "Munetaka Murakami"
-        ]
-      },
-      {
-        "name": "Beyond the Bleachers",
-        "legs": [
-          "Bobby Witt",
-          "Matt Olson",
-          "Yordan Alvarez"
-        ]
-      },
-      {
-        "name": "The Witching Hour",
-        "legs": [
-          "Randy Arozarena"
+          "Jake Bauers"
         ]
       },
       {
         "name": "High Water",
         "legs": [
-          "Cal Raleigh"
+          "Kyle Schwarber"
         ]
       },
       {
-        "name": "Into the Upper Air",
+        "name": "Cast Off",
         "legs": [
-          "Alec Burleson",
-          "Esmerlyn Valdez",
-          "Yordan Alvarez"
-        ]
-      },
-      {
-        "name": "Terminal Climb",
-        "legs": [
-          "Cal Raleigh",
-          "James Wood",
-          "Nolan Gorman"
-        ]
-      },
-      {
-        "name": "Past the Event Horizon",
-        "legs": [
-          "Abimelec Ortiz",
-          "Cal Raleigh",
-          "Joshua B\u00e1ez"
+          "Matt Olson"
         ]
       }
     ],
-    "last_modified": "Sun, 06 Sep 2026 14:46:10 GMT",
-    "checked_at": "2026-09-06T14:50:16.484705+00:00"
+    "last_modified": "Sun, 06 Sep 2026 15:12:17 GMT",
+    "checked_at": "2026-09-06T15:15:15.818830+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "dbcccd7773594a02e3f7d0697b18e59c7d61d9e84b80de25ab6f4a8b2185ea7b",
@@ -174,7 +92,7 @@
         ]
       }
     ],
-    "last_modified": "Sun, 06 Sep 2026 14:46:10 GMT",
-    "checked_at": "2026-09-06T14:50:17.448412+00:00"
+    "last_modified": "Sun, 06 Sep 2026 15:12:17 GMT",
+    "checked_at": "2026-09-06T15:15:16.116478+00:00"
   }
 }
