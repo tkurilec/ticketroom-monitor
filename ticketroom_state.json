@@ -103,13 +103,42 @@
         ]
       }
     ],
-    "last_modified": "Sun, 06 Sep 2026 04:01:59 GMT",
-    "checked_at": "2026-09-06T04:05:14.914590+00:00"
+    "last_modified": "Sun, 06 Sep 2026 13:21:42 GMT",
+    "checked_at": "2026-09-06T13:25:13.009506+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Sun, 06 Sep 2026 04:01:59 GMT",
-    "checked_at": "2026-09-06T04:05:15.658703+00:00"
+    "hash": "27403b40acd6d773ac881f99af328f07c9d973ebb156e897667156381c3e200c",
+    "confirmed": [
+      {
+        "name": "Top Corner",
+        "legs": [
+          "Phillip Tietz",
+          "Raphinha",
+          "Thierno Barry"
+        ]
+      },
+      {
+        "name": "From Distance",
+        "legs": [
+          "Antonio Raimondo",
+          "Bryan Mbeumo",
+          "Raphinha"
+        ]
+      },
+      {
+        "name": "Runs the Channel",
+        "legs": [
+          "Raphinha"
+        ]
+      },
+      {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Lamine Yamal"
+        ]
+      }
+    ],
+    "last_modified": "Sun, 06 Sep 2026 13:21:42 GMT",
+    "checked_at": "2026-09-06T13:25:13.903358+00:00"
   }
 }
