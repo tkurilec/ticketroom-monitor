@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "1122ebde2b003e168fffe8de919c1ad3b15849b747eb506f905131d30e3e7c2f",
+    "hash": "35baa1a2d8e3dc7c7a02a68eff7ed1b3dda7547a8be69be43749cf863752b596",
     "confirmed": [
       {
         "name": "First-Pitch Feast",
@@ -53,14 +53,6 @@
         ]
       },
       {
-        "name": "Terminal Climb",
-        "legs": [
-          "Jordan Walker",
-          "Kyle Stowers",
-          "Matt Olson"
-        ]
-      },
-      {
         "name": "Made Fast",
         "legs": [
           "Alec Burleson"
@@ -73,6 +65,14 @@
         ]
       },
       {
+        "name": "Terminal Climb",
+        "legs": [
+          "Jordan Walker",
+          "Kyle Stowers",
+          "Matt Olson"
+        ]
+      },
+      {
         "name": "Past Low Earth Orbit",
         "legs": [
           "Corey Seager",
@@ -81,92 +81,13 @@
         ]
       }
     ],
-    "last_modified": "Sun, 06 Sep 2026 16:53:03 GMT",
-    "checked_at": "2026-09-06T16:55:13.598719+00:00"
+    "last_modified": "Sun, 06 Sep 2026 16:57:44 GMT",
+    "checked_at": "2026-09-06T17:00:23.955329+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "daebe7108e57f2958428a71da0978a33b922c61b28c4174d6df68d697eee2768",
-    "confirmed": [
-      {
-        "name": "Top Corner",
-        "legs": [
-          "Phillip Tietz",
-          "Raphinha",
-          "Thierno Barry"
-        ]
-      },
-      {
-        "name": "From Distance",
-        "legs": [
-          "Antonio Raimondo",
-          "Bryan Mbeumo",
-          "Raphinha"
-        ]
-      },
-      {
-        "name": "Runs the Channel",
-        "legs": [
-          "Raphinha"
-        ]
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Lamine Yamal"
-        ]
-      },
-      {
-        "name": "Dipping Effort",
-        "legs": [
-          "Bukayo Saka",
-          "Lamine Yamal",
-          "Michael Gregoritsch"
-        ]
-      },
-      {
-        "name": "Half Volley",
-        "legs": [
-          "Kai Havertz",
-          "Lamine Yamal",
-          "Younes Ebnoutalib"
-        ]
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Esteban Lepaul"
-        ]
-      },
-      {
-        "name": "Off the Underside",
-        "legs": [
-          "Fermin Lopez",
-          "Jonathan Burkardt",
-          "de Jesus Joao Pedro"
-        ]
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Jonathan Burkardt"
-        ]
-      },
-      {
-        "name": "Outside the Box",
-        "legs": [
-          "Jonathan Burkardt",
-          "Raul Garcia",
-          "Roberto Piccoli"
-        ]
-      },
-      {
-        "name": "Early Doors",
-        "legs": [
-          "Carlos Chupete"
-        ]
-      }
-    ],
-    "last_modified": "Sun, 06 Sep 2026 16:53:03 GMT",
-    "checked_at": "2026-09-06T16:55:13.742379+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Sun, 06 Sep 2026 16:57:44 GMT",
+    "checked_at": "2026-09-06T17:00:24.492419+00:00"
   }
 }
