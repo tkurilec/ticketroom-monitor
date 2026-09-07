@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "d3c98aa66090d7303a8282b4760249b7f367bb4460f19b32e1dddd3ee6d7b08f",
+    "hash": "926cea38ee3156d9fa2f994efb13b786a64352ad59e2c3b2cc5497a332f470cc",
     "confirmed": [
       {
         "name": "Midday Meal",
@@ -32,6 +32,14 @@
           "Jo Adell",
           "Juan Soto",
           "Ketel Marte"
+        ]
+      },
+      {
+        "name": "Past the Event Horizon",
+        "legs": [
+          "Ketel Marte",
+          "Matt Olson",
+          "Wilyer Abreu"
         ]
       },
       {
@@ -67,8 +75,8 @@
         ]
       }
     ],
-    "last_modified": "Mon, 07 Sep 2026 15:47:33 GMT",
-    "checked_at": "2026-09-07T15:50:20.633956+00:00"
+    "last_modified": "Mon, 07 Sep 2026 15:52:42 GMT",
+    "checked_at": "2026-09-07T15:55:15.741192+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f73ed04a935014e13450a0bd9b473a0f5a6fba4128a8e3d639ce05507cbcb727",
@@ -80,7 +88,7 @@
         ]
       }
     ],
-    "last_modified": "Mon, 07 Sep 2026 15:47:33 GMT",
-    "checked_at": "2026-09-07T15:50:21.971539+00:00"
+    "last_modified": "Mon, 07 Sep 2026 15:52:42 GMT",
+    "checked_at": "2026-09-07T15:55:16.085795+00:00"
   }
 }
