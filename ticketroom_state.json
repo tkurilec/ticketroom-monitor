@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "45fe26764a52f724b6c45556bf58530fca01e7b5471183a423d893644440064a",
+    "hash": "ada3ee43b0907fb94fc8a6f5f0480c57f9b864d897a885ee5d4d67c48956bda0",
     "confirmed": [
       {
         "name": "Midday Meal",
@@ -49,15 +49,23 @@
           "Carter Jensen",
           "Kyle Stowers"
         ]
+      },
+      {
+        "name": "The Apollo",
+        "legs": [
+          "Jos\u00e9 Ram\u00edrez",
+          "Kody Clemens",
+          "Kyle Stowers"
+        ]
       }
     ],
-    "last_modified": "Mon, 07 Sep 2026 14:37:55 GMT",
-    "checked_at": "2026-09-07T14:40:19.173985+00:00"
+    "last_modified": "Mon, 07 Sep 2026 14:53:00 GMT",
+    "checked_at": "2026-09-07T14:55:13.354005+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Mon, 07 Sep 2026 14:37:55 GMT",
-    "checked_at": "2026-09-07T14:40:19.417813+00:00"
+    "last_modified": "Mon, 07 Sep 2026 14:53:00 GMT",
+    "checked_at": "2026-09-07T14:55:13.556885+00:00"
   }
 }
