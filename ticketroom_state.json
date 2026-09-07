@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "8eb93433ee81ca6856110d9153983d545827c4f7adfa09c1b1d40df3640fdea1",
+    "hash": "45fe26764a52f724b6c45556bf58530fca01e7b5471183a423d893644440064a",
     "confirmed": [
       {
         "name": "Midday Meal",
@@ -33,15 +33,31 @@
           "Juan Soto",
           "Ketel Marte"
         ]
+      },
+      {
+        "name": "Into the Upper Air",
+        "legs": [
+          "Kyle Schwarber",
+          "Pete Alonso",
+          "Salvador Perez"
+        ]
+      },
+      {
+        "name": "Terminal Climb",
+        "legs": [
+          "Bryce Harper",
+          "Carter Jensen",
+          "Kyle Stowers"
+        ]
       }
     ],
-    "last_modified": "Mon, 07 Sep 2026 14:22:27 GMT",
-    "checked_at": "2026-09-07T14:25:15.286911+00:00"
+    "last_modified": "Mon, 07 Sep 2026 14:37:55 GMT",
+    "checked_at": "2026-09-07T14:40:19.173985+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Mon, 07 Sep 2026 14:22:27 GMT",
-    "checked_at": "2026-09-07T14:25:15.471305+00:00"
+    "last_modified": "Mon, 07 Sep 2026 14:37:55 GMT",
+    "checked_at": "2026-09-07T14:40:19.417813+00:00"
   }
 }
