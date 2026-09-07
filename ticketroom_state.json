@@ -75,12 +75,18 @@
         ]
       }
     ],
-    "last_modified": "Mon, 07 Sep 2026 15:52:42 GMT",
-    "checked_at": "2026-09-07T15:55:15.741192+00:00"
+    "last_modified": "Mon, 07 Sep 2026 16:02:23 GMT",
+    "checked_at": "2026-09-07T16:05:14.283274+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "f73ed04a935014e13450a0bd9b473a0f5a6fba4128a8e3d639ce05507cbcb727",
+    "hash": "213e11f1d6c07d9aefa7ec3282813a1bb8d00d6d374380bc952d5c5883150de2",
     "confirmed": [
+      {
+        "name": "Lunchtime Kickoff",
+        "legs": [
+          "Enes Unal"
+        ]
+      },
       {
         "name": "Near Post",
         "legs": [
@@ -88,7 +94,7 @@
         ]
       }
     ],
-    "last_modified": "Mon, 07 Sep 2026 15:52:42 GMT",
-    "checked_at": "2026-09-07T15:55:16.085795+00:00"
+    "last_modified": "Mon, 07 Sep 2026 16:02:23 GMT",
+    "checked_at": "2026-09-07T16:05:14.747311+00:00"
   }
 }
