@@ -67,13 +67,20 @@
         ]
       }
     ],
-    "last_modified": "Mon, 07 Sep 2026 15:17:12 GMT",
-    "checked_at": "2026-09-07T15:20:19.834025+00:00"
+    "last_modified": "Mon, 07 Sep 2026 15:47:33 GMT",
+    "checked_at": "2026-09-07T15:50:20.633956+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Mon, 07 Sep 2026 15:17:12 GMT",
-    "checked_at": "2026-09-07T15:20:19.911223+00:00"
+    "hash": "f73ed04a935014e13450a0bd9b473a0f5a6fba4128a8e3d639ce05507cbcb727",
+    "confirmed": [
+      {
+        "name": "Near Post",
+        "legs": [
+          "Paul Mendy"
+        ]
+      }
+    ],
+    "last_modified": "Mon, 07 Sep 2026 15:47:33 GMT",
+    "checked_at": "2026-09-07T15:50:21.971539+00:00"
   }
 }
