@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "795206fe51dc86691261a77f688f5ce7a076a198cfa30ab3a691fdd0190cd919",
+    "hash": "8eb93433ee81ca6856110d9153983d545827c4f7adfa09c1b1d40df3640fdea1",
     "confirmed": [
       {
         "name": "Midday Meal",
@@ -25,15 +25,23 @@
         "legs": [
           "Kyle Schwarber"
         ]
+      },
+      {
+        "name": "Shot Into Orbit",
+        "legs": [
+          "Jo Adell",
+          "Juan Soto",
+          "Ketel Marte"
+        ]
       }
     ],
-    "last_modified": "Mon, 07 Sep 2026 14:17:25 GMT",
-    "checked_at": "2026-09-07T14:20:18.370148+00:00"
+    "last_modified": "Mon, 07 Sep 2026 14:22:27 GMT",
+    "checked_at": "2026-09-07T14:25:15.286911+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Mon, 07 Sep 2026 14:17:25 GMT",
-    "checked_at": "2026-09-07T14:20:18.691436+00:00"
+    "last_modified": "Mon, 07 Sep 2026 14:22:27 GMT",
+    "checked_at": "2026-09-07T14:25:15.471305+00:00"
   }
 }
