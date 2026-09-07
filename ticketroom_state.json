@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "99f0f849bc2d253cfe3322a6d1955f6c4afc18857f1e0d4d5bb1a115cce00a25",
+    "hash": "795206fe51dc86691261a77f688f5ce7a076a198cfa30ab3a691fdd0190cd919",
     "confirmed": [
       {
         "name": "Midday Meal",
@@ -19,15 +19,21 @@
         "legs": [
           "Kyle Stowers"
         ]
+      },
+      {
+        "name": "High Water",
+        "legs": [
+          "Kyle Schwarber"
+        ]
       }
     ],
-    "last_modified": "Mon, 07 Sep 2026 14:01:24 GMT",
-    "checked_at": "2026-09-07T14:05:14.911978+00:00"
+    "last_modified": "Mon, 07 Sep 2026 14:17:25 GMT",
+    "checked_at": "2026-09-07T14:20:18.370148+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Mon, 07 Sep 2026 14:01:24 GMT",
-    "checked_at": "2026-09-07T14:05:15.122601+00:00"
+    "last_modified": "Mon, 07 Sep 2026 14:17:25 GMT",
+    "checked_at": "2026-09-07T14:20:18.691436+00:00"
   }
 }
