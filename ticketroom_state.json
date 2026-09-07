@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "926cea38ee3156d9fa2f994efb13b786a64352ad59e2c3b2cc5497a332f470cc",
+    "hash": "bf58f773e4e5b0d0e74211070d34d6f4027e74bd6797dc3c139bdc71246af030",
     "confirmed": [
       {
         "name": "Midday Meal",
@@ -73,10 +73,16 @@
           "Kody Clemens",
           "Kyle Stowers"
         ]
+      },
+      {
+        "name": "Cast Off",
+        "legs": [
+          "Rafael Devers"
+        ]
       }
     ],
-    "last_modified": "Mon, 07 Sep 2026 18:37:31 GMT",
-    "checked_at": "2026-09-07T18:40:15.245992+00:00"
+    "last_modified": "Mon, 07 Sep 2026 21:07:58 GMT",
+    "checked_at": "2026-09-07T21:10:16.839709+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "0fe077b5badd8a5e8cff621d402d7903cd5894e543379fbe33fa5ce49fe562ec",
@@ -112,7 +118,7 @@
         ]
       }
     ],
-    "last_modified": "Mon, 07 Sep 2026 18:37:31 GMT",
-    "checked_at": "2026-09-07T18:40:16.339182+00:00"
+    "last_modified": "Mon, 07 Sep 2026 21:07:58 GMT",
+    "checked_at": "2026-09-07T21:10:16.997684+00:00"
   }
 }
