@@ -1,110 +1,9 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "d807b6d25b13836202d76472b6d3d3ed51459bb519fdfd0fd5099919256b6bab",
-    "confirmed": [
-      {
-        "name": "First-Pitch Feast",
-        "legs": [
-          "Jake Bauers"
-        ]
-      },
-      {
-        "name": "High Water",
-        "legs": [
-          "Kyle Schwarber"
-        ]
-      },
-      {
-        "name": "Cast Off",
-        "legs": [
-          "Matt Olson"
-        ]
-      },
-      {
-        "name": "Into the Upper Air",
-        "legs": [
-          "Kyle Schwarber",
-          "Mickey Moniak",
-          "Pete Alonso"
-        ]
-      },
-      {
-        "name": "Past the Event Horizon",
-        "legs": [
-          "Coby Mayo",
-          "Kazuma Okamoto",
-          "Kyle Schwarber"
-        ]
-      },
-      {
-        "name": "Heat Shield Off",
-        "legs": [
-          "Alec Burleson",
-          "Pete Crow-Armstrong",
-          "Yordan Alvarez"
-        ]
-      },
-      {
-        "name": "Made Fast",
-        "legs": [
-          "Alec Burleson"
-        ]
-      },
-      {
-        "name": "Slack Tide",
-        "legs": [
-          "Nolan Gorman"
-        ]
-      },
-      {
-        "name": "Beyond the Bleachers",
-        "legs": [
-          "Alec Burleson",
-          "Ben Rice",
-          "Junior Caminero"
-        ]
-      },
-      {
-        "name": "The Apollo",
-        "legs": [
-          "Bobby Witt",
-          "Joshua B\u00e1ez",
-          "Matt Olson"
-        ]
-      },
-      {
-        "name": "Terminal Climb",
-        "legs": [
-          "Jordan Walker",
-          "Kyle Stowers",
-          "Matt Olson"
-        ]
-      },
-      {
-        "name": "Past Low Earth Orbit",
-        "legs": [
-          "Corey Seager",
-          "Nolan Gorman",
-          "Rafael Devers"
-        ]
-      },
-      {
-        "name": "Escape Velocity",
-        "legs": [
-          "Cal Raleigh",
-          "Nolan Gorman",
-          "Spencer Jones"
-        ]
-      },
-      {
-        "name": "The Final Bell",
-        "legs": [
-          "Teoscar Hern\u00e1ndez"
-        ]
-      }
-    ],
-    "last_modified": "Sun, 06 Sep 2026 22:04:09 GMT",
-    "checked_at": "2026-09-06T22:05:17.107231+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Mon, 07 Sep 2026 13:22:37 GMT",
+    "checked_at": "2026-09-07T13:25:16.629469+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "daebe7108e57f2958428a71da0978a33b922c61b28c4174d6df68d697eee2768",
@@ -188,7 +87,7 @@
         ]
       }
     ],
-    "last_modified": "Sun, 06 Sep 2026 22:04:09 GMT",
-    "checked_at": "2026-09-06T22:05:17.263210+00:00"
+    "last_modified": "Mon, 07 Sep 2026 13:22:37 GMT",
+    "checked_at": "2026-09-07T13:25:16.843154+00:00"
   }
 }
