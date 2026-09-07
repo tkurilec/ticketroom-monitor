@@ -75,11 +75,11 @@
         ]
       }
     ],
-    "last_modified": "Mon, 07 Sep 2026 16:02:23 GMT",
-    "checked_at": "2026-09-07T16:05:14.283274+00:00"
+    "last_modified": "Mon, 07 Sep 2026 18:07:56 GMT",
+    "checked_at": "2026-09-07T18:10:16.093952+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "213e11f1d6c07d9aefa7ec3282813a1bb8d00d6d374380bc952d5c5883150de2",
+    "hash": "e9aa6af7051319f9ee120de26544a8524c906340b95063b0350c8c3c36966a1d",
     "confirmed": [
       {
         "name": "Lunchtime Kickoff",
@@ -92,9 +92,15 @@
         "legs": [
           "Paul Mendy"
         ]
+      },
+      {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Keinan Davis"
+        ]
       }
     ],
-    "last_modified": "Mon, 07 Sep 2026 16:02:23 GMT",
-    "checked_at": "2026-09-07T16:05:14.747311+00:00"
+    "last_modified": "Mon, 07 Sep 2026 18:07:56 GMT",
+    "checked_at": "2026-09-07T18:10:16.581538+00:00"
   }
 }
