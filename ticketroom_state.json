@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "ea3f983b0578b45e1c0511bcedace2ec6c689394fa708e3906ead6a5cf783edc",
+    "hash": "99f0f849bc2d253cfe3322a6d1955f6c4afc18857f1e0d4d5bb1a115cce00a25",
     "confirmed": [
       {
         "name": "Midday Meal",
@@ -13,15 +13,21 @@
         "legs": [
           "Ketel Marte"
         ]
+      },
+      {
+        "name": "Made Fast",
+        "legs": [
+          "Kyle Stowers"
+        ]
       }
     ],
-    "last_modified": "Mon, 07 Sep 2026 13:53:15 GMT",
-    "checked_at": "2026-09-07T13:55:26.184842+00:00"
+    "last_modified": "Mon, 07 Sep 2026 14:01:24 GMT",
+    "checked_at": "2026-09-07T14:05:14.911978+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Mon, 07 Sep 2026 13:53:16 GMT",
-    "checked_at": "2026-09-07T13:55:28.280047+00:00"
+    "last_modified": "Mon, 07 Sep 2026 14:01:24 GMT",
+    "checked_at": "2026-09-07T14:05:15.122601+00:00"
   }
 }
