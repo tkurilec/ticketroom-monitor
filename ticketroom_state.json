@@ -75,11 +75,11 @@
         ]
       }
     ],
-    "last_modified": "Mon, 07 Sep 2026 18:07:56 GMT",
-    "checked_at": "2026-09-07T18:10:16.093952+00:00"
+    "last_modified": "Mon, 07 Sep 2026 18:37:31 GMT",
+    "checked_at": "2026-09-07T18:40:15.245992+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e9aa6af7051319f9ee120de26544a8524c906340b95063b0350c8c3c36966a1d",
+    "hash": "0fe077b5badd8a5e8cff621d402d7903cd5894e543379fbe33fa5ce49fe562ec",
     "confirmed": [
       {
         "name": "Lunchtime Kickoff",
@@ -98,9 +98,21 @@
         "legs": [
           "Keinan Davis"
         ]
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Mikel Oyarzabal"
+        ]
+      },
+      {
+        "name": "Back Post",
+        "legs": [
+          "Andrea Pinamonti"
+        ]
       }
     ],
-    "last_modified": "Mon, 07 Sep 2026 18:07:56 GMT",
-    "checked_at": "2026-09-07T18:10:16.581538+00:00"
+    "last_modified": "Mon, 07 Sep 2026 18:37:31 GMT",
+    "checked_at": "2026-09-07T18:40:16.339182+00:00"
   }
 }
