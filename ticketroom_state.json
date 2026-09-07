@@ -1,9 +1,22 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Mon, 07 Sep 2026 13:22:37 GMT",
-    "checked_at": "2026-09-07T13:25:16.629469+00:00"
+    "hash": "ea3f983b0578b45e1c0511bcedace2ec6c689394fa708e3906ead6a5cf783edc",
+    "confirmed": [
+      {
+        "name": "Midday Meal",
+        "legs": [
+          "Nolan Arenado"
+        ]
+      },
+      {
+        "name": "Slack Tide",
+        "legs": [
+          "Ketel Marte"
+        ]
+      }
+    ],
+    "last_modified": "Mon, 07 Sep 2026 13:26:47 GMT",
+    "checked_at": "2026-09-07T13:30:56.715211+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "daebe7108e57f2958428a71da0978a33b922c61b28c4174d6df68d697eee2768",
@@ -87,7 +100,7 @@
         ]
       }
     ],
-    "last_modified": "Mon, 07 Sep 2026 13:22:37 GMT",
-    "checked_at": "2026-09-07T13:25:16.843154+00:00"
+    "last_modified": "Mon, 07 Sep 2026 13:26:47 GMT",
+    "checked_at": "2026-09-07T13:30:56.874342+00:00"
   }
 }
