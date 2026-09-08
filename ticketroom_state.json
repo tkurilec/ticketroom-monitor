@@ -2,44 +2,13 @@
   "https://theticketroom.live/mlb/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 08 Sep 2026 13:17:59 GMT",
-    "checked_at": "2026-09-08T13:20:17.176855+00:00"
+    "last_modified": "Tue, 08 Sep 2026 14:22:14 GMT",
+    "checked_at": "2026-09-08T14:25:15.949356+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "0fe077b5badd8a5e8cff621d402d7903cd5894e543379fbe33fa5ce49fe562ec",
-    "confirmed": [
-      {
-        "name": "Lunchtime Kickoff",
-        "legs": [
-          "Enes Unal"
-        ]
-      },
-      {
-        "name": "Near Post",
-        "legs": [
-          "Paul Mendy"
-        ]
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Keinan Davis"
-        ]
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Mikel Oyarzabal"
-        ]
-      },
-      {
-        "name": "Back Post",
-        "legs": [
-          "Andrea Pinamonti"
-        ]
-      }
-    ],
-    "last_modified": "Tue, 08 Sep 2026 13:17:59 GMT",
-    "checked_at": "2026-09-08T13:20:17.341503+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Tue, 08 Sep 2026 14:22:14 GMT",
+    "checked_at": "2026-09-08T14:25:16.669484+00:00"
   }
 }
