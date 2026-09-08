@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "19de79c5ee20c7d3d2f5a0b93740e37012af75df532dc5da28d8d0c0cf6706ae",
+    "hash": "638678968d81e7edd461c77fe0ed6fe0c2140c15fdb1283429a2d0e9f080bb4f",
     "confirmed": [
       {
         "name": "Made Fast",
@@ -81,10 +81,16 @@
           "Munetaka Murakami",
           "Pete Alonso"
         ]
+      },
+      {
+        "name": "Last Call",
+        "legs": [
+          "Teoscar Hern\u00e1ndez"
+        ]
       }
     ],
-    "last_modified": "Tue, 08 Sep 2026 20:33:17 GMT",
-    "checked_at": "2026-09-08T20:35:19.517941+00:00"
+    "last_modified": "Tue, 08 Sep 2026 22:04:45 GMT",
+    "checked_at": "2026-09-08T22:05:16.508923+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "1e802363791b45aeaefb6706fbf083b27e13e4182d7cde0a4480448674725bb7",
@@ -162,7 +168,7 @@
         ]
       }
     ],
-    "last_modified": "Tue, 08 Sep 2026 20:33:17 GMT",
-    "checked_at": "2026-09-08T20:35:19.823676+00:00"
+    "last_modified": "Tue, 08 Sep 2026 22:04:45 GMT",
+    "checked_at": "2026-09-08T22:05:16.605027+00:00"
   }
 }
