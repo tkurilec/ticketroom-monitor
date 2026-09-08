@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "b3db27fe5d0ca72fcca6c1f4640414cd1531792531c53dfa8ccd4b210d6558f0",
+    "hash": "528df5fc55764c7b04fde93aa000f09b2ce6ec098dc17ea18881c871db71629d",
     "confirmed": [
       {
         "name": "Made Fast",
@@ -87,10 +87,18 @@
           "Munetaka Murakami",
           "Pete Alonso"
         ]
+      },
+      {
+        "name": "Shot Into Orbit",
+        "legs": [
+          "Cal Raleigh",
+          "Kazuma Okamoto",
+          "Munetaka Murakami"
+        ]
       }
     ],
-    "last_modified": "Tue, 08 Sep 2026 22:14:49 GMT",
-    "checked_at": "2026-09-08T22:15:17.564844+00:00"
+    "last_modified": "Tue, 08 Sep 2026 22:54:52 GMT",
+    "checked_at": "2026-09-08T22:55:14.568969+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "1e802363791b45aeaefb6706fbf083b27e13e4182d7cde0a4480448674725bb7",
@@ -168,7 +176,7 @@
         ]
       }
     ],
-    "last_modified": "Tue, 08 Sep 2026 22:14:49 GMT",
-    "checked_at": "2026-09-08T22:15:17.758629+00:00"
+    "last_modified": "Tue, 08 Sep 2026 22:54:52 GMT",
+    "checked_at": "2026-09-08T22:55:14.682998+00:00"
   }
 }
