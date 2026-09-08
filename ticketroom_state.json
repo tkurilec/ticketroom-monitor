@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "0644003c3bd2d100272053cdba6185c8c94bc849f3cb97b2aa33b3e5f7d07af9",
+    "hash": "44fbf71214e6e5e3ac6b8efbac2d3716415a0740a29ad329c14a047d4578f9e3",
     "confirmed": [
       {
         "name": "Made Fast",
@@ -51,6 +51,14 @@
         ]
       },
       {
+        "name": "Terminal Climb",
+        "legs": [
+          "Ben Rice",
+          "Brandon Lowe",
+          "Yordan Alvarez"
+        ]
+      },
+      {
         "name": "Sky High",
         "legs": [
           "Hunter Goodman",
@@ -59,8 +67,8 @@
         ]
       }
     ],
-    "last_modified": "Tue, 08 Sep 2026 20:02:56 GMT",
-    "checked_at": "2026-09-08T20:05:19.006456+00:00"
+    "last_modified": "Tue, 08 Sep 2026 20:13:07 GMT",
+    "checked_at": "2026-09-08T20:15:20.925878+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "1e802363791b45aeaefb6706fbf083b27e13e4182d7cde0a4480448674725bb7",
@@ -138,7 +146,7 @@
         ]
       }
     ],
-    "last_modified": "Tue, 08 Sep 2026 20:02:56 GMT",
-    "checked_at": "2026-09-08T20:05:19.192617+00:00"
+    "last_modified": "Tue, 08 Sep 2026 20:13:07 GMT",
+    "checked_at": "2026-09-08T20:15:21.081684+00:00"
   }
 }
