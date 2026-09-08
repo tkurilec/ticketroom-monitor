@@ -2,11 +2,11 @@
   "https://theticketroom.live/mlb/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 08 Sep 2026 18:12:37 GMT",
-    "checked_at": "2026-09-08T18:15:15.459693+00:00"
+    "last_modified": "Tue, 08 Sep 2026 18:23:04 GMT",
+    "checked_at": "2026-09-08T18:25:15.076091+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "fe9c77a31df73ac6c9df657fcf3f5eacfd7860cd69c222b0b08b93c1902fd366",
+    "hash": "1e802363791b45aeaefb6706fbf083b27e13e4182d7cde0a4480448674725bb7",
     "confirmed": [
       {
         "name": "Lunchtime Kickoff",
@@ -29,6 +29,14 @@
         ]
       },
       {
+        "name": "From Distance",
+        "legs": [
+          "Georges Mikautadze",
+          "Kylian Mbappe",
+          "Troy Parrott"
+        ]
+      },
+      {
         "name": "Dipping Effort",
         "legs": [
           "David Brooks",
@@ -39,6 +47,14 @@
       {
         "name": "The Poacher",
         "legs": [
+          "Serhou Guirassy"
+        ]
+      },
+      {
+        "name": "Curled Home",
+        "legs": [
+          "Ayase Ueda",
+          "Ben Doak",
           "Serhou Guirassy"
         ]
       },
@@ -65,7 +81,7 @@
         ]
       }
     ],
-    "last_modified": "Tue, 08 Sep 2026 18:12:37 GMT",
-    "checked_at": "2026-09-08T18:15:16.128228+00:00"
+    "last_modified": "Tue, 08 Sep 2026 18:23:04 GMT",
+    "checked_at": "2026-09-08T18:25:16.086635+00:00"
   }
 }
