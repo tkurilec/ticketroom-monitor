@@ -1,16 +1,22 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "84e06b09c68aea621e054a1508318ceae7a56cf28297f0afaaa11efda7fa98e8",
+    "hash": "0776408ccbd66121bb309d720771d47d51f3f4bc020d4a6b899aa5761ba07c19",
     "confirmed": [
       {
         "name": "Made Fast",
         "legs": [
           "Kyle Schwarber"
         ]
+      },
+      {
+        "name": "Slack Tide",
+        "legs": [
+          "Aaron Judge"
+        ]
       }
     ],
-    "last_modified": "Tue, 08 Sep 2026 19:01:49 GMT",
-    "checked_at": "2026-09-08T19:05:14.208215+00:00"
+    "last_modified": "Tue, 08 Sep 2026 19:17:38 GMT",
+    "checked_at": "2026-09-08T19:20:19.034189+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "1e802363791b45aeaefb6706fbf083b27e13e4182d7cde0a4480448674725bb7",
@@ -88,7 +94,7 @@
         ]
       }
     ],
-    "last_modified": "Tue, 08 Sep 2026 19:01:49 GMT",
-    "checked_at": "2026-09-08T19:05:14.316922+00:00"
+    "last_modified": "Tue, 08 Sep 2026 19:17:38 GMT",
+    "checked_at": "2026-09-08T19:20:19.191318+00:00"
   }
 }
