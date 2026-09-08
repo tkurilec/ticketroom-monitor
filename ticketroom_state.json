@@ -2,11 +2,11 @@
   "https://theticketroom.live/mlb/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 08 Sep 2026 18:07:36 GMT",
-    "checked_at": "2026-09-08T18:10:21.931732+00:00"
+    "last_modified": "Tue, 08 Sep 2026 18:12:37 GMT",
+    "checked_at": "2026-09-08T18:15:15.459693+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "f2b4a7a95a469e0d30ee397f3a3bfb0ae1297a0e2e10b9b5eab9d9ed360af2a8",
+    "hash": "fe9c77a31df73ac6c9df657fcf3f5eacfd7860cd69c222b0b08b93c1902fd366",
     "confirmed": [
       {
         "name": "Lunchtime Kickoff",
@@ -41,9 +41,31 @@
         "legs": [
           "Serhou Guirassy"
         ]
+      },
+      {
+        "name": "Upper Ninety",
+        "legs": [
+          "Erling Haaland",
+          "Jorgen Larsen",
+          "Lautaro Martinez"
+        ]
+      },
+      {
+        "name": "Postage Stamp",
+        "legs": [
+          "Erling Haaland",
+          "Vinicius Jr",
+          "Wilson Isidor"
+        ]
+      },
+      {
+        "name": "Shoulder of the Last Man",
+        "legs": [
+          "Erling Haaland"
+        ]
       }
     ],
-    "last_modified": "Tue, 08 Sep 2026 18:07:36 GMT",
-    "checked_at": "2026-09-08T18:10:23.243558+00:00"
+    "last_modified": "Tue, 08 Sep 2026 18:12:37 GMT",
+    "checked_at": "2026-09-08T18:15:16.128228+00:00"
   }
 }
