@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "0776408ccbd66121bb309d720771d47d51f3f4bc020d4a6b899aa5761ba07c19",
+    "hash": "caa4a63fa5618717b960cc35ec0556590cb1b8af7fa0017d31ef4e75414fae27",
     "confirmed": [
       {
         "name": "Made Fast",
@@ -13,10 +13,18 @@
         "legs": [
           "Aaron Judge"
         ]
+      },
+      {
+        "name": "Past the Event Horizon",
+        "legs": [
+          "Aaron Judge",
+          "Carter Jensen",
+          "Matt Olson"
+        ]
       }
     ],
-    "last_modified": "Tue, 08 Sep 2026 19:17:38 GMT",
-    "checked_at": "2026-09-08T19:20:19.034189+00:00"
+    "last_modified": "Tue, 08 Sep 2026 19:23:01 GMT",
+    "checked_at": "2026-09-08T19:25:18.717186+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "1e802363791b45aeaefb6706fbf083b27e13e4182d7cde0a4480448674725bb7",
@@ -94,7 +102,7 @@
         ]
       }
     ],
-    "last_modified": "Tue, 08 Sep 2026 19:17:38 GMT",
-    "checked_at": "2026-09-08T19:20:19.191318+00:00"
+    "last_modified": "Tue, 08 Sep 2026 19:23:01 GMT",
+    "checked_at": "2026-09-08T19:25:18.912773+00:00"
   }
 }
