@@ -1,110 +1,9 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "42afa8040adca5c0bdba9512b57b95fc32b85ee83b54178d1cb42d0c0c713850",
-    "confirmed": [
-      {
-        "name": "Midday Meal",
-        "legs": [
-          "Nolan Arenado"
-        ]
-      },
-      {
-        "name": "Slack Tide",
-        "legs": [
-          "Ketel Marte"
-        ]
-      },
-      {
-        "name": "Made Fast",
-        "legs": [
-          "Kyle Stowers"
-        ]
-      },
-      {
-        "name": "High Water",
-        "legs": [
-          "Kyle Schwarber"
-        ]
-      },
-      {
-        "name": "Shot Into Orbit",
-        "legs": [
-          "Jo Adell",
-          "Juan Soto",
-          "Ketel Marte"
-        ]
-      },
-      {
-        "name": "Past the Event Horizon",
-        "legs": [
-          "Ketel Marte",
-          "Matt Olson",
-          "Wilyer Abreu"
-        ]
-      },
-      {
-        "name": "Into the Upper Air",
-        "legs": [
-          "Kyle Schwarber",
-          "Pete Alonso",
-          "Salvador Perez"
-        ]
-      },
-      {
-        "name": "Beyond the Bleachers",
-        "legs": [
-          "Bobby Witt",
-          "Kyle Schwarber",
-          "Pete Crow-Armstrong"
-        ]
-      },
-      {
-        "name": "Terminal Climb",
-        "legs": [
-          "Bryce Harper",
-          "Carter Jensen",
-          "Kyle Stowers"
-        ]
-      },
-      {
-        "name": "The Apollo",
-        "legs": [
-          "Jos\u00e9 Ram\u00edrez",
-          "Kody Clemens",
-          "Kyle Stowers"
-        ]
-      },
-      {
-        "name": "Cast Off",
-        "legs": [
-          "Rafael Devers"
-        ]
-      },
-      {
-        "name": "Past Low Earth Orbit",
-        "legs": [
-          "Rafael Devers",
-          "Shohei Ohtani",
-          "Vladimir Guerrero"
-        ]
-      },
-      {
-        "name": "Escape Velocity",
-        "legs": [
-          "Kazuma Okamoto",
-          "Rafael Devers",
-          "Sal Stewart"
-        ]
-      },
-      {
-        "name": "The Final Bell",
-        "legs": [
-          "George Springer"
-        ]
-      }
-    ],
-    "last_modified": "Mon, 07 Sep 2026 23:27:18 GMT",
-    "checked_at": "2026-09-07T23:30:22.824817+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Tue, 08 Sep 2026 13:17:59 GMT",
+    "checked_at": "2026-09-08T13:20:17.176855+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "0fe077b5badd8a5e8cff621d402d7903cd5894e543379fbe33fa5ce49fe562ec",
@@ -140,7 +39,7 @@
         ]
       }
     ],
-    "last_modified": "Mon, 07 Sep 2026 23:27:18 GMT",
-    "checked_at": "2026-09-07T23:30:23.069094+00:00"
+    "last_modified": "Tue, 08 Sep 2026 13:17:59 GMT",
+    "checked_at": "2026-09-08T13:20:17.341503+00:00"
   }
 }
