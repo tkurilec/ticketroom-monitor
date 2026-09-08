@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "fe9595d5c988f8deba51017eb4ad20db4e2011fb3996b9ff9650cdbbf75b5ded",
+    "hash": "19de79c5ee20c7d3d2f5a0b93740e37012af75df532dc5da28d8d0c0cf6706ae",
     "confirmed": [
       {
         "name": "Made Fast",
@@ -32,6 +32,14 @@
         "name": "Cast Off",
         "legs": [
           "Yordan Alvarez"
+        ]
+      },
+      {
+        "name": "Escape Velocity",
+        "legs": [
+          "Aaron Judge",
+          "Corbin Carroll",
+          "Oneil Cruz"
         ]
       },
       {
@@ -75,8 +83,8 @@
         ]
       }
     ],
-    "last_modified": "Tue, 08 Sep 2026 20:23:58 GMT",
-    "checked_at": "2026-09-08T20:25:14.982893+00:00"
+    "last_modified": "Tue, 08 Sep 2026 20:33:17 GMT",
+    "checked_at": "2026-09-08T20:35:19.517941+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "1e802363791b45aeaefb6706fbf083b27e13e4182d7cde0a4480448674725bb7",
@@ -154,7 +162,7 @@
         ]
       }
     ],
-    "last_modified": "Tue, 08 Sep 2026 20:23:58 GMT",
-    "checked_at": "2026-09-08T20:25:15.065049+00:00"
+    "last_modified": "Tue, 08 Sep 2026 20:33:17 GMT",
+    "checked_at": "2026-09-08T20:35:19.823676+00:00"
   }
 }
