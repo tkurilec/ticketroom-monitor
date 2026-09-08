@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "638678968d81e7edd461c77fe0ed6fe0c2140c15fdb1283429a2d0e9f080bb4f",
+    "hash": "b3db27fe5d0ca72fcca6c1f4640414cd1531792531c53dfa8ccd4b210d6558f0",
     "confirmed": [
       {
         "name": "Made Fast",
@@ -35,10 +35,10 @@
         ]
       },
       {
-        "name": "Escape Velocity",
+        "name": "Defying Gravity",
         "legs": [
           "Aaron Judge",
-          "Corbin Carroll",
+          "Ketel Marte",
           "Oneil Cruz"
         ]
       },
@@ -75,22 +75,22 @@
         ]
       },
       {
+        "name": "Last Call",
+        "legs": [
+          "Teoscar Hern\u00e1ndez"
+        ]
+      },
+      {
         "name": "Sky High",
         "legs": [
           "Hunter Goodman",
           "Munetaka Murakami",
           "Pete Alonso"
         ]
-      },
-      {
-        "name": "Last Call",
-        "legs": [
-          "Teoscar Hern\u00e1ndez"
-        ]
       }
     ],
-    "last_modified": "Tue, 08 Sep 2026 22:04:45 GMT",
-    "checked_at": "2026-09-08T22:05:16.508923+00:00"
+    "last_modified": "Tue, 08 Sep 2026 22:14:49 GMT",
+    "checked_at": "2026-09-08T22:15:17.564844+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "1e802363791b45aeaefb6706fbf083b27e13e4182d7cde0a4480448674725bb7",
@@ -168,7 +168,7 @@
         ]
       }
     ],
-    "last_modified": "Tue, 08 Sep 2026 22:04:45 GMT",
-    "checked_at": "2026-09-08T22:05:16.605027+00:00"
+    "last_modified": "Tue, 08 Sep 2026 22:14:49 GMT",
+    "checked_at": "2026-09-08T22:15:17.758629+00:00"
   }
 }
