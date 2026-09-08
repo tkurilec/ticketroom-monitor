@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "0adfac6e745c4ba79884d64faffdfa18f6c8beeeb81cde582f5362a031193871",
+    "hash": "e271c5748b14f651679bf449a5760b0a96a0f0a28e4bdc2da491efd5c18f619d",
     "confirmed": [
       {
         "name": "Made Fast",
@@ -35,10 +35,24 @@
           "Kyle Schwarber",
           "Spencer Jones"
         ]
+      },
+      {
+        "name": "Cast Off",
+        "legs": [
+          "Yordan Alvarez"
+        ]
+      },
+      {
+        "name": "Past Low Earth Orbit",
+        "legs": [
+          "Colson Montgomery",
+          "Samuel Basallo",
+          "Yordan Alvarez"
+        ]
       }
     ],
-    "last_modified": "Tue, 08 Sep 2026 19:43:09 GMT",
-    "checked_at": "2026-09-08T19:45:16.005578+00:00"
+    "last_modified": "Tue, 08 Sep 2026 19:52:42 GMT",
+    "checked_at": "2026-09-08T19:55:16.159874+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "1e802363791b45aeaefb6706fbf083b27e13e4182d7cde0a4480448674725bb7",
@@ -116,7 +130,7 @@
         ]
       }
     ],
-    "last_modified": "Tue, 08 Sep 2026 19:43:09 GMT",
-    "checked_at": "2026-09-08T19:45:20.322512+00:00"
+    "last_modified": "Tue, 08 Sep 2026 19:52:42 GMT",
+    "checked_at": "2026-09-08T19:55:16.389591+00:00"
   }
 }
