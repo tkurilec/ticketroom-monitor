@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "caa4a63fa5618717b960cc35ec0556590cb1b8af7fa0017d31ef4e75414fae27",
+    "hash": "0adfac6e745c4ba79884d64faffdfa18f6c8beeeb81cde582f5362a031193871",
     "confirmed": [
       {
         "name": "Made Fast",
@@ -21,10 +21,24 @@
           "Carter Jensen",
           "Matt Olson"
         ]
+      },
+      {
+        "name": "Trim the Sail",
+        "legs": [
+          "Munetaka Murakami"
+        ]
+      },
+      {
+        "name": "The Apollo",
+        "legs": [
+          "Juan Soto",
+          "Kyle Schwarber",
+          "Spencer Jones"
+        ]
       }
     ],
-    "last_modified": "Tue, 08 Sep 2026 19:23:01 GMT",
-    "checked_at": "2026-09-08T19:25:18.717186+00:00"
+    "last_modified": "Tue, 08 Sep 2026 19:43:09 GMT",
+    "checked_at": "2026-09-08T19:45:16.005578+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "1e802363791b45aeaefb6706fbf083b27e13e4182d7cde0a4480448674725bb7",
@@ -102,7 +116,7 @@
         ]
       }
     ],
-    "last_modified": "Tue, 08 Sep 2026 19:23:01 GMT",
-    "checked_at": "2026-09-08T19:25:18.912773+00:00"
+    "last_modified": "Tue, 08 Sep 2026 19:43:09 GMT",
+    "checked_at": "2026-09-08T19:45:20.322512+00:00"
   }
 }
