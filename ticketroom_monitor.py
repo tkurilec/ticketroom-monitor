@@ -25,6 +25,26 @@ import requests
 PAGES = {
     "MLB Board": "https://theticketroom.live/mlb/",
     "Soccer Board": "https://theticketroom.live/soccer/",
+    "NFL Board": "https://theticketroom.live/nfl/",
+}
+
+# Per-board sportsbook market pages (the page listing every player's prop),
+# linked once per confirmed ticket so the whole round robin is placeable fast.
+BOARD_LINKS = {
+    "MLB Board": [
+        ("DK HR board", "https://sportsbook.draftkings.com/leagues/baseball/mlb"
+                        "?category=batter-props&subcategory=home-runs"),
+        ("FD baseball", "https://sportsbook.fanduel.com/baseball"),
+    ],
+    "Soccer Board": [
+        ("DK soccer", "https://sportsbook.draftkings.com/sports/soccer"),
+        ("FD soccer", "https://sportsbook.fanduel.com/soccer"),
+    ],
+    "NFL Board": [
+        ("DK TD board", "https://sportsbook.draftkings.com/leagues/football/nfl"
+                        "?category=td-scorers"),
+        ("FD football", "https://sportsbook.fanduel.com/football"),
+    ],
 }
 
 STATE_FILE = Path(__file__).parent / "ticketroom_state.json"
@@ -116,7 +136,21 @@ def save_state(state: dict) -> None:
     STATE_FILE.write_text(json.dumps(state, indent=2) + "\n", encoding="utf-8")
 
 
-def describe_change(prev_confirmed: list | None, new_confirmed: list) -> list[dict]:
+def ticket_value(legs: list, board_links: list) -> str:
+    """Embed text for one confirmed ticket: the group of legs, a copyable
+    names line (paste into Gambly for all-book odds), and one-tap links to
+    the books' prop boards to build the round robin."""
+    lines = ["**" + " · ".join(legs) + "**",
+             "`" + ", ".join(legs) + "`"]
+    if board_links:
+        lines.append("Place: " + " · ".join(f"[{label}]({url})"
+                                            for label, url in board_links))
+    value = "\n".join(lines)
+    return value if len(value) <= 1024 else "\n".join(legs)[:1024]
+
+
+def describe_change(prev_confirmed: list | None, new_confirmed: list,
+                    board_links: list | None = None) -> list[dict]:
     """Build embed fields describing confirmed-ticket changes."""
     fields = []
     if prev_confirmed is None:
@@ -128,8 +162,8 @@ def describe_change(prev_confirmed: list | None, new_confirmed: list) -> list[di
     for ticket_name in fresh[:10]:
         label = "✅ " + (ticket_name or "Ticket")
         fields.append({"name": label[:256],
-                       "value": "\n".join(new[ticket_name])[:1024],
-                       "inline": True})
+                       "value": ticket_value(new[ticket_name], board_links or []),
+                       "inline": False})
     if len(fresh) > 10:
         fields.append({"name": "More",
                        "value": f"…and {len(fresh) - 10} more confirmed tickets",
@@ -197,7 +231,8 @@ def check_all() -> None:
             first_run_pages.append(name)
         elif prev.get("hash") != digest:
             print(f"CHANGE detected on {name} ({url}) last_modified={last_modified}")
-            change_fields = (describe_change(prev.get("confirmed"), confirmed)
+            change_fields = (describe_change(prev.get("confirmed"), confirmed,
+                                             BOARD_LINKS.get(name))
                              if confirmed is not None else [])
             notify_discord(webhook, name, url, last_modified, change_fields)
         else:
