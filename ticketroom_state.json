@@ -1,16 +1,30 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e70bea5cc12ed3284177d3459c9b9a532c829c97727534393c1a48fbff5cb140",
+    "hash": "888ca050022207fbee37e61b0f802edff3fa7474c626e2a077538e7d09df55ff",
     "confirmed": [
       {
         "name": "The Blue Plate",
         "legs": [
           "Kody Clemens"
         ]
+      },
+      {
+        "name": "Defying Gravity",
+        "legs": [
+          "Cal Raleigh",
+          "Manny Machado",
+          "Vladimir Guerrero"
+        ]
+      },
+      {
+        "name": "Port of Call",
+        "legs": [
+          "Cal Raleigh"
+        ]
       }
     ],
-    "last_modified": "Wed, 09 Sep 2026 15:57:42 GMT",
-    "checked_at": "2026-09-09T16:00:33.084782+00:00"
+    "last_modified": "Wed, 09 Sep 2026 17:42:45 GMT",
+    "checked_at": "2026-09-09T17:45:17.497823+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "c507fae772d68ca954eba2f9825088bbdb76a9ababfc82b5b4aacc5f9d5d9ca8",
@@ -22,7 +36,7 @@
         ]
       }
     ],
-    "last_modified": "Wed, 09 Sep 2026 15:57:42 GMT",
-    "checked_at": "2026-09-09T16:00:34.393247+00:00"
+    "last_modified": "Wed, 09 Sep 2026 17:42:45 GMT",
+    "checked_at": "2026-09-09T17:45:17.813818+00:00"
   }
 }
