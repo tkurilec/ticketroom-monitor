@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "d464a6927d7dc6c28385ad85ad978e4d2a18c312e246d3b948262dbd55b1b229",
+    "hash": "f1a11d28a98f12a33a9e3737a2027c852aaae0d62dbdaf35f98e5c4267b0947d",
     "confirmed": [
       {
         "name": "The Blue Plate",
@@ -29,10 +29,16 @@
           "James Wood",
           "Kazuma Okamoto"
         ]
+      },
+      {
+        "name": "Slack Tide",
+        "legs": [
+          "Kyle Schwarber"
+        ]
       }
     ],
-    "last_modified": "Wed, 09 Sep 2026 18:22:40 GMT",
-    "checked_at": "2026-09-09T18:25:20.593979+00:00"
+    "last_modified": "Wed, 09 Sep 2026 18:57:47 GMT",
+    "checked_at": "2026-09-09T19:00:25.044331+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "c6df2c33a2f9af6bff4ed3a33b63a0543d7473dbee286121cc80ab3392bad25d",
@@ -88,7 +94,7 @@
         ]
       }
     ],
-    "last_modified": "Wed, 09 Sep 2026 18:22:40 GMT",
-    "checked_at": "2026-09-09T18:25:20.954754+00:00"
+    "last_modified": "Wed, 09 Sep 2026 18:57:47 GMT",
+    "checked_at": "2026-09-09T19:00:25.210489+00:00"
   }
 }
