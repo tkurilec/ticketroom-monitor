@@ -9,86 +9,13 @@
         ]
       }
     ],
-    "last_modified": "Wed, 09 Sep 2026 15:02:27 GMT",
-    "checked_at": "2026-09-09T15:05:17.584215+00:00"
+    "last_modified": "Wed, 09 Sep 2026 15:37:37 GMT",
+    "checked_at": "2026-09-09T15:40:21.376373+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "1e802363791b45aeaefb6706fbf083b27e13e4182d7cde0a4480448674725bb7",
-    "confirmed": [
-      {
-        "name": "Lunchtime Kickoff",
-        "legs": [
-          "Nicolas Jackson"
-        ]
-      },
-      {
-        "name": "Top Corner",
-        "legs": [
-          "Alvaro Rodriguez",
-          "Kylian Mbappe",
-          "Yoane Wissa"
-        ]
-      },
-      {
-        "name": "Runs the Channel",
-        "legs": [
-          "Kylian Mbappe"
-        ]
-      },
-      {
-        "name": "From Distance",
-        "legs": [
-          "Georges Mikautadze",
-          "Kylian Mbappe",
-          "Troy Parrott"
-        ]
-      },
-      {
-        "name": "Dipping Effort",
-        "legs": [
-          "David Brooks",
-          "Marcus Thuram",
-          "Serhou Guirassy"
-        ]
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Serhou Guirassy"
-        ]
-      },
-      {
-        "name": "Curled Home",
-        "legs": [
-          "Ayase Ueda",
-          "Ben Doak",
-          "Serhou Guirassy"
-        ]
-      },
-      {
-        "name": "Upper Ninety",
-        "legs": [
-          "Erling Haaland",
-          "Jorgen Larsen",
-          "Lautaro Martinez"
-        ]
-      },
-      {
-        "name": "Postage Stamp",
-        "legs": [
-          "Erling Haaland",
-          "Vinicius Jr",
-          "Wilson Isidor"
-        ]
-      },
-      {
-        "name": "Shoulder of the Last Man",
-        "legs": [
-          "Erling Haaland"
-        ]
-      }
-    ],
-    "last_modified": "Wed, 09 Sep 2026 15:02:27 GMT",
-    "checked_at": "2026-09-09T15:05:17.847275+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Wed, 09 Sep 2026 15:37:37 GMT",
+    "checked_at": "2026-09-09T15:40:23.650908+00:00"
   }
 }
