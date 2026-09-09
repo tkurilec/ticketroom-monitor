@@ -9,13 +9,20 @@
         ]
       }
     ],
-    "last_modified": "Wed, 09 Sep 2026 15:37:37 GMT",
-    "checked_at": "2026-09-09T15:40:21.376373+00:00"
+    "last_modified": "Wed, 09 Sep 2026 15:57:42 GMT",
+    "checked_at": "2026-09-09T16:00:33.084782+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Wed, 09 Sep 2026 15:37:37 GMT",
-    "checked_at": "2026-09-09T15:40:23.650908+00:00"
+    "hash": "c507fae772d68ca954eba2f9825088bbdb76a9ababfc82b5b4aacc5f9d5d9ca8",
+    "confirmed": [
+      {
+        "name": "Early Doors",
+        "legs": [
+          "Raphinha"
+        ]
+      }
+    ],
+    "last_modified": "Wed, 09 Sep 2026 15:57:42 GMT",
+    "checked_at": "2026-09-09T16:00:34.393247+00:00"
   }
 }
