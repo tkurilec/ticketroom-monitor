@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "f1a11d28a98f12a33a9e3737a2027c852aaae0d62dbdaf35f98e5c4267b0947d",
+    "hash": "858cc25a8e513c463dbc0e8b70683803553c18eac6a8e9cfabaf908a615a3602",
     "confirmed": [
       {
         "name": "The Blue Plate",
@@ -35,10 +35,38 @@
         "legs": [
           "Kyle Schwarber"
         ]
+      },
+      {
+        "name": "Past Low Earth Orbit",
+        "legs": [
+          "Ben Rice",
+          "Colson Montgomery",
+          "Kyle Schwarber"
+        ]
+      },
+      {
+        "name": "Escape Velocity",
+        "legs": [
+          "Hunter Goodman",
+          "Kyle Schwarber",
+          "Matt Olson"
+        ]
+      },
+      {
+        "name": "Cast Off",
+        "legs": [
+          "Aaron Judge"
+        ]
+      },
+      {
+        "name": "Trim the Sail",
+        "legs": [
+          "Spencer Jones"
+        ]
       }
     ],
-    "last_modified": "Wed, 09 Sep 2026 18:57:47 GMT",
-    "checked_at": "2026-09-09T19:00:25.044331+00:00"
+    "last_modified": "Wed, 09 Sep 2026 19:43:10 GMT",
+    "checked_at": "2026-09-09T19:45:17.677702+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "c6df2c33a2f9af6bff4ed3a33b63a0543d7473dbee286121cc80ab3392bad25d",
@@ -94,7 +122,7 @@
         ]
       }
     ],
-    "last_modified": "Wed, 09 Sep 2026 18:57:47 GMT",
-    "checked_at": "2026-09-09T19:00:25.210489+00:00"
+    "last_modified": "Wed, 09 Sep 2026 19:43:10 GMT",
+    "checked_at": "2026-09-09T19:45:17.893465+00:00"
   }
 }
