@@ -103,13 +103,64 @@
         ]
       }
     ],
-    "last_modified": "Wed, 09 Sep 2026 23:04:26 GMT",
-    "checked_at": "2026-09-09T23:05:14.710266+00:00"
+    "last_modified": "Wed, 09 Sep 2026 23:09:21 GMT",
+    "checked_at": "2026-09-09T23:10:18.678216+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Wed, 09 Sep 2026 23:04:26 GMT",
-    "checked_at": "2026-09-09T23:05:16.242368+00:00"
+    "hash": "c6df2c33a2f9af6bff4ed3a33b63a0543d7473dbee286121cc80ab3392bad25d",
+    "confirmed": [
+      {
+        "name": "Early Doors",
+        "legs": [
+          "Raphinha"
+        ]
+      },
+      {
+        "name": "Runs the Channel",
+        "legs": [
+          "Ferran Torres"
+        ]
+      },
+      {
+        "name": "Top Corner",
+        "legs": [
+          "Bradley Barcola",
+          "Ferran Torres",
+          "Mikel Merino"
+        ]
+      },
+      {
+        "name": "From Distance",
+        "legs": [
+          "Estevao",
+          "Ferran Torres",
+          "Viktor Gyokeres"
+        ]
+      },
+      {
+        "name": "Outside the Box",
+        "legs": [
+          "Alexander Isak",
+          "Danny Welbeck",
+          "Ousmane Dembele"
+        ]
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Ousmane Dembele"
+        ]
+      },
+      {
+        "name": "Off the Underside",
+        "legs": [
+          "Bukayo Saka",
+          "Lukas Nmecha",
+          "Ousmane Dembele"
+        ]
+      }
+    ],
+    "last_modified": "Wed, 09 Sep 2026 23:09:21 GMT",
+    "checked_at": "2026-09-09T23:10:19.408525+00:00"
   }
 }
