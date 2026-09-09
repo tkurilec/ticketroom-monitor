@@ -103,11 +103,11 @@
         ]
       }
     ],
-    "last_modified": "Wed, 09 Sep 2026 23:09:21 GMT",
-    "checked_at": "2026-09-09T23:10:18.678216+00:00"
+    "last_modified": "Wed, 09 Sep 2026 23:45:12 GMT",
+    "checked_at": "2026-09-09T23:45:15.072671+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "c6df2c33a2f9af6bff4ed3a33b63a0543d7473dbee286121cc80ab3392bad25d",
+    "hash": "19f85b57aac94a7c43fe21f305936b05ec7dfcdc2aa3c91253c6d499f3eebdf6",
     "confirmed": [
       {
         "name": "Early Doors",
@@ -158,9 +158,15 @@
           "Lukas Nmecha",
           "Ousmane Dembele"
         ]
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Lionel Messi"
+        ]
       }
     ],
-    "last_modified": "Wed, 09 Sep 2026 23:09:21 GMT",
-    "checked_at": "2026-09-09T23:10:19.408525+00:00"
+    "last_modified": "Wed, 09 Sep 2026 23:45:12 GMT",
+    "checked_at": "2026-09-09T23:45:16.462930+00:00"
   }
 }
