@@ -103,11 +103,11 @@
         ]
       }
     ],
-    "last_modified": "Wed, 09 Sep 2026 23:45:12 GMT",
-    "checked_at": "2026-09-09T23:45:15.072671+00:00"
+    "last_modified": "Wed, 09 Sep 2026 23:49:10 GMT",
+    "checked_at": "2026-09-09T23:50:17.790174+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "19f85b57aac94a7c43fe21f305936b05ec7dfcdc2aa3c91253c6d499f3eebdf6",
+    "hash": "42061d1687ffb2cf9a29ddf65f9e35a3cad835c5eb3f48fd5ab8fe0d1a9e501d",
     "confirmed": [
       {
         "name": "Early Doors",
@@ -164,9 +164,23 @@
         "legs": [
           "Lionel Messi"
         ]
+      },
+      {
+        "name": "Dipping Effort",
+        "legs": [
+          "Kelvin Yeboah",
+          "Lionel Messi",
+          "Sam Surridge"
+        ]
       }
     ],
-    "last_modified": "Wed, 09 Sep 2026 23:45:12 GMT",
-    "checked_at": "2026-09-09T23:45:16.462930+00:00"
+    "last_modified": "Wed, 09 Sep 2026 23:49:10 GMT",
+    "checked_at": "2026-09-09T23:50:18.254625+00:00"
+  },
+  "https://theticketroom.live/nfl/": {
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Wed, 09 Sep 2026 23:49:10 GMT",
+    "checked_at": "2026-09-09T23:50:18.471983+00:00"
   }
 }
