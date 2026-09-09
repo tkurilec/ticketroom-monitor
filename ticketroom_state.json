@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "f2ab4de89dbcddc17ffed3b86b95b2ce7381bd40023a61c33e592b441fb8ddfa",
+    "hash": "30572c64d6831beffeccde325870a268e1d3428c60ca5eae5859f6c986b76b06",
     "confirmed": [
       {
         "name": "The Blue Plate",
@@ -95,10 +95,16 @@
           "Pete Alonso",
           "Pete Crow-Armstrong"
         ]
+      },
+      {
+        "name": "Closing Time",
+        "legs": [
+          "Freddie Freeman"
+        ]
       }
     ],
-    "last_modified": "Wed, 09 Sep 2026 21:18:24 GMT",
-    "checked_at": "2026-09-09T21:20:21.159843+00:00"
+    "last_modified": "Wed, 09 Sep 2026 22:03:54 GMT",
+    "checked_at": "2026-09-09T22:05:15.294475+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "c6df2c33a2f9af6bff4ed3a33b63a0543d7473dbee286121cc80ab3392bad25d",
@@ -154,7 +160,7 @@
         ]
       }
     ],
-    "last_modified": "Wed, 09 Sep 2026 21:18:24 GMT",
-    "checked_at": "2026-09-09T21:20:21.291041+00:00"
+    "last_modified": "Wed, 09 Sep 2026 22:03:54 GMT",
+    "checked_at": "2026-09-09T22:05:15.453260+00:00"
   }
 }
