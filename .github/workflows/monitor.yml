@@ -6,6 +6,10 @@ on:
     # like :00/:15/:30/:45, so odd offsets fire far more reliably.
     - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
+    inputs:
+      test_board:
+        description: "Board to test-post (MLB Board / Soccer Board / NFL Board)"
+        required: false
 
 permissions:
   contents: write
@@ -30,7 +34,13 @@ jobs:
       - name: Run monitor
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-        run: python ticketroom_monitor.py --once
+          TEST_BOARD: ${{ github.event.inputs.test_board }}
+        run: |
+          if [ -n "$TEST_BOARD" ]; then
+            python ticketroom_monitor.py --test-board "$TEST_BOARD"
+          else
+            python ticketroom_monitor.py --once
+          fi
 
       - name: Commit updated state
         # Retry with rebase: if another push lands mid-run, a plain push fails,
