@@ -1,104 +1,16 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "528df5fc55764c7b04fde93aa000f09b2ce6ec098dc17ea18881c871db71629d",
+    "hash": "e70bea5cc12ed3284177d3459c9b9a532c829c97727534393c1a48fbff5cb140",
     "confirmed": [
       {
-        "name": "Made Fast",
+        "name": "The Blue Plate",
         "legs": [
-          "Kyle Schwarber"
-        ]
-      },
-      {
-        "name": "Slack Tide",
-        "legs": [
-          "Aaron Judge"
-        ]
-      },
-      {
-        "name": "Past the Event Horizon",
-        "legs": [
-          "Aaron Judge",
-          "Carter Jensen",
-          "Matt Olson"
-        ]
-      },
-      {
-        "name": "Trim the Sail",
-        "legs": [
-          "Munetaka Murakami"
-        ]
-      },
-      {
-        "name": "Cast Off",
-        "legs": [
-          "Yordan Alvarez"
-        ]
-      },
-      {
-        "name": "Defying Gravity",
-        "legs": [
-          "Aaron Judge",
-          "Ketel Marte",
-          "Oneil Cruz"
-        ]
-      },
-      {
-        "name": "The Apollo",
-        "legs": [
-          "Juan Soto",
-          "Kyle Schwarber",
-          "Spencer Jones"
-        ]
-      },
-      {
-        "name": "Into the Upper Air",
-        "legs": [
-          "Bobby Witt",
-          "Junior Caminero",
-          "Kyle Schwarber"
-        ]
-      },
-      {
-        "name": "Past Low Earth Orbit",
-        "legs": [
-          "Colson Montgomery",
-          "Samuel Basallo",
-          "Yordan Alvarez"
-        ]
-      },
-      {
-        "name": "Terminal Climb",
-        "legs": [
-          "Ben Rice",
-          "Brandon Lowe",
-          "Yordan Alvarez"
-        ]
-      },
-      {
-        "name": "Last Call",
-        "legs": [
-          "Teoscar Hern\u00e1ndez"
-        ]
-      },
-      {
-        "name": "Sky High",
-        "legs": [
-          "Hunter Goodman",
-          "Munetaka Murakami",
-          "Pete Alonso"
-        ]
-      },
-      {
-        "name": "Shot Into Orbit",
-        "legs": [
-          "Cal Raleigh",
-          "Kazuma Okamoto",
-          "Munetaka Murakami"
+          "Kody Clemens"
         ]
       }
     ],
-    "last_modified": "Tue, 08 Sep 2026 22:54:52 GMT",
-    "checked_at": "2026-09-08T22:55:14.568969+00:00"
+    "last_modified": "Wed, 09 Sep 2026 15:02:27 GMT",
+    "checked_at": "2026-09-09T15:05:17.584215+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "1e802363791b45aeaefb6706fbf083b27e13e4182d7cde0a4480448674725bb7",
@@ -176,7 +88,7 @@
         ]
       }
     ],
-    "last_modified": "Tue, 08 Sep 2026 22:54:52 GMT",
-    "checked_at": "2026-09-08T22:55:14.682998+00:00"
+    "last_modified": "Wed, 09 Sep 2026 15:02:27 GMT",
+    "checked_at": "2026-09-09T15:05:17.847275+00:00"
   }
 }
