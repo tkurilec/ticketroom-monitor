@@ -28,23 +28,13 @@ PAGES = {
     "NFL Board": "https://theticketroom.live/nfl/",
 }
 
-# Per-board sportsbook market pages (the page listing every player's prop),
-# linked once per confirmed ticket so the whole round robin is placeable fast.
-BOARD_LINKS = {
-    "MLB Board": [
-        ("DK HR board", "https://sportsbook.draftkings.com/leagues/baseball/mlb"
-                        "?category=batter-props&subcategory=home-runs"),
-        ("FD baseball", "https://sportsbook.fanduel.com/baseball"),
-    ],
-    "Soccer Board": [
-        ("DK soccer", "https://sportsbook.draftkings.com/sports/soccer"),
-        ("FD soccer", "https://sportsbook.fanduel.com/soccer"),
-    ],
-    "NFL Board": [
-        ("DK TD board", "https://sportsbook.draftkings.com/leagues/football/nfl"
-                        "?category=td-scorers"),
-        ("FD football", "https://sportsbook.fanduel.com/football"),
-    ],
+# Gambly (odds bot in the user's Discord): tagging it in a message with player
+# names plus the market word makes it post all-book odds/links for those picks.
+GAMBLY_ID = "1338973806383071392"
+MARKET_WORDS = {
+    "MLB Board": "home runs",
+    "Soccer Board": "goals",
+    "NFL Board": "touchdowns",
 }
 
 STATE_FILE = Path(__file__).parent / "ticketroom_state.json"
@@ -115,6 +105,8 @@ def extract_signature(html: str) -> dict | None:
                 "name": t.get("name"),
                 "legs": sorted(leg.get("name") for leg in legs if leg.get("name")),
             })
+    # Sort so a reordering of unchanged tickets never reads as a change.
+    confirmed.sort(key=lambda t: t["name"] or "")
     return {"confirmed": confirmed}
 
 
@@ -136,69 +128,54 @@ def save_state(state: dict) -> None:
     STATE_FILE.write_text(json.dumps(state, indent=2) + "\n", encoding="utf-8")
 
 
-def ticket_value(legs: list, board_links: list) -> str:
-    """Embed text for one confirmed ticket: the group of legs, a copyable
-    names line (paste into Gambly for all-book odds), and one-tap links to
-    the books' prop boards to build the round robin."""
-    lines = ["**" + " · ".join(legs) + "**",
-             "`" + ", ".join(legs) + "`"]
-    if board_links:
-        lines.append("Place: " + " · ".join(f"[{label}]({url})"
-                                            for label, url in board_links))
-    value = "\n".join(lines)
-    return value if len(value) <= 1024 else "\n".join(legs)[:1024]
-
-
-def describe_change(prev_confirmed: list | None, new_confirmed: list,
-                    board_links: list | None = None) -> list[dict]:
-    """Build embed fields describing confirmed-ticket changes."""
-    fields = []
-    if prev_confirmed is None:
-        return fields
-    prev = {t["name"]: t["legs"] for t in prev_confirmed}
-    new = {t["name"]: t["legs"] for t in new_confirmed}
-
-    fresh = [n for n in new if n not in prev or prev[n] != new[n]]
-    for ticket_name in fresh[:10]:
-        label = "✅ " + (ticket_name or "Ticket")
-        fields.append({"name": label[:256],
-                       "value": ticket_value(new[ticket_name], board_links or []),
-                       "inline": False})
-    if len(fresh) > 10:
-        fields.append({"name": "More",
-                       "value": f"…and {len(fresh) - 10} more confirmed tickets",
-                       "inline": False})
-    gone = sorted(n for n in prev if n not in new)
-    if gone:
-        fields.append({"name": f"No longer listed ({len(gone)})",
-                       "value": "\n".join(gone)[:1024], "inline": False})
-    if not fields:
-        fields.append({"name": "Change",
-                       "value": "Confirmed tickets updated", "inline": False})
-    return fields
-
-
-def notify_discord(webhook: str | None, name: str, url: str,
-                   last_modified: str | None, change_fields: list[dict]) -> None:
-    fields = list(change_fields)
-    fields.append({"name": "Site updated", "value": last_modified or "unknown",
-                   "inline": False})
-    embed = {
-        "title": f"{name} updated",
-        "url": url,
-        "color": 0x2ECC71,
-        "fields": fields,
-        "timestamp": datetime.now(timezone.utc).isoformat(),
-    }
+def post_webhook(webhook: str | None, payload: dict, label: str) -> None:
     if not webhook:
-        print(f"DRY RUN (DISCORD_WEBHOOK unset): would notify -> {name}: "
-              f"{json.dumps(change_fields, ensure_ascii=False)} url={url}")
+        print(f"DRY RUN (DISCORD_WEBHOOK unset): would post -> {label}: "
+              f"{json.dumps(payload, ensure_ascii=False)[:600]}")
         return
-    resp = requests.post(webhook, json={"embeds": [embed]}, timeout=30)
+    resp = requests.post(webhook, json=payload, timeout=30)
     if resp.status_code >= 400:
         print(f"ERROR: Discord webhook returned {resp.status_code}: {resp.text[:500]}")
     else:
-        print(f"Notified Discord: {name}")
+        print(f"Posted: {label}")
+    time.sleep(1)  # stay under Discord webhook rate limits on multi-ticket slates
+
+
+def notify_ticket(webhook: str | None, board: str, url: str, ticket_name: str,
+                  legs: list, last_modified: str | None) -> None:
+    """One message per confirmed ticket. The content line tags Gambly with the
+    names and market word so it replies with all-book odds; the embed card
+    repeats them for the human (and for Gambly if it reads cards instead)."""
+    market = MARKET_WORDS.get(board, "")
+    names = ", ".join(legs)
+    embed = {
+        "title": f"✅ {ticket_name} — {board}",
+        "url": url,
+        "color": 0x2ECC71,
+        "description": f"**{' · '.join(legs)}**\n{names} {market}".strip(),
+        "fields": [{"name": "Site updated", "value": last_modified or "unknown",
+                    "inline": False}],
+        "timestamp": datetime.now(timezone.utc).isoformat(),
+    }
+    payload = {
+        "content": f"<@{GAMBLY_ID}> {names} {market}".strip(),
+        "embeds": [embed],
+    }
+    post_webhook(webhook, payload, f"{board} / {ticket_name}")
+
+
+def notify_plain(webhook: str | None, board: str, url: str, text: str,
+                 last_modified: str | None) -> None:
+    embed = {
+        "title": f"{board} updated",
+        "url": url,
+        "color": 0x2ECC71,
+        "description": text,
+        "fields": [{"name": "Site updated", "value": last_modified or "unknown",
+                    "inline": False}],
+        "timestamp": datetime.now(timezone.utc).isoformat(),
+    }
+    post_webhook(webhook, {"embeds": [embed]}, f"{board} ({text[:40]})")
 
 
 def check_all() -> None:
@@ -231,10 +208,23 @@ def check_all() -> None:
             first_run_pages.append(name)
         elif prev.get("hash") != digest:
             print(f"CHANGE detected on {name} ({url}) last_modified={last_modified}")
-            change_fields = (describe_change(prev.get("confirmed"), confirmed,
-                                             BOARD_LINKS.get(name))
-                             if confirmed is not None else [])
-            notify_discord(webhook, name, url, last_modified, change_fields)
+            if confirmed is not None and prev.get("confirmed") is not None:
+                prev_map = {t["name"]: t["legs"] for t in prev["confirmed"]}
+                new_map = {t["name"]: t["legs"] for t in confirmed}
+                fresh = [n for n in new_map
+                         if n not in prev_map or prev_map[n] != new_map[n]]
+                gone = sorted(n for n in prev_map if n not in new_map)
+                for ticket_name in fresh:
+                    notify_ticket(webhook, name, url, ticket_name,
+                                  new_map[ticket_name], last_modified)
+                if gone:
+                    notify_plain(webhook, name, url,
+                                 "No longer listed: " + ", ".join(gone),
+                                 last_modified)
+                if not fresh and not gone:
+                    print("  (order-only or schema change, nothing announced)")
+            else:
+                notify_plain(webhook, name, url, "Board updated", last_modified)
         else:
             print(f"No change: {name} (last_modified={last_modified or 'n/a'})")
 

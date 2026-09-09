@@ -107,7 +107,7 @@
     "checked_at": "2026-09-09T23:50:17.790174+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "42061d1687ffb2cf9a29ddf65f9e35a3cad835c5eb3f48fd5ab8fe0d1a9e501d",
+    "hash": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
     "confirmed": [
       {
         "name": "Early Doors",
@@ -157,12 +157,6 @@
           "Bukayo Saka",
           "Lukas Nmecha",
           "Ousmane Dembele"
-        ]
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Lionel Messi"
         ]
       },
       {
