@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "858cc25a8e513c463dbc0e8b70683803553c18eac6a8e9cfabaf908a615a3602",
+    "hash": "d9eedb49fecf41b47a9787b26b299f80b335fa94f0a20b4832fbe58c95e62deb",
     "confirmed": [
       {
         "name": "The Blue Plate",
@@ -63,10 +63,26 @@
         "legs": [
           "Spencer Jones"
         ]
+      },
+      {
+        "name": "Past the Event Horizon",
+        "legs": [
+          "Junior Caminero",
+          "Spencer Jones",
+          "Yordan Alvarez"
+        ]
+      },
+      {
+        "name": "Shot Into Orbit",
+        "legs": [
+          "Juan Soto",
+          "Munetaka Murakami",
+          "Spencer Jones"
+        ]
       }
     ],
-    "last_modified": "Wed, 09 Sep 2026 19:43:10 GMT",
-    "checked_at": "2026-09-09T19:45:17.677702+00:00"
+    "last_modified": "Wed, 09 Sep 2026 20:13:29 GMT",
+    "checked_at": "2026-09-09T20:15:19.248407+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "c6df2c33a2f9af6bff4ed3a33b63a0543d7473dbee286121cc80ab3392bad25d",
@@ -122,7 +138,7 @@
         ]
       }
     ],
-    "last_modified": "Wed, 09 Sep 2026 19:43:10 GMT",
-    "checked_at": "2026-09-09T19:45:17.893465+00:00"
+    "last_modified": "Wed, 09 Sep 2026 20:13:29 GMT",
+    "checked_at": "2026-09-09T20:15:19.405043+00:00"
   }
 }
