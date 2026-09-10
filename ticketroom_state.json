@@ -103,12 +103,18 @@
         ]
       }
     ],
-    "last_modified": "Thu, 10 Sep 2026 01:37:25 GMT",
-    "checked_at": "2026-09-10T01:40:18.446854+00:00"
+    "last_modified": "Thu, 10 Sep 2026 02:02:44 GMT",
+    "checked_at": "2026-09-10T02:05:14.737201+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "55d2d26eb894efa8753d4a68bf9d4b7888f8327672aa38ffc84ab909b3771e11",
+    "hash": "9c7da21944f3ed63e00b99d0369826c9e3df8e79c9a2bd52fc815bfab735213b",
     "confirmed": [
+      {
+        "name": "Back Post",
+        "legs": [
+          "Brian White"
+        ]
+      },
       {
         "name": "Curled Home",
         "legs": [
@@ -180,21 +186,15 @@
           "Ferran Torres",
           "Mikel Merino"
         ]
-      },
-      {
-        "name": "Under Lights",
-        "legs": [
-          "Rayan Elloumi"
-        ]
       }
     ],
-    "last_modified": "Thu, 10 Sep 2026 01:37:25 GMT",
-    "checked_at": "2026-09-10T01:40:19.073276+00:00"
+    "last_modified": "Thu, 10 Sep 2026 02:02:44 GMT",
+    "checked_at": "2026-09-10T02:05:15.845722+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Thu, 10 Sep 2026 01:37:25 GMT",
-    "checked_at": "2026-09-10T01:40:19.237513+00:00"
+    "last_modified": "Thu, 10 Sep 2026 02:02:44 GMT",
+    "checked_at": "2026-09-10T02:05:16.030800+00:00"
   }
 }
