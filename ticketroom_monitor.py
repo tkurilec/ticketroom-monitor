@@ -28,9 +28,9 @@ PAGES = {
     "NFL Board": "https://theticketroom.live/nfl/",
 }
 
-# Gambly (odds bot in the user's Discord): tagging it in a message with player
-# names plus the market word makes it post all-book odds/links for those picks.
-GAMBLY_ID = "1338973806383071392"
+# Market word per board, included with the names so the line can be pasted
+# straight after an @Gambly mention. (Gambly ignores webhook/bot messages, so
+# tagging it directly from here does nothing — confirmed 2026-09-09.)
 MARKET_WORDS = {
     "MLB Board": "home runs",
     "Soccer Board": "goals",
@@ -143,22 +143,21 @@ def post_webhook(webhook: str | None, payload: dict, label: str) -> None:
 
 def notify_ticket(webhook: str | None, board: str, url: str, ticket_name: str,
                   legs: list, last_modified: str | None) -> None:
-    """One message per confirmed ticket. The content line tags Gambly with the
-    names and market word so it replies with all-book odds; the embed card
-    repeats them for the human (and for Gambly if it reads cards instead)."""
+    """One message per confirmed ticket. The content line is a plain
+    "names + market" string ready to copy and paste after an @Gambly mention."""
     market = MARKET_WORDS.get(board, "")
     names = ", ".join(legs)
     embed = {
         "title": f"✅ {ticket_name} — {board}",
         "url": url,
         "color": 0x2ECC71,
-        "description": f"**{' · '.join(legs)}**\n{names} {market}".strip(),
+        "description": "**" + " · ".join(legs) + "**",
         "fields": [{"name": "Site updated", "value": last_modified or "unknown",
                     "inline": False}],
         "timestamp": datetime.now(timezone.utc).isoformat(),
     }
     payload = {
-        "content": f"<@{GAMBLY_ID}> {names} {market}".strip(),
+        "content": f"{names} {market}".strip(),
         "embeds": [embed],
     }
     post_webhook(webhook, payload, f"{board} / {ticket_name}")
