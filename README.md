@@ -1,4 +1,4 @@
-# Ticket Room Monitor
+﻿# Ticket Room Monitor
 
 Watches these pages on [theticketroom.live](https://theticketroom.live) and posts a Discord
 embed whenever a board's slate meaningfully changes (only the board that changed is announced):
@@ -7,10 +7,8 @@ embed whenever a board's slate meaningfully changes (only the board that changed
 - https://theticketroom.live/soccer/
 - https://theticketroom.live/nfl/
 
-A ping fires only for FULLY CONFIRMED tickets (singles included) — each one is posted as
-its own message that tags the Gambly odds bot with the player names and market word
-(home runs / goals / touchdowns), so Gambly replies with all-book odds and links for the
-round robin. A leg counts as confirmed when
+A ping fires only for FULLY CONFIRMED tickets (singles included) — when one appears or its
+players change, the embed shows the ticket with its players. A leg counts as confirmed when
 it is marked ✓ confirmed or its game has already started (in progress counts). The site
 owner redrafts projected tickets freely (price movements, live weather), so
 projected/partially-confirmed tickets, odds and model-total movement, weather refreshes,

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """Monitor theticketroom.live pages for changes and notify a Discord webhook.
 
 Usage:
@@ -26,18 +26,6 @@ PAGES = {
     "MLB Board": "https://theticketroom.live/mlb/",
     "Soccer Board": "https://theticketroom.live/soccer/",
     "NFL Board": "https://theticketroom.live/nfl/",
-}
-
-# GamblyBot ignores webhook mentions but processes a card when someone
-# reply-mentions it. With DISCORD_BOT_TOKEN set, a bot account posts that
-# reply automatically after each ticket card.
-GAMBLY_ID = "1338973806383071392"
-
-# Market word per board, included with the names in GamblyBot's expected format.
-MARKET_WORDS = {
-    "MLB Board": "home runs",
-    "Soccer Board": "goals",
-    "NFL Board": "touchdowns",
 }
 
 STATE_FILE = Path(__file__).parent / "ticketroom_state.json"
@@ -131,95 +119,55 @@ def save_state(state: dict) -> None:
     STATE_FILE.write_text(json.dumps(state, indent=2) + "\n", encoding="utf-8")
 
 
-def post_webhook(webhook: str | None, payload: dict, label: str,
-                 want_message: bool = False) -> dict | None:
-    """Post to the webhook; with want_message, return the created message
-    (id + channel_id) so a bot reply can reference it."""
+def describe_change(prev_confirmed: list | None, new_confirmed: list) -> list[dict]:
+    """Build embed fields describing confirmed-ticket changes."""
+    fields = []
+    if prev_confirmed is None:
+        return fields
+    prev = {t["name"]: t["legs"] for t in prev_confirmed}
+    new = {t["name"]: t["legs"] for t in new_confirmed}
+
+    fresh = [n for n in new if n not in prev or prev[n] != new[n]]
+    for ticket_name in fresh[:10]:
+        label = "✅ " + (ticket_name or "Ticket")
+        fields.append({"name": label[:256],
+                       "value": "\n".join(new[ticket_name])[:1024],
+                       "inline": True})
+    if len(fresh) > 10:
+        fields.append({"name": "More",
+                       "value": f"…and {len(fresh) - 10} more confirmed tickets",
+                       "inline": False})
+    gone = sorted(n for n in prev if n not in new)
+    if gone:
+        fields.append({"name": f"No longer listed ({len(gone)})",
+                       "value": "\n".join(gone)[:1024], "inline": False})
+    if not fields:
+        fields.append({"name": "Change",
+                       "value": "Confirmed tickets updated", "inline": False})
+    return fields
+
+
+def notify_discord(webhook: str | None, name: str, url: str,
+                   last_modified: str | None, change_fields: list[dict]) -> None:
+    fields = list(change_fields)
+    fields.append({"name": "Site updated", "value": last_modified or "unknown",
+                   "inline": False})
+    embed = {
+        "title": f"{name} updated",
+        "url": url,
+        "color": 0x2ECC71,
+        "fields": fields,
+        "timestamp": datetime.now(timezone.utc).isoformat(),
+    }
     if not webhook:
-        print(f"DRY RUN (DISCORD_WEBHOOK unset): would post -> {label}: "
-              f"{json.dumps(payload, ensure_ascii=False)[:600]}")
-        return None
-    url = webhook + ("&" if "?" in webhook else "?") + "wait=true" \
-        if want_message else webhook
-    resp = requests.post(url, json=payload, timeout=30)
+        print(f"DRY RUN (DISCORD_WEBHOOK unset): would notify -> {name}: "
+              f"{json.dumps(change_fields, ensure_ascii=False)} url={url}")
+        return
+    resp = requests.post(webhook, json={"embeds": [embed]}, timeout=30)
     if resp.status_code >= 400:
         print(f"ERROR: Discord webhook returned {resp.status_code}: {resp.text[:500]}")
-        return None
-    print(f"Posted: {label}")
-    time.sleep(1)  # stay under Discord webhook rate limits on multi-ticket slates
-    if want_message:
-        try:
-            return resp.json()
-        except ValueError:
-            return None
-    return None
-
-
-def gambly_reply(message: dict | None) -> None:
-    """Reply to our own ticket message mentioning GamblyBot so it reads the
-    card — the same gesture that works when a human does it. Needs a bot
-    account (DISCORD_BOT_TOKEN) with Send Messages + Read Message History."""
-    token = os.environ.get("DISCORD_BOT_TOKEN")
-    if not token or not message:
-        return
-    channel_id = message.get("channel_id")
-    message_id = message.get("id")
-    if not channel_id or not message_id:
-        return
-    resp = requests.post(
-        f"https://discord.com/api/v10/channels/{channel_id}/messages",
-        headers={"Authorization": f"Bot {token}"},
-        json={
-            "content": f"<@{GAMBLY_ID}>",
-            "message_reference": {"message_id": message_id},
-            "allowed_mentions": {"parse": ["users"]},
-        },
-        timeout=30,
-    )
-    if resp.status_code >= 400:
-        print(f"ERROR: bot reply returned {resp.status_code}: {resp.text[:300]}")
     else:
-        print("Auto-replied @GamblyBot")
-    time.sleep(1)
-
-
-def notify_ticket(webhook: str | None, board: str, url: str, ticket_name: str,
-                  legs: list, last_modified: str | None) -> None:
-    """One message per confirmed ticket. The content line is a plain
-    "names + market" string ready to copy and paste after an @Gambly mention."""
-    market = MARKET_WORDS.get(board, "")
-    names = ", ".join(legs)
-    embed = {
-        "title": f"✅ {ticket_name} — {board}",
-        "url": url,
-        "color": 0x2ECC71,
-        "description": "**" + " · ".join(legs) + "**",
-        "fields": [{"name": "Site updated", "value": last_modified or "unknown",
-                    "inline": False}],
-        "footer": {"text": "Reply to this message with @GamblyBot to pull odds"},
-        "timestamp": datetime.now(timezone.utc).isoformat(),
-    }
-    payload = {
-        "content": f"{names} {market}".strip(),
-        "embeds": [embed],
-    }
-    message = post_webhook(webhook, payload, f"{board} / {ticket_name}",
-                           want_message=True)
-    gambly_reply(message)
-
-
-def notify_plain(webhook: str | None, board: str, url: str, text: str,
-                 last_modified: str | None) -> None:
-    embed = {
-        "title": f"{board} updated",
-        "url": url,
-        "color": 0x2ECC71,
-        "description": text,
-        "fields": [{"name": "Site updated", "value": last_modified or "unknown",
-                    "inline": False}],
-        "timestamp": datetime.now(timezone.utc).isoformat(),
-    }
-    post_webhook(webhook, {"embeds": [embed]}, f"{board} ({text[:40]})")
+        print(f"Notified Discord: {name}")
 
 
 def check_all() -> None:
@@ -252,23 +200,9 @@ def check_all() -> None:
             first_run_pages.append(name)
         elif prev.get("hash") != digest:
             print(f"CHANGE detected on {name} ({url}) last_modified={last_modified}")
-            if confirmed is not None and prev.get("confirmed") is not None:
-                prev_map = {t["name"]: t["legs"] for t in prev["confirmed"]}
-                new_map = {t["name"]: t["legs"] for t in confirmed}
-                fresh = [n for n in new_map
-                         if n not in prev_map or prev_map[n] != new_map[n]]
-                gone = sorted(n for n in prev_map if n not in new_map)
-                for ticket_name in fresh:
-                    notify_ticket(webhook, name, url, ticket_name,
-                                  new_map[ticket_name], last_modified)
-                if gone:
-                    notify_plain(webhook, name, url,
-                                 "No longer listed: " + ", ".join(gone),
-                                 last_modified)
-                if not fresh and not gone:
-                    print("  (order-only or schema change, nothing announced)")
-            else:
-                notify_plain(webhook, name, url, "Board updated", last_modified)
+            change_fields = (describe_change(prev.get("confirmed"), confirmed)
+                             if confirmed is not None else [])
+            notify_discord(webhook, name, url, last_modified, change_fields)
         else:
             print(f"No change: {name} (last_modified={last_modified or 'n/a'})")
 
@@ -293,40 +227,11 @@ def check_all() -> None:
         print("State unchanged, not rewriting state file")
 
 
-def test_board(name: str) -> int:
-    """Post every ticket currently listed on a board (any status) in the
-    normal confirmed-ticket format, marked as a test. State is untouched."""
-    webhook = os.environ.get("DISCORD_WEBHOOK")
-    url = PAGES.get(name)
-    if not url:
-        print(f"Unknown board {name!r}; choose from: {', '.join(PAGES)}")
-        return 1
-    body, html, last_modified = fetch_page(url)
-    m = re.search(r"const D\s*=\s*", html)
-    if not m:
-        print("Could not find slate data on the page")
-        return 1
-    data, _ = json.JSONDecoder().raw_decode(html[m.end():])
-    tickets = data.get("tickets") or []
-    print(f"TEST MODE: posting {len(tickets)} tickets from {name}")
-    for t in tickets:
-        legs = sorted(leg.get("name") for leg in t.get("players", [])
-                      if leg.get("name"))
-        if legs:
-            notify_ticket(webhook, name, url, f"{t.get('name')} (TEST)",
-                          legs, last_modified)
-    return 0
-
-
 def main() -> int:
     parser = argparse.ArgumentParser(description="Monitor theticketroom.live for changes")
     parser.add_argument("--once", action="store_true", help="run a single check and exit")
-    parser.add_argument("--test-board", metavar="NAME",
-                        help="post a board's current tickets as a format test")
     args = parser.parse_args()
 
-    if args.test_board:
-        return test_board(args.test_board)
     if args.once:
         check_all()
         return 0
