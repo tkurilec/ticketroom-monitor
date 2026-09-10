@@ -28,9 +28,12 @@ PAGES = {
     "NFL Board": "https://theticketroom.live/nfl/",
 }
 
-# Market word per board, included with the names so the line can be pasted
-# straight after an @Gambly mention. (Gambly ignores webhook/bot messages, so
-# tagging it directly from here does nothing — confirmed 2026-09-09.)
+# GamblyBot ignores webhook mentions but processes a card when someone
+# reply-mentions it. With DISCORD_BOT_TOKEN set, a bot account posts that
+# reply automatically after each ticket card.
+GAMBLY_ID = "1338973806383071392"
+
+# Market word per board, included with the names in GamblyBot's expected format.
 MARKET_WORDS = {
     "MLB Board": "home runs",
     "Soccer Board": "goals",
@@ -128,17 +131,56 @@ def save_state(state: dict) -> None:
     STATE_FILE.write_text(json.dumps(state, indent=2) + "\n", encoding="utf-8")
 
 
-def post_webhook(webhook: str | None, payload: dict, label: str) -> None:
+def post_webhook(webhook: str | None, payload: dict, label: str,
+                 want_message: bool = False) -> dict | None:
+    """Post to the webhook; with want_message, return the created message
+    (id + channel_id) so a bot reply can reference it."""
     if not webhook:
         print(f"DRY RUN (DISCORD_WEBHOOK unset): would post -> {label}: "
               f"{json.dumps(payload, ensure_ascii=False)[:600]}")
-        return
-    resp = requests.post(webhook, json=payload, timeout=30)
+        return None
+    url = webhook + ("&" if "?" in webhook else "?") + "wait=true" \
+        if want_message else webhook
+    resp = requests.post(url, json=payload, timeout=30)
     if resp.status_code >= 400:
         print(f"ERROR: Discord webhook returned {resp.status_code}: {resp.text[:500]}")
-    else:
-        print(f"Posted: {label}")
+        return None
+    print(f"Posted: {label}")
     time.sleep(1)  # stay under Discord webhook rate limits on multi-ticket slates
+    if want_message:
+        try:
+            return resp.json()
+        except ValueError:
+            return None
+    return None
+
+
+def gambly_reply(message: dict | None) -> None:
+    """Reply to our own ticket message mentioning GamblyBot so it reads the
+    card — the same gesture that works when a human does it. Needs a bot
+    account (DISCORD_BOT_TOKEN) with Send Messages + Read Message History."""
+    token = os.environ.get("DISCORD_BOT_TOKEN")
+    if not token or not message:
+        return
+    channel_id = message.get("channel_id")
+    message_id = message.get("id")
+    if not channel_id or not message_id:
+        return
+    resp = requests.post(
+        f"https://discord.com/api/v10/channels/{channel_id}/messages",
+        headers={"Authorization": f"Bot {token}"},
+        json={
+            "content": f"<@{GAMBLY_ID}>",
+            "message_reference": {"message_id": message_id},
+            "allowed_mentions": {"parse": ["users"]},
+        },
+        timeout=30,
+    )
+    if resp.status_code >= 400:
+        print(f"ERROR: bot reply returned {resp.status_code}: {resp.text[:300]}")
+    else:
+        print("Auto-replied @GamblyBot")
+    time.sleep(1)
 
 
 def notify_ticket(webhook: str | None, board: str, url: str, ticket_name: str,
@@ -161,7 +203,9 @@ def notify_ticket(webhook: str | None, board: str, url: str, ticket_name: str,
         "content": f"{names} {market}".strip(),
         "embeds": [embed],
     }
-    post_webhook(webhook, payload, f"{board} / {ticket_name}")
+    message = post_webhook(webhook, payload, f"{board} / {ticket_name}",
+                           want_message=True)
+    gambly_reply(message)
 
 
 def notify_plain(webhook: str | None, board: str, url: str, text: str,

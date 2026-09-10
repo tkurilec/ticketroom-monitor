@@ -34,6 +34,7 @@ jobs:
       - name: Run monitor
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
           TEST_BOARD: ${{ github.event.inputs.test_board }}
         run: |
           if [ -n "$TEST_BOARD" ]; then
