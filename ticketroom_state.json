@@ -1,110 +1,16 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "932552df77b1fe7bc180b9021a5d4f78a93c374b5d848e99fcf55f95c8e161af",
+    "hash": "cbce26f8bc094e38b8ed5bf9fdd4b802a15bbca1d7a9383455bc76ba4d9a6ef1",
     "confirmed": [
       {
-        "name": "Cast Off",
-        "legs": [
-          "Aaron Judge"
-        ]
-      },
-      {
-        "name": "Defying Gravity",
-        "legs": [
-          "Cal Raleigh",
-          "Manny Machado",
-          "Vladimir Guerrero"
-        ]
-      },
-      {
-        "name": "Escape Velocity",
-        "legs": [
-          "Hunter Goodman",
-          "Kyle Schwarber",
-          "Matt Olson"
-        ]
-      },
-      {
-        "name": "Last Call",
-        "legs": [
-          "JJ Bleday"
-        ]
-      },
-      {
-        "name": "Past Low Earth Orbit",
-        "legs": [
-          "Ben Rice",
-          "Colson Montgomery",
-          "Kyle Schwarber"
-        ]
-      },
-      {
-        "name": "Past the Event Horizon",
-        "legs": [
-          "Junior Caminero",
-          "Spencer Jones",
-          "Yordan Alvarez"
-        ]
-      },
-      {
-        "name": "Port of Call",
-        "legs": [
-          "Cal Raleigh"
-        ]
-      },
-      {
-        "name": "Shot Into Orbit",
-        "legs": [
-          "Juan Soto",
-          "Munetaka Murakami",
-          "Spencer Jones"
-        ]
-      },
-      {
-        "name": "Sky High",
-        "legs": [
-          "Cal Raleigh",
-          "James Wood",
-          "Kazuma Okamoto"
-        ]
-      },
-      {
-        "name": "Slack Tide",
+        "name": "The Noon Whistle",
         "legs": [
           "Kyle Schwarber"
-        ]
-      },
-      {
-        "name": "Terminal Climb",
-        "legs": [
-          "Aaron Judge",
-          "Pete Alonso",
-          "Pete Crow-Armstrong"
-        ]
-      },
-      {
-        "name": "The Apollo",
-        "legs": [
-          "Aaron Judge",
-          "Coby Mayo",
-          "Kyle Stowers"
-        ]
-      },
-      {
-        "name": "The Blue Plate",
-        "legs": [
-          "Kody Clemens"
-        ]
-      },
-      {
-        "name": "Trim the Sail",
-        "legs": [
-          "Spencer Jones"
         ]
       }
     ],
-    "last_modified": "Thu, 10 Sep 2026 04:42:41 GMT",
-    "checked_at": "2026-09-10T04:45:17.946172+00:00"
+    "last_modified": "Thu, 10 Sep 2026 16:47:21 GMT",
+    "checked_at": "2026-09-10T16:50:18.033949+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "26dcdbb76e1d516bc279351688b67f04f6a95f8731ba7d6a2d0d47e9111e366c",
@@ -204,13 +110,13 @@
         ]
       }
     ],
-    "last_modified": "Thu, 10 Sep 2026 04:42:41 GMT",
-    "checked_at": "2026-09-10T04:45:18.733516+00:00"
+    "last_modified": "Thu, 10 Sep 2026 16:47:21 GMT",
+    "checked_at": "2026-09-10T16:50:18.225704+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Thu, 10 Sep 2026 04:42:41 GMT",
-    "checked_at": "2026-09-10T04:45:18.883254+00:00"
+    "last_modified": "Thu, 10 Sep 2026 16:47:21 GMT",
+    "checked_at": "2026-09-10T16:50:18.399195+00:00"
   }
 }
