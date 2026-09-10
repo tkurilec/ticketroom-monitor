@@ -9,12 +9,24 @@
         ]
       }
     ],
-    "last_modified": "Thu, 10 Sep 2026 17:44:08 GMT",
-    "checked_at": "2026-09-10T17:45:18.391851+00:00"
+    "last_modified": "Thu, 10 Sep 2026 18:07:14 GMT",
+    "checked_at": "2026-09-10T18:10:17.874278+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "34094f08490873d818294eeea63298b27166e6e279522e2850b83cc5d7cab7ab",
+    "hash": "2b34f672213b18d168aad67c8b7b8ac675c2cf6b10988d6a5d61a4c31dfa1294",
     "confirmed": [
+      {
+        "name": "Gets Across",
+        "legs": [
+          "Benjamin Sesko"
+        ]
+      },
+      {
+        "name": "Lunchtime Kickoff",
+        "legs": [
+          "Bryan Mbeumo"
+        ]
+      },
       {
         "name": "Target Man",
         "legs": [
@@ -22,13 +34,13 @@
         ]
       }
     ],
-    "last_modified": "Thu, 10 Sep 2026 17:44:07 GMT",
-    "checked_at": "2026-09-10T17:45:18.610854+00:00"
+    "last_modified": "Thu, 10 Sep 2026 18:07:14 GMT",
+    "checked_at": "2026-09-10T18:10:18.828202+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Thu, 10 Sep 2026 17:44:08 GMT",
-    "checked_at": "2026-09-10T17:45:18.831464+00:00"
+    "last_modified": "Thu, 10 Sep 2026 18:07:14 GMT",
+    "checked_at": "2026-09-10T18:10:18.971083+00:00"
   }
 }
