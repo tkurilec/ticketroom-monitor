@@ -1,11 +1,11 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e6521974d0d6d127d6a1b21193744e5825cffc52f5d45dddfcbdfbb3ab09a6ce",
+    "hash": "932552df77b1fe7bc180b9021a5d4f78a93c374b5d848e99fcf55f95c8e161af",
     "confirmed": [
       {
-        "name": "The Blue Plate",
+        "name": "Cast Off",
         "legs": [
-          "Kody Clemens"
+          "Aaron Judge"
         ]
       },
       {
@@ -17,9 +17,47 @@
         ]
       },
       {
+        "name": "Escape Velocity",
+        "legs": [
+          "Hunter Goodman",
+          "Kyle Schwarber",
+          "Matt Olson"
+        ]
+      },
+      {
+        "name": "Last Call",
+        "legs": [
+          "JJ Bleday"
+        ]
+      },
+      {
+        "name": "Past Low Earth Orbit",
+        "legs": [
+          "Ben Rice",
+          "Colson Montgomery",
+          "Kyle Schwarber"
+        ]
+      },
+      {
+        "name": "Past the Event Horizon",
+        "legs": [
+          "Junior Caminero",
+          "Spencer Jones",
+          "Yordan Alvarez"
+        ]
+      },
+      {
         "name": "Port of Call",
         "legs": [
           "Cal Raleigh"
+        ]
+      },
+      {
+        "name": "Shot Into Orbit",
+        "legs": [
+          "Juan Soto",
+          "Munetaka Murakami",
+          "Spencer Jones"
         ]
       },
       {
@@ -37,47 +75,11 @@
         ]
       },
       {
-        "name": "Past Low Earth Orbit",
+        "name": "Terminal Climb",
         "legs": [
-          "Ben Rice",
-          "Colson Montgomery",
-          "Kyle Schwarber"
-        ]
-      },
-      {
-        "name": "Escape Velocity",
-        "legs": [
-          "Hunter Goodman",
-          "Kyle Schwarber",
-          "Matt Olson"
-        ]
-      },
-      {
-        "name": "Cast Off",
-        "legs": [
-          "Aaron Judge"
-        ]
-      },
-      {
-        "name": "Trim the Sail",
-        "legs": [
-          "Spencer Jones"
-        ]
-      },
-      {
-        "name": "Past the Event Horizon",
-        "legs": [
-          "Junior Caminero",
-          "Spencer Jones",
-          "Yordan Alvarez"
-        ]
-      },
-      {
-        "name": "Shot Into Orbit",
-        "legs": [
-          "Juan Soto",
-          "Munetaka Murakami",
-          "Spencer Jones"
+          "Aaron Judge",
+          "Pete Alonso",
+          "Pete Crow-Armstrong"
         ]
       },
       {
@@ -89,44 +91,36 @@
         ]
       },
       {
-        "name": "Terminal Climb",
+        "name": "The Blue Plate",
         "legs": [
-          "Aaron Judge",
-          "Pete Alonso",
-          "Pete Crow-Armstrong"
+          "Kody Clemens"
         ]
       },
       {
-        "name": "Last Call",
+        "name": "Trim the Sail",
         "legs": [
-          "JJ Bleday"
+          "Spencer Jones"
         ]
       }
     ],
-    "last_modified": "Wed, 09 Sep 2026 23:49:10 GMT",
-    "checked_at": "2026-09-09T23:50:17.790174+00:00"
+    "last_modified": "Wed, 09 Sep 2026 23:59:46 GMT",
+    "checked_at": "2026-09-10T00:00:22.954573+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "hash": "924011e2fe0e8429462052ff68b45cf5a50ad209e0c455f8841ce9b0752c73f7",
     "confirmed": [
+      {
+        "name": "Dipping Effort",
+        "legs": [
+          "Kelvin Yeboah",
+          "Lionel Messi",
+          "Sam Surridge"
+        ]
+      },
       {
         "name": "Early Doors",
         "legs": [
           "Raphinha"
-        ]
-      },
-      {
-        "name": "Runs the Channel",
-        "legs": [
-          "Ferran Torres"
-        ]
-      },
-      {
-        "name": "Top Corner",
-        "legs": [
-          "Bradley Barcola",
-          "Ferran Torres",
-          "Mikel Merino"
         ]
       },
       {
@@ -138,11 +132,25 @@
         ]
       },
       {
+        "name": "Off the Underside",
+        "legs": [
+          "Bukayo Saka",
+          "Lukas Nmecha",
+          "Ousmane Dembele"
+        ]
+      },
+      {
         "name": "Outside the Box",
         "legs": [
           "Alexander Isak",
           "Danny Welbeck",
           "Ousmane Dembele"
+        ]
+      },
+      {
+        "name": "Runs the Channel",
+        "legs": [
+          "Ferran Torres"
         ]
       },
       {
@@ -152,29 +160,27 @@
         ]
       },
       {
-        "name": "Off the Underside",
+        "name": "The Poacher",
         "legs": [
-          "Bukayo Saka",
-          "Lukas Nmecha",
-          "Ousmane Dembele"
+          "Lionel Messi"
         ]
       },
       {
-        "name": "Dipping Effort",
+        "name": "Top Corner",
         "legs": [
-          "Kelvin Yeboah",
-          "Lionel Messi",
-          "Sam Surridge"
+          "Bradley Barcola",
+          "Ferran Torres",
+          "Mikel Merino"
         ]
       }
     ],
-    "last_modified": "Wed, 09 Sep 2026 23:49:10 GMT",
-    "checked_at": "2026-09-09T23:50:18.254625+00:00"
+    "last_modified": "Wed, 09 Sep 2026 23:59:46 GMT",
+    "checked_at": "2026-09-10T00:00:24.685479+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 09 Sep 2026 23:49:10 GMT",
-    "checked_at": "2026-09-09T23:50:18.471983+00:00"
+    "last_modified": "Wed, 09 Sep 2026 23:59:46 GMT",
+    "checked_at": "2026-09-10T00:00:24.979565+00:00"
   }
 }
