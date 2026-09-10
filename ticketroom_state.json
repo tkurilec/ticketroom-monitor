@@ -1,7 +1,13 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "9417d83a5513e26977cd1f610322f2933fb7ab010b487fc7d7ad8e18bab17a2c",
+    "hash": "b93997a08cc63f68851edbdcfdeb43b15e8739cd81b2123e92d61f37377bd18c",
     "confirmed": [
+      {
+        "name": "Closing Time",
+        "legs": [
+          "Spencer Jones"
+        ]
+      },
       {
         "name": "The Noon Whistle",
         "legs": [
@@ -9,8 +15,8 @@
         ]
       }
     ],
-    "last_modified": "Thu, 10 Sep 2026 18:11:59 GMT",
-    "checked_at": "2026-09-10T18:15:16.180275+00:00"
+    "last_modified": "Thu, 10 Sep 2026 19:15:57 GMT",
+    "checked_at": "2026-09-10T19:20:16.961866+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "1575804ed6b8dec99aa70b57f258a6594cb7638259fa1b545c6c498f12300245",
@@ -78,13 +84,13 @@
         ]
       }
     ],
-    "last_modified": "Thu, 10 Sep 2026 18:11:59 GMT",
-    "checked_at": "2026-09-10T18:15:16.808829+00:00"
+    "last_modified": "Thu, 10 Sep 2026 19:15:57 GMT",
+    "checked_at": "2026-09-10T19:20:17.205954+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Thu, 10 Sep 2026 18:11:59 GMT",
-    "checked_at": "2026-09-10T18:15:16.904891+00:00"
+    "last_modified": "Thu, 10 Sep 2026 19:15:57 GMT",
+    "checked_at": "2026-09-10T19:20:17.445059+00:00"
   }
 }
