@@ -103,11 +103,11 @@
         ]
       }
     ],
-    "last_modified": "Thu, 10 Sep 2026 02:02:44 GMT",
-    "checked_at": "2026-09-10T02:05:14.737201+00:00"
+    "last_modified": "Thu, 10 Sep 2026 02:27:14 GMT",
+    "checked_at": "2026-09-10T02:30:17.434724+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "9c7da21944f3ed63e00b99d0369826c9e3df8e79c9a2bd52fc815bfab735213b",
+    "hash": "26dcdbb76e1d516bc279351688b67f04f6a95f8731ba7d6a2d0d47e9111e366c",
     "confirmed": [
       {
         "name": "Back Post",
@@ -162,6 +162,14 @@
         ]
       },
       {
+        "name": "Postage Stamp",
+        "legs": [
+          "Brian White",
+          "Heung-min Son",
+          "Vincent Janssen"
+        ]
+      },
+      {
         "name": "Runs the Channel",
         "legs": [
           "Ferran Torres"
@@ -186,15 +194,23 @@
           "Ferran Torres",
           "Mikel Merino"
         ]
+      },
+      {
+        "name": "Upper Ninety",
+        "legs": [
+          "Brian White",
+          "Denis Bouanga",
+          "Leal Rafael Navarro"
+        ]
       }
     ],
-    "last_modified": "Thu, 10 Sep 2026 02:02:44 GMT",
-    "checked_at": "2026-09-10T02:05:15.845722+00:00"
+    "last_modified": "Thu, 10 Sep 2026 02:27:14 GMT",
+    "checked_at": "2026-09-10T02:30:17.840094+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Thu, 10 Sep 2026 02:02:44 GMT",
-    "checked_at": "2026-09-10T02:05:16.030800+00:00"
+    "last_modified": "Thu, 10 Sep 2026 02:27:14 GMT",
+    "checked_at": "2026-09-10T02:30:17.916536+00:00"
   }
 }
