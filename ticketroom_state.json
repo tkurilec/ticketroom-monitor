@@ -107,7 +107,7 @@
     "checked_at": "2026-09-10T00:00:22.954573+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "924011e2fe0e8429462052ff68b45cf5a50ad209e0c455f8841ce9b0752c73f7",
+    "hash": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
     "confirmed": [
       {
         "name": "Dipping Effort",
@@ -157,12 +157,6 @@
         "name": "Target Man",
         "legs": [
           "Ousmane Dembele"
-        ]
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Lionel Messi"
         ]
       },
       {
