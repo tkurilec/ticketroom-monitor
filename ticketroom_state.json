@@ -9,12 +9,26 @@
         ]
       }
     ],
-    "last_modified": "Thu, 10 Sep 2026 18:07:14 GMT",
-    "checked_at": "2026-09-10T18:10:17.874278+00:00"
+    "last_modified": "Thu, 10 Sep 2026 18:11:59 GMT",
+    "checked_at": "2026-09-10T18:15:16.180275+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "2b34f672213b18d168aad67c8b7b8ac675c2cf6b10988d6a5d61a4c31dfa1294",
+    "hash": "1575804ed6b8dec99aa70b57f258a6594cb7638259fa1b545c6c498f12300245",
     "confirmed": [
+      {
+        "name": "First Time",
+        "legs": [
+          "Harry Kane"
+        ]
+      },
+      {
+        "name": "From Distance",
+        "legs": [
+          "Florian Thauvin",
+          "Harry Kane",
+          "Marc Guiu"
+        ]
+      },
       {
         "name": "Gets Across",
         "legs": [
@@ -28,19 +42,49 @@
         ]
       },
       {
+        "name": "Postage Stamp",
+        "legs": [
+          "Benjamin Sesko",
+          "Christopher Nkunku",
+          "Jamal Musiala"
+        ]
+      },
+      {
         "name": "Target Man",
         "legs": [
           "Donyell Malen"
         ]
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Luis Diaz"
+        ]
+      },
+      {
+        "name": "Top Corner",
+        "legs": [
+          "Anastasios Douvikas",
+          "Franjo Ivanovic",
+          "Harry Kane"
+        ]
+      },
+      {
+        "name": "Upper Ninety",
+        "legs": [
+          "Benjamin Sesko",
+          "Michael Olise",
+          "Mojmir Chytil"
+        ]
       }
     ],
-    "last_modified": "Thu, 10 Sep 2026 18:07:14 GMT",
-    "checked_at": "2026-09-10T18:10:18.828202+00:00"
+    "last_modified": "Thu, 10 Sep 2026 18:11:59 GMT",
+    "checked_at": "2026-09-10T18:15:16.808829+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Thu, 10 Sep 2026 18:07:14 GMT",
-    "checked_at": "2026-09-10T18:10:18.971083+00:00"
+    "last_modified": "Thu, 10 Sep 2026 18:11:59 GMT",
+    "checked_at": "2026-09-10T18:15:16.904891+00:00"
   }
 }
