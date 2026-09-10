@@ -103,11 +103,11 @@
         ]
       }
     ],
-    "last_modified": "Thu, 10 Sep 2026 02:47:06 GMT",
-    "checked_at": "2026-09-10T02:50:16.204338+00:00"
+    "last_modified": "Thu, 10 Sep 2026 04:42:41 GMT",
+    "checked_at": "2026-09-10T04:45:17.946172+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "3b15bfe2ef804978a4e42713e1cf8c4bf02f27d859a631eb406e2d85e8c56dea",
+    "hash": "26dcdbb76e1d516bc279351688b67f04f6a95f8731ba7d6a2d0d47e9111e366c",
     "confirmed": [
       {
         "name": "Back Post",
@@ -196,12 +196,6 @@
         ]
       },
       {
-        "name": "Under Lights",
-        "legs": [
-          "Rayan Elloumi"
-        ]
-      },
-      {
         "name": "Upper Ninety",
         "legs": [
           "Brian White",
@@ -210,13 +204,13 @@
         ]
       }
     ],
-    "last_modified": "Thu, 10 Sep 2026 02:47:06 GMT",
-    "checked_at": "2026-09-10T02:50:17.143477+00:00"
+    "last_modified": "Thu, 10 Sep 2026 04:42:41 GMT",
+    "checked_at": "2026-09-10T04:45:18.733516+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Thu, 10 Sep 2026 02:47:06 GMT",
-    "checked_at": "2026-09-10T02:50:17.758769+00:00"
+    "last_modified": "Thu, 10 Sep 2026 04:42:41 GMT",
+    "checked_at": "2026-09-10T04:45:18.883254+00:00"
   }
 }
