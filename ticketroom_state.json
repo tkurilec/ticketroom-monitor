@@ -1,16 +1,16 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "cbce26f8bc094e38b8ed5bf9fdd4b802a15bbca1d7a9383455bc76ba4d9a6ef1",
+    "hash": "9417d83a5513e26977cd1f610322f2933fb7ab010b487fc7d7ad8e18bab17a2c",
     "confirmed": [
       {
         "name": "The Noon Whistle",
         "legs": [
-          "Kyle Schwarber"
+          "Daulton Varsho"
         ]
       }
     ],
-    "last_modified": "Thu, 10 Sep 2026 17:36:54 GMT",
-    "checked_at": "2026-09-10T17:39:40.130263+00:00"
+    "last_modified": "Thu, 10 Sep 2026 17:44:08 GMT",
+    "checked_at": "2026-09-10T17:45:18.391851+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "34094f08490873d818294eeea63298b27166e6e279522e2850b83cc5d7cab7ab",
@@ -22,13 +22,13 @@
         ]
       }
     ],
-    "last_modified": "Thu, 10 Sep 2026 17:36:54 GMT",
-    "checked_at": "2026-09-10T17:39:40.914494+00:00"
+    "last_modified": "Thu, 10 Sep 2026 17:44:07 GMT",
+    "checked_at": "2026-09-10T17:45:18.610854+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Thu, 10 Sep 2026 17:36:54 GMT",
-    "checked_at": "2026-09-10T17:39:41.124943+00:00"
+    "last_modified": "Thu, 10 Sep 2026 17:44:08 GMT",
+    "checked_at": "2026-09-10T17:45:18.831464+00:00"
   }
 }
