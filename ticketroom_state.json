@@ -9,114 +9,19 @@
         ]
       }
     ],
-    "last_modified": "Thu, 10 Sep 2026 16:47:21 GMT",
-    "checked_at": "2026-09-10T16:50:18.033949+00:00"
+    "last_modified": "Thu, 10 Sep 2026 17:16:54 GMT",
+    "checked_at": "2026-09-10T17:20:17.079565+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "26dcdbb76e1d516bc279351688b67f04f6a95f8731ba7d6a2d0d47e9111e366c",
-    "confirmed": [
-      {
-        "name": "Back Post",
-        "legs": [
-          "Brian White"
-        ]
-      },
-      {
-        "name": "Curled Home",
-        "legs": [
-          "Lionel Messi",
-          "Marcus Caldeira",
-          "Tai Baribo"
-        ]
-      },
-      {
-        "name": "Dipping Effort",
-        "legs": [
-          "Kelvin Yeboah",
-          "Lionel Messi",
-          "Sam Surridge"
-        ]
-      },
-      {
-        "name": "Early Doors",
-        "legs": [
-          "Raphinha"
-        ]
-      },
-      {
-        "name": "From Distance",
-        "legs": [
-          "Estevao",
-          "Ferran Torres",
-          "Viktor Gyokeres"
-        ]
-      },
-      {
-        "name": "Off the Underside",
-        "legs": [
-          "Bukayo Saka",
-          "Lukas Nmecha",
-          "Ousmane Dembele"
-        ]
-      },
-      {
-        "name": "Outside the Box",
-        "legs": [
-          "Alexander Isak",
-          "Danny Welbeck",
-          "Ousmane Dembele"
-        ]
-      },
-      {
-        "name": "Postage Stamp",
-        "legs": [
-          "Brian White",
-          "Heung-min Son",
-          "Vincent Janssen"
-        ]
-      },
-      {
-        "name": "Runs the Channel",
-        "legs": [
-          "Ferran Torres"
-        ]
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Ousmane Dembele"
-        ]
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Lionel Messi"
-        ]
-      },
-      {
-        "name": "Top Corner",
-        "legs": [
-          "Bradley Barcola",
-          "Ferran Torres",
-          "Mikel Merino"
-        ]
-      },
-      {
-        "name": "Upper Ninety",
-        "legs": [
-          "Brian White",
-          "Denis Bouanga",
-          "Leal Rafael Navarro"
-        ]
-      }
-    ],
-    "last_modified": "Thu, 10 Sep 2026 16:47:21 GMT",
-    "checked_at": "2026-09-10T16:50:18.225704+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Thu, 10 Sep 2026 17:16:54 GMT",
+    "checked_at": "2026-09-10T17:20:17.717732+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Thu, 10 Sep 2026 16:47:21 GMT",
-    "checked_at": "2026-09-10T16:50:18.399195+00:00"
+    "last_modified": "Thu, 10 Sep 2026 17:16:54 GMT",
+    "checked_at": "2026-09-10T17:20:17.867276+00:00"
   }
 }
