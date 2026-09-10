@@ -103,12 +103,20 @@
         ]
       }
     ],
-    "last_modified": "Thu, 10 Sep 2026 00:19:42 GMT",
-    "checked_at": "2026-09-10T00:20:16.196993+00:00"
+    "last_modified": "Thu, 10 Sep 2026 00:30:12 GMT",
+    "checked_at": "2026-09-10T00:30:20.730553+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "924011e2fe0e8429462052ff68b45cf5a50ad209e0c455f8841ce9b0752c73f7",
+    "hash": "b5cf1a22093edd260cac05c311f7599ff9f0706674d98b48f9821145c20d5120",
     "confirmed": [
+      {
+        "name": "Curled Home",
+        "legs": [
+          "Lionel Messi",
+          "Marcus Caldeira",
+          "Tai Baribo"
+        ]
+      },
       {
         "name": "Dipping Effort",
         "legs": [
@@ -174,13 +182,13 @@
         ]
       }
     ],
-    "last_modified": "Thu, 10 Sep 2026 00:19:42 GMT",
-    "checked_at": "2026-09-10T00:20:22.457446+00:00"
+    "last_modified": "Thu, 10 Sep 2026 00:30:12 GMT",
+    "checked_at": "2026-09-10T00:30:21.264370+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Thu, 10 Sep 2026 00:19:42 GMT",
-    "checked_at": "2026-09-10T00:20:22.760265+00:00"
+    "last_modified": "Thu, 10 Sep 2026 00:30:12 GMT",
+    "checked_at": "2026-09-10T00:30:21.343848+00:00"
   }
 }
