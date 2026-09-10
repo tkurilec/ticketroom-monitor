@@ -9,19 +9,26 @@
         ]
       }
     ],
-    "last_modified": "Thu, 10 Sep 2026 17:16:54 GMT",
-    "checked_at": "2026-09-10T17:20:17.079565+00:00"
+    "last_modified": "Thu, 10 Sep 2026 17:36:54 GMT",
+    "checked_at": "2026-09-10T17:39:40.130263+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Thu, 10 Sep 2026 17:16:54 GMT",
-    "checked_at": "2026-09-10T17:20:17.717732+00:00"
+    "hash": "34094f08490873d818294eeea63298b27166e6e279522e2850b83cc5d7cab7ab",
+    "confirmed": [
+      {
+        "name": "Target Man",
+        "legs": [
+          "Donyell Malen"
+        ]
+      }
+    ],
+    "last_modified": "Thu, 10 Sep 2026 17:36:54 GMT",
+    "checked_at": "2026-09-10T17:39:40.914494+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Thu, 10 Sep 2026 17:16:54 GMT",
-    "checked_at": "2026-09-10T17:20:17.867276+00:00"
+    "last_modified": "Thu, 10 Sep 2026 17:36:54 GMT",
+    "checked_at": "2026-09-10T17:39:41.124943+00:00"
   }
 }
