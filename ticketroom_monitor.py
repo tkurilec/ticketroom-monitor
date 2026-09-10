@@ -154,6 +154,7 @@ def notify_ticket(webhook: str | None, board: str, url: str, ticket_name: str,
         "description": "**" + " · ".join(legs) + "**",
         "fields": [{"name": "Site updated", "value": last_modified or "unknown",
                     "inline": False}],
+        "footer": {"text": "Reply to this message with @GamblyBot to pull odds"},
         "timestamp": datetime.now(timezone.utc).isoformat(),
     }
     payload = {
