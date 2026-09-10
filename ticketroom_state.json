@@ -103,11 +103,11 @@
         ]
       }
     ],
-    "last_modified": "Wed, 09 Sep 2026 23:59:46 GMT",
-    "checked_at": "2026-09-10T00:00:22.954573+00:00"
+    "last_modified": "Thu, 10 Sep 2026 00:19:42 GMT",
+    "checked_at": "2026-09-10T00:20:16.196993+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "hash": "924011e2fe0e8429462052ff68b45cf5a50ad209e0c455f8841ce9b0752c73f7",
     "confirmed": [
       {
         "name": "Dipping Effort",
@@ -160,6 +160,12 @@
         ]
       },
       {
+        "name": "The Poacher",
+        "legs": [
+          "Lionel Messi"
+        ]
+      },
+      {
         "name": "Top Corner",
         "legs": [
           "Bradley Barcola",
@@ -168,13 +174,13 @@
         ]
       }
     ],
-    "last_modified": "Wed, 09 Sep 2026 23:59:46 GMT",
-    "checked_at": "2026-09-10T00:00:24.685479+00:00"
+    "last_modified": "Thu, 10 Sep 2026 00:19:42 GMT",
+    "checked_at": "2026-09-10T00:20:22.457446+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 09 Sep 2026 23:59:46 GMT",
-    "checked_at": "2026-09-10T00:00:24.979565+00:00"
+    "last_modified": "Thu, 10 Sep 2026 00:19:42 GMT",
+    "checked_at": "2026-09-10T00:20:22.760265+00:00"
   }
 }
