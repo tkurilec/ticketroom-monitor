@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "b376a93ef1f2221f4ecfd5b40f6bfb009a34415367101e85027286da6e2f9179",
+    "hash": "b7b408d9174c743111b9a1eb1897cb3101d15b2cebc94da46c389532baaacbd2",
     "confirmed": [
       {
         "name": "Escape Velocity",
@@ -8,6 +8,14 @@
           "Jonathan Aranda",
           "Mike Trout",
           "Spencer Jones"
+        ]
+      },
+      {
+        "name": "Past the Event Horizon",
+        "legs": [
+          "Ben Rice",
+          "Mike Yastrzemski",
+          "Ryan Jeffers"
         ]
       },
       {
@@ -43,8 +51,8 @@
         ]
       }
     ],
-    "last_modified": "Fri, 11 Sep 2026 19:38:25 GMT",
-    "checked_at": "2026-09-11T19:40:18.814880+00:00"
+    "last_modified": "Fri, 11 Sep 2026 20:23:00 GMT",
+    "checked_at": "2026-09-11T20:25:14.254142+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "b3b6553c80995ebcdd0f4264d0b755e20a9463b74447d4ecbe419cb72a0417ef",
@@ -122,13 +130,13 @@
         ]
       }
     ],
-    "last_modified": "Fri, 11 Sep 2026 19:38:25 GMT",
-    "checked_at": "2026-09-11T19:40:19.332663+00:00"
+    "last_modified": "Fri, 11 Sep 2026 20:23:00 GMT",
+    "checked_at": "2026-09-11T20:25:14.370361+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 11 Sep 2026 19:38:25 GMT",
-    "checked_at": "2026-09-11T19:40:19.678541+00:00"
+    "last_modified": "Fri, 11 Sep 2026 20:23:00 GMT",
+    "checked_at": "2026-09-11T20:25:14.475102+00:00"
   }
 }
