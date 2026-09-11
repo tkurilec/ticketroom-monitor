@@ -1,7 +1,15 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "44582f0fa04d628cdaff730599d83f0ea8538cf20a890bbb595c23af67c8a871",
+    "hash": "2e3af30919763ca9b6f1faf84898a387c2636c454bc1b86601ac73efb9760a65",
     "confirmed": [
+      {
+        "name": "Catching a Vapor Trail",
+        "legs": [
+          "Max Muncy",
+          "Spencer Jones",
+          "Vinnie Pasquantino"
+        ]
+      },
       {
         "name": "Defying Gravity",
         "legs": [
@@ -89,8 +97,8 @@
         ]
       }
     ],
-    "last_modified": "Fri, 11 Sep 2026 21:03:04 GMT",
-    "checked_at": "2026-09-11T21:05:14.979902+00:00"
+    "last_modified": "Fri, 11 Sep 2026 22:08:46 GMT",
+    "checked_at": "2026-09-11T22:10:18.949201+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "b3b6553c80995ebcdd0f4264d0b755e20a9463b74447d4ecbe419cb72a0417ef",
@@ -168,13 +176,13 @@
         ]
       }
     ],
-    "last_modified": "Fri, 11 Sep 2026 21:03:04 GMT",
-    "checked_at": "2026-09-11T21:05:15.101946+00:00"
+    "last_modified": "Fri, 11 Sep 2026 22:08:46 GMT",
+    "checked_at": "2026-09-11T22:10:19.090564+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 11 Sep 2026 21:03:04 GMT",
-    "checked_at": "2026-09-11T21:05:15.301681+00:00"
+    "last_modified": "Fri, 11 Sep 2026 22:08:46 GMT",
+    "checked_at": "2026-09-11T22:10:19.280938+00:00"
   }
 }
