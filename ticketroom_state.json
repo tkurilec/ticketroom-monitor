@@ -9,26 +9,54 @@
         ]
       }
     ],
-    "last_modified": "Fri, 11 Sep 2026 18:01:42 GMT",
-    "checked_at": "2026-09-11T18:05:26.841322+00:00"
+    "last_modified": "Fri, 11 Sep 2026 18:07:11 GMT",
+    "checked_at": "2026-09-11T18:10:18.168623+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "bc9209807c66029976af98ab875219b05939b5027efe43ad8b4b178e002bb96e",
+    "hash": "8728ae03256c13b525a0611ed3b159c41134fcc21032cfe43f872cce6569df9b",
     "confirmed": [
       {
         "name": "First Time",
         "legs": [
           "Esteban Lepaul"
         ]
+      },
+      {
+        "name": "Gets Across",
+        "legs": [
+          "Beto"
+        ]
+      },
+      {
+        "name": "Postage Stamp",
+        "legs": [
+          "Beto",
+          "Kenan Karaman",
+          "Ludovic Blas"
+        ]
+      },
+      {
+        "name": "Runs the Channel",
+        "legs": [
+          "Amine Gouiri"
+        ]
+      },
+      {
+        "name": "Upper Ninety",
+        "legs": [
+          "Beto",
+          "Chukwubuike Adamu",
+          "Issa Soumare"
+        ]
       }
     ],
-    "last_modified": "Fri, 11 Sep 2026 18:01:42 GMT",
-    "checked_at": "2026-09-11T18:05:28.452926+00:00"
+    "last_modified": "Fri, 11 Sep 2026 18:07:11 GMT",
+    "checked_at": "2026-09-11T18:10:18.892221+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 11 Sep 2026 18:01:42 GMT",
-    "checked_at": "2026-09-11T18:05:28.615391+00:00"
+    "last_modified": "Fri, 11 Sep 2026 18:07:11 GMT",
+    "checked_at": "2026-09-11T18:10:19.056828+00:00"
   }
 }
