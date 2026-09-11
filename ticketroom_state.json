@@ -1,7 +1,21 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "b7b408d9174c743111b9a1eb1897cb3101d15b2cebc94da46c389532baaacbd2",
+    "hash": "fe5c936540dcbbff64b89d62eea7b7f68fa729fce15d896121144962c34d7186",
     "confirmed": [
+      {
+        "name": "Defying Gravity",
+        "legs": [
+          "Matt Olson",
+          "Nathaniel Lowe",
+          "Victor Mesa"
+        ]
+      },
+      {
+        "name": "Dockside",
+        "legs": [
+          "Drake Baldwin"
+        ]
+      },
       {
         "name": "Escape Velocity",
         "legs": [
@@ -33,6 +47,14 @@
         ]
       },
       {
+        "name": "Sky High",
+        "legs": [
+          "Andrew Vaughn",
+          "Austin Wells",
+          "Matt Olson"
+        ]
+      },
+      {
         "name": "The Bowline",
         "legs": [
           "Matt Olson"
@@ -45,14 +67,22 @@
         ]
       },
       {
+        "name": "Through the Stratosphere",
+        "legs": [
+          "Drake Baldwin",
+          "Jos\u00e9 Ram\u00edrez",
+          "Kyle Stowers"
+        ]
+      },
+      {
         "name": "Trim the Sail",
         "legs": [
           "Spencer Jones"
         ]
       }
     ],
-    "last_modified": "Fri, 11 Sep 2026 20:23:00 GMT",
-    "checked_at": "2026-09-11T20:25:14.254142+00:00"
+    "last_modified": "Fri, 11 Sep 2026 20:37:42 GMT",
+    "checked_at": "2026-09-11T20:40:25.991122+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "b3b6553c80995ebcdd0f4264d0b755e20a9463b74447d4ecbe419cb72a0417ef",
@@ -130,13 +160,13 @@
         ]
       }
     ],
-    "last_modified": "Fri, 11 Sep 2026 20:23:00 GMT",
-    "checked_at": "2026-09-11T20:25:14.370361+00:00"
+    "last_modified": "Fri, 11 Sep 2026 20:37:42 GMT",
+    "checked_at": "2026-09-11T20:40:26.268417+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 11 Sep 2026 20:23:00 GMT",
-    "checked_at": "2026-09-11T20:25:14.475102+00:00"
+    "last_modified": "Fri, 11 Sep 2026 20:37:42 GMT",
+    "checked_at": "2026-09-11T20:40:26.540096+00:00"
   }
 }
