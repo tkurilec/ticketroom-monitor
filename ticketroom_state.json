@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "25f741d3b46155e168f60fc51745ffd218886e598a9e513c2e7b9591a3e8b2a1",
+    "hash": "b376a93ef1f2221f4ecfd5b40f6bfb009a34415367101e85027286da6e2f9179",
     "confirmed": [
       {
         "name": "Escape Velocity",
@@ -13,6 +13,14 @@
       {
         "name": "Port of Call",
         "legs": [
+          "Mike Yastrzemski"
+        ]
+      },
+      {
+        "name": "Shot Into Orbit",
+        "legs": [
+          "Bo Bichette",
+          "Joshua B\u00e1ez",
           "Mike Yastrzemski"
         ]
       },
@@ -35,8 +43,8 @@
         ]
       }
     ],
-    "last_modified": "Fri, 11 Sep 2026 19:22:34 GMT",
-    "checked_at": "2026-09-11T19:25:18.313500+00:00"
+    "last_modified": "Fri, 11 Sep 2026 19:38:25 GMT",
+    "checked_at": "2026-09-11T19:40:18.814880+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "b3b6553c80995ebcdd0f4264d0b755e20a9463b74447d4ecbe419cb72a0417ef",
@@ -114,13 +122,13 @@
         ]
       }
     ],
-    "last_modified": "Fri, 11 Sep 2026 19:22:34 GMT",
-    "checked_at": "2026-09-11T19:25:18.710686+00:00"
+    "last_modified": "Fri, 11 Sep 2026 19:38:25 GMT",
+    "checked_at": "2026-09-11T19:40:19.332663+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 11 Sep 2026 19:22:34 GMT",
-    "checked_at": "2026-09-11T19:25:18.898656+00:00"
+    "last_modified": "Fri, 11 Sep 2026 19:38:25 GMT",
+    "checked_at": "2026-09-11T19:40:19.678541+00:00"
   }
 }
