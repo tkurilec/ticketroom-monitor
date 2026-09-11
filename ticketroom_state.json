@@ -9,11 +9,11 @@
         ]
       }
     ],
-    "last_modified": "Fri, 11 Sep 2026 18:07:11 GMT",
-    "checked_at": "2026-09-11T18:10:18.168623+00:00"
+    "last_modified": "Fri, 11 Sep 2026 18:17:10 GMT",
+    "checked_at": "2026-09-11T18:20:16.036586+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "8728ae03256c13b525a0611ed3b159c41134fcc21032cfe43f872cce6569df9b",
+    "hash": "b3b6553c80995ebcdd0f4264d0b755e20a9463b74447d4ecbe419cb72a0417ef",
     "confirmed": [
       {
         "name": "First Time",
@@ -22,9 +22,39 @@
         ]
       },
       {
+        "name": "From Distance",
+        "legs": [
+          "Emmanuel Latte Lath",
+          "Esteban Lepaul",
+          "John Yeboah"
+        ]
+      },
+      {
         "name": "Gets Across",
         "legs": [
           "Beto"
+        ]
+      },
+      {
+        "name": "Lunchtime Kickoff",
+        "legs": [
+          "Igor Paixao"
+        ]
+      },
+      {
+        "name": "Off the Underside",
+        "legs": [
+          "Alieu Njie",
+          "Amine Gouiri",
+          "Arnaut Danjuma"
+        ]
+      },
+      {
+        "name": "Outside the Box",
+        "legs": [
+          "Amine Gouiri",
+          "Franco Mastantuono",
+          "Isaac Romero"
         ]
       },
       {
@@ -42,6 +72,14 @@
         ]
       },
       {
+        "name": "Top Corner",
+        "legs": [
+          "Akor Adams",
+          "Esteban Lepaul",
+          "Lucas Stassin"
+        ]
+      },
+      {
         "name": "Upper Ninety",
         "legs": [
           "Beto",
@@ -50,13 +88,13 @@
         ]
       }
     ],
-    "last_modified": "Fri, 11 Sep 2026 18:07:11 GMT",
-    "checked_at": "2026-09-11T18:10:18.892221+00:00"
+    "last_modified": "Fri, 11 Sep 2026 18:17:10 GMT",
+    "checked_at": "2026-09-11T18:20:16.753101+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 11 Sep 2026 18:07:11 GMT",
-    "checked_at": "2026-09-11T18:10:19.056828+00:00"
+    "last_modified": "Fri, 11 Sep 2026 18:17:10 GMT",
+    "checked_at": "2026-09-11T18:20:16.884034+00:00"
   }
 }
