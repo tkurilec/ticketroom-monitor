@@ -2,82 +2,19 @@
   "https://theticketroom.live/mlb/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 11 Sep 2026 13:47:12 GMT",
-    "checked_at": "2026-09-11T13:50:16.952718+00:00"
+    "last_modified": "Fri, 11 Sep 2026 14:08:41 GMT",
+    "checked_at": "2026-09-11T14:10:20.566741+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "1575804ed6b8dec99aa70b57f258a6594cb7638259fa1b545c6c498f12300245",
-    "confirmed": [
-      {
-        "name": "First Time",
-        "legs": [
-          "Harry Kane"
-        ]
-      },
-      {
-        "name": "From Distance",
-        "legs": [
-          "Florian Thauvin",
-          "Harry Kane",
-          "Marc Guiu"
-        ]
-      },
-      {
-        "name": "Gets Across",
-        "legs": [
-          "Benjamin Sesko"
-        ]
-      },
-      {
-        "name": "Lunchtime Kickoff",
-        "legs": [
-          "Bryan Mbeumo"
-        ]
-      },
-      {
-        "name": "Postage Stamp",
-        "legs": [
-          "Benjamin Sesko",
-          "Christopher Nkunku",
-          "Jamal Musiala"
-        ]
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Donyell Malen"
-        ]
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Luis Diaz"
-        ]
-      },
-      {
-        "name": "Top Corner",
-        "legs": [
-          "Anastasios Douvikas",
-          "Franjo Ivanovic",
-          "Harry Kane"
-        ]
-      },
-      {
-        "name": "Upper Ninety",
-        "legs": [
-          "Benjamin Sesko",
-          "Michael Olise",
-          "Mojmir Chytil"
-        ]
-      }
-    ],
-    "last_modified": "Fri, 11 Sep 2026 13:47:12 GMT",
-    "checked_at": "2026-09-11T13:50:17.200949+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Fri, 11 Sep 2026 14:08:41 GMT",
+    "checked_at": "2026-09-11T14:10:21.731607+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 11 Sep 2026 13:47:12 GMT",
-    "checked_at": "2026-09-11T13:50:17.455015+00:00"
+    "last_modified": "Fri, 11 Sep 2026 14:08:41 GMT",
+    "checked_at": "2026-09-11T14:10:21.979614+00:00"
   }
 }
