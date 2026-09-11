@@ -1,20 +1,27 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Fri, 11 Sep 2026 14:08:41 GMT",
-    "checked_at": "2026-09-11T14:10:20.566741+00:00"
+    "hash": "4077323e79099069ab53b07dcb653a9a88f4f394d8e09571c8136456d14ca0d5",
+    "confirmed": [
+      {
+        "name": "The Midday Mash",
+        "legs": [
+          "Esmerlyn Valdez"
+        ]
+      }
+    ],
+    "last_modified": "Fri, 11 Sep 2026 15:57:54 GMT",
+    "checked_at": "2026-09-11T16:00:22.734546+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 11 Sep 2026 14:08:41 GMT",
-    "checked_at": "2026-09-11T14:10:21.731607+00:00"
+    "last_modified": "Fri, 11 Sep 2026 15:57:54 GMT",
+    "checked_at": "2026-09-11T16:00:22.822066+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 11 Sep 2026 14:08:41 GMT",
-    "checked_at": "2026-09-11T14:10:21.979614+00:00"
+    "last_modified": "Fri, 11 Sep 2026 15:57:54 GMT",
+    "checked_at": "2026-09-11T16:00:22.903538+00:00"
   }
 }
