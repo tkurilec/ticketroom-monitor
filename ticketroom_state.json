@@ -9,19 +9,26 @@
         ]
       }
     ],
-    "last_modified": "Fri, 11 Sep 2026 15:57:54 GMT",
-    "checked_at": "2026-09-11T16:00:22.734546+00:00"
+    "last_modified": "Fri, 11 Sep 2026 18:01:42 GMT",
+    "checked_at": "2026-09-11T18:05:26.841322+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Fri, 11 Sep 2026 15:57:54 GMT",
-    "checked_at": "2026-09-11T16:00:22.822066+00:00"
+    "hash": "bc9209807c66029976af98ab875219b05939b5027efe43ad8b4b178e002bb96e",
+    "confirmed": [
+      {
+        "name": "First Time",
+        "legs": [
+          "Esteban Lepaul"
+        ]
+      }
+    ],
+    "last_modified": "Fri, 11 Sep 2026 18:01:42 GMT",
+    "checked_at": "2026-09-11T18:05:28.452926+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 11 Sep 2026 15:57:54 GMT",
-    "checked_at": "2026-09-11T16:00:22.903538+00:00"
+    "last_modified": "Fri, 11 Sep 2026 18:01:42 GMT",
+    "checked_at": "2026-09-11T18:05:28.615391+00:00"
   }
 }
