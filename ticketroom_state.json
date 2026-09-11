@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "fe5c936540dcbbff64b89d62eea7b7f68fa729fce15d896121144962c34d7186",
+    "hash": "44582f0fa04d628cdaff730599d83f0ea8538cf20a890bbb595c23af67c8a871",
     "confirmed": [
       {
         "name": "Defying Gravity",
@@ -22,6 +22,14 @@
           "Jonathan Aranda",
           "Mike Trout",
           "Spencer Jones"
+        ]
+      },
+      {
+        "name": "Past Low Earth Orbit",
+        "legs": [
+          "Drake Baldwin",
+          "Isaac Paredes",
+          "John Peck"
         ]
       },
       {
@@ -81,8 +89,8 @@
         ]
       }
     ],
-    "last_modified": "Fri, 11 Sep 2026 20:37:42 GMT",
-    "checked_at": "2026-09-11T20:40:25.991122+00:00"
+    "last_modified": "Fri, 11 Sep 2026 21:03:04 GMT",
+    "checked_at": "2026-09-11T21:05:14.979902+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "b3b6553c80995ebcdd0f4264d0b755e20a9463b74447d4ecbe419cb72a0417ef",
@@ -160,13 +168,13 @@
         ]
       }
     ],
-    "last_modified": "Fri, 11 Sep 2026 20:37:42 GMT",
-    "checked_at": "2026-09-11T20:40:26.268417+00:00"
+    "last_modified": "Fri, 11 Sep 2026 21:03:04 GMT",
+    "checked_at": "2026-09-11T21:05:15.101946+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 11 Sep 2026 20:37:42 GMT",
-    "checked_at": "2026-09-11T20:40:26.540096+00:00"
+    "last_modified": "Fri, 11 Sep 2026 21:03:04 GMT",
+    "checked_at": "2026-09-11T21:05:15.301681+00:00"
   }
 }
