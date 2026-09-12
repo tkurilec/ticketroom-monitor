@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "6b710b6807ee7f263663a6436a621c4378203a5f85a9cf15b3d3639d1937e084",
+    "hash": "461849527dc577a0824d699ae4da7b9d67dae6986b48e5361625162b05105838",
     "confirmed": [
       {
         "name": "Defying Gravity",
@@ -45,6 +45,14 @@
         ]
       },
       {
+        "name": "Past the Event Horizon",
+        "legs": [
+          "Bryce Harper",
+          "Colson Montgomery",
+          "Victor Mesa"
+        ]
+      },
+      {
         "name": "Port of Call",
         "legs": [
           "Victor Mesa"
@@ -81,8 +89,8 @@
         ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 20:03:18 GMT",
-    "checked_at": "2026-09-12T20:05:15.385058+00:00"
+    "last_modified": "Sat, 12 Sep 2026 20:08:09 GMT",
+    "checked_at": "2026-09-12T20:10:14.401385+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e54c9145d4f8c9fee1a078c543148011454d8837b38828577fb044b91ef52c3e",
@@ -182,13 +190,13 @@
         ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 20:03:18 GMT",
-    "checked_at": "2026-09-12T20:05:15.590275+00:00"
+    "last_modified": "Sat, 12 Sep 2026 20:08:09 GMT",
+    "checked_at": "2026-09-12T20:10:14.500956+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 12 Sep 2026 20:03:18 GMT",
-    "checked_at": "2026-09-12T20:05:15.748876+00:00"
+    "last_modified": "Sat, 12 Sep 2026 20:08:09 GMT",
+    "checked_at": "2026-09-12T20:10:14.590081+00:00"
   }
 }
