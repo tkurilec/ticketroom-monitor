@@ -53,11 +53,11 @@
         ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 18:07:18 GMT",
-    "checked_at": "2026-09-12T18:10:16.231496+00:00"
+    "last_modified": "Sat, 12 Sep 2026 18:12:11 GMT",
+    "checked_at": "2026-09-12T18:15:14.468557+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "11e0a87741692467d3ef7ebf8e52f6133aff6bb90c9bbd7b3aada954bb4022c0",
+    "hash": "e1c6d73e15a4439e3d60219d8189125d9d5374a734863632bc0d14e446196b5d",
     "confirmed": [
       {
         "name": "Back Post",
@@ -79,6 +79,12 @@
           "Alexander Isak",
           "Ermedin Demirovic",
           "Jonathan Burkardt"
+        ]
+      },
+      {
+        "name": "Early Doors",
+        "legs": [
+          "Yan Diomande"
         ]
       },
       {
@@ -112,9 +118,23 @@
         ]
       },
       {
+        "name": "Off the Underside",
+        "legs": [
+          "Gianluca Scamacca",
+          "Pavel Sulc",
+          "Vinicius Jr"
+        ]
+      },
+      {
         "name": "Six-Yard Box",
         "legs": [
           "Kai Havertz"
+        ]
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Vinicius Jr"
         ]
       },
       {
@@ -130,15 +150,23 @@
           "Dzenan Pejcinovic",
           "Igor Matanovic"
         ]
+      },
+      {
+        "name": "Upper Ninety",
+        "legs": [
+          "Kai Havertz",
+          "Lois Openda",
+          "Vinicius Jr"
+        ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 18:07:18 GMT",
-    "checked_at": "2026-09-12T18:10:17.893040+00:00"
+    "last_modified": "Sat, 12 Sep 2026 18:12:11 GMT",
+    "checked_at": "2026-09-12T18:15:15.002807+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 12 Sep 2026 18:07:18 GMT",
-    "checked_at": "2026-09-12T18:10:18.092046+00:00"
+    "last_modified": "Sat, 12 Sep 2026 18:12:11 GMT",
+    "checked_at": "2026-09-12T18:15:15.074159+00:00"
   }
 }
