@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "7efcb60e6c7e46b5385d8f4a7db683ab014a5ee2c5ab705738ee22cd8b721a18",
+    "hash": "6b710b6807ee7f263663a6436a621c4378203a5f85a9cf15b3d3639d1937e084",
     "confirmed": [
       {
         "name": "Defying Gravity",
@@ -28,6 +28,14 @@
         "name": "Half-Day Hammer",
         "legs": [
           "Kevin McGonigle"
+        ]
+      },
+      {
+        "name": "Into the Clouds",
+        "legs": [
+          "Austin Riley",
+          "Christian Walker",
+          "Munetaka Murakami"
         ]
       },
       {
@@ -73,8 +81,8 @@
         ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 19:38:06 GMT",
-    "checked_at": "2026-09-12T19:40:15.902812+00:00"
+    "last_modified": "Sat, 12 Sep 2026 20:03:18 GMT",
+    "checked_at": "2026-09-12T20:05:15.385058+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e54c9145d4f8c9fee1a078c543148011454d8837b38828577fb044b91ef52c3e",
@@ -174,13 +182,13 @@
         ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 19:38:06 GMT",
-    "checked_at": "2026-09-12T19:40:16.151628+00:00"
+    "last_modified": "Sat, 12 Sep 2026 20:03:18 GMT",
+    "checked_at": "2026-09-12T20:05:15.590275+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 12 Sep 2026 19:38:05 GMT",
-    "checked_at": "2026-09-12T19:40:16.460811+00:00"
+    "last_modified": "Sat, 12 Sep 2026 20:03:18 GMT",
+    "checked_at": "2026-09-12T20:05:15.748876+00:00"
   }
 }
