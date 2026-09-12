@@ -53,11 +53,11 @@
         ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 17:22:43 GMT",
-    "checked_at": "2026-09-12T17:25:13.698516+00:00"
+    "last_modified": "Sat, 12 Sep 2026 18:07:18 GMT",
+    "checked_at": "2026-09-12T18:10:16.231496+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "712aca5bf3d5ad62796d7eee4e9709ad14ee17196573b1659afdabe07ef7cf27",
+    "hash": "11e0a87741692467d3ef7ebf8e52f6133aff6bb90c9bbd7b3aada954bb4022c0",
     "confirmed": [
       {
         "name": "Back Post",
@@ -112,6 +112,12 @@
         ]
       },
       {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Kai Havertz"
+        ]
+      },
+      {
         "name": "The Poacher",
         "legs": [
           "Alexander Isak"
@@ -126,13 +132,13 @@
         ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 17:22:43 GMT",
-    "checked_at": "2026-09-12T17:25:14.080135+00:00"
+    "last_modified": "Sat, 12 Sep 2026 18:07:18 GMT",
+    "checked_at": "2026-09-12T18:10:17.893040+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 12 Sep 2026 17:22:43 GMT",
-    "checked_at": "2026-09-12T17:25:14.495492+00:00"
+    "last_modified": "Sat, 12 Sep 2026 18:07:18 GMT",
+    "checked_at": "2026-09-12T18:10:18.092046+00:00"
   }
 }
