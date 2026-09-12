@@ -103,16 +103,32 @@
         ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 13:06:20 GMT",
-    "checked_at": "2026-09-12T13:10:14.413523+00:00"
+    "last_modified": "Sat, 12 Sep 2026 13:11:18 GMT",
+    "checked_at": "2026-09-12T13:15:16.622180+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e5310a030393da5cf2154171050b7eb90c8ffd485dfd365e0e6a6afcda2c349b",
+    "hash": "c170c7f78f07ed02680691e7188c81a287248ab1022bd86005fb53a481ad7d6e",
     "confirmed": [
       {
         "name": "Back Post",
         "legs": [
           "Christian Kofane"
+        ]
+      },
+      {
+        "name": "Dipping Effort",
+        "legs": [
+          "Alexander Isak",
+          "Ermedin Demirovic",
+          "Jonathan Burkardt"
+        ]
+      },
+      {
+        "name": "From Distance",
+        "legs": [
+          "Bradley Barcola",
+          "Christian Kofane",
+          "Fabio Silva"
         ]
       },
       {
@@ -130,6 +146,12 @@
         ]
       },
       {
+        "name": "The Poacher",
+        "legs": [
+          "Alexander Isak"
+        ]
+      },
+      {
         "name": "Top Corner",
         "legs": [
           "Christian Kofane",
@@ -138,13 +160,13 @@
         ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 13:06:20 GMT",
-    "checked_at": "2026-09-12T13:10:14.948392+00:00"
+    "last_modified": "Sat, 12 Sep 2026 13:11:18 GMT",
+    "checked_at": "2026-09-12T13:15:17.691727+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 12 Sep 2026 13:06:20 GMT",
-    "checked_at": "2026-09-12T13:10:15.088406+00:00"
+    "last_modified": "Sat, 12 Sep 2026 13:11:18 GMT",
+    "checked_at": "2026-09-12T13:15:18.143553+00:00"
   }
 }
