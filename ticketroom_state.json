@@ -67,11 +67,11 @@
         ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 18:48:02 GMT",
-    "checked_at": "2026-09-12T18:50:15.599617+00:00"
+    "last_modified": "Sat, 12 Sep 2026 18:52:48 GMT",
+    "checked_at": "2026-09-12T18:55:14.715451+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e1c6d73e15a4439e3d60219d8189125d9d5374a734863632bc0d14e446196b5d",
+    "hash": "e54c9145d4f8c9fee1a078c543148011454d8837b38828577fb044b91ef52c3e",
     "confirmed": [
       {
         "name": "Back Post",
@@ -140,12 +140,6 @@
         ]
       },
       {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Kai Havertz"
-        ]
-      },
-      {
         "name": "Target Man",
         "legs": [
           "Vinicius Jr"
@@ -174,13 +168,13 @@
         ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 18:48:02 GMT",
-    "checked_at": "2026-09-12T18:50:15.698530+00:00"
+    "last_modified": "Sat, 12 Sep 2026 18:52:48 GMT",
+    "checked_at": "2026-09-12T18:55:15.611272+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 12 Sep 2026 18:48:02 GMT",
-    "checked_at": "2026-09-12T18:50:15.769669+00:00"
+    "last_modified": "Sat, 12 Sep 2026 18:52:48 GMT",
+    "checked_at": "2026-09-12T18:55:15.912087+00:00"
   }
 }
