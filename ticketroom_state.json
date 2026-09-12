@@ -1,110 +1,38 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "5fa2414fa06f4c411ed6851fde2b406a7c5c74c835512d8a695fbb36495b2c03",
+    "hash": "dce26bac5d824b1fbbba37fcd1513d460e2202ba4935b7850402e89123123bf5",
     "confirmed": [
-      {
-        "name": "After Hours",
-        "legs": [
-          "Wyatt Langford"
-        ]
-      },
-      {
-        "name": "Catching a Vapor Trail",
-        "legs": [
-          "Max Muncy",
-          "Spencer Jones",
-          "Vinnie Pasquantino"
-        ]
-      },
       {
         "name": "Defying Gravity",
         "legs": [
-          "Matt Olson",
-          "Nathaniel Lowe",
-          "Victor Mesa"
+          "John Peck",
+          "Michael Conforto",
+          "Paul Goldschmidt"
         ]
       },
       {
-        "name": "Dockside",
+        "name": "Half-Day Hammer",
         "legs": [
-          "Drake Baldwin"
+          "Kevin McGonigle"
         ]
       },
       {
-        "name": "Escape Velocity",
+        "name": "On Station",
         "legs": [
-          "Jonathan Aranda",
-          "Mike Trout",
-          "Spencer Jones"
-        ]
-      },
-      {
-        "name": "Past Low Earth Orbit",
-        "legs": [
-          "Drake Baldwin",
-          "Isaac Paredes",
-          "John Peck"
-        ]
-      },
-      {
-        "name": "Past the Event Horizon",
-        "legs": [
-          "Ben Rice",
-          "Mike Yastrzemski",
-          "Ryan Jeffers"
-        ]
-      },
-      {
-        "name": "Port of Call",
-        "legs": [
-          "Mike Yastrzemski"
-        ]
-      },
-      {
-        "name": "Shot Into Orbit",
-        "legs": [
-          "Bo Bichette",
-          "Joshua B\u00e1ez",
-          "Mike Yastrzemski"
-        ]
-      },
-      {
-        "name": "Sky High",
-        "legs": [
-          "Andrew Vaughn",
-          "Austin Wells",
-          "Matt Olson"
-        ]
-      },
-      {
-        "name": "The Bowline",
-        "legs": [
-          "Matt Olson"
-        ]
-      },
-      {
-        "name": "The Midday Mash",
-        "legs": [
-          "Esmerlyn Valdez"
+          "Paul Goldschmidt"
         ]
       },
       {
         "name": "Through the Stratosphere",
         "legs": [
-          "Drake Baldwin",
-          "Jos\u00e9 Ram\u00edrez",
-          "Kyle Stowers"
-        ]
-      },
-      {
-        "name": "Trim the Sail",
-        "legs": [
-          "Spencer Jones"
+          "Alex Bregman",
+          "Brett Callahan",
+          "Paul Goldschmidt"
         ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 14:41:28 GMT",
-    "checked_at": "2026-09-12T14:45:22.758050+00:00"
+    "last_modified": "Sat, 12 Sep 2026 16:27:44 GMT",
+    "checked_at": "2026-09-12T16:30:19.430928+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "712aca5bf3d5ad62796d7eee4e9709ad14ee17196573b1659afdabe07ef7cf27",
@@ -176,13 +104,13 @@
         ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 14:41:28 GMT",
-    "checked_at": "2026-09-12T14:45:23.442241+00:00"
+    "last_modified": "Sat, 12 Sep 2026 16:27:44 GMT",
+    "checked_at": "2026-09-12T16:30:19.587434+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 12 Sep 2026 14:41:28 GMT",
-    "checked_at": "2026-09-12T14:45:23.577288+00:00"
+    "last_modified": "Sat, 12 Sep 2026 16:27:44 GMT",
+    "checked_at": "2026-09-12T16:30:19.763852+00:00"
   }
 }
