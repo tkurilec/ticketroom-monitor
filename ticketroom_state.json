@@ -103,16 +103,24 @@
         ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 13:11:18 GMT",
-    "checked_at": "2026-09-12T13:15:16.622180+00:00"
+    "last_modified": "Sat, 12 Sep 2026 14:41:28 GMT",
+    "checked_at": "2026-09-12T14:45:22.758050+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "c170c7f78f07ed02680691e7188c81a287248ab1022bd86005fb53a481ad7d6e",
+    "hash": "712aca5bf3d5ad62796d7eee4e9709ad14ee17196573b1659afdabe07ef7cf27",
     "confirmed": [
       {
         "name": "Back Post",
         "legs": [
           "Christian Kofane"
+        ]
+      },
+      {
+        "name": "Curled Home",
+        "legs": [
+          "Alexander Isak",
+          "Jacobo Ortega",
+          "Raul Garcia"
         ]
       },
       {
@@ -129,6 +137,14 @@
           "Bradley Barcola",
           "Christian Kofane",
           "Fabio Silva"
+        ]
+      },
+      {
+        "name": "Into the Roof",
+        "legs": [
+          "Igor Thiago",
+          "Nicolas Jackson",
+          "Paris Brunner"
         ]
       },
       {
@@ -160,13 +176,13 @@
         ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 13:11:18 GMT",
-    "checked_at": "2026-09-12T13:15:17.691727+00:00"
+    "last_modified": "Sat, 12 Sep 2026 14:41:28 GMT",
+    "checked_at": "2026-09-12T14:45:23.442241+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 12 Sep 2026 13:11:18 GMT",
-    "checked_at": "2026-09-12T13:15:18.143553+00:00"
+    "last_modified": "Sat, 12 Sep 2026 14:41:28 GMT",
+    "checked_at": "2026-09-12T14:45:23.577288+00:00"
   }
 }
