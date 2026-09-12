@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "7f1368c09ffc0f240e87c05acd838ab072aa462ee44d76078476cbf4e6f2a727",
+    "hash": "7efcb60e6c7e46b5385d8f4a7db683ab014a5ee2c5ab705738ee22cd8b721a18",
     "confirmed": [
       {
         "name": "Defying Gravity",
@@ -8,6 +8,12 @@
           "John Peck",
           "Michael Conforto",
           "Paul Goldschmidt"
+        ]
+      },
+      {
+        "name": "Dockside",
+        "legs": [
+          "Munetaka Murakami"
         ]
       },
       {
@@ -67,8 +73,8 @@
         ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 18:52:48 GMT",
-    "checked_at": "2026-09-12T18:55:14.715451+00:00"
+    "last_modified": "Sat, 12 Sep 2026 19:38:06 GMT",
+    "checked_at": "2026-09-12T19:40:15.902812+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e54c9145d4f8c9fee1a078c543148011454d8837b38828577fb044b91ef52c3e",
@@ -168,13 +174,13 @@
         ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 18:52:48 GMT",
-    "checked_at": "2026-09-12T18:55:15.611272+00:00"
+    "last_modified": "Sat, 12 Sep 2026 19:38:06 GMT",
+    "checked_at": "2026-09-12T19:40:16.151628+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 12 Sep 2026 18:52:48 GMT",
-    "checked_at": "2026-09-12T18:55:15.912087+00:00"
+    "last_modified": "Sat, 12 Sep 2026 19:38:05 GMT",
+    "checked_at": "2026-09-12T19:40:16.460811+00:00"
   }
 }
