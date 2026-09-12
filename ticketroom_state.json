@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "0fd82192c788e49cac67675a489beaefee0d7cfbeeb16092829befb350876c8f",
+    "hash": "2251e382349f37ba6c07fa77b0797c4b81f5b48ce26ef5aa1b43bb629fbed6a6",
     "confirmed": [
       {
         "name": "Catching a Vapor Trail",
@@ -53,6 +53,12 @@
         ]
       },
       {
+        "name": "One for the Road",
+        "legs": [
+          "Randy Arozarena"
+        ]
+      },
+      {
         "name": "Past the Event Horizon",
         "legs": [
           "Bryce Harper",
@@ -97,8 +103,8 @@
         ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 21:19:00 GMT",
-    "checked_at": "2026-09-12T21:20:16.126153+00:00"
+    "last_modified": "Sat, 12 Sep 2026 22:03:56 GMT",
+    "checked_at": "2026-09-12T22:05:22.124613+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e54c9145d4f8c9fee1a078c543148011454d8837b38828577fb044b91ef52c3e",
@@ -198,13 +204,13 @@
         ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 21:19:00 GMT",
-    "checked_at": "2026-09-12T21:20:16.329516+00:00"
+    "last_modified": "Sat, 12 Sep 2026 22:03:56 GMT",
+    "checked_at": "2026-09-12T22:05:22.387981+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 12 Sep 2026 21:19:00 GMT",
-    "checked_at": "2026-09-12T21:20:16.508855+00:00"
+    "last_modified": "Sat, 12 Sep 2026 22:03:56 GMT",
+    "checked_at": "2026-09-12T22:05:22.622641+00:00"
   }
 }
