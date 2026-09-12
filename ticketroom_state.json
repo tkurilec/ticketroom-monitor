@@ -103,19 +103,34 @@
         ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 02:47:00 GMT",
-    "checked_at": "2026-09-12T02:50:14.688838+00:00"
+    "last_modified": "Sat, 12 Sep 2026 12:46:19 GMT",
+    "checked_at": "2026-09-12T12:50:14.331749+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Sat, 12 Sep 2026 02:47:00 GMT",
-    "checked_at": "2026-09-12T02:50:15.113151+00:00"
+    "hash": "cf156f82086626a3b6cc80bf9a5418bfd8cf231854f64355bd2f3f4e819f1a77",
+    "confirmed": [
+      {
+        "name": "Back Post",
+        "legs": [
+          "Christian Kofane"
+        ]
+      },
+      {
+        "name": "Top Corner",
+        "legs": [
+          "Christian Kofane",
+          "Dzenan Pejcinovic",
+          "Igor Matanovic"
+        ]
+      }
+    ],
+    "last_modified": "Sat, 12 Sep 2026 12:46:19 GMT",
+    "checked_at": "2026-09-12T12:50:14.862858+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 12 Sep 2026 02:47:00 GMT",
-    "checked_at": "2026-09-12T02:50:15.191968+00:00"
+    "last_modified": "Sat, 12 Sep 2026 12:46:19 GMT",
+    "checked_at": "2026-09-12T12:50:14.940106+00:00"
   }
 }
