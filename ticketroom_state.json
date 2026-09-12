@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "dce26bac5d824b1fbbba37fcd1513d460e2202ba4935b7850402e89123123bf5",
+    "hash": "b966bc81b8cad9ca293d3ecb8d9d3c6e4b97c1690bde1081d7a82a08867e3de3",
     "confirmed": [
       {
         "name": "Defying Gravity",
@@ -23,6 +23,28 @@
         ]
       },
       {
+        "name": "Shot Into Orbit",
+        "legs": [
+          "Abimelec Ortiz",
+          "Kyle Stowers",
+          "Manny Machado"
+        ]
+      },
+      {
+        "name": "Sky High",
+        "legs": [
+          "Abimelec Ortiz",
+          "Kody Clemens",
+          "Wilyer Abreu"
+        ]
+      },
+      {
+        "name": "The Bowline",
+        "legs": [
+          "Abimelec Ortiz"
+        ]
+      },
+      {
         "name": "Through the Stratosphere",
         "legs": [
           "Alex Bregman",
@@ -31,8 +53,8 @@
         ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 16:27:44 GMT",
-    "checked_at": "2026-09-12T16:30:19.430928+00:00"
+    "last_modified": "Sat, 12 Sep 2026 17:22:43 GMT",
+    "checked_at": "2026-09-12T17:25:13.698516+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "712aca5bf3d5ad62796d7eee4e9709ad14ee17196573b1659afdabe07ef7cf27",
@@ -104,13 +126,13 @@
         ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 16:27:44 GMT",
-    "checked_at": "2026-09-12T16:30:19.587434+00:00"
+    "last_modified": "Sat, 12 Sep 2026 17:22:43 GMT",
+    "checked_at": "2026-09-12T17:25:14.080135+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 12 Sep 2026 16:27:44 GMT",
-    "checked_at": "2026-09-12T16:30:19.763852+00:00"
+    "last_modified": "Sat, 12 Sep 2026 17:22:43 GMT",
+    "checked_at": "2026-09-12T17:25:14.495492+00:00"
   }
 }
