@@ -103,92 +103,19 @@
         ]
       }
     ],
-    "last_modified": "Fri, 11 Sep 2026 22:43:32 GMT",
-    "checked_at": "2026-09-11T22:45:25.920200+00:00"
+    "last_modified": "Sat, 12 Sep 2026 02:47:00 GMT",
+    "checked_at": "2026-09-12T02:50:14.688838+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "b3b6553c80995ebcdd0f4264d0b755e20a9463b74447d4ecbe419cb72a0417ef",
-    "confirmed": [
-      {
-        "name": "First Time",
-        "legs": [
-          "Esteban Lepaul"
-        ]
-      },
-      {
-        "name": "From Distance",
-        "legs": [
-          "Emmanuel Latte Lath",
-          "Esteban Lepaul",
-          "John Yeboah"
-        ]
-      },
-      {
-        "name": "Gets Across",
-        "legs": [
-          "Beto"
-        ]
-      },
-      {
-        "name": "Lunchtime Kickoff",
-        "legs": [
-          "Igor Paixao"
-        ]
-      },
-      {
-        "name": "Off the Underside",
-        "legs": [
-          "Alieu Njie",
-          "Amine Gouiri",
-          "Arnaut Danjuma"
-        ]
-      },
-      {
-        "name": "Outside the Box",
-        "legs": [
-          "Amine Gouiri",
-          "Franco Mastantuono",
-          "Isaac Romero"
-        ]
-      },
-      {
-        "name": "Postage Stamp",
-        "legs": [
-          "Beto",
-          "Kenan Karaman",
-          "Ludovic Blas"
-        ]
-      },
-      {
-        "name": "Runs the Channel",
-        "legs": [
-          "Amine Gouiri"
-        ]
-      },
-      {
-        "name": "Top Corner",
-        "legs": [
-          "Akor Adams",
-          "Esteban Lepaul",
-          "Lucas Stassin"
-        ]
-      },
-      {
-        "name": "Upper Ninety",
-        "legs": [
-          "Beto",
-          "Chukwubuike Adamu",
-          "Issa Soumare"
-        ]
-      }
-    ],
-    "last_modified": "Fri, 11 Sep 2026 22:43:32 GMT",
-    "checked_at": "2026-09-11T22:45:26.160482+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Sat, 12 Sep 2026 02:47:00 GMT",
+    "checked_at": "2026-09-12T02:50:15.113151+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 11 Sep 2026 22:43:32 GMT",
-    "checked_at": "2026-09-11T22:45:26.382664+00:00"
+    "last_modified": "Sat, 12 Sep 2026 02:47:00 GMT",
+    "checked_at": "2026-09-12T02:50:15.191968+00:00"
   }
 }
