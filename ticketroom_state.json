@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "b966bc81b8cad9ca293d3ecb8d9d3c6e4b97c1690bde1081d7a82a08867e3de3",
+    "hash": "7f1368c09ffc0f240e87c05acd838ab072aa462ee44d76078476cbf4e6f2a727",
     "confirmed": [
       {
         "name": "Defying Gravity",
@@ -8,6 +8,14 @@
           "John Peck",
           "Michael Conforto",
           "Paul Goldschmidt"
+        ]
+      },
+      {
+        "name": "Escape Velocity",
+        "legs": [
+          "Jos\u00e9 Ram\u00edrez",
+          "Mickey Gasper",
+          "Victor Mesa"
         ]
       },
       {
@@ -20,6 +28,12 @@
         "name": "On Station",
         "legs": [
           "Paul Goldschmidt"
+        ]
+      },
+      {
+        "name": "Port of Call",
+        "legs": [
+          "Victor Mesa"
         ]
       },
       {
@@ -53,8 +67,8 @@
         ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 18:12:11 GMT",
-    "checked_at": "2026-09-12T18:15:14.468557+00:00"
+    "last_modified": "Sat, 12 Sep 2026 18:48:02 GMT",
+    "checked_at": "2026-09-12T18:50:15.599617+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e1c6d73e15a4439e3d60219d8189125d9d5374a734863632bc0d14e446196b5d",
@@ -160,13 +174,13 @@
         ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 18:12:11 GMT",
-    "checked_at": "2026-09-12T18:15:15.002807+00:00"
+    "last_modified": "Sat, 12 Sep 2026 18:48:02 GMT",
+    "checked_at": "2026-09-12T18:50:15.698530+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 12 Sep 2026 18:12:11 GMT",
-    "checked_at": "2026-09-12T18:15:15.074159+00:00"
+    "last_modified": "Sat, 12 Sep 2026 18:48:02 GMT",
+    "checked_at": "2026-09-12T18:50:15.769669+00:00"
   }
 }
