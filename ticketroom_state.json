@@ -103,114 +103,19 @@
         ]
       }
     ],
-    "last_modified": "Sat, 12 Sep 2026 22:03:56 GMT",
-    "checked_at": "2026-09-12T22:05:22.124613+00:00"
+    "last_modified": "Sun, 13 Sep 2026 02:07:59 GMT",
+    "checked_at": "2026-09-13T02:10:15.402624+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e54c9145d4f8c9fee1a078c543148011454d8837b38828577fb044b91ef52c3e",
-    "confirmed": [
-      {
-        "name": "Back Post",
-        "legs": [
-          "Christian Kofane"
-        ]
-      },
-      {
-        "name": "Curled Home",
-        "legs": [
-          "Alexander Isak",
-          "Jacobo Ortega",
-          "Raul Garcia"
-        ]
-      },
-      {
-        "name": "Dipping Effort",
-        "legs": [
-          "Alexander Isak",
-          "Ermedin Demirovic",
-          "Jonathan Burkardt"
-        ]
-      },
-      {
-        "name": "Early Doors",
-        "legs": [
-          "Yan Diomande"
-        ]
-      },
-      {
-        "name": "From Distance",
-        "legs": [
-          "Bradley Barcola",
-          "Christian Kofane",
-          "Fabio Silva"
-        ]
-      },
-      {
-        "name": "Into the Roof",
-        "legs": [
-          "Igor Thiago",
-          "Nicolas Jackson",
-          "Paris Brunner"
-        ]
-      },
-      {
-        "name": "Near Post",
-        "legs": [
-          "Igor Thiago"
-        ]
-      },
-      {
-        "name": "No Backlift",
-        "legs": [
-          "Igor Thiago",
-          "Michael Gregoritsch",
-          "Phillip Tietz"
-        ]
-      },
-      {
-        "name": "Off the Underside",
-        "legs": [
-          "Gianluca Scamacca",
-          "Pavel Sulc",
-          "Vinicius Jr"
-        ]
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Vinicius Jr"
-        ]
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Alexander Isak"
-        ]
-      },
-      {
-        "name": "Top Corner",
-        "legs": [
-          "Christian Kofane",
-          "Dzenan Pejcinovic",
-          "Igor Matanovic"
-        ]
-      },
-      {
-        "name": "Upper Ninety",
-        "legs": [
-          "Kai Havertz",
-          "Lois Openda",
-          "Vinicius Jr"
-        ]
-      }
-    ],
-    "last_modified": "Sat, 12 Sep 2026 22:03:56 GMT",
-    "checked_at": "2026-09-12T22:05:22.387981+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Sun, 13 Sep 2026 02:07:59 GMT",
+    "checked_at": "2026-09-13T02:10:16.964039+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 12 Sep 2026 22:03:56 GMT",
-    "checked_at": "2026-09-12T22:05:22.622641+00:00"
+    "last_modified": "Sun, 13 Sep 2026 02:07:59 GMT",
+    "checked_at": "2026-09-13T02:10:17.144639+00:00"
   }
 }
