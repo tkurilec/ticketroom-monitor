@@ -2,19 +2,32 @@
   "https://theticketroom.live/mlb/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Mon, 14 Sep 2026 16:32:25 GMT",
-    "checked_at": "2026-09-14T16:35:15.666928+00:00"
+    "last_modified": "Mon, 14 Sep 2026 17:57:45 GMT",
+    "checked_at": "2026-09-14T18:00:22.174027+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Mon, 14 Sep 2026 16:32:25 GMT",
-    "checked_at": "2026-09-14T16:35:15.927308+00:00"
+    "hash": "5cb193b98d11f915eb12a7cb7eeaba7a2e70d2180be2cb9268c60f800e55b31f",
+    "confirmed": [
+      {
+        "name": "Near Post",
+        "legs": [
+          "Marcus Thuram"
+        ]
+      },
+      {
+        "name": "The Nine",
+        "legs": [
+          "Pio Esposito"
+        ]
+      }
+    ],
+    "last_modified": "Mon, 14 Sep 2026 17:57:45 GMT",
+    "checked_at": "2026-09-14T18:00:22.786717+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Mon, 14 Sep 2026 16:32:25 GMT",
-    "checked_at": "2026-09-14T16:35:16.186770+00:00"
+    "last_modified": "Mon, 14 Sep 2026 17:57:45 GMT",
+    "checked_at": "2026-09-14T18:00:22.947883+00:00"
   }
 }
