@@ -111,92 +111,19 @@
         ]
       }
     ],
-    "last_modified": "Mon, 14 Sep 2026 03:43:37 GMT",
-    "checked_at": "2026-09-14T04:10:20.054103+00:00"
+    "last_modified": "Mon, 14 Sep 2026 04:16:32 GMT",
+    "checked_at": "2026-09-14T04:20:16.982193+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "2c08870046f0cffbd6f15b137df465bab7cc25c45577611300b881794af34439",
-    "confirmed": [
-      {
-        "name": "Curled Home",
-        "legs": [
-          "Bryan Mbeumo",
-          "Fermin Lopez",
-          "Michael Olise"
-        ]
-      },
-      {
-        "name": "Dipping Effort",
-        "legs": [
-          "Florian Thauvin",
-          "Michael Olise",
-          "Rasmus Hojlund"
-        ]
-      },
-      {
-        "name": "Early Doors",
-        "legs": [
-          "Ferran Torres"
-        ]
-      },
-      {
-        "name": "From Distance",
-        "legs": [
-          "Erling Haaland",
-          "Ismael Saibari",
-          "Pierre-Emerick Aubameyang"
-        ]
-      },
-      {
-        "name": "Off the Underside",
-        "legs": [
-          "Ademola Lookman",
-          "Kerim Alajbegovic",
-          "Khvicha Kvaratskhelia"
-        ]
-      },
-      {
-        "name": "Outside the Box",
-        "legs": [
-          "Francisco Conceicao",
-          "Khvicha Kvaratskhelia",
-          "Mikel Oyarzabal"
-        ]
-      },
-      {
-        "name": "Runs the Channel",
-        "legs": [
-          "Erling Haaland"
-        ]
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Khvicha Kvaratskhelia"
-        ]
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Michael Olise"
-        ]
-      },
-      {
-        "name": "Top Corner",
-        "legs": [
-          "Erling Haaland",
-          "Lennart Karl",
-          "Odsonne Edouard"
-        ]
-      }
-    ],
-    "last_modified": "Mon, 14 Sep 2026 03:43:37 GMT",
-    "checked_at": "2026-09-14T04:10:21.548634+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Mon, 14 Sep 2026 04:16:32 GMT",
+    "checked_at": "2026-09-14T04:20:17.688842+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Mon, 14 Sep 2026 03:43:37 GMT",
-    "checked_at": "2026-09-14T04:10:21.719527+00:00"
+    "last_modified": "Mon, 14 Sep 2026 04:16:32 GMT",
+    "checked_at": "2026-09-14T04:20:17.913397+00:00"
   }
 }
