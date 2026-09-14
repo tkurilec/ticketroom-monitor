@@ -2,11 +2,11 @@
   "https://theticketroom.live/mlb/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Mon, 14 Sep 2026 17:57:45 GMT",
-    "checked_at": "2026-09-14T18:00:22.174027+00:00"
+    "last_modified": "Mon, 14 Sep 2026 18:07:39 GMT",
+    "checked_at": "2026-09-14T18:10:17.885808+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "5cb193b98d11f915eb12a7cb7eeaba7a2e70d2180be2cb9268c60f800e55b31f",
+    "hash": "8dade35169141c16b33a20777c5c9d65d10c8c6e791c593b8b5ede8b52944fbd",
     "confirmed": [
       {
         "name": "Near Post",
@@ -15,19 +15,39 @@
         ]
       },
       {
+        "name": "Postage Stamp",
+        "legs": [
+          "Gerard Moreno",
+          "Harvey Barnes",
+          "Pio Esposito"
+        ]
+      },
+      {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Dominic Calvert-Lewin"
+        ]
+      },
+      {
         "name": "The Nine",
         "legs": [
           "Pio Esposito"
         ]
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Georges Mikautadze"
+        ]
       }
     ],
-    "last_modified": "Mon, 14 Sep 2026 17:57:45 GMT",
-    "checked_at": "2026-09-14T18:00:22.786717+00:00"
+    "last_modified": "Mon, 14 Sep 2026 18:07:39 GMT",
+    "checked_at": "2026-09-14T18:10:20.975633+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Mon, 14 Sep 2026 17:57:45 GMT",
-    "checked_at": "2026-09-14T18:00:22.947883+00:00"
+    "last_modified": "Mon, 14 Sep 2026 18:07:39 GMT",
+    "checked_at": "2026-09-14T18:10:21.397638+00:00"
   }
 }
