@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "58fa39b8881e7d15594e55c15456c84c3086a164a5101b44a181a8e05f5526d3",
+    "hash": "26192012495a1be214f2e8e014f5e1719ffac6aebf326b95ff138cd5f4fe2c5a",
     "confirmed": [
       {
         "name": "Breaking the Sound Barrier",
@@ -18,6 +18,27 @@
           "Kevin McGonigle",
           "Munetaka Murakami",
           "Will Smith"
+        ]
+      },
+      {
+        "name": "Defying Gravity",
+        "legs": [
+          "Leo Bernal",
+          "Mike Trout",
+          "Pete Alonso",
+          "TJ Rumfield"
+        ]
+      },
+      {
+        "name": "Dockside",
+        "legs": [
+          "Mike Trout"
+        ]
+      },
+      {
+        "name": "Final Pour",
+        "legs": [
+          "Zach Neto"
         ]
       },
       {
@@ -39,9 +60,24 @@
         ]
       },
       {
+        "name": "On Station",
+        "legs": [
+          "Jose Siri"
+        ]
+      },
+      {
         "name": "Shipshape",
         "legs": [
           "Riley Greene"
+        ]
+      },
+      {
+        "name": "Sky High",
+        "legs": [
+          "Jose Siri",
+          "Mickey Moniak",
+          "Nolan Gorman",
+          "Spencer Jones"
         ]
       },
       {
@@ -49,10 +85,19 @@
         "legs": [
           "Munetaka Murakami"
         ]
+      },
+      {
+        "name": "Through the Stratosphere",
+        "legs": [
+          "Alec Burleson",
+          "Corbin Carroll",
+          "Francisco Lindor",
+          "Mike Trout"
+        ]
       }
     ],
-    "last_modified": "Mon, 14 Sep 2026 21:32:32 GMT",
-    "checked_at": "2026-09-14T21:35:15.454222+00:00"
+    "last_modified": "Mon, 14 Sep 2026 22:28:02 GMT",
+    "checked_at": "2026-09-14T22:30:23.504701+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "08084c9b6f4847c3f957ad31f69c6eb9099264d09c26b6b0fbcc8acc0edffe1d",
@@ -120,13 +165,13 @@
         ]
       }
     ],
-    "last_modified": "Mon, 14 Sep 2026 21:32:32 GMT",
-    "checked_at": "2026-09-14T21:35:15.728801+00:00"
+    "last_modified": "Mon, 14 Sep 2026 22:28:02 GMT",
+    "checked_at": "2026-09-14T22:30:23.889198+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Mon, 14 Sep 2026 21:32:32 GMT",
-    "checked_at": "2026-09-14T21:35:15.974661+00:00"
+    "last_modified": "Mon, 14 Sep 2026 22:28:02 GMT",
+    "checked_at": "2026-09-14T22:30:24.044914+00:00"
   }
 }
