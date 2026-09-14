@@ -1,7 +1,16 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "c724ea4289f53f7dd7d92efddc1b426a1b9568654a9ea20e1a1cff0dbf714c1a",
+    "hash": "58fa39b8881e7d15594e55c15456c84c3086a164a5101b44a181a8e05f5526d3",
     "confirmed": [
+      {
+        "name": "Breaking the Sound Barrier",
+        "legs": [
+          "Enrique Hern\u00e1ndez",
+          "Jake Cronenworth",
+          "Jos\u00e9 Ram\u00edrez",
+          "Riley Greene"
+        ]
+      },
       {
         "name": "Catching a Vapor Trail",
         "legs": [
@@ -42,8 +51,8 @@
         ]
       }
     ],
-    "last_modified": "Mon, 14 Sep 2026 20:05:04 GMT",
-    "checked_at": "2026-09-14T20:05:15.288403+00:00"
+    "last_modified": "Mon, 14 Sep 2026 21:32:32 GMT",
+    "checked_at": "2026-09-14T21:35:15.454222+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "08084c9b6f4847c3f957ad31f69c6eb9099264d09c26b6b0fbcc8acc0edffe1d",
@@ -111,13 +120,13 @@
         ]
       }
     ],
-    "last_modified": "Mon, 14 Sep 2026 20:05:04 GMT",
-    "checked_at": "2026-09-14T20:05:15.392302+00:00"
+    "last_modified": "Mon, 14 Sep 2026 21:32:32 GMT",
+    "checked_at": "2026-09-14T21:35:15.728801+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Mon, 14 Sep 2026 20:05:04 GMT",
-    "checked_at": "2026-09-14T20:05:15.496491+00:00"
+    "last_modified": "Mon, 14 Sep 2026 21:32:32 GMT",
+    "checked_at": "2026-09-14T21:35:15.974661+00:00"
   }
 }
