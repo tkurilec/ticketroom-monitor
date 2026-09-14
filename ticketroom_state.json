@@ -2,12 +2,26 @@
   "https://theticketroom.live/mlb/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Mon, 14 Sep 2026 18:07:39 GMT",
-    "checked_at": "2026-09-14T18:10:17.885808+00:00"
+    "last_modified": "Mon, 14 Sep 2026 18:12:54 GMT",
+    "checked_at": "2026-09-14T18:15:17.277833+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "8dade35169141c16b33a20777c5c9d65d10c8c6e791c593b8b5ede8b52944fbd",
+    "hash": "08084c9b6f4847c3f957ad31f69c6eb9099264d09c26b6b0fbcc8acc0edffe1d",
     "confirmed": [
+      {
+        "name": "From Distance",
+        "legs": [
+          "Marcus Thuram",
+          "Nicolas Pepe",
+          "Yoane Wissa"
+        ]
+      },
+      {
+        "name": "Lunchtime Kickoff",
+        "legs": [
+          "Henrikh Mkhitaryan"
+        ]
+      },
       {
         "name": "Near Post",
         "legs": [
@@ -39,15 +53,31 @@
         "legs": [
           "Georges Mikautadze"
         ]
+      },
+      {
+        "name": "Top Corner",
+        "legs": [
+          "Abdessamad Ezzalzouli",
+          "Marcus Thuram",
+          "Noah Okafor"
+        ]
+      },
+      {
+        "name": "Upper Ninety",
+        "legs": [
+          "Cucho Hernandez",
+          "Matias Fernandez-Pardo",
+          "Pio Esposito"
+        ]
       }
     ],
-    "last_modified": "Mon, 14 Sep 2026 18:07:39 GMT",
-    "checked_at": "2026-09-14T18:10:20.975633+00:00"
+    "last_modified": "Mon, 14 Sep 2026 18:12:54 GMT",
+    "checked_at": "2026-09-14T18:15:18.299390+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Mon, 14 Sep 2026 18:07:39 GMT",
-    "checked_at": "2026-09-14T18:10:21.397638+00:00"
+    "last_modified": "Mon, 14 Sep 2026 18:12:54 GMT",
+    "checked_at": "2026-09-14T18:15:18.604978+00:00"
   }
 }
