@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "26192012495a1be214f2e8e014f5e1719ffac6aebf326b95ff138cd5f4fe2c5a",
+    "hash": "cf7f0467d24b171d9b8950b7981acf812a257a6091e874e0b653eecc4ac94853",
     "confirmed": [
       {
         "name": "Breaking the Sound Barrier",
@@ -72,6 +72,15 @@
         ]
       },
       {
+        "name": "Shot Into Orbit",
+        "legs": [
+          "Jackson Merrill",
+          "Jose Siri",
+          "Kyle Stowers",
+          "Michael Conforto"
+        ]
+      },
+      {
         "name": "Sky High",
         "legs": [
           "Jose Siri",
@@ -96,8 +105,8 @@
         ]
       }
     ],
-    "last_modified": "Mon, 14 Sep 2026 22:28:02 GMT",
-    "checked_at": "2026-09-14T22:30:23.504701+00:00"
+    "last_modified": "Mon, 14 Sep 2026 22:58:15 GMT",
+    "checked_at": "2026-09-14T23:00:20.063215+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "08084c9b6f4847c3f957ad31f69c6eb9099264d09c26b6b0fbcc8acc0edffe1d",
@@ -165,13 +174,13 @@
         ]
       }
     ],
-    "last_modified": "Mon, 14 Sep 2026 22:28:02 GMT",
-    "checked_at": "2026-09-14T22:30:23.889198+00:00"
+    "last_modified": "Mon, 14 Sep 2026 22:58:15 GMT",
+    "checked_at": "2026-09-14T23:00:20.275297+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Mon, 14 Sep 2026 22:28:02 GMT",
-    "checked_at": "2026-09-14T22:30:24.044914+00:00"
+    "last_modified": "Mon, 14 Sep 2026 22:58:15 GMT",
+    "checked_at": "2026-09-14T23:00:20.420887+00:00"
   }
 }
