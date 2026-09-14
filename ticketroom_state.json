@@ -1,91 +1,86 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "2251e382349f37ba6c07fa77b0797c4b81f5b48ce26ef5aa1b43bb629fbed6a6",
+    "hash": "d5b9a6d47c2e2574eee1373c125ed9ed700b305f17fdaccbd52ed532184a43d5",
     "confirmed": [
       {
         "name": "Catching a Vapor Trail",
         "legs": [
-          "Cam Smith",
-          "Corbin Carroll",
-          "Munetaka Murakami"
+          "Gunnar Henderson",
+          "Kevin McGonigle",
+          "Seiya Suzuki",
+          "Spencer Jones"
         ]
       },
       {
         "name": "Defying Gravity",
         "legs": [
-          "John Peck",
-          "Michael Conforto",
-          "Paul Goldschmidt"
+          "Colson Montgomery",
+          "Sal Stewart",
+          "Victor Mesa Jr.",
+          "Wyatt Langford"
         ]
       },
       {
         "name": "Dockside",
         "legs": [
+          "Spencer Jones"
+        ]
+      },
+      {
+        "name": "Full Afterburner",
+        "legs": [
+          "Corbin Carroll",
+          "Jake Bauers",
+          "Jonathan Aranda",
           "Munetaka Murakami"
-        ]
-      },
-      {
-        "name": "Escape Velocity",
-        "legs": [
-          "Jos\u00e9 Ram\u00edrez",
-          "Mickey Gasper",
-          "Victor Mesa"
-        ]
-      },
-      {
-        "name": "Half-Day Hammer",
-        "legs": [
-          "Kevin McGonigle"
         ]
       },
       {
         "name": "Into the Clouds",
         "legs": [
-          "Austin Riley",
-          "Christian Walker",
+          "Bryce Harper",
+          "Danny Jansen",
+          "Isaac Paredes",
           "Munetaka Murakami"
+        ]
+      },
+      {
+        "name": "Lights Out",
+        "legs": [
+          "Carlos Cortes"
         ]
       },
       {
         "name": "On Station",
         "legs": [
-          "Paul Goldschmidt"
-        ]
-      },
-      {
-        "name": "One for the Road",
-        "legs": [
-          "Randy Arozarena"
+          "Victor Mesa Jr."
         ]
       },
       {
         "name": "Past the Event Horizon",
         "legs": [
-          "Bryce Harper",
-          "Colson Montgomery",
-          "Victor Mesa"
-        ]
-      },
-      {
-        "name": "Port of Call",
-        "legs": [
-          "Victor Mesa"
+          "Abimelec Ortiz",
+          "Manny Machado",
+          "Pete Alonso",
+          "Ryan Jeffers"
         ]
       },
       {
         "name": "Shot Into Orbit",
         "legs": [
           "Abimelec Ortiz",
-          "Kyle Stowers",
-          "Manny Machado"
+          "Coby Mayo",
+          "Kody Clemens",
+          "Kyle Stowers"
         ]
       },
       {
         "name": "Sky High",
         "legs": [
-          "Abimelec Ortiz",
-          "Kody Clemens",
-          "Wilyer Abreu"
+          "Eugenio Su\u00e1rez",
+          "Justin Foscue",
+          "Nolan Gorman",
+          "Victor Mesa Jr."
         ]
       },
       {
@@ -95,27 +90,113 @@
         ]
       },
       {
+        "name": "The Matinee",
+        "legs": [
+          "Francisco Lindor"
+        ]
+      },
+      {
+        "name": "The Waterline",
+        "legs": [
+          "Munetaka Murakami"
+        ]
+      },
+      {
         "name": "Through the Stratosphere",
         "legs": [
-          "Alex Bregman",
-          "Brett Callahan",
-          "Paul Goldschmidt"
+          "Brandon Valenzuela",
+          "Pete Crow-Armstrong",
+          "Riley Greene",
+          "Spencer Jones"
         ]
       }
     ],
-    "last_modified": "Sun, 13 Sep 2026 02:07:59 GMT",
-    "checked_at": "2026-09-13T02:10:15.402624+00:00"
+    "last_modified": "Mon, 14 Sep 2026 03:43:37 GMT",
+    "checked_at": "2026-09-14T04:10:20.054103+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Sun, 13 Sep 2026 02:07:59 GMT",
-    "checked_at": "2026-09-13T02:10:16.964039+00:00"
+    "hash": "2c08870046f0cffbd6f15b137df465bab7cc25c45577611300b881794af34439",
+    "confirmed": [
+      {
+        "name": "Curled Home",
+        "legs": [
+          "Bryan Mbeumo",
+          "Fermin Lopez",
+          "Michael Olise"
+        ]
+      },
+      {
+        "name": "Dipping Effort",
+        "legs": [
+          "Florian Thauvin",
+          "Michael Olise",
+          "Rasmus Hojlund"
+        ]
+      },
+      {
+        "name": "Early Doors",
+        "legs": [
+          "Ferran Torres"
+        ]
+      },
+      {
+        "name": "From Distance",
+        "legs": [
+          "Erling Haaland",
+          "Ismael Saibari",
+          "Pierre-Emerick Aubameyang"
+        ]
+      },
+      {
+        "name": "Off the Underside",
+        "legs": [
+          "Ademola Lookman",
+          "Kerim Alajbegovic",
+          "Khvicha Kvaratskhelia"
+        ]
+      },
+      {
+        "name": "Outside the Box",
+        "legs": [
+          "Francisco Conceicao",
+          "Khvicha Kvaratskhelia",
+          "Mikel Oyarzabal"
+        ]
+      },
+      {
+        "name": "Runs the Channel",
+        "legs": [
+          "Erling Haaland"
+        ]
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Khvicha Kvaratskhelia"
+        ]
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Michael Olise"
+        ]
+      },
+      {
+        "name": "Top Corner",
+        "legs": [
+          "Erling Haaland",
+          "Lennart Karl",
+          "Odsonne Edouard"
+        ]
+      }
+    ],
+    "last_modified": "Mon, 14 Sep 2026 03:43:37 GMT",
+    "checked_at": "2026-09-14T04:10:21.548634+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sun, 13 Sep 2026 02:07:59 GMT",
-    "checked_at": "2026-09-13T02:10:17.144639+00:00"
+    "last_modified": "Mon, 14 Sep 2026 03:43:37 GMT",
+    "checked_at": "2026-09-14T04:10:21.719527+00:00"
   }
 }
