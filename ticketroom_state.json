@@ -1,129 +1,20 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "d5b9a6d47c2e2574eee1373c125ed9ed700b305f17fdaccbd52ed532184a43d5",
-    "confirmed": [
-      {
-        "name": "Catching a Vapor Trail",
-        "legs": [
-          "Gunnar Henderson",
-          "Kevin McGonigle",
-          "Seiya Suzuki",
-          "Spencer Jones"
-        ]
-      },
-      {
-        "name": "Defying Gravity",
-        "legs": [
-          "Colson Montgomery",
-          "Sal Stewart",
-          "Victor Mesa Jr.",
-          "Wyatt Langford"
-        ]
-      },
-      {
-        "name": "Dockside",
-        "legs": [
-          "Spencer Jones"
-        ]
-      },
-      {
-        "name": "Full Afterburner",
-        "legs": [
-          "Corbin Carroll",
-          "Jake Bauers",
-          "Jonathan Aranda",
-          "Munetaka Murakami"
-        ]
-      },
-      {
-        "name": "Into the Clouds",
-        "legs": [
-          "Bryce Harper",
-          "Danny Jansen",
-          "Isaac Paredes",
-          "Munetaka Murakami"
-        ]
-      },
-      {
-        "name": "Lights Out",
-        "legs": [
-          "Carlos Cortes"
-        ]
-      },
-      {
-        "name": "On Station",
-        "legs": [
-          "Victor Mesa Jr."
-        ]
-      },
-      {
-        "name": "Past the Event Horizon",
-        "legs": [
-          "Abimelec Ortiz",
-          "Manny Machado",
-          "Pete Alonso",
-          "Ryan Jeffers"
-        ]
-      },
-      {
-        "name": "Shot Into Orbit",
-        "legs": [
-          "Abimelec Ortiz",
-          "Coby Mayo",
-          "Kody Clemens",
-          "Kyle Stowers"
-        ]
-      },
-      {
-        "name": "Sky High",
-        "legs": [
-          "Eugenio Su\u00e1rez",
-          "Justin Foscue",
-          "Nolan Gorman",
-          "Victor Mesa Jr."
-        ]
-      },
-      {
-        "name": "The Bowline",
-        "legs": [
-          "Abimelec Ortiz"
-        ]
-      },
-      {
-        "name": "The Matinee",
-        "legs": [
-          "Francisco Lindor"
-        ]
-      },
-      {
-        "name": "The Waterline",
-        "legs": [
-          "Munetaka Murakami"
-        ]
-      },
-      {
-        "name": "Through the Stratosphere",
-        "legs": [
-          "Brandon Valenzuela",
-          "Pete Crow-Armstrong",
-          "Riley Greene",
-          "Spencer Jones"
-        ]
-      }
-    ],
-    "last_modified": "Mon, 14 Sep 2026 04:16:32 GMT",
-    "checked_at": "2026-09-14T04:20:16.982193+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Mon, 14 Sep 2026 16:32:25 GMT",
+    "checked_at": "2026-09-14T16:35:15.666928+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Mon, 14 Sep 2026 04:16:32 GMT",
-    "checked_at": "2026-09-14T04:20:17.688842+00:00"
+    "last_modified": "Mon, 14 Sep 2026 16:32:25 GMT",
+    "checked_at": "2026-09-14T16:35:15.927308+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Mon, 14 Sep 2026 04:16:32 GMT",
-    "checked_at": "2026-09-14T04:20:17.913397+00:00"
+    "last_modified": "Mon, 14 Sep 2026 16:32:25 GMT",
+    "checked_at": "2026-09-14T16:35:16.186770+00:00"
   }
 }
