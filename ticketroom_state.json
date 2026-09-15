@@ -2,16 +2,30 @@
   "https://theticketroom.live/mlb/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 15 Sep 2026 18:07:41 GMT",
-    "checked_at": "2026-09-15T18:10:16.494171+00:00"
+    "last_modified": "Tue, 15 Sep 2026 18:12:47 GMT",
+    "checked_at": "2026-09-15T18:15:18.867344+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "6faec76f71d559bfd8591b2b195f1eacaedf414a64c8e65d4b4fd7a2e7bafa04",
+    "hash": "e5121e146f45b09f9ca157d9bedd12a57f65d99c0947909b4d0137043acb65ff",
     "confirmed": [
       {
         "name": "Lunchtime Kickoff",
         "legs": [
           "Sergio Camello"
+        ]
+      },
+      {
+        "name": "Postage Stamp",
+        "legs": [
+          "Callum Wilson",
+          "Mikel Merino",
+          "Omar Marmoush"
+        ]
+      },
+      {
+        "name": "Shoulder of the Last Man",
+        "legs": [
+          "Callum Wilson"
         ]
       },
       {
@@ -21,13 +35,13 @@
         ]
       }
     ],
-    "last_modified": "Tue, 15 Sep 2026 18:07:41 GMT",
-    "checked_at": "2026-09-15T18:10:17.381982+00:00"
+    "last_modified": "Tue, 15 Sep 2026 18:12:47 GMT",
+    "checked_at": "2026-09-15T18:15:20.187218+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 15 Sep 2026 18:07:41 GMT",
-    "checked_at": "2026-09-15T18:10:17.615129+00:00"
+    "last_modified": "Tue, 15 Sep 2026 18:12:47 GMT",
+    "checked_at": "2026-09-15T18:15:20.920032+00:00"
   }
 }
