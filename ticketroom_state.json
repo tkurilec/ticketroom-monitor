@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "76c253f6c26546e4070231b61fa9530830760acaaf6a11cab57b5b20a4700c5c",
+    "hash": "ce1695ed4007634ee8c93811e9fa7d8e81ad2645cad13135fbb5a3294b32ed24",
     "confirmed": [
       {
         "name": "Dockside",
@@ -52,10 +52,19 @@
         "legs": [
           "Vinnie Pasquantino"
         ]
+      },
+      {
+        "name": "Through the Stratosphere",
+        "legs": [
+          "Ben Rice",
+          "Coby Mayo",
+          "Mike Trout",
+          "Vinnie Pasquantino"
+        ]
       }
     ],
-    "last_modified": "Tue, 15 Sep 2026 20:38:04 GMT",
-    "checked_at": "2026-09-15T20:40:18.267597+00:00"
+    "last_modified": "Tue, 15 Sep 2026 21:53:25 GMT",
+    "checked_at": "2026-09-15T21:55:15.935735+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "6b23f1fa18f2a35464b5dd21eab7abb0de1a6d11e406bcaaee13d863becf7dd1",
@@ -125,13 +134,13 @@
         ]
       }
     ],
-    "last_modified": "Tue, 15 Sep 2026 20:38:04 GMT",
-    "checked_at": "2026-09-15T20:40:18.498993+00:00"
+    "last_modified": "Tue, 15 Sep 2026 21:53:25 GMT",
+    "checked_at": "2026-09-15T21:55:16.280828+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 15 Sep 2026 20:38:04 GMT",
-    "checked_at": "2026-09-15T20:40:18.964152+00:00"
+    "last_modified": "Tue, 15 Sep 2026 21:53:25 GMT",
+    "checked_at": "2026-09-15T21:55:16.455067+00:00"
   }
 }
