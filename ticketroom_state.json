@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "9fd119fc9bb78308840e4a8333da0a69e9ab3df4999ba0a10ab6566bc4f44822",
+    "hash": "080d4326873af421141f6cc3dd99bf4dcdd8d8207f97b5bb0aab99b6c32e48d6",
     "confirmed": [
       {
         "name": "Full Afterburner",
@@ -21,6 +21,15 @@
         ]
       },
       {
+        "name": "Reaching for the Stars",
+        "legs": [
+          "Isaac Paredes",
+          "Jonathan Aranda",
+          "Max Muncy",
+          "Wilyer Abreu"
+        ]
+      },
+      {
         "name": "Shipshape",
         "legs": [
           "Victor Mesa"
@@ -33,8 +42,8 @@
         ]
       }
     ],
-    "last_modified": "Tue, 15 Sep 2026 20:07:46 GMT",
-    "checked_at": "2026-09-15T20:10:20.160266+00:00"
+    "last_modified": "Tue, 15 Sep 2026 20:17:48 GMT",
+    "checked_at": "2026-09-15T20:20:18.431044+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "6b23f1fa18f2a35464b5dd21eab7abb0de1a6d11e406bcaaee13d863becf7dd1",
@@ -104,13 +113,13 @@
         ]
       }
     ],
-    "last_modified": "Tue, 15 Sep 2026 20:07:46 GMT",
-    "checked_at": "2026-09-15T20:10:21.005776+00:00"
+    "last_modified": "Tue, 15 Sep 2026 20:17:48 GMT",
+    "checked_at": "2026-09-15T20:20:18.669182+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 15 Sep 2026 20:07:46 GMT",
-    "checked_at": "2026-09-15T20:10:21.468566+00:00"
+    "last_modified": "Tue, 15 Sep 2026 20:17:48 GMT",
+    "checked_at": "2026-09-15T20:20:18.882487+00:00"
   }
 }
