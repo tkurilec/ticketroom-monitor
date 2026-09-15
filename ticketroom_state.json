@@ -1,16 +1,22 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "7d687c1743842427c2463aa7db8e976872d10684e5486b8bcdeea28309c2ce6a",
+    "hash": "e52229317e81527b50bc3b3e684264cedfba45fb74b073389d498fca39a77dfa",
     "confirmed": [
       {
         "name": "Shipshape",
         "legs": [
           "Victor Mesa"
         ]
+      },
+      {
+        "name": "The Anchorage",
+        "legs": [
+          "Max Muncy"
+        ]
       }
     ],
-    "last_modified": "Tue, 15 Sep 2026 18:57:49 GMT",
-    "checked_at": "2026-09-15T18:59:00.440205+00:00"
+    "last_modified": "Tue, 15 Sep 2026 19:01:50 GMT",
+    "checked_at": "2026-09-15T19:05:19.448068+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "ad835fab828b57bb06b50487bbbf28c6d67368abc4c3cf08364fbe4cf79dda83",
@@ -88,13 +94,13 @@
         ]
       }
     ],
-    "last_modified": "Tue, 15 Sep 2026 18:57:49 GMT",
-    "checked_at": "2026-09-15T18:59:00.632891+00:00"
+    "last_modified": "Tue, 15 Sep 2026 19:01:50 GMT",
+    "checked_at": "2026-09-15T19:05:19.626157+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 15 Sep 2026 18:57:49 GMT",
-    "checked_at": "2026-09-15T18:59:00.783835+00:00"
+    "last_modified": "Tue, 15 Sep 2026 19:01:49 GMT",
+    "checked_at": "2026-09-15T19:05:19.793349+00:00"
   }
 }
