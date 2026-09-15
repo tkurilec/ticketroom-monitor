@@ -1,9 +1,16 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Tue, 15 Sep 2026 18:38:25 GMT",
-    "checked_at": "2026-09-15T18:40:17.637320+00:00"
+    "hash": "7d687c1743842427c2463aa7db8e976872d10684e5486b8bcdeea28309c2ce6a",
+    "confirmed": [
+      {
+        "name": "Shipshape",
+        "legs": [
+          "Victor Mesa"
+        ]
+      }
+    ],
+    "last_modified": "Tue, 15 Sep 2026 18:57:49 GMT",
+    "checked_at": "2026-09-15T18:59:00.440205+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "ad835fab828b57bb06b50487bbbf28c6d67368abc4c3cf08364fbe4cf79dda83",
@@ -81,13 +88,13 @@
         ]
       }
     ],
-    "last_modified": "Tue, 15 Sep 2026 18:38:25 GMT",
-    "checked_at": "2026-09-15T18:40:18.427448+00:00"
+    "last_modified": "Tue, 15 Sep 2026 18:57:49 GMT",
+    "checked_at": "2026-09-15T18:59:00.632891+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 15 Sep 2026 18:38:25 GMT",
-    "checked_at": "2026-09-15T18:40:18.519794+00:00"
+    "last_modified": "Tue, 15 Sep 2026 18:57:49 GMT",
+    "checked_at": "2026-09-15T18:59:00.783835+00:00"
   }
 }
