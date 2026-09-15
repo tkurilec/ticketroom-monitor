@@ -2,16 +2,32 @@
   "https://theticketroom.live/mlb/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 15 Sep 2026 18:22:24 GMT",
-    "checked_at": "2026-09-15T18:25:16.447023+00:00"
+    "last_modified": "Tue, 15 Sep 2026 18:38:25 GMT",
+    "checked_at": "2026-09-15T18:40:17.637320+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "6678ec46fedca892cd365f3dfe2007dca97111606a28adf426048132130a37b1",
+    "hash": "ad835fab828b57bb06b50487bbbf28c6d67368abc4c3cf08364fbe4cf79dda83",
     "confirmed": [
+      {
+        "name": "From Distance",
+        "legs": [
+          "Dango Ouattara",
+          "Franco Mastantuono",
+          "Zian Flemming"
+        ]
+      },
       {
         "name": "Lunchtime Kickoff",
         "legs": [
           "Sergio Camello"
+        ]
+      },
+      {
+        "name": "Off the Underside",
+        "legs": [
+          "Rodrigo Muniz",
+          "Viktor Gyokeres",
+          "Vinicius Jr"
         ]
       },
       {
@@ -47,15 +63,31 @@
         "legs": [
           "Viktor Gyokeres"
         ]
+      },
+      {
+        "name": "Top Corner",
+        "legs": [
+          "Cody Gakpo",
+          "Dango Ouattara",
+          "Max Dowman"
+        ]
+      },
+      {
+        "name": "Upper Ninety",
+        "legs": [
+          "Callum Wilson",
+          "Mateo Pellegrino",
+          "Yan Diomande"
+        ]
       }
     ],
-    "last_modified": "Tue, 15 Sep 2026 18:22:24 GMT",
-    "checked_at": "2026-09-15T18:25:17.319187+00:00"
+    "last_modified": "Tue, 15 Sep 2026 18:38:25 GMT",
+    "checked_at": "2026-09-15T18:40:18.427448+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 15 Sep 2026 18:22:24 GMT",
-    "checked_at": "2026-09-15T18:25:17.984144+00:00"
+    "last_modified": "Tue, 15 Sep 2026 18:38:25 GMT",
+    "checked_at": "2026-09-15T18:40:18.519794+00:00"
   }
 }
