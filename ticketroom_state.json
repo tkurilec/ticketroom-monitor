@@ -1,7 +1,16 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "458001134c8fd195e6c36287decf4a567cec11f469666a288014ad61bde7de0b",
+    "hash": "9fd119fc9bb78308840e4a8333da0a69e9ab3df4999ba0a10ab6566bc4f44822",
     "confirmed": [
+      {
+        "name": "Full Afterburner",
+        "legs": [
+          "Jake Bauers",
+          "Justin Foscue",
+          "Matt Olson",
+          "Victor Mesa"
+        ]
+      },
       {
         "name": "Into the Clouds",
         "legs": [
@@ -24,11 +33,11 @@
         ]
       }
     ],
-    "last_modified": "Tue, 15 Sep 2026 19:47:42 GMT",
-    "checked_at": "2026-09-15T19:50:27.701791+00:00"
+    "last_modified": "Tue, 15 Sep 2026 20:07:46 GMT",
+    "checked_at": "2026-09-15T20:10:20.160266+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "ad835fab828b57bb06b50487bbbf28c6d67368abc4c3cf08364fbe4cf79dda83",
+    "hash": "6b23f1fa18f2a35464b5dd21eab7abb0de1a6d11e406bcaaee13d863becf7dd1",
     "confirmed": [
       {
         "name": "From Distance",
@@ -50,14 +59,6 @@
           "Rodrigo Muniz",
           "Viktor Gyokeres",
           "Vinicius Jr"
-        ]
-      },
-      {
-        "name": "Outside the Box",
-        "legs": [
-          "Antonio Martinez",
-          "Fabio Carvalho",
-          "Viktor Gyokeres"
         ]
       },
       {
@@ -103,13 +104,13 @@
         ]
       }
     ],
-    "last_modified": "Tue, 15 Sep 2026 19:47:42 GMT",
-    "checked_at": "2026-09-15T19:50:28.052432+00:00"
+    "last_modified": "Tue, 15 Sep 2026 20:07:46 GMT",
+    "checked_at": "2026-09-15T20:10:21.005776+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 15 Sep 2026 19:47:42 GMT",
-    "checked_at": "2026-09-15T19:50:28.352080+00:00"
+    "last_modified": "Tue, 15 Sep 2026 20:07:46 GMT",
+    "checked_at": "2026-09-15T20:10:21.468566+00:00"
   }
 }
