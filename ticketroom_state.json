@@ -1,7 +1,25 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "ce1695ed4007634ee8c93811e9fa7d8e81ad2645cad13135fbb5a3294b32ed24",
+    "hash": "eee0006d48b1e20d61c88f1440a3a6d32645f612bfbdd66c4e19841bdef81dfc",
     "confirmed": [
+      {
+        "name": "Breaking the Sound Barrier",
+        "legs": [
+          "Alex Bregman",
+          "Daulton Varsho",
+          "Max Muncy",
+          "Randal Grichuk"
+        ]
+      },
+      {
+        "name": "Defying Gravity",
+        "legs": [
+          "Bryce Eldridge",
+          "Eugenio Su\u00e1rez",
+          "Spencer Jones",
+          "Spencer Torkelson"
+        ]
+      },
       {
         "name": "Dockside",
         "legs": [
@@ -42,6 +60,15 @@
         ]
       },
       {
+        "name": "Sky High",
+        "legs": [
+          "Carter Jensen",
+          "Nathaniel Lowe",
+          "Seiya Suzuki",
+          "Spencer Jones"
+        ]
+      },
+      {
         "name": "The Anchorage",
         "legs": [
           "Max Muncy"
@@ -63,8 +90,8 @@
         ]
       }
     ],
-    "last_modified": "Tue, 15 Sep 2026 21:53:25 GMT",
-    "checked_at": "2026-09-15T21:55:15.935735+00:00"
+    "last_modified": "Tue, 15 Sep 2026 21:58:22 GMT",
+    "checked_at": "2026-09-15T22:00:20.789426+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "6b23f1fa18f2a35464b5dd21eab7abb0de1a6d11e406bcaaee13d863becf7dd1",
@@ -134,13 +161,13 @@
         ]
       }
     ],
-    "last_modified": "Tue, 15 Sep 2026 21:53:25 GMT",
-    "checked_at": "2026-09-15T21:55:16.280828+00:00"
+    "last_modified": "Tue, 15 Sep 2026 21:58:22 GMT",
+    "checked_at": "2026-09-15T22:00:21.037462+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 15 Sep 2026 21:53:25 GMT",
-    "checked_at": "2026-09-15T21:55:16.455067+00:00"
+    "last_modified": "Tue, 15 Sep 2026 21:58:22 GMT",
+    "checked_at": "2026-09-15T22:00:21.262739+00:00"
   }
 }
