@@ -105,82 +105,19 @@
         ]
       }
     ],
-    "last_modified": "Mon, 14 Sep 2026 22:58:15 GMT",
-    "checked_at": "2026-09-14T23:00:20.063215+00:00"
+    "last_modified": "Tue, 15 Sep 2026 05:11:21 GMT",
+    "checked_at": "2026-09-15T05:15:17.115140+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "08084c9b6f4847c3f957ad31f69c6eb9099264d09c26b6b0fbcc8acc0edffe1d",
-    "confirmed": [
-      {
-        "name": "From Distance",
-        "legs": [
-          "Marcus Thuram",
-          "Nicolas Pepe",
-          "Yoane Wissa"
-        ]
-      },
-      {
-        "name": "Lunchtime Kickoff",
-        "legs": [
-          "Henrikh Mkhitaryan"
-        ]
-      },
-      {
-        "name": "Near Post",
-        "legs": [
-          "Marcus Thuram"
-        ]
-      },
-      {
-        "name": "Postage Stamp",
-        "legs": [
-          "Gerard Moreno",
-          "Harvey Barnes",
-          "Pio Esposito"
-        ]
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Dominic Calvert-Lewin"
-        ]
-      },
-      {
-        "name": "The Nine",
-        "legs": [
-          "Pio Esposito"
-        ]
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Georges Mikautadze"
-        ]
-      },
-      {
-        "name": "Top Corner",
-        "legs": [
-          "Abdessamad Ezzalzouli",
-          "Marcus Thuram",
-          "Noah Okafor"
-        ]
-      },
-      {
-        "name": "Upper Ninety",
-        "legs": [
-          "Cucho Hernandez",
-          "Matias Fernandez-Pardo",
-          "Pio Esposito"
-        ]
-      }
-    ],
-    "last_modified": "Mon, 14 Sep 2026 22:58:15 GMT",
-    "checked_at": "2026-09-14T23:00:20.275297+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Tue, 15 Sep 2026 05:11:21 GMT",
+    "checked_at": "2026-09-15T05:15:18.424367+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Mon, 14 Sep 2026 22:58:15 GMT",
-    "checked_at": "2026-09-14T23:00:20.420887+00:00"
+    "last_modified": "Tue, 15 Sep 2026 05:11:21 GMT",
+    "checked_at": "2026-09-15T05:15:18.487952+00:00"
   }
 }
