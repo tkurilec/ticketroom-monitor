@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "6605f289fe79564d8119d3bf55f50a5d48906c4565ed1f4a64fb0207be5279b0",
+    "hash": "1f1dc79f4d91803c34d5d9d81b2196a1a700687f9b0808202b84430d8e775417",
     "confirmed": [
       {
         "name": "Breaking the Sound Barrier",
@@ -9,6 +9,15 @@
           "Daulton Varsho",
           "Max Muncy",
           "Randal Grichuk"
+        ]
+      },
+      {
+        "name": "Catching a Vapor Trail",
+        "legs": [
+          "Cal Raleigh",
+          "Mike Yastrzemski",
+          "Vinnie Pasquantino",
+          "Wyatt Langford"
         ]
       },
       {
@@ -96,8 +105,8 @@
         ]
       }
     ],
-    "last_modified": "Tue, 15 Sep 2026 22:08:47 GMT",
-    "checked_at": "2026-09-15T22:10:29.054798+00:00"
+    "last_modified": "Tue, 15 Sep 2026 22:20:59 GMT",
+    "checked_at": "2026-09-15T22:25:14.958963+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "6b23f1fa18f2a35464b5dd21eab7abb0de1a6d11e406bcaaee13d863becf7dd1",
@@ -167,13 +176,13 @@
         ]
       }
     ],
-    "last_modified": "Tue, 15 Sep 2026 22:08:47 GMT",
-    "checked_at": "2026-09-15T22:10:29.216917+00:00"
+    "last_modified": "Tue, 15 Sep 2026 22:20:59 GMT",
+    "checked_at": "2026-09-15T22:25:15.255919+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 15 Sep 2026 22:08:47 GMT",
-    "checked_at": "2026-09-15T22:10:29.357237+00:00"
+    "last_modified": "Tue, 15 Sep 2026 22:20:59 GMT",
+    "checked_at": "2026-09-15T22:25:15.389266+00:00"
   }
 }
