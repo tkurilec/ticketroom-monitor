@@ -1,7 +1,13 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "a9733471062a3becd4e8350e3e3f34fe34043d5cc00c73b0533d073b034a8b23",
+    "hash": "76c253f6c26546e4070231b61fa9530830760acaaf6a11cab57b5b20a4700c5c",
     "confirmed": [
+      {
+        "name": "Dockside",
+        "legs": [
+          "Spencer Jones"
+        ]
+      },
       {
         "name": "Full Afterburner",
         "legs": [
@@ -48,8 +54,8 @@
         ]
       }
     ],
-    "last_modified": "Tue, 15 Sep 2026 20:32:49 GMT",
-    "checked_at": "2026-09-15T20:35:20.570070+00:00"
+    "last_modified": "Tue, 15 Sep 2026 20:38:04 GMT",
+    "checked_at": "2026-09-15T20:40:18.267597+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "6b23f1fa18f2a35464b5dd21eab7abb0de1a6d11e406bcaaee13d863becf7dd1",
@@ -119,13 +125,13 @@
         ]
       }
     ],
-    "last_modified": "Tue, 15 Sep 2026 20:32:50 GMT",
-    "checked_at": "2026-09-15T20:35:20.844885+00:00"
+    "last_modified": "Tue, 15 Sep 2026 20:38:04 GMT",
+    "checked_at": "2026-09-15T20:40:18.498993+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 15 Sep 2026 20:32:49 GMT",
-    "checked_at": "2026-09-15T20:35:21.069309+00:00"
+    "last_modified": "Tue, 15 Sep 2026 20:38:04 GMT",
+    "checked_at": "2026-09-15T20:40:18.964152+00:00"
   }
 }
