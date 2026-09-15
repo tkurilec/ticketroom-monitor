@@ -1,123 +1,27 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "cf7f0467d24b171d9b8950b7981acf812a257a6091e874e0b653eecc4ac94853",
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Tue, 15 Sep 2026 16:12:01 GMT",
+    "checked_at": "2026-09-15T16:15:17.775339+00:00"
+  },
+  "https://theticketroom.live/soccer/": {
+    "hash": "b617673cda369daaaf16dbb5f010ff80373564f66e62c0e2844f112f398f8d20",
     "confirmed": [
       {
-        "name": "Breaking the Sound Barrier",
+        "name": "Lunchtime Kickoff",
         "legs": [
-          "Enrique Hern\u00e1ndez",
-          "Jake Cronenworth",
-          "Jos\u00e9 Ram\u00edrez",
-          "Riley Greene"
-        ]
-      },
-      {
-        "name": "Catching a Vapor Trail",
-        "legs": [
-          "Gunnar Henderson",
-          "Kevin McGonigle",
-          "Munetaka Murakami",
-          "Will Smith"
-        ]
-      },
-      {
-        "name": "Defying Gravity",
-        "legs": [
-          "Leo Bernal",
-          "Mike Trout",
-          "Pete Alonso",
-          "TJ Rumfield"
-        ]
-      },
-      {
-        "name": "Dockside",
-        "legs": [
-          "Mike Trout"
-        ]
-      },
-      {
-        "name": "Final Pour",
-        "legs": [
-          "Zach Neto"
-        ]
-      },
-      {
-        "name": "Full Afterburner",
-        "legs": [
-          "Bryce Eldridge",
-          "Colson Montgomery",
-          "Mookie Betts",
-          "Riley Greene"
-        ]
-      },
-      {
-        "name": "Into the Clouds",
-        "legs": [
-          "Austin Riley",
-          "Coby Mayo",
-          "Munetaka Murakami",
-          "Sal Stewart"
-        ]
-      },
-      {
-        "name": "On Station",
-        "legs": [
-          "Jose Siri"
-        ]
-      },
-      {
-        "name": "Shipshape",
-        "legs": [
-          "Riley Greene"
-        ]
-      },
-      {
-        "name": "Shot Into Orbit",
-        "legs": [
-          "Jackson Merrill",
-          "Jose Siri",
-          "Kyle Stowers",
-          "Michael Conforto"
-        ]
-      },
-      {
-        "name": "Sky High",
-        "legs": [
-          "Jose Siri",
-          "Mickey Moniak",
-          "Nolan Gorman",
-          "Spencer Jones"
-        ]
-      },
-      {
-        "name": "The Waterline",
-        "legs": [
-          "Munetaka Murakami"
-        ]
-      },
-      {
-        "name": "Through the Stratosphere",
-        "legs": [
-          "Alec Burleson",
-          "Corbin Carroll",
-          "Francisco Lindor",
-          "Mike Trout"
+          "Sergio Camello"
         ]
       }
     ],
-    "last_modified": "Tue, 15 Sep 2026 05:11:21 GMT",
-    "checked_at": "2026-09-15T05:15:17.115140+00:00"
-  },
-  "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Tue, 15 Sep 2026 05:11:21 GMT",
-    "checked_at": "2026-09-15T05:15:18.424367+00:00"
+    "last_modified": "Tue, 15 Sep 2026 16:12:01 GMT",
+    "checked_at": "2026-09-15T16:15:18.457608+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 15 Sep 2026 05:11:21 GMT",
-    "checked_at": "2026-09-15T05:15:18.487952+00:00"
+    "last_modified": "Tue, 15 Sep 2026 16:12:01 GMT",
+    "checked_at": "2026-09-15T16:15:18.615900+00:00"
   }
 }
