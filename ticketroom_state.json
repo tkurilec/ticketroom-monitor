@@ -2,26 +2,32 @@
   "https://theticketroom.live/mlb/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 15 Sep 2026 16:12:01 GMT",
-    "checked_at": "2026-09-15T16:15:17.775339+00:00"
+    "last_modified": "Tue, 15 Sep 2026 18:07:41 GMT",
+    "checked_at": "2026-09-15T18:10:16.494171+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "b617673cda369daaaf16dbb5f010ff80373564f66e62c0e2844f112f398f8d20",
+    "hash": "6faec76f71d559bfd8591b2b195f1eacaedf414a64c8e65d4b4fd7a2e7bafa04",
     "confirmed": [
       {
         "name": "Lunchtime Kickoff",
         "legs": [
           "Sergio Camello"
         ]
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Viktor Gyokeres"
+        ]
       }
     ],
-    "last_modified": "Tue, 15 Sep 2026 16:12:01 GMT",
-    "checked_at": "2026-09-15T16:15:18.457608+00:00"
+    "last_modified": "Tue, 15 Sep 2026 18:07:41 GMT",
+    "checked_at": "2026-09-15T18:10:17.381982+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 15 Sep 2026 16:12:01 GMT",
-    "checked_at": "2026-09-15T16:15:18.615900+00:00"
+    "last_modified": "Tue, 15 Sep 2026 18:07:41 GMT",
+    "checked_at": "2026-09-15T18:10:17.615129+00:00"
   }
 }
