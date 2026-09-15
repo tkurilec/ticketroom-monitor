@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "eee0006d48b1e20d61c88f1440a3a6d32645f612bfbdd66c4e19841bdef81dfc",
+    "hash": "6605f289fe79564d8119d3bf55f50a5d48906c4565ed1f4a64fb0207be5279b0",
     "confirmed": [
       {
         "name": "Breaking the Sound Barrier",
@@ -75,6 +75,12 @@
         ]
       },
       {
+        "name": "The Closer",
+        "legs": [
+          "Corbin Carroll"
+        ]
+      },
+      {
         "name": "The Waterline",
         "legs": [
           "Vinnie Pasquantino"
@@ -90,8 +96,8 @@
         ]
       }
     ],
-    "last_modified": "Tue, 15 Sep 2026 21:58:22 GMT",
-    "checked_at": "2026-09-15T22:00:20.789426+00:00"
+    "last_modified": "Tue, 15 Sep 2026 22:08:47 GMT",
+    "checked_at": "2026-09-15T22:10:13.483098+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "6b23f1fa18f2a35464b5dd21eab7abb0de1a6d11e406bcaaee13d863becf7dd1",
@@ -161,13 +167,13 @@
         ]
       }
     ],
-    "last_modified": "Tue, 15 Sep 2026 21:58:22 GMT",
-    "checked_at": "2026-09-15T22:00:21.037462+00:00"
+    "last_modified": "Tue, 15 Sep 2026 22:08:47 GMT",
+    "checked_at": "2026-09-15T22:10:13.690238+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 15 Sep 2026 21:58:22 GMT",
-    "checked_at": "2026-09-15T22:00:21.262739+00:00"
+    "last_modified": "Tue, 15 Sep 2026 22:08:47 GMT",
+    "checked_at": "2026-09-15T22:10:13.931421+00:00"
   }
 }
