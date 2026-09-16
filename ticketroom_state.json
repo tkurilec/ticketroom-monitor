@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "d70abdba8d20ab810e10e14d157a4d8b9c1458a9df6f5144a1f3a7280b274f42",
+    "hash": "c8dc5a22175b9aa23eca286cd6cf53ce6711794af2cc56bf5a8e0a4b9bb9dacf",
     "confirmed": [
       {
         "name": "Breaking the Sound Barrier",
@@ -21,9 +21,27 @@
         ]
       },
       {
+        "name": "Defying Gravity",
+        "legs": [
+          "Michael Massey",
+          "Mookie Betts",
+          "Samuel Basallo",
+          "Yandy D\u00edaz"
+        ]
+      },
+      {
         "name": "First-Pitch Feast",
         "legs": [
           "Spencer Jones"
+        ]
+      },
+      {
+        "name": "Full Afterburner",
+        "legs": [
+          "Dylan Beavers",
+          "Jake Bauers",
+          "Justin Foscue",
+          "Sal Stewart"
         ]
       },
       {
@@ -33,6 +51,15 @@
           "Daylen Lile",
           "Kyle Tucker",
           "Vinnie Pasquantino"
+        ]
+      },
+      {
+        "name": "Reaching for the Stars",
+        "legs": [
+          "Gunnar Henderson",
+          "Mike Trout",
+          "Pete Crow-Armstrong",
+          "Wyatt Langford"
         ]
       },
       {
@@ -69,8 +96,8 @@
         ]
       }
     ],
-    "last_modified": "Wed, 16 Sep 2026 21:33:55 GMT",
-    "checked_at": "2026-09-16T21:35:18.933561+00:00"
+    "last_modified": "Wed, 16 Sep 2026 21:49:07 GMT",
+    "checked_at": "2026-09-16T21:50:16.454746+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "db45297fe4a7978311999efd72682dbe8959c80b48194119307e7f4254f682e9",
@@ -146,13 +173,13 @@
         ]
       }
     ],
-    "last_modified": "Wed, 16 Sep 2026 21:33:55 GMT",
-    "checked_at": "2026-09-16T21:35:19.179236+00:00"
+    "last_modified": "Wed, 16 Sep 2026 21:49:07 GMT",
+    "checked_at": "2026-09-16T21:50:16.786661+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 16 Sep 2026 21:33:55 GMT",
-    "checked_at": "2026-09-16T21:35:19.449624+00:00"
+    "last_modified": "Wed, 16 Sep 2026 21:49:07 GMT",
+    "checked_at": "2026-09-16T21:50:17.055828+00:00"
   }
 }
