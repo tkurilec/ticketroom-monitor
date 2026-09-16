@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "hash": "1f1dc79f4d91803c34d5d9d81b2196a1a700687f9b0808202b84430d8e775417",
     "confirmed": [
       {
         "name": "Breaking the Sound Barrier",
@@ -69,6 +69,15 @@
         ]
       },
       {
+        "name": "Sky High",
+        "legs": [
+          "Carter Jensen",
+          "Nathaniel Lowe",
+          "Seiya Suzuki",
+          "Spencer Jones"
+        ]
+      },
+      {
         "name": "The Anchorage",
         "legs": [
           "Max Muncy"
@@ -96,19 +105,19 @@
         ]
       }
     ],
-    "last_modified": "Wed, 16 Sep 2026 00:31:22 GMT",
-    "checked_at": "2026-09-16T00:31:33.226575+00:00"
+    "last_modified": "Wed, 16 Sep 2026 02:23:51 GMT",
+    "checked_at": "2026-09-16T02:25:13.463939+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 16 Sep 2026 00:31:22 GMT",
-    "checked_at": "2026-09-16T00:31:34.046508+00:00"
+    "last_modified": "Wed, 16 Sep 2026 02:23:51 GMT",
+    "checked_at": "2026-09-16T02:25:13.623744+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 16 Sep 2026 00:31:22 GMT",
-    "checked_at": "2026-09-16T00:31:34.122721+00:00"
+    "last_modified": "Wed, 16 Sep 2026 02:23:51 GMT",
+    "checked_at": "2026-09-16T02:25:13.927568+00:00"
   }
 }
