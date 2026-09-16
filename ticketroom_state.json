@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "0c9078715faff0406bbe6efd329f1e2db4f68b66bafbab104aa53a65777d9ee5",
+    "hash": "d2c5937ea58897461fd7829f0db156e9d0c67b4c4e062cce48d67a148252493c",
     "confirmed": [
       {
         "name": "Breaking the Sound Barrier",
@@ -24,6 +24,15 @@
         "name": "First-Pitch Feast",
         "legs": [
           "Spencer Jones"
+        ]
+      },
+      {
+        "name": "Into the Clouds",
+        "legs": [
+          "Austin Riley",
+          "Daylen Lile",
+          "Kyle Tucker",
+          "Vinnie Pasquantino"
         ]
       },
       {
@@ -54,8 +63,8 @@
         ]
       }
     ],
-    "last_modified": "Wed, 16 Sep 2026 20:38:52 GMT",
-    "checked_at": "2026-09-16T20:40:18.903559+00:00"
+    "last_modified": "Wed, 16 Sep 2026 21:04:31 GMT",
+    "checked_at": "2026-09-16T21:05:30.983988+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "b011eac2571a3a49e23e526f4423844e55af0ddbd26a9631bbe9a29dadff4aa6",
@@ -155,13 +164,13 @@
         ]
       }
     ],
-    "last_modified": "Wed, 16 Sep 2026 20:38:52 GMT",
-    "checked_at": "2026-09-16T20:40:19.389314+00:00"
+    "last_modified": "Wed, 16 Sep 2026 21:04:31 GMT",
+    "checked_at": "2026-09-16T21:05:31.091488+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 16 Sep 2026 20:38:52 GMT",
-    "checked_at": "2026-09-16T20:40:19.687323+00:00"
+    "last_modified": "Wed, 16 Sep 2026 21:04:31 GMT",
+    "checked_at": "2026-09-16T21:05:31.180152+00:00"
   }
 }
