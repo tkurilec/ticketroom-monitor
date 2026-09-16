@@ -1,11 +1,17 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "73802bb2c9c0e7bbada795ec24c77afe350e4b03f4951bf7a3212a540685276a",
+    "hash": "6e82f44dd9d94a0310d50ec1f2d9a6f92d555cfb0e18c6dcfcead053785b2bf5",
     "confirmed": [
       {
         "name": "First-Pitch Feast",
         "legs": [
           "Spencer Jones"
+        ]
+      },
+      {
+        "name": "The Anchorage",
+        "legs": [
+          "Justin Foscue"
         ]
       },
       {
@@ -15,8 +21,8 @@
         ]
       }
     ],
-    "last_modified": "Wed, 16 Sep 2026 18:42:25 GMT",
-    "checked_at": "2026-09-16T18:45:16.269560+00:00"
+    "last_modified": "Wed, 16 Sep 2026 20:03:18 GMT",
+    "checked_at": "2026-09-16T20:05:17.343938+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "b011eac2571a3a49e23e526f4423844e55af0ddbd26a9631bbe9a29dadff4aa6",
@@ -116,13 +122,13 @@
         ]
       }
     ],
-    "last_modified": "Wed, 16 Sep 2026 18:42:25 GMT",
-    "checked_at": "2026-09-16T18:45:17.055109+00:00"
+    "last_modified": "Wed, 16 Sep 2026 20:03:18 GMT",
+    "checked_at": "2026-09-16T20:05:18.081365+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 16 Sep 2026 18:42:25 GMT",
-    "checked_at": "2026-09-16T18:45:17.163347+00:00"
+    "last_modified": "Wed, 16 Sep 2026 20:03:18 GMT",
+    "checked_at": "2026-09-16T20:05:18.248542+00:00"
   }
 }
