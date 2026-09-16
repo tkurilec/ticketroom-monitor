@@ -98,6 +98,24 @@ def extract_signature(html: str) -> dict | None:
     meta = data.get("meta") or {}
     started_games = {str(g) for g in (meta.get("gs") or {})}
     started_games |= {str(g) for g in (meta.get("finals") or [])}
+    # meta.ko maps game number -> kickoff in minutes since midnight ET on
+    # meta.date (the page's own started() clock). The NFL pipeline never
+    # publishes confirmed statuses, so without this NFL tickets would never
+    # ping at all; with it they ping at kickoff, matching the page.
+    ko = meta.get("ko") or {}
+    slate_date = meta.get("date")
+    if ko and slate_date:
+        try:
+            from zoneinfo import ZoneInfo
+            now_et = datetime.now(ZoneInfo("America/New_York"))
+            # Only on the slate day itself: a stale board's games being over
+            # must not retroactively "confirm" yesterday's tickets.
+            if now_et.strftime("%Y-%m-%d") == str(slate_date):
+                mins = now_et.hour * 60 + now_et.minute
+                started_games |= {str(g) for g, m in ko.items()
+                                  if isinstance(m, (int, float)) and mins >= m}
+        except Exception as exc:  # zoneinfo/tzdata missing on some hosts
+            print(f"WARNING: kickoff-time check skipped: {exc}")
 
     def leg_confirmed(leg: dict) -> bool:
         return (leg.get("status") == "confirmed"
@@ -157,13 +175,8 @@ def describe_change(prev_confirmed: list | None, new_confirmed: list,
         fields.append({"name": "More",
                        "value": f"…and {len(fresh) - 10} more confirmed tickets",
                        "inline": False})
-    gone = sorted(n for n in prev if n not in new)
-    if gone:
-        fields.append({"name": f"No longer listed ({len(gone)})",
-                       "value": "\n".join(gone)[:1024], "inline": False})
-    if not fields:
-        fields.append({"name": "Change",
-                       "value": "Confirmed tickets updated", "inline": False})
+    # Removals and reshuffles are deliberately silent (user request): only a
+    # newly confirmed or player-changed ticket is worth a ping.
     return fields
 
 
@@ -223,7 +236,10 @@ def check_all() -> None:
             change_fields = (describe_change(prev.get("confirmed"), confirmed,
                                              MARKETS.get(name, ""))
                              if confirmed is not None else [])
-            notify_discord(webhook, name, url, last_modified, change_fields)
+            if change_fields:
+                notify_discord(webhook, name, url, last_modified, change_fields)
+            else:
+                print("  (removal/reshuffle only — updating state silently)")
         else:
             print(f"No change: {name} (last_modified={last_modified or 'n/a'})")
 
