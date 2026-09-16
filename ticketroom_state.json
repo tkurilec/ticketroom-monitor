@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "d2c5937ea58897461fd7829f0db156e9d0c67b4c4e062cce48d67a148252493c",
+    "hash": "d70abdba8d20ab810e10e14d157a4d8b9c1458a9df6f5144a1f3a7280b274f42",
     "confirmed": [
       {
         "name": "Breaking the Sound Barrier",
@@ -61,10 +61,16 @@
           "Will Smith",
           "Yandy D\u00edaz"
         ]
+      },
+      {
+        "name": "Under Way",
+        "legs": [
+          "Mike Trout"
+        ]
       }
     ],
-    "last_modified": "Wed, 16 Sep 2026 21:18:44 GMT",
-    "checked_at": "2026-09-16T21:20:14.791174+00:00"
+    "last_modified": "Wed, 16 Sep 2026 21:33:55 GMT",
+    "checked_at": "2026-09-16T21:35:18.933561+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "db45297fe4a7978311999efd72682dbe8959c80b48194119307e7f4254f682e9",
@@ -140,13 +146,13 @@
         ]
       }
     ],
-    "last_modified": "Wed, 16 Sep 2026 21:18:44 GMT",
-    "checked_at": "2026-09-16T21:20:14.945950+00:00"
+    "last_modified": "Wed, 16 Sep 2026 21:33:55 GMT",
+    "checked_at": "2026-09-16T21:35:19.179236+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 16 Sep 2026 21:18:45 GMT",
-    "checked_at": "2026-09-16T21:20:15.058031+00:00"
+    "last_modified": "Wed, 16 Sep 2026 21:33:55 GMT",
+    "checked_at": "2026-09-16T21:35:19.449624+00:00"
   }
 }
