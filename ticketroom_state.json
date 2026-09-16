@@ -9,26 +9,46 @@
         ]
       }
     ],
-    "last_modified": "Wed, 16 Sep 2026 16:08:06 GMT",
-    "checked_at": "2026-09-16T16:10:16.079837+00:00"
+    "last_modified": "Wed, 16 Sep 2026 18:12:30 GMT",
+    "checked_at": "2026-09-16T18:15:14.876664+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "a7cbba7e4204b296e8a0a3ea65af5d05705adf0f2e30ed83622cf8adfdf9a11e",
+    "hash": "6db6d82c8daa567ddeb4c50f19ef88f0ebfb9f8caa1397943a01bda1c6d94ead",
     "confirmed": [
+      {
+        "name": "Back Post",
+        "legs": [
+          "Lois Openda"
+        ]
+      },
       {
         "name": "Early Doors",
         "legs": [
           "Pierre-Emerick Aubameyang"
         ]
+      },
+      {
+        "name": "No Backlift",
+        "legs": [
+          "Lois Openda",
+          "Marcus Rashford",
+          "Moussa Diaby"
+        ]
+      },
+      {
+        "name": "Runs the Channel",
+        "legs": [
+          "Benjamin Sesko"
+        ]
       }
     ],
-    "last_modified": "Wed, 16 Sep 2026 16:08:06 GMT",
-    "checked_at": "2026-09-16T16:10:17.195369+00:00"
+    "last_modified": "Wed, 16 Sep 2026 18:12:30 GMT",
+    "checked_at": "2026-09-16T18:15:15.592747+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 16 Sep 2026 16:08:06 GMT",
-    "checked_at": "2026-09-16T16:10:17.457387+00:00"
+    "last_modified": "Wed, 16 Sep 2026 18:12:30 GMT",
+    "checked_at": "2026-09-16T18:15:15.694061+00:00"
   }
 }
