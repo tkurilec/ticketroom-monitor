@@ -9,11 +9,11 @@
         ]
       }
     ],
-    "last_modified": "Wed, 16 Sep 2026 18:12:30 GMT",
-    "checked_at": "2026-09-16T18:15:14.876664+00:00"
+    "last_modified": "Wed, 16 Sep 2026 18:36:51 GMT",
+    "checked_at": "2026-09-16T18:40:16.906393+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "6db6d82c8daa567ddeb4c50f19ef88f0ebfb9f8caa1397943a01bda1c6d94ead",
+    "hash": "f8070dcae11fb1986bdf1f8c26b2b44865afb02ff8f23e55ae319a52a6010640",
     "confirmed": [
       {
         "name": "Back Post",
@@ -28,6 +28,28 @@
         ]
       },
       {
+        "name": "From Distance",
+        "legs": [
+          "Benjamin Sesko",
+          "Esteban Lepaul",
+          "Tammy Abraham"
+        ]
+      },
+      {
+        "name": "Into the Roof",
+        "legs": [
+          "Charalampos Kostoulas",
+          "Dani Olmo",
+          "Lois Openda"
+        ]
+      },
+      {
+        "name": "Near Post",
+        "legs": [
+          "Matias Goncalo Ramos"
+        ]
+      },
+      {
         "name": "No Backlift",
         "legs": [
           "Lois Openda",
@@ -36,19 +58,33 @@
         ]
       },
       {
+        "name": "Postage Stamp",
+        "legs": [
+          "Jhon Duran",
+          "Martin Terrier",
+          "Mihajlo Cvetkovic"
+        ]
+      },
+      {
         "name": "Runs the Channel",
         "legs": [
           "Benjamin Sesko"
         ]
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Martin Terrier"
+        ]
       }
     ],
-    "last_modified": "Wed, 16 Sep 2026 18:12:30 GMT",
-    "checked_at": "2026-09-16T18:15:15.592747+00:00"
+    "last_modified": "Wed, 16 Sep 2026 18:36:51 GMT",
+    "checked_at": "2026-09-16T18:40:17.693727+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 16 Sep 2026 18:12:30 GMT",
-    "checked_at": "2026-09-16T18:15:15.694061+00:00"
+    "last_modified": "Wed, 16 Sep 2026 18:36:51 GMT",
+    "checked_at": "2026-09-16T18:40:17.845955+00:00"
   }
 }
