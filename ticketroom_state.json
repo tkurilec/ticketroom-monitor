@@ -63,11 +63,11 @@
         ]
       }
     ],
-    "last_modified": "Wed, 16 Sep 2026 21:04:31 GMT",
-    "checked_at": "2026-09-16T21:05:30.983988+00:00"
+    "last_modified": "Wed, 16 Sep 2026 21:18:44 GMT",
+    "checked_at": "2026-09-16T21:20:14.791174+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "b011eac2571a3a49e23e526f4423844e55af0ddbd26a9631bbe9a29dadff4aa6",
+    "hash": "db45297fe4a7978311999efd72682dbe8959c80b48194119307e7f4254f682e9",
     "confirmed": [
       {
         "name": "Back Post",
@@ -112,22 +112,6 @@
         ]
       },
       {
-        "name": "Off the Underside",
-        "legs": [
-          "Maroan Sannadi",
-          "Matias Goncalo Ramos",
-          "Wilson Isidor"
-        ]
-      },
-      {
-        "name": "Outside the Box",
-        "legs": [
-          "Ivan Romero",
-          "Malik Tillman",
-          "Matias Goncalo Ramos"
-        ]
-      },
-      {
         "name": "Postage Stamp",
         "legs": [
           "Jhon Duran",
@@ -154,23 +138,15 @@
           "Kail Boudache",
           "Thierno Barry"
         ]
-      },
-      {
-        "name": "Upper Ninety",
-        "legs": [
-          "Malick Fofana",
-          "Martin Terrier",
-          "Robert Navarro"
-        ]
       }
     ],
-    "last_modified": "Wed, 16 Sep 2026 21:04:31 GMT",
-    "checked_at": "2026-09-16T21:05:31.091488+00:00"
+    "last_modified": "Wed, 16 Sep 2026 21:18:44 GMT",
+    "checked_at": "2026-09-16T21:20:14.945950+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 16 Sep 2026 21:04:31 GMT",
-    "checked_at": "2026-09-16T21:05:31.180152+00:00"
+    "last_modified": "Wed, 16 Sep 2026 21:18:45 GMT",
+    "checked_at": "2026-09-16T21:20:15.058031+00:00"
   }
 }
