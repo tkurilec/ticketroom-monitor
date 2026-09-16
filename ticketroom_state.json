@@ -1,20 +1,27 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Wed, 16 Sep 2026 14:03:00 GMT",
-    "checked_at": "2026-09-16T14:05:20.833198+00:00"
+    "hash": "18d85f237eccf24da787a5c72c87f01843f764c453987ae3a64ee274ba60f52e",
+    "confirmed": [
+      {
+        "name": "First-Pitch Feast",
+        "legs": [
+          "Spencer Jones"
+        ]
+      }
+    ],
+    "last_modified": "Wed, 16 Sep 2026 15:48:09 GMT",
+    "checked_at": "2026-09-16T15:50:21.246872+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 16 Sep 2026 14:03:00 GMT",
-    "checked_at": "2026-09-16T14:05:21.254628+00:00"
+    "last_modified": "Wed, 16 Sep 2026 15:48:09 GMT",
+    "checked_at": "2026-09-16T15:50:21.436591+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 16 Sep 2026 14:03:00 GMT",
-    "checked_at": "2026-09-16T14:05:21.610584+00:00"
+    "last_modified": "Wed, 16 Sep 2026 15:48:09 GMT",
+    "checked_at": "2026-09-16T15:50:21.612541+00:00"
   }
 }
