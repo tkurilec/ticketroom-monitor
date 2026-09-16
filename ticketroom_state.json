@@ -1,123 +1,20 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "1f1dc79f4d91803c34d5d9d81b2196a1a700687f9b0808202b84430d8e775417",
-    "confirmed": [
-      {
-        "name": "Breaking the Sound Barrier",
-        "legs": [
-          "Alex Bregman",
-          "Daulton Varsho",
-          "Max Muncy",
-          "Randal Grichuk"
-        ]
-      },
-      {
-        "name": "Catching a Vapor Trail",
-        "legs": [
-          "Cal Raleigh",
-          "Mike Yastrzemski",
-          "Vinnie Pasquantino",
-          "Wyatt Langford"
-        ]
-      },
-      {
-        "name": "Defying Gravity",
-        "legs": [
-          "Bryce Eldridge",
-          "Eugenio Su\u00e1rez",
-          "Spencer Jones",
-          "Spencer Torkelson"
-        ]
-      },
-      {
-        "name": "Dockside",
-        "legs": [
-          "Spencer Jones"
-        ]
-      },
-      {
-        "name": "Full Afterburner",
-        "legs": [
-          "Jake Bauers",
-          "Justin Foscue",
-          "Matt Olson",
-          "Victor Mesa"
-        ]
-      },
-      {
-        "name": "Into the Clouds",
-        "legs": [
-          "Drake Baldwin",
-          "Elly De La Cruz",
-          "Jos\u00e9 Ram\u00edrez",
-          "Victor Mesa"
-        ]
-      },
-      {
-        "name": "Reaching for the Stars",
-        "legs": [
-          "Isaac Paredes",
-          "Jonathan Aranda",
-          "Max Muncy",
-          "Wilyer Abreu"
-        ]
-      },
-      {
-        "name": "Shipshape",
-        "legs": [
-          "Victor Mesa"
-        ]
-      },
-      {
-        "name": "Sky High",
-        "legs": [
-          "Carter Jensen",
-          "Nathaniel Lowe",
-          "Seiya Suzuki",
-          "Spencer Jones"
-        ]
-      },
-      {
-        "name": "The Anchorage",
-        "legs": [
-          "Max Muncy"
-        ]
-      },
-      {
-        "name": "The Closer",
-        "legs": [
-          "Corbin Carroll"
-        ]
-      },
-      {
-        "name": "The Waterline",
-        "legs": [
-          "Vinnie Pasquantino"
-        ]
-      },
-      {
-        "name": "Through the Stratosphere",
-        "legs": [
-          "Ben Rice",
-          "Coby Mayo",
-          "Mike Trout",
-          "Vinnie Pasquantino"
-        ]
-      }
-    ],
-    "last_modified": "Wed, 16 Sep 2026 02:23:51 GMT",
-    "checked_at": "2026-09-16T02:25:13.463939+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Wed, 16 Sep 2026 14:03:00 GMT",
+    "checked_at": "2026-09-16T14:05:20.833198+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 16 Sep 2026 02:23:51 GMT",
-    "checked_at": "2026-09-16T02:25:13.623744+00:00"
+    "last_modified": "Wed, 16 Sep 2026 14:03:00 GMT",
+    "checked_at": "2026-09-16T14:05:21.254628+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 16 Sep 2026 02:23:51 GMT",
-    "checked_at": "2026-09-16T02:25:13.927568+00:00"
+    "last_modified": "Wed, 16 Sep 2026 14:03:00 GMT",
+    "checked_at": "2026-09-16T14:05:21.610584+00:00"
   }
 }
