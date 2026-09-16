@@ -19,6 +19,7 @@ import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import quote
 
 import requests
 
@@ -27,6 +28,20 @@ PAGES = {
     "Soccer Board": "https://theticketroom.live/soccer/",
     "NFL Board": "https://theticketroom.live/nfl/",
 }
+
+# gambly.com/chat?q=<text> opens Gambly Chat with the text pre-typed (verified
+# 2026-09-15), so one link hands the whole ticket to Gambly for a betslip with
+# per-book deeplinks. Market phrase per board completes the prompt.
+MARKETS = {
+    "MLB Board": "anytime home run",
+    "Soccer Board": "anytime goalscorer",
+    "NFL Board": "anytime touchdown",
+}
+
+
+def gambly_link(legs: list, market: str) -> str:
+    text = ", ".join(legs) + f" {market}" + (" parlay" if len(legs) > 1 else "")
+    return "https://gambly.com/chat?q=" + quote(text)
 
 STATE_FILE = Path(__file__).parent / "ticketroom_state.json"
 
@@ -119,7 +134,8 @@ def save_state(state: dict) -> None:
     STATE_FILE.write_text(json.dumps(state, indent=2) + "\n", encoding="utf-8")
 
 
-def describe_change(prev_confirmed: list | None, new_confirmed: list) -> list[dict]:
+def describe_change(prev_confirmed: list | None, new_confirmed: list,
+                    market: str = "") -> list[dict]:
     """Build embed fields describing confirmed-ticket changes."""
     fields = []
     if prev_confirmed is None:
@@ -130,8 +146,12 @@ def describe_change(prev_confirmed: list | None, new_confirmed: list) -> list[di
     fresh = [n for n in new if n not in prev or prev[n] != new[n]]
     for ticket_name in fresh[:10]:
         label = "✅ " + (ticket_name or "Ticket")
+        legs = new[ticket_name]
+        value = "\n".join(legs)
+        if market:
+            value += f"\n[⚡ Build in Gambly]({gambly_link(legs, market)})"
         fields.append({"name": label[:256],
-                       "value": "\n".join(new[ticket_name])[:1024],
+                       "value": value[:1024],
                        "inline": True})
     if len(fresh) > 10:
         fields.append({"name": "More",
@@ -200,7 +220,8 @@ def check_all() -> None:
             first_run_pages.append(name)
         elif prev.get("hash") != digest:
             print(f"CHANGE detected on {name} ({url}) last_modified={last_modified}")
-            change_fields = (describe_change(prev.get("confirmed"), confirmed)
+            change_fields = (describe_change(prev.get("confirmed"), confirmed,
+                                             MARKETS.get(name, ""))
                              if confirmed is not None else [])
             notify_discord(webhook, name, url, last_modified, change_fields)
         else:
