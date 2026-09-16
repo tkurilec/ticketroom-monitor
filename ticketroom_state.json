@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "c8dc5a22175b9aa23eca286cd6cf53ce6711794af2cc56bf5a8e0a4b9bb9dacf",
+    "hash": "bdf03497a330fc3c1507b49cae1652a613779685d331b3508431f583580aec85",
     "confirmed": [
       {
         "name": "Breaking the Sound Barrier",
@@ -54,6 +54,12 @@
         ]
       },
       {
+        "name": "Last Ring of the Bell",
+        "legs": [
+          "Randy Arozarena"
+        ]
+      },
+      {
         "name": "Reaching for the Stars",
         "legs": [
           "Gunnar Henderson",
@@ -96,8 +102,8 @@
         ]
       }
     ],
-    "last_modified": "Wed, 16 Sep 2026 21:49:07 GMT",
-    "checked_at": "2026-09-16T21:50:16.454746+00:00"
+    "last_modified": "Wed, 16 Sep 2026 22:32:56 GMT",
+    "checked_at": "2026-09-16T22:35:13.052820+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "db45297fe4a7978311999efd72682dbe8959c80b48194119307e7f4254f682e9",
@@ -173,13 +179,13 @@
         ]
       }
     ],
-    "last_modified": "Wed, 16 Sep 2026 21:49:07 GMT",
-    "checked_at": "2026-09-16T21:50:16.786661+00:00"
+    "last_modified": "Wed, 16 Sep 2026 22:32:56 GMT",
+    "checked_at": "2026-09-16T22:35:13.154699+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 16 Sep 2026 21:49:07 GMT",
-    "checked_at": "2026-09-16T21:50:17.055828+00:00"
+    "last_modified": "Wed, 16 Sep 2026 22:32:56 GMT",
+    "checked_at": "2026-09-16T22:35:13.242476+00:00"
   }
 }
