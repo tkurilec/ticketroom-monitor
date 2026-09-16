@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "bdf03497a330fc3c1507b49cae1652a613779685d331b3508431f583580aec85",
+    "hash": "076659423d8eb990c612890b3f884bfd8ec6bcaa8a1b512f9f6b7cea2cfa3b90",
     "confirmed": [
       {
         "name": "Breaking the Sound Barrier",
@@ -75,6 +75,15 @@
         ]
       },
       {
+        "name": "Slipping the Surly Bonds",
+        "legs": [
+          "Carter Jensen",
+          "Kyle Stowers",
+          "Michael Conforto",
+          "Mike Trout"
+        ]
+      },
+      {
         "name": "The Anchorage",
         "legs": [
           "Justin Foscue"
@@ -102,8 +111,8 @@
         ]
       }
     ],
-    "last_modified": "Wed, 16 Sep 2026 22:32:56 GMT",
-    "checked_at": "2026-09-16T22:35:13.052820+00:00"
+    "last_modified": "Wed, 16 Sep 2026 22:57:54 GMT",
+    "checked_at": "2026-09-16T23:00:22.048728+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "db45297fe4a7978311999efd72682dbe8959c80b48194119307e7f4254f682e9",
@@ -179,13 +188,13 @@
         ]
       }
     ],
-    "last_modified": "Wed, 16 Sep 2026 22:32:56 GMT",
-    "checked_at": "2026-09-16T22:35:13.154699+00:00"
+    "last_modified": "Wed, 16 Sep 2026 22:57:54 GMT",
+    "checked_at": "2026-09-16T23:00:22.214698+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 16 Sep 2026 22:32:56 GMT",
-    "checked_at": "2026-09-16T22:35:13.242476+00:00"
+    "last_modified": "Wed, 16 Sep 2026 22:57:54 GMT",
+    "checked_at": "2026-09-16T23:00:22.292433+00:00"
   }
 }
