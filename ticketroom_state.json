@@ -9,19 +9,26 @@
         ]
       }
     ],
-    "last_modified": "Wed, 16 Sep 2026 15:48:09 GMT",
-    "checked_at": "2026-09-16T15:50:21.246872+00:00"
+    "last_modified": "Wed, 16 Sep 2026 16:08:06 GMT",
+    "checked_at": "2026-09-16T16:10:16.079837+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Wed, 16 Sep 2026 15:48:09 GMT",
-    "checked_at": "2026-09-16T15:50:21.436591+00:00"
+    "hash": "a7cbba7e4204b296e8a0a3ea65af5d05705adf0f2e30ed83622cf8adfdf9a11e",
+    "confirmed": [
+      {
+        "name": "Early Doors",
+        "legs": [
+          "Pierre-Emerick Aubameyang"
+        ]
+      }
+    ],
+    "last_modified": "Wed, 16 Sep 2026 16:08:06 GMT",
+    "checked_at": "2026-09-16T16:10:17.195369+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 16 Sep 2026 15:48:09 GMT",
-    "checked_at": "2026-09-16T15:50:21.612541+00:00"
+    "last_modified": "Wed, 16 Sep 2026 16:08:06 GMT",
+    "checked_at": "2026-09-16T16:10:17.457387+00:00"
   }
 }
