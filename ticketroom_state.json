@@ -1,7 +1,16 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "be15699a085d3393bfbbb3c2b4e424c517bf3c19f15558c9aa9cc98237abed1c",
+    "hash": "53d0ac234f83b0a2265659b97bcea832e57cc8ec024d592696f1feacfdc114bb",
     "confirmed": [
+      {
+        "name": "Breaking the Sound Barrier",
+        "legs": [
+          "Cam Smith",
+          "Enrique Hern\u00e1ndez",
+          "Juan Soto",
+          "Justin Foscue"
+        ]
+      },
       {
         "name": "First-Pitch Feast",
         "legs": [
@@ -25,10 +34,19 @@
         "legs": [
           "Yandy D\u00edaz"
         ]
+      },
+      {
+        "name": "Through the Stratosphere",
+        "legs": [
+          "Christian Walker",
+          "Danny Jansen",
+          "Will Smith",
+          "Yandy D\u00edaz"
+        ]
       }
     ],
-    "last_modified": "Wed, 16 Sep 2026 20:08:46 GMT",
-    "checked_at": "2026-09-16T20:10:17.580902+00:00"
+    "last_modified": "Wed, 16 Sep 2026 20:18:25 GMT",
+    "checked_at": "2026-09-16T20:20:17.819699+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "b011eac2571a3a49e23e526f4423844e55af0ddbd26a9631bbe9a29dadff4aa6",
@@ -128,13 +146,13 @@
         ]
       }
     ],
-    "last_modified": "Wed, 16 Sep 2026 20:08:46 GMT",
-    "checked_at": "2026-09-16T20:10:17.761211+00:00"
+    "last_modified": "Wed, 16 Sep 2026 20:18:25 GMT",
+    "checked_at": "2026-09-16T20:20:18.025317+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 16 Sep 2026 20:08:46 GMT",
-    "checked_at": "2026-09-16T20:10:17.916643+00:00"
+    "last_modified": "Wed, 16 Sep 2026 20:18:25 GMT",
+    "checked_at": "2026-09-16T20:20:18.283635+00:00"
   }
 }
