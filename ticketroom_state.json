@@ -105,84 +105,19 @@
         ]
       }
     ],
-    "last_modified": "Tue, 15 Sep 2026 22:20:59 GMT",
-    "checked_at": "2026-09-15T22:25:14.958963+00:00"
+    "last_modified": "Wed, 16 Sep 2026 00:31:22 GMT",
+    "checked_at": "2026-09-16T00:31:33.226575+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "6b23f1fa18f2a35464b5dd21eab7abb0de1a6d11e406bcaaee13d863becf7dd1",
-    "confirmed": [
-      {
-        "name": "From Distance",
-        "legs": [
-          "Dango Ouattara",
-          "Franco Mastantuono",
-          "Zian Flemming"
-        ]
-      },
-      {
-        "name": "Lunchtime Kickoff",
-        "legs": [
-          "Sergio Camello"
-        ]
-      },
-      {
-        "name": "Off the Underside",
-        "legs": [
-          "Rodrigo Muniz",
-          "Viktor Gyokeres",
-          "Vinicius Jr"
-        ]
-      },
-      {
-        "name": "Postage Stamp",
-        "legs": [
-          "Callum Wilson",
-          "Mikel Merino",
-          "Omar Marmoush"
-        ]
-      },
-      {
-        "name": "Shoulder of the Last Man",
-        "legs": [
-          "Callum Wilson"
-        ]
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Dango Ouattara"
-        ]
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Viktor Gyokeres"
-        ]
-      },
-      {
-        "name": "Top Corner",
-        "legs": [
-          "Cody Gakpo",
-          "Dango Ouattara",
-          "Max Dowman"
-        ]
-      },
-      {
-        "name": "Upper Ninety",
-        "legs": [
-          "Callum Wilson",
-          "Mateo Pellegrino",
-          "Yan Diomande"
-        ]
-      }
-    ],
-    "last_modified": "Tue, 15 Sep 2026 22:20:59 GMT",
-    "checked_at": "2026-09-15T22:25:15.255919+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Wed, 16 Sep 2026 00:31:22 GMT",
+    "checked_at": "2026-09-16T00:31:34.046508+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 15 Sep 2026 22:20:59 GMT",
-    "checked_at": "2026-09-15T22:25:15.389266+00:00"
+    "last_modified": "Wed, 16 Sep 2026 00:31:22 GMT",
+    "checked_at": "2026-09-16T00:31:34.122721+00:00"
   }
 }
