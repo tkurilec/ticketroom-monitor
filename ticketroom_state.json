@@ -1,19 +1,25 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "18d85f237eccf24da787a5c72c87f01843f764c453987ae3a64ee274ba60f52e",
+    "hash": "73802bb2c9c0e7bbada795ec24c77afe350e4b03f4951bf7a3212a540685276a",
     "confirmed": [
       {
         "name": "First-Pitch Feast",
         "legs": [
           "Spencer Jones"
         ]
+      },
+      {
+        "name": "The Waterline",
+        "legs": [
+          "Yandy D\u00edaz"
+        ]
       }
     ],
-    "last_modified": "Wed, 16 Sep 2026 18:36:51 GMT",
-    "checked_at": "2026-09-16T18:40:16.906393+00:00"
+    "last_modified": "Wed, 16 Sep 2026 18:42:25 GMT",
+    "checked_at": "2026-09-16T18:45:16.269560+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "f8070dcae11fb1986bdf1f8c26b2b44865afb02ff8f23e55ae319a52a6010640",
+    "hash": "b011eac2571a3a49e23e526f4423844e55af0ddbd26a9631bbe9a29dadff4aa6",
     "confirmed": [
       {
         "name": "Back Post",
@@ -58,6 +64,22 @@
         ]
       },
       {
+        "name": "Off the Underside",
+        "legs": [
+          "Maroan Sannadi",
+          "Matias Goncalo Ramos",
+          "Wilson Isidor"
+        ]
+      },
+      {
+        "name": "Outside the Box",
+        "legs": [
+          "Ivan Romero",
+          "Malik Tillman",
+          "Matias Goncalo Ramos"
+        ]
+      },
+      {
         "name": "Postage Stamp",
         "legs": [
           "Jhon Duran",
@@ -76,15 +98,31 @@
         "legs": [
           "Martin Terrier"
         ]
+      },
+      {
+        "name": "Top Corner",
+        "legs": [
+          "Benjamin Sesko",
+          "Kail Boudache",
+          "Thierno Barry"
+        ]
+      },
+      {
+        "name": "Upper Ninety",
+        "legs": [
+          "Malick Fofana",
+          "Martin Terrier",
+          "Robert Navarro"
+        ]
       }
     ],
-    "last_modified": "Wed, 16 Sep 2026 18:36:51 GMT",
-    "checked_at": "2026-09-16T18:40:17.693727+00:00"
+    "last_modified": "Wed, 16 Sep 2026 18:42:25 GMT",
+    "checked_at": "2026-09-16T18:45:17.055109+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 16 Sep 2026 18:36:51 GMT",
-    "checked_at": "2026-09-16T18:40:17.845955+00:00"
+    "last_modified": "Wed, 16 Sep 2026 18:42:25 GMT",
+    "checked_at": "2026-09-16T18:45:17.163347+00:00"
   }
 }
