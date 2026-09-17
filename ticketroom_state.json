@@ -9,11 +9,11 @@
         ]
       }
     ],
-    "last_modified": "Thu, 17 Sep 2026 18:02:19 GMT",
-    "checked_at": "2026-09-17T18:05:15.208094+00:00"
+    "last_modified": "Thu, 17 Sep 2026 18:08:01 GMT",
+    "checked_at": "2026-09-17T18:10:16.396415+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "edffa03cd8ee5df7047d08d7fa7e75e09e02a56f81ae0b6763d8db57d138ad7c",
+    "hash": "b409921a41938a5a218dad7be20a7a6a472062d82755f1d49237622e2f517e08",
     "confirmed": [
       {
         "name": "Back Post",
@@ -46,19 +46,25 @@
         ]
       },
       {
+        "name": "Target Man",
+        "legs": [
+          "Mikel Oyarzabal"
+        ]
+      },
+      {
         "name": "The Nine",
         "legs": [
           "Troy Parrott"
         ]
       }
     ],
-    "last_modified": "Thu, 17 Sep 2026 18:02:19 GMT",
-    "checked_at": "2026-09-17T18:05:16.088684+00:00"
+    "last_modified": "Thu, 17 Sep 2026 18:08:01 GMT",
+    "checked_at": "2026-09-17T18:10:17.510298+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Thu, 17 Sep 2026 18:02:19 GMT",
-    "checked_at": "2026-09-17T18:05:16.231650+00:00"
+    "last_modified": "Thu, 17 Sep 2026 18:08:01 GMT",
+    "checked_at": "2026-09-17T18:10:17.693688+00:00"
   }
 }
