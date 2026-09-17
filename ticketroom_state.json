@@ -111,114 +111,19 @@
         ]
       }
     ],
-    "last_modified": "Wed, 16 Sep 2026 23:28:45 GMT",
-    "checked_at": "2026-09-16T23:30:17.118913+00:00"
+    "last_modified": "Thu, 17 Sep 2026 03:02:31 GMT",
+    "checked_at": "2026-09-17T03:05:16.619507+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "b011eac2571a3a49e23e526f4423844e55af0ddbd26a9631bbe9a29dadff4aa6",
-    "confirmed": [
-      {
-        "name": "Back Post",
-        "legs": [
-          "Lois Openda"
-        ]
-      },
-      {
-        "name": "Early Doors",
-        "legs": [
-          "Pierre-Emerick Aubameyang"
-        ]
-      },
-      {
-        "name": "From Distance",
-        "legs": [
-          "Benjamin Sesko",
-          "Esteban Lepaul",
-          "Tammy Abraham"
-        ]
-      },
-      {
-        "name": "Into the Roof",
-        "legs": [
-          "Charalampos Kostoulas",
-          "Dani Olmo",
-          "Lois Openda"
-        ]
-      },
-      {
-        "name": "Near Post",
-        "legs": [
-          "Matias Goncalo Ramos"
-        ]
-      },
-      {
-        "name": "No Backlift",
-        "legs": [
-          "Lois Openda",
-          "Marcus Rashford",
-          "Moussa Diaby"
-        ]
-      },
-      {
-        "name": "Off the Underside",
-        "legs": [
-          "Maroan Sannadi",
-          "Matias Goncalo Ramos",
-          "Wilson Isidor"
-        ]
-      },
-      {
-        "name": "Outside the Box",
-        "legs": [
-          "Ivan Romero",
-          "Malik Tillman",
-          "Matias Goncalo Ramos"
-        ]
-      },
-      {
-        "name": "Postage Stamp",
-        "legs": [
-          "Jhon Duran",
-          "Martin Terrier",
-          "Mihajlo Cvetkovic"
-        ]
-      },
-      {
-        "name": "Runs the Channel",
-        "legs": [
-          "Benjamin Sesko"
-        ]
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Martin Terrier"
-        ]
-      },
-      {
-        "name": "Top Corner",
-        "legs": [
-          "Benjamin Sesko",
-          "Kail Boudache",
-          "Thierno Barry"
-        ]
-      },
-      {
-        "name": "Upper Ninety",
-        "legs": [
-          "Malick Fofana",
-          "Martin Terrier",
-          "Robert Navarro"
-        ]
-      }
-    ],
-    "last_modified": "Wed, 16 Sep 2026 23:28:45 GMT",
-    "checked_at": "2026-09-16T23:30:18.273607+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Thu, 17 Sep 2026 03:02:31 GMT",
+    "checked_at": "2026-09-17T03:05:16.825017+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 16 Sep 2026 23:28:45 GMT",
-    "checked_at": "2026-09-16T23:30:18.453050+00:00"
+    "last_modified": "Thu, 17 Sep 2026 03:02:31 GMT",
+    "checked_at": "2026-09-17T03:05:16.989155+00:00"
   }
 }
