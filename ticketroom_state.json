@@ -1,129 +1,34 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "076659423d8eb990c612890b3f884bfd8ec6bcaa8a1b512f9f6b7cea2cfa3b90",
+    "hash": "0164d9135e5de9c53747b9bba7f44c284f55a2394c9d87ff4fa43f3dda60a2bc",
     "confirmed": [
       {
-        "name": "Breaking the Sound Barrier",
-        "legs": [
-          "Cam Smith",
-          "Enrique Hern\u00e1ndez",
-          "Juan Soto",
-          "Justin Foscue"
-        ]
-      },
-      {
-        "name": "Catching a Vapor Trail",
-        "legs": [
-          "Eugenio Su\u00e1rez",
-          "Michael Busch",
-          "Ryan Vilade",
-          "Vinnie Pasquantino"
-        ]
-      },
-      {
-        "name": "Defying Gravity",
-        "legs": [
-          "Michael Massey",
-          "Mookie Betts",
-          "Samuel Basallo",
-          "Yandy D\u00edaz"
-        ]
-      },
-      {
-        "name": "First-Pitch Feast",
-        "legs": [
-          "Spencer Jones"
-        ]
-      },
-      {
-        "name": "Full Afterburner",
-        "legs": [
-          "Dylan Beavers",
-          "Jake Bauers",
-          "Justin Foscue",
-          "Sal Stewart"
-        ]
-      },
-      {
-        "name": "Into the Clouds",
-        "legs": [
-          "Austin Riley",
-          "Daylen Lile",
-          "Kyle Tucker",
-          "Vinnie Pasquantino"
-        ]
-      },
-      {
-        "name": "Last Ring of the Bell",
-        "legs": [
-          "Randy Arozarena"
-        ]
-      },
-      {
-        "name": "Reaching for the Stars",
-        "legs": [
-          "Gunnar Henderson",
-          "Mike Trout",
-          "Pete Crow-Armstrong",
-          "Wyatt Langford"
-        ]
-      },
-      {
-        "name": "Shipshape",
-        "legs": [
-          "Vinnie Pasquantino"
-        ]
-      },
-      {
-        "name": "Slipping the Surly Bonds",
-        "legs": [
-          "Carter Jensen",
-          "Kyle Stowers",
-          "Michael Conforto",
-          "Mike Trout"
-        ]
-      },
-      {
-        "name": "The Anchorage",
-        "legs": [
-          "Justin Foscue"
-        ]
-      },
-      {
-        "name": "The Waterline",
+        "name": "Midday Meal",
         "legs": [
           "Yandy D\u00edaz"
-        ]
-      },
-      {
-        "name": "Through the Stratosphere",
-        "legs": [
-          "Christian Walker",
-          "Danny Jansen",
-          "Will Smith",
-          "Yandy D\u00edaz"
-        ]
-      },
-      {
-        "name": "Under Way",
-        "legs": [
-          "Mike Trout"
         ]
       }
     ],
-    "last_modified": "Thu, 17 Sep 2026 03:02:31 GMT",
-    "checked_at": "2026-09-17T03:05:16.619507+00:00"
+    "last_modified": "Thu, 17 Sep 2026 16:07:19 GMT",
+    "checked_at": "2026-09-17T16:10:24.161642+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Thu, 17 Sep 2026 03:02:31 GMT",
-    "checked_at": "2026-09-17T03:05:16.825017+00:00"
+    "hash": "b650b9613c484055475381ed3e98ba09434050311f3e2663792f6d02d6da9f39",
+    "confirmed": [
+      {
+        "name": "The Nine",
+        "legs": [
+          "Troy Parrott"
+        ]
+      }
+    ],
+    "last_modified": "Thu, 17 Sep 2026 16:07:19 GMT",
+    "checked_at": "2026-09-17T16:10:25.273145+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Thu, 17 Sep 2026 03:02:31 GMT",
-    "checked_at": "2026-09-17T03:05:16.989155+00:00"
+    "last_modified": "Thu, 17 Sep 2026 16:07:19 GMT",
+    "checked_at": "2026-09-17T16:10:25.551261+00:00"
   }
 }
