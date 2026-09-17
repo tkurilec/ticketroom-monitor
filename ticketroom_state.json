@@ -9,12 +9,42 @@
         ]
       }
     ],
-    "last_modified": "Thu, 17 Sep 2026 16:07:19 GMT",
-    "checked_at": "2026-09-17T16:10:24.161642+00:00"
+    "last_modified": "Thu, 17 Sep 2026 18:02:19 GMT",
+    "checked_at": "2026-09-17T18:05:15.208094+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "b650b9613c484055475381ed3e98ba09434050311f3e2663792f6d02d6da9f39",
+    "hash": "edffa03cd8ee5df7047d08d7fa7e75e09e02a56f81ae0b6763d8db57d138ad7c",
     "confirmed": [
+      {
+        "name": "Back Post",
+        "legs": [
+          "Jorgen Larsen"
+        ]
+      },
+      {
+        "name": "Early Doors",
+        "legs": [
+          "Nick Woltemade"
+        ]
+      },
+      {
+        "name": "First Time",
+        "legs": [
+          "Nicolas Gonzalez"
+        ]
+      },
+      {
+        "name": "Shoulder of the Last Man",
+        "legs": [
+          "Dusan Vlahovic"
+        ]
+      },
+      {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Orri Steinn Oskarsson"
+        ]
+      },
       {
         "name": "The Nine",
         "legs": [
@@ -22,13 +52,13 @@
         ]
       }
     ],
-    "last_modified": "Thu, 17 Sep 2026 16:07:19 GMT",
-    "checked_at": "2026-09-17T16:10:25.273145+00:00"
+    "last_modified": "Thu, 17 Sep 2026 18:02:19 GMT",
+    "checked_at": "2026-09-17T18:05:16.088684+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Thu, 17 Sep 2026 16:07:19 GMT",
-    "checked_at": "2026-09-17T16:10:25.551261+00:00"
+    "last_modified": "Thu, 17 Sep 2026 18:02:19 GMT",
+    "checked_at": "2026-09-17T18:05:16.231650+00:00"
   }
 }
