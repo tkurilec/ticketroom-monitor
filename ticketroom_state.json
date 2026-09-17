@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e8fad5bc370e8809368a7a1953729e5ce138ae5be44d02f4056ac03376f99622",
+    "hash": "8d19852ac793a8432698357e88bda30785a6b0a5783d937d8dac6d729158a527",
     "confirmed": [
       {
         "name": "Catching a Vapor Trail",
@@ -9,6 +9,24 @@
           "Kyle Schwarber",
           "Michael Massey",
           "Wyatt Langford"
+        ]
+      },
+      {
+        "name": "Full Afterburner",
+        "legs": [
+          "Bryce Harper",
+          "Kevin McGonigle",
+          "LaMonte Wade",
+          "Mike Trout"
+        ]
+      },
+      {
+        "name": "Into the Clouds",
+        "legs": [
+          "Daulton Varsho",
+          "Jahmai Jones",
+          "Mike Trout",
+          "Randal Grichuk"
         ]
       },
       {
@@ -30,6 +48,12 @@
         ]
       },
       {
+        "name": "The Anchorage",
+        "legs": [
+          "Mike Trout"
+        ]
+      },
+      {
         "name": "Through the Stratosphere",
         "legs": [
           "Francisco Lindor",
@@ -39,8 +63,8 @@
         ]
       }
     ],
-    "last_modified": "Thu, 17 Sep 2026 21:33:30 GMT",
-    "checked_at": "2026-09-17T21:35:14.799636+00:00"
+    "last_modified": "Thu, 17 Sep 2026 22:13:58 GMT",
+    "checked_at": "2026-09-17T22:15:16.064139+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "2d35281e34a8db94aa5d2caad60f9a849453392b22db70d505e82151bad71e9f",
@@ -100,13 +124,13 @@
         ]
       }
     ],
-    "last_modified": "Thu, 17 Sep 2026 21:33:30 GMT",
-    "checked_at": "2026-09-17T21:35:15.085500+00:00"
+    "last_modified": "Thu, 17 Sep 2026 22:13:58 GMT",
+    "checked_at": "2026-09-17T22:15:16.279823+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Thu, 17 Sep 2026 21:33:30 GMT",
-    "checked_at": "2026-09-17T21:35:15.457159+00:00"
+    "last_modified": "Thu, 17 Sep 2026 22:13:58 GMT",
+    "checked_at": "2026-09-17T22:15:16.394828+00:00"
   }
 }
