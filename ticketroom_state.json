@@ -9,11 +9,11 @@
         ]
       }
     ],
-    "last_modified": "Thu, 17 Sep 2026 18:08:01 GMT",
-    "checked_at": "2026-09-17T18:10:16.396415+00:00"
+    "last_modified": "Thu, 17 Sep 2026 18:31:47 GMT",
+    "checked_at": "2026-09-17T18:35:16.545232+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "b409921a41938a5a218dad7be20a7a6a472062d82755f1d49237622e2f517e08",
+    "hash": "2d35281e34a8db94aa5d2caad60f9a849453392b22db70d505e82151bad71e9f",
     "confirmed": [
       {
         "name": "Back Post",
@@ -31,6 +31,12 @@
         "name": "First Time",
         "legs": [
           "Nicolas Gonzalez"
+        ]
+      },
+      {
+        "name": "Near Post",
+        "legs": [
+          "Carlos Chupete"
         ]
       },
       {
@@ -56,15 +62,21 @@
         "legs": [
           "Troy Parrott"
         ]
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Ayoze Perez"
+        ]
       }
     ],
-    "last_modified": "Thu, 17 Sep 2026 18:08:01 GMT",
-    "checked_at": "2026-09-17T18:10:17.510298+00:00"
+    "last_modified": "Thu, 17 Sep 2026 18:31:47 GMT",
+    "checked_at": "2026-09-17T18:35:17.153771+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Thu, 17 Sep 2026 18:08:01 GMT",
-    "checked_at": "2026-09-17T18:10:17.693688+00:00"
+    "last_modified": "Thu, 17 Sep 2026 18:31:47 GMT",
+    "checked_at": "2026-09-17T18:35:17.329902+00:00"
   }
 }
