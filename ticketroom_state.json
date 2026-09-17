@@ -1,16 +1,46 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "0164d9135e5de9c53747b9bba7f44c284f55a2394c9d87ff4fa43f3dda60a2bc",
+    "hash": "e8fad5bc370e8809368a7a1953729e5ce138ae5be44d02f4056ac03376f99622",
     "confirmed": [
+      {
+        "name": "Catching a Vapor Trail",
+        "legs": [
+          "Kody Clemens",
+          "Kyle Schwarber",
+          "Michael Massey",
+          "Wyatt Langford"
+        ]
+      },
       {
         "name": "Midday Meal",
         "legs": [
           "Yandy D\u00edaz"
         ]
+      },
+      {
+        "name": "Midnight Special",
+        "legs": [
+          "Royce Lewis"
+        ]
+      },
+      {
+        "name": "Shipshape",
+        "legs": [
+          "Kody Clemens"
+        ]
+      },
+      {
+        "name": "Through the Stratosphere",
+        "legs": [
+          "Francisco Lindor",
+          "Isaac Paredes",
+          "Kody Clemens",
+          "Wilyer Abreu"
+        ]
       }
     ],
-    "last_modified": "Thu, 17 Sep 2026 18:31:47 GMT",
-    "checked_at": "2026-09-17T18:35:16.545232+00:00"
+    "last_modified": "Thu, 17 Sep 2026 21:33:30 GMT",
+    "checked_at": "2026-09-17T21:35:14.799636+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "2d35281e34a8db94aa5d2caad60f9a849453392b22db70d505e82151bad71e9f",
@@ -70,13 +100,13 @@
         ]
       }
     ],
-    "last_modified": "Thu, 17 Sep 2026 18:31:47 GMT",
-    "checked_at": "2026-09-17T18:35:17.153771+00:00"
+    "last_modified": "Thu, 17 Sep 2026 21:33:30 GMT",
+    "checked_at": "2026-09-17T21:35:15.085500+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Thu, 17 Sep 2026 18:31:47 GMT",
-    "checked_at": "2026-09-17T18:35:17.329902+00:00"
+    "last_modified": "Thu, 17 Sep 2026 21:33:30 GMT",
+    "checked_at": "2026-09-17T21:35:15.457159+00:00"
   }
 }
