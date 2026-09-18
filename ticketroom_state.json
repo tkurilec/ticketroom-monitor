@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "41f460fe3069db498442b21ae3be965157f25b29875b9c964b74b90445c08660",
+    "hash": "d22a4404059cd29442a38e69b43464db4d54f1c74ccbb3f011a07fcf542da806",
     "confirmed": [
       {
         "name": "Booster Ignition",
@@ -30,6 +30,12 @@
         ]
       },
       {
+        "name": "Last Train Home",
+        "legs": [
+          "Teoscar Hern\u00e1ndez"
+        ]
+      },
+      {
         "name": "Making Headway",
         "legs": [
           "Matt Olson"
@@ -48,8 +54,8 @@
         ]
       }
     ],
-    "last_modified": "Fri, 18 Sep 2026 20:09:08 GMT",
-    "checked_at": "2026-09-18T20:10:21.327194+00:00"
+    "last_modified": "Fri, 18 Sep 2026 22:02:28 GMT",
+    "checked_at": "2026-09-18T22:05:27.260212+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "eef89b06a9236f693bfb76ba62494477c46736e0af91225323ab5049abd8ece0",
@@ -97,13 +103,13 @@
         ]
       }
     ],
-    "last_modified": "Fri, 18 Sep 2026 20:09:08 GMT",
-    "checked_at": "2026-09-18T20:10:21.615675+00:00"
+    "last_modified": "Fri, 18 Sep 2026 22:02:28 GMT",
+    "checked_at": "2026-09-18T22:05:27.503466+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 18 Sep 2026 20:09:08 GMT",
-    "checked_at": "2026-09-18T20:10:21.883405+00:00"
+    "last_modified": "Fri, 18 Sep 2026 22:02:28 GMT",
+    "checked_at": "2026-09-18T22:05:27.734018+00:00"
   }
 }
