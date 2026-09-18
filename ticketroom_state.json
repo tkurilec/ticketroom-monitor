@@ -2,19 +2,32 @@
   "https://theticketroom.live/mlb/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 18 Sep 2026 13:57:26 GMT",
-    "checked_at": "2026-09-18T14:00:21.446450+00:00"
+    "last_modified": "Fri, 18 Sep 2026 17:37:42 GMT",
+    "checked_at": "2026-09-18T17:40:18.527890+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Fri, 18 Sep 2026 13:57:27 GMT",
-    "checked_at": "2026-09-18T14:00:21.661549+00:00"
+    "hash": "aedd8e5b2ad045227d511eb6a6b6dc582c11e8ef892e4e1c014a678f1b1bb7b4",
+    "confirmed": [
+      {
+        "name": "Early Doors",
+        "legs": [
+          "Jamal Musiala"
+        ]
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Luis Diaz"
+        ]
+      }
+    ],
+    "last_modified": "Fri, 18 Sep 2026 17:37:41 GMT",
+    "checked_at": "2026-09-18T17:40:19.232459+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 18 Sep 2026 13:57:27 GMT",
-    "checked_at": "2026-09-18T14:00:21.852476+00:00"
+    "last_modified": "Fri, 18 Sep 2026 17:37:42 GMT",
+    "checked_at": "2026-09-18T17:40:19.499630+00:00"
   }
 }
