@@ -1,9 +1,16 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Fri, 18 Sep 2026 18:07:25 GMT",
-    "checked_at": "2026-09-18T18:10:15.093515+00:00"
+    "hash": "7998a5b15114a62cc216d23f14d2b0f18dde042dbd8dc1285803245f21ee8eac",
+    "confirmed": [
+      {
+        "name": "The Anchorage",
+        "legs": [
+          "Yandy D\u00edaz"
+        ]
+      }
+    ],
+    "last_modified": "Fri, 18 Sep 2026 18:58:06 GMT",
+    "checked_at": "2026-09-18T19:00:22.943145+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "eef89b06a9236f693bfb76ba62494477c46736e0af91225323ab5049abd8ece0",
@@ -51,13 +58,13 @@
         ]
       }
     ],
-    "last_modified": "Fri, 18 Sep 2026 18:07:25 GMT",
-    "checked_at": "2026-09-18T18:10:15.520056+00:00"
+    "last_modified": "Fri, 18 Sep 2026 18:58:06 GMT",
+    "checked_at": "2026-09-18T19:00:23.225975+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 18 Sep 2026 18:07:25 GMT",
-    "checked_at": "2026-09-18T18:10:15.612705+00:00"
+    "last_modified": "Fri, 18 Sep 2026 18:58:06 GMT",
+    "checked_at": "2026-09-18T19:00:23.636286+00:00"
   }
 }
