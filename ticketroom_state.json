@@ -1,81 +1,20 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "8d19852ac793a8432698357e88bda30785a6b0a5783d937d8dac6d729158a527",
-    "confirmed": [
-      {
-        "name": "Catching a Vapor Trail",
-        "legs": [
-          "Kody Clemens",
-          "Kyle Schwarber",
-          "Michael Massey",
-          "Wyatt Langford"
-        ]
-      },
-      {
-        "name": "Full Afterburner",
-        "legs": [
-          "Bryce Harper",
-          "Kevin McGonigle",
-          "LaMonte Wade",
-          "Mike Trout"
-        ]
-      },
-      {
-        "name": "Into the Clouds",
-        "legs": [
-          "Daulton Varsho",
-          "Jahmai Jones",
-          "Mike Trout",
-          "Randal Grichuk"
-        ]
-      },
-      {
-        "name": "Midday Meal",
-        "legs": [
-          "Yandy D\u00edaz"
-        ]
-      },
-      {
-        "name": "Midnight Special",
-        "legs": [
-          "Royce Lewis"
-        ]
-      },
-      {
-        "name": "Shipshape",
-        "legs": [
-          "Kody Clemens"
-        ]
-      },
-      {
-        "name": "The Anchorage",
-        "legs": [
-          "Mike Trout"
-        ]
-      },
-      {
-        "name": "Through the Stratosphere",
-        "legs": [
-          "Francisco Lindor",
-          "Isaac Paredes",
-          "Kody Clemens",
-          "Wilyer Abreu"
-        ]
-      }
-    ],
-    "last_modified": "Fri, 18 Sep 2026 03:58:20 GMT",
-    "checked_at": "2026-09-18T04:00:22.944404+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Fri, 18 Sep 2026 13:57:26 GMT",
+    "checked_at": "2026-09-18T14:00:21.446450+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 18 Sep 2026 03:58:20 GMT",
-    "checked_at": "2026-09-18T04:00:23.198973+00:00"
+    "last_modified": "Fri, 18 Sep 2026 13:57:27 GMT",
+    "checked_at": "2026-09-18T14:00:21.661549+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 18 Sep 2026 03:58:20 GMT",
-    "checked_at": "2026-09-18T04:00:23.498801+00:00"
+    "last_modified": "Fri, 18 Sep 2026 13:57:27 GMT",
+    "checked_at": "2026-09-18T14:00:21.852476+00:00"
   }
 }
