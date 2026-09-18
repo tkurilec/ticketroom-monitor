@@ -2,11 +2,11 @@
   "https://theticketroom.live/mlb/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 18 Sep 2026 17:37:42 GMT",
-    "checked_at": "2026-09-18T17:40:18.527890+00:00"
+    "last_modified": "Fri, 18 Sep 2026 17:57:42 GMT",
+    "checked_at": "2026-09-18T18:00:23.192602+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "aedd8e5b2ad045227d511eb6a6b6dc582c11e8ef892e4e1c014a678f1b1bb7b4",
+    "hash": "6155a956bd041555c012a0a785df84f5f259be1cb486cadb7801f3f6f553012d",
     "confirmed": [
       {
         "name": "Early Doors",
@@ -19,15 +19,21 @@
         "legs": [
           "Luis Diaz"
         ]
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Paris Brunner"
+        ]
       }
     ],
-    "last_modified": "Fri, 18 Sep 2026 17:37:41 GMT",
-    "checked_at": "2026-09-18T17:40:19.232459+00:00"
+    "last_modified": "Fri, 18 Sep 2026 17:57:42 GMT",
+    "checked_at": "2026-09-18T18:00:24.308415+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 18 Sep 2026 17:37:42 GMT",
-    "checked_at": "2026-09-18T17:40:19.499630+00:00"
+    "last_modified": "Fri, 18 Sep 2026 17:57:42 GMT",
+    "checked_at": "2026-09-18T18:00:24.439589+00:00"
   }
 }
