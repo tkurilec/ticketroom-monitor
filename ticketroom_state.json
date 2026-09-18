@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "d22a4404059cd29442a38e69b43464db4d54f1c74ccbb3f011a07fcf542da806",
+    "hash": "7f00a42de11f73bd92a940f3851936b4789ad280db7c367e62158785378b06b2",
     "confirmed": [
       {
         "name": "Booster Ignition",
@@ -18,6 +18,15 @@
           "Michael Conforto",
           "Samuel Basallo",
           "Yandy D\u00edaz"
+        ]
+      },
+      {
+        "name": "Cleared for Launch",
+        "legs": [
+          "Jahmai Jones",
+          "Mickey Moniak",
+          "Mike Trout",
+          "Mike Yastrzemski"
         ]
       },
       {
@@ -48,14 +57,23 @@
         ]
       },
       {
+        "name": "Slipping the Surly Bonds",
+        "legs": [
+          "Bryce Eldridge",
+          "Matt Olson",
+          "Wyatt Langford",
+          "Zach Neto"
+        ]
+      },
+      {
         "name": "The Anchorage",
         "legs": [
           "Yandy D\u00edaz"
         ]
       }
     ],
-    "last_modified": "Fri, 18 Sep 2026 22:02:28 GMT",
-    "checked_at": "2026-09-18T22:05:27.260212+00:00"
+    "last_modified": "Fri, 18 Sep 2026 22:07:44 GMT",
+    "checked_at": "2026-09-18T22:10:19.451247+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "eef89b06a9236f693bfb76ba62494477c46736e0af91225323ab5049abd8ece0",
@@ -103,13 +121,13 @@
         ]
       }
     ],
-    "last_modified": "Fri, 18 Sep 2026 22:02:28 GMT",
-    "checked_at": "2026-09-18T22:05:27.503466+00:00"
+    "last_modified": "Fri, 18 Sep 2026 22:07:44 GMT",
+    "checked_at": "2026-09-18T22:10:19.957515+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 18 Sep 2026 22:02:28 GMT",
-    "checked_at": "2026-09-18T22:05:27.734018+00:00"
+    "last_modified": "Fri, 18 Sep 2026 22:07:44 GMT",
+    "checked_at": "2026-09-18T22:10:20.226823+00:00"
   }
 }
