@@ -2,11 +2,11 @@
   "https://theticketroom.live/mlb/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 18 Sep 2026 18:01:58 GMT",
-    "checked_at": "2026-09-18T18:05:14.356843+00:00"
+    "last_modified": "Fri, 18 Sep 2026 18:07:25 GMT",
+    "checked_at": "2026-09-18T18:10:15.093515+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "887f7b40ef6d23541c0baa9bb9bb9eb418e09f2f3e8b29f7d82030f5fe268ec3",
+    "hash": "eef89b06a9236f693bfb76ba62494477c46736e0af91225323ab5049abd8ece0",
     "confirmed": [
       {
         "name": "Back Post",
@@ -18,6 +18,12 @@
         "name": "Early Doors",
         "legs": [
           "Jamal Musiala"
+        ]
+      },
+      {
+        "name": "Gets Across",
+        "legs": [
+          "Roberto Fernandez"
         ]
       },
       {
@@ -33,19 +39,25 @@
         ]
       },
       {
+        "name": "The Nine",
+        "legs": [
+          "Matthis Abline"
+        ]
+      },
+      {
         "name": "The Poacher",
         "legs": [
           "Paris Brunner"
         ]
       }
     ],
-    "last_modified": "Fri, 18 Sep 2026 18:01:58 GMT",
-    "checked_at": "2026-09-18T18:05:14.762089+00:00"
+    "last_modified": "Fri, 18 Sep 2026 18:07:25 GMT",
+    "checked_at": "2026-09-18T18:10:15.520056+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 18 Sep 2026 18:01:58 GMT",
-    "checked_at": "2026-09-18T18:05:14.848722+00:00"
+    "last_modified": "Fri, 18 Sep 2026 18:07:25 GMT",
+    "checked_at": "2026-09-18T18:10:15.612705+00:00"
   }
 }
