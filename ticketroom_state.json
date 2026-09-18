@@ -1,7 +1,16 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "4d9645922c68a39ef978d75cda81a57501efd4a5afdf2df8ac8751a8dfe6ea85",
+    "hash": "840042727bd768b8d2ab34db6cf994ccfaeb42b536c187d6522a9e4234a9cb1a",
     "confirmed": [
+      {
+        "name": "Booster Ignition",
+        "legs": [
+          "Carter Jensen",
+          "Gunnar Henderson",
+          "Jahmai Jones",
+          "Jos\u00e9 Ram\u00edrez"
+        ]
+      },
       {
         "name": "Ready About",
         "legs": [
@@ -15,8 +24,8 @@
         ]
       }
     ],
-    "last_modified": "Fri, 18 Sep 2026 19:18:47 GMT",
-    "checked_at": "2026-09-18T19:20:20.528264+00:00"
+    "last_modified": "Fri, 18 Sep 2026 19:54:08 GMT",
+    "checked_at": "2026-09-18T19:55:15.365930+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "eef89b06a9236f693bfb76ba62494477c46736e0af91225323ab5049abd8ece0",
@@ -64,13 +73,13 @@
         ]
       }
     ],
-    "last_modified": "Fri, 18 Sep 2026 19:18:47 GMT",
-    "checked_at": "2026-09-18T19:20:20.823263+00:00"
+    "last_modified": "Fri, 18 Sep 2026 19:54:08 GMT",
+    "checked_at": "2026-09-18T19:55:15.468565+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 18 Sep 2026 19:18:47 GMT",
-    "checked_at": "2026-09-18T19:20:20.953984+00:00"
+    "last_modified": "Fri, 18 Sep 2026 19:54:08 GMT",
+    "checked_at": "2026-09-18T19:55:15.561054+00:00"
   }
 }
