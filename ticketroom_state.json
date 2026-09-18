@@ -2,16 +2,28 @@
   "https://theticketroom.live/mlb/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 18 Sep 2026 17:57:42 GMT",
-    "checked_at": "2026-09-18T18:00:23.192602+00:00"
+    "last_modified": "Fri, 18 Sep 2026 18:01:58 GMT",
+    "checked_at": "2026-09-18T18:05:14.356843+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "6155a956bd041555c012a0a785df84f5f259be1cb486cadb7801f3f6f553012d",
+    "hash": "887f7b40ef6d23541c0baa9bb9bb9eb418e09f2f3e8b29f7d82030f5fe268ec3",
     "confirmed": [
+      {
+        "name": "Back Post",
+        "legs": [
+          "Igor Thiago"
+        ]
+      },
       {
         "name": "Early Doors",
         "legs": [
           "Jamal Musiala"
+        ]
+      },
+      {
+        "name": "Six-Yard Box",
+        "legs": [
+          "de Jesus Joao Pedro"
         ]
       },
       {
@@ -27,13 +39,13 @@
         ]
       }
     ],
-    "last_modified": "Fri, 18 Sep 2026 17:57:42 GMT",
-    "checked_at": "2026-09-18T18:00:24.308415+00:00"
+    "last_modified": "Fri, 18 Sep 2026 18:01:58 GMT",
+    "checked_at": "2026-09-18T18:05:14.762089+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 18 Sep 2026 17:57:42 GMT",
-    "checked_at": "2026-09-18T18:00:24.439589+00:00"
+    "last_modified": "Fri, 18 Sep 2026 18:01:58 GMT",
+    "checked_at": "2026-09-18T18:05:14.848722+00:00"
   }
 }
