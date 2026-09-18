@@ -63,8 +63,8 @@
         ]
       }
     ],
-    "last_modified": "Thu, 17 Sep 2026 22:13:58 GMT",
-    "checked_at": "2026-09-17T22:15:16.064139+00:00"
+    "last_modified": "Fri, 18 Sep 2026 00:12:17 GMT",
+    "checked_at": "2026-09-18T00:15:15.252973+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "2d35281e34a8db94aa5d2caad60f9a849453392b22db70d505e82151bad71e9f",
@@ -124,13 +124,26 @@
         ]
       }
     ],
-    "last_modified": "Thu, 17 Sep 2026 22:13:58 GMT",
-    "checked_at": "2026-09-17T22:15:16.279823+00:00"
+    "last_modified": "Fri, 18 Sep 2026 00:12:17 GMT",
+    "checked_at": "2026-09-18T00:15:15.547762+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Thu, 17 Sep 2026 22:13:58 GMT",
-    "checked_at": "2026-09-17T22:15:16.394828+00:00"
+    "hash": "818601a87de9982c4fabf0e1343e94f4e1ce4dc3e43a58c27e4e41a29f3a8014",
+    "confirmed": [
+      {
+        "name": "Bell Cow",
+        "legs": [
+          "Amon-Ra St. Brown"
+        ]
+      },
+      {
+        "name": "The Workhorse",
+        "legs": [
+          "Khalil Shakir"
+        ]
+      }
+    ],
+    "last_modified": "Fri, 18 Sep 2026 00:12:17 GMT",
+    "checked_at": "2026-09-18T00:15:16.244082+00:00"
   }
 }
