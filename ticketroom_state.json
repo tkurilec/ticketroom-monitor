@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "3e46ed04d22335277ee5dd1169795f223b2ff3a03149ceebbc71edadada23248",
+    "hash": "41f460fe3069db498442b21ae3be965157f25b29875b9c964b74b90445c08660",
     "confirmed": [
       {
         "name": "Booster Ignition",
@@ -9,6 +9,15 @@
           "Gunnar Henderson",
           "Jahmai Jones",
           "Jos\u00e9 Ram\u00edrez"
+        ]
+      },
+      {
+        "name": "Catching a Vapor Trail",
+        "legs": [
+          "Chase DeLauter",
+          "Michael Conforto",
+          "Samuel Basallo",
+          "Yandy D\u00edaz"
         ]
       },
       {
@@ -39,8 +48,8 @@
         ]
       }
     ],
-    "last_modified": "Fri, 18 Sep 2026 20:04:10 GMT",
-    "checked_at": "2026-09-18T20:05:14.786110+00:00"
+    "last_modified": "Fri, 18 Sep 2026 20:09:08 GMT",
+    "checked_at": "2026-09-18T20:10:21.327194+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "eef89b06a9236f693bfb76ba62494477c46736e0af91225323ab5049abd8ece0",
@@ -88,13 +97,13 @@
         ]
       }
     ],
-    "last_modified": "Fri, 18 Sep 2026 20:04:10 GMT",
-    "checked_at": "2026-09-18T20:05:14.974854+00:00"
+    "last_modified": "Fri, 18 Sep 2026 20:09:08 GMT",
+    "checked_at": "2026-09-18T20:10:21.615675+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 18 Sep 2026 20:04:10 GMT",
-    "checked_at": "2026-09-18T20:05:15.131619+00:00"
+    "last_modified": "Fri, 18 Sep 2026 20:09:08 GMT",
+    "checked_at": "2026-09-18T20:10:21.883405+00:00"
   }
 }
