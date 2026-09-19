@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "66a4373631226c83a533c26ee731a069f0de45a490d8994f4a96462220e5d8c9",
+    "hash": "4dbf0eb6c92edabcaa7ac193cc050f4f0359d22824d95f0e6676f3cd0560e7ac",
     "confirmed": [
       {
         "name": "Breaking the Sound Barrier",
@@ -28,10 +28,16 @@
         "legs": [
           "Munetaka Murakami"
         ]
+      },
+      {
+        "name": "Under Way",
+        "legs": [
+          "Abimelec Ortiz"
+        ]
       }
     ],
-    "last_modified": "Sat, 19 Sep 2026 19:20:21 GMT",
-    "checked_at": "2026-09-19T19:25:18.146101+00:00"
+    "last_modified": "Sat, 19 Sep 2026 20:49:03 GMT",
+    "checked_at": "2026-09-19T20:50:16.630345+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "389976a7fb5f880c6237b52429682b2df44331787dced76e9d012492abf82e2e",
@@ -55,13 +61,13 @@
         ]
       }
     ],
-    "last_modified": "Sat, 19 Sep 2026 19:20:21 GMT",
-    "checked_at": "2026-09-19T19:25:18.800314+00:00"
+    "last_modified": "Sat, 19 Sep 2026 20:49:03 GMT",
+    "checked_at": "2026-09-19T20:50:16.876347+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 19 Sep 2026 19:20:21 GMT",
-    "checked_at": "2026-09-19T19:25:19.468182+00:00"
+    "last_modified": "Sat, 19 Sep 2026 20:49:03 GMT",
+    "checked_at": "2026-09-19T20:50:17.087651+00:00"
   }
 }
