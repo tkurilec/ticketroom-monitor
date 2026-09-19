@@ -111,11 +111,11 @@
         ]
       }
     ],
-    "last_modified": "Sat, 19 Sep 2026 23:47:26 GMT",
-    "checked_at": "2026-09-19T23:50:18.739068+00:00"
+    "last_modified": "Sat, 19 Sep 2026 23:52:24 GMT",
+    "checked_at": "2026-09-19T23:55:13.066411+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "fbfa51c778a8b149c61e56c9581a7f593f9b5d85a2986ec6abc2dfc57b31ffac",
+    "hash": "55761e183c935c6251025ca81a84bcd25d9e6c645e50fe51171ed397aadff941",
     "confirmed": [
       {
         "name": "Back Post",
@@ -152,15 +152,21 @@
         "legs": [
           "Tai Baribo"
         ]
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Kelvin Yeboah"
+        ]
       }
     ],
-    "last_modified": "Sat, 19 Sep 2026 23:47:26 GMT",
-    "checked_at": "2026-09-19T23:50:19.727180+00:00"
+    "last_modified": "Sat, 19 Sep 2026 23:52:24 GMT",
+    "checked_at": "2026-09-19T23:55:13.925900+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 19 Sep 2026 23:47:26 GMT",
-    "checked_at": "2026-09-19T23:50:19.978547+00:00"
+    "last_modified": "Sat, 19 Sep 2026 23:52:24 GMT",
+    "checked_at": "2026-09-19T23:55:14.291064+00:00"
   }
 }
