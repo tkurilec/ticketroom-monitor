@@ -9,26 +9,32 @@
         ]
       }
     ],
-    "last_modified": "Sat, 19 Sep 2026 15:12:29 GMT",
-    "checked_at": "2026-09-19T15:15:16.174890+00:00"
+    "last_modified": "Sat, 19 Sep 2026 15:42:33 GMT",
+    "checked_at": "2026-09-19T15:45:16.581393+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "20138139b5fe0bb0aff1b3200abecadf539caa831f48270c9526359b357e772b",
+    "hash": "6404160073adf4abdcb4f6d95af88beb32c844caa6544f7ab21f6e4dfdbf08f7",
     "confirmed": [
       {
         "name": "Early Doors",
         "legs": [
           "Donyell Malen"
         ]
+      },
+      {
+        "name": "First Time",
+        "legs": [
+          "Serhou Guirassy"
+        ]
       }
     ],
-    "last_modified": "Sat, 19 Sep 2026 15:12:29 GMT",
-    "checked_at": "2026-09-19T15:15:16.714802+00:00"
+    "last_modified": "Sat, 19 Sep 2026 15:42:33 GMT",
+    "checked_at": "2026-09-19T15:45:17.459884+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 19 Sep 2026 15:12:29 GMT",
-    "checked_at": "2026-09-19T15:15:16.825221+00:00"
+    "last_modified": "Sat, 19 Sep 2026 15:42:33 GMT",
+    "checked_at": "2026-09-19T15:45:17.620130+00:00"
   }
 }
