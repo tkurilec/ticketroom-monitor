@@ -111,11 +111,11 @@
         ]
       }
     ],
-    "last_modified": "Sat, 19 Sep 2026 23:42:33 GMT",
-    "checked_at": "2026-09-19T23:45:15.617530+00:00"
+    "last_modified": "Sat, 19 Sep 2026 23:47:26 GMT",
+    "checked_at": "2026-09-19T23:50:18.739068+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "c7650ac12ccd82a4dd574fabd6fbb45a853ced251af7127aa01c2989b8d7832e",
+    "hash": "fbfa51c778a8b149c61e56c9581a7f593f9b5d85a2986ec6abc2dfc57b31ffac",
     "confirmed": [
       {
         "name": "Back Post",
@@ -136,6 +136,12 @@
         ]
       },
       {
+        "name": "Gets Across",
+        "legs": [
+          "Leal Rafael Navarro"
+        ]
+      },
+      {
         "name": "Target Man",
         "legs": [
           "Petar Musa"
@@ -148,13 +154,13 @@
         ]
       }
     ],
-    "last_modified": "Sat, 19 Sep 2026 23:42:33 GMT",
-    "checked_at": "2026-09-19T23:45:16.462137+00:00"
+    "last_modified": "Sat, 19 Sep 2026 23:47:26 GMT",
+    "checked_at": "2026-09-19T23:50:19.727180+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 19 Sep 2026 23:42:33 GMT",
-    "checked_at": "2026-09-19T23:45:16.664072+00:00"
+    "last_modified": "Sat, 19 Sep 2026 23:47:26 GMT",
+    "checked_at": "2026-09-19T23:50:19.978547+00:00"
   }
 }
