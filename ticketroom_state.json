@@ -1,11 +1,26 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "dcd08015a2b9700ec46427c4288d91e8044ca299a3a5e2cff5fb678f36d4cd1e",
+    "hash": "66a4373631226c83a533c26ee731a069f0de45a490d8994f4a96462220e5d8c9",
     "confirmed": [
+      {
+        "name": "Breaking the Sound Barrier",
+        "legs": [
+          "Dane Myers",
+          "Jos\u00e9 Ram\u00edrez",
+          "Mickey Gasper",
+          "Vinnie Pasquantino"
+        ]
+      },
       {
         "name": "Landfall",
         "legs": [
           "Wyatt Langford"
+        ]
+      },
+      {
+        "name": "Making Headway",
+        "legs": [
+          "Vinnie Pasquantino"
         ]
       },
       {
@@ -15,8 +30,8 @@
         ]
       }
     ],
-    "last_modified": "Sat, 19 Sep 2026 19:15:54 GMT",
-    "checked_at": "2026-09-19T19:20:19.642491+00:00"
+    "last_modified": "Sat, 19 Sep 2026 19:20:21 GMT",
+    "checked_at": "2026-09-19T19:25:18.146101+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "389976a7fb5f880c6237b52429682b2df44331787dced76e9d012492abf82e2e",
@@ -40,13 +55,13 @@
         ]
       }
     ],
-    "last_modified": "Sat, 19 Sep 2026 19:15:54 GMT",
-    "checked_at": "2026-09-19T19:20:19.827037+00:00"
+    "last_modified": "Sat, 19 Sep 2026 19:20:21 GMT",
+    "checked_at": "2026-09-19T19:25:18.800314+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 19 Sep 2026 19:15:54 GMT",
-    "checked_at": "2026-09-19T19:20:19.991767+00:00"
+    "last_modified": "Sat, 19 Sep 2026 19:20:21 GMT",
+    "checked_at": "2026-09-19T19:25:19.468182+00:00"
   }
 }
