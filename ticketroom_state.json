@@ -1,7 +1,16 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "4dbf0eb6c92edabcaa7ac193cc050f4f0359d22824d95f0e6676f3cd0560e7ac",
+    "hash": "bc70884f443bb655f2170c9e7026af0292474cf104f4adf1ad72ecf0cbc05c21",
     "confirmed": [
+      {
+        "name": "Booster Ignition",
+        "legs": [
+          "CJ Abrams",
+          "Eugenio Su\u00e1rez",
+          "Mookie Betts",
+          "Wyatt Langford"
+        ]
+      },
       {
         "name": "Breaking the Sound Barrier",
         "legs": [
@@ -36,8 +45,8 @@
         ]
       }
     ],
-    "last_modified": "Sat, 19 Sep 2026 20:49:03 GMT",
-    "checked_at": "2026-09-19T20:50:16.630345+00:00"
+    "last_modified": "Sat, 19 Sep 2026 21:01:15 GMT",
+    "checked_at": "2026-09-19T21:05:12.977833+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "389976a7fb5f880c6237b52429682b2df44331787dced76e9d012492abf82e2e",
@@ -61,13 +70,13 @@
         ]
       }
     ],
-    "last_modified": "Sat, 19 Sep 2026 20:49:03 GMT",
-    "checked_at": "2026-09-19T20:50:16.876347+00:00"
+    "last_modified": "Sat, 19 Sep 2026 21:01:15 GMT",
+    "checked_at": "2026-09-19T21:05:13.098066+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 19 Sep 2026 20:49:03 GMT",
-    "checked_at": "2026-09-19T20:50:17.087651+00:00"
+    "last_modified": "Sat, 19 Sep 2026 21:01:16 GMT",
+    "checked_at": "2026-09-19T21:05:13.214360+00:00"
   }
 }
