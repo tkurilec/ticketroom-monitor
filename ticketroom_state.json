@@ -1,20 +1,34 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Sat, 19 Sep 2026 13:28:10 GMT",
-    "checked_at": "2026-09-19T13:30:18.011704+00:00"
+    "hash": "41a226dcc97c1e178545003567558db390a1a7be121ba93ec7736c402c502060",
+    "confirmed": [
+      {
+        "name": "The Blue Plate",
+        "legs": [
+          "Munetaka Murakami"
+        ]
+      }
+    ],
+    "last_modified": "Sat, 19 Sep 2026 15:12:29 GMT",
+    "checked_at": "2026-09-19T15:15:16.174890+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Sat, 19 Sep 2026 13:28:10 GMT",
-    "checked_at": "2026-09-19T13:30:18.356649+00:00"
+    "hash": "20138139b5fe0bb0aff1b3200abecadf539caa831f48270c9526359b357e772b",
+    "confirmed": [
+      {
+        "name": "Early Doors",
+        "legs": [
+          "Donyell Malen"
+        ]
+      }
+    ],
+    "last_modified": "Sat, 19 Sep 2026 15:12:29 GMT",
+    "checked_at": "2026-09-19T15:15:16.714802+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 19 Sep 2026 13:28:10 GMT",
-    "checked_at": "2026-09-19T13:30:18.548764+00:00"
+    "last_modified": "Sat, 19 Sep 2026 15:12:29 GMT",
+    "checked_at": "2026-09-19T15:15:16.825221+00:00"
   }
 }
