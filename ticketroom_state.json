@@ -9,12 +9,18 @@
         ]
       }
     ],
-    "last_modified": "Sat, 19 Sep 2026 15:42:33 GMT",
-    "checked_at": "2026-09-19T15:45:16.581393+00:00"
+    "last_modified": "Sat, 19 Sep 2026 18:13:20 GMT",
+    "checked_at": "2026-09-19T18:15:16.091534+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "6404160073adf4abdcb4f6d95af88beb32c844caa6544f7ab21f6e4dfdbf08f7",
+    "hash": "389976a7fb5f880c6237b52429682b2df44331787dced76e9d012492abf82e2e",
     "confirmed": [
+      {
+        "name": "Back Post",
+        "legs": [
+          "Raphinha"
+        ]
+      },
       {
         "name": "Early Doors",
         "legs": [
@@ -28,13 +34,13 @@
         ]
       }
     ],
-    "last_modified": "Sat, 19 Sep 2026 15:42:33 GMT",
-    "checked_at": "2026-09-19T15:45:17.459884+00:00"
+    "last_modified": "Sat, 19 Sep 2026 18:13:20 GMT",
+    "checked_at": "2026-09-19T18:15:16.878052+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 19 Sep 2026 15:42:33 GMT",
-    "checked_at": "2026-09-19T15:45:17.620130+00:00"
+    "last_modified": "Sat, 19 Sep 2026 18:13:20 GMT",
+    "checked_at": "2026-09-19T18:15:17.068803+00:00"
   }
 }
