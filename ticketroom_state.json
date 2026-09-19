@@ -1,7 +1,13 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "41a226dcc97c1e178545003567558db390a1a7be121ba93ec7736c402c502060",
+    "hash": "dcd08015a2b9700ec46427c4288d91e8044ca299a3a5e2cff5fb678f36d4cd1e",
     "confirmed": [
+      {
+        "name": "Landfall",
+        "legs": [
+          "Wyatt Langford"
+        ]
+      },
       {
         "name": "The Blue Plate",
         "legs": [
@@ -9,8 +15,8 @@
         ]
       }
     ],
-    "last_modified": "Sat, 19 Sep 2026 18:13:20 GMT",
-    "checked_at": "2026-09-19T18:15:16.091534+00:00"
+    "last_modified": "Sat, 19 Sep 2026 19:15:54 GMT",
+    "checked_at": "2026-09-19T19:20:19.642491+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "389976a7fb5f880c6237b52429682b2df44331787dced76e9d012492abf82e2e",
@@ -34,13 +40,13 @@
         ]
       }
     ],
-    "last_modified": "Sat, 19 Sep 2026 18:13:20 GMT",
-    "checked_at": "2026-09-19T18:15:16.878052+00:00"
+    "last_modified": "Sat, 19 Sep 2026 19:15:54 GMT",
+    "checked_at": "2026-09-19T19:20:19.827037+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 19 Sep 2026 18:13:20 GMT",
-    "checked_at": "2026-09-19T18:15:17.068803+00:00"
+    "last_modified": "Sat, 19 Sep 2026 19:15:54 GMT",
+    "checked_at": "2026-09-19T19:20:19.991767+00:00"
   }
 }
