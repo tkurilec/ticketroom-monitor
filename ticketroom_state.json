@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "cbd2732deb0d8eae5b9f1218b17554a5ccc31f27df87581145366dc20df45c9f",
+    "hash": "48485f265866bed00860f207cce34ce111540babfbe60ecd29319a6993537ed0",
     "confirmed": [
       {
         "name": "Booster Ignition",
@@ -45,6 +45,15 @@
           "Daulton Varsho",
           "Iv\u00e1n Herrera",
           "Wyatt Langford"
+        ]
+      },
+      {
+        "name": "Into the Clouds",
+        "legs": [
+          "Abimelec Ortiz",
+          "Matt Olson",
+          "Mike Trout",
+          "Will Smith"
         ]
       },
       {
@@ -102,8 +111,8 @@
         ]
       }
     ],
-    "last_modified": "Sat, 19 Sep 2026 21:16:45 GMT",
-    "checked_at": "2026-09-19T21:20:15.489118+00:00"
+    "last_modified": "Sat, 19 Sep 2026 22:36:41 GMT",
+    "checked_at": "2026-09-19T22:40:19.978233+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "389976a7fb5f880c6237b52429682b2df44331787dced76e9d012492abf82e2e",
@@ -127,13 +136,13 @@
         ]
       }
     ],
-    "last_modified": "Sat, 19 Sep 2026 21:16:45 GMT",
-    "checked_at": "2026-09-19T21:20:15.628945+00:00"
+    "last_modified": "Sat, 19 Sep 2026 22:36:41 GMT",
+    "checked_at": "2026-09-19T22:40:20.242068+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 19 Sep 2026 21:16:45 GMT",
-    "checked_at": "2026-09-19T21:20:15.745325+00:00"
+    "last_modified": "Sat, 19 Sep 2026 22:36:41 GMT",
+    "checked_at": "2026-09-19T22:40:20.478372+00:00"
   }
 }
