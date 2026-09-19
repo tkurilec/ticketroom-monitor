@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "967efc1b131e64754b0f5c9abe02650accf0ebaa650b0fb25fe194d581b2837b",
+    "hash": "6f89d04730be00dbf23453430dda8df1a7dc56415d9634a9440f02e7d7dc7413",
     "confirmed": [
       {
         "name": "Booster Ignition",
@@ -84,15 +84,6 @@
         ]
       },
       {
-        "name": "Slipping the Surly Bonds",
-        "legs": [
-          "Bryce Eldridge",
-          "Matt Olson",
-          "Wyatt Langford",
-          "Zach Neto"
-        ]
-      },
-      {
         "name": "The Anchorage",
         "legs": [
           "Yandy D\u00edaz"
@@ -105,8 +96,8 @@
         ]
       }
     ],
-    "last_modified": "Fri, 18 Sep 2026 22:57:55 GMT",
-    "checked_at": "2026-09-18T23:00:21.534460+00:00"
+    "last_modified": "Sat, 19 Sep 2026 01:24:36 GMT",
+    "checked_at": "2026-09-19T01:25:13.788597+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "591ec885a2cdd9c01ee0f63e633ed34da5845020cc6131debf4d56e0b2408a9a",
@@ -172,13 +163,13 @@
         ]
       }
     ],
-    "last_modified": "Fri, 18 Sep 2026 22:57:55 GMT",
-    "checked_at": "2026-09-18T23:00:21.732900+00:00"
+    "last_modified": "Sat, 19 Sep 2026 01:24:36 GMT",
+    "checked_at": "2026-09-19T01:25:14.008273+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 18 Sep 2026 22:57:55 GMT",
-    "checked_at": "2026-09-18T23:00:21.890309+00:00"
+    "last_modified": "Sat, 19 Sep 2026 01:24:36 GMT",
+    "checked_at": "2026-09-19T01:25:14.203467+00:00"
   }
 }
