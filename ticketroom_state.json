@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "bc70884f443bb655f2170c9e7026af0292474cf104f4adf1ad72ecf0cbc05c21",
+    "hash": "cbd2732deb0d8eae5b9f1218b17554a5ccc31f27df87581145366dc20df45c9f",
     "confirmed": [
       {
         "name": "Booster Ignition",
@@ -21,6 +21,33 @@
         ]
       },
       {
+        "name": "Cleared for Launch",
+        "legs": [
+          "Bryce Harper",
+          "Tyler Stephenson",
+          "Victor Mesa",
+          "Vinnie Pasquantino"
+        ]
+      },
+      {
+        "name": "Full Afterburner",
+        "legs": [
+          "Abimelec Ortiz",
+          "David Fry",
+          "Matt Shaw",
+          "Mike Yastrzemski"
+        ]
+      },
+      {
+        "name": "Hitting Apogee",
+        "legs": [
+          "Alex Bregman",
+          "Daulton Varsho",
+          "Iv\u00e1n Herrera",
+          "Wyatt Langford"
+        ]
+      },
+      {
         "name": "Landfall",
         "legs": [
           "Wyatt Langford"
@@ -33,9 +60,39 @@
         ]
       },
       {
+        "name": "Reaching for the Stars",
+        "legs": [
+          "Ben Rice",
+          "Daylen Lile",
+          "Drake Baldwin",
+          "Tyrone Taylor"
+        ]
+      },
+      {
+        "name": "Slipping the Surly Bonds",
+        "legs": [
+          "Andr\u00e9s Chaparro",
+          "Jackson Merrill",
+          "Kyle Tucker",
+          "Tyrone Taylor"
+        ]
+      },
+      {
         "name": "The Blue Plate",
         "legs": [
           "Munetaka Murakami"
+        ]
+      },
+      {
+        "name": "The Curfew",
+        "legs": [
+          "Max Muncy"
+        ]
+      },
+      {
+        "name": "The Lighthouse",
+        "legs": [
+          "Tyrone Taylor"
         ]
       },
       {
@@ -45,8 +102,8 @@
         ]
       }
     ],
-    "last_modified": "Sat, 19 Sep 2026 21:01:15 GMT",
-    "checked_at": "2026-09-19T21:05:12.977833+00:00"
+    "last_modified": "Sat, 19 Sep 2026 21:16:45 GMT",
+    "checked_at": "2026-09-19T21:20:15.489118+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "389976a7fb5f880c6237b52429682b2df44331787dced76e9d012492abf82e2e",
@@ -70,13 +127,13 @@
         ]
       }
     ],
-    "last_modified": "Sat, 19 Sep 2026 21:01:15 GMT",
-    "checked_at": "2026-09-19T21:05:13.098066+00:00"
+    "last_modified": "Sat, 19 Sep 2026 21:16:45 GMT",
+    "checked_at": "2026-09-19T21:20:15.628945+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 19 Sep 2026 21:01:16 GMT",
-    "checked_at": "2026-09-19T21:05:13.214360+00:00"
+    "last_modified": "Sat, 19 Sep 2026 21:16:45 GMT",
+    "checked_at": "2026-09-19T21:20:15.745325+00:00"
   }
 }
