@@ -1,114 +1,20 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "6f89d04730be00dbf23453430dda8df1a7dc56415d9634a9440f02e7d7dc7413",
-    "confirmed": [
-      {
-        "name": "Booster Ignition",
-        "legs": [
-          "Carter Jensen",
-          "Gunnar Henderson",
-          "Jahmai Jones",
-          "Jos\u00e9 Ram\u00edrez"
-        ]
-      },
-      {
-        "name": "Breaking the Sound Barrier",
-        "legs": [
-          "Alec Burleson",
-          "Isaac Paredes",
-          "Kody Clemens",
-          "Mookie Betts"
-        ]
-      },
-      {
-        "name": "Catching a Vapor Trail",
-        "legs": [
-          "Chase DeLauter",
-          "Michael Conforto",
-          "Samuel Basallo",
-          "Yandy D\u00edaz"
-        ]
-      },
-      {
-        "name": "Cleared for Launch",
-        "legs": [
-          "Jahmai Jones",
-          "Mickey Moniak",
-          "Mike Trout",
-          "Mike Yastrzemski"
-        ]
-      },
-      {
-        "name": "Full Afterburner",
-        "legs": [
-          "Drake Baldwin",
-          "Enrique Hern\u00e1ndez",
-          "Kody Clemens",
-          "Kyle Stowers"
-        ]
-      },
-      {
-        "name": "Into the Clouds",
-        "legs": [
-          "Pete Alonso",
-          "Randal Grichuk",
-          "Vinnie Pasquantino",
-          "Yandy D\u00edaz"
-        ]
-      },
-      {
-        "name": "Last Train Home",
-        "legs": [
-          "Teoscar Hern\u00e1ndez"
-        ]
-      },
-      {
-        "name": "Making Headway",
-        "legs": [
-          "Matt Olson"
-        ]
-      },
-      {
-        "name": "Reaching for the Stars",
-        "legs": [
-          "Jose Siri",
-          "Matt Olson",
-          "Paul Goldschmidt",
-          "Ryan Vilade"
-        ]
-      },
-      {
-        "name": "Ready About",
-        "legs": [
-          "Jahmai Jones"
-        ]
-      },
-      {
-        "name": "The Anchorage",
-        "legs": [
-          "Yandy D\u00edaz"
-        ]
-      },
-      {
-        "name": "Under Way",
-        "legs": [
-          "Kody Clemens"
-        ]
-      }
-    ],
-    "last_modified": "Sat, 19 Sep 2026 05:42:36 GMT",
-    "checked_at": "2026-09-19T05:45:20.142336+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Sat, 19 Sep 2026 13:28:10 GMT",
+    "checked_at": "2026-09-19T13:30:18.011704+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 19 Sep 2026 05:42:36 GMT",
-    "checked_at": "2026-09-19T05:45:20.411424+00:00"
+    "last_modified": "Sat, 19 Sep 2026 13:28:10 GMT",
+    "checked_at": "2026-09-19T13:30:18.356649+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 19 Sep 2026 05:42:36 GMT",
-    "checked_at": "2026-09-19T05:45:20.567020+00:00"
+    "last_modified": "Sat, 19 Sep 2026 13:28:10 GMT",
+    "checked_at": "2026-09-19T13:30:18.548764+00:00"
   }
 }
