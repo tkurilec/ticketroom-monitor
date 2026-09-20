@@ -1,7 +1,13 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "91e6f69834224ed6b042cd3f8768794e7107b48f4749c46910bb1fa803bd4025",
+    "hash": "51a8fac79707dc7af7aa6fa6f71600e6f9e3d90d02e05c525925b7ec5bd21553",
     "confirmed": [
+      {
+        "name": "Ready About",
+        "legs": [
+          "Matt Olson"
+        ]
+      },
       {
         "name": "The Noon Whistle",
         "legs": [
@@ -9,8 +15,8 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 15:01:42 GMT",
-    "checked_at": "2026-09-20T15:05:17.543764+00:00"
+    "last_modified": "Sun, 20 Sep 2026 15:12:41 GMT",
+    "checked_at": "2026-09-20T15:15:15.372652+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "33502f27ff21afcfd642825ecb8ec8b5ef46be347a531b7b58276e8fb54f7b10",
@@ -22,13 +28,13 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 15:01:41 GMT",
-    "checked_at": "2026-09-20T15:05:17.732050+00:00"
+    "last_modified": "Sun, 20 Sep 2026 15:12:41 GMT",
+    "checked_at": "2026-09-20T15:15:15.887085+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sun, 20 Sep 2026 15:01:42 GMT",
-    "checked_at": "2026-09-20T15:05:17.849871+00:00"
+    "last_modified": "Sun, 20 Sep 2026 15:12:41 GMT",
+    "checked_at": "2026-09-20T15:15:16.065611+00:00"
   }
 }
