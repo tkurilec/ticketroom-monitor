@@ -111,11 +111,11 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 00:52:49 GMT",
-    "checked_at": "2026-09-20T00:55:13.810093+00:00"
+    "last_modified": "Sun, 20 Sep 2026 01:53:37 GMT",
+    "checked_at": "2026-09-20T01:55:13.892629+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "93dcb99a27a97b47bcfaedd6129d3a8bc5126f74fd84d5326c6a2ac8774b6e4a",
+    "hash": "164a80ef3b86e783c5b275d19e256d8354b24e1f7334f230b93582acd7e658fd",
     "confirmed": [
       {
         "name": "Back Post",
@@ -170,15 +170,21 @@
         "legs": [
           "Kelvin Yeboah"
         ]
+      },
+      {
+        "name": "Under Lights",
+        "legs": [
+          "Miguel Almiron"
+        ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 00:52:49 GMT",
-    "checked_at": "2026-09-20T00:55:14.449356+00:00"
+    "last_modified": "Sun, 20 Sep 2026 01:53:37 GMT",
+    "checked_at": "2026-09-20T01:55:15.202985+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sun, 20 Sep 2026 00:52:49 GMT",
-    "checked_at": "2026-09-20T00:55:14.690391+00:00"
+    "last_modified": "Sun, 20 Sep 2026 01:53:37 GMT",
+    "checked_at": "2026-09-20T01:55:15.391381+00:00"
   }
 }
