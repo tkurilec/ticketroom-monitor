@@ -105,8 +105,8 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 18:52:36 GMT",
-    "checked_at": "2026-09-20T18:55:15.659004+00:00"
+    "last_modified": "Sun, 20 Sep 2026 20:04:29 GMT",
+    "checked_at": "2026-09-20T20:05:13.646890+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8434327a5fc67180a3ec51e8a3cad900dfaf16661b5c5882a1da408b298a2b44",
@@ -160,11 +160,11 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 18:52:36 GMT",
-    "checked_at": "2026-09-20T18:55:15.996053+00:00"
+    "last_modified": "Sun, 20 Sep 2026 20:04:29 GMT",
+    "checked_at": "2026-09-20T20:05:14.454123+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "6d622cdb249cac553d6749711a3a3280bd2c46b50a9520ac7b6478c0990edd6d",
+    "hash": "5002034f7974ad5de740389e83d03365a4dacbf922f9bbc4694c65c34e5b431d",
     "confirmed": [
       {
         "name": "Bell Cow",
@@ -186,6 +186,12 @@
           "Chase Brown",
           "DeVonta Smith",
           "Romeo Doubs"
+        ]
+      },
+      {
+        "name": "Goal Line Back",
+        "legs": [
+          "Chris Rodriguez Jr."
         ]
       },
       {
@@ -211,7 +217,7 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 18:52:36 GMT",
-    "checked_at": "2026-09-20T18:55:16.758718+00:00"
+    "last_modified": "Sun, 20 Sep 2026 20:04:29 GMT",
+    "checked_at": "2026-09-20T20:05:15.072484+00:00"
   }
 }
