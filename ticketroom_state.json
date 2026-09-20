@@ -54,8 +54,8 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 17:18:09 GMT",
-    "checked_at": "2026-09-20T17:20:16.781651+00:00"
+    "last_modified": "Sun, 20 Sep 2026 17:23:27 GMT",
+    "checked_at": "2026-09-20T17:25:13.306063+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "aade366e75b21574b8987c9dd0e8bd3b33a6c949c63d58561641f39d098f1b3c",
@@ -73,36 +73,20 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 17:18:09 GMT",
-    "checked_at": "2026-09-20T17:20:17.321461+00:00"
+    "last_modified": "Sun, 20 Sep 2026 17:23:27 GMT",
+    "checked_at": "2026-09-20T17:25:13.753193+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "6d622cdb249cac553d6749711a3a3280bd2c46b50a9520ac7b6478c0990edd6d",
+    "hash": "3067d3eb79a3cb8f505a76b76cc5167b6b7cbfdb94940b1d5b87b05ca1d81e18",
     "confirmed": [
       {
-        "name": "Bell Cow",
+        "name": "Inside the Ten",
         "legs": [
-          "Kyle Monangai"
+          "TreVeyon Henderson"
         ]
       },
       {
-        "name": "Crossing Route",
-        "legs": [
-          "Jaylen Warren",
-          "Kenny Gainwell",
-          "Kyle Monangai"
-        ]
-      },
-      {
-        "name": "Front of the End Zone",
-        "legs": [
-          "Chase Brown",
-          "DeVonta Smith",
-          "Romeo Doubs"
-        ]
-      },
-      {
-        "name": "The Fade",
+        "name": "Money Down",
         "legs": [
           "Kyle Monangai",
           "TreVeyon Henderson",
@@ -110,21 +94,21 @@
         ]
       },
       {
-        "name": "The Pylon",
+        "name": "Six Points",
         "legs": [
           "Chase Brown",
-          "Dallas Goedert",
-          "Travis Etienne"
+          "Kenny Gainwell",
+          "TreVeyon Henderson"
         ]
       },
       {
-        "name": "The Sneak",
+        "name": "The One O\u2019Clock",
         "legs": [
-          "Chase Brown"
+          "Jaylen Warren"
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 17:18:09 GMT",
-    "checked_at": "2026-09-20T17:20:17.542268+00:00"
+    "last_modified": "Sun, 20 Sep 2026 17:23:27 GMT",
+    "checked_at": "2026-09-20T17:25:14.330476+00:00"
   }
 }
