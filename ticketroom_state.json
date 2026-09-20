@@ -30,12 +30,18 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 16:08:06 GMT",
-    "checked_at": "2026-09-20T16:10:16.628385+00:00"
+    "last_modified": "Sun, 20 Sep 2026 16:42:31 GMT",
+    "checked_at": "2026-09-20T16:45:14.706476+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "33502f27ff21afcfd642825ecb8ec8b5ef46be347a531b7b58276e8fb54f7b10",
+    "hash": "aade366e75b21574b8987c9dd0e8bd3b33a6c949c63d58561641f39d098f1b3c",
     "confirmed": [
+      {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Adam Hlozek"
+        ]
+      },
       {
         "name": "Target Man",
         "legs": [
@@ -43,13 +49,13 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 16:08:06 GMT",
-    "checked_at": "2026-09-20T16:10:17.116692+00:00"
+    "last_modified": "Sun, 20 Sep 2026 16:42:31 GMT",
+    "checked_at": "2026-09-20T16:45:15.437569+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sun, 20 Sep 2026 16:08:06 GMT",
-    "checked_at": "2026-09-20T16:10:17.315350+00:00"
+    "last_modified": "Sun, 20 Sep 2026 16:42:31 GMT",
+    "checked_at": "2026-09-20T16:45:15.553289+00:00"
   }
 }
