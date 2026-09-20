@@ -105,16 +105,28 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 18:02:07 GMT",
-    "checked_at": "2026-09-20T18:05:18.138503+00:00"
+    "last_modified": "Sun, 20 Sep 2026 18:08:09 GMT",
+    "checked_at": "2026-09-20T18:10:15.584930+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "65f8d7df51c86bc79db2aff8680c54b5b2c6dbb93911c2fbe9a111fcac401fd2",
+    "hash": "8434327a5fc67180a3ec51e8a3cad900dfaf16661b5c5882a1da408b298a2b44",
     "confirmed": [
+      {
+        "name": "Back Post",
+        "legs": [
+          "Matias Goncalo Ramos"
+        ]
+      },
       {
         "name": "Early Doors",
         "legs": [
           "Khvicha Kvaratskhelia"
+        ]
+      },
+      {
+        "name": "Gets Across",
+        "legs": [
+          "Christian Pulisic"
         ]
       },
       {
@@ -148,8 +160,8 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 18:02:07 GMT",
-    "checked_at": "2026-09-20T18:05:19.732315+00:00"
+    "last_modified": "Sun, 20 Sep 2026 18:08:09 GMT",
+    "checked_at": "2026-09-20T18:10:16.818657+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "3067d3eb79a3cb8f505a76b76cc5167b6b7cbfdb94940b1d5b87b05ca1d81e18",
@@ -183,7 +195,7 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 18:02:07 GMT",
-    "checked_at": "2026-09-20T18:05:19.905415+00:00"
+    "last_modified": "Sun, 20 Sep 2026 18:08:09 GMT",
+    "checked_at": "2026-09-20T18:10:16.942089+00:00"
   }
 }
