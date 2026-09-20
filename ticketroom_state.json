@@ -1,11 +1,26 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "51a8fac79707dc7af7aa6fa6f71600e6f9e3d90d02e05c525925b7ec5bd21553",
+    "hash": "d22c942d9a7e6391547f1f788ac7cb6ca618b87951b36ab41744726695d346a6",
     "confirmed": [
+      {
+        "name": "Hitting Apogee",
+        "legs": [
+          "Alex Bregman",
+          "Andr\u00e9s Chaparro",
+          "Isaac Paredes",
+          "Yandy D\u00edaz"
+        ]
+      },
       {
         "name": "Ready About",
         "legs": [
           "Matt Olson"
+        ]
+      },
+      {
+        "name": "The Lighthouse",
+        "legs": [
+          "Andr\u00e9s Chaparro"
         ]
       },
       {
@@ -15,8 +30,8 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 15:12:41 GMT",
-    "checked_at": "2026-09-20T15:15:15.372652+00:00"
+    "last_modified": "Sun, 20 Sep 2026 16:08:06 GMT",
+    "checked_at": "2026-09-20T16:10:16.628385+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "33502f27ff21afcfd642825ecb8ec8b5ef46be347a531b7b58276e8fb54f7b10",
@@ -28,13 +43,13 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 15:12:41 GMT",
-    "checked_at": "2026-09-20T15:15:15.887085+00:00"
+    "last_modified": "Sun, 20 Sep 2026 16:08:06 GMT",
+    "checked_at": "2026-09-20T16:10:17.116692+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sun, 20 Sep 2026 15:12:41 GMT",
-    "checked_at": "2026-09-20T15:15:16.065611+00:00"
+    "last_modified": "Sun, 20 Sep 2026 16:08:06 GMT",
+    "checked_at": "2026-09-20T16:10:17.315350+00:00"
   }
 }
