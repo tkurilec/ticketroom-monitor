@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "ecb5c3a9f9fac439d1d709a5ddffcda0e2c314a4ff0bb360a930bbcb6587e3e1",
+    "hash": "46ed83b79aacf4600c80559e91e0d33452fa2ef735032c24510cac5a4047a676",
     "confirmed": [
       {
         "name": "Hitting Apogee",
@@ -9,6 +9,15 @@
           "Andr\u00e9s Chaparro",
           "Isaac Paredes",
           "Yandy D\u00edaz"
+        ]
+      },
+      {
+        "name": "Mach Breaker",
+        "legs": [
+          "Matt Olson",
+          "Mickey Gasper",
+          "Royce Lewis",
+          "Tyler Stephenson"
         ]
       },
       {
@@ -45,8 +54,8 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 17:07:37 GMT",
-    "checked_at": "2026-09-20T17:10:16.092375+00:00"
+    "last_modified": "Sun, 20 Sep 2026 17:18:09 GMT",
+    "checked_at": "2026-09-20T17:20:16.781651+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "aade366e75b21574b8987c9dd0e8bd3b33a6c949c63d58561641f39d098f1b3c",
@@ -64,8 +73,8 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 17:07:37 GMT",
-    "checked_at": "2026-09-20T17:10:16.239656+00:00"
+    "last_modified": "Sun, 20 Sep 2026 17:18:09 GMT",
+    "checked_at": "2026-09-20T17:20:17.321461+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "6d622cdb249cac553d6749711a3a3280bd2c46b50a9520ac7b6478c0990edd6d",
@@ -115,7 +124,7 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 17:07:37 GMT",
-    "checked_at": "2026-09-20T17:10:16.354498+00:00"
+    "last_modified": "Sun, 20 Sep 2026 17:18:09 GMT",
+    "checked_at": "2026-09-20T17:20:17.542268+00:00"
   }
 }
