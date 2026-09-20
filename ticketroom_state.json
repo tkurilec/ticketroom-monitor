@@ -1,7 +1,25 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "423ab76c6a43bf4a6959f843f819a5603840445ece5cf83954ca9d72b4905958",
+    "hash": "819129301e06d960949a9260e38dd21add313613f07c96ad351a84d299144b2c",
     "confirmed": [
+      {
+        "name": "Breaking the Sound Barrier",
+        "legs": [
+          "Ben Rice",
+          "Hunter Goodman",
+          "Mookie Betts",
+          "Ryan Vilade"
+        ]
+      },
+      {
+        "name": "Cleared for Launch",
+        "legs": [
+          "JJ Bleday",
+          "Kody Clemens",
+          "Mike Yastrzemski",
+          "Spencer Jones"
+        ]
+      },
       {
         "name": "Full Afterburner",
         "legs": [
@@ -18,6 +36,12 @@
           "Andr\u00e9s Chaparro",
           "Isaac Paredes",
           "Yandy D\u00edaz"
+        ]
+      },
+      {
+        "name": "Landfall",
+        "legs": [
+          "Spencer Jones"
         ]
       },
       {
@@ -51,6 +75,15 @@
         ]
       },
       {
+        "name": "Slipping the Surly Bonds",
+        "legs": [
+          "Drake Baldwin",
+          "Enrique Hern\u00e1ndez",
+          "Jackson Merrill",
+          "Spencer Jones"
+        ]
+      },
+      {
         "name": "The Lighthouse",
         "legs": [
           "Andr\u00e9s Chaparro"
@@ -63,8 +96,8 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 17:42:23 GMT",
-    "checked_at": "2026-09-20T17:45:18.373090+00:00"
+    "last_modified": "Sun, 20 Sep 2026 17:47:36 GMT",
+    "checked_at": "2026-09-20T17:50:15.554970+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "aade366e75b21574b8987c9dd0e8bd3b33a6c949c63d58561641f39d098f1b3c",
@@ -82,8 +115,8 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 17:42:23 GMT",
-    "checked_at": "2026-09-20T17:45:18.579077+00:00"
+    "last_modified": "Sun, 20 Sep 2026 17:47:36 GMT",
+    "checked_at": "2026-09-20T17:50:15.668978+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "3067d3eb79a3cb8f505a76b76cc5167b6b7cbfdb94940b1d5b87b05ca1d81e18",
@@ -117,7 +150,7 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 17:42:23 GMT",
-    "checked_at": "2026-09-20T17:45:18.828806+00:00"
+    "last_modified": "Sun, 20 Sep 2026 17:47:36 GMT",
+    "checked_at": "2026-09-20T17:50:15.763155+00:00"
   }
 }
