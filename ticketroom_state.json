@@ -105,12 +105,24 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 17:57:37 GMT",
-    "checked_at": "2026-09-20T18:00:22.558779+00:00"
+    "last_modified": "Sun, 20 Sep 2026 18:02:07 GMT",
+    "checked_at": "2026-09-20T18:05:18.138503+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "aade366e75b21574b8987c9dd0e8bd3b33a6c949c63d58561641f39d098f1b3c",
+    "hash": "65f8d7df51c86bc79db2aff8680c54b5b2c6dbb93911c2fbe9a111fcac401fd2",
     "confirmed": [
+      {
+        "name": "Early Doors",
+        "legs": [
+          "Khvicha Kvaratskhelia"
+        ]
+      },
+      {
+        "name": "Near Post",
+        "legs": [
+          "Mikel Oyarzabal"
+        ]
+      },
       {
         "name": "Six-Yard Box",
         "legs": [
@@ -122,10 +134,22 @@
         "legs": [
           "Kylian Mbappe"
         ]
+      },
+      {
+        "name": "The Nine",
+        "legs": [
+          "Ousmane Dembele"
+        ]
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Hugo Duro"
+        ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 17:57:37 GMT",
-    "checked_at": "2026-09-20T18:00:22.865873+00:00"
+    "last_modified": "Sun, 20 Sep 2026 18:02:07 GMT",
+    "checked_at": "2026-09-20T18:05:19.732315+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "3067d3eb79a3cb8f505a76b76cc5167b6b7cbfdb94940b1d5b87b05ca1d81e18",
@@ -159,7 +183,7 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 17:57:37 GMT",
-    "checked_at": "2026-09-20T18:00:23.259528+00:00"
+    "last_modified": "Sun, 20 Sep 2026 18:02:07 GMT",
+    "checked_at": "2026-09-20T18:05:19.905415+00:00"
   }
 }
