@@ -111,19 +111,26 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 12:45:34 GMT",
-    "checked_at": "2026-09-20T12:50:17.736750+00:00"
+    "last_modified": "Sun, 20 Sep 2026 13:16:45 GMT",
+    "checked_at": "2026-09-20T13:20:16.677241+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Sun, 20 Sep 2026 12:45:34 GMT",
-    "checked_at": "2026-09-20T12:50:18.114585+00:00"
+    "hash": "33502f27ff21afcfd642825ecb8ec8b5ef46be347a531b7b58276e8fb54f7b10",
+    "confirmed": [
+      {
+        "name": "Target Man",
+        "legs": [
+          "Kylian Mbappe"
+        ]
+      }
+    ],
+    "last_modified": "Sun, 20 Sep 2026 13:16:45 GMT",
+    "checked_at": "2026-09-20T13:20:17.493795+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sun, 20 Sep 2026 12:45:34 GMT",
-    "checked_at": "2026-09-20T12:50:18.317717+00:00"
+    "last_modified": "Sun, 20 Sep 2026 13:16:45 GMT",
+    "checked_at": "2026-09-20T13:20:17.699680+00:00"
   }
 }
