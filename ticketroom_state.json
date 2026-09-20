@@ -111,11 +111,11 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 00:47:48 GMT",
-    "checked_at": "2026-09-20T00:50:16.424951+00:00"
+    "last_modified": "Sun, 20 Sep 2026 00:52:49 GMT",
+    "checked_at": "2026-09-20T00:55:13.810093+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "ecdc4d65f4e7c475977f82bbae84b7aff16f339577fb6b9034fba124b9aeaabb",
+    "hash": "93dcb99a27a97b47bcfaedd6129d3a8bc5126f74fd84d5326c6a2ac8774b6e4a",
     "confirmed": [
       {
         "name": "Back Post",
@@ -148,6 +148,12 @@
         ]
       },
       {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Brian White"
+        ]
+      },
+      {
         "name": "Target Man",
         "legs": [
           "Petar Musa"
@@ -166,13 +172,13 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 00:47:48 GMT",
-    "checked_at": "2026-09-20T00:50:19.164258+00:00"
+    "last_modified": "Sun, 20 Sep 2026 00:52:49 GMT",
+    "checked_at": "2026-09-20T00:55:14.449356+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sun, 20 Sep 2026 00:47:48 GMT",
-    "checked_at": "2026-09-20T00:50:19.620909+00:00"
+    "last_modified": "Sun, 20 Sep 2026 00:52:49 GMT",
+    "checked_at": "2026-09-20T00:55:14.690391+00:00"
   }
 }
