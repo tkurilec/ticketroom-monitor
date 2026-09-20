@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "857c2869f9bfb63e8e2ab081b90f00c030541093715acac5ab42a38a9135fac5",
+    "hash": "b1bda674188c57a3c7485aeb7538c05196faa4737042c418bab03911e6525fcc",
     "confirmed": [
       {
         "name": "Booster Ignition",
@@ -18,6 +18,12 @@
           "Hunter Goodman",
           "Mookie Betts",
           "Ryan Vilade"
+        ]
+      },
+      {
+        "name": "Burning the Midnight Oil",
+        "legs": [
+          "Samuel Basallo"
         ]
       },
       {
@@ -105,8 +111,8 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 20:23:23 GMT",
-    "checked_at": "2026-09-20T20:25:13.759424+00:00"
+    "last_modified": "Sun, 20 Sep 2026 20:48:15 GMT",
+    "checked_at": "2026-09-20T20:50:18.375696+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8434327a5fc67180a3ec51e8a3cad900dfaf16661b5c5882a1da408b298a2b44",
@@ -160,8 +166,8 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 20:23:23 GMT",
-    "checked_at": "2026-09-20T20:25:13.982163+00:00"
+    "last_modified": "Sun, 20 Sep 2026 20:48:15 GMT",
+    "checked_at": "2026-09-20T20:50:18.754114+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "3c682a509872867eb9d664f5fb3c978bf2b4cd0e28776da1882bf65ab482de1e",
@@ -261,7 +267,7 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 20:23:23 GMT",
-    "checked_at": "2026-09-20T20:25:14.563169+00:00"
+    "last_modified": "Sun, 20 Sep 2026 20:48:15 GMT",
+    "checked_at": "2026-09-20T20:50:18.970415+00:00"
   }
 }
