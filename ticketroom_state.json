@@ -30,8 +30,8 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 16:42:31 GMT",
-    "checked_at": "2026-09-20T16:45:14.706476+00:00"
+    "last_modified": "Sun, 20 Sep 2026 16:57:18 GMT",
+    "checked_at": "2026-09-20T17:00:20.307069+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "aade366e75b21574b8987c9dd0e8bd3b33a6c949c63d58561641f39d098f1b3c",
@@ -49,13 +49,58 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 16:42:31 GMT",
-    "checked_at": "2026-09-20T16:45:15.437569+00:00"
+    "last_modified": "Sun, 20 Sep 2026 16:57:18 GMT",
+    "checked_at": "2026-09-20T17:00:20.534889+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Sun, 20 Sep 2026 16:42:31 GMT",
-    "checked_at": "2026-09-20T16:45:15.553289+00:00"
+    "hash": "6d622cdb249cac553d6749711a3a3280bd2c46b50a9520ac7b6478c0990edd6d",
+    "confirmed": [
+      {
+        "name": "Bell Cow",
+        "legs": [
+          "Kyle Monangai"
+        ]
+      },
+      {
+        "name": "Crossing Route",
+        "legs": [
+          "Jaylen Warren",
+          "Kenny Gainwell",
+          "Kyle Monangai"
+        ]
+      },
+      {
+        "name": "Front of the End Zone",
+        "legs": [
+          "Chase Brown",
+          "DeVonta Smith",
+          "Romeo Doubs"
+        ]
+      },
+      {
+        "name": "The Fade",
+        "legs": [
+          "Kyle Monangai",
+          "TreVeyon Henderson",
+          "Woody Marks"
+        ]
+      },
+      {
+        "name": "The Pylon",
+        "legs": [
+          "Chase Brown",
+          "Dallas Goedert",
+          "Travis Etienne"
+        ]
+      },
+      {
+        "name": "The Sneak",
+        "legs": [
+          "Chase Brown"
+        ]
+      }
+    ],
+    "last_modified": "Sun, 20 Sep 2026 16:57:18 GMT",
+    "checked_at": "2026-09-20T17:00:21.283896+00:00"
   }
 }
