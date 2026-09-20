@@ -105,8 +105,8 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 20:04:29 GMT",
-    "checked_at": "2026-09-20T20:05:13.646890+00:00"
+    "last_modified": "Sun, 20 Sep 2026 20:23:23 GMT",
+    "checked_at": "2026-09-20T20:25:13.759424+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8434327a5fc67180a3ec51e8a3cad900dfaf16661b5c5882a1da408b298a2b44",
@@ -160,11 +160,11 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 20:04:29 GMT",
-    "checked_at": "2026-09-20T20:05:14.454123+00:00"
+    "last_modified": "Sun, 20 Sep 2026 20:23:23 GMT",
+    "checked_at": "2026-09-20T20:25:13.982163+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "5002034f7974ad5de740389e83d03365a4dacbf922f9bbc4694c65c34e5b431d",
+    "hash": "3c682a509872867eb9d664f5fb3c978bf2b4cd0e28776da1882bf65ab482de1e",
     "confirmed": [
       {
         "name": "Bell Cow",
@@ -173,11 +173,25 @@
         ]
       },
       {
+        "name": "Chunk Play",
+        "legs": [
+          "Chris Rodriguez Jr.",
+          "George Kittle",
+          "Ryan Flournoy"
+        ]
+      },
+      {
         "name": "Crossing Route",
         "legs": [
           "Jaylen Warren",
           "Kenny Gainwell",
           "Kyle Monangai"
+        ]
+      },
+      {
+        "name": "Early Window",
+        "legs": [
+          "Jacory Croskey-Merritt"
         ]
       },
       {
@@ -192,6 +206,22 @@
         "name": "Goal Line Back",
         "legs": [
           "Chris Rodriguez Jr."
+        ]
+      },
+      {
+        "name": "Money Down",
+        "legs": [
+          "Jake Ferguson",
+          "Kaelon Black",
+          "Trey McBride"
+        ]
+      },
+      {
+        "name": "Six Points",
+        "legs": [
+          "Courtland Sutton",
+          "Deebo Samuel Sr.",
+          "Jake Ferguson"
         ]
       },
       {
@@ -215,9 +245,23 @@
         "legs": [
           "Chase Brown"
         ]
+      },
+      {
+        "name": "The Workhorse",
+        "legs": [
+          "Jake Ferguson"
+        ]
+      },
+      {
+        "name": "Twelve Personnel",
+        "legs": [
+          "Chris Rodriguez Jr.",
+          "Mike Evans",
+          "Rachaad White"
+        ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 20:04:29 GMT",
-    "checked_at": "2026-09-20T20:05:15.072484+00:00"
+    "last_modified": "Sun, 20 Sep 2026 20:23:23 GMT",
+    "checked_at": "2026-09-20T20:25:14.563169+00:00"
   }
 }
