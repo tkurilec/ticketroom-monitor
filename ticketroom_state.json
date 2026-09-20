@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "d22c942d9a7e6391547f1f788ac7cb6ca618b87951b36ab41744726695d346a6",
+    "hash": "ecb5c3a9f9fac439d1d709a5ddffcda0e2c314a4ff0bb360a930bbcb6587e3e1",
     "confirmed": [
       {
         "name": "Hitting Apogee",
@@ -9,6 +9,21 @@
           "Andr\u00e9s Chaparro",
           "Isaac Paredes",
           "Yandy D\u00edaz"
+        ]
+      },
+      {
+        "name": "Making Headway",
+        "legs": [
+          "Mookie Betts"
+        ]
+      },
+      {
+        "name": "Reaching for the Stars",
+        "legs": [
+          "Ian Happ",
+          "Matt Olson",
+          "Teoscar Hern\u00e1ndez",
+          "Wyatt Langford"
         ]
       },
       {
@@ -30,8 +45,8 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 16:57:18 GMT",
-    "checked_at": "2026-09-20T17:00:20.307069+00:00"
+    "last_modified": "Sun, 20 Sep 2026 17:07:37 GMT",
+    "checked_at": "2026-09-20T17:10:16.092375+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "aade366e75b21574b8987c9dd0e8bd3b33a6c949c63d58561641f39d098f1b3c",
@@ -49,8 +64,8 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 16:57:18 GMT",
-    "checked_at": "2026-09-20T17:00:20.534889+00:00"
+    "last_modified": "Sun, 20 Sep 2026 17:07:37 GMT",
+    "checked_at": "2026-09-20T17:10:16.239656+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "6d622cdb249cac553d6749711a3a3280bd2c46b50a9520ac7b6478c0990edd6d",
@@ -100,7 +115,7 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 16:57:18 GMT",
-    "checked_at": "2026-09-20T17:00:21.283896+00:00"
+    "last_modified": "Sun, 20 Sep 2026 17:07:37 GMT",
+    "checked_at": "2026-09-20T17:10:16.354498+00:00"
   }
 }
