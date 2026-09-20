@@ -1,7 +1,16 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "819129301e06d960949a9260e38dd21add313613f07c96ad351a84d299144b2c",
+    "hash": "857c2869f9bfb63e8e2ab081b90f00c030541093715acac5ab42a38a9135fac5",
     "confirmed": [
+      {
+        "name": "Booster Ignition",
+        "legs": [
+          "Andr\u00e9s Chaparro",
+          "Brooks Lee",
+          "Jos\u00e9 Ram\u00edrez",
+          "Kyle Stowers"
+        ]
+      },
       {
         "name": "Breaking the Sound Barrier",
         "legs": [
@@ -96,8 +105,8 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 17:47:36 GMT",
-    "checked_at": "2026-09-20T17:50:15.554970+00:00"
+    "last_modified": "Sun, 20 Sep 2026 17:57:37 GMT",
+    "checked_at": "2026-09-20T18:00:22.558779+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "aade366e75b21574b8987c9dd0e8bd3b33a6c949c63d58561641f39d098f1b3c",
@@ -115,8 +124,8 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 17:47:36 GMT",
-    "checked_at": "2026-09-20T17:50:15.668978+00:00"
+    "last_modified": "Sun, 20 Sep 2026 17:57:37 GMT",
+    "checked_at": "2026-09-20T18:00:22.865873+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "3067d3eb79a3cb8f505a76b76cc5167b6b7cbfdb94940b1d5b87b05ca1d81e18",
@@ -150,7 +159,7 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 17:47:36 GMT",
-    "checked_at": "2026-09-20T17:50:15.763155+00:00"
+    "last_modified": "Sun, 20 Sep 2026 17:57:37 GMT",
+    "checked_at": "2026-09-20T18:00:23.259528+00:00"
   }
 }
