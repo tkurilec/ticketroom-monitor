@@ -111,11 +111,11 @@
         ]
       }
     ],
-    "last_modified": "Sat, 19 Sep 2026 23:52:24 GMT",
-    "checked_at": "2026-09-19T23:55:13.066411+00:00"
+    "last_modified": "Sun, 20 Sep 2026 00:47:48 GMT",
+    "checked_at": "2026-09-20T00:50:16.424951+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "55761e183c935c6251025ca81a84bcd25d9e6c645e50fe51171ed397aadff941",
+    "hash": "ecdc4d65f4e7c475977f82bbae84b7aff16f339577fb6b9034fba124b9aeaabb",
     "confirmed": [
       {
         "name": "Back Post",
@@ -142,6 +142,12 @@
         ]
       },
       {
+        "name": "Near Post",
+        "legs": [
+          "Sam Surridge"
+        ]
+      },
+      {
         "name": "Target Man",
         "legs": [
           "Petar Musa"
@@ -160,13 +166,13 @@
         ]
       }
     ],
-    "last_modified": "Sat, 19 Sep 2026 23:52:24 GMT",
-    "checked_at": "2026-09-19T23:55:13.925900+00:00"
+    "last_modified": "Sun, 20 Sep 2026 00:47:48 GMT",
+    "checked_at": "2026-09-20T00:50:19.164258+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 19 Sep 2026 23:52:24 GMT",
-    "checked_at": "2026-09-19T23:55:14.291064+00:00"
+    "last_modified": "Sun, 20 Sep 2026 00:47:48 GMT",
+    "checked_at": "2026-09-20T00:50:19.620909+00:00"
   }
 }
