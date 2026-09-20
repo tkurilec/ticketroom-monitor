@@ -1,118 +1,9 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "48485f265866bed00860f207cce34ce111540babfbe60ecd29319a6993537ed0",
-    "confirmed": [
-      {
-        "name": "Booster Ignition",
-        "legs": [
-          "CJ Abrams",
-          "Eugenio Su\u00e1rez",
-          "Mookie Betts",
-          "Wyatt Langford"
-        ]
-      },
-      {
-        "name": "Breaking the Sound Barrier",
-        "legs": [
-          "Dane Myers",
-          "Jos\u00e9 Ram\u00edrez",
-          "Mickey Gasper",
-          "Vinnie Pasquantino"
-        ]
-      },
-      {
-        "name": "Cleared for Launch",
-        "legs": [
-          "Bryce Harper",
-          "Tyler Stephenson",
-          "Victor Mesa",
-          "Vinnie Pasquantino"
-        ]
-      },
-      {
-        "name": "Full Afterburner",
-        "legs": [
-          "Abimelec Ortiz",
-          "David Fry",
-          "Matt Shaw",
-          "Mike Yastrzemski"
-        ]
-      },
-      {
-        "name": "Hitting Apogee",
-        "legs": [
-          "Alex Bregman",
-          "Daulton Varsho",
-          "Iv\u00e1n Herrera",
-          "Wyatt Langford"
-        ]
-      },
-      {
-        "name": "Into the Clouds",
-        "legs": [
-          "Abimelec Ortiz",
-          "Matt Olson",
-          "Mike Trout",
-          "Will Smith"
-        ]
-      },
-      {
-        "name": "Landfall",
-        "legs": [
-          "Wyatt Langford"
-        ]
-      },
-      {
-        "name": "Making Headway",
-        "legs": [
-          "Vinnie Pasquantino"
-        ]
-      },
-      {
-        "name": "Reaching for the Stars",
-        "legs": [
-          "Ben Rice",
-          "Daylen Lile",
-          "Drake Baldwin",
-          "Tyrone Taylor"
-        ]
-      },
-      {
-        "name": "Slipping the Surly Bonds",
-        "legs": [
-          "Andr\u00e9s Chaparro",
-          "Jackson Merrill",
-          "Kyle Tucker",
-          "Tyrone Taylor"
-        ]
-      },
-      {
-        "name": "The Blue Plate",
-        "legs": [
-          "Munetaka Murakami"
-        ]
-      },
-      {
-        "name": "The Curfew",
-        "legs": [
-          "Max Muncy"
-        ]
-      },
-      {
-        "name": "The Lighthouse",
-        "legs": [
-          "Tyrone Taylor"
-        ]
-      },
-      {
-        "name": "Under Way",
-        "legs": [
-          "Abimelec Ortiz"
-        ]
-      }
-    ],
-    "last_modified": "Sun, 20 Sep 2026 13:16:45 GMT",
-    "checked_at": "2026-09-20T13:20:16.677241+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Sun, 20 Sep 2026 13:37:30 GMT",
+    "checked_at": "2026-09-20T13:40:52.818079+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "33502f27ff21afcfd642825ecb8ec8b5ef46be347a531b7b58276e8fb54f7b10",
@@ -124,13 +15,13 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 13:16:45 GMT",
-    "checked_at": "2026-09-20T13:20:17.493795+00:00"
+    "last_modified": "Sun, 20 Sep 2026 13:37:30 GMT",
+    "checked_at": "2026-09-20T13:40:53.134201+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sun, 20 Sep 2026 13:16:45 GMT",
-    "checked_at": "2026-09-20T13:20:17.699680+00:00"
+    "last_modified": "Sun, 20 Sep 2026 13:37:30 GMT",
+    "checked_at": "2026-09-20T13:40:53.223326+00:00"
   }
 }
