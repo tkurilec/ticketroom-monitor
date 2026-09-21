@@ -111,8 +111,8 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 20:48:15 GMT",
-    "checked_at": "2026-09-20T20:50:18.375696+00:00"
+    "last_modified": "Mon, 21 Sep 2026 00:17:38 GMT",
+    "checked_at": "2026-09-21T00:20:17.092429+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8434327a5fc67180a3ec51e8a3cad900dfaf16661b5c5882a1da408b298a2b44",
@@ -166,11 +166,11 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 20:48:15 GMT",
-    "checked_at": "2026-09-20T20:50:18.754114+00:00"
+    "last_modified": "Mon, 21 Sep 2026 00:17:38 GMT",
+    "checked_at": "2026-09-21T00:20:17.372775+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "3c682a509872867eb9d664f5fb3c978bf2b4cd0e28776da1882bf65ab482de1e",
+    "hash": "9c8f6089ee582577acd073da65387cd0e9098baf11dc577645dc2145f8d6ad32",
     "confirmed": [
       {
         "name": "Bell Cow",
@@ -231,6 +231,12 @@
         ]
       },
       {
+        "name": "Sunday Night",
+        "legs": [
+          "Tyler Warren"
+        ]
+      },
+      {
         "name": "The Fade",
         "legs": [
           "Kyle Monangai",
@@ -267,7 +273,7 @@
         ]
       }
     ],
-    "last_modified": "Sun, 20 Sep 2026 20:48:15 GMT",
-    "checked_at": "2026-09-20T20:50:18.970415+00:00"
+    "last_modified": "Mon, 21 Sep 2026 00:17:38 GMT",
+    "checked_at": "2026-09-21T00:20:20.587882+00:00"
   }
 }
