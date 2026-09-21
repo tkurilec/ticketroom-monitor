@@ -1,9 +1,16 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Mon, 21 Sep 2026 12:57:13 GMT",
-    "checked_at": "2026-09-21T13:00:26.766487+00:00"
+    "hash": "d633312fd90d622c3b022fa06aca3721712a2e74b12be4bebd8a4191c93f93b3",
+    "confirmed": [
+      {
+        "name": "Bar's Last Round",
+        "legs": [
+          "Kody Clemens"
+        ]
+      }
+    ],
+    "last_modified": "Mon, 21 Sep 2026 21:53:01 GMT",
+    "checked_at": "2026-09-21T21:55:15.514929+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8434327a5fc67180a3ec51e8a3cad900dfaf16661b5c5882a1da408b298a2b44",
@@ -57,13 +64,13 @@
         ]
       }
     ],
-    "last_modified": "Mon, 21 Sep 2026 12:57:13 GMT",
-    "checked_at": "2026-09-21T13:00:27.320925+00:00"
+    "last_modified": "Mon, 21 Sep 2026 21:53:01 GMT",
+    "checked_at": "2026-09-21T21:55:15.683748+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Mon, 21 Sep 2026 12:57:13 GMT",
-    "checked_at": "2026-09-21T13:00:27.492352+00:00"
+    "last_modified": "Mon, 21 Sep 2026 21:53:01 GMT",
+    "checked_at": "2026-09-21T21:55:15.908913+00:00"
   }
 }
