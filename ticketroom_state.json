@@ -1,118 +1,9 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "b1bda674188c57a3c7485aeb7538c05196faa4737042c418bab03911e6525fcc",
-    "confirmed": [
-      {
-        "name": "Booster Ignition",
-        "legs": [
-          "Andr\u00e9s Chaparro",
-          "Brooks Lee",
-          "Jos\u00e9 Ram\u00edrez",
-          "Kyle Stowers"
-        ]
-      },
-      {
-        "name": "Breaking the Sound Barrier",
-        "legs": [
-          "Ben Rice",
-          "Hunter Goodman",
-          "Mookie Betts",
-          "Ryan Vilade"
-        ]
-      },
-      {
-        "name": "Burning the Midnight Oil",
-        "legs": [
-          "Samuel Basallo"
-        ]
-      },
-      {
-        "name": "Cleared for Launch",
-        "legs": [
-          "JJ Bleday",
-          "Kody Clemens",
-          "Mike Yastrzemski",
-          "Spencer Jones"
-        ]
-      },
-      {
-        "name": "Full Afterburner",
-        "legs": [
-          "Christian Walker",
-          "Michael Conforto",
-          "Mike Trout",
-          "Mookie Betts"
-        ]
-      },
-      {
-        "name": "Hitting Apogee",
-        "legs": [
-          "Alex Bregman",
-          "Andr\u00e9s Chaparro",
-          "Isaac Paredes",
-          "Yandy D\u00edaz"
-        ]
-      },
-      {
-        "name": "Landfall",
-        "legs": [
-          "Spencer Jones"
-        ]
-      },
-      {
-        "name": "Mach Breaker",
-        "legs": [
-          "Matt Olson",
-          "Mickey Gasper",
-          "Royce Lewis",
-          "Tyler Stephenson"
-        ]
-      },
-      {
-        "name": "Making Headway",
-        "legs": [
-          "Mookie Betts"
-        ]
-      },
-      {
-        "name": "Reaching for the Stars",
-        "legs": [
-          "Ian Happ",
-          "Matt Olson",
-          "Teoscar Hern\u00e1ndez",
-          "Wyatt Langford"
-        ]
-      },
-      {
-        "name": "Ready About",
-        "legs": [
-          "Matt Olson"
-        ]
-      },
-      {
-        "name": "Slipping the Surly Bonds",
-        "legs": [
-          "Drake Baldwin",
-          "Enrique Hern\u00e1ndez",
-          "Jackson Merrill",
-          "Spencer Jones"
-        ]
-      },
-      {
-        "name": "The Lighthouse",
-        "legs": [
-          "Andr\u00e9s Chaparro"
-        ]
-      },
-      {
-        "name": "The Noon Whistle",
-        "legs": [
-          "Munetaka Murakami"
-        ]
-      }
-    ],
-    "last_modified": "Mon, 21 Sep 2026 03:58:08 GMT",
-    "checked_at": "2026-09-21T04:00:19.211618+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Mon, 21 Sep 2026 12:57:13 GMT",
+    "checked_at": "2026-09-21T13:00:26.766487+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8434327a5fc67180a3ec51e8a3cad900dfaf16661b5c5882a1da408b298a2b44",
@@ -166,13 +57,13 @@
         ]
       }
     ],
-    "last_modified": "Mon, 21 Sep 2026 03:58:08 GMT",
-    "checked_at": "2026-09-21T04:00:19.319349+00:00"
+    "last_modified": "Mon, 21 Sep 2026 12:57:13 GMT",
+    "checked_at": "2026-09-21T13:00:27.320925+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Mon, 21 Sep 2026 03:58:08 GMT",
-    "checked_at": "2026-09-21T04:00:19.414215+00:00"
+    "last_modified": "Mon, 21 Sep 2026 12:57:13 GMT",
+    "checked_at": "2026-09-21T13:00:27.492352+00:00"
   }
 }
