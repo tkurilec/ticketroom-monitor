@@ -111,8 +111,8 @@
         ]
       }
     ],
-    "last_modified": "Mon, 21 Sep 2026 00:17:38 GMT",
-    "checked_at": "2026-09-21T00:20:17.092429+00:00"
+    "last_modified": "Mon, 21 Sep 2026 03:58:08 GMT",
+    "checked_at": "2026-09-21T04:00:19.211618+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8434327a5fc67180a3ec51e8a3cad900dfaf16661b5c5882a1da408b298a2b44",
@@ -166,114 +166,13 @@
         ]
       }
     ],
-    "last_modified": "Mon, 21 Sep 2026 00:17:38 GMT",
-    "checked_at": "2026-09-21T00:20:17.372775+00:00"
+    "last_modified": "Mon, 21 Sep 2026 03:58:08 GMT",
+    "checked_at": "2026-09-21T04:00:19.319349+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "9c8f6089ee582577acd073da65387cd0e9098baf11dc577645dc2145f8d6ad32",
-    "confirmed": [
-      {
-        "name": "Bell Cow",
-        "legs": [
-          "Kyle Monangai"
-        ]
-      },
-      {
-        "name": "Chunk Play",
-        "legs": [
-          "Chris Rodriguez Jr.",
-          "George Kittle",
-          "Ryan Flournoy"
-        ]
-      },
-      {
-        "name": "Crossing Route",
-        "legs": [
-          "Jaylen Warren",
-          "Kenny Gainwell",
-          "Kyle Monangai"
-        ]
-      },
-      {
-        "name": "Early Window",
-        "legs": [
-          "Jacory Croskey-Merritt"
-        ]
-      },
-      {
-        "name": "Front of the End Zone",
-        "legs": [
-          "Chase Brown",
-          "DeVonta Smith",
-          "Romeo Doubs"
-        ]
-      },
-      {
-        "name": "Goal Line Back",
-        "legs": [
-          "Chris Rodriguez Jr."
-        ]
-      },
-      {
-        "name": "Money Down",
-        "legs": [
-          "Jake Ferguson",
-          "Kaelon Black",
-          "Trey McBride"
-        ]
-      },
-      {
-        "name": "Six Points",
-        "legs": [
-          "Courtland Sutton",
-          "Deebo Samuel Sr.",
-          "Jake Ferguson"
-        ]
-      },
-      {
-        "name": "Sunday Night",
-        "legs": [
-          "Tyler Warren"
-        ]
-      },
-      {
-        "name": "The Fade",
-        "legs": [
-          "Kyle Monangai",
-          "TreVeyon Henderson",
-          "Woody Marks"
-        ]
-      },
-      {
-        "name": "The Pylon",
-        "legs": [
-          "Chase Brown",
-          "Dallas Goedert",
-          "Travis Etienne"
-        ]
-      },
-      {
-        "name": "The Sneak",
-        "legs": [
-          "Chase Brown"
-        ]
-      },
-      {
-        "name": "The Workhorse",
-        "legs": [
-          "Jake Ferguson"
-        ]
-      },
-      {
-        "name": "Twelve Personnel",
-        "legs": [
-          "Chris Rodriguez Jr.",
-          "Mike Evans",
-          "Rachaad White"
-        ]
-      }
-    ],
-    "last_modified": "Mon, 21 Sep 2026 00:17:38 GMT",
-    "checked_at": "2026-09-21T00:20:20.587882+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Mon, 21 Sep 2026 03:58:08 GMT",
+    "checked_at": "2026-09-21T04:00:19.414215+00:00"
   }
 }
