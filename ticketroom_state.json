@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "b9ac5c300956f1e543b9b1c5885a0b36c11f9810061b0ca9d2772a41588a18da",
+    "hash": "cf912d6f84ff34fb0f5cb668417d9bf5d79c1fc4441ed16bcb8b7af07c5b3cfd",
     "confirmed": [
       {
         "name": "Booster Ignition",
@@ -15,6 +15,15 @@
         "name": "Chart a Course",
         "legs": [
           "Justin Foscue"
+        ]
+      },
+      {
+        "name": "Cleared for Launch",
+        "legs": [
+          "Eugenio Su\u00e1rez",
+          "Nolan Arenado",
+          "Randal Grichuk",
+          "Samuel Basallo"
         ]
       },
       {
@@ -102,8 +111,8 @@
         ]
       }
     ],
-    "last_modified": "Tue, 22 Sep 2026 22:57:54 GMT",
-    "checked_at": "2026-09-22T23:00:23.322650+00:00"
+    "last_modified": "Tue, 22 Sep 2026 23:08:33 GMT",
+    "checked_at": "2026-09-22T23:10:17.275499+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8434327a5fc67180a3ec51e8a3cad900dfaf16661b5c5882a1da408b298a2b44",
@@ -157,13 +166,13 @@
         ]
       }
     ],
-    "last_modified": "Tue, 22 Sep 2026 22:57:54 GMT",
-    "checked_at": "2026-09-22T23:00:23.534462+00:00"
+    "last_modified": "Tue, 22 Sep 2026 23:08:33 GMT",
+    "checked_at": "2026-09-22T23:10:17.561285+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 22 Sep 2026 22:57:54 GMT",
-    "checked_at": "2026-09-22T23:00:23.734777+00:00"
+    "last_modified": "Tue, 22 Sep 2026 23:08:33 GMT",
+    "checked_at": "2026-09-22T23:10:17.751651+00:00"
   }
 }
