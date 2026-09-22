@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "f96a828cab53ffcb55b4cc92b6dd2f105b435bbf9cafe94bdda5ddfccd1ef42d",
+    "hash": "b37a6b86f369bb6b1152d0186ef9d875dec4e0c44dc889a5ff7f000dc5b5e2a1",
     "confirmed": [
       {
         "name": "Booster Ignition",
@@ -12,24 +12,9 @@
         ]
       },
       {
-        "name": "Chart a Course",
-        "legs": [
-          "Justin Foscue"
-        ]
-      },
-      {
         "name": "Half-Day Hammer",
         "legs": [
           "Spencer Jones"
-        ]
-      },
-      {
-        "name": "Hitting Apogee",
-        "legs": [
-          "Jake Bauers",
-          "Jos\u00e9 Ram\u00edrez",
-          "Kyle Stowers",
-          "Wyatt Langford"
         ]
       },
       {
@@ -39,27 +24,9 @@
         ]
       },
       {
-        "name": "Mach Breaker",
-        "legs": [
-          "Danny Jansen",
-          "Jake Bauers",
-          "Seiya Suzuki",
-          "Spencer Torkelson"
-        ]
-      },
-      {
         "name": "Nightfall",
         "legs": [
           "Mookie Betts"
-        ]
-      },
-      {
-        "name": "Riding the Jet Stream",
-        "legs": [
-          "Jahmai Jones",
-          "Justin Foscue",
-          "Kyle Schwarber",
-          "Mickey Moniak"
         ]
       },
       {
@@ -75,8 +42,8 @@
         ]
       }
     ],
-    "last_modified": "Tue, 22 Sep 2026 22:03:06 GMT",
-    "checked_at": "2026-09-22T22:05:20.317673+00:00"
+    "last_modified": "Tue, 22 Sep 2026 22:12:49 GMT",
+    "checked_at": "2026-09-22T22:15:16.367665+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8434327a5fc67180a3ec51e8a3cad900dfaf16661b5c5882a1da408b298a2b44",
@@ -130,13 +97,13 @@
         ]
       }
     ],
-    "last_modified": "Tue, 22 Sep 2026 22:03:07 GMT",
-    "checked_at": "2026-09-22T22:05:20.548949+00:00"
+    "last_modified": "Tue, 22 Sep 2026 22:12:49 GMT",
+    "checked_at": "2026-09-22T22:15:16.620986+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 22 Sep 2026 22:03:06 GMT",
-    "checked_at": "2026-09-22T22:05:20.718157+00:00"
+    "last_modified": "Tue, 22 Sep 2026 22:12:49 GMT",
+    "checked_at": "2026-09-22T22:15:16.984981+00:00"
   }
 }
