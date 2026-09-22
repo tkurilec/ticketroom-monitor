@@ -1,16 +1,22 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "1067e7ab7962d5f9c853fcbad90cf535badefa1adb3effad90115653421a2a00",
+    "hash": "1820df7b58ecd9191a4faea4f40a60e64ae0a5e5c8ffea5c3c5616aaaaee92cf",
     "confirmed": [
       {
         "name": "Half-Day Hammer",
         "legs": [
           "Spencer Jones"
         ]
+      },
+      {
+        "name": "The Breakwater",
+        "legs": [
+          "Jake Bauers"
+        ]
       }
     ],
-    "last_modified": "Tue, 22 Sep 2026 14:43:08 GMT",
-    "checked_at": "2026-09-22T14:45:17.680215+00:00"
+    "last_modified": "Tue, 22 Sep 2026 19:37:24 GMT",
+    "checked_at": "2026-09-22T19:40:15.821512+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8434327a5fc67180a3ec51e8a3cad900dfaf16661b5c5882a1da408b298a2b44",
@@ -64,13 +70,13 @@
         ]
       }
     ],
-    "last_modified": "Tue, 22 Sep 2026 14:43:08 GMT",
-    "checked_at": "2026-09-22T14:45:17.795181+00:00"
+    "last_modified": "Tue, 22 Sep 2026 19:37:24 GMT",
+    "checked_at": "2026-09-22T19:40:15.933501+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 22 Sep 2026 14:43:08 GMT",
-    "checked_at": "2026-09-22T14:45:17.882484+00:00"
+    "last_modified": "Tue, 22 Sep 2026 19:37:24 GMT",
+    "checked_at": "2026-09-22T19:40:16.031080+00:00"
   }
 }
