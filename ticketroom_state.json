@@ -1,11 +1,17 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "1820df7b58ecd9191a4faea4f40a60e64ae0a5e5c8ffea5c3c5616aaaaee92cf",
+    "hash": "6dc3c278f05b9861896f202f3a5a44bcb944c060236dc8a3d0abde9fdb01edf2",
     "confirmed": [
       {
         "name": "Half-Day Hammer",
         "legs": [
           "Spencer Jones"
+        ]
+      },
+      {
+        "name": "Landfall",
+        "legs": [
+          "Pete Crow-Armstrong"
         ]
       },
       {
@@ -15,8 +21,8 @@
         ]
       }
     ],
-    "last_modified": "Tue, 22 Sep 2026 19:37:24 GMT",
-    "checked_at": "2026-09-22T19:40:15.821512+00:00"
+    "last_modified": "Tue, 22 Sep 2026 19:57:02 GMT",
+    "checked_at": "2026-09-22T20:00:22.871585+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8434327a5fc67180a3ec51e8a3cad900dfaf16661b5c5882a1da408b298a2b44",
@@ -70,13 +76,13 @@
         ]
       }
     ],
-    "last_modified": "Tue, 22 Sep 2026 19:37:24 GMT",
-    "checked_at": "2026-09-22T19:40:15.933501+00:00"
+    "last_modified": "Tue, 22 Sep 2026 19:57:02 GMT",
+    "checked_at": "2026-09-22T20:00:23.018386+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 22 Sep 2026 19:37:24 GMT",
-    "checked_at": "2026-09-22T19:40:16.031080+00:00"
+    "last_modified": "Tue, 22 Sep 2026 19:57:02 GMT",
+    "checked_at": "2026-09-22T20:00:23.340766+00:00"
   }
 }
