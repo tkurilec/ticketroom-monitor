@@ -9,8 +9,8 @@
         ]
       }
     ],
-    "last_modified": "Mon, 21 Sep 2026 21:53:01 GMT",
-    "checked_at": "2026-09-21T21:55:15.514929+00:00"
+    "last_modified": "Tue, 22 Sep 2026 00:10:28 GMT",
+    "checked_at": "2026-09-22T00:15:15.582106+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8434327a5fc67180a3ec51e8a3cad900dfaf16661b5c5882a1da408b298a2b44",
@@ -64,13 +64,26 @@
         ]
       }
     ],
-    "last_modified": "Mon, 21 Sep 2026 21:53:01 GMT",
-    "checked_at": "2026-09-21T21:55:15.683748+00:00"
+    "last_modified": "Tue, 22 Sep 2026 00:10:28 GMT",
+    "checked_at": "2026-09-22T00:15:15.720741+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Mon, 21 Sep 2026 21:53:01 GMT",
-    "checked_at": "2026-09-21T21:55:15.908913+00:00"
+    "hash": "2cebc98d49dfb6df83bc5f4678eae08e8ffa05313c330e25823af161ac370718",
+    "confirmed": [
+      {
+        "name": "Bell Cow",
+        "legs": [
+          "Blake Corum"
+        ]
+      },
+      {
+        "name": "The Workhorse",
+        "legs": [
+          "Cam Skattebo"
+        ]
+      }
+    ],
+    "last_modified": "Tue, 22 Sep 2026 00:10:28 GMT",
+    "checked_at": "2026-09-22T00:15:16.157446+00:00"
   }
 }
