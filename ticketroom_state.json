@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "276a81dfd572cbf072a8a6c3372597b62dd2b8f33ea54a55d823f27ae6c0f368",
+    "hash": "f96a828cab53ffcb55b4cc92b6dd2f105b435bbf9cafe94bdda5ddfccd1ef42d",
     "confirmed": [
       {
         "name": "Booster Ignition",
@@ -48,6 +48,12 @@
         ]
       },
       {
+        "name": "Nightfall",
+        "legs": [
+          "Mookie Betts"
+        ]
+      },
+      {
         "name": "Riding the Jet Stream",
         "legs": [
           "Jahmai Jones",
@@ -69,8 +75,8 @@
         ]
       }
     ],
-    "last_modified": "Tue, 22 Sep 2026 21:43:42 GMT",
-    "checked_at": "2026-09-22T21:45:17.248405+00:00"
+    "last_modified": "Tue, 22 Sep 2026 22:03:06 GMT",
+    "checked_at": "2026-09-22T22:05:20.317673+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8434327a5fc67180a3ec51e8a3cad900dfaf16661b5c5882a1da408b298a2b44",
@@ -124,13 +130,13 @@
         ]
       }
     ],
-    "last_modified": "Tue, 22 Sep 2026 21:43:42 GMT",
-    "checked_at": "2026-09-22T21:45:17.582265+00:00"
+    "last_modified": "Tue, 22 Sep 2026 22:03:07 GMT",
+    "checked_at": "2026-09-22T22:05:20.548949+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 22 Sep 2026 21:43:42 GMT",
-    "checked_at": "2026-09-22T21:45:17.805581+00:00"
+    "last_modified": "Tue, 22 Sep 2026 22:03:06 GMT",
+    "checked_at": "2026-09-22T22:05:20.718157+00:00"
   }
 }
