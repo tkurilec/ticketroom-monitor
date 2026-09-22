@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "3b2eb2ac413505316366cb4fb6a98ea286b5f2a00c3071a44bc3ae5e4471743b",
+    "hash": "efb97785b4f47b7f6254abada904297cb9cfc41e7c4c3e46ccfc54d58b9f4773",
     "confirmed": [
       {
         "name": "Booster Ignition",
@@ -12,39 +12,9 @@
         ]
       },
       {
-        "name": "Chart a Course",
-        "legs": [
-          "Justin Foscue"
-        ]
-      },
-      {
         "name": "Half-Day Hammer",
         "legs": [
           "Spencer Jones"
-        ]
-      },
-      {
-        "name": "Landfall",
-        "legs": [
-          "Pete Crow-Armstrong"
-        ]
-      },
-      {
-        "name": "Mach Breaker",
-        "legs": [
-          "Danny Jansen",
-          "Jake Bauers",
-          "Seiya Suzuki",
-          "Spencer Torkelson"
-        ]
-      },
-      {
-        "name": "Riding the Jet Stream",
-        "legs": [
-          "Jahmai Jones",
-          "Justin Foscue",
-          "Kyle Schwarber",
-          "Mickey Moniak"
         ]
       },
       {
@@ -60,8 +30,8 @@
         ]
       }
     ],
-    "last_modified": "Tue, 22 Sep 2026 20:07:36 GMT",
-    "checked_at": "2026-09-22T20:09:53.533016+00:00"
+    "last_modified": "Tue, 22 Sep 2026 20:57:55 GMT",
+    "checked_at": "2026-09-22T21:00:25.160602+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8434327a5fc67180a3ec51e8a3cad900dfaf16661b5c5882a1da408b298a2b44",
@@ -115,13 +85,13 @@
         ]
       }
     ],
-    "last_modified": "Tue, 22 Sep 2026 20:07:36 GMT",
-    "checked_at": "2026-09-22T20:09:53.652453+00:00"
+    "last_modified": "Tue, 22 Sep 2026 20:57:55 GMT",
+    "checked_at": "2026-09-22T21:00:25.383197+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 22 Sep 2026 20:07:36 GMT",
-    "checked_at": "2026-09-22T20:09:53.745303+00:00"
+    "last_modified": "Tue, 22 Sep 2026 20:57:55 GMT",
+    "checked_at": "2026-09-22T21:00:25.537391+00:00"
   }
 }
