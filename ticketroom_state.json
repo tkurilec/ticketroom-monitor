@@ -1,9 +1,16 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Tue, 22 Sep 2026 13:52:51 GMT",
-    "checked_at": "2026-09-22T13:55:53.147015+00:00"
+    "hash": "1067e7ab7962d5f9c853fcbad90cf535badefa1adb3effad90115653421a2a00",
+    "confirmed": [
+      {
+        "name": "Half-Day Hammer",
+        "legs": [
+          "Spencer Jones"
+        ]
+      }
+    ],
+    "last_modified": "Tue, 22 Sep 2026 14:43:08 GMT",
+    "checked_at": "2026-09-22T14:45:17.680215+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8434327a5fc67180a3ec51e8a3cad900dfaf16661b5c5882a1da408b298a2b44",
@@ -57,13 +64,13 @@
         ]
       }
     ],
-    "last_modified": "Tue, 22 Sep 2026 13:52:51 GMT",
-    "checked_at": "2026-09-22T13:55:53.339548+00:00"
+    "last_modified": "Tue, 22 Sep 2026 14:43:08 GMT",
+    "checked_at": "2026-09-22T14:45:17.795181+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 22 Sep 2026 13:52:51 GMT",
-    "checked_at": "2026-09-22T13:55:53.448849+00:00"
+    "last_modified": "Tue, 22 Sep 2026 14:43:08 GMT",
+    "checked_at": "2026-09-22T14:45:17.882484+00:00"
   }
 }
