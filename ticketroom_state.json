@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "bb24321a1600fa5c22dd784acced91e5ca575de1e7d82c9f062fb39c8b7414ed",
+    "hash": "a6624b91676e0dd9e1afbbe36f7b028083a31b6f09ae16ab865356313c447fe9",
     "confirmed": [
       {
         "name": "Booster Ignition",
@@ -18,25 +18,49 @@
         ]
       },
       {
+        "name": "Cleared for Launch",
+        "legs": [
+          "Juan Soto",
+          "Kyle Schwarber",
+          "Munetaka Murakami",
+          "Victor Mesa"
+        ]
+      },
+      {
+        "name": "Hitting Apogee",
+        "legs": [
+          "Jake Bauers",
+          "Jonathan Aranda",
+          "Vinnie Pasquantino",
+          "Wyatt Langford"
+        ]
+      },
+      {
+        "name": "The Lighthouse",
+        "legs": [
+          "Victor Mesa"
+        ]
+      },
+      {
         "name": "The Matinee",
         "legs": [
           "Spencer Torkelson"
         ]
       }
     ],
-    "last_modified": "Wed, 23 Sep 2026 20:28:09 GMT",
-    "checked_at": "2026-09-23T20:30:26.027825+00:00"
+    "last_modified": "Wed, 23 Sep 2026 20:53:48 GMT",
+    "checked_at": "2026-09-23T20:55:14.232393+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 23 Sep 2026 20:28:09 GMT",
-    "checked_at": "2026-09-23T20:30:26.347083+00:00"
+    "last_modified": "Wed, 23 Sep 2026 20:53:48 GMT",
+    "checked_at": "2026-09-23T20:55:14.363272+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 23 Sep 2026 20:28:09 GMT",
-    "checked_at": "2026-09-23T20:30:26.632956+00:00"
+    "last_modified": "Wed, 23 Sep 2026 20:53:48 GMT",
+    "checked_at": "2026-09-23T20:55:14.616721+00:00"
   }
 }
