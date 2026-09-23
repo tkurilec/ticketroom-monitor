@@ -1,118 +1,16 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "221311b694cc5039572d7ac08fa4636142f7c3d5d7d143b8ee10dafe8a739649",
+    "hash": "e19e51365463d1f83448b9c2c54a37f71918088c629f05b5845785fe6cdcea7c",
     "confirmed": [
       {
-        "name": "Booster Ignition",
+        "name": "The Matinee",
         "legs": [
-          "Bryce Harper",
-          "Cole Carrigg",
-          "JJ Bleday",
-          "Randal Grichuk"
-        ]
-      },
-      {
-        "name": "Chart a Course",
-        "legs": [
-          "Justin Foscue"
-        ]
-      },
-      {
-        "name": "Cleared for Launch",
-        "legs": [
-          "Jose Siri",
-          "Justin Foscue",
-          "Salvador Perez",
-          "Will Smith"
-        ]
-      },
-      {
-        "name": "Half-Day Hammer",
-        "legs": [
-          "Spencer Jones"
-        ]
-      },
-      {
-        "name": "Hitting Apogee",
-        "legs": [
-          "Jake Bauers",
-          "Jos\u00e9 Ram\u00edrez",
-          "Kyle Stowers",
-          "Wyatt Langford"
-        ]
-      },
-      {
-        "name": "Landfall",
-        "legs": [
-          "Pete Crow-Armstrong"
-        ]
-      },
-      {
-        "name": "Mach Breaker",
-        "legs": [
-          "Danny Jansen",
-          "Jake Bauers",
-          "Seiya Suzuki",
           "Spencer Torkelson"
-        ]
-      },
-      {
-        "name": "Nightfall",
-        "legs": [
-          "Mookie Betts"
-        ]
-      },
-      {
-        "name": "Punching Through the Ceiling",
-        "legs": [
-          "Manny Machado",
-          "Mark Vientos",
-          "Pete Crow-Armstrong",
-          "Yordan Alvarez"
-        ]
-      },
-      {
-        "name": "Reaching for the Stars",
-        "legs": [
-          "Austin Riley",
-          "Bo Bichette",
-          "Kody Clemens",
-          "Pete Crow-Armstrong"
-        ]
-      },
-      {
-        "name": "Riding the Jet Stream",
-        "legs": [
-          "Jahmai Jones",
-          "Justin Foscue",
-          "Kyle Schwarber",
-          "Mickey Moniak"
-        ]
-      },
-      {
-        "name": "Slipping the Surly Bonds",
-        "legs": [
-          "Isaac Paredes",
-          "Jackson Merrill",
-          "Nolan Arenado",
-          "Randal Grichuk"
-        ]
-      },
-      {
-        "name": "The Breakwater",
-        "legs": [
-          "Jake Bauers"
-        ]
-      },
-      {
-        "name": "The Lighthouse",
-        "legs": [
-          "Randal Grichuk"
         ]
       }
     ],
-    "last_modified": "Tue, 22 Sep 2026 23:22:44 GMT",
-    "checked_at": "2026-09-22T23:25:17.256582+00:00"
+    "last_modified": "Wed, 23 Sep 2026 14:48:41 GMT",
+    "checked_at": "2026-09-23T14:50:17.701404+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8434327a5fc67180a3ec51e8a3cad900dfaf16661b5c5882a1da408b298a2b44",
@@ -166,13 +64,13 @@
         ]
       }
     ],
-    "last_modified": "Tue, 22 Sep 2026 23:22:44 GMT",
-    "checked_at": "2026-09-22T23:25:17.561504+00:00"
+    "last_modified": "Wed, 23 Sep 2026 14:48:41 GMT",
+    "checked_at": "2026-09-23T14:50:18.580702+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 22 Sep 2026 23:22:44 GMT",
-    "checked_at": "2026-09-22T23:25:17.821727+00:00"
+    "last_modified": "Wed, 23 Sep 2026 14:48:41 GMT",
+    "checked_at": "2026-09-23T14:50:18.946713+00:00"
   }
 }
