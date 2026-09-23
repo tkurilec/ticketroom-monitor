@@ -1,7 +1,16 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "66ac3d91387f23362517f0c97c560abacad15f4ded745b45b32d5d446b472435",
+    "hash": "bb24321a1600fa5c22dd784acced91e5ca575de1e7d82c9f062fb39c8b7414ed",
     "confirmed": [
+      {
+        "name": "Booster Ignition",
+        "legs": [
+          "Bryce Harper",
+          "Corey Seager",
+          "Jahmai Jones",
+          "Vinnie Pasquantino"
+        ]
+      },
       {
         "name": "Chart a Course",
         "legs": [
@@ -15,19 +24,19 @@
         ]
       }
     ],
-    "last_modified": "Wed, 23 Sep 2026 19:28:38 GMT",
-    "checked_at": "2026-09-23T19:30:21.156006+00:00"
+    "last_modified": "Wed, 23 Sep 2026 20:28:09 GMT",
+    "checked_at": "2026-09-23T20:30:26.027825+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 23 Sep 2026 19:28:38 GMT",
-    "checked_at": "2026-09-23T19:30:21.428018+00:00"
+    "last_modified": "Wed, 23 Sep 2026 20:28:09 GMT",
+    "checked_at": "2026-09-23T20:30:26.347083+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 23 Sep 2026 19:28:38 GMT",
-    "checked_at": "2026-09-23T19:30:21.651669+00:00"
+    "last_modified": "Wed, 23 Sep 2026 20:28:09 GMT",
+    "checked_at": "2026-09-23T20:30:26.632956+00:00"
   }
 }
