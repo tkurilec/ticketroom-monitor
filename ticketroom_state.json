@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "40770374696de19d67bed2c6bce00db46f04e0de06a2b4a660f843eb2a64aa67",
+    "hash": "29b75f73711edbbfb0e309fae294c51fd96b63a190ee66025254ab148424502e",
     "confirmed": [
       {
         "name": "Booster Ignition",
@@ -36,12 +36,27 @@
         ]
       },
       {
+        "name": "Riding the Jet Stream",
+        "legs": [
+          "Cal Raleigh",
+          "Jose Siri",
+          "Mickey Moniak",
+          "Mookie Betts"
+        ]
+      },
+      {
         "name": "Slipping the Surly Bonds",
         "legs": [
           "Austin Riley",
           "Francisco Lindor",
           "Griffin Conine",
           "Victor Mesa"
+        ]
+      },
+      {
+        "name": "Squared Away",
+        "legs": [
+          "Mookie Betts"
         ]
       },
       {
@@ -61,21 +76,27 @@
         "legs": [
           "Spencer Torkelson"
         ]
+      },
+      {
+        "name": "The Witching Hour",
+        "legs": [
+          "Will Smith"
+        ]
       }
     ],
-    "last_modified": "Wed, 23 Sep 2026 21:18:05 GMT",
-    "checked_at": "2026-09-23T21:20:16.276493+00:00"
+    "last_modified": "Wed, 23 Sep 2026 22:43:34 GMT",
+    "checked_at": "2026-09-23T22:45:19.652202+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 23 Sep 2026 21:18:05 GMT",
-    "checked_at": "2026-09-23T21:20:16.407899+00:00"
+    "last_modified": "Wed, 23 Sep 2026 22:43:34 GMT",
+    "checked_at": "2026-09-23T22:45:20.052761+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 23 Sep 2026 21:18:05 GMT",
-    "checked_at": "2026-09-23T21:20:16.502877+00:00"
+    "last_modified": "Wed, 23 Sep 2026 22:43:34 GMT",
+    "checked_at": "2026-09-23T22:45:20.340570+00:00"
   }
 }
