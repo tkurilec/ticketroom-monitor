@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "d72afb03071951a4a5d1883470596c245959d1fe6895dc385723d89304ba0e6a",
+    "hash": "7424097cc37c50db2870882977a14102540106b29625809ebba061397fce541e",
     "confirmed": [
       {
         "name": "Booster Ignition",
@@ -9,6 +9,12 @@
           "Ian Happ",
           "Justin Foscue",
           "Vinnie Pasquantino"
+        ]
+      },
+      {
+        "name": "Chart a Course",
+        "legs": [
+          "Jake Bauers"
         ]
       },
       {
@@ -33,8 +39,8 @@
         ]
       }
     ],
-    "last_modified": "Thu, 24 Sep 2026 17:01:42 GMT",
-    "checked_at": "2026-09-24T17:05:21.728236+00:00"
+    "last_modified": "Thu, 24 Sep 2026 19:27:58 GMT",
+    "checked_at": "2026-09-24T19:30:19.763954+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "2ebf8682bbd48ed48ea9b4701e23b6e490b538148bed7495b66e553321189122",
@@ -58,13 +64,13 @@
         ]
       }
     ],
-    "last_modified": "Thu, 24 Sep 2026 17:01:42 GMT",
-    "checked_at": "2026-09-24T17:05:22.170670+00:00"
+    "last_modified": "Thu, 24 Sep 2026 19:27:58 GMT",
+    "checked_at": "2026-09-24T19:30:19.981400+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Thu, 24 Sep 2026 17:01:42 GMT",
-    "checked_at": "2026-09-24T17:05:22.430623+00:00"
+    "last_modified": "Thu, 24 Sep 2026 19:27:58 GMT",
+    "checked_at": "2026-09-24T19:30:20.145887+00:00"
   }
 }
