@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "2b57c43a48738a4fefb57934579a8045bc3ff4f1174cd1df421381b5fa778f28",
+    "hash": "d8a8ddd889491dde9ec1c14f03e312559a247309376d8714e9bb6147d6df135d",
     "confirmed": [
       {
         "name": "Chart a Course",
@@ -72,12 +72,6 @@
         ]
       },
       {
-        "name": "The Witching Hour",
-        "legs": [
-          "Will Smith"
-        ]
-      },
-      {
         "name": "Upper Deck Bound",
         "legs": [
           "Cal Raleigh",
@@ -87,19 +81,19 @@
         ]
       }
     ],
-    "last_modified": "Thu, 24 Sep 2026 00:13:53 GMT",
-    "checked_at": "2026-09-24T00:15:19.742601+00:00"
+    "last_modified": "Thu, 24 Sep 2026 00:18:49 GMT",
+    "checked_at": "2026-09-24T00:20:16.061114+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Thu, 24 Sep 2026 00:13:53 GMT",
-    "checked_at": "2026-09-24T00:15:19.998772+00:00"
+    "last_modified": "Thu, 24 Sep 2026 00:18:49 GMT",
+    "checked_at": "2026-09-24T00:20:16.295124+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Thu, 24 Sep 2026 00:13:53 GMT",
-    "checked_at": "2026-09-24T00:15:20.339689+00:00"
+    "last_modified": "Thu, 24 Sep 2026 00:18:49 GMT",
+    "checked_at": "2026-09-24T00:20:16.489887+00:00"
   }
 }
