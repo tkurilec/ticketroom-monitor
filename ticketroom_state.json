@@ -102,19 +102,26 @@
         ]
       }
     ],
-    "last_modified": "Thu, 24 Sep 2026 00:23:59 GMT",
-    "checked_at": "2026-09-24T00:25:13.455144+00:00"
+    "last_modified": "Thu, 24 Sep 2026 01:09:25 GMT",
+    "checked_at": "2026-09-24T01:10:16.928636+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Thu, 24 Sep 2026 00:23:59 GMT",
-    "checked_at": "2026-09-24T00:25:13.570808+00:00"
+    "hash": "9ce5e3534a0956db906392ea0911b40ad9b7fec33c7757d3ac3e5ac78fc48410",
+    "confirmed": [
+      {
+        "name": "Target Man",
+        "legs": [
+          "Danny Musovski"
+        ]
+      }
+    ],
+    "last_modified": "Thu, 24 Sep 2026 01:09:25 GMT",
+    "checked_at": "2026-09-24T01:10:17.945344+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Thu, 24 Sep 2026 00:23:59 GMT",
-    "checked_at": "2026-09-24T00:25:13.661859+00:00"
+    "last_modified": "Thu, 24 Sep 2026 01:09:25 GMT",
+    "checked_at": "2026-09-24T01:10:18.185465+00:00"
   }
 }
