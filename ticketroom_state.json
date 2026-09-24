@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "29b75f73711edbbfb0e309fae294c51fd96b63a190ee66025254ab148424502e",
+    "hash": "bc60f5acade8b43e4e864f339c8c5a5e6a8acc593709cd43bf25602f3f128bc5",
     "confirmed": [
       {
         "name": "Booster Ignition",
@@ -33,6 +33,15 @@
           "Jonathan Aranda",
           "Vinnie Pasquantino",
           "Wyatt Langford"
+        ]
+      },
+      {
+        "name": "Mach Breaker",
+        "legs": [
+          "Cole Carrigg",
+          "Jackson Merrill",
+          "Kyle Stowers",
+          "Yordan Alvarez"
         ]
       },
       {
@@ -82,21 +91,30 @@
         "legs": [
           "Will Smith"
         ]
+      },
+      {
+        "name": "Upper Deck Bound",
+        "legs": [
+          "Colson Montgomery",
+          "Isaac Paredes",
+          "Mookie Betts",
+          "Pete Crow-Armstrong"
+        ]
       }
     ],
-    "last_modified": "Wed, 23 Sep 2026 22:43:34 GMT",
-    "checked_at": "2026-09-23T22:45:19.652202+00:00"
+    "last_modified": "Wed, 23 Sep 2026 23:58:56 GMT",
+    "checked_at": "2026-09-24T00:00:22.421240+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 23 Sep 2026 22:43:34 GMT",
-    "checked_at": "2026-09-23T22:45:20.052761+00:00"
+    "last_modified": "Wed, 23 Sep 2026 23:58:55 GMT",
+    "checked_at": "2026-09-24T00:00:22.830950+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Wed, 23 Sep 2026 22:43:34 GMT",
-    "checked_at": "2026-09-23T22:45:20.340570+00:00"
+    "last_modified": "Wed, 23 Sep 2026 23:58:56 GMT",
+    "checked_at": "2026-09-24T00:00:23.058681+00:00"
   }
 }
