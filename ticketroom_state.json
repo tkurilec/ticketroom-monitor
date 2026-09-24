@@ -1,7 +1,16 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "17100faeb5e0a8b90a91ac600fe8c42f90172790bae8387ae2432eb92b453001",
+    "hash": "d72afb03071951a4a5d1883470596c245959d1fe6895dc385723d89304ba0e6a",
     "confirmed": [
+      {
+        "name": "Booster Ignition",
+        "legs": [
+          "Corbin Carroll",
+          "Ian Happ",
+          "Justin Foscue",
+          "Vinnie Pasquantino"
+        ]
+      },
       {
         "name": "Cleared for Launch",
         "legs": [
@@ -12,20 +21,20 @@
         ]
       },
       {
+        "name": "The Big Carry",
+        "legs": [
+          "Hunter Goodman"
+        ]
+      },
+      {
         "name": "The Breakwater",
         "legs": [
           "Justin Foscue"
         ]
-      },
-      {
-        "name": "The Early Bird",
-        "legs": [
-          "Jake Burger"
-        ]
       }
     ],
-    "last_modified": "Thu, 24 Sep 2026 15:53:05 GMT",
-    "checked_at": "2026-09-24T15:55:17.077093+00:00"
+    "last_modified": "Thu, 24 Sep 2026 16:36:54 GMT",
+    "checked_at": "2026-09-24T16:40:22.133008+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "2ebf8682bbd48ed48ea9b4701e23b6e490b538148bed7495b66e553321189122",
@@ -49,13 +58,13 @@
         ]
       }
     ],
-    "last_modified": "Thu, 24 Sep 2026 15:53:05 GMT",
-    "checked_at": "2026-09-24T15:55:17.200534+00:00"
+    "last_modified": "Thu, 24 Sep 2026 16:36:54 GMT",
+    "checked_at": "2026-09-24T16:40:22.698878+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Thu, 24 Sep 2026 15:53:05 GMT",
-    "checked_at": "2026-09-24T15:55:17.476336+00:00"
+    "last_modified": "Thu, 24 Sep 2026 16:36:54 GMT",
+    "checked_at": "2026-09-24T16:40:22.958500+00:00"
   }
 }
