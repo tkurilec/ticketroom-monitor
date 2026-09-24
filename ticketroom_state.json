@@ -1,109 +1,31 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "bc60f5acade8b43e4e864f339c8c5a5e6a8acc593709cd43bf25602f3f128bc5",
+    "hash": "17100faeb5e0a8b90a91ac600fe8c42f90172790bae8387ae2432eb92b453001",
     "confirmed": [
-      {
-        "name": "Booster Ignition",
-        "legs": [
-          "Bryce Harper",
-          "Corey Seager",
-          "Jahmai Jones",
-          "Vinnie Pasquantino"
-        ]
-      },
-      {
-        "name": "Chart a Course",
-        "legs": [
-          "Vinnie Pasquantino"
-        ]
-      },
       {
         "name": "Cleared for Launch",
         "legs": [
-          "Juan Soto",
-          "Kyle Schwarber",
+          "Hunter Goodman",
+          "Justin Foscue",
           "Munetaka Murakami",
-          "Victor Mesa"
-        ]
-      },
-      {
-        "name": "Hitting Apogee",
-        "legs": [
-          "Jake Bauers",
-          "Jonathan Aranda",
-          "Vinnie Pasquantino",
-          "Wyatt Langford"
-        ]
-      },
-      {
-        "name": "Mach Breaker",
-        "legs": [
-          "Cole Carrigg",
-          "Jackson Merrill",
-          "Kyle Stowers",
-          "Yordan Alvarez"
-        ]
-      },
-      {
-        "name": "Riding the Jet Stream",
-        "legs": [
-          "Cal Raleigh",
-          "Jose Siri",
-          "Mickey Moniak",
-          "Mookie Betts"
-        ]
-      },
-      {
-        "name": "Slipping the Surly Bonds",
-        "legs": [
-          "Austin Riley",
-          "Francisco Lindor",
-          "Griffin Conine",
-          "Victor Mesa"
-        ]
-      },
-      {
-        "name": "Squared Away",
-        "legs": [
-          "Mookie Betts"
-        ]
-      },
-      {
-        "name": "The Helm",
-        "legs": [
-          "Kyle Stowers"
-        ]
-      },
-      {
-        "name": "The Lighthouse",
-        "legs": [
-          "Victor Mesa"
-        ]
-      },
-      {
-        "name": "The Matinee",
-        "legs": [
-          "Spencer Torkelson"
-        ]
-      },
-      {
-        "name": "The Witching Hour",
-        "legs": [
-          "Will Smith"
-        ]
-      },
-      {
-        "name": "Upper Deck Bound",
-        "legs": [
-          "Colson Montgomery",
-          "Isaac Paredes",
-          "Mookie Betts",
           "Pete Crow-Armstrong"
+        ]
+      },
+      {
+        "name": "The Breakwater",
+        "legs": [
+          "Justin Foscue"
+        ]
+      },
+      {
+        "name": "The Early Bird",
+        "legs": [
+          "Jake Burger"
         ]
       }
     ],
-    "last_modified": "Thu, 24 Sep 2026 01:14:08 GMT",
-    "checked_at": "2026-09-24T01:15:16.299952+00:00"
+    "last_modified": "Thu, 24 Sep 2026 15:53:05 GMT",
+    "checked_at": "2026-09-24T15:55:17.077093+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "2ebf8682bbd48ed48ea9b4701e23b6e490b538148bed7495b66e553321189122",
@@ -127,13 +49,13 @@
         ]
       }
     ],
-    "last_modified": "Thu, 24 Sep 2026 01:14:08 GMT",
-    "checked_at": "2026-09-24T01:15:17.315104+00:00"
+    "last_modified": "Thu, 24 Sep 2026 15:53:05 GMT",
+    "checked_at": "2026-09-24T15:55:17.200534+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Thu, 24 Sep 2026 01:14:08 GMT",
-    "checked_at": "2026-09-24T01:15:17.740151+00:00"
+    "last_modified": "Thu, 24 Sep 2026 15:53:05 GMT",
+    "checked_at": "2026-09-24T15:55:17.476336+00:00"
   }
 }
