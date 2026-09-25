@@ -63,38 +63,19 @@
         ]
       }
     ],
-    "last_modified": "Thu, 24 Sep 2026 22:08:14 GMT",
-    "checked_at": "2026-09-24T22:10:15.494652+00:00"
+    "last_modified": "Fri, 25 Sep 2026 00:02:58 GMT",
+    "checked_at": "2026-09-25T00:05:13.865894+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "2ebf8682bbd48ed48ea9b4701e23b6e490b538148bed7495b66e553321189122",
-    "confirmed": [
-      {
-        "name": "Target Man",
-        "legs": [
-          "Danny Musovski"
-        ]
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Sergi Solans"
-        ]
-      },
-      {
-        "name": "Under Lights",
-        "legs": [
-          "Rafael Jauregui"
-        ]
-      }
-    ],
-    "last_modified": "Thu, 24 Sep 2026 22:08:14 GMT",
-    "checked_at": "2026-09-24T22:10:15.992739+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Fri, 25 Sep 2026 00:02:58 GMT",
+    "checked_at": "2026-09-25T00:05:13.976687+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Thu, 24 Sep 2026 22:08:15 GMT",
-    "checked_at": "2026-09-24T22:10:16.096166+00:00"
+    "last_modified": "Fri, 25 Sep 2026 00:02:58 GMT",
+    "checked_at": "2026-09-25T00:05:14.102159+00:00"
   }
 }
