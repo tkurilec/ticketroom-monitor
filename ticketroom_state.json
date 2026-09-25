@@ -1,81 +1,20 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "d4c638cb010444859e8834ea1844a10fbab6cead81eb9e2134e8d9dd2a06b65b",
-    "confirmed": [
-      {
-        "name": "Booster Ignition",
-        "legs": [
-          "Corbin Carroll",
-          "Ian Happ",
-          "Justin Foscue",
-          "Vinnie Pasquantino"
-        ]
-      },
-      {
-        "name": "Chart a Course",
-        "legs": [
-          "Victor Mesa"
-        ]
-      },
-      {
-        "name": "Cleared for Launch",
-        "legs": [
-          "Hunter Goodman",
-          "Justin Foscue",
-          "Munetaka Murakami",
-          "Pete Crow-Armstrong"
-        ]
-      },
-      {
-        "name": "Hitting Apogee",
-        "legs": [
-          "Jake Bauers",
-          "Mike Yastrzemski",
-          "Victor Mesa",
-          "Wilyer Abreu"
-        ]
-      },
-      {
-        "name": "Mach Breaker",
-        "legs": [
-          "Drake Baldwin",
-          "Jos\u00e9 Ram\u00edrez",
-          "Kyle Schwarber",
-          "Victor Mesa"
-        ]
-      },
-      {
-        "name": "One Swing Free",
-        "legs": [
-          "Kyle Tucker"
-        ]
-      },
-      {
-        "name": "The Big Carry",
-        "legs": [
-          "Hunter Goodman"
-        ]
-      },
-      {
-        "name": "The Breakwater",
-        "legs": [
-          "Justin Foscue"
-        ]
-      }
-    ],
-    "last_modified": "Fri, 25 Sep 2026 03:59:06 GMT",
-    "checked_at": "2026-09-25T04:00:26.028869+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Fri, 25 Sep 2026 14:23:02 GMT",
+    "checked_at": "2026-09-25T14:25:20.563955+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 25 Sep 2026 03:59:06 GMT",
-    "checked_at": "2026-09-25T04:00:26.492442+00:00"
+    "last_modified": "Fri, 25 Sep 2026 14:23:02 GMT",
+    "checked_at": "2026-09-25T14:25:21.082121+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 25 Sep 2026 03:59:06 GMT",
-    "checked_at": "2026-09-25T04:00:27.185648+00:00"
+    "last_modified": "Fri, 25 Sep 2026 14:23:02 GMT",
+    "checked_at": "2026-09-25T14:25:21.318998+00:00"
   }
 }
