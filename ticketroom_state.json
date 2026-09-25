@@ -1,20 +1,27 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Fri, 25 Sep 2026 14:23:02 GMT",
-    "checked_at": "2026-09-25T14:25:20.563955+00:00"
+    "hash": "42b6b7294a04e0d05a13dc28b00bc27b779fabfca34b5f03df0df8c6b1bba57f",
+    "confirmed": [
+      {
+        "name": "The Free Roll",
+        "legs": [
+          "Pete Alonso"
+        ]
+      }
+    ],
+    "last_modified": "Fri, 25 Sep 2026 17:17:34 GMT",
+    "checked_at": "2026-09-25T17:20:19.946543+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 25 Sep 2026 14:23:02 GMT",
-    "checked_at": "2026-09-25T14:25:21.082121+00:00"
+    "last_modified": "Fri, 25 Sep 2026 17:17:34 GMT",
+    "checked_at": "2026-09-25T17:20:20.460545+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 25 Sep 2026 14:23:02 GMT",
-    "checked_at": "2026-09-25T14:25:21.318998+00:00"
+    "last_modified": "Fri, 25 Sep 2026 17:17:34 GMT",
+    "checked_at": "2026-09-25T17:20:20.789283+00:00"
   }
 }
