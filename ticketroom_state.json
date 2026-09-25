@@ -1,7 +1,13 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "42b6b7294a04e0d05a13dc28b00bc27b779fabfca34b5f03df0df8c6b1bba57f",
+    "hash": "857ec8b1551ca3fc40fa83ce7b28cabd2f4b6178e93fcd6c11d03f4765e16cfd",
     "confirmed": [
+      {
+        "name": "Hold Fast",
+        "legs": [
+          "Mike Yastrzemski"
+        ]
+      },
       {
         "name": "The Free Roll",
         "legs": [
@@ -9,8 +15,8 @@
         ]
       }
     ],
-    "last_modified": "Fri, 25 Sep 2026 17:57:28 GMT",
-    "checked_at": "2026-09-25T18:00:22.166765+00:00"
+    "last_modified": "Fri, 25 Sep 2026 19:18:50 GMT",
+    "checked_at": "2026-09-25T19:20:18.847954+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "2dc6f7d0fb802ad71b7ad6af4cc3b6ccf4cdb307bf62962ee62b01a5103be3b0",
@@ -46,13 +52,13 @@
         ]
       }
     ],
-    "last_modified": "Fri, 25 Sep 2026 17:57:28 GMT",
-    "checked_at": "2026-09-25T18:00:23.095986+00:00"
+    "last_modified": "Fri, 25 Sep 2026 19:18:50 GMT",
+    "checked_at": "2026-09-25T19:20:19.621808+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 25 Sep 2026 17:57:28 GMT",
-    "checked_at": "2026-09-25T18:00:23.491675+00:00"
+    "last_modified": "Fri, 25 Sep 2026 19:18:50 GMT",
+    "checked_at": "2026-09-25T19:20:19.811857+00:00"
   }
 }
