@@ -9,19 +9,38 @@
         ]
       }
     ],
-    "last_modified": "Fri, 25 Sep 2026 17:17:34 GMT",
-    "checked_at": "2026-09-25T17:20:19.946543+00:00"
+    "last_modified": "Fri, 25 Sep 2026 17:52:48 GMT",
+    "checked_at": "2026-09-25T17:55:13.446003+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Fri, 25 Sep 2026 17:17:34 GMT",
-    "checked_at": "2026-09-25T17:20:20.460545+00:00"
+    "hash": "cb98273d30b06b3a3ff74df33b47be7247420b72536c19c5fac0803411674506",
+    "confirmed": [
+      {
+        "name": "Early Doors",
+        "legs": [
+          "Michael Olise"
+        ]
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Kylian Mbappe"
+        ]
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Ousmane Dembele"
+        ]
+      }
+    ],
+    "last_modified": "Fri, 25 Sep 2026 17:52:48 GMT",
+    "checked_at": "2026-09-25T17:55:15.110064+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 25 Sep 2026 17:17:34 GMT",
-    "checked_at": "2026-09-25T17:20:20.789283+00:00"
+    "last_modified": "Fri, 25 Sep 2026 17:52:48 GMT",
+    "checked_at": "2026-09-25T17:55:15.476798+00:00"
   }
 }
