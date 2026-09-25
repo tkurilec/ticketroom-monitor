@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "0e08837146365aebabc989d8827cf5e3226fee5930e624d2f067e72e86b68576",
+    "hash": "22a63b8b64ccdb80c02986eab3d7099ab1f2c54000246228bf741499d9e24247",
     "confirmed": [
       {
         "name": "Booster Ignition",
@@ -30,6 +30,15 @@
         "name": "Hold Fast",
         "legs": [
           "Jos\u00e9 Ram\u00edrez"
+        ]
+      },
+      {
+        "name": "Mach Breaker",
+        "legs": [
+          "David Fry",
+          "Jackson Merrill",
+          "Randy Arozarena",
+          "Shea Langeliers"
         ]
       },
       {
@@ -75,19 +84,19 @@
         ]
       }
     ],
-    "last_modified": "Fri, 25 Sep 2026 21:53:36 GMT",
-    "checked_at": "2026-09-25T21:55:15.538571+00:00"
+    "last_modified": "Fri, 25 Sep 2026 22:28:35 GMT",
+    "checked_at": "2026-09-25T22:30:19.619408+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 25 Sep 2026 21:53:36 GMT",
-    "checked_at": "2026-09-25T21:55:15.913819+00:00"
+    "last_modified": "Fri, 25 Sep 2026 22:28:35 GMT",
+    "checked_at": "2026-09-25T22:30:19.867786+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 25 Sep 2026 21:53:36 GMT",
-    "checked_at": "2026-09-25T21:55:16.089070+00:00"
+    "last_modified": "Fri, 25 Sep 2026 22:28:35 GMT",
+    "checked_at": "2026-09-25T22:30:20.134679+00:00"
   }
 }
