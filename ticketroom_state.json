@@ -9,16 +9,28 @@
         ]
       }
     ],
-    "last_modified": "Fri, 25 Sep 2026 17:52:48 GMT",
-    "checked_at": "2026-09-25T17:55:13.446003+00:00"
+    "last_modified": "Fri, 25 Sep 2026 17:57:28 GMT",
+    "checked_at": "2026-09-25T18:00:22.166765+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "cb98273d30b06b3a3ff74df33b47be7247420b72536c19c5fac0803411674506",
+    "hash": "2dc6f7d0fb802ad71b7ad6af4cc3b6ccf4cdb307bf62962ee62b01a5103be3b0",
     "confirmed": [
+      {
+        "name": "Back Post",
+        "legs": [
+          "Moise Kean"
+        ]
+      },
       {
         "name": "Early Doors",
         "legs": [
           "Michael Olise"
+        ]
+      },
+      {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Francesco Pio Esposito"
         ]
       },
       {
@@ -34,13 +46,13 @@
         ]
       }
     ],
-    "last_modified": "Fri, 25 Sep 2026 17:52:48 GMT",
-    "checked_at": "2026-09-25T17:55:15.110064+00:00"
+    "last_modified": "Fri, 25 Sep 2026 17:57:28 GMT",
+    "checked_at": "2026-09-25T18:00:23.095986+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 25 Sep 2026 17:52:48 GMT",
-    "checked_at": "2026-09-25T17:55:15.476798+00:00"
+    "last_modified": "Fri, 25 Sep 2026 17:57:28 GMT",
+    "checked_at": "2026-09-25T18:00:23.491675+00:00"
   }
 }
