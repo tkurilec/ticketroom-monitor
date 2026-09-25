@@ -1,9 +1,33 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "857ec8b1551ca3fc40fa83ce7b28cabd2f4b6178e93fcd6c11d03f4765e16cfd",
+    "hash": "d21328920e0f5831eedc4a0a56f0b87256f0cd9db8913643b63e8315df105cc7",
     "confirmed": [
       {
-        "name": "Hold Fast",
+        "name": "Booster Ignition",
+        "legs": [
+          "Brandon Lowe",
+          "Bryce Harper",
+          "Iv\u00e1n Herrera",
+          "Matt Olson"
+        ]
+      },
+      {
+        "name": "Chart a Course",
+        "legs": [
+          "Iv\u00e1n Herrera"
+        ]
+      },
+      {
+        "name": "Hitting Apogee",
+        "legs": [
+          "Davis Schneider",
+          "Iv\u00e1n Herrera",
+          "Kevin McGonigle",
+          "Kyle Schwarber"
+        ]
+      },
+      {
+        "name": "Squared Away",
         "legs": [
           "Mike Yastrzemski"
         ]
@@ -15,8 +39,8 @@
         ]
       }
     ],
-    "last_modified": "Fri, 25 Sep 2026 19:18:50 GMT",
-    "checked_at": "2026-09-25T19:20:18.847954+00:00"
+    "last_modified": "Fri, 25 Sep 2026 19:47:12 GMT",
+    "checked_at": "2026-09-25T19:50:16.968413+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "2dc6f7d0fb802ad71b7ad6af4cc3b6ccf4cdb307bf62962ee62b01a5103be3b0",
@@ -52,13 +76,13 @@
         ]
       }
     ],
-    "last_modified": "Fri, 25 Sep 2026 19:18:50 GMT",
-    "checked_at": "2026-09-25T19:20:19.621808+00:00"
+    "last_modified": "Fri, 25 Sep 2026 19:47:12 GMT",
+    "checked_at": "2026-09-25T19:50:17.275099+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 25 Sep 2026 19:18:50 GMT",
-    "checked_at": "2026-09-25T19:20:19.811857+00:00"
+    "last_modified": "Fri, 25 Sep 2026 19:47:12 GMT",
+    "checked_at": "2026-09-25T19:50:17.405603+00:00"
   }
 }
