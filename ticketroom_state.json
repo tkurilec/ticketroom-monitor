@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "405072891a6286ea4fd3f2edd7e4a9569c2a615207377b06480deb0a2940a1e6",
+    "hash": "0e08837146365aebabc989d8827cf5e3226fee5930e624d2f067e72e86b68576",
     "confirmed": [
       {
         "name": "Booster Ignition",
@@ -33,6 +33,21 @@
         ]
       },
       {
+        "name": "Out of Sight",
+        "legs": [
+          "Shea Langeliers"
+        ]
+      },
+      {
+        "name": "Punching Through the Ceiling",
+        "legs": [
+          "Drake Baldwin",
+          "Jo Adell",
+          "Shea Langeliers",
+          "Wyatt Langford"
+        ]
+      },
+      {
         "name": "Squared Away",
         "legs": [
           "Mike Yastrzemski"
@@ -45,6 +60,12 @@
         ]
       },
       {
+        "name": "The Helm",
+        "legs": [
+          "Shea Langeliers"
+        ]
+      },
+      {
         "name": "Upper Deck Bound",
         "legs": [
           "Eugenio Su\u00e1rez",
@@ -54,19 +75,19 @@
         ]
       }
     ],
-    "last_modified": "Fri, 25 Sep 2026 21:28:01 GMT",
-    "checked_at": "2026-09-25T21:30:20.842055+00:00"
+    "last_modified": "Fri, 25 Sep 2026 21:53:36 GMT",
+    "checked_at": "2026-09-25T21:55:15.538571+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 25 Sep 2026 21:28:01 GMT",
-    "checked_at": "2026-09-25T21:30:21.007457+00:00"
+    "last_modified": "Fri, 25 Sep 2026 21:53:36 GMT",
+    "checked_at": "2026-09-25T21:55:15.913819+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 25 Sep 2026 21:28:01 GMT",
-    "checked_at": "2026-09-25T21:30:21.121926+00:00"
+    "last_modified": "Fri, 25 Sep 2026 21:53:36 GMT",
+    "checked_at": "2026-09-25T21:55:16.089070+00:00"
   }
 }
