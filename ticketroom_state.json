@@ -63,32 +63,19 @@
         ]
       }
     ],
-    "last_modified": "Fri, 25 Sep 2026 00:12:53 GMT",
-    "checked_at": "2026-09-25T00:15:14.763553+00:00"
+    "last_modified": "Fri, 25 Sep 2026 03:59:06 GMT",
+    "checked_at": "2026-09-25T04:00:26.028869+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 25 Sep 2026 00:12:53 GMT",
-    "checked_at": "2026-09-25T00:15:14.959004+00:00"
+    "last_modified": "Fri, 25 Sep 2026 03:59:06 GMT",
+    "checked_at": "2026-09-25T04:00:26.492442+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "810e57ac57c1372ef196cfb46c3b8f1efbf56ac2e4acc1585dd592b166b54b2b",
-    "confirmed": [
-      {
-        "name": "Bell Cow",
-        "legs": [
-          "Kyle Pitts"
-        ]
-      },
-      {
-        "name": "The Workhorse",
-        "legs": [
-          "MarShawn Lloyd"
-        ]
-      }
-    ],
-    "last_modified": "Fri, 25 Sep 2026 00:12:53 GMT",
-    "checked_at": "2026-09-25T00:15:15.356905+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Fri, 25 Sep 2026 03:59:06 GMT",
+    "checked_at": "2026-09-25T04:00:27.185648+00:00"
   }
 }
