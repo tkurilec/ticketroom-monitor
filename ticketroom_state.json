@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "99b5312818116845eaf41faf89f07f14143815bf708bf9e221b0533cd9bb0acb",
+    "hash": "405072891a6286ea4fd3f2edd7e4a9569c2a615207377b06480deb0a2940a1e6",
     "confirmed": [
       {
         "name": "Booster Ignition",
@@ -27,6 +27,12 @@
         ]
       },
       {
+        "name": "Hold Fast",
+        "legs": [
+          "Jos\u00e9 Ram\u00edrez"
+        ]
+      },
+      {
         "name": "Squared Away",
         "legs": [
           "Mike Yastrzemski"
@@ -48,8 +54,8 @@
         ]
       }
     ],
-    "last_modified": "Fri, 25 Sep 2026 20:07:45 GMT",
-    "checked_at": "2026-09-25T20:10:15.358685+00:00"
+    "last_modified": "Fri, 25 Sep 2026 20:43:11 GMT",
+    "checked_at": "2026-09-25T20:45:17.324200+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "2dc6f7d0fb802ad71b7ad6af4cc3b6ccf4cdb307bf62962ee62b01a5103be3b0",
@@ -85,13 +91,13 @@
         ]
       }
     ],
-    "last_modified": "Fri, 25 Sep 2026 20:07:46 GMT",
-    "checked_at": "2026-09-25T20:10:15.451099+00:00"
+    "last_modified": "Fri, 25 Sep 2026 20:43:11 GMT",
+    "checked_at": "2026-09-25T20:45:17.610811+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 25 Sep 2026 20:07:46 GMT",
-    "checked_at": "2026-09-25T20:10:15.555799+00:00"
+    "last_modified": "Fri, 25 Sep 2026 20:43:11 GMT",
+    "checked_at": "2026-09-25T20:45:17.877932+00:00"
   }
 }
