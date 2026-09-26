@@ -1,9 +1,16 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Sat, 26 Sep 2026 17:48:38 GMT",
-    "checked_at": "2026-09-26T17:50:17.699673+00:00"
+    "hash": "2eb265a0c28043e0f9ec7e82d2fbc2c5ba31edf64aa149d9cae1e2cefb90e3f5",
+    "confirmed": [
+      {
+        "name": "Squared Away",
+        "legs": [
+          "Vinnie Pasquantino"
+        ]
+      }
+    ],
+    "last_modified": "Sat, 26 Sep 2026 18:47:09 GMT",
+    "checked_at": "2026-09-26T18:50:17.396941+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "412a7026da4d97deb1281846bdb02609897c9d6c002a88066281272cf73ef4da",
@@ -21,13 +28,13 @@
         ]
       }
     ],
-    "last_modified": "Sat, 26 Sep 2026 17:48:38 GMT",
-    "checked_at": "2026-09-26T17:50:18.473004+00:00"
+    "last_modified": "Sat, 26 Sep 2026 18:47:09 GMT",
+    "checked_at": "2026-09-26T18:50:17.638462+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 26 Sep 2026 17:48:38 GMT",
-    "checked_at": "2026-09-26T17:50:18.704172+00:00"
+    "last_modified": "Sat, 26 Sep 2026 18:47:09 GMT",
+    "checked_at": "2026-09-26T18:50:17.822422+00:00"
   }
 }
