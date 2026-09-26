@@ -87,11 +87,11 @@
         ]
       }
     ],
-    "last_modified": "Sat, 26 Sep 2026 23:18:02 GMT",
-    "checked_at": "2026-09-26T23:20:17.630457+00:00"
+    "last_modified": "Sat, 26 Sep 2026 23:52:47 GMT",
+    "checked_at": "2026-09-26T23:55:12.201714+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "21f91200aab1db9ef7d53d8c6f6e46297ebc9dfcadcec6eed47221c8c97f616a",
+    "hash": "ca4701b3c9407733f2ed2a13af8bd8308af8a3d9db004ca21e640ab924ed44f4",
     "confirmed": [
       {
         "name": "Early Doors",
@@ -112,6 +112,18 @@
         ]
       },
       {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Sam Surridge"
+        ]
+      },
+      {
+        "name": "The Nine",
+        "legs": [
+          "Kelvin Yeboah"
+        ]
+      },
+      {
         "name": "The Poacher",
         "legs": [
           "Harry Kane"
@@ -124,13 +136,13 @@
         ]
       }
     ],
-    "last_modified": "Sat, 26 Sep 2026 23:18:02 GMT",
-    "checked_at": "2026-09-26T23:20:18.086877+00:00"
+    "last_modified": "Sat, 26 Sep 2026 23:52:47 GMT",
+    "checked_at": "2026-09-26T23:55:12.643058+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 26 Sep 2026 23:18:02 GMT",
-    "checked_at": "2026-09-26T23:20:18.793868+00:00"
+    "last_modified": "Sat, 26 Sep 2026 23:52:47 GMT",
+    "checked_at": "2026-09-26T23:55:12.734911+00:00"
   }
 }
