@@ -21,11 +21,11 @@
         ]
       }
     ],
-    "last_modified": "Sat, 26 Sep 2026 22:42:33 GMT",
-    "checked_at": "2026-09-26T22:45:15.967563+00:00"
+    "last_modified": "Sat, 26 Sep 2026 22:47:50 GMT",
+    "checked_at": "2026-09-26T22:50:14.846710+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "fd113662378ebeb8d7e37a069539289d1840af622f9f42a1f78631c210423383",
+    "hash": "21f91200aab1db9ef7d53d8c6f6e46297ebc9dfcadcec6eed47221c8c97f616a",
     "confirmed": [
       {
         "name": "Early Doors",
@@ -37,6 +37,12 @@
         "name": "First Time",
         "legs": [
           "Jonathan David"
+        ]
+      },
+      {
+        "name": "Gets Across",
+        "legs": [
+          "Milan Iloski"
         ]
       },
       {
@@ -52,13 +58,13 @@
         ]
       }
     ],
-    "last_modified": "Sat, 26 Sep 2026 22:42:33 GMT",
-    "checked_at": "2026-09-26T22:45:16.665832+00:00"
+    "last_modified": "Sat, 26 Sep 2026 22:47:50 GMT",
+    "checked_at": "2026-09-26T22:50:15.466278+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 26 Sep 2026 22:42:33 GMT",
-    "checked_at": "2026-09-26T22:45:16.755009+00:00"
+    "last_modified": "Sat, 26 Sep 2026 22:47:50 GMT",
+    "checked_at": "2026-09-26T22:50:15.689627+00:00"
   }
 }
