@@ -21,11 +21,11 @@
         ]
       }
     ],
-    "last_modified": "Sat, 26 Sep 2026 22:37:55 GMT",
-    "checked_at": "2026-09-26T22:40:17.126242+00:00"
+    "last_modified": "Sat, 26 Sep 2026 22:42:33 GMT",
+    "checked_at": "2026-09-26T22:45:15.967563+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "8fddf9f66e67cda3772dccbb4437fe5bd1e25bb19b3ae6ffc02ede8128efaffe",
+    "hash": "fd113662378ebeb8d7e37a069539289d1840af622f9f42a1f78631c210423383",
     "confirmed": [
       {
         "name": "Early Doors",
@@ -44,15 +44,21 @@
         "legs": [
           "Harry Kane"
         ]
+      },
+      {
+        "name": "Under Lights",
+        "legs": [
+          "Prince Osei Owusu"
+        ]
       }
     ],
-    "last_modified": "Sat, 26 Sep 2026 22:37:55 GMT",
-    "checked_at": "2026-09-26T22:40:17.384305+00:00"
+    "last_modified": "Sat, 26 Sep 2026 22:42:33 GMT",
+    "checked_at": "2026-09-26T22:45:16.665832+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 26 Sep 2026 22:37:55 GMT",
-    "checked_at": "2026-09-26T22:40:17.554833+00:00"
+    "last_modified": "Sat, 26 Sep 2026 22:42:33 GMT",
+    "checked_at": "2026-09-26T22:45:16.755009+00:00"
   }
 }
