@@ -1,129 +1,20 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "b4f24db941a374b29253b933ec08fd2f17c094b221f8420fcb8ea3cb4fbd50d6",
-    "confirmed": [
-      {
-        "name": "Booster Ignition",
-        "legs": [
-          "Brandon Lowe",
-          "Bryce Harper",
-          "Iv\u00e1n Herrera",
-          "Matt Olson"
-        ]
-      },
-      {
-        "name": "Chart a Course",
-        "legs": [
-          "Iv\u00e1n Herrera"
-        ]
-      },
-      {
-        "name": "Hitting Apogee",
-        "legs": [
-          "Davis Schneider",
-          "Iv\u00e1n Herrera",
-          "Kevin McGonigle",
-          "Kyle Schwarber"
-        ]
-      },
-      {
-        "name": "Hold Fast",
-        "legs": [
-          "Jos\u00e9 Ram\u00edrez"
-        ]
-      },
-      {
-        "name": "Mach Breaker",
-        "legs": [
-          "David Fry",
-          "Jackson Merrill",
-          "Randy Arozarena",
-          "Shea Langeliers"
-        ]
-      },
-      {
-        "name": "Off the Scoreboard",
-        "legs": [
-          "Christian Walker",
-          "Jos\u00e9 Ram\u00edrez",
-          "Kody Clemens",
-          "Mike Trout"
-        ]
-      },
-      {
-        "name": "Out of Sight",
-        "legs": [
-          "Shea Langeliers"
-        ]
-      },
-      {
-        "name": "Punching Through the Ceiling",
-        "legs": [
-          "Drake Baldwin",
-          "Jo Adell",
-          "Shea Langeliers",
-          "Wyatt Langford"
-        ]
-      },
-      {
-        "name": "Riding the Jet Stream",
-        "legs": [
-          "Cam Smith",
-          "Colson Montgomery",
-          "Mike Yastrzemski",
-          "Vinnie Pasquantino"
-        ]
-      },
-      {
-        "name": "Squared Away",
-        "legs": [
-          "Mike Yastrzemski"
-        ]
-      },
-      {
-        "name": "The Free Roll",
-        "legs": [
-          "Pete Alonso"
-        ]
-      },
-      {
-        "name": "The Helm",
-        "legs": [
-          "Shea Langeliers"
-        ]
-      },
-      {
-        "name": "To the Heavens",
-        "legs": [
-          "Isaac Paredes",
-          "Jos\u00e9 Ram\u00edrez",
-          "Mickey Moniak",
-          "Nolan Arenado"
-        ]
-      },
-      {
-        "name": "Upper Deck Bound",
-        "legs": [
-          "Eugenio Su\u00e1rez",
-          "Mike Yastrzemski",
-          "Riley Greene",
-          "Yandy D\u00edaz"
-        ]
-      }
-    ],
-    "last_modified": "Fri, 25 Sep 2026 23:23:06 GMT",
-    "checked_at": "2026-09-25T23:25:15.903588+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Sat, 26 Sep 2026 12:12:49 GMT",
+    "checked_at": "2026-09-26T12:15:15.721461+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 25 Sep 2026 23:23:06 GMT",
-    "checked_at": "2026-09-25T23:25:16.504851+00:00"
+    "last_modified": "Sat, 26 Sep 2026 12:12:49 GMT",
+    "checked_at": "2026-09-26T12:15:15.830991+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Fri, 25 Sep 2026 23:23:06 GMT",
-    "checked_at": "2026-09-25T23:25:16.731414+00:00"
+    "last_modified": "Sat, 26 Sep 2026 12:12:49 GMT",
+    "checked_at": "2026-09-26T12:15:15.932105+00:00"
   }
 }
