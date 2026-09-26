@@ -1,7 +1,13 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "f54b916ca7eb70f52b30bcc5f2e038fb38a0647ef576bb087f8ab066606bfdad",
+    "hash": "e91ec4bc39bbd84bea8a667b41ae196992f85657cfa7ab024d5ebd06f83e7b37",
     "confirmed": [
+      {
+        "name": "Boosted",
+        "legs": [
+          "Mike Trout"
+        ]
+      },
       {
         "name": "Hold Fast",
         "legs": [
@@ -15,8 +21,8 @@
         ]
       }
     ],
-    "last_modified": "Sat, 26 Sep 2026 22:32:58 GMT",
-    "checked_at": "2026-09-26T22:35:16.349170+00:00"
+    "last_modified": "Sat, 26 Sep 2026 22:37:55 GMT",
+    "checked_at": "2026-09-26T22:40:17.126242+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8fddf9f66e67cda3772dccbb4437fe5bd1e25bb19b3ae6ffc02ede8128efaffe",
@@ -40,13 +46,13 @@
         ]
       }
     ],
-    "last_modified": "Sat, 26 Sep 2026 22:32:58 GMT",
-    "checked_at": "2026-09-26T22:35:17.168952+00:00"
+    "last_modified": "Sat, 26 Sep 2026 22:37:55 GMT",
+    "checked_at": "2026-09-26T22:40:17.384305+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 26 Sep 2026 22:32:58 GMT",
-    "checked_at": "2026-09-26T22:35:17.379764+00:00"
+    "last_modified": "Sat, 26 Sep 2026 22:37:55 GMT",
+    "checked_at": "2026-09-26T22:40:17.554833+00:00"
   }
 }
