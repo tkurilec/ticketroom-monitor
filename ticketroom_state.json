@@ -9,16 +9,22 @@
         ]
       }
     ],
-    "last_modified": "Sun, 27 Sep 2026 16:57:53 GMT",
-    "checked_at": "2026-09-27T17:00:21.853300+00:00"
+    "last_modified": "Sun, 27 Sep 2026 17:47:37 GMT",
+    "checked_at": "2026-09-27T17:51:07.520818+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "48ac52b6a91103d068aac738a3cfc6c07b47c23987a96efb86f8392669933b25",
+    "hash": "fe4295ac3641810e439a5bad4bf11b5b7785e861c553b8e3932dc78b9edec55f",
     "confirmed": [
       {
         "name": "Back Post",
         "legs": [
           "Rasmus Hojlund"
+        ]
+      },
+      {
+        "name": "Early Doors",
+        "legs": [
+          "Karim Adeyemi"
         ]
       },
       {
@@ -38,10 +44,16 @@
         "legs": [
           "Cody Gakpo"
         ]
+      },
+      {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Younes Ebnoutalib"
+        ]
       }
     ],
-    "last_modified": "Sun, 27 Sep 2026 16:57:53 GMT",
-    "checked_at": "2026-09-27T17:00:22.184518+00:00"
+    "last_modified": "Sun, 27 Sep 2026 17:47:37 GMT",
+    "checked_at": "2026-09-27T17:51:08.117641+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "a6f40195797e6003e9872406753e7bfbda0c0e2829688f148afede8c311bfd43",
@@ -89,7 +101,7 @@
         ]
       }
     ],
-    "last_modified": "Sun, 27 Sep 2026 16:57:53 GMT",
-    "checked_at": "2026-09-27T17:00:23.189454+00:00"
+    "last_modified": "Sun, 27 Sep 2026 17:47:37 GMT",
+    "checked_at": "2026-09-27T17:51:08.249918+00:00"
   }
 }
