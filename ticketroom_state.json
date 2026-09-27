@@ -1,9 +1,16 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Sun, 27 Sep 2026 15:02:11 GMT",
-    "checked_at": "2026-09-27T15:05:14.541384+00:00"
+    "hash": "a3e87fa01fcd9658b315541dd904b4e86b69c77c415690108bd18613160f3575",
+    "confirmed": [
+      {
+        "name": "Hold Fast",
+        "legs": [
+          "Vinnie Pasquantino"
+        ]
+      }
+    ],
+    "last_modified": "Sun, 27 Sep 2026 15:37:15 GMT",
+    "checked_at": "2026-09-27T15:40:19.622196+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "48ac52b6a91103d068aac738a3cfc6c07b47c23987a96efb86f8392669933b25",
@@ -33,13 +40,13 @@
         ]
       }
     ],
-    "last_modified": "Sun, 27 Sep 2026 15:02:11 GMT",
-    "checked_at": "2026-09-27T15:05:15.307710+00:00"
+    "last_modified": "Sun, 27 Sep 2026 15:37:15 GMT",
+    "checked_at": "2026-09-27T15:40:19.960980+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sun, 27 Sep 2026 15:02:11 GMT",
-    "checked_at": "2026-09-27T15:05:15.877058+00:00"
+    "last_modified": "Sun, 27 Sep 2026 15:37:15 GMT",
+    "checked_at": "2026-09-27T15:40:20.216484+00:00"
   }
 }
