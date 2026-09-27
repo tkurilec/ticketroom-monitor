@@ -1,16 +1,25 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "b33a2557161ddbcee3dd14248d4bb0a56564c5500d1b838307cb97247cb78528",
+    "hash": "045ead96ed15403918fbd227b935de40bb09effba0fb67f478314547aa34a221",
     "confirmed": [
       {
         "name": "Calm Seas",
         "legs": [
           "Vinnie Pasquantino"
         ]
+      },
+      {
+        "name": "Liftoff Sequence",
+        "legs": [
+          "Andr\u00e9s Chaparro",
+          "Victor Mesa",
+          "Vinnie Pasquantino",
+          "Wyatt Langford"
+        ]
       }
     ],
-    "last_modified": "Sun, 27 Sep 2026 16:07:14 GMT",
-    "checked_at": "2026-09-27T16:10:15.632321+00:00"
+    "last_modified": "Sun, 27 Sep 2026 16:22:40 GMT",
+    "checked_at": "2026-09-27T16:25:14.433759+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "48ac52b6a91103d068aac738a3cfc6c07b47c23987a96efb86f8392669933b25",
@@ -40,13 +49,13 @@
         ]
       }
     ],
-    "last_modified": "Sun, 27 Sep 2026 16:07:14 GMT",
-    "checked_at": "2026-09-27T16:10:15.748544+00:00"
+    "last_modified": "Sun, 27 Sep 2026 16:22:40 GMT",
+    "checked_at": "2026-09-27T16:25:14.653782+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sun, 27 Sep 2026 16:07:14 GMT",
-    "checked_at": "2026-09-27T16:10:15.852361+00:00"
+    "last_modified": "Sun, 27 Sep 2026 16:22:40 GMT",
+    "checked_at": "2026-09-27T16:25:14.810769+00:00"
   }
 }
