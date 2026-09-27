@@ -1,11 +1,11 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "6efb8d41cbebc77e1c0e7de996e38874d3f90482a8bf969582f1944d20532163",
+    "hash": "4cf294d234a8297334b47fa4da8a2f4fa1b085f939e46835eb598ff98b65b6f6",
     "confirmed": [
       {
         "name": "Calm Seas",
         "legs": [
-          "Isaac Paredes"
+          "Nolan Arenado"
         ]
       },
       {
@@ -21,12 +21,9 @@
         ]
       },
       {
-        "name": "Liftoff Sequence",
+        "name": "Hold Fast",
         "legs": [
-          "Isaac Paredes",
-          "Matt Olson",
-          "Victor Mesa",
-          "Wyatt Langford"
+          "Isaac Paredes"
         ]
       },
       {
@@ -39,17 +36,41 @@
         ]
       },
       {
-        "name": "Second Stage",
+        "name": "Riding the Jet Stream",
         "legs": [
           "Isaac Paredes",
           "Manny Machado",
+          "Randal Grichuk",
+          "Victor Mesa"
+        ]
+      },
+      {
+        "name": "Second Stage",
+        "legs": [
+          "Gabriel Moreno",
+          "Gunnar Henderson",
+          "Kevin McGonigle",
+          "Vinnie Pasquantino"
+        ]
+      },
+      {
+        "name": "Squared Away",
+        "legs": [
+          "David Fry"
+        ]
+      },
+      {
+        "name": "Upper Deck Bound",
+        "legs": [
+          "Isaac Paredes",
+          "Matt Olson",
           "Pete Alonso",
-          "Pete Crow-Armstrong"
+          "Wilyer Abreu"
         ]
       }
     ],
-    "last_modified": "Sun, 27 Sep 2026 17:52:49 GMT",
-    "checked_at": "2026-09-27T17:55:14.672149+00:00"
+    "last_modified": "Sun, 27 Sep 2026 18:01:47 GMT",
+    "checked_at": "2026-09-27T18:05:13.457797+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "fe4295ac3641810e439a5bad4bf11b5b7785e861c553b8e3932dc78b9edec55f",
@@ -91,8 +112,8 @@
         ]
       }
     ],
-    "last_modified": "Sun, 27 Sep 2026 17:52:49 GMT",
-    "checked_at": "2026-09-27T17:55:15.014618+00:00"
+    "last_modified": "Sun, 27 Sep 2026 18:01:47 GMT",
+    "checked_at": "2026-09-27T18:05:13.573660+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "a6f40195797e6003e9872406753e7bfbda0c0e2829688f148afede8c311bfd43",
@@ -140,7 +161,7 @@
         ]
       }
     ],
-    "last_modified": "Sun, 27 Sep 2026 17:52:49 GMT",
-    "checked_at": "2026-09-27T17:55:15.172639+00:00"
+    "last_modified": "Sun, 27 Sep 2026 18:01:47 GMT",
+    "checked_at": "2026-09-27T18:05:13.670292+00:00"
   }
 }
