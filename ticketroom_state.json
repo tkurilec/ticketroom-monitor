@@ -9,8 +9,8 @@
         ]
       }
     ],
-    "last_modified": "Sun, 27 Sep 2026 16:53:15 GMT",
-    "checked_at": "2026-09-27T16:55:12.904593+00:00"
+    "last_modified": "Sun, 27 Sep 2026 16:57:53 GMT",
+    "checked_at": "2026-09-27T17:00:21.853300+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "48ac52b6a91103d068aac738a3cfc6c07b47c23987a96efb86f8392669933b25",
@@ -40,13 +40,56 @@
         ]
       }
     ],
-    "last_modified": "Sun, 27 Sep 2026 16:53:15 GMT",
-    "checked_at": "2026-09-27T16:55:13.032926+00:00"
+    "last_modified": "Sun, 27 Sep 2026 16:57:53 GMT",
+    "checked_at": "2026-09-27T17:00:22.184518+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Sun, 27 Sep 2026 16:53:15 GMT",
-    "checked_at": "2026-09-27T16:55:13.288369+00:00"
+    "hash": "a6f40195797e6003e9872406753e7bfbda0c0e2829688f148afede8c311bfd43",
+    "confirmed": [
+      {
+        "name": "Bell Cow",
+        "legs": [
+          "Kenneth Walker III"
+        ]
+      },
+      {
+        "name": "First Read",
+        "legs": [
+          "Omarion Hampton"
+        ]
+      },
+      {
+        "name": "Red Zone Target",
+        "legs": [
+          "Jonathan Taylor"
+        ]
+      },
+      {
+        "name": "Short Yardage",
+        "legs": [
+          "Amon-Ra St. Brown"
+        ]
+      },
+      {
+        "name": "The Checkdown",
+        "legs": [
+          "Chase Brown"
+        ]
+      },
+      {
+        "name": "The One O\u2019Clock",
+        "legs": [
+          "Rashee Rice"
+        ]
+      },
+      {
+        "name": "The Workhorse",
+        "legs": [
+          "James Cook"
+        ]
+      }
+    ],
+    "last_modified": "Sun, 27 Sep 2026 16:57:53 GMT",
+    "checked_at": "2026-09-27T17:00:23.189454+00:00"
   }
 }
