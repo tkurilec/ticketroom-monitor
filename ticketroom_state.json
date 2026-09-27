@@ -87,80 +87,19 @@
         ]
       }
     ],
-    "last_modified": "Sun, 27 Sep 2026 01:53:36 GMT",
-    "checked_at": "2026-09-27T01:55:13.978682+00:00"
+    "last_modified": "Sun, 27 Sep 2026 13:21:52 GMT",
+    "checked_at": "2026-09-27T13:25:14.167498+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "660bfae31a64c01789a100e6542ca2f4dd0a4d8a294998b80084152e9a1637ed",
-    "confirmed": [
-      {
-        "name": "Back Post",
-        "legs": [
-          "Vincent Janssen"
-        ]
-      },
-      {
-        "name": "Early Doors",
-        "legs": [
-          "Ferran Torres"
-        ]
-      },
-      {
-        "name": "First Time",
-        "legs": [
-          "Jonathan David"
-        ]
-      },
-      {
-        "name": "Gets Across",
-        "legs": [
-          "Milan Iloski"
-        ]
-      },
-      {
-        "name": "Near Post",
-        "legs": [
-          "Preston Judd"
-        ]
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Sam Surridge"
-        ]
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Brian White"
-        ]
-      },
-      {
-        "name": "The Nine",
-        "legs": [
-          "Kelvin Yeboah"
-        ]
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Harry Kane"
-        ]
-      },
-      {
-        "name": "Under Lights",
-        "legs": [
-          "Prince Osei Owusu"
-        ]
-      }
-    ],
-    "last_modified": "Sun, 27 Sep 2026 01:53:36 GMT",
-    "checked_at": "2026-09-27T01:55:14.555150+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Sun, 27 Sep 2026 13:21:52 GMT",
+    "checked_at": "2026-09-27T13:25:14.381771+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sun, 27 Sep 2026 01:53:36 GMT",
-    "checked_at": "2026-09-27T01:55:14.875699+00:00"
+    "last_modified": "Sun, 27 Sep 2026 13:21:52 GMT",
+    "checked_at": "2026-09-27T13:25:14.734119+00:00"
   }
 }
