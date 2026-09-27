@@ -1,16 +1,55 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "ae119b99e7a9c0e78e33fe95afc3ec60aea00e074691c0ca18e7d3c96f51d650",
+    "hash": "6efb8d41cbebc77e1c0e7de996e38874d3f90482a8bf969582f1944d20532163",
     "confirmed": [
+      {
+        "name": "Calm Seas",
+        "legs": [
+          "Isaac Paredes"
+        ]
+      },
+      {
+        "name": "Deep Water Mark",
+        "legs": [
+          "Isaac Paredes"
+        ]
+      },
       {
         "name": "Ground Tackle",
         "legs": [
           "Vinnie Pasquantino"
         ]
+      },
+      {
+        "name": "Liftoff Sequence",
+        "legs": [
+          "Isaac Paredes",
+          "Matt Olson",
+          "Victor Mesa",
+          "Wyatt Langford"
+        ]
+      },
+      {
+        "name": "Off the Scoreboard",
+        "legs": [
+          "Andr\u00e9s Chaparro",
+          "Christian Walker",
+          "Jonathan Aranda",
+          "Vinnie Pasquantino"
+        ]
+      },
+      {
+        "name": "Second Stage",
+        "legs": [
+          "Isaac Paredes",
+          "Manny Machado",
+          "Pete Alonso",
+          "Pete Crow-Armstrong"
+        ]
       }
     ],
-    "last_modified": "Sun, 27 Sep 2026 17:47:37 GMT",
-    "checked_at": "2026-09-27T17:51:18.379977+00:00"
+    "last_modified": "Sun, 27 Sep 2026 17:52:49 GMT",
+    "checked_at": "2026-09-27T17:55:14.672149+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "fe4295ac3641810e439a5bad4bf11b5b7785e861c553b8e3932dc78b9edec55f",
@@ -52,8 +91,8 @@
         ]
       }
     ],
-    "last_modified": "Sun, 27 Sep 2026 17:47:37 GMT",
-    "checked_at": "2026-09-27T17:51:18.690188+00:00"
+    "last_modified": "Sun, 27 Sep 2026 17:52:49 GMT",
+    "checked_at": "2026-09-27T17:55:15.014618+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "a6f40195797e6003e9872406753e7bfbda0c0e2829688f148afede8c311bfd43",
@@ -101,7 +140,7 @@
         ]
       }
     ],
-    "last_modified": "Sun, 27 Sep 2026 17:47:37 GMT",
-    "checked_at": "2026-09-27T17:51:18.915235+00:00"
+    "last_modified": "Sun, 27 Sep 2026 17:52:49 GMT",
+    "checked_at": "2026-09-27T17:55:15.172639+00:00"
   }
 }
