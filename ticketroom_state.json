@@ -1,16 +1,16 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "b33a2557161ddbcee3dd14248d4bb0a56564c5500d1b838307cb97247cb78528",
+    "hash": "ae119b99e7a9c0e78e33fe95afc3ec60aea00e074691c0ca18e7d3c96f51d650",
     "confirmed": [
       {
-        "name": "Calm Seas",
+        "name": "Ground Tackle",
         "legs": [
           "Vinnie Pasquantino"
         ]
       }
     ],
-    "last_modified": "Sun, 27 Sep 2026 16:37:41 GMT",
-    "checked_at": "2026-09-27T16:40:17.227867+00:00"
+    "last_modified": "Sun, 27 Sep 2026 16:53:15 GMT",
+    "checked_at": "2026-09-27T16:55:12.904593+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "48ac52b6a91103d068aac738a3cfc6c07b47c23987a96efb86f8392669933b25",
@@ -40,13 +40,13 @@
         ]
       }
     ],
-    "last_modified": "Sun, 27 Sep 2026 16:37:41 GMT",
-    "checked_at": "2026-09-27T16:40:17.538822+00:00"
+    "last_modified": "Sun, 27 Sep 2026 16:53:15 GMT",
+    "checked_at": "2026-09-27T16:55:13.032926+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sun, 27 Sep 2026 16:37:41 GMT",
-    "checked_at": "2026-09-27T16:40:17.799267+00:00"
+    "last_modified": "Sun, 27 Sep 2026 16:53:15 GMT",
+    "checked_at": "2026-09-27T16:55:13.288369+00:00"
   }
 }
