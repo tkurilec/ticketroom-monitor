@@ -1,105 +1,20 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "32754edc100ce289c66e479a08c211c75e56e9e038f5f7c744e28a49af3f3e98",
-    "confirmed": [
-      {
-        "name": "Boosted",
-        "legs": [
-          "Mike Trout"
-        ]
-      },
-      {
-        "name": "Hitting Apogee",
-        "legs": [
-          "Isaac Paredes",
-          "Jackson Merrill",
-          "Jos\u00e9 Ram\u00edrez",
-          "Victor Mesa"
-        ]
-      },
-      {
-        "name": "Hold Fast",
-        "legs": [
-          "Kyle Schwarber"
-        ]
-      },
-      {
-        "name": "Mach Breaker",
-        "legs": [
-          "Gary S\u00e1nchez",
-          "Isaac Paredes",
-          "Jose Siri",
-          "Manny Machado"
-        ]
-      },
-      {
-        "name": "Off the Scoreboard",
-        "legs": [
-          "Hunter Goodman",
-          "Kyle Schwarber",
-          "Mike Trout",
-          "Taylor Trammell"
-        ]
-      },
-      {
-        "name": "Punching Through the Ceiling",
-        "legs": [
-          "Alec Burleson",
-          "Christian Walker",
-          "Jonathan Aranda",
-          "Vinnie Pasquantino"
-        ]
-      },
-      {
-        "name": "Riding the Jet Stream",
-        "legs": [
-          "Cal Raleigh",
-          "Mickey Moniak",
-          "Nolan Arenado",
-          "Vinnie Pasquantino"
-        ]
-      },
-      {
-        "name": "Squared Away",
-        "legs": [
-          "Vinnie Pasquantino"
-        ]
-      },
-      {
-        "name": "The Helm",
-        "legs": [
-          "Isaac Paredes"
-        ]
-      },
-      {
-        "name": "The Moon Landing",
-        "legs": [
-          "Isaac Paredes"
-        ]
-      },
-      {
-        "name": "Upper Deck Bound",
-        "legs": [
-          "Kyle Schwarber",
-          "Randal Grichuk",
-          "Yordan Alvarez",
-          "Zach Neto"
-        ]
-      }
-    ],
-    "last_modified": "Sun, 27 Sep 2026 13:21:52 GMT",
-    "checked_at": "2026-09-27T13:25:14.167498+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Sun, 27 Sep 2026 13:57:14 GMT",
+    "checked_at": "2026-09-27T14:00:21.089595+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sun, 27 Sep 2026 13:21:52 GMT",
-    "checked_at": "2026-09-27T13:25:14.381771+00:00"
+    "last_modified": "Sun, 27 Sep 2026 13:57:14 GMT",
+    "checked_at": "2026-09-27T14:00:21.430855+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sun, 27 Sep 2026 13:21:52 GMT",
-    "checked_at": "2026-09-27T13:25:14.734119+00:00"
+    "last_modified": "Sun, 27 Sep 2026 13:57:14 GMT",
+    "checked_at": "2026-09-27T14:00:21.899940+00:00"
   }
 }
