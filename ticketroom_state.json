@@ -2,19 +2,44 @@
   "https://theticketroom.live/mlb/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sun, 27 Sep 2026 13:57:14 GMT",
-    "checked_at": "2026-09-27T14:00:21.089595+00:00"
+    "last_modified": "Sun, 27 Sep 2026 15:02:11 GMT",
+    "checked_at": "2026-09-27T15:05:14.541384+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Sun, 27 Sep 2026 13:57:14 GMT",
-    "checked_at": "2026-09-27T14:00:21.430855+00:00"
+    "hash": "48ac52b6a91103d068aac738a3cfc6c07b47c23987a96efb86f8392669933b25",
+    "confirmed": [
+      {
+        "name": "Back Post",
+        "legs": [
+          "Rasmus Hojlund"
+        ]
+      },
+      {
+        "name": "First Time",
+        "legs": [
+          "Junior Adamu"
+        ]
+      },
+      {
+        "name": "Gets Across",
+        "legs": [
+          "Mexx Meerdink"
+        ]
+      },
+      {
+        "name": "Near Post",
+        "legs": [
+          "Cody Gakpo"
+        ]
+      }
+    ],
+    "last_modified": "Sun, 27 Sep 2026 15:02:11 GMT",
+    "checked_at": "2026-09-27T15:05:15.307710+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sun, 27 Sep 2026 13:57:14 GMT",
-    "checked_at": "2026-09-27T14:00:21.899940+00:00"
+    "last_modified": "Sun, 27 Sep 2026 15:02:11 GMT",
+    "checked_at": "2026-09-27T15:05:15.877058+00:00"
   }
 }
