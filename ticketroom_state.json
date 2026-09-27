@@ -87,12 +87,18 @@
         ]
       }
     ],
-    "last_modified": "Sun, 27 Sep 2026 01:48:22 GMT",
-    "checked_at": "2026-09-27T01:50:17.912977+00:00"
+    "last_modified": "Sun, 27 Sep 2026 01:53:36 GMT",
+    "checked_at": "2026-09-27T01:55:13.978682+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "43ba412066315b094300a70371581103298516ed63dab5605ba0303b7301907c",
+    "hash": "660bfae31a64c01789a100e6542ca2f4dd0a4d8a294998b80084152e9a1637ed",
     "confirmed": [
+      {
+        "name": "Back Post",
+        "legs": [
+          "Vincent Janssen"
+        ]
+      },
       {
         "name": "Early Doors",
         "legs": [
@@ -148,13 +154,13 @@
         ]
       }
     ],
-    "last_modified": "Sun, 27 Sep 2026 01:48:22 GMT",
-    "checked_at": "2026-09-27T01:50:18.463254+00:00"
+    "last_modified": "Sun, 27 Sep 2026 01:53:36 GMT",
+    "checked_at": "2026-09-27T01:55:14.555150+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sun, 27 Sep 2026 01:48:22 GMT",
-    "checked_at": "2026-09-27T01:50:18.751102+00:00"
+    "last_modified": "Sun, 27 Sep 2026 01:53:36 GMT",
+    "checked_at": "2026-09-27T01:55:14.875699+00:00"
   }
 }
