@@ -1,6 +1,6 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "4cf294d234a8297334b47fa4da8a2f4fa1b085f939e46835eb598ff98b65b6f6",
+    "hash": "552c6a4be2f538b31a760d9bb45ccf15b9d88c8b7ad4eb35df0c3e1e1aa8046c",
     "confirmed": [
       {
         "name": "Calm Seas",
@@ -47,9 +47,9 @@
       {
         "name": "Second Stage",
         "legs": [
-          "Gabriel Moreno",
           "Gunnar Henderson",
           "Kevin McGonigle",
+          "Michael Conforto",
           "Vinnie Pasquantino"
         ]
       },
@@ -69,8 +69,8 @@
         ]
       }
     ],
-    "last_modified": "Sun, 27 Sep 2026 18:01:47 GMT",
-    "checked_at": "2026-09-27T18:05:13.457797+00:00"
+    "last_modified": "Sun, 27 Sep 2026 18:22:59 GMT",
+    "checked_at": "2026-09-27T18:25:12.758367+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "fe4295ac3641810e439a5bad4bf11b5b7785e861c553b8e3932dc78b9edec55f",
@@ -112,8 +112,8 @@
         ]
       }
     ],
-    "last_modified": "Sun, 27 Sep 2026 18:01:47 GMT",
-    "checked_at": "2026-09-27T18:05:13.573660+00:00"
+    "last_modified": "Sun, 27 Sep 2026 18:22:59 GMT",
+    "checked_at": "2026-09-27T18:25:12.983376+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "a6f40195797e6003e9872406753e7bfbda0c0e2829688f148afede8c311bfd43",
@@ -161,7 +161,7 @@
         ]
       }
     ],
-    "last_modified": "Sun, 27 Sep 2026 18:01:47 GMT",
-    "checked_at": "2026-09-27T18:05:13.670292+00:00"
+    "last_modified": "Sun, 27 Sep 2026 18:22:59 GMT",
+    "checked_at": "2026-09-27T18:25:13.193714+00:00"
   }
 }
