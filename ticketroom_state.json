@@ -87,11 +87,11 @@
         ]
       }
     ],
-    "last_modified": "Sat, 26 Sep 2026 23:52:47 GMT",
-    "checked_at": "2026-09-26T23:55:12.201714+00:00"
+    "last_modified": "Sun, 27 Sep 2026 01:48:22 GMT",
+    "checked_at": "2026-09-27T01:50:17.912977+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "ca4701b3c9407733f2ed2a13af8bd8308af8a3d9db004ca21e640ab924ed44f4",
+    "hash": "43ba412066315b094300a70371581103298516ed63dab5605ba0303b7301907c",
     "confirmed": [
       {
         "name": "Early Doors",
@@ -112,9 +112,21 @@
         ]
       },
       {
+        "name": "Near Post",
+        "legs": [
+          "Preston Judd"
+        ]
+      },
+      {
         "name": "Six-Yard Box",
         "legs": [
           "Sam Surridge"
+        ]
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Brian White"
         ]
       },
       {
@@ -136,13 +148,13 @@
         ]
       }
     ],
-    "last_modified": "Sat, 26 Sep 2026 23:52:47 GMT",
-    "checked_at": "2026-09-26T23:55:12.643058+00:00"
+    "last_modified": "Sun, 27 Sep 2026 01:48:22 GMT",
+    "checked_at": "2026-09-27T01:50:18.463254+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Sat, 26 Sep 2026 23:52:47 GMT",
-    "checked_at": "2026-09-26T23:55:12.734911+00:00"
+    "last_modified": "Sun, 27 Sep 2026 01:48:22 GMT",
+    "checked_at": "2026-09-27T01:50:18.751102+00:00"
   }
 }
