@@ -105,8 +105,8 @@
         ]
       }
     ],
-    "last_modified": "Sun, 27 Sep 2026 22:41:49 GMT",
-    "checked_at": "2026-09-27T22:45:17.442189+00:00"
+    "last_modified": "Mon, 28 Sep 2026 00:18:02 GMT",
+    "checked_at": "2026-09-28T00:20:15.639193+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f62c3cc16cdf0af35cfc3a32e9c45b525e6a1cbe34d98c8b037bce5e5166f7ab",
@@ -166,11 +166,11 @@
         ]
       }
     ],
-    "last_modified": "Sun, 27 Sep 2026 22:41:49 GMT",
-    "checked_at": "2026-09-27T22:45:17.724574+00:00"
+    "last_modified": "Mon, 28 Sep 2026 00:18:02 GMT",
+    "checked_at": "2026-09-28T00:20:15.821526+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "9515072cfd941c7fbcc1b0a1c9e41fc0bb404261050c01f45f37bb14ec4ae991",
+    "hash": "f79f37b58eb0d156b8cffe06d99bb9ca1787be6c5ebf7571f3d99cc24b7e6af3",
     "confirmed": [
       {
         "name": "Bell Cow",
@@ -209,6 +209,12 @@
         ]
       },
       {
+        "name": "Sunday Night",
+        "legs": [
+          "Kyren Williams"
+        ]
+      },
+      {
         "name": "The Checkdown",
         "legs": [
           "Chase Brown"
@@ -227,7 +233,7 @@
         ]
       }
     ],
-    "last_modified": "Sun, 27 Sep 2026 22:41:49 GMT",
-    "checked_at": "2026-09-27T22:45:17.988313+00:00"
+    "last_modified": "Mon, 28 Sep 2026 00:18:02 GMT",
+    "checked_at": "2026-09-28T00:20:16.374155+00:00"
   }
 }
