@@ -105,19 +105,32 @@
         ]
       }
     ],
-    "last_modified": "Mon, 28 Sep 2026 16:13:07 GMT",
-    "checked_at": "2026-09-28T16:15:17.643704+00:00"
+    "last_modified": "Mon, 28 Sep 2026 17:48:05 GMT",
+    "checked_at": "2026-09-28T17:50:19.894873+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Mon, 28 Sep 2026 16:13:07 GMT",
-    "checked_at": "2026-09-28T16:15:18.089769+00:00"
+    "hash": "674ca52fee75fe1bd2d188842ed0d5af7152ea9409678066764ac792603624a6",
+    "confirmed": [
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Esteban Lepaul"
+        ]
+      },
+      {
+        "name": "The Twelve Thirty",
+        "legs": [
+          "Bradley Barcola"
+        ]
+      }
+    ],
+    "last_modified": "Mon, 28 Sep 2026 17:48:05 GMT",
+    "checked_at": "2026-09-28T17:50:20.573449+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Mon, 28 Sep 2026 16:13:07 GMT",
-    "checked_at": "2026-09-28T16:15:18.441617+00:00"
+    "last_modified": "Mon, 28 Sep 2026 17:48:06 GMT",
+    "checked_at": "2026-09-28T17:50:20.798535+00:00"
   }
 }
