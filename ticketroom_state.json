@@ -105,8 +105,8 @@
         ]
       }
     ],
-    "last_modified": "Mon, 28 Sep 2026 00:18:02 GMT",
-    "checked_at": "2026-09-28T00:20:15.639193+00:00"
+    "last_modified": "Mon, 28 Sep 2026 03:59:46 GMT",
+    "checked_at": "2026-09-28T04:00:20.194677+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f62c3cc16cdf0af35cfc3a32e9c45b525e6a1cbe34d98c8b037bce5e5166f7ab",
@@ -166,74 +166,13 @@
         ]
       }
     ],
-    "last_modified": "Mon, 28 Sep 2026 00:18:02 GMT",
-    "checked_at": "2026-09-28T00:20:15.821526+00:00"
+    "last_modified": "Mon, 28 Sep 2026 03:59:46 GMT",
+    "checked_at": "2026-09-28T04:00:20.392230+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "f79f37b58eb0d156b8cffe06d99bb9ca1787be6c5ebf7571f3d99cc24b7e6af3",
-    "confirmed": [
-      {
-        "name": "Bell Cow",
-        "legs": [
-          "Kenneth Walker III"
-        ]
-      },
-      {
-        "name": "First Read",
-        "legs": [
-          "Omarion Hampton"
-        ]
-      },
-      {
-        "name": "Goal Line Back",
-        "legs": [
-          "Javonte Williams"
-        ]
-      },
-      {
-        "name": "Move the Chains",
-        "legs": [
-          "Ashton Jeanty"
-        ]
-      },
-      {
-        "name": "Red Zone Target",
-        "legs": [
-          "Jonathan Taylor"
-        ]
-      },
-      {
-        "name": "Short Yardage",
-        "legs": [
-          "Amon-Ra St. Brown"
-        ]
-      },
-      {
-        "name": "Sunday Night",
-        "legs": [
-          "Kyren Williams"
-        ]
-      },
-      {
-        "name": "The Checkdown",
-        "legs": [
-          "Chase Brown"
-        ]
-      },
-      {
-        "name": "The One O\u2019Clock",
-        "legs": [
-          "Rashee Rice"
-        ]
-      },
-      {
-        "name": "The Workhorse",
-        "legs": [
-          "James Cook"
-        ]
-      }
-    ],
-    "last_modified": "Mon, 28 Sep 2026 00:18:02 GMT",
-    "checked_at": "2026-09-28T00:20:16.374155+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Mon, 28 Sep 2026 03:59:46 GMT",
+    "checked_at": "2026-09-28T04:00:20.557832+00:00"
   }
 }
