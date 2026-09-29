@@ -1,20 +1,27 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "last_modified": "Tue, 29 Sep 2026 13:57:28 GMT",
-    "checked_at": "2026-09-29T14:00:24.751848+00:00"
+    "hash": "e3a825dc83747003693547d1a22766fd686c80b59e3dfaebd4c26b6a594d981a",
+    "confirmed": [
+      {
+        "name": "Crushed",
+        "legs": [
+          "Austin Riley"
+        ]
+      }
+    ],
+    "last_modified": "Tue, 29 Sep 2026 14:47:35 GMT",
+    "checked_at": "2026-09-29T14:50:18.395566+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 29 Sep 2026 13:57:28 GMT",
-    "checked_at": "2026-09-29T14:00:24.934916+00:00"
+    "last_modified": "Tue, 29 Sep 2026 14:47:35 GMT",
+    "checked_at": "2026-09-29T14:50:18.690987+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 29 Sep 2026 13:57:28 GMT",
-    "checked_at": "2026-09-29T14:00:25.093441+00:00"
+    "last_modified": "Tue, 29 Sep 2026 14:47:35 GMT",
+    "checked_at": "2026-09-29T14:50:18.896822+00:00"
   }
 }
