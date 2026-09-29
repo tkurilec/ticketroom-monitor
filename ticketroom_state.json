@@ -18,11 +18,11 @@
       }
     ],
     "hits": [],
-    "last_modified": "Tue, 29 Sep 2026 17:47:43 GMT",
-    "checked_at": "2026-09-29T17:50:17.893040+00:00"
+    "last_modified": "Tue, 29 Sep 2026 17:57:11 GMT",
+    "checked_at": "2026-09-29T18:00:22.170451+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "0ad0eca3626a91159ed497a5c716b64c86d9d933f393df95e61972718bd1ace0",
+    "hash": "7310b216f3b1c9f20f405076b237d549c5622c8fa49d40c52c29a855b35ead07",
     "confirmed": [
       {
         "name": "Back Post",
@@ -32,22 +32,43 @@
         "rr": false
       },
       {
+        "name": "Early Doors",
+        "legs": [
+          "Fermin Lopez"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Lamine Yamal"
+        ],
+        "rr": false
+      },
+      {
         "name": "Target Man",
         "legs": [
           "Harry Kane"
         ],
         "rr": false
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Mikel Oyarzabal"
+        ],
+        "rr": false
       }
     ],
     "hits": [],
-    "last_modified": "Tue, 29 Sep 2026 17:47:43 GMT",
-    "checked_at": "2026-09-29T17:50:19.507066+00:00"
+    "last_modified": "Tue, 29 Sep 2026 17:57:11 GMT",
+    "checked_at": "2026-09-29T18:00:22.834925+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Tue, 29 Sep 2026 17:47:43 GMT",
-    "checked_at": "2026-09-29T17:50:19.688960+00:00"
+    "last_modified": "Tue, 29 Sep 2026 17:57:11 GMT",
+    "checked_at": "2026-09-29T18:00:22.937564+00:00"
   }
 }
