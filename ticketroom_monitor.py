@@ -44,6 +44,52 @@ def gambly_link(legs: list, market: str) -> str:
     return "https://gambly.com/chat?q=" + quote(text)
 
 
+def _norm_name(s: str) -> str:
+    import unicodedata
+    return "".join(c for c in unicodedata.normalize("NFKD", s)
+                   if not unicodedata.combining(c)).lower().strip()
+
+
+def fetch_mlb_live_hits(leg_names: set) -> set:
+    """Check MLB StatsAPI for today's homers by the given players.
+
+    The site's published data only credits homers at its nightly grading —
+    the live ⚾ on the page comes from the browser hitting StatsAPI. This is
+    the same source, so MLB hit alerts land within a check cycle.
+    """
+    if not leg_names:
+        return set()
+    try:
+        from zoneinfo import ZoneInfo
+        today = datetime.now(ZoneInfo("America/New_York")).strftime("%Y-%m-%d")
+    except Exception:
+        # Approximate ET without tzdata: UTC-5 keeps the date right except
+        # for a midnight-hour edge, and CI (the real runner) has zoneinfo.
+        from datetime import timedelta
+        today = (datetime.now(timezone.utc) - timedelta(hours=5)).strftime("%Y-%m-%d")
+    want = {_norm_name(n): n for n in leg_names}
+    found = set()
+    try:
+        sched = requests.get("https://statsapi.mlb.com/api/v1/schedule",
+                             params={"sportId": 1, "date": today}, timeout=30).json()
+        pks = [g["gamePk"] for d in sched.get("dates", [])
+               for g in d.get("games", [])
+               if g.get("status", {}).get("abstractGameState") in ("Live", "Final")]
+        for pk in pks:
+            box = requests.get(f"https://statsapi.mlb.com/api/v1/game/{pk}/boxscore",
+                               timeout=30).json()
+            for side in ("home", "away"):
+                players = (box.get("teams", {}).get(side, {}).get("players")) or {}
+                for p in players.values():
+                    hrs = ((p.get("stats") or {}).get("batting") or {}).get("homeRuns")
+                    nm = _norm_name((p.get("person") or {}).get("fullName") or "")
+                    if hrs and nm in want:
+                        found.add(want[nm])
+    except Exception as exc:
+        print(f"WARNING: statsapi live-HR check failed: {exc}")
+    return found
+
+
 # Emoji + verb for mid-game hit alerts, per board.
 HIT_STYLE = {
     "MLB Board": ("⚾", "homered"),
@@ -281,6 +327,11 @@ def check_all() -> None:
                 for t in sig["confirmed"]]})
             confirmed = sig["confirmed"]
             hits = sig["hits"]
+            if name == "MLB Board" and confirmed:
+                live = fetch_mlb_live_hits({p for t in confirmed
+                                            for p in t["legs"]})
+                if live:
+                    hits = sorted(set(hits) | live)
         else:
             # Page structure changed and the slate data couldn't be parsed —
             # fall back to raw-page hashing so changes are never missed.
