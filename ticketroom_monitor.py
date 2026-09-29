@@ -53,19 +53,27 @@ HIT_STYLE = {
 
 
 def notify_hits(webhook: str | None, board: str, url: str,
-                new_hits: list, new_cashed: list, confirmed: list) -> None:
-    """Alert when confirmed-ticket players hit their prop or tickets cash."""
+                new_hits: list, hits: list, confirmed: list) -> None:
+    """Alert on new prop hits, with round-robin cash progress per ticket."""
     emoji, verb = HIT_STYLE.get(board, ("🎯", "hit"))
-    on_tickets = {}
+    hitset = set(hits)
+    lines = [f"{emoji} **{p}** {verb}!" for p in new_hits]
+    fully_cashed = False
     for t in confirmed:
-        for p in t["legs"]:
-            on_tickets.setdefault(p, []).append(t["name"])
-    lines = [f"{emoji} **{p}** {verb}!" +
-             (f" — on {', '.join(on_tickets[p])}" if on_tickets.get(p) else "")
-             for p in new_hits]
-    lines += [f"💸 **{t}** CASHED — every leg hit" for t in new_cashed]
+        if not set(t["legs"]) & set(new_hits):
+            continue
+        k = sum(1 for p in t["legs"] if p in hitset)
+        n = len(t["legs"])
+        if k == n:
+            fully_cashed = True
+            lines.append(f"💸 **{t['name']}** CASHED" if n == 1
+                         else f"💸 **{t['name']}** FULLY CASHED {k}/{n}")
+        elif t.get("rr") and k >= 2:
+            lines.append(f"💰 **{t['name']}** cashed {k}/{n} so far — round robin paying")
+        else:
+            lines.append(f"**{t['name']}** {k}/{n} legs hit")
     embed = {
-        "title": f"{emoji} {board}" if not new_cashed else f"💸 {board}",
+        "title": f"💸 {board}" if fully_cashed else f"{emoji} {board}",
         "url": url,
         "color": 0xF1C40F,
         "description": "\n".join(lines)[:4096],
@@ -79,7 +87,7 @@ def notify_hits(webhook: str | None, board: str, url: str,
     if resp.status_code >= 400:
         print(f"ERROR: Discord webhook returned {resp.status_code}: {resp.text[:500]}")
     else:
-        print(f"Notified hits: {board} ({len(new_hits)} hit, {len(new_cashed)} cashed)")
+        print(f"Notified hits: {board} ({len(new_hits)} new hit(s))")
 
 STATE_FILE = Path(__file__).parent / "ticketroom_state.json"
 
@@ -166,19 +174,20 @@ def extract_signature(html: str) -> dict | None:
             confirmed.append({
                 "name": t.get("name"),
                 "legs": sorted(leg.get("name") for leg in legs if leg.get("name")),
+                # Round-robin flag rides along for alert wording only — it is
+                # stripped before hashing so it can never re-announce tickets.
+                "rr": bool(t.get("rr")),
             })
     # Sort so a reordering of unchanged tickets never reads as a change.
     confirmed.sort(key=lambda t: t["name"] or "")
 
     # The build flips players[name].hr when a prop hits mid-game (homer on
     # MLB, goal on soccer, TD on NFL) — it powers the page's ⚾/CASHED stamps.
-    # Track it for confirmed-ticket legs so hits and cashed tickets alert.
+    # Track it for confirmed-ticket legs so hits and ticket progress alert.
     pdata = data.get("players") or {}
     leg_names = {p for t in confirmed for p in t["legs"]}
     hits = sorted(p for p in leg_names if (pdata.get(p) or {}).get("hr"))
-    cashed = sorted(t["name"] for t in confirmed
-                    if all((pdata.get(p) or {}).get("hr") for p in t["legs"]))
-    return {"confirmed": confirmed, "hits": hits, "cashed": cashed}
+    return {"confirmed": confirmed, "hits": hits}
 
 
 def signature_hash(sig: dict) -> str:
@@ -265,18 +274,20 @@ def check_all() -> None:
 
         sig = extract_signature(html)
         if sig is not None:
-            # Hash covers only ticket construction: hit/cashed flips alert
-            # separately and must not re-announce tickets.
-            digest = signature_hash({"confirmed": sig["confirmed"]})
+            # Hash covers only ticket construction (name + legs): hit flips
+            # and the rr flag must never re-announce tickets.
+            digest = signature_hash({"confirmed": [
+                {"name": t["name"], "legs": t["legs"]}
+                for t in sig["confirmed"]]})
             confirmed = sig["confirmed"]
-            hits, cashed = sig["hits"], sig["cashed"]
+            hits = sig["hits"]
         else:
             # Page structure changed and the slate data couldn't be parsed —
             # fall back to raw-page hashing so changes are never missed.
             print(f"WARNING: could not parse slate data on {name}, "
                   f"falling back to raw page hash")
             digest = hashlib.sha256(body).hexdigest()
-            confirmed = hits = cashed = None
+            confirmed = hits = None
         prev = state.get(url)
 
         if prev is None:
@@ -293,24 +304,21 @@ def check_all() -> None:
         else:
             print(f"No change: {name} (last_modified={last_modified or 'n/a'})")
 
-        # Mid-game hit / cashed alerts. "hits" missing from prev means this is
-        # the feature's first run — baseline silently so a live slate doesn't
+        # Mid-game hit alerts. "hits" missing from prev means this is the
+        # feature's first run — baseline silently so a live slate doesn't
         # dump stale homer alerts.
         if prev is not None and hits is not None and "hits" in prev:
             new_hits = [p for p in hits if p not in set(prev.get("hits") or [])]
-            new_cashed = [t for t in cashed
-                          if t not in set(prev.get("cashed") or [])]
-            if new_hits or new_cashed:
-                notify_hits(webhook, name, url, new_hits, new_cashed, confirmed)
+            if new_hits:
+                notify_hits(webhook, name, url, new_hits, hits, confirmed)
 
         if (prev is None or prev.get("hash") != digest
-                or prev.get("hits") != hits or prev.get("cashed") != cashed):
+                or prev.get("hits") != hits):
             changed = True
         state[url] = {
             "hash": digest,
             "confirmed": confirmed,
             "hits": hits,
-            "cashed": cashed,
             "last_modified": last_modified,
             "checked_at": datetime.now(timezone.utc).isoformat(),
         }
