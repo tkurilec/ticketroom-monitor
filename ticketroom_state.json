@@ -18,8 +18,8 @@
       }
     ],
     "hits": [],
-    "last_modified": "Tue, 29 Sep 2026 18:07:25 GMT",
-    "checked_at": "2026-09-29T18:10:19.864913+00:00"
+    "last_modified": "Tue, 29 Sep 2026 18:52:19 GMT",
+    "checked_at": "2026-09-29T18:55:16.133737+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "3b6b16067ba2aee973379f167641cdd72c86dd851bbd417af27d3d7ec1f2ed87",
@@ -74,15 +74,17 @@
         "rr": false
       }
     ],
-    "hits": [],
-    "last_modified": "Tue, 29 Sep 2026 18:07:25 GMT",
-    "checked_at": "2026-09-29T18:10:20.416627+00:00"
+    "hits": [
+      "Lamine Yamal"
+    ],
+    "last_modified": "Tue, 29 Sep 2026 18:52:19 GMT",
+    "checked_at": "2026-09-29T18:55:18.027763+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Tue, 29 Sep 2026 18:07:25 GMT",
-    "checked_at": "2026-09-29T18:10:20.648730+00:00"
+    "last_modified": "Tue, 29 Sep 2026 18:52:19 GMT",
+    "checked_at": "2026-09-29T18:55:18.140598+00:00"
   }
 }
