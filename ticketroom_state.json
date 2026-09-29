@@ -9,19 +9,25 @@
         ]
       }
     ],
-    "last_modified": "Tue, 29 Sep 2026 14:47:35 GMT",
-    "checked_at": "2026-09-29T14:50:18.395566+00:00"
+    "hits": [],
+    "cashed": [],
+    "last_modified": "Tue, 29 Sep 2026 16:16:50 GMT",
+    "checked_at": "2026-09-29T16:17:28.283184+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 29 Sep 2026 14:47:35 GMT",
-    "checked_at": "2026-09-29T14:50:18.690987+00:00"
+    "hits": [],
+    "cashed": [],
+    "last_modified": "Tue, 29 Sep 2026 16:16:50 GMT",
+    "checked_at": "2026-09-29T16:17:28.845907+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 29 Sep 2026 14:47:35 GMT",
-    "checked_at": "2026-09-29T14:50:18.896822+00:00"
+    "hits": [],
+    "cashed": [],
+    "last_modified": "Tue, 29 Sep 2026 16:16:50 GMT",
+    "checked_at": "2026-09-29T16:17:29.245550+00:00"
   }
 }
