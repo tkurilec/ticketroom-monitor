@@ -1,123 +1,20 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "5264a572d38c991ee54005fc12c41745f96a55c410699b0000fa11597d8b39b6",
-    "confirmed": [
-      {
-        "name": "Calm Seas",
-        "legs": [
-          "Nolan Arenado"
-        ]
-      },
-      {
-        "name": "Deep Water Mark",
-        "legs": [
-          "Isaac Paredes"
-        ]
-      },
-      {
-        "name": "Ground Tackle",
-        "legs": [
-          "Vinnie Pasquantino"
-        ]
-      },
-      {
-        "name": "Hold Fast",
-        "legs": [
-          "Isaac Paredes"
-        ]
-      },
-      {
-        "name": "Liftoff Sequence",
-        "legs": [
-          "Ben Rice",
-          "JJ Bleday",
-          "Nolan Arenado",
-          "Wyatt Langford"
-        ]
-      },
-      {
-        "name": "Mach Breaker",
-        "legs": [
-          "Austin Wells",
-          "Brandon Nimmo",
-          "David Fry",
-          "Gavin Sheets"
-        ]
-      },
-      {
-        "name": "Off the Scoreboard",
-        "legs": [
-          "Andr\u00e9s Chaparro",
-          "Christian Walker",
-          "Jonathan Aranda",
-          "Vinnie Pasquantino"
-        ]
-      },
-      {
-        "name": "Punching Through the Ceiling",
-        "legs": [
-          "Cody Bellinger",
-          "David Fry",
-          "Mike Yastrzemski",
-          "Randy Arozarena"
-        ]
-      },
-      {
-        "name": "Riding the Jet Stream",
-        "legs": [
-          "Isaac Paredes",
-          "Manny Machado",
-          "Randal Grichuk",
-          "Victor Mesa"
-        ]
-      },
-      {
-        "name": "Second Stage",
-        "legs": [
-          "Gunnar Henderson",
-          "Kevin McGonigle",
-          "Michael Conforto",
-          "Vinnie Pasquantino"
-        ]
-      },
-      {
-        "name": "Squared Away",
-        "legs": [
-          "David Fry"
-        ]
-      },
-      {
-        "name": "To the Heavens",
-        "legs": [
-          "Nolan Arenado",
-          "Pete Crow-Armstrong",
-          "Spencer Jones",
-          "Spencer Torkelson"
-        ]
-      },
-      {
-        "name": "Upper Deck Bound",
-        "legs": [
-          "Isaac Paredes",
-          "Matt Olson",
-          "Pete Alonso",
-          "Wilyer Abreu"
-        ]
-      }
-    ],
-    "last_modified": "Tue, 29 Sep 2026 03:57:34 GMT",
-    "checked_at": "2026-09-29T04:00:23.716411+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Tue, 29 Sep 2026 13:57:28 GMT",
+    "checked_at": "2026-09-29T14:00:24.751848+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 29 Sep 2026 03:57:34 GMT",
-    "checked_at": "2026-09-29T04:00:24.250825+00:00"
+    "last_modified": "Tue, 29 Sep 2026 13:57:28 GMT",
+    "checked_at": "2026-09-29T14:00:24.934916+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 29 Sep 2026 03:57:34 GMT",
-    "checked_at": "2026-09-29T04:00:24.453237+00:00"
+    "last_modified": "Tue, 29 Sep 2026 13:57:28 GMT",
+    "checked_at": "2026-09-29T14:00:25.093441+00:00"
   }
 }
