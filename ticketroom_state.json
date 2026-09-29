@@ -105,44 +105,19 @@
         ]
       }
     ],
-    "last_modified": "Tue, 29 Sep 2026 00:47:30 GMT",
-    "checked_at": "2026-09-29T00:50:16.020035+00:00"
+    "last_modified": "Tue, 29 Sep 2026 03:57:34 GMT",
+    "checked_at": "2026-09-29T04:00:23.716411+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "last_modified": "Tue, 29 Sep 2026 00:47:30 GMT",
-    "checked_at": "2026-09-29T00:50:16.162645+00:00"
+    "last_modified": "Tue, 29 Sep 2026 03:57:34 GMT",
+    "checked_at": "2026-09-29T04:00:24.250825+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "961d4ee580199bf09ef1f6551e3e1fe435e517910ed358a3f68b8e7f1fde646d",
-    "confirmed": [
-      {
-        "name": "Bell Cow",
-        "legs": [
-          "Rome Odunze"
-        ]
-      },
-      {
-        "name": "Goal Line Back",
-        "legs": [
-          "Sam Roush"
-        ]
-      },
-      {
-        "name": "Red Zone Target",
-        "legs": [
-          "Jahdae Walker"
-        ]
-      },
-      {
-        "name": "The Workhorse",
-        "legs": [
-          "Zach Ertz"
-        ]
-      }
-    ],
-    "last_modified": "Tue, 29 Sep 2026 00:47:30 GMT",
-    "checked_at": "2026-09-29T00:50:16.260597+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "last_modified": "Tue, 29 Sep 2026 03:57:34 GMT",
+    "checked_at": "2026-09-29T04:00:24.453237+00:00"
   }
 }
