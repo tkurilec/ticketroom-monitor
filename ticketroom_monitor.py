@@ -47,7 +47,18 @@ def gambly_link(legs: list, market: str) -> str:
 def _norm_name(s: str) -> str:
     import unicodedata
     return "".join(c for c in unicodedata.normalize("NFKD", s)
-                   if not unicodedata.combining(c)).lower().strip()
+                   if not unicodedata.combining(c)).lower().replace(".", "").strip()
+
+
+def _et_date(fmt: str) -> str:
+    try:
+        from zoneinfo import ZoneInfo
+        return datetime.now(ZoneInfo("America/New_York")).strftime(fmt)
+    except Exception:
+        # Approximate ET without tzdata: UTC-5 keeps the date right except
+        # for a midnight-hour edge, and CI (the real runner) has zoneinfo.
+        from datetime import timedelta
+        return (datetime.now(timezone.utc) - timedelta(hours=5)).strftime(fmt)
 
 
 def fetch_mlb_live_hits(leg_names: set) -> set:
@@ -59,14 +70,7 @@ def fetch_mlb_live_hits(leg_names: set) -> set:
     """
     if not leg_names:
         return set()
-    try:
-        from zoneinfo import ZoneInfo
-        today = datetime.now(ZoneInfo("America/New_York")).strftime("%Y-%m-%d")
-    except Exception:
-        # Approximate ET without tzdata: UTC-5 keeps the date right except
-        # for a midnight-hour edge, and CI (the real runner) has zoneinfo.
-        from datetime import timedelta
-        today = (datetime.now(timezone.utc) - timedelta(hours=5)).strftime("%Y-%m-%d")
+    today = _et_date("%Y-%m-%d")
     want = {_norm_name(n): n for n in leg_names}
     found = set()
     try:
@@ -87,6 +91,45 @@ def fetch_mlb_live_hits(leg_names: set) -> set:
                         found.add(want[nm])
     except Exception as exc:
         print(f"WARNING: statsapi live-HR check failed: {exc}")
+    return found
+
+
+def fetch_nfl_live_tds(leg_names: set, date_yyyymmdd: str | None = None) -> set:
+    """Check ESPN's NFL scoreboard for touchdowns by the given players.
+
+    Same rationale as the MLB StatsAPI check: the site's published data may
+    not credit TDs mid-game. ESPN scoring-play text leads with the scorer
+    ("A.J. Brown 45 Yd pass from Jalen Hurts"), so match names against the
+    segment before any "pass from"/kick parenthetical to avoid crediting the
+    passer or kicker.
+    """
+    if not leg_names:
+        return set()
+    date = date_yyyymmdd or _et_date("%Y%m%d")
+    want = {_norm_name(n): n for n in leg_names}
+    found = set()
+    try:
+        sb = requests.get(
+            "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard",
+            params={"dates": date}, timeout=30).json()
+        events = [e for e in sb.get("events") or []
+                  if ((e.get("status") or {}).get("type") or {}).get("state")
+                  in ("in", "post")]
+        for e in events:
+            summ = requests.get(
+                "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary",
+                params={"event": e.get("id")}, timeout=30).json()
+            for play in summ.get("scoringPlays") or []:
+                if ((play.get("type") or {}).get("abbreviation")) != "TD":
+                    continue
+                scorer_seg = _norm_name(
+                    re.split(r"\bpass from\b", play.get("text") or "")[0]
+                    .split("(")[0])
+                for nn, orig in want.items():
+                    if nn and nn in scorer_seg:
+                        found.add(orig)
+    except Exception as exc:
+        print(f"WARNING: ESPN live-TD check failed: {exc}")
     return found
 
 
@@ -327,9 +370,13 @@ def check_all() -> None:
                 for t in sig["confirmed"]]})
             confirmed = sig["confirmed"]
             hits = sig["hits"]
-            if name == "MLB Board" and confirmed:
-                live = fetch_mlb_live_hits({p for t in confirmed
-                                            for p in t["legs"]})
+            if confirmed:
+                leg_names = {p for t in confirmed for p in t["legs"]}
+                live = set()
+                if name == "MLB Board":
+                    live = fetch_mlb_live_hits(leg_names)
+                elif name == "NFL Board":
+                    live = fetch_nfl_live_tds(leg_names)
                 if live:
                     hits = sorted(set(hits) | live)
         else:
