@@ -40,11 +40,11 @@
     "hits": [
       "Austin Riley"
     ],
-    "last_modified": "Tue, 29 Sep 2026 22:27:11 GMT",
-    "checked_at": "2026-09-29T22:30:23.451470+00:00"
+    "last_modified": "Tue, 29 Sep 2026 23:17:21 GMT",
+    "checked_at": "2026-09-29T23:20:17.639608+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "3b6b16067ba2aee973379f167641cdd72c86dd851bbd417af27d3d7ec1f2ed87",
+    "hash": "7d849f7848e2160eccea03397613b4d2c8a8e62648842ed53b96e95ddd0896f4",
     "confirmed": [
       {
         "name": "Back Post",
@@ -61,9 +61,23 @@
         "rr": false
       },
       {
+        "name": "First Time",
+        "legs": [
+          "Giovanni Reyna"
+        ],
+        "rr": false
+      },
+      {
         "name": "Gets Across",
         "legs": [
           "Oliver McBurnie"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Near Post",
+        "legs": [
+          "Julian Hall"
         ],
         "rr": false
       },
@@ -94,6 +108,13 @@
           "Mikel Oyarzabal"
         ],
         "rr": false
+      },
+      {
+        "name": "Under Lights",
+        "legs": [
+          "Ben Brereton Diaz"
+        ],
+        "rr": false
       }
     ],
     "hits": [
@@ -101,14 +122,14 @@
       "Lamine Yamal",
       "Zeki Amdouni"
     ],
-    "last_modified": "Tue, 29 Sep 2026 22:27:11 GMT",
-    "checked_at": "2026-09-29T22:30:23.656198+00:00"
+    "last_modified": "Tue, 29 Sep 2026 23:17:21 GMT",
+    "checked_at": "2026-09-29T23:20:18.160687+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Tue, 29 Sep 2026 22:27:11 GMT",
-    "checked_at": "2026-09-29T22:30:23.852588+00:00"
+    "last_modified": "Tue, 29 Sep 2026 23:17:21 GMT",
+    "checked_at": "2026-09-29T23:20:18.321011+00:00"
   }
 }
