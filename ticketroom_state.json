@@ -1,31 +1,45 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "cacb81ae1d8ae1fc985bcf61fb6e7e681d9099c8e19456b680b659348b0cd8b5",
+    "hash": "2b1ad1d059c26ed409b498a0429059a4f9181adb7e50456a2db892933649f27c",
     "confirmed": [
+      {
+        "name": "Calm Seas",
+        "legs": [
+          "Spencer Jones"
+        ],
+        "rr": false
+      },
       {
         "name": "The Berth",
         "legs": [
           "Kyle Schwarber"
         ],
         "rr": false
+      },
+      {
+        "name": "The Long Ball",
+        "legs": [
+          "Austin Wells"
+        ],
+        "rr": false
       }
     ],
     "hits": [],
-    "last_modified": "Wed, 30 Sep 2026 15:37:09 GMT",
-    "checked_at": "2026-09-30T15:40:29.849135+00:00"
+    "last_modified": "Wed, 30 Sep 2026 19:30:55 GMT",
+    "checked_at": "2026-09-30T19:35:18.402885+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 30 Sep 2026 15:37:09 GMT",
-    "checked_at": "2026-09-30T15:40:30.233014+00:00"
+    "last_modified": "Wed, 30 Sep 2026 19:30:55 GMT",
+    "checked_at": "2026-09-30T19:35:18.638382+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 30 Sep 2026 15:37:09 GMT",
-    "checked_at": "2026-09-30T15:40:30.441973+00:00"
+    "last_modified": "Wed, 30 Sep 2026 19:30:55 GMT",
+    "checked_at": "2026-09-30T19:35:18.816105+00:00"
   }
 }
