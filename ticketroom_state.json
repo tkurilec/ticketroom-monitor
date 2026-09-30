@@ -1,58 +1,31 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "df8c444fdaddded07962cb17bdd8cb85950ecf4eca5e294eb743622901d79ea2",
+    "hash": "cacb81ae1d8ae1fc985bcf61fb6e7e681d9099c8e19456b680b659348b0cd8b5",
     "confirmed": [
       {
-        "name": "Crushed",
+        "name": "The Berth",
         "legs": [
-          "Austin Riley"
+          "Kyle Schwarber"
         ],
         "rr": false
-      },
-      {
-        "name": "Ground Tackle",
-        "legs": [
-          "Munetaka Murakami"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Riding the Jet Stream",
-        "legs": [
-          "Alex Bregman",
-          "Kyle Schwarber",
-          "Munetaka Murakami",
-          "Roman Anthony"
-        ],
-        "rr": true
-      },
-      {
-        "name": "Upper Deck Bound",
-        "legs": [
-          "Matt Olson",
-          "Munetaka Murakami",
-          "Seiya Suzuki",
-          "Wilyer Abreu"
-        ],
-        "rr": true
       }
     ],
     "hits": [],
-    "last_modified": "Wed, 30 Sep 2026 03:56:45 GMT",
-    "checked_at": "2026-09-30T04:00:19.563016+00:00"
+    "last_modified": "Wed, 30 Sep 2026 15:37:09 GMT",
+    "checked_at": "2026-09-30T15:40:29.849135+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 30 Sep 2026 03:56:45 GMT",
-    "checked_at": "2026-09-30T04:00:19.693833+00:00"
+    "last_modified": "Wed, 30 Sep 2026 15:37:09 GMT",
+    "checked_at": "2026-09-30T15:40:30.233014+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 30 Sep 2026 03:56:45 GMT",
-    "checked_at": "2026-09-30T04:00:20.096447+00:00"
+    "last_modified": "Wed, 30 Sep 2026 15:37:09 GMT",
+    "checked_at": "2026-09-30T15:40:30.441973+00:00"
   }
 }
