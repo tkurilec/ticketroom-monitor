@@ -24,22 +24,24 @@
         "rr": false
       }
     ],
-    "hits": [],
-    "last_modified": "Wed, 30 Sep 2026 19:30:55 GMT",
-    "checked_at": "2026-09-30T19:35:18.402885+00:00"
+    "hits": [
+      "Kyle Schwarber"
+    ],
+    "last_modified": "Wed, 30 Sep 2026 20:27:26 GMT",
+    "checked_at": "2026-09-30T20:30:20.380528+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 30 Sep 2026 19:30:55 GMT",
-    "checked_at": "2026-09-30T19:35:18.638382+00:00"
+    "last_modified": "Wed, 30 Sep 2026 20:27:26 GMT",
+    "checked_at": "2026-09-30T20:30:20.902121+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 30 Sep 2026 19:30:55 GMT",
-    "checked_at": "2026-09-30T19:35:18.816105+00:00"
+    "last_modified": "Wed, 30 Sep 2026 20:27:26 GMT",
+    "checked_at": "2026-09-30T20:30:21.145637+00:00"
   }
 }
