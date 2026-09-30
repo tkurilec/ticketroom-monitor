@@ -37,24 +37,22 @@
         "rr": true
       }
     ],
-    "hits": [
-      "Austin Riley"
-    ],
-    "last_modified": "Wed, 30 Sep 2026 02:22:14 GMT",
-    "checked_at": "2026-09-30T02:25:14.744230+00:00"
+    "hits": [],
+    "last_modified": "Wed, 30 Sep 2026 03:56:45 GMT",
+    "checked_at": "2026-09-30T04:00:19.563016+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 30 Sep 2026 02:22:14 GMT",
-    "checked_at": "2026-09-30T02:25:15.006295+00:00"
+    "last_modified": "Wed, 30 Sep 2026 03:56:45 GMT",
+    "checked_at": "2026-09-30T04:00:19.693833+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 30 Sep 2026 02:22:14 GMT",
-    "checked_at": "2026-09-30T02:25:15.273572+00:00"
+    "last_modified": "Wed, 30 Sep 2026 03:56:45 GMT",
+    "checked_at": "2026-09-30T04:00:20.096447+00:00"
   }
 }
