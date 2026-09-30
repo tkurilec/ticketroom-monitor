@@ -40,97 +40,21 @@
     "hits": [
       "Austin Riley"
     ],
-    "last_modified": "Wed, 30 Sep 2026 01:22:43 GMT",
-    "checked_at": "2026-09-30T01:25:16.521700+00:00"
+    "last_modified": "Wed, 30 Sep 2026 02:22:14 GMT",
+    "checked_at": "2026-09-30T02:25:14.744230+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "7d849f7848e2160eccea03397613b4d2c8a8e62648842ed53b96e95ddd0896f4",
-    "confirmed": [
-      {
-        "name": "Back Post",
-        "legs": [
-          "Bukayo Saka"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Early Doors",
-        "legs": [
-          "Fermin Lopez"
-        ],
-        "rr": false
-      },
-      {
-        "name": "First Time",
-        "legs": [
-          "Giovanni Reyna"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Gets Across",
-        "legs": [
-          "Oliver McBurnie"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Near Post",
-        "legs": [
-          "Julian Hall"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Lamine Yamal"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Harry Kane"
-        ],
-        "rr": false
-      },
-      {
-        "name": "The Nine",
-        "legs": [
-          "Zeki Amdouni"
-        ],
-        "rr": false
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Mikel Oyarzabal"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Under Lights",
-        "legs": [
-          "Ben Brereton Diaz"
-        ],
-        "rr": false
-      }
-    ],
-    "hits": [
-      "Harry Kane",
-      "Julian Hall",
-      "Lamine Yamal",
-      "Zeki Amdouni"
-    ],
-    "last_modified": "Wed, 30 Sep 2026 01:22:43 GMT",
-    "checked_at": "2026-09-30T01:25:17.486909+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "hits": [],
+    "last_modified": "Wed, 30 Sep 2026 02:22:14 GMT",
+    "checked_at": "2026-09-30T02:25:15.006295+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 30 Sep 2026 01:22:43 GMT",
-    "checked_at": "2026-09-30T01:25:17.787424+00:00"
+    "last_modified": "Wed, 30 Sep 2026 02:22:14 GMT",
+    "checked_at": "2026-09-30T02:25:15.273572+00:00"
   }
 }
