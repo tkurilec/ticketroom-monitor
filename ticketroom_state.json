@@ -40,8 +40,8 @@
     "hits": [
       "Austin Riley"
     ],
-    "last_modified": "Tue, 29 Sep 2026 23:17:21 GMT",
-    "checked_at": "2026-09-29T23:20:17.639608+00:00"
+    "last_modified": "Wed, 30 Sep 2026 01:22:43 GMT",
+    "checked_at": "2026-09-30T01:25:16.521700+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "7d849f7848e2160eccea03397613b4d2c8a8e62648842ed53b96e95ddd0896f4",
@@ -119,17 +119,18 @@
     ],
     "hits": [
       "Harry Kane",
+      "Julian Hall",
       "Lamine Yamal",
       "Zeki Amdouni"
     ],
-    "last_modified": "Tue, 29 Sep 2026 23:17:21 GMT",
-    "checked_at": "2026-09-29T23:20:18.160687+00:00"
+    "last_modified": "Wed, 30 Sep 2026 01:22:43 GMT",
+    "checked_at": "2026-09-30T01:25:17.486909+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Tue, 29 Sep 2026 23:17:21 GMT",
-    "checked_at": "2026-09-29T23:20:18.321011+00:00"
+    "last_modified": "Wed, 30 Sep 2026 01:22:43 GMT",
+    "checked_at": "2026-09-30T01:25:17.787424+00:00"
   }
 }
