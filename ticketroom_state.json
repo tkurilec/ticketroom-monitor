@@ -67,21 +67,36 @@
     "hits": [
       "Kyle Schwarber"
     ],
-    "last_modified": "Wed, 30 Sep 2026 22:22:13 GMT",
-    "checked_at": "2026-09-30T22:25:16.694521+00:00"
+    "last_modified": "Wed, 30 Sep 2026 23:31:10 GMT",
+    "checked_at": "2026-09-30T23:35:14.365652+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "6defbb66b74074c359ffeab5c8b40388e6c247f78ec3b927d1f7b20f5320c6fa",
+    "confirmed": [
+      {
+        "name": "Target Man",
+        "legs": [
+          "Lautaro Martinez"
+        ],
+        "rr": false
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Julian Alvarez"
+        ],
+        "rr": false
+      }
+    ],
     "hits": [],
-    "last_modified": "Wed, 30 Sep 2026 22:22:13 GMT",
-    "checked_at": "2026-09-30T22:25:17.102075+00:00"
+    "last_modified": "Wed, 30 Sep 2026 23:31:10 GMT",
+    "checked_at": "2026-09-30T23:35:15.216531+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 30 Sep 2026 22:22:13 GMT",
-    "checked_at": "2026-09-30T22:25:17.376349+00:00"
+    "last_modified": "Wed, 30 Sep 2026 23:31:10 GMT",
+    "checked_at": "2026-09-30T23:35:15.404214+00:00"
   }
 }
