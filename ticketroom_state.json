@@ -1,85 +1,23 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "8f35754dd2bab909c01c26ed7c7f71bc1a214ebe1bca6227081dd65389ae5810",
-    "confirmed": [
-      {
-        "name": "Calm Seas",
-        "legs": [
-          "Spencer Jones"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Liftoff Sequence",
-        "legs": [
-          "Isaac Paredes",
-          "Jahmai Jones",
-          "Kyle Schwarber",
-          "Seiya Suzuki"
-        ],
-        "rr": true
-      },
-      {
-        "name": "Off the Scoreboard",
-        "legs": [
-          "Colson Montgomery",
-          "Ian Happ",
-          "Matt Olson",
-          "Spencer Jones"
-        ],
-        "rr": true
-      },
-      {
-        "name": "The Berth",
-        "legs": [
-          "Kyle Schwarber"
-        ],
-        "rr": false
-      },
-      {
-        "name": "The Long Ball",
-        "legs": [
-          "Austin Wells"
-        ],
-        "rr": false
-      },
-      {
-        "name": "To the Heavens",
-        "legs": [
-          "Alex Bregman",
-          "Kyle Schwarber",
-          "Munetaka Murakami",
-          "Willson Contreras"
-        ],
-        "rr": true
-      },
-      {
-        "name": "Upper Deck Bound",
-        "legs": [
-          "Austin Riley",
-          "Michael Busch",
-          "Spencer Jones",
-          "Yordan Alvarez"
-        ],
-        "rr": true
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 01 Oct 2026 05:21:24 GMT",
-    "checked_at": "2026-10-01T05:25:13.136859+00:00"
+    "last_modified": "Thu, 01 Oct 2026 15:17:21 GMT",
+    "checked_at": "2026-10-01T15:20:16.278027+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 01 Oct 2026 05:21:24 GMT",
-    "checked_at": "2026-10-01T05:25:13.375036+00:00"
+    "last_modified": "Thu, 01 Oct 2026 15:17:21 GMT",
+    "checked_at": "2026-10-01T15:20:16.572688+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 01 Oct 2026 05:21:24 GMT",
-    "checked_at": "2026-10-01T05:25:13.537434+00:00"
+    "last_modified": "Thu, 01 Oct 2026 15:17:21 GMT",
+    "checked_at": "2026-10-01T15:20:16.835331+00:00"
   }
 }
