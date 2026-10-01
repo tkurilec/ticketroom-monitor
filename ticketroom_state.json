@@ -3,8 +3,8 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 01 Oct 2026 19:17:21 GMT",
-    "checked_at": "2026-10-01T19:20:17.975563+00:00"
+    "last_modified": "Thu, 01 Oct 2026 20:01:10 GMT",
+    "checked_at": "2026-10-01T20:05:15.735031+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8ab281b3133f00fcf6958199b28ba747e5e2b488ba21da5e2af9b9b4502fa4e9",
@@ -39,16 +39,17 @@
       }
     ],
     "hits": [
-      "Matias Goncalo Ramos"
+      "Matias Goncalo Ramos",
+      "Rasmus Hojlund"
     ],
-    "last_modified": "Thu, 01 Oct 2026 19:17:21 GMT",
-    "checked_at": "2026-10-01T19:20:18.637894+00:00"
+    "last_modified": "Thu, 01 Oct 2026 20:01:10 GMT",
+    "checked_at": "2026-10-01T20:05:16.639899+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 01 Oct 2026 19:17:21 GMT",
-    "checked_at": "2026-10-01T19:20:18.801408+00:00"
+    "last_modified": "Thu, 01 Oct 2026 20:01:10 GMT",
+    "checked_at": "2026-10-01T20:05:16.849366+00:00"
   }
 }
