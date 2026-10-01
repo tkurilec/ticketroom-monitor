@@ -67,8 +67,8 @@
     "hits": [
       "Kyle Schwarber"
     ],
-    "last_modified": "Wed, 30 Sep 2026 23:31:10 GMT",
-    "checked_at": "2026-09-30T23:35:14.365652+00:00"
+    "last_modified": "Thu, 01 Oct 2026 01:06:49 GMT",
+    "checked_at": "2026-10-01T01:10:19.071169+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "6defbb66b74074c359ffeab5c8b40388e6c247f78ec3b927d1f7b20f5320c6fa",
@@ -88,15 +88,17 @@
         "rr": false
       }
     ],
-    "hits": [],
-    "last_modified": "Wed, 30 Sep 2026 23:31:10 GMT",
-    "checked_at": "2026-09-30T23:35:15.216531+00:00"
+    "hits": [
+      "Lautaro Martinez"
+    ],
+    "last_modified": "Thu, 01 Oct 2026 01:06:49 GMT",
+    "checked_at": "2026-10-01T01:10:20.840436+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 30 Sep 2026 23:31:10 GMT",
-    "checked_at": "2026-09-30T23:35:15.404214+00:00"
+    "last_modified": "Thu, 01 Oct 2026 01:06:49 GMT",
+    "checked_at": "2026-10-01T01:10:21.015730+00:00"
   }
 }
