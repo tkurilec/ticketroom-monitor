@@ -1,10 +1,18 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "a0642771c15cdfd593b18a69f71a0902208ac6da8369fb0c2b33f20f0aec80bf",
+    "confirmed": [
+      {
+        "name": "Distance Champion",
+        "legs": [
+          "Matt Olson"
+        ],
+        "rr": false
+      }
+    ],
     "hits": [],
-    "last_modified": "Thu, 01 Oct 2026 20:01:10 GMT",
-    "checked_at": "2026-10-01T20:05:15.735031+00:00"
+    "last_modified": "Thu, 01 Oct 2026 20:21:33 GMT",
+    "checked_at": "2026-10-01T20:25:17.276337+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8ab281b3133f00fcf6958199b28ba747e5e2b488ba21da5e2af9b9b4502fa4e9",
@@ -42,14 +50,14 @@
       "Matias Goncalo Ramos",
       "Rasmus Hojlund"
     ],
-    "last_modified": "Thu, 01 Oct 2026 20:01:10 GMT",
-    "checked_at": "2026-10-01T20:05:16.639899+00:00"
+    "last_modified": "Thu, 01 Oct 2026 20:21:33 GMT",
+    "checked_at": "2026-10-01T20:25:17.741184+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 01 Oct 2026 20:01:10 GMT",
-    "checked_at": "2026-10-01T20:05:16.849366+00:00"
+    "last_modified": "Thu, 01 Oct 2026 20:21:33 GMT",
+    "checked_at": "2026-10-01T20:25:18.044775+00:00"
   }
 }
