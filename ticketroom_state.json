@@ -11,8 +11,8 @@
       }
     ],
     "hits": [],
-    "last_modified": "Fri, 02 Oct 2026 17:51:24 GMT",
-    "checked_at": "2026-10-02T17:55:14.834708+00:00"
+    "last_modified": "Fri, 02 Oct 2026 20:06:19 GMT",
+    "checked_at": "2026-10-02T20:10:16.893841+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "077b1e63cc34b3714501a899feadb94c79a134a47a6f19ce085f548d7fa50eb9",
@@ -46,15 +46,17 @@
         "rr": false
       }
     ],
-    "hits": [],
-    "last_modified": "Fri, 02 Oct 2026 17:51:24 GMT",
-    "checked_at": "2026-10-02T17:55:15.759302+00:00"
+    "hits": [
+      "Michael Olise"
+    ],
+    "last_modified": "Fri, 02 Oct 2026 20:06:18 GMT",
+    "checked_at": "2026-10-02T20:10:18.572585+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Fri, 02 Oct 2026 17:51:24 GMT",
-    "checked_at": "2026-10-02T17:55:16.033970+00:00"
+    "last_modified": "Fri, 02 Oct 2026 20:06:19 GMT",
+    "checked_at": "2026-10-02T20:10:18.775488+00:00"
   }
 }
