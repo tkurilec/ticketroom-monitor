@@ -11,8 +11,8 @@
       }
     ],
     "hits": [],
-    "last_modified": "Fri, 02 Oct 2026 00:51:24 GMT",
-    "checked_at": "2026-10-02T00:55:18.554011+00:00"
+    "last_modified": "Fri, 02 Oct 2026 01:36:37 GMT",
+    "checked_at": "2026-10-02T01:40:15.527586+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a40b1879e6982beb81eeed739d08b478449ff49cc7fc3482a8104e79f8fdb7ae",
@@ -64,8 +64,8 @@
       "Matias Goncalo Ramos",
       "Rasmus Hojlund"
     ],
-    "last_modified": "Fri, 02 Oct 2026 00:51:24 GMT",
-    "checked_at": "2026-10-02T00:55:19.182790+00:00"
+    "last_modified": "Fri, 02 Oct 2026 01:36:37 GMT",
+    "checked_at": "2026-10-02T01:40:15.793996+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "dced7a672d844caac51296bf7a2e04ce4db7fb750162ef8133c527cad9e8b07c",
@@ -99,8 +99,10 @@
         "rr": false
       }
     ],
-    "hits": [],
-    "last_modified": "Fri, 02 Oct 2026 00:51:24 GMT",
-    "checked_at": "2026-10-02T00:55:19.539144+00:00"
+    "hits": [
+      "Harold Fannin Jr."
+    ],
+    "last_modified": "Fri, 02 Oct 2026 01:36:38 GMT",
+    "checked_at": "2026-10-02T01:40:16.829839+00:00"
   }
 }
