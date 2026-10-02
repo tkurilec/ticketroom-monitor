@@ -11,11 +11,11 @@
       }
     ],
     "hits": [],
-    "last_modified": "Fri, 02 Oct 2026 00:14:13 GMT",
-    "checked_at": "2026-10-02T00:15:18.519430+00:00"
+    "last_modified": "Fri, 02 Oct 2026 00:51:24 GMT",
+    "checked_at": "2026-10-02T00:55:18.554011+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "8ab281b3133f00fcf6958199b28ba747e5e2b488ba21da5e2af9b9b4502fa4e9",
+    "hash": "a40b1879e6982beb81eeed739d08b478449ff49cc7fc3482a8104e79f8fdb7ae",
     "confirmed": [
       {
         "name": "Back Post",
@@ -32,9 +32,23 @@
         "rr": false
       },
       {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Danny Musovski"
+        ],
+        "rr": false
+      },
+      {
         "name": "Target Man",
         "legs": [
           "Serge Gnabry"
+        ],
+        "rr": false
+      },
+      {
+        "name": "The Nine",
+        "legs": [
+          "Jordan Morris"
         ],
         "rr": false
       },
@@ -50,8 +64,8 @@
       "Matias Goncalo Ramos",
       "Rasmus Hojlund"
     ],
-    "last_modified": "Fri, 02 Oct 2026 00:14:13 GMT",
-    "checked_at": "2026-10-02T00:15:18.821734+00:00"
+    "last_modified": "Fri, 02 Oct 2026 00:51:24 GMT",
+    "checked_at": "2026-10-02T00:55:19.182790+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "dced7a672d844caac51296bf7a2e04ce4db7fb750162ef8133c527cad9e8b07c",
@@ -86,7 +100,7 @@
       }
     ],
     "hits": [],
-    "last_modified": "Fri, 02 Oct 2026 00:14:13 GMT",
-    "checked_at": "2026-10-02T00:15:19.745399+00:00"
+    "last_modified": "Fri, 02 Oct 2026 00:51:24 GMT",
+    "checked_at": "2026-10-02T00:55:19.539144+00:00"
   }
 }
