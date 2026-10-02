@@ -11,8 +11,8 @@
       }
     ],
     "hits": [],
-    "last_modified": "Thu, 01 Oct 2026 20:21:33 GMT",
-    "checked_at": "2026-10-01T20:25:17.276337+00:00"
+    "last_modified": "Fri, 02 Oct 2026 00:14:13 GMT",
+    "checked_at": "2026-10-02T00:15:18.519430+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8ab281b3133f00fcf6958199b28ba747e5e2b488ba21da5e2af9b9b4502fa4e9",
@@ -50,14 +50,43 @@
       "Matias Goncalo Ramos",
       "Rasmus Hojlund"
     ],
-    "last_modified": "Thu, 01 Oct 2026 20:21:33 GMT",
-    "checked_at": "2026-10-01T20:25:17.741184+00:00"
+    "last_modified": "Fri, 02 Oct 2026 00:14:13 GMT",
+    "checked_at": "2026-10-02T00:15:18.821734+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "dced7a672d844caac51296bf7a2e04ce4db7fb750162ef8133c527cad9e8b07c",
+    "confirmed": [
+      {
+        "name": "Bell Cow",
+        "legs": [
+          "Harold Fannin Jr."
+        ],
+        "rr": false
+      },
+      {
+        "name": "Red Zone Target",
+        "legs": [
+          "Michael Pittman"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Short Yardage",
+        "legs": [
+          "Jerry Jeudy"
+        ],
+        "rr": false
+      },
+      {
+        "name": "The Workhorse",
+        "legs": [
+          "DK Metcalf"
+        ],
+        "rr": false
+      }
+    ],
     "hits": [],
-    "last_modified": "Thu, 01 Oct 2026 20:21:33 GMT",
-    "checked_at": "2026-10-01T20:25:18.044775+00:00"
+    "last_modified": "Fri, 02 Oct 2026 00:14:13 GMT",
+    "checked_at": "2026-10-02T00:15:19.745399+00:00"
   }
 }
