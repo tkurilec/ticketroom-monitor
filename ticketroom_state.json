@@ -3,52 +3,21 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Mon, 05 Oct 2026 15:37:05 GMT",
-    "checked_at": "2026-10-05T15:40:18.061406+00:00"
+    "last_modified": "Mon, 05 Oct 2026 15:51:38 GMT",
+    "checked_at": "2026-10-05T15:55:15.472063+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "077b1e63cc34b3714501a899feadb94c79a134a47a6f19ce085f548d7fa50eb9",
-    "confirmed": [
-      {
-        "name": "Back Post",
-        "legs": [
-          "Charles De Ketelaere"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Mika Godts"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Ousmane Dembele"
-        ],
-        "rr": false
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Michael Olise"
-        ],
-        "rr": false
-      }
-    ],
-    "hits": [
-      "Michael Olise"
-    ],
-    "last_modified": "Mon, 05 Oct 2026 15:37:05 GMT",
-    "checked_at": "2026-10-05T15:40:18.514081+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "hits": [],
+    "last_modified": "Mon, 05 Oct 2026 15:51:38 GMT",
+    "checked_at": "2026-10-05T15:55:15.695886+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Mon, 05 Oct 2026 15:37:05 GMT",
-    "checked_at": "2026-10-05T15:40:18.844023+00:00"
+    "last_modified": "Mon, 05 Oct 2026 15:51:38 GMT",
+    "checked_at": "2026-10-05T15:55:15.842404+00:00"
   }
 }
