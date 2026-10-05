@@ -3,8 +3,8 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Mon, 05 Oct 2026 17:46:45 GMT",
-    "checked_at": "2026-10-05T17:50:17.726913+00:00"
+    "last_modified": "Mon, 05 Oct 2026 19:15:02 GMT",
+    "checked_at": "2026-10-05T19:15:40.005096+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e5e00e41ad1e74e3090d331f02e85151ce29037a82431a2bd939027b3295d468",
@@ -38,15 +38,17 @@
         "rr": false
       }
     ],
-    "hits": [],
-    "last_modified": "Mon, 05 Oct 2026 17:46:45 GMT",
-    "checked_at": "2026-10-05T17:50:18.441966+00:00"
+    "hits": [
+      "Gianluca Scamacca"
+    ],
+    "last_modified": "Mon, 05 Oct 2026 19:15:02 GMT",
+    "checked_at": "2026-10-05T19:15:41.214792+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Mon, 05 Oct 2026 17:46:45 GMT",
-    "checked_at": "2026-10-05T17:50:18.644004+00:00"
+    "last_modified": "Mon, 05 Oct 2026 19:15:02 GMT",
+    "checked_at": "2026-10-05T19:15:41.407230+00:00"
   }
 }
