@@ -3,29 +3,43 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Tue, 06 Oct 2026 17:47:38 GMT",
-    "checked_at": "2026-10-06T17:50:17.220315+00:00"
+    "last_modified": "Tue, 06 Oct 2026 17:57:02 GMT",
+    "checked_at": "2026-10-06T18:00:23.660029+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "de5bf3386a559821f617d125bdc5ab19ff1837891e8a6b7c20520ae7e464dd5f",
+    "hash": "068c1006f65568aee8df479157ef56793413be4a2c45d6e2d99473be21912a67",
     "confirmed": [
+      {
+        "name": "First Time",
+        "legs": [
+          "Zeki Amdouni"
+        ],
+        "rr": false
+      },
       {
         "name": "Near Post",
         "legs": [
           "Lamine Yamal"
         ],
         "rr": false
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Jude Bellingham"
+        ],
+        "rr": false
       }
     ],
     "hits": [],
-    "last_modified": "Tue, 06 Oct 2026 17:47:38 GMT",
-    "checked_at": "2026-10-06T17:50:18.520515+00:00"
+    "last_modified": "Tue, 06 Oct 2026 17:57:02 GMT",
+    "checked_at": "2026-10-06T18:00:25.260850+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Tue, 06 Oct 2026 17:47:38 GMT",
-    "checked_at": "2026-10-06T17:50:18.938109+00:00"
+    "last_modified": "Tue, 06 Oct 2026 17:57:02 GMT",
+    "checked_at": "2026-10-06T18:00:25.457332+00:00"
   }
 }
