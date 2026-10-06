@@ -10,11 +10,9 @@
         "rr": false
       }
     ],
-    "hits": [
-      "Ben Rice"
-    ],
-    "last_modified": "Tue, 06 Oct 2026 01:22:04 GMT",
-    "checked_at": "2026-10-06T01:25:14.782846+00:00"
+    "hits": [],
+    "last_modified": "Tue, 06 Oct 2026 03:37:39 GMT",
+    "checked_at": "2026-10-06T04:00:24.183570+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e5e00e41ad1e74e3090d331f02e85151ce29037a82431a2bd939027b3295d468",
@@ -51,59 +49,14 @@
     "hits": [
       "Gianluca Scamacca"
     ],
-    "last_modified": "Tue, 06 Oct 2026 01:22:04 GMT",
-    "checked_at": "2026-10-06T01:25:15.050756+00:00"
+    "last_modified": "Tue, 06 Oct 2026 03:37:39 GMT",
+    "checked_at": "2026-10-06T04:00:24.766902+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "c61a55b8fcf2b0da4473b0d9b762850807295de291d951e83bea4c31024a7709",
-    "confirmed": [
-      {
-        "name": "Bell Cow",
-        "legs": [
-          "Brian Robinson"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Goal Line Back",
-        "legs": [
-          "Olamide Zaccheaus"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Red Zone Target",
-        "legs": [
-          "Kevin Austin Jr."
-        ],
-        "rr": false
-      },
-      {
-        "name": "Short Yardage",
-        "legs": [
-          "Chris Blair"
-        ],
-        "rr": false
-      },
-      {
-        "name": "The Checkdown",
-        "legs": [
-          "Charlie Woerner"
-        ],
-        "rr": false
-      },
-      {
-        "name": "The Workhorse",
-        "legs": [
-          "Juwan Johnson"
-        ],
-        "rr": false
-      }
-    ],
-    "hits": [
-      "Brian Robinson"
-    ],
-    "last_modified": "Tue, 06 Oct 2026 01:22:04 GMT",
-    "checked_at": "2026-10-06T01:25:16.137211+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "hits": [],
+    "last_modified": "Tue, 06 Oct 2026 03:37:39 GMT",
+    "checked_at": "2026-10-06T04:00:25.040474+00:00"
   }
 }
