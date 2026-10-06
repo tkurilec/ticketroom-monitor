@@ -1,18 +1,10 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "ae082023e1938fefae60cc0b2be1ffd7d0d64b9f331c773a3a85819ffac8e2d8",
-    "confirmed": [
-      {
-        "name": "The Big Carry",
-        "legs": [
-          "Matt Olson"
-        ],
-        "rr": false
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "hits": [],
-    "last_modified": "Tue, 06 Oct 2026 18:11:45 GMT",
-    "checked_at": "2026-10-06T18:15:18.866977+00:00"
+    "last_modified": "Tue, 06 Oct 2026 18:21:39 GMT",
+    "checked_at": "2026-10-06T18:25:15.530638+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "068c1006f65568aee8df479157ef56793413be4a2c45d6e2d99473be21912a67",
@@ -40,14 +32,14 @@
       }
     ],
     "hits": [],
-    "last_modified": "Tue, 06 Oct 2026 18:11:45 GMT",
-    "checked_at": "2026-10-06T18:15:19.140173+00:00"
+    "last_modified": "Tue, 06 Oct 2026 18:21:39 GMT",
+    "checked_at": "2026-10-06T18:25:15.718922+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Tue, 06 Oct 2026 18:11:46 GMT",
-    "checked_at": "2026-10-06T18:15:19.642794+00:00"
+    "last_modified": "Tue, 06 Oct 2026 18:21:39 GMT",
+    "checked_at": "2026-10-06T18:25:15.924532+00:00"
   }
 }
