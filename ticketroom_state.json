@@ -11,8 +11,8 @@
       }
     ],
     "hits": [],
-    "last_modified": "Mon, 05 Oct 2026 21:26:09 GMT",
-    "checked_at": "2026-10-05T21:26:39.171481+00:00"
+    "last_modified": "Tue, 06 Oct 2026 00:11:40 GMT",
+    "checked_at": "2026-10-06T00:15:17.339326+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e5e00e41ad1e74e3090d331f02e85151ce29037a82431a2bd939027b3295d468",
@@ -49,14 +49,57 @@
     "hits": [
       "Gianluca Scamacca"
     ],
-    "last_modified": "Mon, 05 Oct 2026 21:26:09 GMT",
-    "checked_at": "2026-10-05T21:26:39.276876+00:00"
+    "last_modified": "Tue, 06 Oct 2026 00:11:40 GMT",
+    "checked_at": "2026-10-06T00:15:17.655357+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "c61a55b8fcf2b0da4473b0d9b762850807295de291d951e83bea4c31024a7709",
+    "confirmed": [
+      {
+        "name": "Bell Cow",
+        "legs": [
+          "Brian Robinson"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Goal Line Back",
+        "legs": [
+          "Olamide Zaccheaus"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Red Zone Target",
+        "legs": [
+          "Kevin Austin Jr."
+        ],
+        "rr": false
+      },
+      {
+        "name": "Short Yardage",
+        "legs": [
+          "Chris Blair"
+        ],
+        "rr": false
+      },
+      {
+        "name": "The Checkdown",
+        "legs": [
+          "Charlie Woerner"
+        ],
+        "rr": false
+      },
+      {
+        "name": "The Workhorse",
+        "legs": [
+          "Juwan Johnson"
+        ],
+        "rr": false
+      }
+    ],
     "hits": [],
-    "last_modified": "Mon, 05 Oct 2026 21:26:09 GMT",
-    "checked_at": "2026-10-05T21:26:39.385703+00:00"
+    "last_modified": "Tue, 06 Oct 2026 00:11:40 GMT",
+    "checked_at": "2026-10-06T00:15:18.541832+00:00"
   }
 }
