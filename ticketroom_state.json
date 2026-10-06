@@ -11,11 +11,11 @@
       }
     ],
     "hits": [],
-    "last_modified": "Tue, 06 Oct 2026 18:46:29 GMT",
-    "checked_at": "2026-10-06T18:50:20.065429+00:00"
+    "last_modified": "Tue, 06 Oct 2026 23:27:26 GMT",
+    "checked_at": "2026-10-06T23:30:17.819161+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "068c1006f65568aee8df479157ef56793413be4a2c45d6e2d99473be21912a67",
+    "hash": "fd394be3cef8c550dcbed8ced27f4031c13b088ba5692e0656c9ccc96e4168da",
     "confirmed": [
       {
         "name": "First Time",
@@ -25,9 +25,23 @@
         "rr": false
       },
       {
+        "name": "Gets Across",
+        "legs": [
+          "Jonathan David"
+        ],
+        "rr": false
+      },
+      {
         "name": "Near Post",
         "legs": [
           "Lamine Yamal"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Tani Oluwaseyi"
         ],
         "rr": false
       },
@@ -40,14 +54,14 @@
       }
     ],
     "hits": [],
-    "last_modified": "Tue, 06 Oct 2026 18:46:29 GMT",
-    "checked_at": "2026-10-06T18:50:20.425084+00:00"
+    "last_modified": "Tue, 06 Oct 2026 23:27:26 GMT",
+    "checked_at": "2026-10-06T23:30:18.351888+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Tue, 06 Oct 2026 18:46:29 GMT",
-    "checked_at": "2026-10-06T18:50:20.630870+00:00"
+    "last_modified": "Tue, 06 Oct 2026 23:27:26 GMT",
+    "checked_at": "2026-10-06T23:30:18.531508+00:00"
   }
 }
