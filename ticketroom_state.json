@@ -11,52 +11,21 @@
       }
     ],
     "hits": [],
-    "last_modified": "Tue, 06 Oct 2026 03:37:39 GMT",
-    "checked_at": "2026-10-06T04:00:24.183570+00:00"
+    "last_modified": "Tue, 06 Oct 2026 15:31:03 GMT",
+    "checked_at": "2026-10-06T15:35:13.899530+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e5e00e41ad1e74e3090d331f02e85151ce29037a82431a2bd939027b3295d468",
-    "confirmed": [
-      {
-        "name": "Back Post",
-        "legs": [
-          "Esteban Lepaul"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Bradley Barcola"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Gianluca Scamacca"
-        ],
-        "rr": false
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Daniel Maldini"
-        ],
-        "rr": false
-      }
-    ],
-    "hits": [
-      "Gianluca Scamacca"
-    ],
-    "last_modified": "Tue, 06 Oct 2026 03:37:39 GMT",
-    "checked_at": "2026-10-06T04:00:24.766902+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "hits": [],
+    "last_modified": "Tue, 06 Oct 2026 15:31:03 GMT",
+    "checked_at": "2026-10-06T15:35:14.065466+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Tue, 06 Oct 2026 03:37:39 GMT",
-    "checked_at": "2026-10-06T04:00:25.040474+00:00"
+    "last_modified": "Tue, 06 Oct 2026 15:31:03 GMT",
+    "checked_at": "2026-10-06T15:35:14.221025+00:00"
   }
 }
