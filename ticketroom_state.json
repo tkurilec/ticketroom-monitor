@@ -11,11 +11,11 @@
       }
     ],
     "hits": [],
-    "last_modified": "Wed, 07 Oct 2026 02:59:44 GMT",
-    "checked_at": "2026-10-07T03:00:20.231745+00:00"
+    "last_modified": "Wed, 07 Oct 2026 03:56:19 GMT",
+    "checked_at": "2026-10-07T04:00:20.368617+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "184b2de22ef2befc84753a99470cc2ed7a85143186a39ae9f4c6ba96f8ceb6b2",
+    "hash": "6a1d7347d9c852e8b46f6fc73b425670f687c74e8b8f15ed6153e836c56b705e",
     "confirmed": [
       {
         "name": "Back Post",
@@ -60,13 +60,6 @@
         "rr": false
       },
       {
-        "name": "The Nine",
-        "legs": [
-          "Jose Manuel Lopez"
-        ],
-        "rr": false
-      },
-      {
         "name": "The Poacher",
         "legs": [
           "Brian White"
@@ -75,14 +68,14 @@
       }
     ],
     "hits": [],
-    "last_modified": "Wed, 07 Oct 2026 02:59:44 GMT",
-    "checked_at": "2026-10-07T03:00:21.571551+00:00"
+    "last_modified": "Wed, 07 Oct 2026 03:56:19 GMT",
+    "checked_at": "2026-10-07T04:00:20.563537+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 07 Oct 2026 02:59:44 GMT",
-    "checked_at": "2026-10-07T03:00:21.878945+00:00"
+    "last_modified": "Wed, 07 Oct 2026 03:56:19 GMT",
+    "checked_at": "2026-10-07T04:00:20.775793+00:00"
   }
 }
