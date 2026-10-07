@@ -1,18 +1,45 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "3c3ddef0b8f6c79b78be92b0ff2f19cc8818ed133879ab100639a4b2e6c36875",
+    "hash": "be58c6221063ebc6de67bdf1ca12ed1ca669203bc76396ee8b6d2a201470b57e",
     "confirmed": [
+      {
+        "name": "Deep Water",
+        "legs": [
+          "Manny Machado"
+        ],
+        "rr": false
+      },
       {
         "name": "Out of Sight",
         "legs": [
           "Austin Wells"
         ],
         "rr": false
+      },
+      {
+        "name": "Trajectory Locked",
+        "legs": [
+          "Jos\u00e9 Ram\u00edrez",
+          "Manny Machado",
+          "Max Muncy",
+          "Yandy D\u00edaz"
+        ],
+        "rr": true
+      },
+      {
+        "name": "Zero Gravity",
+        "legs": [
+          "Manny Machado",
+          "Mike Yastrzemski",
+          "Munetaka Murakami",
+          "Spencer Jones"
+        ],
+        "rr": true
       }
     ],
     "hits": [],
-    "last_modified": "Wed, 07 Oct 2026 19:56:41 GMT",
-    "checked_at": "2026-10-07T20:00:25.637868+00:00"
+    "last_modified": "Wed, 07 Oct 2026 21:01:00 GMT",
+    "checked_at": "2026-10-07T21:05:14.535546+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "6a1d7347d9c852e8b46f6fc73b425670f687c74e8b8f15ed6153e836c56b705e",
@@ -68,14 +95,14 @@
       }
     ],
     "hits": [],
-    "last_modified": "Wed, 07 Oct 2026 19:56:41 GMT",
-    "checked_at": "2026-10-07T20:00:26.056495+00:00"
+    "last_modified": "Wed, 07 Oct 2026 21:01:00 GMT",
+    "checked_at": "2026-10-07T21:05:14.700948+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 07 Oct 2026 19:56:41 GMT",
-    "checked_at": "2026-10-07T20:00:26.766453+00:00"
+    "last_modified": "Wed, 07 Oct 2026 21:01:00 GMT",
+    "checked_at": "2026-10-07T21:05:14.850138+00:00"
   }
 }
