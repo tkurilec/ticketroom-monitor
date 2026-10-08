@@ -1,23 +1,31 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "470e263840d17df8d9aacdc57f7d2155abc056bbfb9138830269d80dd0ba4d62",
+    "confirmed": [
+      {
+        "name": "The Moon Landing",
+        "legs": [
+          "Randal Grichuk"
+        ],
+        "rr": false
+      }
+    ],
     "hits": [],
-    "last_modified": "Thu, 08 Oct 2026 14:16:55 GMT",
-    "checked_at": "2026-10-08T14:20:17.568714+00:00"
+    "last_modified": "Thu, 08 Oct 2026 20:06:31 GMT",
+    "checked_at": "2026-10-08T20:10:17.114638+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 08 Oct 2026 14:16:55 GMT",
-    "checked_at": "2026-10-08T14:20:18.870297+00:00"
+    "last_modified": "Thu, 08 Oct 2026 20:06:31 GMT",
+    "checked_at": "2026-10-08T20:10:17.402038+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 08 Oct 2026 14:16:55 GMT",
-    "checked_at": "2026-10-08T14:20:19.119745+00:00"
+    "last_modified": "Thu, 08 Oct 2026 20:06:31 GMT",
+    "checked_at": "2026-10-08T20:10:17.526079+00:00"
   }
 }
