@@ -3,71 +3,21 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 08 Oct 2026 14:01:14 GMT",
-    "checked_at": "2026-10-08T14:05:14.058644+00:00"
+    "last_modified": "Thu, 08 Oct 2026 14:16:55 GMT",
+    "checked_at": "2026-10-08T14:20:17.568714+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "6a1d7347d9c852e8b46f6fc73b425670f687c74e8b8f15ed6153e836c56b705e",
-    "confirmed": [
-      {
-        "name": "Back Post",
-        "legs": [
-          "Emmanuel Sabbi"
-        ],
-        "rr": false
-      },
-      {
-        "name": "First Time",
-        "legs": [
-          "Zeki Amdouni"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Gets Across",
-        "legs": [
-          "Jonathan David"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Near Post",
-        "legs": [
-          "Lamine Yamal"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Tani Oluwaseyi"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Jude Bellingham"
-        ],
-        "rr": false
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Brian White"
-        ],
-        "rr": false
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 08 Oct 2026 14:01:14 GMT",
-    "checked_at": "2026-10-08T14:05:14.370740+00:00"
+    "last_modified": "Thu, 08 Oct 2026 14:16:55 GMT",
+    "checked_at": "2026-10-08T14:20:18.870297+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 08 Oct 2026 14:01:14 GMT",
-    "checked_at": "2026-10-08T14:05:14.636834+00:00"
+    "last_modified": "Thu, 08 Oct 2026 14:16:55 GMT",
+    "checked_at": "2026-10-08T14:20:19.119745+00:00"
   }
 }
