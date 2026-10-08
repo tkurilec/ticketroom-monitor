@@ -37,9 +37,11 @@
         "rr": true
       }
     ],
-    "hits": [],
-    "last_modified": "Wed, 07 Oct 2026 21:01:00 GMT",
-    "checked_at": "2026-10-07T21:05:14.535546+00:00"
+    "hits": [
+      "Max Muncy"
+    ],
+    "last_modified": "Thu, 08 Oct 2026 00:51:26 GMT",
+    "checked_at": "2026-10-08T00:55:14.861765+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "6a1d7347d9c852e8b46f6fc73b425670f687c74e8b8f15ed6153e836c56b705e",
@@ -95,14 +97,14 @@
       }
     ],
     "hits": [],
-    "last_modified": "Wed, 07 Oct 2026 21:01:00 GMT",
-    "checked_at": "2026-10-07T21:05:14.700948+00:00"
+    "last_modified": "Thu, 08 Oct 2026 00:51:26 GMT",
+    "checked_at": "2026-10-08T00:55:15.085456+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 07 Oct 2026 21:01:00 GMT",
-    "checked_at": "2026-10-07T21:05:14.850138+00:00"
+    "last_modified": "Thu, 08 Oct 2026 00:51:26 GMT",
+    "checked_at": "2026-10-08T00:55:15.370431+00:00"
   }
 }
