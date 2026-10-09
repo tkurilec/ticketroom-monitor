@@ -11,21 +11,36 @@
       }
     ],
     "hits": [],
-    "last_modified": "Fri, 09 Oct 2026 03:47:52 GMT",
-    "checked_at": "2026-10-09T04:00:22.547003+00:00"
+    "last_modified": "Fri, 09 Oct 2026 17:41:15 GMT",
+    "checked_at": "2026-10-09T17:45:15.560868+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "48ac2d183f434e197542226908ad73be628ccf8d1a4c80fa05b4246d34d35489",
+    "confirmed": [
+      {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Maximilian Beier"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Serhou Guirassy"
+        ],
+        "rr": false
+      }
+    ],
     "hits": [],
-    "last_modified": "Fri, 09 Oct 2026 03:47:52 GMT",
-    "checked_at": "2026-10-09T04:00:22.939539+00:00"
+    "last_modified": "Fri, 09 Oct 2026 17:41:15 GMT",
+    "checked_at": "2026-10-09T17:45:16.047347+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Fri, 09 Oct 2026 03:47:52 GMT",
-    "checked_at": "2026-10-09T04:00:23.156653+00:00"
+    "last_modified": "Fri, 09 Oct 2026 17:41:15 GMT",
+    "checked_at": "2026-10-09T17:45:16.150036+00:00"
   }
 }
