@@ -11,12 +11,19 @@
       }
     ],
     "hits": [],
-    "last_modified": "Fri, 09 Oct 2026 17:56:14 GMT",
-    "checked_at": "2026-10-09T18:00:22.433406+00:00"
+    "last_modified": "Fri, 09 Oct 2026 18:06:12 GMT",
+    "checked_at": "2026-10-09T18:10:16.854619+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "5d0b41ebd92bd1c9efb3b96761092fb463abf3d26867053f8b97e2418c73a122",
+    "hash": "56e1f4a7c65955a7392c84529d49accdb31b30e642b5153a68f99c663eb554e8",
     "confirmed": [
+      {
+        "name": "Back Post",
+        "legs": [
+          "Lois Openda"
+        ],
+        "rr": false
+      },
       {
         "name": "Six-Yard Box",
         "legs": [
@@ -40,14 +47,14 @@
       }
     ],
     "hits": [],
-    "last_modified": "Fri, 09 Oct 2026 17:56:14 GMT",
-    "checked_at": "2026-10-09T18:00:23.446508+00:00"
+    "last_modified": "Fri, 09 Oct 2026 18:06:12 GMT",
+    "checked_at": "2026-10-09T18:10:17.777085+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Fri, 09 Oct 2026 17:56:14 GMT",
-    "checked_at": "2026-10-09T18:00:23.835483+00:00"
+    "last_modified": "Fri, 09 Oct 2026 18:06:12 GMT",
+    "checked_at": "2026-10-09T18:10:18.135347+00:00"
   }
 }
