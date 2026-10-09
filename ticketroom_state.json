@@ -11,21 +11,71 @@
       }
     ],
     "hits": [],
-    "last_modified": "Thu, 08 Oct 2026 20:06:31 GMT",
-    "checked_at": "2026-10-08T20:10:17.114638+00:00"
+    "last_modified": "Fri, 09 Oct 2026 00:12:15 GMT",
+    "checked_at": "2026-10-09T00:15:17.594803+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 08 Oct 2026 20:06:31 GMT",
-    "checked_at": "2026-10-08T20:10:17.402038+00:00"
+    "last_modified": "Fri, 09 Oct 2026 00:12:15 GMT",
+    "checked_at": "2026-10-09T00:15:17.872268+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "8da90fbdfbbd164604a9fd299ee37badc22645448fe3694e6bc19c3cc9f01d2a",
+    "confirmed": [
+      {
+        "name": "Bell Cow",
+        "legs": [
+          "Ryan Flournoy"
+        ],
+        "rr": false
+      },
+      {
+        "name": "First Read",
+        "legs": [
+          "Jonathan Mingo"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Goal Line Back",
+        "legs": [
+          "Sean Tucker"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Red Zone Target",
+        "legs": [
+          "Cade Otton"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Short Yardage",
+        "legs": [
+          "Payne Durham"
+        ],
+        "rr": false
+      },
+      {
+        "name": "The Checkdown",
+        "legs": [
+          "Kameron Johnson"
+        ],
+        "rr": false
+      },
+      {
+        "name": "The Workhorse",
+        "legs": [
+          "Bucky Irving"
+        ],
+        "rr": false
+      }
+    ],
     "hits": [],
-    "last_modified": "Thu, 08 Oct 2026 20:06:31 GMT",
-    "checked_at": "2026-10-08T20:10:17.526079+00:00"
+    "last_modified": "Fri, 09 Oct 2026 00:12:15 GMT",
+    "checked_at": "2026-10-09T00:15:18.564010+00:00"
   }
 }
