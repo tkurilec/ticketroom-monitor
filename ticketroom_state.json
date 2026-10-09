@@ -11,16 +11,23 @@
       }
     ],
     "hits": [],
-    "last_modified": "Fri, 09 Oct 2026 18:06:12 GMT",
-    "checked_at": "2026-10-09T18:10:16.854619+00:00"
+    "last_modified": "Fri, 09 Oct 2026 18:16:10 GMT",
+    "checked_at": "2026-10-09T18:20:15.428473+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "56e1f4a7c65955a7392c84529d49accdb31b30e642b5153a68f99c663eb554e8",
+    "hash": "60644d529af41d4cc0b39750c9456b7b0d334bc990485762c94381452a1777cb",
     "confirmed": [
       {
         "name": "Back Post",
         "legs": [
           "Lois Openda"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Near Post",
+        "legs": [
+          "Carlos Chupete"
         ],
         "rr": false
       },
@@ -39,6 +46,13 @@
         "rr": false
       },
       {
+        "name": "The Nine",
+        "legs": [
+          "Roberto Fernandez"
+        ],
+        "rr": false
+      },
+      {
         "name": "The Poacher",
         "legs": [
           "Odsonne Edouard"
@@ -47,14 +61,14 @@
       }
     ],
     "hits": [],
-    "last_modified": "Fri, 09 Oct 2026 18:06:12 GMT",
-    "checked_at": "2026-10-09T18:10:17.777085+00:00"
+    "last_modified": "Fri, 09 Oct 2026 18:16:10 GMT",
+    "checked_at": "2026-10-09T18:20:16.034805+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Fri, 09 Oct 2026 18:06:12 GMT",
-    "checked_at": "2026-10-09T18:10:18.135347+00:00"
+    "last_modified": "Fri, 09 Oct 2026 18:16:10 GMT",
+    "checked_at": "2026-10-09T18:20:16.202030+00:00"
   }
 }
