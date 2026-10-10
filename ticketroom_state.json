@@ -11,8 +11,8 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sat, 10 Oct 2026 23:41:35 GMT",
-    "checked_at": "2026-10-10T23:45:15.745992+00:00"
+    "last_modified": "Sat, 10 Oct 2026 23:46:39 GMT",
+    "checked_at": "2026-10-10T23:50:17.717684+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a7629385f26ddbda8fbe6c677d46430527e89461c99930269229b19502ccabf0",
@@ -111,17 +111,18 @@
     ],
     "hits": [
       "Gabriel Jesus",
+      "Luis Suarez",
       "Marcus Thuram",
       "Patrik Schick"
     ],
-    "last_modified": "Sat, 10 Oct 2026 23:41:35 GMT",
-    "checked_at": "2026-10-10T23:45:16.483715+00:00"
+    "last_modified": "Sat, 10 Oct 2026 23:46:39 GMT",
+    "checked_at": "2026-10-10T23:50:18.434537+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 10 Oct 2026 23:41:35 GMT",
-    "checked_at": "2026-10-10T23:45:16.636830+00:00"
+    "last_modified": "Sat, 10 Oct 2026 23:46:39 GMT",
+    "checked_at": "2026-10-10T23:50:18.812164+00:00"
   }
 }
