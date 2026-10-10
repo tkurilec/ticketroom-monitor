@@ -11,11 +11,11 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sat, 10 Oct 2026 12:46:16 GMT",
-    "checked_at": "2026-10-10T12:50:15.364374+00:00"
+    "last_modified": "Sat, 10 Oct 2026 12:51:25 GMT",
+    "checked_at": "2026-10-10T12:55:14.831644+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "68a4f97124a5297183e31648e88c604361d97670b7ad9295cf84ef947e7cc699",
+    "hash": "90a079145533b23ba275cf16363cc261b587ffa916a1881d98d6d1e4209930d5",
     "confirmed": [
       {
         "name": "Back Post",
@@ -23,17 +23,24 @@
           "Deniz Undav"
         ],
         "rr": false
+      },
+      {
+        "name": "First Time",
+        "legs": [
+          "Patrik Schick"
+        ],
+        "rr": false
       }
     ],
     "hits": [],
-    "last_modified": "Sat, 10 Oct 2026 12:46:16 GMT",
-    "checked_at": "2026-10-10T12:50:16.178483+00:00"
+    "last_modified": "Sat, 10 Oct 2026 12:51:25 GMT",
+    "checked_at": "2026-10-10T12:55:15.855350+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 10 Oct 2026 12:46:16 GMT",
-    "checked_at": "2026-10-10T12:50:16.350706+00:00"
+    "last_modified": "Sat, 10 Oct 2026 12:51:25 GMT",
+    "checked_at": "2026-10-10T12:55:16.280164+00:00"
   }
 }
