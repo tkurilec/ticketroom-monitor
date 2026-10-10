@@ -11,11 +11,11 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sat, 10 Oct 2026 18:00:54 GMT",
-    "checked_at": "2026-10-10T18:05:14.720768+00:00"
+    "last_modified": "Sat, 10 Oct 2026 18:06:19 GMT",
+    "checked_at": "2026-10-10T18:10:17.115030+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "f008dfb6327f14813b3d954d0cc9f3c7f91207b6234cecaec9b7f94429ec94b7",
+    "hash": "c6ba70046405961ed1f022562d1a392a6d3b8b8f74ac77bcad14ca10bbae0ca6",
     "confirmed": [
       {
         "name": "Back Post",
@@ -42,6 +42,13 @@
         "name": "Rebound",
         "legs": [
           "Robert Lewandowski"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Shoulder of the Last Man",
+        "legs": [
+          "Kylian Mbappe"
         ],
         "rr": false
       },
@@ -79,14 +86,14 @@
       "Marcus Thuram",
       "Patrik Schick"
     ],
-    "last_modified": "Sat, 10 Oct 2026 18:00:54 GMT",
-    "checked_at": "2026-10-10T18:05:15.397101+00:00"
+    "last_modified": "Sat, 10 Oct 2026 18:06:19 GMT",
+    "checked_at": "2026-10-10T18:10:17.948672+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 10 Oct 2026 18:00:54 GMT",
-    "checked_at": "2026-10-10T18:05:15.679459+00:00"
+    "last_modified": "Sat, 10 Oct 2026 18:06:19 GMT",
+    "checked_at": "2026-10-10T18:10:18.419169+00:00"
   }
 }
