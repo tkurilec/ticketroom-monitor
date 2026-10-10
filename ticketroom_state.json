@@ -1,10 +1,18 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "6f1836a7b290d1ef6326b396b5db011fdff8f578f0196b7787ca414288416abb",
+    "confirmed": [
+      {
+        "name": "The Upper Deck",
+        "legs": [
+          "Jos\u00e9 Ram\u00edrez"
+        ],
+        "rr": false
+      }
+    ],
     "hits": [],
-    "last_modified": "Sat, 10 Oct 2026 18:21:28 GMT",
-    "checked_at": "2026-10-10T18:25:13.685194+00:00"
+    "last_modified": "Sat, 10 Oct 2026 20:01:38 GMT",
+    "checked_at": "2026-10-10T20:05:14.857302+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "c6ba70046405961ed1f022562d1a392a6d3b8b8f74ac77bcad14ca10bbae0ca6",
@@ -78,14 +86,14 @@
       "Marcus Thuram",
       "Patrik Schick"
     ],
-    "last_modified": "Sat, 10 Oct 2026 18:21:28 GMT",
-    "checked_at": "2026-10-10T18:25:13.887678+00:00"
+    "last_modified": "Sat, 10 Oct 2026 20:01:38 GMT",
+    "checked_at": "2026-10-10T20:05:15.044231+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 10 Oct 2026 18:21:28 GMT",
-    "checked_at": "2026-10-10T18:25:14.059258+00:00"
+    "last_modified": "Sat, 10 Oct 2026 20:01:38 GMT",
+    "checked_at": "2026-10-10T20:05:15.208946+00:00"
   }
 }
