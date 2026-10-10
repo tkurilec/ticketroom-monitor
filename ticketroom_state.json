@@ -11,16 +11,23 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sat, 10 Oct 2026 21:09:43 GMT",
-    "checked_at": "2026-10-10T21:10:21.995841+00:00"
+    "last_modified": "Sat, 10 Oct 2026 22:46:35 GMT",
+    "checked_at": "2026-10-10T22:50:15.925424+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "c6ba70046405961ed1f022562d1a392a6d3b8b8f74ac77bcad14ca10bbae0ca6",
+    "hash": "0d0f5bfed5b30ce1ead55b670dcaf22aedd699cab934c69af08f1f4b0524218f",
     "confirmed": [
       {
         "name": "Back Post",
         "legs": [
           "Deniz Undav"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Far Post",
+        "legs": [
+          "Milan Iloski"
         ],
         "rr": false
       },
@@ -67,6 +74,13 @@
         "rr": false
       },
       {
+        "name": "Target Man",
+        "legs": [
+          "Lionel Messi"
+        ],
+        "rr": false
+      },
+      {
         "name": "The Nine",
         "legs": [
           "Marcus Thuram"
@@ -86,14 +100,14 @@
       "Marcus Thuram",
       "Patrik Schick"
     ],
-    "last_modified": "Sat, 10 Oct 2026 21:09:43 GMT",
-    "checked_at": "2026-10-10T21:10:22.380605+00:00"
+    "last_modified": "Sat, 10 Oct 2026 22:46:35 GMT",
+    "checked_at": "2026-10-10T22:50:16.883321+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 10 Oct 2026 21:09:43 GMT",
-    "checked_at": "2026-10-10T21:10:22.682964+00:00"
+    "last_modified": "Sat, 10 Oct 2026 22:46:35 GMT",
+    "checked_at": "2026-10-10T22:50:17.330830+00:00"
   }
 }
