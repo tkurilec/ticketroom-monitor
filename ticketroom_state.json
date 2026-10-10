@@ -11,8 +11,8 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sat, 10 Oct 2026 15:56:13 GMT",
-    "checked_at": "2026-10-10T16:00:19.496026+00:00"
+    "last_modified": "Sat, 10 Oct 2026 16:36:12 GMT",
+    "checked_at": "2026-10-10T16:40:15.715892+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "58a61215a992e8ac16a59d6ebdf325b9df180ee0587fc5ef7779b856862c244e",
@@ -61,16 +61,17 @@
       }
     ],
     "hits": [
+      "Marcus Thuram",
       "Patrik Schick"
     ],
-    "last_modified": "Sat, 10 Oct 2026 15:56:13 GMT",
-    "checked_at": "2026-10-10T16:00:20.323996+00:00"
+    "last_modified": "Sat, 10 Oct 2026 16:36:12 GMT",
+    "checked_at": "2026-10-10T16:40:16.527636+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 10 Oct 2026 15:56:13 GMT",
-    "checked_at": "2026-10-10T16:00:20.653033+00:00"
+    "last_modified": "Sat, 10 Oct 2026 16:36:12 GMT",
+    "checked_at": "2026-10-10T16:40:16.644533+00:00"
   }
 }
