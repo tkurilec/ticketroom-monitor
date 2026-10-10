@@ -11,11 +11,11 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sat, 10 Oct 2026 13:41:11 GMT",
-    "checked_at": "2026-10-10T13:45:19.903643+00:00"
+    "last_modified": "Sat, 10 Oct 2026 15:21:24 GMT",
+    "checked_at": "2026-10-10T15:25:13.252435+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "90a079145533b23ba275cf16363cc261b587ffa916a1881d98d6d1e4209930d5",
+    "hash": "1c80fccf8f95019d5f155839bf15ad7fee8a2a21dbeb93d5ddcff1790c5ab335",
     "confirmed": [
       {
         "name": "Back Post",
@@ -30,19 +30,33 @@
           "Patrik Schick"
         ],
         "rr": false
+      },
+      {
+        "name": "The Nine",
+        "legs": [
+          "Marcus Thuram"
+        ],
+        "rr": false
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Pio Esposito"
+        ],
+        "rr": false
       }
     ],
     "hits": [
       "Patrik Schick"
     ],
-    "last_modified": "Sat, 10 Oct 2026 13:41:11 GMT",
-    "checked_at": "2026-10-10T13:45:20.890399+00:00"
+    "last_modified": "Sat, 10 Oct 2026 15:21:24 GMT",
+    "checked_at": "2026-10-10T15:25:13.777050+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 10 Oct 2026 13:41:11 GMT",
-    "checked_at": "2026-10-10T13:45:21.363208+00:00"
+    "last_modified": "Sat, 10 Oct 2026 15:21:24 GMT",
+    "checked_at": "2026-10-10T15:25:13.874406+00:00"
   }
 }
