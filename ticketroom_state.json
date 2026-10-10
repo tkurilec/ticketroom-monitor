@@ -11,21 +11,29 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sat, 10 Oct 2026 05:36:22 GMT",
-    "checked_at": "2026-10-10T05:40:14.968533+00:00"
+    "last_modified": "Sat, 10 Oct 2026 12:46:16 GMT",
+    "checked_at": "2026-10-10T12:50:15.364374+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "68a4f97124a5297183e31648e88c604361d97670b7ad9295cf84ef947e7cc699",
+    "confirmed": [
+      {
+        "name": "Back Post",
+        "legs": [
+          "Deniz Undav"
+        ],
+        "rr": false
+      }
+    ],
     "hits": [],
-    "last_modified": "Sat, 10 Oct 2026 05:36:22 GMT",
-    "checked_at": "2026-10-10T05:40:15.345667+00:00"
+    "last_modified": "Sat, 10 Oct 2026 12:46:16 GMT",
+    "checked_at": "2026-10-10T12:50:16.178483+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 10 Oct 2026 05:36:22 GMT",
-    "checked_at": "2026-10-10T05:40:15.517993+00:00"
+    "last_modified": "Sat, 10 Oct 2026 12:46:16 GMT",
+    "checked_at": "2026-10-10T12:50:16.350706+00:00"
   }
 }
