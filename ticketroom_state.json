@@ -11,11 +11,11 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sat, 10 Oct 2026 15:21:24 GMT",
-    "checked_at": "2026-10-10T15:25:13.252435+00:00"
+    "last_modified": "Sat, 10 Oct 2026 15:51:09 GMT",
+    "checked_at": "2026-10-10T15:55:17.054580+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "1c80fccf8f95019d5f155839bf15ad7fee8a2a21dbeb93d5ddcff1790c5ab335",
+    "hash": "fee24b8a8717f65eb2771c9b0975132ea5f02aa156d7dac0c5250c3a3446b2f4",
     "confirmed": [
       {
         "name": "Back Post",
@@ -28,6 +28,13 @@
         "name": "First Time",
         "legs": [
           "Patrik Schick"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Gets Across",
+        "legs": [
+          "Lamine Yamal"
         ],
         "rr": false
       },
@@ -49,14 +56,14 @@
     "hits": [
       "Patrik Schick"
     ],
-    "last_modified": "Sat, 10 Oct 2026 15:21:24 GMT",
-    "checked_at": "2026-10-10T15:25:13.777050+00:00"
+    "last_modified": "Sat, 10 Oct 2026 15:51:09 GMT",
+    "checked_at": "2026-10-10T15:55:17.854121+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 10 Oct 2026 15:21:24 GMT",
-    "checked_at": "2026-10-10T15:25:13.874406+00:00"
+    "last_modified": "Sat, 10 Oct 2026 15:51:09 GMT",
+    "checked_at": "2026-10-10T15:55:18.259287+00:00"
   }
 }
