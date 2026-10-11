@@ -1,10 +1,18 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "f7a7025f1d00883d3107941bbe76160628750e506e1b58239d3fe89667534d18",
+    "confirmed": [
+      {
+        "name": "Crushed",
+        "legs": [
+          "Max Muncy"
+        ],
+        "rr": false
+      }
+    ],
     "hits": [],
-    "last_modified": "Sun, 11 Oct 2026 20:00:54 GMT",
-    "checked_at": "2026-10-11T20:05:14.341848+00:00"
+    "last_modified": "Sun, 11 Oct 2026 20:06:45 GMT",
+    "checked_at": "2026-10-11T20:10:15.926091+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f1e8991a55ea1119bc80be41c48cd24f9bc0446fc7afb0cbedcbb75ebf919837",
@@ -28,8 +36,8 @@
       "Erling Haaland",
       "Esteban Lepaul"
     ],
-    "last_modified": "Sun, 11 Oct 2026 20:00:54 GMT",
-    "checked_at": "2026-10-11T20:05:14.587927+00:00"
+    "last_modified": "Sun, 11 Oct 2026 20:06:45 GMT",
+    "checked_at": "2026-10-11T20:10:16.164841+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "cbd5bcbed469290926b1810fba6e3af0ab642657e24ed8e1978765595d80bd19",
@@ -106,7 +114,7 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 11 Oct 2026 20:00:54 GMT",
-    "checked_at": "2026-10-11T20:05:16.071853+00:00"
+    "last_modified": "Sun, 11 Oct 2026 20:06:45 GMT",
+    "checked_at": "2026-10-11T20:10:17.450618+00:00"
   }
 }
