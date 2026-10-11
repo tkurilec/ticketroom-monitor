@@ -11,15 +11,23 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 11 Oct 2026 13:26:19 GMT",
-    "checked_at": "2026-10-11T13:30:18.622333+00:00"
+    "last_modified": "Sun, 11 Oct 2026 14:30:56 GMT",
+    "checked_at": "2026-10-11T14:35:15.853144+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "13a9a3ae81ea54ee503913e064d49cf73ff2fcf4355b79cde5bde1ab719a3bf8",
+    "confirmed": [
+      {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Esteban Lepaul"
+        ],
+        "rr": false
+      }
+    ],
     "hits": [],
-    "last_modified": "Sun, 11 Oct 2026 13:26:19 GMT",
-    "checked_at": "2026-10-11T13:30:19.186754+00:00"
+    "last_modified": "Sun, 11 Oct 2026 14:30:56 GMT",
+    "checked_at": "2026-10-11T14:35:16.656510+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "f90b15e0f2b0a10d226bc6d587e0313fa5656353abb57d012f05ae84bfb7c8ac",
@@ -40,7 +48,7 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 11 Oct 2026 13:26:19 GMT",
-    "checked_at": "2026-10-11T13:30:20.443629+00:00"
+    "last_modified": "Sun, 11 Oct 2026 14:30:56 GMT",
+    "checked_at": "2026-10-11T14:35:17.398476+00:00"
   }
 }
