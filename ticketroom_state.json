@@ -11,21 +11,36 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 11 Oct 2026 06:01:17 GMT",
-    "checked_at": "2026-10-11T06:05:13.371757+00:00"
+    "last_modified": "Sun, 11 Oct 2026 13:26:19 GMT",
+    "checked_at": "2026-10-11T13:30:18.622333+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 11 Oct 2026 06:01:17 GMT",
-    "checked_at": "2026-10-11T06:05:13.921207+00:00"
+    "last_modified": "Sun, 11 Oct 2026 13:26:19 GMT",
+    "checked_at": "2026-10-11T13:30:19.186754+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "f90b15e0f2b0a10d226bc6d587e0313fa5656353abb57d012f05ae84bfb7c8ac",
+    "confirmed": [
+      {
+        "name": "Hard Count",
+        "legs": [
+          "Jakobi Meyers"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Two Minute Drill",
+        "legs": [
+          "Chris Rodriguez Jr."
+        ],
+        "rr": false
+      }
+    ],
     "hits": [],
-    "last_modified": "Sun, 11 Oct 2026 06:01:17 GMT",
-    "checked_at": "2026-10-11T06:05:14.376961+00:00"
+    "last_modified": "Sun, 11 Oct 2026 13:26:19 GMT",
+    "checked_at": "2026-10-11T13:30:20.443629+00:00"
   }
 }
