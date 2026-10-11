@@ -3,8 +3,8 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 11 Oct 2026 15:56:10 GMT",
-    "checked_at": "2026-10-11T16:00:19.209214+00:00"
+    "last_modified": "Sun, 11 Oct 2026 16:56:18 GMT",
+    "checked_at": "2026-10-11T17:00:23.660295+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f1e8991a55ea1119bc80be41c48cd24f9bc0446fc7afb0cbedcbb75ebf919837",
@@ -25,18 +25,61 @@
       }
     ],
     "hits": [
+      "Erling Haaland",
       "Esteban Lepaul"
     ],
-    "last_modified": "Sun, 11 Oct 2026 15:56:10 GMT",
-    "checked_at": "2026-10-11T16:00:19.523929+00:00"
+    "last_modified": "Sun, 11 Oct 2026 16:56:18 GMT",
+    "checked_at": "2026-10-11T17:00:24.569854+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "f90b15e0f2b0a10d226bc6d587e0313fa5656353abb57d012f05ae84bfb7c8ac",
+    "hash": "21c869c40671f800f21e661286cdb091d1620ca1e6bb0cb9194c3bde54fba145",
     "confirmed": [
+      {
+        "name": "Audible",
+        "legs": [
+          "T.J. Hockenson"
+        ],
+        "rr": false
+      },
       {
         "name": "Hard Count",
         "legs": [
           "Jakobi Meyers"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Hurry Up",
+        "legs": [
+          "Chris Olave"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Inside the Ten",
+        "legs": [
+          "TreVeyon Henderson"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Seam Route",
+        "legs": [
+          "Jauan Jennings"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Short Yardage",
+        "legs": [
+          "Ashton Jeanty"
+        ],
+        "rr": false
+      },
+      {
+        "name": "The Sneak",
+        "legs": [
+          "Xavier Hutchinson"
         ],
         "rr": false
       },
@@ -46,10 +89,17 @@
           "Chris Rodriguez Jr."
         ],
         "rr": false
+      },
+      {
+        "name": "Wheel Route",
+        "legs": [
+          "Wan'Dale Robinson"
+        ],
+        "rr": false
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 11 Oct 2026 15:56:10 GMT",
-    "checked_at": "2026-10-11T16:00:20.091460+00:00"
+    "last_modified": "Sun, 11 Oct 2026 16:56:18 GMT",
+    "checked_at": "2026-10-11T17:00:25.705699+00:00"
   }
 }
