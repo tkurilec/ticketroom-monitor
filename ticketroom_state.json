@@ -1,18 +1,10 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "fd65fe950e17639ad01aac05691810a6bd4d055c30fe8d20736fc88728db010a",
-    "confirmed": [
-      {
-        "name": "The Upper Deck",
-        "legs": [
-          "Munetaka Murakami"
-        ],
-        "rr": false
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 11 Oct 2026 15:36:10 GMT",
-    "checked_at": "2026-10-11T15:40:14.601833+00:00"
+    "last_modified": "Sun, 11 Oct 2026 15:56:10 GMT",
+    "checked_at": "2026-10-11T16:00:19.209214+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f1e8991a55ea1119bc80be41c48cd24f9bc0446fc7afb0cbedcbb75ebf919837",
@@ -35,8 +27,8 @@
     "hits": [
       "Esteban Lepaul"
     ],
-    "last_modified": "Sun, 11 Oct 2026 15:36:10 GMT",
-    "checked_at": "2026-10-11T15:40:17.675891+00:00"
+    "last_modified": "Sun, 11 Oct 2026 15:56:10 GMT",
+    "checked_at": "2026-10-11T16:00:19.523929+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "f90b15e0f2b0a10d226bc6d587e0313fa5656353abb57d012f05ae84bfb7c8ac",
@@ -57,7 +49,7 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 11 Oct 2026 15:36:10 GMT",
-    "checked_at": "2026-10-11T15:40:18.066335+00:00"
+    "last_modified": "Sun, 11 Oct 2026 15:56:10 GMT",
+    "checked_at": "2026-10-11T16:00:20.091460+00:00"
   }
 }
