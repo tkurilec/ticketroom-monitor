@@ -11,8 +11,8 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 11 Oct 2026 00:52:20 GMT",
-    "checked_at": "2026-10-11T00:55:15.112642+00:00"
+    "last_modified": "Sun, 11 Oct 2026 01:32:08 GMT",
+    "checked_at": "2026-10-11T01:35:14.545312+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a7629385f26ddbda8fbe6c677d46430527e89461c99930269229b19502ccabf0",
@@ -114,16 +114,17 @@
       "Lionel Messi",
       "Luis Suarez",
       "Marcus Thuram",
+      "Milan Iloski",
       "Patrik Schick"
     ],
-    "last_modified": "Sun, 11 Oct 2026 00:52:20 GMT",
-    "checked_at": "2026-10-11T00:55:16.017874+00:00"
+    "last_modified": "Sun, 11 Oct 2026 01:32:08 GMT",
+    "checked_at": "2026-10-11T01:35:15.328090+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 11 Oct 2026 00:52:20 GMT",
-    "checked_at": "2026-10-11T00:55:16.200861+00:00"
+    "last_modified": "Sun, 11 Oct 2026 01:32:08 GMT",
+    "checked_at": "2026-10-11T01:35:15.430349+00:00"
   }
 }
