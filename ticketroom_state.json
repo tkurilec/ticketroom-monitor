@@ -3,8 +3,8 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 11 Oct 2026 16:56:18 GMT",
-    "checked_at": "2026-10-11T17:00:23.660295+00:00"
+    "last_modified": "Sun, 11 Oct 2026 20:00:54 GMT",
+    "checked_at": "2026-10-11T20:05:14.341848+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f1e8991a55ea1119bc80be41c48cd24f9bc0446fc7afb0cbedcbb75ebf919837",
@@ -28,16 +28,23 @@
       "Erling Haaland",
       "Esteban Lepaul"
     ],
-    "last_modified": "Sun, 11 Oct 2026 16:56:18 GMT",
-    "checked_at": "2026-10-11T17:00:24.569854+00:00"
+    "last_modified": "Sun, 11 Oct 2026 20:00:54 GMT",
+    "checked_at": "2026-10-11T20:05:14.587927+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "21c869c40671f800f21e661286cdb091d1620ca1e6bb0cb9194c3bde54fba145",
+    "hash": "cbd5bcbed469290926b1810fba6e3af0ab642657e24ed8e1978765595d80bd19",
     "confirmed": [
       {
         "name": "Audible",
         "legs": [
           "T.J. Hockenson"
+        ],
+        "rr": false
+      },
+      {
+        "name": "First Read",
+        "legs": [
+          "J.K. Dobbins"
         ],
         "rr": false
       },
@@ -99,7 +106,7 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 11 Oct 2026 16:56:18 GMT",
-    "checked_at": "2026-10-11T17:00:25.705699+00:00"
+    "last_modified": "Sun, 11 Oct 2026 20:00:54 GMT",
+    "checked_at": "2026-10-11T20:05:16.071853+00:00"
   }
 }
