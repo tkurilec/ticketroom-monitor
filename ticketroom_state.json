@@ -11,120 +11,21 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 11 Oct 2026 01:32:08 GMT",
-    "checked_at": "2026-10-11T01:35:14.545312+00:00"
+    "last_modified": "Sun, 11 Oct 2026 06:01:17 GMT",
+    "checked_at": "2026-10-11T06:05:13.371757+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "a7629385f26ddbda8fbe6c677d46430527e89461c99930269229b19502ccabf0",
-    "confirmed": [
-      {
-        "name": "Back Post",
-        "legs": [
-          "Deniz Undav"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Far Post",
-        "legs": [
-          "Milan Iloski"
-        ],
-        "rr": false
-      },
-      {
-        "name": "First Time",
-        "legs": [
-          "Patrik Schick"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Gets Across",
-        "legs": [
-          "Lamine Yamal"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Near Post",
-        "legs": [
-          "Luis Suarez"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Rebound",
-        "legs": [
-          "Robert Lewandowski"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Runs the Channel",
-        "legs": [
-          "Sam Surridge"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Shoulder of the Last Man",
-        "legs": [
-          "Kylian Mbappe"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Gabriel Jesus"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Tap-In",
-        "legs": [
-          "Ferran Torres"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Lionel Messi"
-        ],
-        "rr": false
-      },
-      {
-        "name": "The Nine",
-        "legs": [
-          "Marcus Thuram"
-        ],
-        "rr": false
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Pio Esposito"
-        ],
-        "rr": false
-      }
-    ],
-    "hits": [
-      "Gabriel Jesus",
-      "Lionel Messi",
-      "Luis Suarez",
-      "Marcus Thuram",
-      "Milan Iloski",
-      "Patrik Schick"
-    ],
-    "last_modified": "Sun, 11 Oct 2026 01:32:08 GMT",
-    "checked_at": "2026-10-11T01:35:15.328090+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "hits": [],
+    "last_modified": "Sun, 11 Oct 2026 06:01:17 GMT",
+    "checked_at": "2026-10-11T06:05:13.921207+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 11 Oct 2026 01:32:08 GMT",
-    "checked_at": "2026-10-11T01:35:15.430349+00:00"
+    "last_modified": "Sun, 11 Oct 2026 06:01:17 GMT",
+    "checked_at": "2026-10-11T06:05:14.376961+00:00"
   }
 }
