@@ -11,12 +11,19 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 11 Oct 2026 14:30:56 GMT",
-    "checked_at": "2026-10-11T14:35:15.853144+00:00"
+    "last_modified": "Sun, 11 Oct 2026 14:36:13 GMT",
+    "checked_at": "2026-10-11T14:40:16.035253+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "13a9a3ae81ea54ee503913e064d49cf73ff2fcf4355b79cde5bde1ab719a3bf8",
+    "hash": "f1e8991a55ea1119bc80be41c48cd24f9bc0446fc7afb0cbedcbb75ebf919837",
     "confirmed": [
+      {
+        "name": "Near Post",
+        "legs": [
+          "Erling Haaland"
+        ],
+        "rr": false
+      },
       {
         "name": "Six-Yard Box",
         "legs": [
@@ -26,8 +33,8 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 11 Oct 2026 14:30:56 GMT",
-    "checked_at": "2026-10-11T14:35:16.656510+00:00"
+    "last_modified": "Sun, 11 Oct 2026 14:36:13 GMT",
+    "checked_at": "2026-10-11T14:40:17.032728+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "f90b15e0f2b0a10d226bc6d587e0313fa5656353abb57d012f05ae84bfb7c8ac",
@@ -48,7 +55,7 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 11 Oct 2026 14:30:56 GMT",
-    "checked_at": "2026-10-11T14:35:17.398476+00:00"
+    "last_modified": "Sun, 11 Oct 2026 14:36:13 GMT",
+    "checked_at": "2026-10-11T14:40:17.296627+00:00"
   }
 }
