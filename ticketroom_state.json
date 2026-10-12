@@ -1,10 +1,18 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "7afd59bf7afb32284137d32acbeb8c6283d41f548e723f572221d10860855650",
+    "confirmed": [
+      {
+        "name": "The Long Ball",
+        "legs": [
+          "Yandy D\u00edaz"
+        ],
+        "rr": false
+      }
+    ],
     "hits": [],
-    "last_modified": "Mon, 12 Oct 2026 16:41:50 GMT",
-    "checked_at": "2026-10-12T16:45:16.595583+00:00"
+    "last_modified": "Mon, 12 Oct 2026 20:06:21 GMT",
+    "checked_at": "2026-10-12T20:10:18.095498+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "cf30ab3455a5873371dba40d3445d454506fbfa826a760cd5de27094466a265e",
@@ -20,14 +28,14 @@
     "hits": [
       "Nikola Krstovic"
     ],
-    "last_modified": "Mon, 12 Oct 2026 16:41:50 GMT",
-    "checked_at": "2026-10-12T16:45:17.538308+00:00"
+    "last_modified": "Mon, 12 Oct 2026 20:06:21 GMT",
+    "checked_at": "2026-10-12T20:10:18.403182+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Mon, 12 Oct 2026 16:41:50 GMT",
-    "checked_at": "2026-10-12T16:45:17.763638+00:00"
+    "last_modified": "Mon, 12 Oct 2026 20:06:21 GMT",
+    "checked_at": "2026-10-12T20:10:18.629873+00:00"
   }
 }
