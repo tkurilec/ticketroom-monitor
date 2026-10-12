@@ -11,8 +11,8 @@
       }
     ],
     "hits": [],
-    "last_modified": "Mon, 12 Oct 2026 00:01:20 GMT",
-    "checked_at": "2026-10-12T00:05:13.443041+00:00"
+    "last_modified": "Mon, 12 Oct 2026 00:16:20 GMT",
+    "checked_at": "2026-10-12T00:20:15.932031+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "85152ef20736221137734caf8136a3f5111142a3819f5c7c65c92f38e8237d6b",
@@ -44,16 +44,23 @@
       "Esteban Lepaul",
       "Leal Rafael Navarro"
     ],
-    "last_modified": "Mon, 12 Oct 2026 00:01:20 GMT",
-    "checked_at": "2026-10-12T00:05:14.541533+00:00"
+    "last_modified": "Mon, 12 Oct 2026 00:16:20 GMT",
+    "checked_at": "2026-10-12T00:20:16.195180+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "9f0c7b3824a89c0dea98583ad9e03c6eb0a965e9785141429f81ca197d67146a",
+    "hash": "45c4b42e02d68e46c24b82a0614dcda81c85737b3c89806033f60dbffe655e97",
     "confirmed": [
       {
         "name": "Audible",
         "legs": [
           "T.J. Hockenson"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Bell Cow",
+        "legs": [
+          "Derrick Henry"
         ],
         "rr": false
       },
@@ -169,7 +176,7 @@
       "Sam LaPorta",
       "Trey McBride"
     ],
-    "last_modified": "Mon, 12 Oct 2026 00:01:20 GMT",
-    "checked_at": "2026-10-12T00:05:16.700973+00:00"
+    "last_modified": "Mon, 12 Oct 2026 00:16:20 GMT",
+    "checked_at": "2026-10-12T00:20:18.952725+00:00"
   }
 }
