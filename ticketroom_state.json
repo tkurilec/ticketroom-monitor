@@ -11,8 +11,8 @@
       }
     ],
     "hits": [],
-    "last_modified": "Mon, 12 Oct 2026 02:16:55 GMT",
-    "checked_at": "2026-10-12T02:20:17.251594+00:00"
+    "last_modified": "Mon, 12 Oct 2026 03:51:45 GMT",
+    "checked_at": "2026-10-12T04:00:22.495537+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "85152ef20736221137734caf8136a3f5111142a3819f5c7c65c92f38e8237d6b",
@@ -44,140 +44,14 @@
       "Esteban Lepaul",
       "Leal Rafael Navarro"
     ],
-    "last_modified": "Mon, 12 Oct 2026 02:16:55 GMT",
-    "checked_at": "2026-10-12T02:20:17.435041+00:00"
+    "last_modified": "Mon, 12 Oct 2026 03:51:45 GMT",
+    "checked_at": "2026-10-12T04:00:23.037218+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "45c4b42e02d68e46c24b82a0614dcda81c85737b3c89806033f60dbffe655e97",
-    "confirmed": [
-      {
-        "name": "Audible",
-        "legs": [
-          "T.J. Hockenson"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Bell Cow",
-        "legs": [
-          "Derrick Henry"
-        ],
-        "rr": false
-      },
-      {
-        "name": "First Read",
-        "legs": [
-          "J.K. Dobbins"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Goal Line Back",
-        "legs": [
-          "Christian McCaffrey"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Hard Count",
-        "legs": [
-          "Jakobi Meyers"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Hurry Up",
-        "legs": [
-          "Chris Olave"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Inside the Ten",
-        "legs": [
-          "TreVeyon Henderson"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Quick Slant",
-        "legs": [
-          "Isaac TeSlaa"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Red Zone Target",
-        "legs": [
-          "Trey McBride"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Screen Pass",
-        "legs": [
-          "Michael Wilson"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Seam Route",
-        "legs": [
-          "Jauan Jennings"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Short Yardage",
-        "legs": [
-          "Ashton Jeanty"
-        ],
-        "rr": false
-      },
-      {
-        "name": "The Checkdown",
-        "legs": [
-          "Sam LaPorta"
-        ],
-        "rr": false
-      },
-      {
-        "name": "The Sneak",
-        "legs": [
-          "Xavier Hutchinson"
-        ],
-        "rr": false
-      },
-      {
-        "name": "The Workhorse",
-        "legs": [
-          "Amon-Ra St. Brown"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Two Minute Drill",
-        "legs": [
-          "Chris Rodriguez Jr."
-        ],
-        "rr": false
-      },
-      {
-        "name": "Wheel Route",
-        "legs": [
-          "Wan'Dale Robinson"
-        ],
-        "rr": false
-      }
-    ],
-    "hits": [
-      "Christian McCaffrey",
-      "Derrick Henry",
-      "J.K. Dobbins",
-      "Sam LaPorta",
-      "Trey McBride"
-    ],
-    "last_modified": "Mon, 12 Oct 2026 02:16:55 GMT",
-    "checked_at": "2026-10-12T02:20:19.687528+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "hits": [],
+    "last_modified": "Mon, 12 Oct 2026 03:51:45 GMT",
+    "checked_at": "2026-10-12T04:00:23.350548+00:00"
   }
 }
