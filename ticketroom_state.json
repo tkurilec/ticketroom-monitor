@@ -11,8 +11,8 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 11 Oct 2026 23:16:24 GMT",
-    "checked_at": "2026-10-11T23:20:15.692478+00:00"
+    "last_modified": "Mon, 12 Oct 2026 00:01:20 GMT",
+    "checked_at": "2026-10-12T00:05:13.443041+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "85152ef20736221137734caf8136a3f5111142a3819f5c7c65c92f38e8237d6b",
@@ -41,10 +41,11 @@
     ],
     "hits": [
       "Erling Haaland",
-      "Esteban Lepaul"
+      "Esteban Lepaul",
+      "Leal Rafael Navarro"
     ],
-    "last_modified": "Sun, 11 Oct 2026 23:16:24 GMT",
-    "checked_at": "2026-10-11T23:20:15.987188+00:00"
+    "last_modified": "Mon, 12 Oct 2026 00:01:20 GMT",
+    "checked_at": "2026-10-12T00:05:14.541533+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "9f0c7b3824a89c0dea98583ad9e03c6eb0a965e9785141429f81ca197d67146a",
@@ -168,7 +169,7 @@
       "Sam LaPorta",
       "Trey McBride"
     ],
-    "last_modified": "Sun, 11 Oct 2026 23:16:24 GMT",
-    "checked_at": "2026-10-11T23:20:17.603328+00:00"
+    "last_modified": "Mon, 12 Oct 2026 00:01:20 GMT",
+    "checked_at": "2026-10-12T00:05:16.700973+00:00"
   }
 }
