@@ -1,31 +1,23 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "f7a7025f1d00883d3107941bbe76160628750e506e1b58239d3fe89667534d18",
-    "confirmed": [
-      {
-        "name": "Crushed",
-        "legs": [
-          "Max Muncy"
-        ],
-        "rr": false
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "hits": [],
-    "last_modified": "Mon, 12 Oct 2026 04:06:13 GMT",
-    "checked_at": "2026-10-12T04:10:16.130393+00:00"
+    "last_modified": "Mon, 12 Oct 2026 15:34:49 GMT",
+    "checked_at": "2026-10-12T15:35:13.922915+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Mon, 12 Oct 2026 04:06:13 GMT",
-    "checked_at": "2026-10-12T04:10:16.455295+00:00"
+    "last_modified": "Mon, 12 Oct 2026 15:34:49 GMT",
+    "checked_at": "2026-10-12T15:35:14.207938+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Mon, 12 Oct 2026 04:06:13 GMT",
-    "checked_at": "2026-10-12T04:10:16.773409+00:00"
+    "last_modified": "Mon, 12 Oct 2026 15:34:49 GMT",
+    "checked_at": "2026-10-12T15:35:14.485687+00:00"
   }
 }
