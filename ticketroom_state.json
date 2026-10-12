@@ -11,47 +11,21 @@
       }
     ],
     "hits": [],
-    "last_modified": "Mon, 12 Oct 2026 03:51:45 GMT",
-    "checked_at": "2026-10-12T04:00:22.495537+00:00"
+    "last_modified": "Mon, 12 Oct 2026 04:06:13 GMT",
+    "checked_at": "2026-10-12T04:10:16.130393+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "85152ef20736221137734caf8136a3f5111142a3819f5c7c65c92f38e8237d6b",
-    "confirmed": [
-      {
-        "name": "Near Post",
-        "legs": [
-          "Erling Haaland"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Esteban Lepaul"
-        ],
-        "rr": false
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Leal Rafael Navarro"
-        ],
-        "rr": false
-      }
-    ],
-    "hits": [
-      "Erling Haaland",
-      "Esteban Lepaul",
-      "Leal Rafael Navarro"
-    ],
-    "last_modified": "Mon, 12 Oct 2026 03:51:45 GMT",
-    "checked_at": "2026-10-12T04:00:23.037218+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "hits": [],
+    "last_modified": "Mon, 12 Oct 2026 04:06:13 GMT",
+    "checked_at": "2026-10-12T04:10:16.455295+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Mon, 12 Oct 2026 03:51:45 GMT",
-    "checked_at": "2026-10-12T04:00:23.350548+00:00"
+    "last_modified": "Mon, 12 Oct 2026 04:06:13 GMT",
+    "checked_at": "2026-10-12T04:10:16.773409+00:00"
   }
 }
