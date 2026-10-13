@@ -11,8 +11,8 @@
       }
     ],
     "hits": [],
-    "last_modified": "Tue, 13 Oct 2026 18:06:25 GMT",
-    "checked_at": "2026-10-13T18:10:16.389498+00:00"
+    "last_modified": "Tue, 13 Oct 2026 19:46:17 GMT",
+    "checked_at": "2026-10-13T19:50:19.536145+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "39ea0fc630bab3774416f06e192144162ea842aaae2f81281cde04a9908e3034",
@@ -39,15 +39,17 @@
         "rr": false
       }
     ],
-    "hits": [],
-    "last_modified": "Tue, 13 Oct 2026 18:06:25 GMT",
-    "checked_at": "2026-10-13T18:10:16.953806+00:00"
+    "hits": [
+      "Lautaro Martinez"
+    ],
+    "last_modified": "Tue, 13 Oct 2026 19:46:17 GMT",
+    "checked_at": "2026-10-13T19:50:20.162736+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Tue, 13 Oct 2026 18:06:25 GMT",
-    "checked_at": "2026-10-13T18:10:17.130790+00:00"
+    "last_modified": "Tue, 13 Oct 2026 19:46:17 GMT",
+    "checked_at": "2026-10-13T19:50:20.362599+00:00"
   }
 }
