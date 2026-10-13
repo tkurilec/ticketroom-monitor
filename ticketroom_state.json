@@ -11,8 +11,8 @@
       }
     ],
     "hits": [],
-    "last_modified": "Mon, 12 Oct 2026 20:06:21 GMT",
-    "checked_at": "2026-10-12T20:10:18.095498+00:00"
+    "last_modified": "Tue, 13 Oct 2026 00:11:39 GMT",
+    "checked_at": "2026-10-13T00:15:15.962318+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "cf30ab3455a5873371dba40d3445d454506fbfa826a760cd5de27094466a265e",
@@ -28,14 +28,71 @@
     "hits": [
       "Nikola Krstovic"
     ],
-    "last_modified": "Mon, 12 Oct 2026 20:06:21 GMT",
-    "checked_at": "2026-10-12T20:10:18.403182+00:00"
+    "last_modified": "Tue, 13 Oct 2026 00:11:39 GMT",
+    "checked_at": "2026-10-13T00:15:16.666898+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "fdc4015dbfa8a8b7bbc66dcfaf4232f554eb55295befa76b97b4d505cdcae39c",
+    "confirmed": [
+      {
+        "name": "Bell Cow",
+        "legs": [
+          "James Cook"
+        ],
+        "rr": false
+      },
+      {
+        "name": "First Read",
+        "legs": [
+          "Jordan Whittington"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Goal Line Back",
+        "legs": [
+          "Davante Adams"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Move the Chains",
+        "legs": [
+          "Tutu Atwell"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Red Zone Target",
+        "legs": [
+          "Blake Corum"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Short Yardage",
+        "legs": [
+          "Konata Mumpfield"
+        ],
+        "rr": false
+      },
+      {
+        "name": "The Checkdown",
+        "legs": [
+          "Davis Allen"
+        ],
+        "rr": false
+      },
+      {
+        "name": "The Workhorse",
+        "legs": [
+          "Kyren Williams"
+        ],
+        "rr": false
+      }
+    ],
     "hits": [],
-    "last_modified": "Mon, 12 Oct 2026 20:06:21 GMT",
-    "checked_at": "2026-10-12T20:10:18.629873+00:00"
+    "last_modified": "Tue, 13 Oct 2026 00:11:39 GMT",
+    "checked_at": "2026-10-13T00:15:17.655357+00:00"
   }
 }
