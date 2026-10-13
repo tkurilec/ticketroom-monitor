@@ -11,8 +11,8 @@
       }
     ],
     "hits": [],
-    "last_modified": "Tue, 13 Oct 2026 01:11:49 GMT",
-    "checked_at": "2026-10-13T01:15:16.418708+00:00"
+    "last_modified": "Tue, 13 Oct 2026 01:56:16 GMT",
+    "checked_at": "2026-10-13T02:00:21.569211+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "cf30ab3455a5873371dba40d3445d454506fbfa826a760cd5de27094466a265e",
@@ -28,8 +28,8 @@
     "hits": [
       "Nikola Krstovic"
     ],
-    "last_modified": "Tue, 13 Oct 2026 01:11:49 GMT",
-    "checked_at": "2026-10-13T01:15:16.882374+00:00"
+    "last_modified": "Tue, 13 Oct 2026 01:56:16 GMT",
+    "checked_at": "2026-10-13T02:00:21.900923+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "fdc4015dbfa8a8b7bbc66dcfaf4232f554eb55295befa76b97b4d505cdcae39c",
@@ -92,10 +92,11 @@
       }
     ],
     "hits": [
+      "Blake Corum",
       "Davante Adams",
       "James Cook"
     ],
-    "last_modified": "Tue, 13 Oct 2026 01:11:49 GMT",
-    "checked_at": "2026-10-13T01:15:18.063523+00:00"
+    "last_modified": "Tue, 13 Oct 2026 01:56:16 GMT",
+    "checked_at": "2026-10-13T02:00:23.023897+00:00"
   }
 }
