@@ -11,31 +11,21 @@
       }
     ],
     "hits": [],
-    "last_modified": "Tue, 13 Oct 2026 03:51:49 GMT",
-    "checked_at": "2026-10-13T04:00:22.366207+00:00"
+    "last_modified": "Tue, 13 Oct 2026 07:06:21 GMT",
+    "checked_at": "2026-10-13T07:10:18.884287+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "cf30ab3455a5873371dba40d3445d454506fbfa826a760cd5de27094466a265e",
-    "confirmed": [
-      {
-        "name": "Target Man",
-        "legs": [
-          "Nikola Krstovic"
-        ],
-        "rr": false
-      }
-    ],
-    "hits": [
-      "Nikola Krstovic"
-    ],
-    "last_modified": "Tue, 13 Oct 2026 03:51:49 GMT",
-    "checked_at": "2026-10-13T04:00:22.644573+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "hits": [],
+    "last_modified": "Tue, 13 Oct 2026 07:06:21 GMT",
+    "checked_at": "2026-10-13T07:10:19.299899+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Tue, 13 Oct 2026 03:51:49 GMT",
-    "checked_at": "2026-10-13T04:00:22.910552+00:00"
+    "last_modified": "Tue, 13 Oct 2026 07:06:21 GMT",
+    "checked_at": "2026-10-13T07:10:19.733221+00:00"
   }
 }
