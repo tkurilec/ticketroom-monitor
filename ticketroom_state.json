@@ -11,12 +11,19 @@
       }
     ],
     "hits": [],
-    "last_modified": "Wed, 14 Oct 2026 22:47:16 GMT",
-    "checked_at": "2026-10-14T22:50:16.862666+00:00"
+    "last_modified": "Wed, 14 Oct 2026 22:57:16 GMT",
+    "checked_at": "2026-10-14T23:00:22.931606+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "c1b92f3a787a617bcb1709f8cb29c8e7094fd9743471f4f9213f718f9d45ebde",
+    "hash": "d1ce32f645b7e183afc0b3e9300144bf6fb5e35d67e5cb6a625a62f278dbab04",
     "confirmed": [
+      {
+        "name": "First Time",
+        "legs": [
+          "Tai Baribo"
+        ],
+        "rr": false
+      },
       {
         "name": "First Time 17",
         "legs": [
@@ -44,6 +51,20 @@
           "Erling Haaland"
         ],
         "rr": false
+      },
+      {
+        "name": "The Nine 16",
+        "legs": [
+          "Luis Suarez"
+        ],
+        "rr": false
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Lionel Messi"
+        ],
+        "rr": false
       }
     ],
     "hits": [
@@ -51,14 +72,14 @@
       "Erling Haaland",
       "Kylian Mbappe"
     ],
-    "last_modified": "Wed, 14 Oct 2026 22:47:16 GMT",
-    "checked_at": "2026-10-14T22:50:17.729407+00:00"
+    "last_modified": "Wed, 14 Oct 2026 22:57:16 GMT",
+    "checked_at": "2026-10-14T23:00:23.580820+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 14 Oct 2026 22:47:17 GMT",
-    "checked_at": "2026-10-14T22:50:18.212631+00:00"
+    "last_modified": "Wed, 14 Oct 2026 22:57:16 GMT",
+    "checked_at": "2026-10-14T23:00:23.849400+00:00"
   }
 }
