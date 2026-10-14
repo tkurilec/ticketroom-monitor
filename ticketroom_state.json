@@ -11,46 +11,21 @@
       }
     ],
     "hits": [],
-    "last_modified": "Tue, 13 Oct 2026 21:01:04 GMT",
-    "checked_at": "2026-10-13T21:05:14.506316+00:00"
+    "last_modified": "Wed, 14 Oct 2026 07:21:53 GMT",
+    "checked_at": "2026-10-14T07:25:16.273363+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "39ea0fc630bab3774416f06e192144162ea842aaae2f81281cde04a9908e3034",
-    "confirmed": [
-      {
-        "name": "Back Post",
-        "legs": [
-          "Marcus Thuram"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Lautaro Martinez"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Harry Kane"
-        ],
-        "rr": false
-      }
-    ],
-    "hits": [
-      "Harry Kane",
-      "Lautaro Martinez"
-    ],
-    "last_modified": "Tue, 13 Oct 2026 21:01:04 GMT",
-    "checked_at": "2026-10-13T21:05:14.624271+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "hits": [],
+    "last_modified": "Wed, 14 Oct 2026 07:21:53 GMT",
+    "checked_at": "2026-10-14T07:25:16.507549+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Tue, 13 Oct 2026 21:01:04 GMT",
-    "checked_at": "2026-10-13T21:05:15.062156+00:00"
+    "last_modified": "Wed, 14 Oct 2026 07:21:54 GMT",
+    "checked_at": "2026-10-14T07:25:16.986426+00:00"
   }
 }
