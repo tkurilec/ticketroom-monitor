@@ -11,11 +11,11 @@
       }
     ],
     "hits": [],
-    "last_modified": "Wed, 14 Oct 2026 22:57:16 GMT",
-    "checked_at": "2026-10-14T23:00:22.931606+00:00"
+    "last_modified": "Wed, 14 Oct 2026 23:36:55 GMT",
+    "checked_at": "2026-10-14T23:40:15.186758+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "d1ce32f645b7e183afc0b3e9300144bf6fb5e35d67e5cb6a625a62f278dbab04",
+    "hash": "5b90f98d1e33c49bd717a97151655589ac5409478fd818a921b017d0b65bd899",
     "confirmed": [
       {
         "name": "First Time",
@@ -53,6 +53,20 @@
         "rr": false
       },
       {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Hany Mukhtar"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Sam Surridge"
+        ],
+        "rr": false
+      },
+      {
         "name": "The Nine 16",
         "legs": [
           "Luis Suarez"
@@ -72,14 +86,14 @@
       "Erling Haaland",
       "Kylian Mbappe"
     ],
-    "last_modified": "Wed, 14 Oct 2026 22:57:16 GMT",
-    "checked_at": "2026-10-14T23:00:23.580820+00:00"
+    "last_modified": "Wed, 14 Oct 2026 23:36:55 GMT",
+    "checked_at": "2026-10-14T23:40:16.109502+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 14 Oct 2026 22:57:16 GMT",
-    "checked_at": "2026-10-14T23:00:23.849400+00:00"
+    "last_modified": "Wed, 14 Oct 2026 23:36:55 GMT",
+    "checked_at": "2026-10-14T23:40:16.381170+00:00"
   }
 }
