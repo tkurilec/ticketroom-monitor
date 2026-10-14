@@ -11,11 +11,11 @@
       }
     ],
     "hits": [],
-    "last_modified": "Wed, 14 Oct 2026 18:00:53 GMT",
-    "checked_at": "2026-10-14T18:05:20.893624+00:00"
+    "last_modified": "Wed, 14 Oct 2026 18:06:22 GMT",
+    "checked_at": "2026-10-14T18:10:19.061550+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "79ec2b95922351a935025c7c95670ac345b26057dccbc13b22368a7dfa90500c",
+    "hash": "4fcced563588c1265765edc457a637fd8e93cac6ebcbeba3bbdcde6efa2db498",
     "confirmed": [
       {
         "name": "First Time 17",
@@ -23,17 +23,31 @@
           "Deniz Undav"
         ],
         "rr": false
+      },
+      {
+        "name": "Gets Across",
+        "legs": [
+          "Kylian Mbappe"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Runs the Channel",
+        "legs": [
+          "Erling Haaland"
+        ],
+        "rr": false
       }
     ],
     "hits": [],
-    "last_modified": "Wed, 14 Oct 2026 18:00:53 GMT",
-    "checked_at": "2026-10-14T18:05:21.751659+00:00"
+    "last_modified": "Wed, 14 Oct 2026 18:06:22 GMT",
+    "checked_at": "2026-10-14T18:10:19.492924+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 14 Oct 2026 18:00:53 GMT",
-    "checked_at": "2026-10-14T18:05:21.922912+00:00"
+    "last_modified": "Wed, 14 Oct 2026 18:06:22 GMT",
+    "checked_at": "2026-10-14T18:10:19.679380+00:00"
   }
 }
