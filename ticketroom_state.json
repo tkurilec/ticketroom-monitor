@@ -1,10 +1,18 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "8808037b1c7a8094c2dd7a76f37c20cfd62b9984fe606143896a07c084973a74",
+    "confirmed": [
+      {
+        "name": "The Record Shot",
+        "legs": [
+          "Andy Pages"
+        ],
+        "rr": false
+      }
+    ],
     "hits": [],
-    "last_modified": "Wed, 14 Oct 2026 20:16:54 GMT",
-    "checked_at": "2026-10-14T20:20:20.553836+00:00"
+    "last_modified": "Wed, 14 Oct 2026 20:36:37 GMT",
+    "checked_at": "2026-10-14T20:40:16.939084+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "4fcced563588c1265765edc457a637fd8e93cac6ebcbeba3bbdcde6efa2db498",
@@ -36,14 +44,14 @@
       "Erling Haaland",
       "Kylian Mbappe"
     ],
-    "last_modified": "Wed, 14 Oct 2026 20:16:54 GMT",
-    "checked_at": "2026-10-14T20:20:21.403541+00:00"
+    "last_modified": "Wed, 14 Oct 2026 20:36:37 GMT",
+    "checked_at": "2026-10-14T20:40:17.255700+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 14 Oct 2026 20:16:54 GMT",
-    "checked_at": "2026-10-14T20:20:21.761266+00:00"
+    "last_modified": "Wed, 14 Oct 2026 20:36:37 GMT",
+    "checked_at": "2026-10-14T20:40:17.384073+00:00"
   }
 }
