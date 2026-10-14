@@ -11,11 +11,11 @@
       }
     ],
     "hits": [],
-    "last_modified": "Wed, 14 Oct 2026 20:36:37 GMT",
-    "checked_at": "2026-10-14T20:40:16.939084+00:00"
+    "last_modified": "Wed, 14 Oct 2026 22:47:16 GMT",
+    "checked_at": "2026-10-14T22:50:16.862666+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "4fcced563588c1265765edc457a637fd8e93cac6ebcbeba3bbdcde6efa2db498",
+    "hash": "c1b92f3a787a617bcb1709f8cb29c8e7094fd9743471f4f9213f718f9d45ebde",
     "confirmed": [
       {
         "name": "First Time 17",
@@ -32,6 +32,13 @@
         "rr": false
       },
       {
+        "name": "Near Post",
+        "legs": [
+          "Ahoueke Denkey"
+        ],
+        "rr": false
+      },
+      {
         "name": "Runs the Channel",
         "legs": [
           "Erling Haaland"
@@ -44,14 +51,14 @@
       "Erling Haaland",
       "Kylian Mbappe"
     ],
-    "last_modified": "Wed, 14 Oct 2026 20:36:37 GMT",
-    "checked_at": "2026-10-14T20:40:17.255700+00:00"
+    "last_modified": "Wed, 14 Oct 2026 22:47:16 GMT",
+    "checked_at": "2026-10-14T22:50:17.729407+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 14 Oct 2026 20:36:37 GMT",
-    "checked_at": "2026-10-14T20:40:17.384073+00:00"
+    "last_modified": "Wed, 14 Oct 2026 22:47:17 GMT",
+    "checked_at": "2026-10-14T22:50:18.212631+00:00"
   }
 }
