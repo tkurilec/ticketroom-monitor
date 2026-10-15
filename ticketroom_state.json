@@ -1,31 +1,31 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "8808037b1c7a8094c2dd7a76f37c20cfd62b9984fe606143896a07c084973a74",
+    "hash": "57db33383240eadcc91c298df44d2831ea3f4c6d0d778883f4dbe96deb5420c8",
     "confirmed": [
       {
-        "name": "The Record Shot",
+        "name": "Tape Measure",
         "legs": [
-          "Andy Pages"
+          "Jonathan Aranda"
         ],
         "rr": false
       }
     ],
     "hits": [],
-    "last_modified": "Thu, 15 Oct 2026 15:51:40 GMT",
-    "checked_at": "2026-10-15T15:55:14.213882+00:00"
+    "last_modified": "Thu, 15 Oct 2026 16:46:28 GMT",
+    "checked_at": "2026-10-15T16:50:18.855559+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 15 Oct 2026 15:51:40 GMT",
-    "checked_at": "2026-10-15T15:55:14.444975+00:00"
+    "last_modified": "Thu, 15 Oct 2026 16:46:28 GMT",
+    "checked_at": "2026-10-15T16:50:19.039825+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 15 Oct 2026 15:51:40 GMT",
-    "checked_at": "2026-10-15T15:55:14.560529+00:00"
+    "last_modified": "Thu, 15 Oct 2026 16:46:28 GMT",
+    "checked_at": "2026-10-15T16:50:19.295822+00:00"
   }
 }
