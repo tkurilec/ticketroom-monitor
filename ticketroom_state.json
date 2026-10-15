@@ -11,12 +11,19 @@
       }
     ],
     "hits": [],
-    "last_modified": "Thu, 15 Oct 2026 01:12:16 GMT",
-    "checked_at": "2026-10-15T01:15:17.218744+00:00"
+    "last_modified": "Thu, 15 Oct 2026 01:47:16 GMT",
+    "checked_at": "2026-10-15T01:50:15.996688+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "bc0bc3e4c0723173d44aaa10f5990535e918f68c03de8598df8f833a76bd17a8",
+    "hash": "2d852edbe6500bfa9c40f1c8c9ef81cb2e0573126a99813be2ea8f23c7895cad",
     "confirmed": [
+      {
+        "name": "Back Post",
+        "legs": [
+          "Denis Bouanga"
+        ],
+        "rr": false
+      },
       {
         "name": "First Time",
         "legs": [
@@ -42,6 +49,13 @@
         "name": "Near Post",
         "legs": [
           "Ahoueke Denkey"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Near Post 15",
+        "legs": [
+          "Heung-min Son"
         ],
         "rr": false
       },
@@ -97,14 +111,14 @@
       "Sam Surridge",
       "Tai Baribo"
     ],
-    "last_modified": "Thu, 15 Oct 2026 01:12:16 GMT",
-    "checked_at": "2026-10-15T01:15:18.022349+00:00"
+    "last_modified": "Thu, 15 Oct 2026 01:47:16 GMT",
+    "checked_at": "2026-10-15T01:50:16.578560+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 15 Oct 2026 01:12:16 GMT",
-    "checked_at": "2026-10-15T01:15:18.346090+00:00"
+    "last_modified": "Thu, 15 Oct 2026 01:47:16 GMT",
+    "checked_at": "2026-10-15T01:50:16.844287+00:00"
   }
 }
