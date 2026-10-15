@@ -11,8 +11,8 @@
       }
     ],
     "hits": [],
-    "last_modified": "Thu, 15 Oct 2026 00:53:59 GMT",
-    "checked_at": "2026-10-15T00:55:16.129615+00:00"
+    "last_modified": "Thu, 15 Oct 2026 01:02:25 GMT",
+    "checked_at": "2026-10-15T01:05:13.356197+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "bc0bc3e4c0723173d44aaa10f5990535e918f68c03de8598df8f833a76bd17a8",
@@ -93,16 +93,17 @@
       "Erling Haaland",
       "Hany Mukhtar",
       "Kylian Mbappe",
+      "Sam Surridge",
       "Tai Baribo"
     ],
-    "last_modified": "Thu, 15 Oct 2026 00:53:59 GMT",
-    "checked_at": "2026-10-15T00:55:17.162602+00:00"
+    "last_modified": "Thu, 15 Oct 2026 01:02:25 GMT",
+    "checked_at": "2026-10-15T01:05:14.024911+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 15 Oct 2026 00:53:59 GMT",
-    "checked_at": "2026-10-15T00:55:17.346856+00:00"
+    "last_modified": "Thu, 15 Oct 2026 01:02:25 GMT",
+    "checked_at": "2026-10-15T01:05:14.281274+00:00"
   }
 }
