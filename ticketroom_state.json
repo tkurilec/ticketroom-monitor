@@ -11,8 +11,8 @@
       }
     ],
     "hits": [],
-    "last_modified": "Thu, 15 Oct 2026 18:02:15 GMT",
-    "checked_at": "2026-10-15T18:05:14.073946+00:00"
+    "last_modified": "Thu, 15 Oct 2026 20:51:59 GMT",
+    "checked_at": "2026-10-15T20:55:14.173963+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "7c703262b30e26e57f3cc13da630939777ea6b311d1f840b30456c5342c71469",
@@ -32,15 +32,17 @@
         "rr": false
       }
     ],
-    "hits": [],
-    "last_modified": "Thu, 15 Oct 2026 18:02:15 GMT",
-    "checked_at": "2026-10-15T18:05:15.766363+00:00"
+    "hits": [
+      "Alvaro Rodriguez"
+    ],
+    "last_modified": "Thu, 15 Oct 2026 20:51:59 GMT",
+    "checked_at": "2026-10-15T20:55:15.015824+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 15 Oct 2026 18:02:15 GMT",
-    "checked_at": "2026-10-15T18:05:16.139556+00:00"
+    "last_modified": "Thu, 15 Oct 2026 20:51:59 GMT",
+    "checked_at": "2026-10-15T20:55:15.238008+00:00"
   }
 }
