@@ -11,8 +11,8 @@
       }
     ],
     "hits": [],
-    "last_modified": "Thu, 15 Oct 2026 03:52:44 GMT",
-    "checked_at": "2026-10-15T03:55:14.048626+00:00"
+    "last_modified": "Thu, 15 Oct 2026 04:12:59 GMT",
+    "checked_at": "2026-10-15T04:15:14.888812+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "4e9062339c038039504fede42ab41c1b9e709ce616faed0daa1f13756fd18ee2",
@@ -115,18 +115,19 @@
       "Deniz Undav",
       "Erling Haaland",
       "Hany Mukhtar",
+      "Heung-min Son",
       "Kylian Mbappe",
       "Sam Surridge",
       "Tai Baribo"
     ],
-    "last_modified": "Thu, 15 Oct 2026 03:52:45 GMT",
-    "checked_at": "2026-10-15T03:55:14.604904+00:00"
+    "last_modified": "Thu, 15 Oct 2026 04:12:59 GMT",
+    "checked_at": "2026-10-15T04:15:15.988276+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 15 Oct 2026 03:52:44 GMT",
-    "checked_at": "2026-10-15T03:55:14.872371+00:00"
+    "last_modified": "Thu, 15 Oct 2026 04:12:59 GMT",
+    "checked_at": "2026-10-15T04:15:16.384601+00:00"
   }
 }
