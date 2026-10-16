@@ -11,32 +11,15 @@
       }
     ],
     "hits": [],
-    "last_modified": "Fri, 16 Oct 2026 01:12:57 GMT",
-    "checked_at": "2026-10-16T01:15:14.989928+00:00"
+    "last_modified": "Fri, 16 Oct 2026 03:03:24 GMT",
+    "checked_at": "2026-10-16T03:05:16.945701+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "7c703262b30e26e57f3cc13da630939777ea6b311d1f840b30456c5342c71469",
-    "confirmed": [
-      {
-        "name": "Back Post",
-        "legs": [
-          "Alvaro Rodriguez"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Esteban Lepaul"
-        ],
-        "rr": false
-      }
-    ],
-    "hits": [
-      "Alvaro Rodriguez"
-    ],
-    "last_modified": "Fri, 16 Oct 2026 01:12:56 GMT",
-    "checked_at": "2026-10-16T01:15:15.544961+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "hits": [],
+    "last_modified": "Fri, 16 Oct 2026 03:03:24 GMT",
+    "checked_at": "2026-10-16T03:05:17.329020+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "7b3fec7f2debe775eeff18f7e7a070e0662f7abe0301c1de83e5d13c27e3eccd",
@@ -81,7 +64,7 @@
       "J.K. Dobbins",
       "RJ Harvey"
     ],
-    "last_modified": "Fri, 16 Oct 2026 01:12:57 GMT",
-    "checked_at": "2026-10-16T01:15:16.336690+00:00"
+    "last_modified": "Fri, 16 Oct 2026 03:03:24 GMT",
+    "checked_at": "2026-10-16T03:05:17.967392+00:00"
   }
 }
