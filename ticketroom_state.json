@@ -11,8 +11,8 @@
       }
     ],
     "hits": [],
-    "last_modified": "Thu, 15 Oct 2026 20:51:59 GMT",
-    "checked_at": "2026-10-15T20:55:14.173963+00:00"
+    "last_modified": "Fri, 16 Oct 2026 00:12:36 GMT",
+    "checked_at": "2026-10-16T00:15:16.114304+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "7c703262b30e26e57f3cc13da630939777ea6b311d1f840b30456c5342c71469",
@@ -35,14 +35,50 @@
     "hits": [
       "Alvaro Rodriguez"
     ],
-    "last_modified": "Thu, 15 Oct 2026 20:51:59 GMT",
-    "checked_at": "2026-10-15T20:55:15.015824+00:00"
+    "last_modified": "Fri, 16 Oct 2026 00:12:36 GMT",
+    "checked_at": "2026-10-16T00:15:16.538753+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "7b3fec7f2debe775eeff18f7e7a070e0662f7abe0301c1de83e5d13c27e3eccd",
+    "confirmed": [
+      {
+        "name": "Bell Cow",
+        "legs": [
+          "RJ Harvey"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Goal Line Back",
+        "legs": [
+          "AJ Barner"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Red Zone Target",
+        "legs": [
+          "Cooper Kupp"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Short Yardage",
+        "legs": [
+          "Troy Franklin"
+        ],
+        "rr": false
+      },
+      {
+        "name": "The Workhorse",
+        "legs": [
+          "J.K. Dobbins"
+        ],
+        "rr": false
+      }
+    ],
     "hits": [],
-    "last_modified": "Thu, 15 Oct 2026 20:51:59 GMT",
-    "checked_at": "2026-10-15T20:55:15.238008+00:00"
+    "last_modified": "Fri, 16 Oct 2026 00:12:36 GMT",
+    "checked_at": "2026-10-16T00:15:17.544730+00:00"
   }
 }
