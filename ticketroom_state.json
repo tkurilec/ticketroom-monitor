@@ -11,12 +11,19 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sat, 17 Oct 2026 13:06:17 GMT",
-    "checked_at": "2026-10-17T13:10:16.087591+00:00"
+    "last_modified": "Sat, 17 Oct 2026 13:16:23 GMT",
+    "checked_at": "2026-10-17T13:20:15.399563+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "60aad529afcb7607cd9202062c32f6b536b49e321ebf5f7c200b9b8ab5ecd79d",
+    "hash": "d739c385d788123443ceb928c9dabcc7a7d96d80a8e25ab5950670f39911d5cb",
     "confirmed": [
+      {
+        "name": "Near Post",
+        "legs": [
+          "Ayoze Perez"
+        ],
+        "rr": false
+      },
       {
         "name": "The Nine",
         "legs": [
@@ -33,14 +40,14 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sat, 17 Oct 2026 13:06:17 GMT",
-    "checked_at": "2026-10-17T13:10:16.934690+00:00"
+    "last_modified": "Sat, 17 Oct 2026 13:16:23 GMT",
+    "checked_at": "2026-10-17T13:20:16.315420+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 17 Oct 2026 13:06:17 GMT",
-    "checked_at": "2026-10-17T13:10:17.218639+00:00"
+    "last_modified": "Sat, 17 Oct 2026 13:16:23 GMT",
+    "checked_at": "2026-10-17T13:20:16.607611+00:00"
   }
 }
