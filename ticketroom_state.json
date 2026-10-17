@@ -11,16 +11,23 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sat, 17 Oct 2026 20:47:07 GMT",
-    "checked_at": "2026-10-17T20:50:18.548317+00:00"
+    "last_modified": "Sat, 17 Oct 2026 22:52:48 GMT",
+    "checked_at": "2026-10-17T22:55:13.155470+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "c4ceb1d3b3d0b14373d0326340aba26662304c5f44e19dfd362773a8c608d60a",
+    "hash": "9cf7c226e0f3c83bfb41eb388e5105fbc8e59aa3bdff690f51b1593546dc12fa",
     "confirmed": [
       {
         "name": "Back Post",
         "legs": [
           "Milan Iloski"
+        ],
+        "rr": false
+      },
+      {
+        "name": "First Time",
+        "legs": [
+          "Antoine Griezmann"
         ],
         "rr": false
       },
@@ -35,6 +42,13 @@
         "name": "Near Post",
         "legs": [
           "Ayoze Perez"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Shoulder of the Last Man",
+        "legs": [
+          "Martin Ojeda"
         ],
         "rr": false
       },
@@ -74,14 +88,14 @@
       "Harry Kane",
       "Milan Iloski"
     ],
-    "last_modified": "Sat, 17 Oct 2026 20:47:07 GMT",
-    "checked_at": "2026-10-17T20:50:19.068967+00:00"
+    "last_modified": "Sat, 17 Oct 2026 22:52:48 GMT",
+    "checked_at": "2026-10-17T22:55:13.916339+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 17 Oct 2026 20:47:07 GMT",
-    "checked_at": "2026-10-17T20:50:19.254963+00:00"
+    "last_modified": "Sat, 17 Oct 2026 22:52:48 GMT",
+    "checked_at": "2026-10-17T22:55:14.093978+00:00"
   }
 }
