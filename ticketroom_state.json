@@ -11,12 +11,19 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sat, 17 Oct 2026 14:41:51 GMT",
-    "checked_at": "2026-10-17T14:45:16.089331+00:00"
+    "last_modified": "Sat, 17 Oct 2026 15:36:26 GMT",
+    "checked_at": "2026-10-17T15:40:18.113322+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "d739c385d788123443ceb928c9dabcc7a7d96d80a8e25ab5950670f39911d5cb",
+    "hash": "61ad8dc97b5b731f31c3d258a19bf020ab36388216edc04cb6f4db416f8b4f5c",
     "confirmed": [
+      {
+        "name": "Gets Across 18",
+        "legs": [
+          "Gabriel Jesus"
+        ],
+        "rr": false
+      },
       {
         "name": "Near Post",
         "legs": [
@@ -42,14 +49,14 @@
     "hits": [
       "Erling Haaland"
     ],
-    "last_modified": "Sat, 17 Oct 2026 14:41:51 GMT",
-    "checked_at": "2026-10-17T14:45:16.566787+00:00"
+    "last_modified": "Sat, 17 Oct 2026 15:36:26 GMT",
+    "checked_at": "2026-10-17T15:40:19.151919+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 17 Oct 2026 14:41:51 GMT",
-    "checked_at": "2026-10-17T14:45:16.873458+00:00"
+    "last_modified": "Sat, 17 Oct 2026 15:36:26 GMT",
+    "checked_at": "2026-10-17T15:40:19.309704+00:00"
   }
 }
