@@ -11,11 +11,11 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sat, 17 Oct 2026 22:57:41 GMT",
-    "checked_at": "2026-10-17T23:00:20.706363+00:00"
+    "last_modified": "Sat, 17 Oct 2026 23:46:43 GMT",
+    "checked_at": "2026-10-17T23:50:18.356368+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "006bf443460ce801a9eb504c1245c182931c23a9ee8852487757a074ebe952ee",
+    "hash": "deb87ee910a58b139916a958721a55fef53708975ea9fbb48855bebdf8044dc0",
     "confirmed": [
       {
         "name": "Back Post",
@@ -74,6 +74,13 @@
         "rr": false
       },
       {
+        "name": "Target Man 11",
+        "legs": [
+          "Brian White"
+        ],
+        "rr": false
+      },
+      {
         "name": "The Nine",
         "legs": [
           "Serhou Guirassy"
@@ -95,14 +102,14 @@
       "Harry Kane",
       "Milan Iloski"
     ],
-    "last_modified": "Sat, 17 Oct 2026 22:57:41 GMT",
-    "checked_at": "2026-10-17T23:00:21.639170+00:00"
+    "last_modified": "Sat, 17 Oct 2026 23:46:43 GMT",
+    "checked_at": "2026-10-17T23:50:19.219722+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 17 Oct 2026 22:57:41 GMT",
-    "checked_at": "2026-10-17T23:00:21.907100+00:00"
+    "last_modified": "Sat, 17 Oct 2026 23:46:43 GMT",
+    "checked_at": "2026-10-17T23:50:19.521532+00:00"
   }
 }
