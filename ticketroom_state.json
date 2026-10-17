@@ -11,11 +11,11 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sat, 17 Oct 2026 12:51:29 GMT",
-    "checked_at": "2026-10-17T12:55:16.651968+00:00"
+    "last_modified": "Sat, 17 Oct 2026 13:06:17 GMT",
+    "checked_at": "2026-10-17T13:10:16.087591+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "bbc97cc56157ad7ff0225c2b49dedd1c4d414139cfae8767dd7ae1a9a071a90b",
+    "hash": "60aad529afcb7607cd9202062c32f6b536b49e321ebf5f7c200b9b8ab5ecd79d",
     "confirmed": [
       {
         "name": "The Nine",
@@ -23,17 +23,24 @@
           "Serhou Guirassy"
         ],
         "rr": false
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Erling Haaland"
+        ],
+        "rr": false
       }
     ],
     "hits": [],
-    "last_modified": "Sat, 17 Oct 2026 12:51:29 GMT",
-    "checked_at": "2026-10-17T12:55:17.281292+00:00"
+    "last_modified": "Sat, 17 Oct 2026 13:06:17 GMT",
+    "checked_at": "2026-10-17T13:10:16.934690+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 17 Oct 2026 12:51:29 GMT",
-    "checked_at": "2026-10-17T12:55:17.737246+00:00"
+    "last_modified": "Sat, 17 Oct 2026 13:06:17 GMT",
+    "checked_at": "2026-10-17T13:10:17.218639+00:00"
   }
 }
