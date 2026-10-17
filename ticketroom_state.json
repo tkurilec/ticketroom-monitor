@@ -11,11 +11,11 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sat, 17 Oct 2026 22:52:48 GMT",
-    "checked_at": "2026-10-17T22:55:13.155470+00:00"
+    "last_modified": "Sat, 17 Oct 2026 22:57:41 GMT",
+    "checked_at": "2026-10-17T23:00:20.706363+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "9cf7c226e0f3c83bfb41eb388e5105fbc8e59aa3bdff690f51b1593546dc12fa",
+    "hash": "006bf443460ce801a9eb504c1245c182931c23a9ee8852487757a074ebe952ee",
     "confirmed": [
       {
         "name": "Back Post",
@@ -49,6 +49,13 @@
         "name": "Shoulder of the Last Man",
         "legs": [
           "Martin Ojeda"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Lionel Messi"
         ],
         "rr": false
       },
@@ -88,14 +95,14 @@
       "Harry Kane",
       "Milan Iloski"
     ],
-    "last_modified": "Sat, 17 Oct 2026 22:52:48 GMT",
-    "checked_at": "2026-10-17T22:55:13.916339+00:00"
+    "last_modified": "Sat, 17 Oct 2026 22:57:41 GMT",
+    "checked_at": "2026-10-17T23:00:21.639170+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 17 Oct 2026 22:52:48 GMT",
-    "checked_at": "2026-10-17T22:55:14.093978+00:00"
+    "last_modified": "Sat, 17 Oct 2026 22:57:41 GMT",
+    "checked_at": "2026-10-17T23:00:21.907100+00:00"
   }
 }
