@@ -11,8 +11,8 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sat, 17 Oct 2026 23:46:43 GMT",
-    "checked_at": "2026-10-17T23:50:18.356368+00:00"
+    "last_modified": "Sun, 18 Oct 2026 00:01:06 GMT",
+    "checked_at": "2026-10-18T00:05:15.909501+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "deb87ee910a58b139916a958721a55fef53708975ea9fbb48855bebdf8044dc0",
@@ -96,20 +96,21 @@
       }
     ],
     "hits": [
+      "Antoine Griezmann",
       "Bruno Damiani",
       "Erling Haaland",
       "Gabriel Jesus",
       "Harry Kane",
       "Milan Iloski"
     ],
-    "last_modified": "Sat, 17 Oct 2026 23:46:43 GMT",
-    "checked_at": "2026-10-17T23:50:19.219722+00:00"
+    "last_modified": "Sun, 18 Oct 2026 00:01:07 GMT",
+    "checked_at": "2026-10-18T00:05:16.900660+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 17 Oct 2026 23:46:43 GMT",
-    "checked_at": "2026-10-17T23:50:19.521532+00:00"
+    "last_modified": "Sun, 18 Oct 2026 00:01:06 GMT",
+    "checked_at": "2026-10-18T00:05:17.426880+00:00"
   }
 }
