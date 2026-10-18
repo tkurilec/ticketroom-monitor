@@ -11,8 +11,8 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 18 Oct 2026 19:46:26 GMT",
-    "checked_at": "2026-10-18T20:05:13.465601+00:00"
+    "last_modified": "Sun, 18 Oct 2026 20:22:47 GMT",
+    "checked_at": "2026-10-18T20:25:16.477543+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "52d67d4469be26daad678e92adfcb76f1341ca7ce22844f5b0fe41be1e63b031",
@@ -44,11 +44,11 @@
       "Kylian Mbappe",
       "Patrik Schick"
     ],
-    "last_modified": "Sun, 18 Oct 2026 19:46:26 GMT",
-    "checked_at": "2026-10-18T20:05:13.883111+00:00"
+    "last_modified": "Sun, 18 Oct 2026 20:22:47 GMT",
+    "checked_at": "2026-10-18T20:25:16.705658+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "70ca97a0014ab03a292ab4fb64a1b839a6134ba4677d169eedb0578dd6ff164a",
+    "hash": "a874b15254091dc275a09d5fa2d5670d3d3577ec21e02c0302a2bb3ee931071f",
     "confirmed": [
       {
         "name": "Audible",
@@ -61,6 +61,13 @@
         "name": "Back Shoulder",
         "legs": [
           "Isaiah Likely"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Bootleg",
+        "legs": [
+          "Tre Tucker"
         ],
         "rr": false
       },
@@ -96,6 +103,20 @@
         "name": "Goal Line Back",
         "legs": [
           "Kyren Williams"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Hail Mary",
+        "legs": [
+          "Omarion Hampton"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Hard Count",
+        "legs": [
+          "Michael Mayer"
         ],
         "rr": false
       },
@@ -156,6 +177,27 @@
         "rr": false
       },
       {
+        "name": "Post Corner",
+        "legs": [
+          "Khalil Shakir"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Power Run",
+        "legs": [
+          "Keon Coleman"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Red Zone Target",
+        "legs": [
+          "Ashton Jeanty"
+        ],
+        "rr": false
+      },
+      {
         "name": "Screen Pass",
         "legs": [
           "Brian Robinson"
@@ -205,6 +247,13 @@
         "rr": false
       },
       {
+        "name": "The Workhorse",
+        "legs": [
+          "James Cook"
+        ],
+        "rr": false
+      },
+      {
         "name": "Toe Tap",
         "legs": [
           "Keenan Allen"
@@ -249,7 +298,7 @@
       "Romeo Doubs",
       "Roschon Johnson"
     ],
-    "last_modified": "Sun, 18 Oct 2026 19:46:26 GMT",
-    "checked_at": "2026-10-18T20:05:15.461405+00:00"
+    "last_modified": "Sun, 18 Oct 2026 20:22:47 GMT",
+    "checked_at": "2026-10-18T20:25:18.726102+00:00"
   }
 }
