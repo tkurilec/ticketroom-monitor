@@ -11,11 +11,11 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 18 Oct 2026 17:11:15 GMT",
-    "checked_at": "2026-10-18T17:35:14.304432+00:00"
+    "last_modified": "Sun, 18 Oct 2026 18:01:34 GMT",
+    "checked_at": "2026-10-18T18:05:15.679477+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "1c3a4e6b3c9d7064efb880a5f41976dfa32bfe4b9b3c4e875d6885df5b6643ac",
+    "hash": "52d67d4469be26daad678e92adfcb76f1341ca7ce22844f5b0fe41be1e63b031",
     "confirmed": [
       {
         "name": "Back Post",
@@ -30,14 +30,21 @@
           "Ante Budimir"
         ],
         "rr": false
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Kylian Mbappe"
+        ],
+        "rr": false
       }
     ],
     "hits": [
       "Ante Budimir",
       "Patrik Schick"
     ],
-    "last_modified": "Sun, 18 Oct 2026 17:11:15 GMT",
-    "checked_at": "2026-10-18T17:35:14.497301+00:00"
+    "last_modified": "Sun, 18 Oct 2026 18:01:34 GMT",
+    "checked_at": "2026-10-18T18:05:16.415932+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "aa43f09eabcf7a6bd14cfb4e1d24be9d8b9ac5ff8ca64e2bd61ce45d6521eb8e",
@@ -202,7 +209,7 @@
       "Colston Loveland",
       "Romeo Doubs"
     ],
-    "last_modified": "Sun, 18 Oct 2026 17:11:15 GMT",
-    "checked_at": "2026-10-18T17:35:15.535555+00:00"
+    "last_modified": "Sun, 18 Oct 2026 18:01:34 GMT",
+    "checked_at": "2026-10-18T18:05:17.652549+00:00"
   }
 }
