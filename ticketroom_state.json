@@ -12,7 +12,7 @@
     ],
     "hits": [],
     "last_modified": "Sun, 18 Oct 2026 19:46:26 GMT",
-    "checked_at": "2026-10-18T19:50:16.267856+00:00"
+    "checked_at": "2026-10-18T20:05:13.465601+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "52d67d4469be26daad678e92adfcb76f1341ca7ce22844f5b0fe41be1e63b031",
@@ -45,10 +45,10 @@
       "Patrik Schick"
     ],
     "last_modified": "Sun, 18 Oct 2026 19:46:26 GMT",
-    "checked_at": "2026-10-18T19:50:17.172803+00:00"
+    "checked_at": "2026-10-18T20:05:13.883111+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "aa43f09eabcf7a6bd14cfb4e1d24be9d8b9ac5ff8ca64e2bd61ce45d6521eb8e",
+    "hash": "70ca97a0014ab03a292ab4fb64a1b839a6134ba4677d169eedb0578dd6ff164a",
     "confirmed": [
       {
         "name": "Audible",
@@ -93,6 +93,20 @@
         "rr": false
       },
       {
+        "name": "Goal Line Back",
+        "legs": [
+          "Kyren Williams"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Hurry Up",
+        "legs": [
+          "Blake Corum"
+        ],
+        "rr": false
+      },
+      {
         "name": "Inside the Ten",
         "legs": [
           "Pat Freiermuth"
@@ -110,6 +124,13 @@
         "name": "Jump Ball",
         "legs": [
           "Darren Waller"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Kickoff",
+        "legs": [
+          "Colby Parkinson"
         ],
         "rr": false
       },
@@ -156,6 +177,13 @@
         "rr": false
       },
       {
+        "name": "Spin Move",
+        "legs": [
+          "Tyler Higbee"
+        ],
+        "rr": false
+      },
+      {
         "name": "Stiff Arm",
         "legs": [
           "Colston Loveland"
@@ -191,6 +219,13 @@
         "rr": false
       },
       {
+        "name": "Two Minute Drill",
+        "legs": [
+          "Trey McBride"
+        ],
+        "rr": false
+      },
+      {
         "name": "Under Center",
         "legs": [
           "Kyle Pitts"
@@ -209,11 +244,12 @@
       "Alvin Kamara",
       "Bhayshul Tuten",
       "Colston Loveland",
+      "Isaiah Likely",
       "Kyle Pitts",
       "Romeo Doubs",
       "Roschon Johnson"
     ],
     "last_modified": "Sun, 18 Oct 2026 19:46:26 GMT",
-    "checked_at": "2026-10-18T19:50:18.624089+00:00"
+    "checked_at": "2026-10-18T20:05:15.461405+00:00"
   }
 }
