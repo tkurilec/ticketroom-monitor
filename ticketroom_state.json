@@ -11,16 +11,23 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 18 Oct 2026 01:41:51 GMT",
-    "checked_at": "2026-10-18T01:45:15.345436+00:00"
+    "last_modified": "Sun, 18 Oct 2026 01:46:44 GMT",
+    "checked_at": "2026-10-18T01:50:14.993159+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "869d89ecb970a6a91230b2f4db3c9eb9eb776af15a1de87a84a8a3227da0c19a",
+    "hash": "3ace69ce88e0de8580a7ae6d4efffb14e6bb256d28030d0d63bbb8e9c500064f",
     "confirmed": [
       {
         "name": "Back Post",
         "legs": [
           "Milan Iloski"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Back Post 14",
+        "legs": [
+          "Sam Surridge"
         ],
         "rr": false
       },
@@ -112,14 +119,14 @@
       "Martin Ojeda",
       "Milan Iloski"
     ],
-    "last_modified": "Sun, 18 Oct 2026 01:41:51 GMT",
-    "checked_at": "2026-10-18T01:45:16.255761+00:00"
+    "last_modified": "Sun, 18 Oct 2026 01:46:44 GMT",
+    "checked_at": "2026-10-18T01:50:15.879541+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 18 Oct 2026 01:41:51 GMT",
-    "checked_at": "2026-10-18T01:45:16.482795+00:00"
+    "last_modified": "Sun, 18 Oct 2026 01:46:44 GMT",
+    "checked_at": "2026-10-18T01:50:16.061133+00:00"
   }
 }
