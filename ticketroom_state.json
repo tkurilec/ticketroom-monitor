@@ -11,8 +11,8 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 18 Oct 2026 20:22:47 GMT",
-    "checked_at": "2026-10-18T20:25:16.477543+00:00"
+    "last_modified": "Sun, 18 Oct 2026 20:37:42 GMT",
+    "checked_at": "2026-10-18T20:45:15.916820+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "52d67d4469be26daad678e92adfcb76f1341ca7ce22844f5b0fe41be1e63b031",
@@ -44,8 +44,8 @@
       "Kylian Mbappe",
       "Patrik Schick"
     ],
-    "last_modified": "Sun, 18 Oct 2026 20:22:47 GMT",
-    "checked_at": "2026-10-18T20:25:16.705658+00:00"
+    "last_modified": "Sun, 18 Oct 2026 20:37:42 GMT",
+    "checked_at": "2026-10-18T20:45:16.257465+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "a874b15254091dc275a09d5fa2d5670d3d3577ec21e02c0302a2bb3ee931071f",
@@ -291,6 +291,7 @@
     ],
     "hits": [
       "Alvin Kamara",
+      "Ashton Jeanty",
       "Bhayshul Tuten",
       "Colston Loveland",
       "Isaiah Likely",
@@ -298,7 +299,7 @@
       "Romeo Doubs",
       "Roschon Johnson"
     ],
-    "last_modified": "Sun, 18 Oct 2026 20:22:47 GMT",
-    "checked_at": "2026-10-18T20:25:18.726102+00:00"
+    "last_modified": "Sun, 18 Oct 2026 20:37:42 GMT",
+    "checked_at": "2026-10-18T20:45:17.746029+00:00"
   }
 }
