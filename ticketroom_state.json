@@ -11,8 +11,8 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 18 Oct 2026 16:46:18 GMT",
-    "checked_at": "2026-10-18T17:00:20.445064+00:00"
+    "last_modified": "Sun, 18 Oct 2026 17:11:15 GMT",
+    "checked_at": "2026-10-18T17:15:16.311197+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "1c3a4e6b3c9d7064efb880a5f41976dfa32bfe4b9b3c4e875d6885df5b6643ac",
@@ -36,8 +36,8 @@
       "Ante Budimir",
       "Patrik Schick"
     ],
-    "last_modified": "Sun, 18 Oct 2026 16:46:18 GMT",
-    "checked_at": "2026-10-18T17:00:20.574332+00:00"
+    "last_modified": "Sun, 18 Oct 2026 17:11:15 GMT",
+    "checked_at": "2026-10-18T17:15:16.688288+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "aa43f09eabcf7a6bd14cfb4e1d24be9d8b9ac5ff8ca64e2bd61ce45d6521eb8e",
@@ -198,9 +198,10 @@
       }
     ],
     "hits": [
-      "Bhayshul Tuten"
+      "Bhayshul Tuten",
+      "Colston Loveland"
     ],
-    "last_modified": "Sun, 18 Oct 2026 16:46:18 GMT",
-    "checked_at": "2026-10-18T17:00:23.482392+00:00"
+    "last_modified": "Sun, 18 Oct 2026 17:11:15 GMT",
+    "checked_at": "2026-10-18T17:15:18.201178+00:00"
   }
 }
