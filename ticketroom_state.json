@@ -11,8 +11,8 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 18 Oct 2026 15:11:41 GMT",
-    "checked_at": "2026-10-18T15:15:14.466671+00:00"
+    "last_modified": "Sun, 18 Oct 2026 16:46:18 GMT",
+    "checked_at": "2026-10-18T17:00:20.445064+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "1c3a4e6b3c9d7064efb880a5f41976dfa32bfe4b9b3c4e875d6885df5b6643ac",
@@ -36,12 +36,33 @@
       "Ante Budimir",
       "Patrik Schick"
     ],
-    "last_modified": "Sun, 18 Oct 2026 15:11:41 GMT",
-    "checked_at": "2026-10-18T15:15:15.131495+00:00"
+    "last_modified": "Sun, 18 Oct 2026 16:46:18 GMT",
+    "checked_at": "2026-10-18T17:00:20.574332+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "4c41d29612abb14b8ae93f171040a4858c74aed1d60dd38f0548956bd9726307",
+    "hash": "aa43f09eabcf7a6bd14cfb4e1d24be9d8b9ac5ff8ca64e2bd61ce45d6521eb8e",
     "confirmed": [
+      {
+        "name": "Audible",
+        "legs": [
+          "Bucky Irving"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Back Shoulder",
+        "legs": [
+          "Isaiah Likely"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Counter Trey",
+        "legs": [
+          "Devaughn Vele"
+        ],
+        "rr": false
+      },
       {
         "name": "First Read",
         "legs": [
@@ -50,9 +71,121 @@
         "rr": false
       },
       {
+        "name": "Flea Flicker",
+        "legs": [
+          "Alvin Kamara"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Fourth and Inches",
+        "legs": [
+          "Wan'Dale Robinson"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Inside the Ten",
+        "legs": [
+          "Pat Freiermuth"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Jet Motion",
+        "legs": [
+          "Juwan Johnson"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Jump Ball",
+        "legs": [
+          "Darren Waller"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Onside",
+        "legs": [
+          "Roschon Johnson"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Pistol",
+        "legs": [
+          "Rico Dowdle"
+        ],
+        "rr": false
+      },
+      {
         "name": "Play Clock",
         "legs": [
           "Brenton Strange"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Screen Pass",
+        "legs": [
+          "Brian Robinson"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Seam Route",
+        "legs": [
+          "Rome Odunze"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Shotgun",
+        "legs": [
+          "Romeo Doubs"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Stiff Arm",
+        "legs": [
+          "Colston Loveland"
+        ],
+        "rr": false
+      },
+      {
+        "name": "The Checkdown",
+        "legs": [
+          "Jaylen Warren"
+        ],
+        "rr": false
+      },
+      {
+        "name": "The Sneak",
+        "legs": [
+          "Tony Pollard"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Toe Tap",
+        "legs": [
+          "Keenan Allen"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Trick Play",
+        "legs": [
+          "Mark Andrews"
+        ],
+        "rr": false
+      },
+      {
+        "name": "Under Center",
+        "legs": [
+          "Kyle Pitts"
         ],
         "rr": false
       },
@@ -67,7 +200,7 @@
     "hits": [
       "Bhayshul Tuten"
     ],
-    "last_modified": "Sun, 18 Oct 2026 15:11:41 GMT",
-    "checked_at": "2026-10-18T15:15:15.425330+00:00"
+    "last_modified": "Sun, 18 Oct 2026 16:46:18 GMT",
+    "checked_at": "2026-10-18T17:00:23.482392+00:00"
   }
 }
