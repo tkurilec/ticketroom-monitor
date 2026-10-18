@@ -11,130 +11,21 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 18 Oct 2026 02:47:07 GMT",
-    "checked_at": "2026-10-18T02:50:14.915942+00:00"
+    "last_modified": "Sun, 18 Oct 2026 06:56:34 GMT",
+    "checked_at": "2026-10-18T07:00:21.326021+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "a94ef28dccc6db25d0421433ef9df0e0f14a4695d59887f2c94fdb804683e736",
-    "confirmed": [
-      {
-        "name": "Back Post",
-        "legs": [
-          "Milan Iloski"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Back Post 14",
-        "legs": [
-          "Sam Surridge"
-        ],
-        "rr": false
-      },
-      {
-        "name": "First Time",
-        "legs": [
-          "Antoine Griezmann"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Gets Across",
-        "legs": [
-          "Dejan Joveljic"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Gets Across 18",
-        "legs": [
-          "Gabriel Jesus"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Near Post",
-        "legs": [
-          "Ayoze Perez"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Runs the Channel",
-        "legs": [
-          "Joao Klauss"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Shoulder of the Last Man",
-        "legs": [
-          "Martin Ojeda"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Lionel Messi"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Six-Yard Box 13",
-        "legs": [
-          "Bruno Damiani"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Harry Kane"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Target Man 11",
-        "legs": [
-          "Brian White"
-        ],
-        "rr": false
-      },
-      {
-        "name": "The Nine",
-        "legs": [
-          "Serhou Guirassy"
-        ],
-        "rr": false
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Erling Haaland"
-        ],
-        "rr": false
-      }
-    ],
-    "hits": [
-      "Antoine Griezmann",
-      "Bruno Damiani",
-      "Erling Haaland",
-      "Gabriel Jesus",
-      "Harry Kane",
-      "Joao Klauss",
-      "Lionel Messi",
-      "Martin Ojeda",
-      "Milan Iloski"
-    ],
-    "last_modified": "Sun, 18 Oct 2026 02:47:07 GMT",
-    "checked_at": "2026-10-18T02:50:15.554842+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "hits": [],
+    "last_modified": "Sun, 18 Oct 2026 06:56:34 GMT",
+    "checked_at": "2026-10-18T07:00:21.511385+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 18 Oct 2026 02:47:07 GMT",
-    "checked_at": "2026-10-18T02:50:16.292657+00:00"
+    "last_modified": "Sun, 18 Oct 2026 06:56:34 GMT",
+    "checked_at": "2026-10-18T07:00:21.772108+00:00"
   }
 }
