@@ -1,31 +1,23 @@
 {
   "https://theticketroom.live/mlb/": {
-    "hash": "01125f0e1311bb2f0b2b3e6670aa5632b8878e9f53249c6b49a3f3e2105ad2c4",
-    "confirmed": [
-      {
-        "name": "Longest of the Night",
-        "legs": [
-          "Jonathan Aranda"
-        ],
-        "rr": false
-      }
-    ],
-    "hits": [],
-    "last_modified": "Mon, 19 Oct 2026 03:51:52 GMT",
-    "checked_at": "2026-10-19T04:00:20.741902+00:00"
+    "hash": "96f9ff7b2cd8a6afd6d893cf4a5100e67181e3e559e25aa8807e84e976c68edd",
+    "confirmed": null,
+    "hits": null,
+    "last_modified": "Mon, 19 Oct 2026 15:19:04 GMT",
+    "checked_at": "2026-10-19T15:20:16.704429+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Mon, 19 Oct 2026 03:51:52 GMT",
-    "checked_at": "2026-10-19T04:00:21.138105+00:00"
+    "last_modified": "Mon, 19 Oct 2026 15:19:04 GMT",
+    "checked_at": "2026-10-19T15:20:17.158492+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Mon, 19 Oct 2026 03:51:52 GMT",
-    "checked_at": "2026-10-19T04:00:21.274882+00:00"
+    "last_modified": "Mon, 19 Oct 2026 15:19:04 GMT",
+    "checked_at": "2026-10-19T15:20:17.885665+00:00"
   }
 }
