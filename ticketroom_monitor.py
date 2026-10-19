@@ -205,7 +205,17 @@ def fetch_page(url: str) -> tuple[bytes, str, str | None]:
     return resp.content, resp.text, resp.headers.get("Last-Modified")
 
 
-def extract_signature(html: str) -> dict | None:
+# Confirm this many minutes BEFORE kickoff. NFL never publishes confirmed
+# statuses, so its tickets ride the kickoff clock alone — inactives post 90
+# minutes out and the board redrafts around scratches, so 75 minutes out the
+# listed ticket is effectively final (and still bettable). If the board does
+# redraft after our early ping, the player-change ping covers the correction.
+EARLY_CONFIRM_MIN = {
+    "NFL Board": 75,
+}
+
+
+def extract_signature(html: str, early_min: int = 0) -> dict | None:
     """Extract the slate signature from the page's embedded `const D={...}` data.
 
     Per the site owner, tickets are redrafted (price movements, live weather)
@@ -248,11 +258,19 @@ def extract_signature(html: str) -> dict | None:
             if now_et.strftime("%Y-%m-%d") == str(slate_date):
                 mins = now_et.hour * 60 + now_et.minute
                 started_games |= {str(g) for g, m in ko.items()
-                                  if isinstance(m, (int, float)) and mins >= m}
+                                  if isinstance(m, (int, float))
+                                  and mins >= m - early_min}
         except Exception as exc:  # zoneinfo/tzdata missing on some hosts
             print(f"WARNING: kickoff-time check skipped: {exc}")
 
+    pdata = data.get("players") or {}
+
     def leg_confirmed(leg: dict) -> bool:
+        # A scratched/voided player blocks his ticket — matters most in the
+        # early-confirm window between inactives and kickoff.
+        p = pdata.get(leg.get("name")) or {}
+        if p.get("out") or p.get("void"):
+            return False
         return (leg.get("status") == "confirmed"
                 or str(leg.get("game")) in started_games)
 
@@ -273,7 +291,6 @@ def extract_signature(html: str) -> dict | None:
     # The build flips players[name].hr when a prop hits mid-game (homer on
     # MLB, goal on soccer, TD on NFL) — it powers the page's ⚾/CASHED stamps.
     # Track it for confirmed-ticket legs so hits and ticket progress alert.
-    pdata = data.get("players") or {}
     leg_names = {p for t in confirmed for p in t["legs"]}
     hits = sorted(p for p in leg_names if (pdata.get(p) or {}).get("hr"))
     return {"confirmed": confirmed, "hits": hits}
@@ -361,7 +378,7 @@ def check_all() -> None:
             print(f"ERROR fetching {url}: {exc}")
             continue
 
-        sig = extract_signature(html)
+        sig = extract_signature(html, EARLY_CONFIRM_MIN.get(name, 0))
         if sig is not None:
             # Hash covers only ticket construction (name + legs): hit flips
             # and the rr flag must never re-announce tickets.
