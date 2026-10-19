@@ -212,6 +212,10 @@ def fetch_page(url: str) -> tuple[bytes, str, str | None]:
 # redraft after our early ping, the player-change ping covers the correction.
 EARLY_CONFIRM_MIN = {
     "NFL Board": 75,
+    # Soccer XIs post 60-75 min out and the site flips statuses from them,
+    # but its soccer build can lag past kickoff — 15 min out is the backstop
+    # (benched/out players are already flagged by then and block the ticket).
+    "Soccer Board": 15,
 }
 
 
