@@ -11,41 +11,15 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 18 Oct 2026 22:48:19 GMT",
-    "checked_at": "2026-10-18T23:10:16.214878+00:00"
+    "last_modified": "Mon, 19 Oct 2026 00:12:37 GMT",
+    "checked_at": "2026-10-19T00:15:16.364717+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "52d67d4469be26daad678e92adfcb76f1341ca7ce22844f5b0fe41be1e63b031",
-    "confirmed": [
-      {
-        "name": "Back Post",
-        "legs": [
-          "Patrik Schick"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Ante Budimir"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Kylian Mbappe"
-        ],
-        "rr": false
-      }
-    ],
-    "hits": [
-      "Ante Budimir",
-      "Kylian Mbappe",
-      "Patrik Schick"
-    ],
-    "last_modified": "Sun, 18 Oct 2026 22:48:19 GMT",
-    "checked_at": "2026-10-18T23:10:16.501046+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "hits": [],
+    "last_modified": "Mon, 19 Oct 2026 00:12:37 GMT",
+    "checked_at": "2026-10-19T00:15:16.623273+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "a874b15254091dc275a09d5fa2d5670d3d3577ec21e02c0302a2bb3ee931071f",
@@ -305,7 +279,7 @@
       "Roschon Johnson",
       "Tre Tucker"
     ],
-    "last_modified": "Sun, 18 Oct 2026 22:48:19 GMT",
-    "checked_at": "2026-10-18T23:10:17.855349+00:00"
+    "last_modified": "Mon, 19 Oct 2026 00:12:37 GMT",
+    "checked_at": "2026-10-19T00:15:18.607150+00:00"
   }
 }
