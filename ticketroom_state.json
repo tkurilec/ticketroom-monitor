@@ -11,15 +11,15 @@
       }
     ],
     "hits": [],
-    "last_modified": "Mon, 19 Oct 2026 00:18:28 GMT",
-    "checked_at": "2026-10-19T00:20:16.366337+00:00"
+    "last_modified": "Mon, 19 Oct 2026 00:23:16 GMT",
+    "checked_at": "2026-10-19T02:20:15.011854+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Mon, 19 Oct 2026 00:18:28 GMT",
-    "checked_at": "2026-10-19T00:20:16.697496+00:00"
+    "last_modified": "Mon, 19 Oct 2026 00:23:16 GMT",
+    "checked_at": "2026-10-19T02:20:15.333598+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "bdac2b3804ce7f55ee8cbea9cec655bb6c72c2aee62c2dc8022fd1329bdbf9da",
@@ -314,6 +314,7 @@
       "Colston Loveland",
       "Isaiah Likely",
       "James Cook",
+      "Javonte Williams",
       "Keon Coleman",
       "Khalil Shakir",
       "Kyle Pitts",
@@ -321,7 +322,7 @@
       "Roschon Johnson",
       "Tre Tucker"
     ],
-    "last_modified": "Mon, 19 Oct 2026 00:18:28 GMT",
-    "checked_at": "2026-10-19T00:20:18.816847+00:00"
+    "last_modified": "Mon, 19 Oct 2026 00:23:16 GMT",
+    "checked_at": "2026-10-19T02:20:18.216683+00:00"
   }
 }
