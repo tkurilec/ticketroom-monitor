@@ -3,8 +3,8 @@
     "hash": "2efea853952575f75abbd5e53977315a77b9e3796a12f14224797d045ba0e1ca",
     "confirmed": null,
     "hits": null,
-    "last_modified": "Tue, 20 Oct 2026 15:30:56 GMT",
-    "checked_at": "2026-10-20T15:40:16.066354+00:00"
+    "last_modified": "Tue, 20 Oct 2026 15:41:38 GMT",
+    "checked_at": "2026-10-20T15:45:15.686999+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "ceabfee6ae3d8338d0a16d2e0404be88ed06b9d18e12fea311e5dec30ac73b19",
@@ -21,50 +21,21 @@
       }
     ],
     "hits": [],
-    "last_modified": "Tue, 20 Oct 2026 15:30:56 GMT",
-    "checked_at": "2026-10-20T15:40:16.659927+00:00"
+    "last_modified": "Tue, 20 Oct 2026 15:41:38 GMT",
+    "checked_at": "2026-10-20T15:45:15.974977+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "0f966260d23920d5b32595f23806bf59fda1d0425b3365e120d546b4f7c7b5b8",
-    "confirmed": [
-      {
-        "name": "Bell Cow",
-        "legs": [
-          "Stefon Diggs"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Goal Line Back",
-        "legs": [
-          "Antonio Williams"
-        ],
-        "rr": false
-      },
-      {
-        "name": "Pop the Cork",
-        "legs": [
-          "Christian McCaffrey"
-        ],
-        "rr": false
-      },
-      {
-        "name": "The Workhorse",
-        "legs": [
-          "George Kittle"
-        ],
-        "rr": false
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "hits": [],
-    "last_modified": "Tue, 20 Oct 2026 15:30:56 GMT",
-    "checked_at": "2026-10-20T15:40:17.256635+00:00"
+    "last_modified": "Tue, 20 Oct 2026 15:41:38 GMT",
+    "checked_at": "2026-10-20T15:45:16.239595+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Tue, 20 Oct 2026 15:30:56 GMT",
-    "checked_at": "2026-10-20T15:40:17.389003+00:00"
+    "last_modified": "Tue, 20 Oct 2026 15:41:38 GMT",
+    "checked_at": "2026-10-20T15:45:16.528924+00:00"
   }
 }
