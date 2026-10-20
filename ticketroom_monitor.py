@@ -27,6 +27,7 @@ PAGES = {
     "MLB Board": "https://theticketroom.live/mlb/",
     "Soccer Board": "https://theticketroom.live/soccer/",
     "NFL Board": "https://theticketroom.live/nfl/",
+    "NBA Board": "https://theticketroom.live/nba/",
 }
 
 # gambly.com/chat?q=<text> opens Gambly Chat with the text pre-typed (verified
@@ -36,6 +37,7 @@ MARKETS = {
     "MLB Board": "anytime home run",
     "Soccer Board": "anytime goalscorer",
     "NFL Board": "anytime touchdown",
+    "NBA Board": "first basket",
 }
 
 
@@ -138,6 +140,7 @@ HIT_STYLE = {
     "MLB Board": ("⚾", "homered"),
     "Soccer Board": ("⚽", "scored"),
     "NFL Board": ("🏈", "scored a TD"),
+    "NBA Board": ("🏀", "scored the first basket"),
 }
 
 
@@ -216,6 +219,9 @@ EARLY_CONFIRM_MIN = {
     # but its soccer build can lag past kickoff — 15 min out is the backstop
     # (benched/out players are already flagged by then and block the ticket).
     "Soccer Board": 15,
+    # NBA starters are announced ~30 min before tip and first-basket bets
+    # only exist pre-tip; back-stop at 20 in case statuses never flip.
+    "NBA Board": 20,
 }
 
 
