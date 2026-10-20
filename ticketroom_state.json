@@ -3,11 +3,11 @@
     "hash": "2efea853952575f75abbd5e53977315a77b9e3796a12f14224797d045ba0e1ca",
     "confirmed": null,
     "hits": null,
-    "last_modified": "Tue, 20 Oct 2026 17:01:10 GMT",
-    "checked_at": "2026-10-20T17:05:14.855799+00:00"
+    "last_modified": "Tue, 20 Oct 2026 18:06:18 GMT",
+    "checked_at": "2026-10-20T18:10:20.159875+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "37b805507645d310666acb65921bccdf037520e9fcc576035fb64f5bcaebf62c",
+    "hash": "1472f96e4cd366099e3d64f89e337378e857380f4433a3baded5474032493d41",
     "confirmed": [
       {
         "name": "Back Post",
@@ -17,6 +17,36 @@
         "rr": false,
         "info": {
           "Serhou Guirassy": "Borussia Dortmund vs Sabah FK \u00b7 Tue Oct 20 \u00b7 12:45 PM ET"
+        }
+      },
+      {
+        "name": "Nailed On",
+        "legs": [
+          "Donyell Malen"
+        ],
+        "rr": false,
+        "info": {
+          "Donyell Malen": "AS Roma vs Slovan Bratislava \u00b7 Tue Oct 20 \u00b7 3:00 PM ET"
+        }
+      },
+      {
+        "name": "Near Post",
+        "legs": [
+          "Floyd Samba"
+        ],
+        "rr": false,
+        "info": {
+          "Floyd Samba": "Manchester City vs AEK Athens \u00b7 Tue Oct 20 \u00b7 3:00 PM ET"
+        }
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Donyell Malen"
+        ],
+        "rr": false,
+        "info": {
+          "Donyell Malen": "AS Roma vs Slovan Bratislava \u00b7 Tue Oct 20 \u00b7 3:00 PM ET"
         }
       },
       {
@@ -39,21 +69,21 @@
     "hits": [
       "a:Serhou Guirassy"
     ],
-    "last_modified": "Tue, 20 Oct 2026 17:01:10 GMT",
-    "checked_at": "2026-10-20T17:05:15.889957+00:00"
+    "last_modified": "Tue, 20 Oct 2026 18:06:18 GMT",
+    "checked_at": "2026-10-20T18:10:22.124354+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Tue, 20 Oct 2026 17:01:10 GMT",
-    "checked_at": "2026-10-20T17:05:16.064203+00:00"
+    "last_modified": "Tue, 20 Oct 2026 18:06:18 GMT",
+    "checked_at": "2026-10-20T18:10:22.342706+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Tue, 20 Oct 2026 17:01:10 GMT",
-    "checked_at": "2026-10-20T17:05:16.575037+00:00"
+    "last_modified": "Tue, 20 Oct 2026 18:06:18 GMT",
+    "checked_at": "2026-10-20T18:10:22.700651+00:00"
   }
 }
