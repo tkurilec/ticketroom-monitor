@@ -304,6 +304,7 @@ def notify_hits(webhook: str | None, board: str, url: str,
                 new_hits: list, hits: list, confirmed: list) -> None:
     """Alert on new prop hits, with round-robin cash progress per ticket.
     new_hits/hits are market-scoped tokens (see extract_signature)."""
+    emoji, _ = HIT_STYLE.get(board, ("🎯", "hit"))
     hitset = set(hits)
     lines = [token_line(t, board) for t in new_hits]
     fully_cashed = False
