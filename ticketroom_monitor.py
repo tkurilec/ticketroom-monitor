@@ -253,36 +253,44 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
     meta = data.get("meta") or {}
     started_games = {str(g) for g in (meta.get("gs") or {})}
     started_games |= {str(g) for g in (meta.get("finals") or [])}
-    # meta.ko maps game number -> kickoff in minutes since midnight ET on
-    # meta.date (the page's own started() clock). The NFL pipeline never
-    # publishes confirmed statuses, so without this NFL tickets would never
-    # ping at all; with it they ping at kickoff, matching the page.
-    ko = meta.get("ko") or {}
+
+    # Kickoff clock: legs carry their game time in ET ("8:15 PM ET",
+    # "12:45 PM"), which is unambiguous across boards — unlike meta.ko, whose
+    # base differs per sport (ET for NFL/NBA, UTC for soccer). A leg counts as
+    # started from early_min minutes before its game time, on the slate day
+    # only (a stale board's finished games must not retroactively confirm).
+    now_mins = None
     slate_date = meta.get("date")
-    if ko and slate_date:
+    if slate_date:
         try:
             from zoneinfo import ZoneInfo
             now_et = datetime.now(ZoneInfo("America/New_York"))
-            # Only on the slate day itself: a stale board's games being over
-            # must not retroactively "confirm" yesterday's tickets.
             if now_et.strftime("%Y-%m-%d") == str(slate_date):
-                mins = now_et.hour * 60 + now_et.minute
-                started_games |= {str(g) for g, m in ko.items()
-                                  if isinstance(m, (int, float))
-                                  and mins >= m - early_min}
+                now_mins = now_et.hour * 60 + now_et.minute
         except Exception as exc:  # zoneinfo/tzdata missing on some hosts
             print(f"WARNING: kickoff-time check skipped: {exc}")
+
+    def leg_started(leg: dict) -> bool:
+        if now_mins is None:
+            return False
+        m2 = re.search(r"(\d{1,2}):(\d{2})\s*(AM|PM)", leg.get("gtime") or "")
+        if not m2:
+            return False
+        h, mi = int(m2.group(1)) % 12, int(m2.group(2))
+        start = h * 60 + mi + (720 if m2.group(3) == "PM" else 0)
+        return now_mins >= start - early_min
 
     pdata = data.get("players") or {}
 
     def leg_confirmed(leg: dict) -> bool:
         # A scratched/voided player blocks his ticket — matters most in the
-        # early-confirm window between inactives and kickoff.
+        # early-confirm window between lineups posting and kickoff.
         p = pdata.get(leg.get("name")) or {}
         if p.get("out") or p.get("void"):
             return False
         return (leg.get("status") == "confirmed"
-                or str(leg.get("game")) in started_games)
+                or str(leg.get("game")) in started_games
+                or leg_started(leg))
 
     confirmed = []
     for t in data.get("tickets", []):
