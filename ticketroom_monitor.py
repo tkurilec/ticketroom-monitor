@@ -152,6 +152,45 @@ def fetch_nfl_live_tds(leg_names: set, date_yyyymmdd: str | None = None) -> set:
     return any_td, first_td
 
 
+def fetch_nba_first_baskets(leg_names: set, date_yyyymmdd: str | None = None) -> set:
+    """Check ESPN NBA play-by-play for each game's first made basket.
+
+    The first scoring play worth 2+ points settles the first-basket market
+    (free throws don't count); ESPN play text leads with the scorer
+    ("Jayson Tatum makes driving layup").
+    """
+    if not leg_names:
+        return set()
+    date = date_yyyymmdd or _et_date("%Y%m%d")
+    want = {_norm_name(n): n for n in leg_names}
+    found = set()
+    try:
+        sb = requests.get(
+            "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard",
+            params={"dates": date}, timeout=30).json()
+        events = [e for e in sb.get("events") or []
+                  if ((e.get("status") or {}).get("type") or {}).get("state")
+                  in ("in", "post")]
+        for e in events:
+            summ = requests.get(
+                "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary",
+                params={"event": e.get("id")}, timeout=30).json()
+            for play in summ.get("plays") or []:
+                if not play.get("scoringPlay"):
+                    continue
+                if (play.get("scoreValue") or 0) < 2:
+                    continue  # free throws don't settle first basket
+                scorer_seg = _norm_name(
+                    (play.get("text") or "").split(" makes")[0])
+                for nn, orig in want.items():
+                    if nn and nn in scorer_seg:
+                        found.add(orig)
+                break  # only the game's first made basket counts
+    except Exception as exc:
+        print(f"WARNING: ESPN first-basket check failed: {exc}")
+    return found
+
+
 def fetch_soccer_totals_hits(tot_raw: list, espn_map: dict) -> set:
     """Evaluate Totals Board legs live via ESPN (team to score / BTTS / match
     totals). Over-type legs hit the moment scores make them irreversible;
@@ -562,6 +601,9 @@ def check_all() -> None:
                     any_td, first_td = fetch_nfl_live_tds(player_legs)
                     hits |= {f"a:{p}" for p in any_td}
                     hits |= {f"ftd:{p}" for p in first_td}
+                elif name == "NBA Board":
+                    hits |= {f"a:{p}"
+                             for p in fetch_nba_first_baskets(player_legs)}
                 elif name == "Soccer Board" and sig.get("tot_raw"):
                     hits |= fetch_soccer_totals_hits(sig["tot_raw"],
                                                      sig["espn"])
