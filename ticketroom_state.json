@@ -3,15 +3,15 @@
     "hash": "2efea853952575f75abbd5e53977315a77b9e3796a12f14224797d045ba0e1ca",
     "confirmed": null,
     "hits": null,
-    "last_modified": "Tue, 20 Oct 2026 00:45:14 GMT",
-    "checked_at": "2026-10-20T00:45:16.217974+00:00"
+    "last_modified": "Tue, 20 Oct 2026 02:02:17 GMT",
+    "checked_at": "2026-10-20T02:25:13.749022+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Tue, 20 Oct 2026 00:45:14 GMT",
-    "checked_at": "2026-10-20T00:45:16.684947+00:00"
+    "last_modified": "Tue, 20 Oct 2026 02:02:17 GMT",
+    "checked_at": "2026-10-20T02:25:13.882755+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e36977ee0f11f95d772fc629663085e8c6f1f2979a48ae70f1cca4cc4cdbedcc",
@@ -39,9 +39,10 @@
       }
     ],
     "hits": [
-      "George Kittle"
+      "George Kittle",
+      "Stefon Diggs"
     ],
-    "last_modified": "Tue, 20 Oct 2026 00:45:14 GMT",
-    "checked_at": "2026-10-20T00:45:18.308582+00:00"
+    "last_modified": "Tue, 20 Oct 2026 02:02:17 GMT",
+    "checked_at": "2026-10-20T02:25:14.702407+00:00"
   }
 }
