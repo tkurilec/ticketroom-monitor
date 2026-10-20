@@ -3,8 +3,8 @@
     "hash": "2efea853952575f75abbd5e53977315a77b9e3796a12f14224797d045ba0e1ca",
     "confirmed": null,
     "hits": null,
-    "last_modified": "Tue, 20 Oct 2026 15:52:34 GMT",
-    "checked_at": "2026-10-20T15:55:13.432537+00:00"
+    "last_modified": "Tue, 20 Oct 2026 17:01:10 GMT",
+    "checked_at": "2026-10-20T17:05:14.855799+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "37b805507645d310666acb65921bccdf037520e9fcc576035fb64f5bcaebf62c",
@@ -14,7 +14,10 @@
         "legs": [
           "Serhou Guirassy"
         ],
-        "rr": false
+        "rr": false,
+        "info": {
+          "Serhou Guirassy": "Borussia Dortmund vs Sabah FK \u00b7 Tue Oct 20 \u00b7 12:45 PM ET"
+        }
       },
       {
         "name": "The Totals Board",
@@ -24,25 +27,33 @@
           "VfB Stuttgart v Atl\u00e9tico Madrid: Both teams to score"
         ],
         "rr": false,
-        "market": ""
+        "market": "",
+        "kind": "totals",
+        "info": {
+          "Liverpool v Villarreal: Villarreal to score": "Tue Oct 20 \u00b7 3:00 PM ET",
+          "VfB Stuttgart v Atl\u00e9tico Madrid: Both teams to score": "Tue Oct 20 \u00b7 3:00 PM ET",
+          "Napoli v Bodo/Glimt: Match over 2.5 goals": "Tue Oct 20 \u00b7 3:00 PM ET"
+        }
       }
     ],
-    "hits": [],
-    "last_modified": "Tue, 20 Oct 2026 15:52:34 GMT",
-    "checked_at": "2026-10-20T15:55:14.045789+00:00"
+    "hits": [
+      "a:Serhou Guirassy"
+    ],
+    "last_modified": "Tue, 20 Oct 2026 17:01:10 GMT",
+    "checked_at": "2026-10-20T17:05:15.889957+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Tue, 20 Oct 2026 15:52:34 GMT",
-    "checked_at": "2026-10-20T15:55:14.307317+00:00"
+    "last_modified": "Tue, 20 Oct 2026 17:01:10 GMT",
+    "checked_at": "2026-10-20T17:05:16.064203+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Tue, 20 Oct 2026 15:52:34 GMT",
-    "checked_at": "2026-10-20T15:55:14.575812+00:00"
+    "last_modified": "Tue, 20 Oct 2026 17:01:10 GMT",
+    "checked_at": "2026-10-20T17:05:16.575037+00:00"
   }
 }
