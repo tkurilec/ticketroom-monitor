@@ -3,18 +3,29 @@
     "hash": "2efea853952575f75abbd5e53977315a77b9e3796a12f14224797d045ba0e1ca",
     "confirmed": null,
     "hits": null,
-    "last_modified": "Tue, 20 Oct 2026 13:36:57 GMT",
-    "checked_at": "2026-10-20T13:40:16.761218+00:00"
+    "last_modified": "Tue, 20 Oct 2026 15:30:56 GMT",
+    "checked_at": "2026-10-20T15:40:16.066354+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "ceabfee6ae3d8338d0a16d2e0404be88ed06b9d18e12fea311e5dec30ac73b19",
+    "confirmed": [
+      {
+        "name": "The Totals Board",
+        "legs": [
+          "Liverpool v Villarreal: Villarreal to score",
+          "Napoli v Bodo/Glimt: Match over 2.5 goals",
+          "VfB Stuttgart v Atl\u00e9tico Madrid: Both teams to score"
+        ],
+        "rr": false,
+        "market": ""
+      }
+    ],
     "hits": [],
-    "last_modified": "Tue, 20 Oct 2026 13:36:57 GMT",
-    "checked_at": "2026-10-20T13:40:17.048203+00:00"
+    "last_modified": "Tue, 20 Oct 2026 15:30:56 GMT",
+    "checked_at": "2026-10-20T15:40:16.659927+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e36977ee0f11f95d772fc629663085e8c6f1f2979a48ae70f1cca4cc4cdbedcc",
+    "hash": "0f966260d23920d5b32595f23806bf59fda1d0425b3365e120d546b4f7c7b5b8",
     "confirmed": [
       {
         "name": "Bell Cow",
@@ -31,6 +42,13 @@
         "rr": false
       },
       {
+        "name": "Pop the Cork",
+        "legs": [
+          "Christian McCaffrey"
+        ],
+        "rr": false
+      },
+      {
         "name": "The Workhorse",
         "legs": [
           "George Kittle"
@@ -39,14 +57,14 @@
       }
     ],
     "hits": [],
-    "last_modified": "Tue, 20 Oct 2026 13:36:57 GMT",
-    "checked_at": "2026-10-20T13:40:17.255949+00:00"
+    "last_modified": "Tue, 20 Oct 2026 15:30:56 GMT",
+    "checked_at": "2026-10-20T15:40:17.256635+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Tue, 20 Oct 2026 13:36:57 GMT",
-    "checked_at": "2026-10-20T13:40:17.404885+00:00"
+    "last_modified": "Tue, 20 Oct 2026 15:30:56 GMT",
+    "checked_at": "2026-10-20T15:40:17.389003+00:00"
   }
 }
