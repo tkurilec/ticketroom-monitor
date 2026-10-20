@@ -42,7 +42,11 @@ MARKETS = {
 
 
 def gambly_link(legs: list, market: str) -> str:
-    text = ", ".join(legs) + f" {market}" + (" parlay" if len(legs) > 1 else "")
+    text = ", ".join(legs)
+    if market:
+        text += f" {market}"
+    if len(legs) > 1:
+        text += " parlay"
     return "https://gambly.com/chat?q=" + quote(text)
 
 
@@ -292,8 +296,15 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
                 or str(leg.get("game")) in started_games
                 or leg_started(leg))
 
+    # meta.ftd is the "pick of the day" ticket — regular player legs that live
+    # outside the tickets list; treat it like any other ticket.
+    tickets_src = list(data.get("tickets") or [])
+    ftd = meta.get("ftd")
+    if isinstance(ftd, dict) and ftd.get("players"):
+        tickets_src.append(ftd)
+
     confirmed = []
-    for t in data.get("tickets", []):
+    for t in tickets_src:
         legs = t.get("players", [])
         if legs and all(leg_confirmed(leg) for leg in legs):
             confirmed.append({
@@ -303,6 +314,20 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
                 # stripped before hashing so it can never re-announce tickets.
                 "rr": bool(t.get("rr")),
             })
+    # meta.tot is the Totals Board — match-level bets (team to score, BTTS,
+    # over 2.5) with no lineup dependency, bettable from publish until lock,
+    # so it announces as soon as it appears. Legs are self-describing labels;
+    # market "" keeps the Gambly link from appending a player-prop phrase.
+    tot = meta.get("tot")
+    if isinstance(tot, dict) and tot.get("tlegs") and not tot.get("final"):
+        tot_legs = sorted(
+            (f"{leg.get('gmatch')}: {leg.get('label')}" if leg.get("gmatch")
+             else (leg.get("label") or ""))
+            for leg in tot["tlegs"] if leg.get("label"))
+        if tot_legs:
+            confirmed.append({"name": tot.get("name") or "The Totals Board",
+                              "legs": tot_legs, "rr": False, "market": ""})
+
     # Sort so a reordering of unchanged tickets never reads as a change.
     confirmed.sort(key=lambda t: t["name"] or "")
 
@@ -339,15 +364,18 @@ def describe_change(prev_confirmed: list | None, new_confirmed: list,
     if prev_confirmed is None:
         return fields
     prev = {t["name"]: t["legs"] for t in prev_confirmed}
-    new = {t["name"]: t["legs"] for t in new_confirmed}
+    new = {t["name"]: t for t in new_confirmed}
 
-    fresh = [n for n in new if n not in prev or prev[n] != new[n]]
+    fresh = [n for n in new if n not in prev or prev[n] != new[n]["legs"]]
     for ticket_name in fresh[:10]:
         label = "✅ " + (ticket_name or "Ticket")
-        legs = new[ticket_name]
+        legs = new[ticket_name]["legs"]
+        # A ticket may carry its own market wording (e.g. the Totals Board's
+        # legs are self-describing, so its market is empty).
+        mkt = new[ticket_name].get("market", market)
         value = "\n".join(legs)
-        if market:
-            value += f"\n[⚡ Build in Gambly]({gambly_link(legs, market)})"
+        link = gambly_link(legs, mkt)
+        value += f"\n[⚡ Build in Gambly]({link})"
         fields.append({"name": label[:256],
                        "value": value[:1024],
                        "inline": True})
