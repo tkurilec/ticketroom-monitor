@@ -3,8 +3,8 @@
     "hash": "2efea853952575f75abbd5e53977315a77b9e3796a12f14224797d045ba0e1ca",
     "confirmed": null,
     "hits": null,
-    "last_modified": "Tue, 20 Oct 2026 19:46:37 GMT",
-    "checked_at": "2026-10-20T20:05:13.617447+00:00"
+    "last_modified": "Tue, 20 Oct 2026 20:12:01 GMT",
+    "checked_at": "2026-10-20T20:15:15.779145+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "1472f96e4cd366099e3d64f89e337378e857380f4433a3baded5474032493d41",
@@ -67,20 +67,21 @@
       }
     ],
     "hits": [
+      "a:Donyell Malen",
       "a:Serhou Guirassy",
       "t:Liverpool v Villarreal: Villarreal to score",
       "t:Napoli v Bodo/Glimt: Match over 2.5 goals",
       "t:VfB Stuttgart v Atl\u00e9tico Madrid: Both teams to score"
     ],
-    "last_modified": "Tue, 20 Oct 2026 19:46:37 GMT",
-    "checked_at": "2026-10-20T20:05:15.465177+00:00"
+    "last_modified": "Tue, 20 Oct 2026 20:12:01 GMT",
+    "checked_at": "2026-10-20T20:15:17.211960+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Tue, 20 Oct 2026 19:46:37 GMT",
-    "checked_at": "2026-10-20T20:05:15.849990+00:00"
+    "last_modified": "Tue, 20 Oct 2026 20:12:01 GMT",
+    "checked_at": "2026-10-20T20:15:17.518214+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "ecb876a429777a95e0a76327414a8e58d7bf35f0121b9609db0b4ffce2ddfa6b",
@@ -97,7 +98,7 @@
       }
     ],
     "hits": [],
-    "last_modified": "Tue, 20 Oct 2026 19:46:38 GMT",
-    "checked_at": "2026-10-20T20:05:16.474048+00:00"
+    "last_modified": "Tue, 20 Oct 2026 20:12:01 GMT",
+    "checked_at": "2026-10-20T20:15:18.143598+00:00"
   }
 }
