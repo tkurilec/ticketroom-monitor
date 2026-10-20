@@ -118,10 +118,10 @@ def fetch_nfl_live_tds(leg_names: set, date_yyyymmdd: str | None = None) -> set:
     passer or kicker.
     """
     if not leg_names:
-        return set()
+        return set(), set()
     date = date_yyyymmdd or _et_date("%Y%m%d")
     want = {_norm_name(n): n for n in leg_names}
-    found = set()
+    any_td, first_td = set(), set()
     try:
         sb = requests.get(
             "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard",
@@ -133,6 +133,7 @@ def fetch_nfl_live_tds(leg_names: set, date_yyyymmdd: str | None = None) -> set:
             summ = requests.get(
                 "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary",
                 params={"event": e.get("id")}, timeout=30).json()
+            game_first_seen = False
             for play in summ.get("scoringPlays") or []:
                 if ((play.get("type") or {}).get("abbreviation")) != "TD":
                     continue
@@ -141,9 +142,67 @@ def fetch_nfl_live_tds(leg_names: set, date_yyyymmdd: str | None = None) -> set:
                     .split("(")[0])
                 for nn, orig in want.items():
                     if nn and nn in scorer_seg:
-                        found.add(orig)
+                        any_td.add(orig)
+                        # scoringPlays are chronological, so the first TD-type
+                        # play in the game settles the first-TD market.
+                        if not game_first_seen:
+                            first_td.add(orig)
+                game_first_seen = True
     except Exception as exc:
         print(f"WARNING: ESPN live-TD check failed: {exc}")
+    return any_td, first_td
+
+
+def fetch_soccer_totals_hits(tot_raw: list, espn_map: dict) -> set:
+    """Evaluate Totals Board legs live via ESPN (team to score / BTTS / match
+    totals). Over-type legs hit the moment scores make them irreversible;
+    under/no-type legs only hit once the match is final."""
+    found = set()
+    cache = {}
+    for leg in tot_raw or []:
+        try:
+            info = (espn_map or {}).get(str(leg.get("game"))) or {}
+            lg, ev = info.get("lg"), info.get("ev")
+            if not lg or not ev:
+                continue
+            if ev not in cache:
+                s = requests.get(
+                    f"https://site.api.espn.com/apis/site/v2/sports/soccer/{lg}/summary",
+                    params={"event": ev}, timeout=30).json()
+                comp = ((s.get("header") or {}).get("competitions") or [{}])[0]
+                state = (((comp.get("status") or {}).get("type")) or {}).get("state")
+                scores = {}
+                for c in comp.get("competitors") or []:
+                    nm = _norm_name(((c.get("team") or {}).get("displayName")) or "")
+                    try:
+                        scores[nm] = int(float(c.get("score") or 0))
+                    except (TypeError, ValueError):
+                        scores[nm] = 0
+                cache[ev] = (state, scores)
+            state, scores = cache[ev]
+            if state not in ("in", "post") or len(scores) != 2:
+                continue
+            total = sum(scores.values())
+            both = all(v > 0 for v in scores.values())
+            mkt, side, line = leg.get("mkt"), leg.get("side"), leg.get("line")
+            hit = False
+            if mkt == "TG" and line is not None:
+                hit = (side == "O" and total > line) or \
+                      (side == "U" and state == "post" and total < line)
+            elif mkt == "BT":
+                hit = (side == "Y" and both) or \
+                      (side == "N" and state == "post" and not both)
+            elif mkt == "TA" and line is not None:
+                team = _norm_name((leg.get("label") or "").split(" to score")[0])
+                sc = next((v for nm, v in scores.items()
+                           if team and (team in nm or nm in team)), None)
+                if sc is not None:
+                    hit = (side == "O" and sc > line) or \
+                          (side == "U" and state == "post" and sc < line)
+            if hit:
+                found.add("t:" + leg["_lbl"])
+        except Exception as exc:
+            print(f"WARNING: totals live check failed: {exc}")
     return found
 
 
@@ -156,18 +215,37 @@ HIT_STYLE = {
 }
 
 
+def entry_leg_tokens(ent: dict) -> list:
+    prefix = {"totals": "t", "ftd": "ftd", "brace": "b2"}.get(
+        ent.get("kind") or "", "a")
+    return [f"{prefix}:{l}" for l in ent["legs"]]
+
+
+def token_line(tok: str, board: str) -> str:
+    scope, _, nm = tok.partition(":")
+    if scope == "ftd":
+        return f"🏁 **{nm}** scored the FIRST TD!"
+    if scope == "b2":
+        return f"👟 **{nm}** scored 2+ goals!"
+    if scope == "t":
+        return f"🧤 **{nm}** — hit!"
+    emoji, verb = HIT_STYLE.get(board, ("🎯", "hit"))
+    return f"{emoji} **{nm}** {verb}!"
+
+
 def notify_hits(webhook: str | None, board: str, url: str,
                 new_hits: list, hits: list, confirmed: list) -> None:
-    """Alert on new prop hits, with round-robin cash progress per ticket."""
-    emoji, verb = HIT_STYLE.get(board, ("🎯", "hit"))
+    """Alert on new prop hits, with round-robin cash progress per ticket.
+    new_hits/hits are market-scoped tokens (see extract_signature)."""
     hitset = set(hits)
-    lines = [f"{emoji} **{p}** {verb}!" for p in new_hits]
+    lines = [token_line(t, board) for t in new_hits]
     fully_cashed = False
     for t in confirmed:
-        if not set(t["legs"]) & set(new_hits):
+        toks = entry_leg_tokens(t)
+        if not set(toks) & set(new_hits):
             continue
-        k = sum(1 for p in t["legs"] if p in hitset)
-        n = len(t["legs"])
+        k = sum(1 for x in toks if x in hitset)
+        n = len(toks)
         if k == n:
             fully_cashed = True
             lines.append(f"💸 **{t['name']}** CASHED" if n == 1
@@ -326,37 +404,62 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
             ent = {
                 "name": t.get("name"),
                 "legs": sorted(leg.get("name") for leg in legs if leg.get("name")),
-                # Round-robin flag rides along for alert wording only — it is
-                # stripped before hashing so it can never re-announce tickets.
+                # rr/kind/market ride along for alert wording only — they are
+                # stripped before hashing so they can never re-announce tickets.
                 "rr": bool(t.get("rr")),
             }
             km = KIND_MARKETS.get(t.get("kind"))
             if km:
                 ent["market"] = km
+                ent["kind"] = t.get("kind")
             confirmed.append(ent)
     # meta.tot is the Totals Board — match-level bets (team to score, BTTS,
     # over 2.5) with no lineup dependency, bettable from publish until lock,
     # so it announces as soon as it appears. Legs are self-describing labels;
     # market "" keeps the Gambly link from appending a player-prop phrase.
     tot = meta.get("tot")
+    tot_raw = []
     if isinstance(tot, dict) and tot.get("tlegs") and not tot.get("final"):
-        tot_legs = sorted(
-            (f"{leg.get('gmatch')}: {leg.get('label')}" if leg.get("gmatch")
-             else (leg.get("label") or ""))
-            for leg in tot["tlegs"] if leg.get("label"))
+        tot_legs = []
+        for leg in tot["tlegs"]:
+            if not leg.get("label"):
+                continue
+            lbl = (f"{leg.get('gmatch')}: {leg.get('label')}" if leg.get("gmatch")
+                   else leg.get("label"))
+            tot_legs.append(lbl)
+            tot_raw.append(dict(leg, _lbl=lbl))
         if tot_legs:
             confirmed.append({"name": tot.get("name") or "The Totals Board",
-                              "legs": tot_legs, "rr": False, "market": ""})
+                              "legs": sorted(tot_legs), "rr": False,
+                              "market": "", "kind": "totals"})
 
     # Sort so a reordering of unchanged tickets never reads as a change.
     confirmed.sort(key=lambda t: t["name"] or "")
 
-    # The build flips players[name].hr when a prop hits mid-game (homer on
-    # MLB, goal on soccer, TD on NFL) — it powers the page's ⚾/CASHED stamps.
-    # Track it for confirmed-ticket legs so hits and ticket progress alert.
-    leg_names = {p for t in confirmed for p in t["legs"]}
-    hits = sorted(p for p in leg_names if (pdata.get(p) or {}).get("hr"))
-    return {"confirmed": confirmed, "hits": hits}
+    # Hits are MARKET-SCOPED tokens, because the same player can sit on an
+    # anytime ticket and a first-TD ticket with different outcomes:
+    #   a:<player>   anytime prop hit (site hr flag — homer/goal/TD)
+    #   ftd:<player> first-TD ticket hit (site hr on the ftd ticket)
+    #   b2:<player>  brace ticket hit (site goalmins shows 2+ goals)
+    #   t:<label>    Totals Board leg hit (evaluated live via ESPN)
+    hits = set()
+    for ent in confirmed:
+        kind = ent.get("kind") or ""
+        if kind == "totals":
+            continue
+        for nm in ent["legs"]:
+            p = pdata.get(nm) or {}
+            if kind == "brace":
+                gm = p.get("goalmins")
+                if isinstance(gm, list) and len(gm) >= 2:
+                    hits.add(f"b2:{nm}")
+            elif kind == "ftd":
+                if p.get("hr"):
+                    hits.add(f"ftd:{nm}")
+            elif p.get("hr"):
+                hits.add(f"a:{nm}")
+    return {"confirmed": confirmed, "hits": sorted(hits),
+            "tot_raw": tot_raw, "espn": meta.get("espn") or {}}
 
 
 def signature_hash(sig: dict) -> str:
@@ -455,16 +558,24 @@ def check_all() -> None:
                 {"name": t["name"], "legs": t["legs"]}
                 for t in sig["confirmed"]]})
             confirmed = sig["confirmed"]
-            hits = sig["hits"]
+            hits = set(sig["hits"])
+            leg_tokens = {tok for ent in confirmed
+                          for tok in entry_leg_tokens(ent)}
             if confirmed:
-                leg_names = {p for t in confirmed for p in t["legs"]}
-                live = set()
+                player_legs = {p for t in confirmed for p in t["legs"]
+                               if (t.get("kind") or "") != "totals"}
                 if name == "MLB Board":
-                    live = fetch_mlb_live_hits(leg_names)
+                    hits |= {f"a:{p}"
+                             for p in fetch_mlb_live_hits(player_legs)}
                 elif name == "NFL Board":
-                    live = fetch_nfl_live_tds(leg_names)
-                if live:
-                    hits = sorted(set(hits) | live)
+                    any_td, first_td = fetch_nfl_live_tds(player_legs)
+                    hits |= {f"a:{p}" for p in any_td}
+                    hits |= {f"ftd:{p}" for p in first_td}
+                elif name == "Soccer Board" and sig.get("tot_raw"):
+                    hits |= fetch_soccer_totals_hits(sig["tot_raw"],
+                                                     sig["espn"])
+            # Only tokens that belong to a confirmed ticket's legs count.
+            hits = sorted(hits & leg_tokens)
         else:
             # Page structure changed and the slate data couldn't be parsed —
             # fall back to raw-page hashing so changes are never missed.
@@ -490,11 +601,15 @@ def check_all() -> None:
 
         # Mid-game hit alerts. "hits" missing from prev means this is the
         # feature's first run — baseline silently so a live slate doesn't
-        # dump stale homer alerts.
+        # dump stale homer alerts. Same for pre-token-format hit lists.
         if prev is not None and hits is not None and "hits" in prev:
-            new_hits = [p for p in hits if p not in set(prev.get("hits") or [])]
-            if new_hits:
-                notify_hits(webhook, name, url, new_hits, hits, confirmed)
+            prev_hits = prev.get("hits") or []
+            if any(":" not in h for h in prev_hits):
+                print("  (hit-token format migration — baselining silently)")
+            else:
+                new_hits = [t for t in hits if t not in set(prev_hits)]
+                if new_hits:
+                    notify_hits(webhook, name, url, new_hits, hits, confirmed)
 
         if (prev is None or prev.get("hash") != digest
                 or prev.get("hits") != hits):
