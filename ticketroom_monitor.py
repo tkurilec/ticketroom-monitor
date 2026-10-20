@@ -460,11 +460,41 @@ def check_all() -> None:
         print("State unchanged, not rewriting state file")
 
 
+def test_board(name: str) -> int:
+    """Post a board's current tickets (any status) in the normal confirmed
+    format, marked TEST. State is untouched."""
+    webhook = os.environ.get("DISCORD_WEBHOOK")
+    url = PAGES.get(name)
+    if not url:
+        print(f"Unknown board {name!r}; choose from: {', '.join(PAGES)}")
+        return 1
+    _, html, last_modified = fetch_page(url)
+    m = re.search(r"const D\s*=\s*", html)
+    if not m:
+        print("Could not find slate data on the page")
+        return 1
+    data, _ = json.JSONDecoder().raw_decode(html[m.end():])
+    tickets = [{
+        "name": f"{t.get('name')} (TEST)",
+        "legs": sorted(leg.get("name") for leg in t.get("players", [])
+                       if leg.get("name")),
+        "rr": bool(t.get("rr")),
+    } for t in data.get("tickets") or [] if t.get("players")]
+    print(f"TEST MODE: posting {len(tickets)} tickets from {name}")
+    fields = describe_change([], tickets, MARKETS.get(name, ""))
+    notify_discord(webhook, name, url, last_modified, fields)
+    return 0
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Monitor theticketroom.live for changes")
     parser.add_argument("--once", action="store_true", help="run a single check and exit")
+    parser.add_argument("--test-board", metavar="NAME",
+                        help="post a board's current tickets as a format test")
     args = parser.parse_args()
 
+    if args.test_board:
+        return test_board(args.test_board)
     if args.once:
         check_all()
         return 0
