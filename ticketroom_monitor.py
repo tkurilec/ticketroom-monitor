@@ -30,6 +30,14 @@ PAGES = {
     "NBA Board": "https://theticketroom.live/nba/",
 }
 
+# Some ticket kinds are a different market than their board's default prop:
+# NFL's "Opening Drive" (kind ftd) is FIRST TD scorer, and soccer's brace
+# tickets (e.g. the Nailed On pick) are 2+ goals.
+KIND_MARKETS = {
+    "ftd": "first touchdown scorer",
+    "brace": "to score 2 or more goals",
+}
+
 # gambly.com/chat?q=<text> opens Gambly Chat with the text pre-typed (verified
 # 2026-09-15), so one link hands the whole ticket to Gambly for a betslip with
 # per-book deeplinks. Market phrase per board completes the prompt.
@@ -315,13 +323,17 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
     for t in tickets_src:
         legs = t.get("players", [])
         if legs and all(leg_confirmed(leg) for leg in legs):
-            confirmed.append({
+            ent = {
                 "name": t.get("name"),
                 "legs": sorted(leg.get("name") for leg in legs if leg.get("name")),
                 # Round-robin flag rides along for alert wording only — it is
                 # stripped before hashing so it can never re-announce tickets.
                 "rr": bool(t.get("rr")),
-            })
+            }
+            km = KIND_MARKETS.get(t.get("kind"))
+            if km:
+                ent["market"] = km
+            confirmed.append(ent)
     # meta.tot is the Totals Board — match-level bets (team to score, BTTS,
     # over 2.5) with no lineup dependency, bettable from publish until lock,
     # so it announces as soon as it appears. Legs are self-describing labels;
@@ -379,9 +391,12 @@ def describe_change(prev_confirmed: list | None, new_confirmed: list,
         label = "✅ " + (ticket_name or "Ticket")
         legs = new[ticket_name]["legs"]
         # A ticket may carry its own market wording (e.g. the Totals Board's
-        # legs are self-describing, so its market is empty).
+        # legs are self-describing, so its market is empty; Opening Drive is
+        # first TD scorer) — show it so the reader knows which prop to place.
         mkt = new[ticket_name].get("market", market)
         value = "\n".join(legs)
+        if "market" in new[ticket_name] and mkt:
+            value += f"\n*{mkt}*"
         link = gambly_link(legs, mkt)
         value += f"\n[⚡ Build in Gambly]({link})"
         fields.append({"name": label[:256],
