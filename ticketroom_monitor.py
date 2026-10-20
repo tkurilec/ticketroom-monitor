@@ -31,11 +31,10 @@ PAGES = {
 }
 
 # Some ticket kinds are a different market than their board's default prop:
-# NFL's "Opening Drive" (kind ftd) is FIRST TD scorer, and soccer's brace
-# tickets (e.g. the Nailed On pick) are 2+ goals.
+# NFL's "Opening Drive" (kind ftd) is FIRST TD scorer. (Soccer's "brace" kind
+# is NOT a 2-goal market — it's the 2-unit pick-of-the-day lane, default prop.)
 KIND_MARKETS = {
     "ftd": "first touchdown scorer",
-    "brace": "to score 2 or more goals",
 }
 
 # gambly.com/chat?q=<text> opens Gambly Chat with the text pre-typed (verified
@@ -216,8 +215,7 @@ HIT_STYLE = {
 
 
 def entry_leg_tokens(ent: dict) -> list:
-    prefix = {"totals": "t", "ftd": "ftd", "brace": "b2"}.get(
-        ent.get("kind") or "", "a")
+    prefix = {"totals": "t", "ftd": "ftd"}.get(ent.get("kind") or "", "a")
     return [f"{prefix}:{l}" for l in ent["legs"]]
 
 
@@ -225,8 +223,6 @@ def token_line(tok: str, board: str) -> str:
     scope, _, nm = tok.partition(":")
     if scope == "ftd":
         return f"🏁 **{nm}** scored the FIRST TD!"
-    if scope == "b2":
-        return f"👟 **{nm}** scored 2+ goals!"
     if scope == "t":
         return f"🧤 **{nm}** — hit!"
     emoji, verb = HIT_STYLE.get(board, ("🎯", "hit"))
@@ -440,7 +436,6 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
     # anytime ticket and a first-TD ticket with different outcomes:
     #   a:<player>   anytime prop hit (site hr flag — homer/goal/TD)
     #   ftd:<player> first-TD ticket hit (site hr on the ftd ticket)
-    #   b2:<player>  brace ticket hit (site goalmins shows 2+ goals)
     #   t:<label>    Totals Board leg hit (evaluated live via ESPN)
     hits = set()
     for ent in confirmed:
@@ -449,11 +444,7 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
             continue
         for nm in ent["legs"]:
             p = pdata.get(nm) or {}
-            if kind == "brace":
-                gm = p.get("goalmins")
-                if isinstance(gm, list) and len(gm) >= 2:
-                    hits.add(f"b2:{nm}")
-            elif kind == "ftd":
+            if kind == "ftd":
                 if p.get("hr"):
                     hits.add(f"ftd:{nm}")
             elif p.get("hr"):
