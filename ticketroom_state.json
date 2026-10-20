@@ -3,12 +3,19 @@
     "hash": "2efea853952575f75abbd5e53977315a77b9e3796a12f14224797d045ba0e1ca",
     "confirmed": null,
     "hits": null,
-    "last_modified": "Tue, 20 Oct 2026 15:41:38 GMT",
-    "checked_at": "2026-10-20T15:45:15.686999+00:00"
+    "last_modified": "Tue, 20 Oct 2026 15:52:34 GMT",
+    "checked_at": "2026-10-20T15:55:13.432537+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "ceabfee6ae3d8338d0a16d2e0404be88ed06b9d18e12fea311e5dec30ac73b19",
+    "hash": "37b805507645d310666acb65921bccdf037520e9fcc576035fb64f5bcaebf62c",
     "confirmed": [
+      {
+        "name": "Back Post",
+        "legs": [
+          "Serhou Guirassy"
+        ],
+        "rr": false
+      },
       {
         "name": "The Totals Board",
         "legs": [
@@ -21,21 +28,21 @@
       }
     ],
     "hits": [],
-    "last_modified": "Tue, 20 Oct 2026 15:41:38 GMT",
-    "checked_at": "2026-10-20T15:45:15.974977+00:00"
+    "last_modified": "Tue, 20 Oct 2026 15:52:34 GMT",
+    "checked_at": "2026-10-20T15:55:14.045789+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Tue, 20 Oct 2026 15:41:38 GMT",
-    "checked_at": "2026-10-20T15:45:16.239595+00:00"
+    "last_modified": "Tue, 20 Oct 2026 15:52:34 GMT",
+    "checked_at": "2026-10-20T15:55:14.307317+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Tue, 20 Oct 2026 15:41:38 GMT",
-    "checked_at": "2026-10-20T15:45:16.528924+00:00"
+    "last_modified": "Tue, 20 Oct 2026 15:52:34 GMT",
+    "checked_at": "2026-10-20T15:55:14.575812+00:00"
   }
 }
