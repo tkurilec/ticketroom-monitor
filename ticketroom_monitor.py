@@ -255,6 +255,15 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
         return None
 
     meta = data.get("meta") or {}
+
+    # A board still sitting on a past slate date is history, not news: leg
+    # statuses stay "confirmed" after the games end, so a redraft flap on a
+    # stale board would announce tickets for finished games (the CMC incident,
+    # 2026-10-20). Treat it as an empty board until a fresh slate rolls in.
+    slate_date = meta.get("date")
+    if slate_date and _et_date("%Y-%m-%d") > str(slate_date):
+        return {"confirmed": [], "hits": []}
+
     started_games = {str(g) for g in (meta.get("gs") or {})}
     started_games |= {str(g) for g in (meta.get("finals") or [])}
 
@@ -264,7 +273,6 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
     # started from early_min minutes before its game time, on the slate day
     # only (a stale board's finished games must not retroactively confirm).
     now_mins = None
-    slate_date = meta.get("date")
     if slate_date:
         try:
             from zoneinfo import ZoneInfo
