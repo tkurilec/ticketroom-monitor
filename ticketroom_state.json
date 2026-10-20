@@ -3,18 +3,18 @@
     "hash": "2efea853952575f75abbd5e53977315a77b9e3796a12f14224797d045ba0e1ca",
     "confirmed": null,
     "hits": null,
-    "last_modified": "Mon, 19 Oct 2026 23:20:34 GMT",
-    "checked_at": "2026-10-19T23:25:14.055596+00:00"
+    "last_modified": "Tue, 20 Oct 2026 00:45:14 GMT",
+    "checked_at": "2026-10-20T00:45:16.217974+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Mon, 19 Oct 2026 23:20:34 GMT",
-    "checked_at": "2026-10-19T23:25:14.395810+00:00"
+    "last_modified": "Tue, 20 Oct 2026 00:45:14 GMT",
+    "checked_at": "2026-10-20T00:45:16.684947+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e955c31bad345b1f67defa6676c849e6746da767181c1b5ef8821e5bdf943e67",
+    "hash": "e36977ee0f11f95d772fc629663085e8c6f1f2979a48ae70f1cca4cc4cdbedcc",
     "confirmed": [
       {
         "name": "Bell Cow",
@@ -29,10 +29,19 @@
           "Antonio Williams"
         ],
         "rr": false
+      },
+      {
+        "name": "The Workhorse",
+        "legs": [
+          "George Kittle"
+        ],
+        "rr": false
       }
     ],
-    "hits": [],
-    "last_modified": "Mon, 19 Oct 2026 23:20:34 GMT",
-    "checked_at": "2026-10-19T23:25:14.777518+00:00"
+    "hits": [
+      "George Kittle"
+    ],
+    "last_modified": "Tue, 20 Oct 2026 00:45:14 GMT",
+    "checked_at": "2026-10-20T00:45:18.308582+00:00"
   }
 }
