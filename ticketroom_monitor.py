@@ -191,33 +191,65 @@ def fetch_nba_first_baskets(leg_names: set, date_yyyymmdd: str | None = None) ->
     return found
 
 
-def fetch_soccer_totals_hits(tot_raw: list, espn_map: dict) -> set:
-    """Evaluate Totals Board legs live via ESPN (team to score / BTTS / match
-    totals). Over-type legs hit the moment scores make them irreversible;
-    under/no-type legs only hit once the match is final."""
+def fetch_soccer_live_hits(player_names: set, tot_raw: list,
+                           espn_map: dict) -> set:
+    """Live soccer hits from ESPN, one summary fetch per match:
+    - a:<player> for goals by watched players (keyEvents name the scorer the
+      moment it happens; own goals excluded — scorer markets don't count them)
+    - t:<label> for Totals Board legs (over-type the moment irreversible,
+      under/no-type only once the match is final)."""
     found = set()
     cache = {}
+    want = {_norm_name(n): n for n in player_names or set()}
+
+    def load(info):
+        lg, ev = info.get("lg"), info.get("ev")
+        if not lg or not ev:
+            return None
+        if ev not in cache:
+            s = requests.get(
+                f"https://site.api.espn.com/apis/site/v2/sports/soccer/{lg}/summary",
+                params={"event": ev}, timeout=30).json()
+            comp = ((s.get("header") or {}).get("competitions") or [{}])[0]
+            state = (((comp.get("status") or {}).get("type")) or {}).get("state")
+            scores = {}
+            for c in comp.get("competitors") or []:
+                nm = _norm_name(((c.get("team") or {}).get("displayName")) or "")
+                try:
+                    scores[nm] = int(float(c.get("score") or 0))
+                except (TypeError, ValueError):
+                    scores[nm] = 0
+            scorers = set()
+            for evt in s.get("keyEvents") or []:
+                typ = ((evt.get("type") or {}).get("text")) or ""
+                if "own goal" in typ.lower():
+                    continue
+                if typ == "Goal" or typ.startswith("Goal") \
+                        or typ == "Penalty - Scored":
+                    for part in evt.get("participants") or []:
+                        nm = _norm_name(((part.get("athlete") or {})
+                                         .get("displayName")) or "")
+                        if nm in want:
+                            scorers.add(want[nm])
+                        break  # first participant is the scorer, rest assist
+            cache[ev] = (state, scores, scorers)
+        return cache[ev]
+
+    if want:
+        for info in (espn_map or {}).values():
+            try:
+                loaded = load(info)
+                if loaded and loaded[0] in ("in", "post"):
+                    found |= {f"a:{p}" for p in loaded[2]}
+            except Exception as exc:
+                print(f"WARNING: soccer scorer check failed: {exc}")
+
     for leg in tot_raw or []:
         try:
-            info = (espn_map or {}).get(str(leg.get("game"))) or {}
-            lg, ev = info.get("lg"), info.get("ev")
-            if not lg or not ev:
+            loaded = load((espn_map or {}).get(str(leg.get("game"))) or {})
+            if not loaded:
                 continue
-            if ev not in cache:
-                s = requests.get(
-                    f"https://site.api.espn.com/apis/site/v2/sports/soccer/{lg}/summary",
-                    params={"event": ev}, timeout=30).json()
-                comp = ((s.get("header") or {}).get("competitions") or [{}])[0]
-                state = (((comp.get("status") or {}).get("type")) or {}).get("state")
-                scores = {}
-                for c in comp.get("competitors") or []:
-                    nm = _norm_name(((c.get("team") or {}).get("displayName")) or "")
-                    try:
-                        scores[nm] = int(float(c.get("score") or 0))
-                    except (TypeError, ValueError):
-                        scores[nm] = 0
-                cache[ev] = (state, scores)
-            state, scores = cache[ev]
+            state, scores, _ = loaded
             if state not in ("in", "post") or len(scores) != 2:
                 continue
             total = sum(scores.values())
@@ -647,9 +679,10 @@ def check_all() -> None:
                 elif name == "NBA Board":
                     hits |= {f"a:{p}"
                              for p in fetch_nba_first_baskets(player_legs)}
-                elif name == "Soccer Board" and sig.get("tot_raw"):
-                    hits |= fetch_soccer_totals_hits(sig["tot_raw"],
-                                                     sig["espn"])
+                elif name == "Soccer Board":
+                    hits |= fetch_soccer_live_hits(player_legs,
+                                                   sig.get("tot_raw") or [],
+                                                   sig["espn"])
             # Only tokens that belong to a confirmed ticket's legs count.
             hits = sorted(hits & leg_tokens)
         else:
