@@ -432,6 +432,39 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
     if isinstance(ftd, dict) and ftd.get("players"):
         tickets_src.append(ftd)
 
+    # Display context (date, teams, opponent, game time) — kept OUT of the
+    # hash so wording changes never re-announce tickets. The opponent is
+    # derived from the other team names seen in the same game.
+    try:
+        _d = datetime.strptime(str(slate_date), "%Y-%m-%d")
+        date_str = f"{_d.strftime('%a %b')} {_d.day}"
+    except (TypeError, ValueError):
+        date_str = ""
+    game_teams = {}
+    for src in ([p for p in pdata.values()]
+                + [l for t in tickets_src for l in t.get("players", [])]):
+        g, tm = src.get("game"), src.get("team")
+        if g is not None and tm and tm != "—":
+            game_teams.setdefault(g, set()).add(tm)
+
+    def leg_info(leg: dict) -> str:
+        team = leg.get("team") or (pdata.get(leg.get("name")) or {}).get("team")
+        if team == "—":
+            team = None
+        opp = None
+        others = [x for x in game_teams.get(leg.get("game"), set()) if x != team]
+        if team and len(others) == 1:
+            opp = others[0]
+        when = (leg.get("gtime") or "").replace(" ET", "").strip()
+        if team and opp:
+            where = f"{team} vs {opp}"
+        elif team and leg.get("gmatch"):
+            where = f"{team} · {leg.get('gmatch')}"
+        else:
+            where = leg.get("gmatch") or ""
+        bits = [b for b in (where, date_str, f"{when} ET" if when else "") if b]
+        return " · ".join(bits)
+
     confirmed = []
     for t in tickets_src:
         legs = t.get("players", [])
@@ -439,9 +472,11 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
             ent = {
                 "name": t.get("name"),
                 "legs": sorted(leg.get("name") for leg in legs if leg.get("name")),
-                # rr/kind/market ride along for alert wording only — they are
-                # stripped before hashing so they can never re-announce tickets.
+                # rr/kind/market/info ride along for alert wording only — they
+                # are stripped before hashing so they never re-announce tickets.
                 "rr": bool(t.get("rr")),
+                "info": {leg.get("name"): leg_info(leg)
+                         for leg in legs if leg.get("name")},
             }
             km = KIND_MARKETS.get(t.get("kind"))
             if km:
@@ -464,9 +499,15 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
             tot_legs.append(lbl)
             tot_raw.append(dict(leg, _lbl=lbl))
         if tot_legs:
+            tot_info = {}
+            for leg in tot_raw:
+                when = (leg.get("gtime") or "").replace(" ET", "").strip()
+                tot_info[leg["_lbl"]] = " · ".join(
+                    b for b in (date_str, f"{when} ET" if when else "") if b)
             confirmed.append({"name": tot.get("name") or "The Totals Board",
                               "legs": sorted(tot_legs), "rr": False,
-                              "market": "", "kind": "totals"})
+                              "market": "", "kind": "totals",
+                              "info": tot_info})
 
     # Sort so a reordering of unchanged tickets never reads as a change.
     confirmed.sort(key=lambda t: t["name"] or "")
@@ -527,7 +568,9 @@ def describe_change(prev_confirmed: list | None, new_confirmed: list,
         # legs are self-describing, so its market is empty; Opening Drive is
         # first TD scorer) — show it so the reader knows which prop to place.
         mkt = new[ticket_name].get("market", market)
-        value = "\n".join(legs)
+        info = new[ticket_name].get("info") or {}
+        value = "\n".join(
+            f"**{l}** — {info[l]}" if info.get(l) else l for l in legs)
         if "market" in new[ticket_name] and mkt:
             value += f"\n*{mkt}*"
         link = gambly_link(legs, mkt)
