@@ -4,7 +4,7 @@
     "confirmed": null,
     "hits": null,
     "last_modified": "Wed, 21 Oct 2026 03:35:42 GMT",
-    "checked_at": "2026-10-21T03:40:26.813450+00:00"
+    "checked_at": "2026-10-21T04:00:21.337867+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f2073e618a6bcade1782875b9b32e035104184fc30b6697e4149414507adee50",
@@ -28,31 +28,20 @@
     ],
     "hits": [],
     "last_modified": "Wed, 21 Oct 2026 03:35:42 GMT",
-    "checked_at": "2026-10-21T03:40:27.519141+00:00"
+    "checked_at": "2026-10-21T04:00:22.334995+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
     "last_modified": "Wed, 21 Oct 2026 03:35:42 GMT",
-    "checked_at": "2026-10-21T03:40:27.980029+00:00"
+    "checked_at": "2026-10-21T04:00:22.533183+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "ecb876a429777a95e0a76327414a8e58d7bf35f0121b9609db0b4ffce2ddfa6b",
-    "confirmed": [
-      {
-        "name": "Early Offense",
-        "legs": [
-          "Jordan Walsh"
-        ],
-        "rr": false,
-        "info": {
-          "Jordan Walsh": "Celtics vs Pistons \u00b7 Tue Oct 20 \u00b7 3:00 PM ET"
-        }
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "hits": [],
     "last_modified": "Wed, 21 Oct 2026 03:35:42 GMT",
-    "checked_at": "2026-10-21T03:40:28.555983+00:00"
+    "checked_at": "2026-10-21T04:00:22.679245+00:00"
   }
 }
