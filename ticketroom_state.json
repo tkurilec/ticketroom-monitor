@@ -3,11 +3,11 @@
     "hash": "2efea853952575f75abbd5e53977315a77b9e3796a12f14224797d045ba0e1ca",
     "confirmed": null,
     "hits": null,
-    "last_modified": "Wed, 21 Oct 2026 21:44:57 GMT",
-    "checked_at": "2026-10-21T21:45:18.179033+00:00"
+    "last_modified": "Wed, 21 Oct 2026 22:30:11 GMT",
+    "checked_at": "2026-10-21T22:30:18.475467+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "ad99604e10fbb1387b49c3d3dd5ef954cca4c7d6a98751c9d38a9f1af28e9909",
+    "hash": "fb3366e97bca77cce5c73875e15ee26147460a0e3632a8e78ec1faa2c67cb71c",
     "confirmed": [
       {
         "name": "Both Barrels",
@@ -76,6 +76,16 @@
         }
       },
       {
+        "name": "Tap-In",
+        "legs": [
+          "Ahoueke Denkey"
+        ],
+        "rr": false,
+        "info": {
+          "Ahoueke Denkey": "FC Cincinnati vs D.C. United \u00b7 Wed Oct 21 \u00b7 7:00 PM ET"
+        }
+      },
+      {
         "name": "Target Man",
         "legs": [
           "Kylian Mbappe"
@@ -113,21 +123,21 @@
       "t:Levante v Athletic Club: Levante to score",
       "t:Real Madrid v RB Leipzig: RB Leipzig to score"
     ],
-    "last_modified": "Wed, 21 Oct 2026 21:44:57 GMT",
-    "checked_at": "2026-10-21T21:45:19.479682+00:00"
+    "last_modified": "Wed, 21 Oct 2026 22:30:11 GMT",
+    "checked_at": "2026-10-21T22:30:20.335880+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 21 Oct 2026 21:44:57 GMT",
-    "checked_at": "2026-10-21T21:45:19.732979+00:00"
+    "last_modified": "Wed, 21 Oct 2026 22:30:11 GMT",
+    "checked_at": "2026-10-21T22:30:20.609116+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 21 Oct 2026 21:44:57 GMT",
-    "checked_at": "2026-10-21T21:45:19.863031+00:00"
+    "last_modified": "Wed, 21 Oct 2026 22:30:11 GMT",
+    "checked_at": "2026-10-21T22:30:20.699214+00:00"
   }
 }
