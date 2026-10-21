@@ -3,8 +3,8 @@
     "hash": "2efea853952575f75abbd5e53977315a77b9e3796a12f14224797d045ba0e1ca",
     "confirmed": null,
     "hits": null,
-    "last_modified": "Wed, 21 Oct 2026 18:43:40 GMT",
-    "checked_at": "2026-10-21T18:45:15.543062+00:00"
+    "last_modified": "Wed, 21 Oct 2026 20:19:13 GMT",
+    "checked_at": "2026-10-21T20:20:15.910576+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "b423512437a1a4e836e8795f0fdfe5ab0cea468d868152234468f54659aed4ed",
@@ -97,24 +97,25 @@
       }
     ],
     "hits": [
+      "a:Harry Kane",
       "a:Victor Osimhen",
       "t:Levante v Athletic Club: Levante to score"
     ],
-    "last_modified": "Wed, 21 Oct 2026 18:43:38 GMT",
-    "checked_at": "2026-10-21T18:45:20.545900+00:00"
+    "last_modified": "Wed, 21 Oct 2026 20:19:13 GMT",
+    "checked_at": "2026-10-21T20:20:17.818882+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 21 Oct 2026 18:43:38 GMT",
-    "checked_at": "2026-10-21T18:45:20.793083+00:00"
+    "last_modified": "Wed, 21 Oct 2026 20:19:13 GMT",
+    "checked_at": "2026-10-21T20:20:18.158509+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 21 Oct 2026 18:43:40 GMT",
-    "checked_at": "2026-10-21T18:45:21.213819+00:00"
+    "last_modified": "Wed, 21 Oct 2026 20:19:13 GMT",
+    "checked_at": "2026-10-21T20:20:18.422122+00:00"
   }
 }
