@@ -3,85 +3,49 @@
     "hash": "2efea853952575f75abbd5e53977315a77b9e3796a12f14224797d045ba0e1ca",
     "confirmed": null,
     "hits": null,
-    "last_modified": "Tue, 20 Oct 2026 20:12:01 GMT",
-    "checked_at": "2026-10-20T20:15:15.779145+00:00"
+    "last_modified": "Wed, 21 Oct 2026 00:28:27 GMT",
+    "checked_at": "2026-10-21T00:30:17.335488+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "1472f96e4cd366099e3d64f89e337378e857380f4433a3baded5474032493d41",
+    "hash": "d384167234a343026178d4483dd0e393ba13e66c062b8d43d83e6767d78bd1b5",
     "confirmed": [
       {
-        "name": "Back Post",
+        "name": "Ninety Minutes",
         "legs": [
-          "Serhou Guirassy"
-        ],
-        "rr": false,
-        "info": {
-          "Serhou Guirassy": "Borussia Dortmund vs Sabah FK \u00b7 Tue Oct 20 \u00b7 12:45 PM ET"
-        }
-      },
-      {
-        "name": "Nailed On",
-        "legs": [
-          "Donyell Malen"
-        ],
-        "rr": false,
-        "info": {
-          "Donyell Malen": "AS Roma vs Slovan Bratislava \u00b7 Tue Oct 20 \u00b7 3:00 PM ET"
-        }
-      },
-      {
-        "name": "Near Post",
-        "legs": [
-          "Floyd Samba"
-        ],
-        "rr": false,
-        "info": {
-          "Floyd Samba": "Manchester City vs AEK Athens \u00b7 Tue Oct 20 \u00b7 3:00 PM ET"
-        }
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Donyell Malen"
-        ],
-        "rr": false,
-        "info": {
-          "Donyell Malen": "AS Roma vs Slovan Bratislava \u00b7 Tue Oct 20 \u00b7 3:00 PM ET"
-        }
-      },
-      {
-        "name": "The Totals Board",
-        "legs": [
-          "Liverpool v Villarreal: Villarreal to score",
-          "Napoli v Bodo/Glimt: Match over 2.5 goals",
-          "VfB Stuttgart v Atl\u00e9tico Madrid: Both teams to score"
+          "Levante v Athletic Club: Levante to score",
+          "Real Betis v Feyenoord Rotterdam: Both teams to score",
+          "Real Madrid v RB Leipzig: RB Leipzig to score"
         ],
         "rr": false,
         "market": "",
         "kind": "totals",
         "info": {
-          "Liverpool v Villarreal: Villarreal to score": "Tue Oct 20 \u00b7 3:00 PM ET",
-          "VfB Stuttgart v Atl\u00e9tico Madrid: Both teams to score": "Tue Oct 20 \u00b7 3:00 PM ET",
-          "Napoli v Bodo/Glimt: Match over 2.5 goals": "Tue Oct 20 \u00b7 3:00 PM ET"
+          "Levante v Athletic Club: Levante to score": "Wed Oct 21 \u00b7 2:00 PM ET",
+          "Real Betis v Feyenoord Rotterdam: Both teams to score": "Wed Oct 21 \u00b7 3:00 PM ET",
+          "Real Madrid v RB Leipzig: RB Leipzig to score": "Wed Oct 21 \u00b7 3:00 PM ET"
+        }
+      },
+      {
+        "name": "Shoulder of the Last Man",
+        "legs": [
+          "Evander Ferreira"
+        ],
+        "rr": false,
+        "info": {
+          "Evander Ferreira": "FC Cincinnati vs D.C. United \u00b7 Wed Oct 21 \u00b7 7:00 PM ET"
         }
       }
     ],
-    "hits": [
-      "a:Donyell Malen",
-      "a:Serhou Guirassy",
-      "t:Liverpool v Villarreal: Villarreal to score",
-      "t:Napoli v Bodo/Glimt: Match over 2.5 goals",
-      "t:VfB Stuttgart v Atl\u00e9tico Madrid: Both teams to score"
-    ],
-    "last_modified": "Tue, 20 Oct 2026 20:12:01 GMT",
-    "checked_at": "2026-10-20T20:15:17.211960+00:00"
+    "hits": [],
+    "last_modified": "Wed, 21 Oct 2026 00:28:27 GMT",
+    "checked_at": "2026-10-21T00:30:20.720245+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Tue, 20 Oct 2026 20:12:01 GMT",
-    "checked_at": "2026-10-20T20:15:17.518214+00:00"
+    "last_modified": "Wed, 21 Oct 2026 00:28:27 GMT",
+    "checked_at": "2026-10-21T00:30:20.898746+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "ecb876a429777a95e0a76327414a8e58d7bf35f0121b9609db0b4ffce2ddfa6b",
@@ -98,7 +62,7 @@
       }
     ],
     "hits": [],
-    "last_modified": "Tue, 20 Oct 2026 20:12:01 GMT",
-    "checked_at": "2026-10-20T20:15:18.143598+00:00"
+    "last_modified": "Wed, 21 Oct 2026 00:28:27 GMT",
+    "checked_at": "2026-10-21T00:30:21.786892+00:00"
   }
 }
