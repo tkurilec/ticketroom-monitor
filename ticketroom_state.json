@@ -3,8 +3,8 @@
     "hash": "2efea853952575f75abbd5e53977315a77b9e3796a12f14224797d045ba0e1ca",
     "confirmed": null,
     "hits": null,
-    "last_modified": "Wed, 21 Oct 2026 22:30:11 GMT",
-    "checked_at": "2026-10-21T22:30:18.475467+00:00"
+    "last_modified": "Wed, 21 Oct 2026 22:36:44 GMT",
+    "checked_at": "2026-10-21T22:40:17.296353+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "fb3366e97bca77cce5c73875e15ee26147460a0e3632a8e78ec1faa2c67cb71c",
@@ -123,21 +123,32 @@
       "t:Levante v Athletic Club: Levante to score",
       "t:Real Madrid v RB Leipzig: RB Leipzig to score"
     ],
-    "last_modified": "Wed, 21 Oct 2026 22:30:11 GMT",
-    "checked_at": "2026-10-21T22:30:20.335880+00:00"
+    "last_modified": "Wed, 21 Oct 2026 22:36:44 GMT",
+    "checked_at": "2026-10-21T22:40:19.139376+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 21 Oct 2026 22:30:11 GMT",
-    "checked_at": "2026-10-21T22:30:20.609116+00:00"
+    "last_modified": "Wed, 21 Oct 2026 22:36:44 GMT",
+    "checked_at": "2026-10-21T22:40:19.406258+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "e1bf6e48b2cdc24815626f88c2904887292bc9a967cac1fb43ece70920df1f07",
+    "confirmed": [
+      {
+        "name": "Ice Breaker",
+        "legs": [
+          "Franz Wagner"
+        ],
+        "rr": false,
+        "info": {
+          "Franz Wagner": "Magic vs Hawks \u00b7 Wed Oct 21 \u00b7 7:00 PM ET"
+        }
+      }
+    ],
     "hits": [],
-    "last_modified": "Wed, 21 Oct 2026 22:30:11 GMT",
-    "checked_at": "2026-10-21T22:30:20.699214+00:00"
+    "last_modified": "Wed, 21 Oct 2026 22:36:44 GMT",
+    "checked_at": "2026-10-21T22:40:20.211526+00:00"
   }
 }
