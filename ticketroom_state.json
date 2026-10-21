@@ -3,11 +3,11 @@
     "hash": "2efea853952575f75abbd5e53977315a77b9e3796a12f14224797d045ba0e1ca",
     "confirmed": null,
     "hits": null,
-    "last_modified": "Wed, 21 Oct 2026 20:49:12 GMT",
-    "checked_at": "2026-10-21T20:50:19.921595+00:00"
+    "last_modified": "Wed, 21 Oct 2026 21:44:57 GMT",
+    "checked_at": "2026-10-21T21:45:18.179033+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "b423512437a1a4e836e8795f0fdfe5ab0cea468d868152234468f54659aed4ed",
+    "hash": "ad99604e10fbb1387b49c3d3dd5ef954cca4c7d6a98751c9d38a9f1af28e9909",
     "confirmed": [
       {
         "name": "Both Barrels",
@@ -53,6 +53,16 @@
           "Levante v Athletic Club: Levante to score": "Wed Oct 21 \u00b7 2:00 PM ET",
           "Real Betis v Feyenoord Rotterdam: Both teams to score": "Wed Oct 21 \u00b7 3:00 PM ET",
           "Real Madrid v RB Leipzig: RB Leipzig to score": "Wed Oct 21 \u00b7 3:00 PM ET"
+        }
+      },
+      {
+        "name": "Shoulder of the Last Man",
+        "legs": [
+          "Evander Ferreira"
+        ],
+        "rr": false,
+        "info": {
+          "Evander Ferreira": "FC Cincinnati vs D.C. United \u00b7 Wed Oct 21 \u00b7 7:00 PM ET"
         }
       },
       {
@@ -103,21 +113,21 @@
       "t:Levante v Athletic Club: Levante to score",
       "t:Real Madrid v RB Leipzig: RB Leipzig to score"
     ],
-    "last_modified": "Wed, 21 Oct 2026 20:49:12 GMT",
-    "checked_at": "2026-10-21T20:50:21.121061+00:00"
+    "last_modified": "Wed, 21 Oct 2026 21:44:57 GMT",
+    "checked_at": "2026-10-21T21:45:19.479682+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 21 Oct 2026 20:49:12 GMT",
-    "checked_at": "2026-10-21T20:50:21.306579+00:00"
+    "last_modified": "Wed, 21 Oct 2026 21:44:57 GMT",
+    "checked_at": "2026-10-21T21:45:19.732979+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 21 Oct 2026 20:49:12 GMT",
-    "checked_at": "2026-10-21T20:50:21.491557+00:00"
+    "last_modified": "Wed, 21 Oct 2026 21:44:57 GMT",
+    "checked_at": "2026-10-21T21:45:19.863031+00:00"
   }
 }
