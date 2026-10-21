@@ -213,12 +213,16 @@ def fetch_soccer_live_hits(player_names: set, tot_raw: list,
             comp = ((s.get("header") or {}).get("competitions") or [{}])[0]
             state = (((comp.get("status") or {}).get("type")) or {}).get("state")
             scores = {}
+            side_scores = {}
             for c in comp.get("competitors") or []:
                 nm = _norm_name(((c.get("team") or {}).get("displayName")) or "")
                 try:
-                    scores[nm] = int(float(c.get("score") or 0))
+                    sc = int(float(c.get("score") or 0))
                 except (TypeError, ValueError):
-                    scores[nm] = 0
+                    sc = 0
+                scores[nm] = sc
+                if c.get("homeAway") in ("home", "away"):
+                    side_scores[c["homeAway"]] = sc
             scorers = set()
             for evt in s.get("keyEvents") or []:
                 typ = ((evt.get("type") or {}).get("text")) or ""
@@ -232,7 +236,7 @@ def fetch_soccer_live_hits(player_names: set, tot_raw: list,
                         if nm in want:
                             scorers.add(want[nm])
                         break  # first participant is the scorer, rest assist
-            cache[ev] = (state, scores, scorers)
+            cache[ev] = (state, scores, scorers, side_scores)
         return cache[ev]
 
     if want:
@@ -249,7 +253,7 @@ def fetch_soccer_live_hits(player_names: set, tot_raw: list,
             loaded = load((espn_map or {}).get(str(leg.get("game"))) or {})
             if not loaded:
                 continue
-            state, scores, _ = loaded
+            state, scores, _, side_scores = loaded
             if state not in ("in", "post") or len(scores) != 2:
                 continue
             total = sum(scores.values())
@@ -262,13 +266,21 @@ def fetch_soccer_live_hits(player_names: set, tot_raw: list,
             elif mkt == "BT":
                 hit = (side == "Y" and both) or \
                       (side == "N" and state == "post" and not both)
-            elif mkt == "TA" and line is not None:
-                team = _norm_name((leg.get("label") or "").split(" to score")[0])
-                sc = next((v for nm, v in scores.items()
-                           if team and (team in nm or nm in team)), None)
+            elif mkt in ("TH", "TA") and line is not None:
+                # TH = home team goals vs line, TA = away team. Fall back to
+                # matching the label's team name if ESPN lacks home/away.
+                sc = side_scores.get("home" if mkt == "TH" else "away")
+                if sc is None:
+                    team = _norm_name((leg.get("label") or "")
+                                      .split(" to score")[0])
+                    sc = next((v for nm, v in scores.items()
+                               if team and (team in nm or nm in team)), None)
                 if sc is not None:
                     hit = (side == "O" and sc > line) or \
                           (side == "U" and state == "post" and sc < line)
+            else:
+                print(f"WARNING: unknown totals market {mkt!r} for "
+                      f"{leg.get('_lbl')!r} — leg not tracked")
             if hit:
                 found.add("t:" + leg["_lbl"])
         except Exception as exc:
