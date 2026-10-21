@@ -3,11 +3,11 @@
     "hash": "2efea853952575f75abbd5e53977315a77b9e3796a12f14224797d045ba0e1ca",
     "confirmed": null,
     "hits": null,
-    "last_modified": "Wed, 21 Oct 2026 18:27:10 GMT",
-    "checked_at": "2026-10-21T18:30:20.472660+00:00"
+    "last_modified": "Wed, 21 Oct 2026 18:43:40 GMT",
+    "checked_at": "2026-10-21T18:45:15.543062+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "2c8af1978ad05f55e4783b02228620c4c888213c393fc78b943064281d37671e",
+    "hash": "b423512437a1a4e836e8795f0fdfe5ab0cea468d868152234468f54659aed4ed",
     "confirmed": [
       {
         "name": "Both Barrels",
@@ -88,11 +88,11 @@
       {
         "name": "The Poacher",
         "legs": [
-          "Lautaro Martinez"
+          "Ange Bonny"
         ],
         "rr": false,
         "info": {
-          "Lautaro Martinez": "Internazionale vs Shakhtar Donetsk \u00b7 Wed Oct 21 \u00b7 3:00 PM ET"
+          "Ange Bonny": "Internazionale vs Shakhtar Donetsk \u00b7 Wed Oct 21 \u00b7 3:00 PM ET"
         }
       }
     ],
@@ -100,21 +100,21 @@
       "a:Victor Osimhen",
       "t:Levante v Athletic Club: Levante to score"
     ],
-    "last_modified": "Wed, 21 Oct 2026 18:27:10 GMT",
-    "checked_at": "2026-10-21T18:30:22.297694+00:00"
+    "last_modified": "Wed, 21 Oct 2026 18:43:38 GMT",
+    "checked_at": "2026-10-21T18:45:20.545900+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 21 Oct 2026 18:27:10 GMT",
-    "checked_at": "2026-10-21T18:30:22.859292+00:00"
+    "last_modified": "Wed, 21 Oct 2026 18:43:38 GMT",
+    "checked_at": "2026-10-21T18:45:20.793083+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 21 Oct 2026 18:27:10 GMT",
-    "checked_at": "2026-10-21T18:30:23.055240+00:00"
+    "last_modified": "Wed, 21 Oct 2026 18:43:40 GMT",
+    "checked_at": "2026-10-21T18:45:21.213819+00:00"
   }
 }
