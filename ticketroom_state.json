@@ -3,12 +3,22 @@
     "hash": "2efea853952575f75abbd5e53977315a77b9e3796a12f14224797d045ba0e1ca",
     "confirmed": null,
     "hits": null,
-    "last_modified": "Wed, 21 Oct 2026 18:02:50 GMT",
-    "checked_at": "2026-10-21T18:05:15.722686+00:00"
+    "last_modified": "Wed, 21 Oct 2026 18:06:25 GMT",
+    "checked_at": "2026-10-21T18:10:19.700593+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "0a621b24cd627fdfa7ab2e3b2d0daf76d98de5b8d9d222b970286beb1892dfd7",
+    "hash": "2c8af1978ad05f55e4783b02228620c4c888213c393fc78b943064281d37671e",
     "confirmed": [
+      {
+        "name": "Both Barrels",
+        "legs": [
+          "Harry Kane"
+        ],
+        "rr": false,
+        "info": {
+          "Harry Kane": "Bayern Munich vs Arsenal \u00b7 Wed Oct 21 \u00b7 3:00 PM ET"
+        }
+      },
       {
         "name": "Far Post",
         "legs": [
@@ -66,6 +76,16 @@
         }
       },
       {
+        "name": "The Nine",
+        "legs": [
+          "Harry Kane"
+        ],
+        "rr": false,
+        "info": {
+          "Harry Kane": "Bayern Munich vs Arsenal \u00b7 Wed Oct 21 \u00b7 3:00 PM ET"
+        }
+      },
+      {
         "name": "The Poacher",
         "legs": [
           "Lautaro Martinez"
@@ -79,21 +99,21 @@
     "hits": [
       "a:Victor Osimhen"
     ],
-    "last_modified": "Wed, 21 Oct 2026 18:02:50 GMT",
-    "checked_at": "2026-10-21T18:05:18.236218+00:00"
+    "last_modified": "Wed, 21 Oct 2026 18:06:25 GMT",
+    "checked_at": "2026-10-21T18:10:21.354163+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 21 Oct 2026 18:02:50 GMT",
-    "checked_at": "2026-10-21T18:05:18.708456+00:00"
+    "last_modified": "Wed, 21 Oct 2026 18:06:25 GMT",
+    "checked_at": "2026-10-21T18:10:21.582693+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 21 Oct 2026 18:02:50 GMT",
-    "checked_at": "2026-10-21T18:05:19.136251+00:00"
+    "last_modified": "Wed, 21 Oct 2026 18:06:25 GMT",
+    "checked_at": "2026-10-21T18:10:21.828167+00:00"
   }
 }
