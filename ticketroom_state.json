@@ -3,11 +3,11 @@
     "hash": "2efea853952575f75abbd5e53977315a77b9e3796a12f14224797d045ba0e1ca",
     "confirmed": null,
     "hits": null,
-    "last_modified": "Wed, 21 Oct 2026 15:51:56 GMT",
-    "checked_at": "2026-10-21T15:55:17.292993+00:00"
+    "last_modified": "Wed, 21 Oct 2026 18:02:50 GMT",
+    "checked_at": "2026-10-21T18:05:15.722686+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "255fd92781a81d19e7778d5e93bcd02a4aecb62e531807f1dd0cdc84ad3d0e06",
+    "hash": "0a621b24cd627fdfa7ab2e3b2d0daf76d98de5b8d9d222b970286beb1892dfd7",
     "confirmed": [
       {
         "name": "Far Post",
@@ -17,6 +17,16 @@
         "rr": false,
         "info": {
           "Victor Osimhen": "Galatasaray vs Lille \u00b7 Wed Oct 21 \u00b7 12:45 PM ET"
+        }
+      },
+      {
+        "name": "Near Post",
+        "legs": [
+          "Marcus Thuram"
+        ],
+        "rr": false,
+        "info": {
+          "Marcus Thuram": "Internazionale vs Shakhtar Donetsk \u00b7 Wed Oct 21 \u00b7 3:00 PM ET"
         }
       },
       {
@@ -34,24 +44,56 @@
           "Real Betis v Feyenoord Rotterdam: Both teams to score": "Wed Oct 21 \u00b7 3:00 PM ET",
           "Real Madrid v RB Leipzig: RB Leipzig to score": "Wed Oct 21 \u00b7 3:00 PM ET"
         }
+      },
+      {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Nicolas Jackson"
+        ],
+        "rr": false,
+        "info": {
+          "Nicolas Jackson": "Aston Villa vs Viking FK \u00b7 Wed Oct 21 \u00b7 3:00 PM ET"
+        }
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Kylian Mbappe"
+        ],
+        "rr": false,
+        "info": {
+          "Kylian Mbappe": "Real Madrid vs RB Leipzig \u00b7 Wed Oct 21 \u00b7 3:00 PM ET"
+        }
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Lautaro Martinez"
+        ],
+        "rr": false,
+        "info": {
+          "Lautaro Martinez": "Internazionale vs Shakhtar Donetsk \u00b7 Wed Oct 21 \u00b7 3:00 PM ET"
+        }
       }
     ],
-    "hits": [],
-    "last_modified": "Wed, 21 Oct 2026 15:51:56 GMT",
-    "checked_at": "2026-10-21T15:55:19.277801+00:00"
+    "hits": [
+      "a:Victor Osimhen"
+    ],
+    "last_modified": "Wed, 21 Oct 2026 18:02:50 GMT",
+    "checked_at": "2026-10-21T18:05:18.236218+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 21 Oct 2026 15:51:56 GMT",
-    "checked_at": "2026-10-21T15:55:19.475348+00:00"
+    "last_modified": "Wed, 21 Oct 2026 18:02:50 GMT",
+    "checked_at": "2026-10-21T18:05:18.708456+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 21 Oct 2026 15:51:56 GMT",
-    "checked_at": "2026-10-21T15:55:19.845292+00:00"
+    "last_modified": "Wed, 21 Oct 2026 18:02:50 GMT",
+    "checked_at": "2026-10-21T18:05:19.136251+00:00"
   }
 }
