@@ -3,8 +3,8 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 22 Oct 2026 22:27:38 GMT",
-    "checked_at": "2026-10-22T22:30:19.136986+00:00"
+    "last_modified": "Thu, 22 Oct 2026 22:56:35 GMT",
+    "checked_at": "2026-10-22T23:00:23.809354+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "fc71b72b95ffe43422a453b1d38bf8c5b173b346c654692fd38ce7d7362a9964",
@@ -25,15 +25,78 @@
       }
     ],
     "hits": [],
-    "last_modified": "Thu, 22 Oct 2026 22:27:38 GMT",
-    "checked_at": "2026-10-22T22:30:20.219625+00:00"
+    "last_modified": "Thu, 22 Oct 2026 22:56:35 GMT",
+    "checked_at": "2026-10-22T23:00:24.266813+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "7d62bbe548c031fa155aaa85e97a32b0009b8e7c1e30b6192c67d5d701da61b8",
+    "confirmed": [
+      {
+        "name": "Bell Cow",
+        "legs": [
+          "Sam Roush"
+        ],
+        "rr": false,
+        "info": {
+          "Sam Roush": "Bears vs Patriots \u00b7 Thu Oct 22 \u00b7 8:15 PM ET"
+        }
+      },
+      {
+        "name": "First Six",
+        "legs": [
+          "D'Andre Swift"
+        ],
+        "rr": false,
+        "info": {
+          "D'Andre Swift": "Bears vs Patriots \u00b7 Thu Oct 22 \u00b7 8:15 PM ET"
+        },
+        "market": "first touchdown scorer",
+        "kind": "ftd"
+      },
+      {
+        "name": "Goal Line Back",
+        "legs": [
+          "Zavion Thomas"
+        ],
+        "rr": false,
+        "info": {
+          "Zavion Thomas": "Bears vs Patriots \u00b7 Thu Oct 22 \u00b7 8:15 PM ET"
+        }
+      },
+      {
+        "name": "Red Zone Target",
+        "legs": [
+          "Jahdae Walker"
+        ],
+        "rr": false,
+        "info": {
+          "Jahdae Walker": "Bears vs Patriots \u00b7 Thu Oct 22 \u00b7 8:15 PM ET"
+        }
+      },
+      {
+        "name": "Short Yardage",
+        "legs": [
+          "Cameron Latu"
+        ],
+        "rr": false,
+        "info": {
+          "Cameron Latu": "Patriots vs Bears \u00b7 Thu Oct 22 \u00b7 8:15 PM ET"
+        }
+      },
+      {
+        "name": "The Workhorse",
+        "legs": [
+          "TreVeyon Henderson"
+        ],
+        "rr": false,
+        "info": {
+          "TreVeyon Henderson": "Patriots vs Bears \u00b7 Thu Oct 22 \u00b7 8:15 PM ET"
+        }
+      }
+    ],
     "hits": [],
-    "last_modified": "Thu, 22 Oct 2026 22:27:38 GMT",
-    "checked_at": "2026-10-22T22:30:20.586944+00:00"
+    "last_modified": "Thu, 22 Oct 2026 22:56:35 GMT",
+    "checked_at": "2026-10-22T23:00:25.011981+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "fa19f94caff12e01a3d71b564fa1b5657cd5275bd5c3937fc96bbfb8916a7d12",
@@ -50,7 +113,7 @@
       }
     ],
     "hits": [],
-    "last_modified": "Thu, 22 Oct 2026 22:27:38 GMT",
-    "checked_at": "2026-10-22T22:30:21.438873+00:00"
+    "last_modified": "Thu, 22 Oct 2026 22:56:35 GMT",
+    "checked_at": "2026-10-22T23:00:25.218243+00:00"
   }
 }
