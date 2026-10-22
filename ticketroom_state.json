@@ -3,12 +3,32 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 22 Oct 2026 15:30:23 GMT",
-    "checked_at": "2026-10-22T15:35:16.556588+00:00"
+    "last_modified": "Thu, 22 Oct 2026 15:51:47 GMT",
+    "checked_at": "2026-10-22T15:55:15.798736+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "d9839dea2f37c897d233121eb082672993f089b5089e6e7b86303e5536d2e676",
+    "hash": "3afc5f5f0ecbccf9d91fa03bd7c24de2c52fce150c0210d6ed1590e60d89123b",
     "confirmed": [
+      {
+        "name": "Double Up",
+        "legs": [
+          "Patrik Schick"
+        ],
+        "rr": false,
+        "info": {
+          "Patrik Schick": "Bayer Leverkusen vs OFI Crete \u00b7 Thu Oct 22 \u00b7 12:45 PM ET"
+        }
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Patrik Schick"
+        ],
+        "rr": false,
+        "info": {
+          "Patrik Schick": "Bayer Leverkusen vs OFI Crete \u00b7 Thu Oct 22 \u00b7 12:45 PM ET"
+        }
+      },
       {
         "name": "The Score Sheet",
         "legs": [
@@ -27,21 +47,21 @@
       }
     ],
     "hits": [],
-    "last_modified": "Thu, 22 Oct 2026 15:30:23 GMT",
-    "checked_at": "2026-10-22T15:35:17.231329+00:00"
+    "last_modified": "Thu, 22 Oct 2026 15:51:47 GMT",
+    "checked_at": "2026-10-22T15:55:18.146200+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 22 Oct 2026 15:30:23 GMT",
-    "checked_at": "2026-10-22T15:35:17.455575+00:00"
+    "last_modified": "Thu, 22 Oct 2026 15:51:47 GMT",
+    "checked_at": "2026-10-22T15:55:18.404896+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 22 Oct 2026 15:30:23 GMT",
-    "checked_at": "2026-10-22T15:35:17.801659+00:00"
+    "last_modified": "Thu, 22 Oct 2026 15:51:47 GMT",
+    "checked_at": "2026-10-22T15:55:18.634052+00:00"
   }
 }
