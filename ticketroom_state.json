@@ -3,69 +3,54 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 22 Oct 2026 20:57:33 GMT",
-    "checked_at": "2026-10-22T21:00:21.240498+00:00"
+    "last_modified": "Thu, 22 Oct 2026 22:27:38 GMT",
+    "checked_at": "2026-10-22T22:30:19.136986+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "3afc5f5f0ecbccf9d91fa03bd7c24de2c52fce150c0210d6ed1590e60d89123b",
+    "hash": "fc71b72b95ffe43422a453b1d38bf8c5b173b346c654692fd38ce7d7362a9964",
     "confirmed": [
       {
-        "name": "Double Up",
+        "name": "Shut the Gate",
         "legs": [
-          "Patrik Schick"
-        ],
-        "rr": false,
-        "info": {
-          "Patrik Schick": "Bayer Leverkusen vs OFI Crete \u00b7 Thu Oct 22 \u00b7 12:45 PM ET"
-        }
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Patrik Schick"
-        ],
-        "rr": false,
-        "info": {
-          "Patrik Schick": "Bayer Leverkusen vs OFI Crete \u00b7 Thu Oct 22 \u00b7 12:45 PM ET"
-        }
-      },
-      {
-        "name": "The Score Sheet",
-        "legs": [
-          "AFC Bournemouth v AC Milan: AC Milan under 1.5 goals",
-          "AS Monaco v SC Freiburg: Match under 3.5 goals",
-          "Besiktas v Crystal Palace: Both teams to score"
+          "Torino v Monza: Monza to score",
+          "VfB Stuttgart v Borussia M\u00f6nchengladbach: Both teams to score"
         ],
         "rr": false,
         "market": "",
         "kind": "totals",
         "info": {
-          "AS Monaco v SC Freiburg: Match under 3.5 goals": "Thu Oct 22 \u00b7 3:00 PM ET",
-          "AFC Bournemouth v AC Milan: AC Milan under 1.5 goals": "Thu Oct 22 \u00b7 3:00 PM ET",
-          "Besiktas v Crystal Palace: Both teams to score": "Thu Oct 22 \u00b7 3:00 PM ET"
+          "VfB Stuttgart v Borussia M\u00f6nchengladbach: Both teams to score": "Fri Oct 23 \u00b7 2:30 PM ET",
+          "Torino v Monza: Monza to score": "Fri Oct 23 \u00b7 2:45 PM ET"
         }
       }
     ],
-    "hits": [
-      "t:AFC Bournemouth v AC Milan: AC Milan under 1.5 goals",
-      "t:AS Monaco v SC Freiburg: Match under 3.5 goals",
-      "t:Besiktas v Crystal Palace: Both teams to score"
-    ],
-    "last_modified": "Thu, 22 Oct 2026 20:57:33 GMT",
-    "checked_at": "2026-10-22T21:00:22.555056+00:00"
+    "hits": [],
+    "last_modified": "Thu, 22 Oct 2026 22:27:38 GMT",
+    "checked_at": "2026-10-22T22:30:20.219625+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 22 Oct 2026 20:57:33 GMT",
-    "checked_at": "2026-10-22T21:00:22.839278+00:00"
+    "last_modified": "Thu, 22 Oct 2026 22:27:38 GMT",
+    "checked_at": "2026-10-22T22:30:20.586944+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "fa19f94caff12e01a3d71b564fa1b5657cd5275bd5c3937fc96bbfb8916a7d12",
+    "confirmed": [
+      {
+        "name": "Lead the Break",
+        "legs": [
+          "Peyton Watson"
+        ],
+        "rr": false,
+        "info": {
+          "Peyton Watson": "Cavaliers vs 76ers \u00b7 Thu Oct 22 \u00b7 7:00 PM ET"
+        }
+      }
+    ],
     "hits": [],
-    "last_modified": "Thu, 22 Oct 2026 20:57:33 GMT",
-    "checked_at": "2026-10-22T21:00:22.935695+00:00"
+    "last_modified": "Thu, 22 Oct 2026 22:27:38 GMT",
+    "checked_at": "2026-10-22T22:30:21.438873+00:00"
   }
 }
