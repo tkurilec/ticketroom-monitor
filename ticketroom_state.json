@@ -3,152 +3,28 @@
     "hash": "2efea853952575f75abbd5e53977315a77b9e3796a12f14224797d045ba0e1ca",
     "confirmed": null,
     "hits": null,
-    "last_modified": "Wed, 21 Oct 2026 22:36:44 GMT",
-    "checked_at": "2026-10-21T22:40:17.296353+00:00"
+    "last_modified": "Thu, 22 Oct 2026 02:38:20 GMT",
+    "checked_at": "2026-10-22T04:00:20.420470+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "fb3366e97bca77cce5c73875e15ee26147460a0e3632a8e78ec1faa2c67cb71c",
-    "confirmed": [
-      {
-        "name": "Both Barrels",
-        "legs": [
-          "Harry Kane"
-        ],
-        "rr": false,
-        "info": {
-          "Harry Kane": "Bayern Munich vs Arsenal \u00b7 Wed Oct 21 \u00b7 3:00 PM ET"
-        }
-      },
-      {
-        "name": "Far Post",
-        "legs": [
-          "Victor Osimhen"
-        ],
-        "rr": false,
-        "info": {
-          "Victor Osimhen": "Galatasaray vs Lille \u00b7 Wed Oct 21 \u00b7 12:45 PM ET"
-        }
-      },
-      {
-        "name": "Near Post",
-        "legs": [
-          "Marcus Thuram"
-        ],
-        "rr": false,
-        "info": {
-          "Marcus Thuram": "Internazionale vs Shakhtar Donetsk \u00b7 Wed Oct 21 \u00b7 3:00 PM ET"
-        }
-      },
-      {
-        "name": "Ninety Minutes",
-        "legs": [
-          "Levante v Athletic Club: Levante to score",
-          "Real Betis v Feyenoord Rotterdam: Both teams to score",
-          "Real Madrid v RB Leipzig: RB Leipzig to score"
-        ],
-        "rr": false,
-        "market": "",
-        "kind": "totals",
-        "info": {
-          "Levante v Athletic Club: Levante to score": "Wed Oct 21 \u00b7 2:00 PM ET",
-          "Real Betis v Feyenoord Rotterdam: Both teams to score": "Wed Oct 21 \u00b7 3:00 PM ET",
-          "Real Madrid v RB Leipzig: RB Leipzig to score": "Wed Oct 21 \u00b7 3:00 PM ET"
-        }
-      },
-      {
-        "name": "Shoulder of the Last Man",
-        "legs": [
-          "Evander Ferreira"
-        ],
-        "rr": false,
-        "info": {
-          "Evander Ferreira": "FC Cincinnati vs D.C. United \u00b7 Wed Oct 21 \u00b7 7:00 PM ET"
-        }
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Nicolas Jackson"
-        ],
-        "rr": false,
-        "info": {
-          "Nicolas Jackson": "Aston Villa vs Viking FK \u00b7 Wed Oct 21 \u00b7 3:00 PM ET"
-        }
-      },
-      {
-        "name": "Tap-In",
-        "legs": [
-          "Ahoueke Denkey"
-        ],
-        "rr": false,
-        "info": {
-          "Ahoueke Denkey": "FC Cincinnati vs D.C. United \u00b7 Wed Oct 21 \u00b7 7:00 PM ET"
-        }
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Kylian Mbappe"
-        ],
-        "rr": false,
-        "info": {
-          "Kylian Mbappe": "Real Madrid vs RB Leipzig \u00b7 Wed Oct 21 \u00b7 3:00 PM ET"
-        }
-      },
-      {
-        "name": "The Nine",
-        "legs": [
-          "Harry Kane"
-        ],
-        "rr": false,
-        "info": {
-          "Harry Kane": "Bayern Munich vs Arsenal \u00b7 Wed Oct 21 \u00b7 3:00 PM ET"
-        }
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Ange Bonny"
-        ],
-        "rr": false,
-        "info": {
-          "Ange Bonny": "Internazionale vs Shakhtar Donetsk \u00b7 Wed Oct 21 \u00b7 3:00 PM ET"
-        }
-      }
-    ],
-    "hits": [
-      "a:Harry Kane",
-      "a:Kylian Mbappe",
-      "a:Victor Osimhen",
-      "t:Levante v Athletic Club: Levante to score",
-      "t:Real Madrid v RB Leipzig: RB Leipzig to score"
-    ],
-    "last_modified": "Wed, 21 Oct 2026 22:36:44 GMT",
-    "checked_at": "2026-10-21T22:40:19.139376+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "hits": [],
+    "last_modified": "Thu, 22 Oct 2026 02:38:20 GMT",
+    "checked_at": "2026-10-22T04:00:20.824235+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 21 Oct 2026 22:36:44 GMT",
-    "checked_at": "2026-10-21T22:40:19.406258+00:00"
+    "last_modified": "Thu, 22 Oct 2026 02:38:20 GMT",
+    "checked_at": "2026-10-22T04:00:21.194917+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e1bf6e48b2cdc24815626f88c2904887292bc9a967cac1fb43ece70920df1f07",
-    "confirmed": [
-      {
-        "name": "Ice Breaker",
-        "legs": [
-          "Franz Wagner"
-        ],
-        "rr": false,
-        "info": {
-          "Franz Wagner": "Magic vs Hawks \u00b7 Wed Oct 21 \u00b7 7:00 PM ET"
-        }
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "hits": [],
-    "last_modified": "Wed, 21 Oct 2026 22:36:44 GMT",
-    "checked_at": "2026-10-21T22:40:20.211526+00:00"
+    "last_modified": "Thu, 22 Oct 2026 02:38:20 GMT",
+    "checked_at": "2026-10-22T04:00:21.349975+00:00"
   }
 }
