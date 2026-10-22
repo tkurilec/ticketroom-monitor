@@ -3,28 +3,45 @@
     "hash": "2efea853952575f75abbd5e53977315a77b9e3796a12f14224797d045ba0e1ca",
     "confirmed": null,
     "hits": null,
-    "last_modified": "Thu, 22 Oct 2026 02:38:20 GMT",
-    "checked_at": "2026-10-22T04:00:20.420470+00:00"
+    "last_modified": "Thu, 22 Oct 2026 05:50:52 GMT",
+    "checked_at": "2026-10-22T05:55:14.302369+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "d9839dea2f37c897d233121eb082672993f089b5089e6e7b86303e5536d2e676",
+    "confirmed": [
+      {
+        "name": "The Score Sheet",
+        "legs": [
+          "AFC Bournemouth v AC Milan: AC Milan under 1.5 goals",
+          "AS Monaco v SC Freiburg: Match under 3.5 goals",
+          "Besiktas v Crystal Palace: Both teams to score"
+        ],
+        "rr": false,
+        "market": "",
+        "kind": "totals",
+        "info": {
+          "AS Monaco v SC Freiburg: Match under 3.5 goals": "Thu Oct 22 \u00b7 3:00 PM ET",
+          "AFC Bournemouth v AC Milan: AC Milan under 1.5 goals": "Thu Oct 22 \u00b7 3:00 PM ET",
+          "Besiktas v Crystal Palace: Both teams to score": "Thu Oct 22 \u00b7 3:00 PM ET"
+        }
+      }
+    ],
     "hits": [],
-    "last_modified": "Thu, 22 Oct 2026 02:38:20 GMT",
-    "checked_at": "2026-10-22T04:00:20.824235+00:00"
+    "last_modified": "Thu, 22 Oct 2026 05:50:52 GMT",
+    "checked_at": "2026-10-22T05:55:15.265944+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 22 Oct 2026 02:38:20 GMT",
-    "checked_at": "2026-10-22T04:00:21.194917+00:00"
+    "last_modified": "Thu, 22 Oct 2026 05:50:52 GMT",
+    "checked_at": "2026-10-22T05:55:15.543930+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 22 Oct 2026 02:38:20 GMT",
-    "checked_at": "2026-10-22T04:00:21.349975+00:00"
+    "last_modified": "Thu, 22 Oct 2026 05:50:52 GMT",
+    "checked_at": "2026-10-22T05:55:15.818719+00:00"
   }
 }
