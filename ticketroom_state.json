@@ -3,8 +3,8 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 22 Oct 2026 20:03:50 GMT",
-    "checked_at": "2026-10-22T20:15:17.736704+00:00"
+    "last_modified": "Thu, 22 Oct 2026 20:57:33 GMT",
+    "checked_at": "2026-10-22T21:00:21.240498+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "3afc5f5f0ecbccf9d91fa03bd7c24de2c52fce150c0210d6ed1590e60d89123b",
@@ -47,23 +47,25 @@
       }
     ],
     "hits": [
+      "t:AFC Bournemouth v AC Milan: AC Milan under 1.5 goals",
+      "t:AS Monaco v SC Freiburg: Match under 3.5 goals",
       "t:Besiktas v Crystal Palace: Both teams to score"
     ],
-    "last_modified": "Thu, 22 Oct 2026 20:03:50 GMT",
-    "checked_at": "2026-10-22T20:15:19.396058+00:00"
+    "last_modified": "Thu, 22 Oct 2026 20:57:33 GMT",
+    "checked_at": "2026-10-22T21:00:22.555056+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 22 Oct 2026 20:03:50 GMT",
-    "checked_at": "2026-10-22T20:15:19.666878+00:00"
+    "last_modified": "Thu, 22 Oct 2026 20:57:33 GMT",
+    "checked_at": "2026-10-22T21:00:22.839278+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Thu, 22 Oct 2026 20:03:50 GMT",
-    "checked_at": "2026-10-22T20:15:20.045546+00:00"
+    "last_modified": "Thu, 22 Oct 2026 20:57:33 GMT",
+    "checked_at": "2026-10-22T21:00:22.935695+00:00"
   }
 }
