@@ -3,8 +3,8 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Fri, 23 Oct 2026 19:06:18 GMT",
-    "checked_at": "2026-10-23T19:10:17.053134+00:00"
+    "last_modified": "Fri, 23 Oct 2026 19:51:26 GMT",
+    "checked_at": "2026-10-23T19:55:13.073593+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "50325195712973fbd40f7498391d6a8ec8086766962a4eaeee3877d92671422b",
@@ -56,23 +56,24 @@
     ],
     "hits": [
       "a:Ermedin Demirovic",
+      "t:Torino v Monza: Monza to score",
       "t:VfB Stuttgart v Borussia M\u00f6nchengladbach: Both teams to score"
     ],
-    "last_modified": "Fri, 23 Oct 2026 19:06:18 GMT",
-    "checked_at": "2026-10-23T19:10:17.922883+00:00"
+    "last_modified": "Fri, 23 Oct 2026 19:51:26 GMT",
+    "checked_at": "2026-10-23T19:55:14.363473+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Fri, 23 Oct 2026 19:06:18 GMT",
-    "checked_at": "2026-10-23T19:10:18.093011+00:00"
+    "last_modified": "Fri, 23 Oct 2026 19:51:26 GMT",
+    "checked_at": "2026-10-23T19:55:14.751063+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Fri, 23 Oct 2026 19:06:18 GMT",
-    "checked_at": "2026-10-23T19:10:18.367619+00:00"
+    "last_modified": "Fri, 23 Oct 2026 19:51:26 GMT",
+    "checked_at": "2026-10-23T19:55:14.930073+00:00"
   }
 }
