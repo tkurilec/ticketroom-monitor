@@ -3,11 +3,11 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Fri, 23 Oct 2026 03:37:56 GMT",
-    "checked_at": "2026-10-23T04:00:23.105090+00:00"
+    "last_modified": "Fri, 23 Oct 2026 17:36:39 GMT",
+    "checked_at": "2026-10-23T17:40:17.689676+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "fc71b72b95ffe43422a453b1d38bf8c5b173b346c654692fd38ce7d7362a9964",
+    "hash": "50325195712973fbd40f7498391d6a8ec8086766962a4eaeee3877d92671422b",
     "confirmed": [
       {
         "name": "Shut the Gate",
@@ -22,24 +22,54 @@
           "VfB Stuttgart v Borussia M\u00f6nchengladbach: Both teams to score": "Fri Oct 23 \u00b7 2:30 PM ET",
           "Torino v Monza: Monza to score": "Fri Oct 23 \u00b7 2:45 PM ET"
         }
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Dzenan Pejcinovic"
+        ],
+        "rr": false,
+        "info": {
+          "Dzenan Pejcinovic": "VfB Stuttgart vs Borussia M\u00f6nchengladbach \u00b7 Fri Oct 23 \u00b7 2:30 PM ET"
+        }
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Ermedin Demirovic"
+        ],
+        "rr": false,
+        "info": {
+          "Ermedin Demirovic": "VfB Stuttgart vs Borussia M\u00f6nchengladbach \u00b7 Fri Oct 23 \u00b7 2:30 PM ET"
+        }
+      },
+      {
+        "name": "The Talisman",
+        "legs": [
+          "Dzenan Pejcinovic"
+        ],
+        "rr": false,
+        "info": {
+          "Dzenan Pejcinovic": "VfB Stuttgart vs Borussia M\u00f6nchengladbach \u00b7 Fri Oct 23 \u00b7 2:30 PM ET"
+        }
       }
     ],
     "hits": [],
-    "last_modified": "Fri, 23 Oct 2026 03:37:56 GMT",
-    "checked_at": "2026-10-23T04:00:23.464869+00:00"
+    "last_modified": "Fri, 23 Oct 2026 17:36:39 GMT",
+    "checked_at": "2026-10-23T17:40:19.301923+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Fri, 23 Oct 2026 03:37:56 GMT",
-    "checked_at": "2026-10-23T04:00:23.711412+00:00"
+    "last_modified": "Fri, 23 Oct 2026 17:36:39 GMT",
+    "checked_at": "2026-10-23T17:40:20.190838+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Fri, 23 Oct 2026 03:37:56 GMT",
-    "checked_at": "2026-10-23T04:00:23.986662+00:00"
+    "last_modified": "Fri, 23 Oct 2026 17:36:39 GMT",
+    "checked_at": "2026-10-23T17:40:20.448156+00:00"
   }
 }
