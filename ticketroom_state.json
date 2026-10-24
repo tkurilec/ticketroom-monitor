@@ -3,8 +3,8 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 12:41:34 GMT",
-    "checked_at": "2026-10-24T12:45:16.792422+00:00"
+    "last_modified": "Sat, 24 Oct 2026 14:06:41 GMT",
+    "checked_at": "2026-10-24T14:10:15.190499+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "6c2c4a3e5f87b98a2af30cbd6c6fd913bfb6eef9db888809957675ae60ec752f",
@@ -59,23 +59,24 @@
       }
     ],
     "hits": [
+      "a:Anastasios Douvikas",
       "a:Erling Haaland"
     ],
-    "last_modified": "Sat, 24 Oct 2026 12:41:34 GMT",
-    "checked_at": "2026-10-24T12:45:20.076040+00:00"
+    "last_modified": "Sat, 24 Oct 2026 14:06:41 GMT",
+    "checked_at": "2026-10-24T14:10:18.459805+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 12:41:34 GMT",
-    "checked_at": "2026-10-24T12:45:20.344989+00:00"
+    "last_modified": "Sat, 24 Oct 2026 14:06:41 GMT",
+    "checked_at": "2026-10-24T14:10:18.718720+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 12:41:34 GMT",
-    "checked_at": "2026-10-24T12:45:20.600622+00:00"
+    "last_modified": "Sat, 24 Oct 2026 14:06:41 GMT",
+    "checked_at": "2026-10-24T14:10:19.003123+00:00"
   }
 }
