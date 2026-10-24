@@ -3,12 +3,32 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 08:50:55 GMT",
-    "checked_at": "2026-10-24T08:55:14.201906+00:00"
+    "last_modified": "Sat, 24 Oct 2026 10:36:25 GMT",
+    "checked_at": "2026-10-24T10:40:16.484196+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e37ffd3805dc3680d13a31ca5167b330e481a85a620b9c30eec78b024048a851",
+    "hash": "036b27c5848a81a8e07d3c766a8ab5237b4916d041ef2a1445b8e1718efa4d9b",
     "confirmed": [
+      {
+        "name": "Big Game Player",
+        "legs": [
+          "Erling Haaland"
+        ],
+        "rr": false,
+        "info": {
+          "Erling Haaland": "Manchester City vs Aston Villa \u00b7 Sat Oct 24 \u00b7 7:30 AM ET"
+        }
+      },
+      {
+        "name": "Near Post",
+        "legs": [
+          "Erling Haaland"
+        ],
+        "rr": false,
+        "info": {
+          "Erling Haaland": "Manchester City vs Aston Villa \u00b7 Sat Oct 24 \u00b7 7:30 AM ET"
+        }
+      },
       {
         "name": "The Goal Rush",
         "legs": [
@@ -29,21 +49,21 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 08:50:55 GMT",
-    "checked_at": "2026-10-24T08:55:16.640426+00:00"
+    "last_modified": "Sat, 24 Oct 2026 10:36:25 GMT",
+    "checked_at": "2026-10-24T10:40:23.089762+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 08:50:55 GMT",
-    "checked_at": "2026-10-24T08:55:16.840167+00:00"
+    "last_modified": "Sat, 24 Oct 2026 10:36:25 GMT",
+    "checked_at": "2026-10-24T10:40:23.281902+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 08:50:55 GMT",
-    "checked_at": "2026-10-24T08:55:17.155795+00:00"
+    "last_modified": "Sat, 24 Oct 2026 10:36:25 GMT",
+    "checked_at": "2026-10-24T10:40:23.518207+00:00"
   }
 }
