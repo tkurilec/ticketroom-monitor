@@ -3,28 +3,47 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 03:58:49 GMT",
-    "checked_at": "2026-10-24T04:00:20.634186+00:00"
+    "last_modified": "Sat, 24 Oct 2026 08:50:55 GMT",
+    "checked_at": "2026-10-24T08:55:14.201906+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "e37ffd3805dc3680d13a31ca5167b330e481a85a620b9c30eec78b024048a851",
+    "confirmed": [
+      {
+        "name": "The Goal Rush",
+        "legs": [
+          "Cagliari v Bologna: Cagliari to score",
+          "Columbus Crew v Toronto FC: Match over 2.5 goals",
+          "Lazio v Parma: Lazio under 2.5 goals",
+          "RB Leipzig v SV Elversberg: Both teams to score"
+        ],
+        "rr": false,
+        "market": "",
+        "kind": "totals",
+        "info": {
+          "Cagliari v Bologna: Cagliari to score": "Sat Oct 24 \u00b7 9:00 AM ET",
+          "Columbus Crew v Toronto FC: Match over 2.5 goals": "Sat Oct 24 \u00b7 3:30 PM ET",
+          "RB Leipzig v SV Elversberg: Both teams to score": "Sat Oct 24 \u00b7 9:30 AM ET",
+          "Lazio v Parma: Lazio under 2.5 goals": "Sat Oct 24 \u00b7 2:45 PM ET"
+        }
+      }
+    ],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 03:58:49 GMT",
-    "checked_at": "2026-10-24T04:00:21.055083+00:00"
+    "last_modified": "Sat, 24 Oct 2026 08:50:55 GMT",
+    "checked_at": "2026-10-24T08:55:16.640426+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 03:58:49 GMT",
-    "checked_at": "2026-10-24T04:00:21.407684+00:00"
+    "last_modified": "Sat, 24 Oct 2026 08:50:55 GMT",
+    "checked_at": "2026-10-24T08:55:16.840167+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 03:58:49 GMT",
-    "checked_at": "2026-10-24T04:00:21.909622+00:00"
+    "last_modified": "Sat, 24 Oct 2026 08:50:55 GMT",
+    "checked_at": "2026-10-24T08:55:17.155795+00:00"
   }
 }
