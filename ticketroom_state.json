@@ -3,8 +3,8 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 00:23:18 GMT",
-    "checked_at": "2026-10-24T00:25:16.207840+00:00"
+    "last_modified": "Sat, 24 Oct 2026 03:46:02 GMT",
+    "checked_at": "2026-10-24T03:50:16.609465+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "50325195712973fbd40f7498391d6a8ec8086766962a4eaeee3877d92671422b",
@@ -59,19 +59,35 @@
       "t:Torino v Monza: Monza to score",
       "t:VfB Stuttgart v Borussia M\u00f6nchengladbach: Both teams to score"
     ],
-    "last_modified": "Sat, 24 Oct 2026 00:23:18 GMT",
-    "checked_at": "2026-10-24T00:25:17.449560+00:00"
+    "last_modified": "Sat, 24 Oct 2026 03:46:02 GMT",
+    "checked_at": "2026-10-24T03:50:18.246582+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 00:23:18 GMT",
-    "checked_at": "2026-10-24T00:25:17.551482+00:00"
+    "last_modified": "Sat, 24 Oct 2026 03:46:02 GMT",
+    "checked_at": "2026-10-24T03:50:18.605382+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "7657bef0a49ffafd3c4ed3dc697615005d28f9685bdee07a27756eacc808fffc",
+    "hash": "3a70a1d48f0a93df068cff80df3c0afba9e361605f8303b0b979040699843e87",
     "confirmed": [
+      {
+        "name": "Euro Step",
+        "legs": [
+          "Darius Garland",
+          "Devin Vassell",
+          "Draymond Green",
+          "Jaren Jackson Jr."
+        ],
+        "rr": true,
+        "info": {
+          "Draymond Green": "Warriors vs Grizzlies \u00b7 Fri Oct 23 \u00b7 10:00 PM ET",
+          "Darius Garland": "Clippers vs Lakers \u00b7 Fri Oct 23 \u00b7 10:00 PM ET",
+          "Devin Vassell": "Spurs vs Rockets \u00b7 Fri Oct 23 \u00b7 9:30 PM ET",
+          "Jaren Jackson Jr.": "Jazz vs Pelicans \u00b7 Fri Oct 23 \u00b7 9:30 PM ET"
+        }
+      },
       {
         "name": "First Touch",
         "legs": [
@@ -80,6 +96,26 @@
         "rr": false,
         "info": {
           "Jordan Walsh": "Celtics vs Knicks \u00b7 Fri Oct 23 \u00b7 7:00 PM ET"
+        }
+      },
+      {
+        "name": "Opening Set",
+        "legs": [
+          "Kyle Kuzma"
+        ],
+        "rr": false,
+        "info": {
+          "Kyle Kuzma": "Bucks vs Bulls \u00b7 Fri Oct 23 \u00b7 4:00 PM ET"
+        }
+      },
+      {
+        "name": "The Starter",
+        "legs": [
+          "Paul George"
+        ],
+        "rr": false,
+        "info": {
+          "Paul George": "Celtics vs Knicks \u00b7 Fri Oct 23 \u00b7 7:00 PM ET"
         }
       },
       {
@@ -94,7 +130,7 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 00:23:18 GMT",
-    "checked_at": "2026-10-24T00:25:22.956091+00:00"
+    "last_modified": "Sat, 24 Oct 2026 03:46:02 GMT",
+    "checked_at": "2026-10-24T03:50:21.158868+00:00"
   }
 }
