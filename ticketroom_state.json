@@ -3,11 +3,11 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 23:38:02 GMT",
-    "checked_at": "2026-10-24T23:40:16.152198+00:00"
+    "last_modified": "Sat, 24 Oct 2026 23:47:42 GMT",
+    "checked_at": "2026-10-24T23:50:16.020426+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "c79dc447617736fe5b5a4cb58aca203a3b71d947fc43861b710718e004b4d087",
+    "hash": "90d666fdbc6110d8d5152deda6cadd311ffba37b323e8d3dd547890e412a6cd9",
     "confirmed": [
       {
         "name": "Back Post",
@@ -116,6 +116,16 @@
         "info": {
           "Sam Surridge": "Nashville SC vs CF Montr\u00e9al \u00b7 Sat Oct 24 \u00b7 1:30 PM ET"
         }
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Petar Musa"
+        ],
+        "rr": false,
+        "info": {
+          "Petar Musa": "FC Dallas vs San Jose Earthquakes \u00b7 Sat Oct 24 \u00b7 8:30 PM ET"
+        }
       }
     ],
     "hits": [
@@ -125,15 +135,15 @@
       "t:Columbus Crew v Toronto FC: Match over 2.5 goals",
       "t:Lazio v Parma: Lazio under 2.5 goals"
     ],
-    "last_modified": "Sat, 24 Oct 2026 23:38:02 GMT",
-    "checked_at": "2026-10-24T23:40:21.493986+00:00"
+    "last_modified": "Sat, 24 Oct 2026 23:47:42 GMT",
+    "checked_at": "2026-10-24T23:50:22.532876+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 23:38:02 GMT",
-    "checked_at": "2026-10-24T23:40:21.750289+00:00"
+    "last_modified": "Sat, 24 Oct 2026 23:47:42 GMT",
+    "checked_at": "2026-10-24T23:50:22.808374+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "eaee3d890c68bb36aaf5c3c26e77e70f161c6d3a29cebd1909d5dcfb9372e5c2",
@@ -171,8 +181,10 @@
         }
       }
     ],
-    "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 23:38:02 GMT",
-    "checked_at": "2026-10-24T23:40:22.815702+00:00"
+    "hits": [
+      "a:Peyton Watson"
+    ],
+    "last_modified": "Sat, 24 Oct 2026 23:47:42 GMT",
+    "checked_at": "2026-10-24T23:50:23.957316+00:00"
   }
 }
