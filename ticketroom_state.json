@@ -3,8 +3,8 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 22:47:44 GMT",
-    "checked_at": "2026-10-24T22:50:15.884949+00:00"
+    "last_modified": "Sat, 24 Oct 2026 23:17:35 GMT",
+    "checked_at": "2026-10-24T23:20:19.054648+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "c79dc447617736fe5b5a4cb58aca203a3b71d947fc43861b710718e004b4d087",
@@ -125,21 +125,38 @@
       "t:Columbus Crew v Toronto FC: Match over 2.5 goals",
       "t:Lazio v Parma: Lazio under 2.5 goals"
     ],
-    "last_modified": "Sat, 24 Oct 2026 22:47:44 GMT",
-    "checked_at": "2026-10-24T22:50:21.502148+00:00"
+    "last_modified": "Sat, 24 Oct 2026 23:17:35 GMT",
+    "checked_at": "2026-10-24T23:20:32.045924+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 22:47:44 GMT",
-    "checked_at": "2026-10-24T22:50:21.800013+00:00"
+    "last_modified": "Sat, 24 Oct 2026 23:17:35 GMT",
+    "checked_at": "2026-10-24T23:20:32.278085+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "9387e9dc4e436eea09948cc6a7b637d4ac0cc1e9540c741ea05524db4dffd594",
+    "confirmed": [
+      {
+        "name": "Lob City",
+        "legs": [
+          "Klay Thompson",
+          "Kyle Kuzma",
+          "Peyton Watson",
+          "Victor Wembanyama"
+        ],
+        "rr": true,
+        "info": {
+          "Victor Wembanyama": "Spurs vs Mavericks \u00b7 Sat Oct 24 \u00b7 8:00 PM ET",
+          "Kyle Kuzma": "Bucks vs 76ers \u00b7 Sat Oct 24 \u00b7 7:30 PM ET",
+          "Peyton Watson": "Cavaliers vs Nets \u00b7 Sat Oct 24 \u00b7 7:30 PM ET",
+          "Klay Thompson": "Heat vs Hornets \u00b7 Sat Oct 24 \u00b7 6:00 PM ET"
+        }
+      }
+    ],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 22:47:44 GMT",
-    "checked_at": "2026-10-24T22:50:22.043701+00:00"
+    "last_modified": "Sat, 24 Oct 2026 23:17:35 GMT",
+    "checked_at": "2026-10-24T23:20:33.379753+00:00"
   }
 }
