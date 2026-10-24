@@ -3,134 +3,28 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 03:46:02 GMT",
-    "checked_at": "2026-10-24T03:50:16.609465+00:00"
+    "last_modified": "Sat, 24 Oct 2026 03:58:49 GMT",
+    "checked_at": "2026-10-24T04:00:20.634186+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "50325195712973fbd40f7498391d6a8ec8086766962a4eaeee3877d92671422b",
-    "confirmed": [
-      {
-        "name": "Shut the Gate",
-        "legs": [
-          "Torino v Monza: Monza to score",
-          "VfB Stuttgart v Borussia M\u00f6nchengladbach: Both teams to score"
-        ],
-        "rr": false,
-        "market": "",
-        "kind": "totals",
-        "info": {
-          "VfB Stuttgart v Borussia M\u00f6nchengladbach: Both teams to score": "Fri Oct 23 \u00b7 2:30 PM ET",
-          "Torino v Monza: Monza to score": "Fri Oct 23 \u00b7 2:45 PM ET"
-        }
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Dzenan Pejcinovic"
-        ],
-        "rr": false,
-        "info": {
-          "Dzenan Pejcinovic": "VfB Stuttgart vs Borussia M\u00f6nchengladbach \u00b7 Fri Oct 23 \u00b7 2:30 PM ET"
-        }
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Ermedin Demirovic"
-        ],
-        "rr": false,
-        "info": {
-          "Ermedin Demirovic": "VfB Stuttgart vs Borussia M\u00f6nchengladbach \u00b7 Fri Oct 23 \u00b7 2:30 PM ET"
-        }
-      },
-      {
-        "name": "The Talisman",
-        "legs": [
-          "Dzenan Pejcinovic"
-        ],
-        "rr": false,
-        "info": {
-          "Dzenan Pejcinovic": "VfB Stuttgart vs Borussia M\u00f6nchengladbach \u00b7 Fri Oct 23 \u00b7 2:30 PM ET"
-        }
-      }
-    ],
-    "hits": [
-      "a:Ermedin Demirovic",
-      "t:Torino v Monza: Monza to score",
-      "t:VfB Stuttgart v Borussia M\u00f6nchengladbach: Both teams to score"
-    ],
-    "last_modified": "Sat, 24 Oct 2026 03:46:02 GMT",
-    "checked_at": "2026-10-24T03:50:18.246582+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "hits": [],
+    "last_modified": "Sat, 24 Oct 2026 03:58:49 GMT",
+    "checked_at": "2026-10-24T04:00:21.055083+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 03:46:02 GMT",
-    "checked_at": "2026-10-24T03:50:18.605382+00:00"
+    "last_modified": "Sat, 24 Oct 2026 03:58:49 GMT",
+    "checked_at": "2026-10-24T04:00:21.407684+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "3a70a1d48f0a93df068cff80df3c0afba9e361605f8303b0b979040699843e87",
-    "confirmed": [
-      {
-        "name": "Euro Step",
-        "legs": [
-          "Darius Garland",
-          "Devin Vassell",
-          "Draymond Green",
-          "Jaren Jackson Jr."
-        ],
-        "rr": true,
-        "info": {
-          "Draymond Green": "Warriors vs Grizzlies \u00b7 Fri Oct 23 \u00b7 10:00 PM ET",
-          "Darius Garland": "Clippers vs Lakers \u00b7 Fri Oct 23 \u00b7 10:00 PM ET",
-          "Devin Vassell": "Spurs vs Rockets \u00b7 Fri Oct 23 \u00b7 9:30 PM ET",
-          "Jaren Jackson Jr.": "Jazz vs Pelicans \u00b7 Fri Oct 23 \u00b7 9:30 PM ET"
-        }
-      },
-      {
-        "name": "First Touch",
-        "legs": [
-          "Jordan Walsh"
-        ],
-        "rr": false,
-        "info": {
-          "Jordan Walsh": "Celtics vs Knicks \u00b7 Fri Oct 23 \u00b7 7:00 PM ET"
-        }
-      },
-      {
-        "name": "Opening Set",
-        "legs": [
-          "Kyle Kuzma"
-        ],
-        "rr": false,
-        "info": {
-          "Kyle Kuzma": "Bucks vs Bulls \u00b7 Fri Oct 23 \u00b7 4:00 PM ET"
-        }
-      },
-      {
-        "name": "The Starter",
-        "legs": [
-          "Paul George"
-        ],
-        "rr": false,
-        "info": {
-          "Paul George": "Celtics vs Knicks \u00b7 Fri Oct 23 \u00b7 7:00 PM ET"
-        }
-      },
-      {
-        "name": "Two Points",
-        "legs": [
-          "Draymond Green"
-        ],
-        "rr": false,
-        "info": {
-          "Draymond Green": "Warriors vs Grizzlies \u00b7 Fri Oct 23 \u00b7 10:00 PM ET"
-        }
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 03:46:02 GMT",
-    "checked_at": "2026-10-24T03:50:21.158868+00:00"
+    "last_modified": "Sat, 24 Oct 2026 03:58:49 GMT",
+    "checked_at": "2026-10-24T04:00:21.909622+00:00"
   }
 }
