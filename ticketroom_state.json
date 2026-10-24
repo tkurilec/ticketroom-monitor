@@ -3,11 +3,11 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 15:47:09 GMT",
-    "checked_at": "2026-10-24T15:50:15.892503+00:00"
+    "last_modified": "Sat, 24 Oct 2026 16:46:26 GMT",
+    "checked_at": "2026-10-24T16:50:14.861768+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "995e7bf250f685768d8ede27c6d459be68a18431b190247cd91a38f445681dc8",
+    "hash": "2f4ce319047da5ea85a172eb7a663b28371c4b634bf7ff46ada74eb722cf1d80",
     "confirmed": [
       {
         "name": "Big Game Player",
@@ -66,27 +66,37 @@
           "RB Leipzig v SV Elversberg: Both teams to score": "Sat Oct 24 \u00b7 9:30 AM ET",
           "Lazio v Parma: Lazio under 2.5 goals": "Sat Oct 24 \u00b7 2:45 PM ET"
         }
+      },
+      {
+        "name": "The Nine",
+        "legs": [
+          "Sam Surridge"
+        ],
+        "rr": false,
+        "info": {
+          "Sam Surridge": "Nashville SC vs CF Montr\u00e9al \u00b7 Sat Oct 24 \u00b7 1:30 PM ET"
+        }
       }
     ],
     "hits": [
       "a:Anastasios Douvikas",
       "a:Erling Haaland"
     ],
-    "last_modified": "Sat, 24 Oct 2026 15:47:08 GMT",
-    "checked_at": "2026-10-24T15:50:22.612475+00:00"
+    "last_modified": "Sat, 24 Oct 2026 16:46:26 GMT",
+    "checked_at": "2026-10-24T16:50:18.647959+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 15:47:09 GMT",
-    "checked_at": "2026-10-24T15:50:23.110737+00:00"
+    "last_modified": "Sat, 24 Oct 2026 16:46:26 GMT",
+    "checked_at": "2026-10-24T16:50:18.859493+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 15:47:08 GMT",
-    "checked_at": "2026-10-24T15:50:23.376394+00:00"
+    "last_modified": "Sat, 24 Oct 2026 16:46:26 GMT",
+    "checked_at": "2026-10-24T16:50:19.081666+00:00"
   }
 }
