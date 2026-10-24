@@ -3,11 +3,11 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 20:47:37 GMT",
-    "checked_at": "2026-10-24T20:50:16.907744+00:00"
+    "last_modified": "Sat, 24 Oct 2026 22:37:17 GMT",
+    "checked_at": "2026-10-24T22:40:16.029012+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "2f4ce319047da5ea85a172eb7a663b28371c4b634bf7ff46ada74eb722cf1d80",
+    "hash": "db9a374fba52e8a5812a29c12bf26c17f18c3753e119db722bcbccdce75f031e",
     "confirmed": [
       {
         "name": "Big Game Player",
@@ -20,6 +20,16 @@
         }
       },
       {
+        "name": "Far Post",
+        "legs": [
+          "Tai Baribo"
+        ],
+        "rr": false,
+        "info": {
+          "Tai Baribo": "D.C. United vs FC Cincinnati \u00b7 Sat Oct 24 \u00b7 7:30 PM ET"
+        }
+      },
+      {
         "name": "Near Post",
         "legs": [
           "Erling Haaland"
@@ -27,6 +37,16 @@
         "rr": false,
         "info": {
           "Erling Haaland": "Manchester City vs Aston Villa \u00b7 Sat Oct 24 \u00b7 7:30 AM ET"
+        }
+      },
+      {
+        "name": "Rebound",
+        "legs": [
+          "Ahoueke Denkey"
+        ],
+        "rr": false,
+        "info": {
+          "Ahoueke Denkey": "FC Cincinnati vs D.C. United \u00b7 Sat Oct 24 \u00b7 7:30 PM ET"
         }
       },
       {
@@ -85,21 +105,21 @@
       "t:Columbus Crew v Toronto FC: Match over 2.5 goals",
       "t:Lazio v Parma: Lazio under 2.5 goals"
     ],
-    "last_modified": "Sat, 24 Oct 2026 20:47:37 GMT",
-    "checked_at": "2026-10-24T20:50:21.302253+00:00"
+    "last_modified": "Sat, 24 Oct 2026 22:37:17 GMT",
+    "checked_at": "2026-10-24T22:40:19.701028+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 20:47:37 GMT",
-    "checked_at": "2026-10-24T20:50:21.639136+00:00"
+    "last_modified": "Sat, 24 Oct 2026 22:37:17 GMT",
+    "checked_at": "2026-10-24T22:40:19.896054+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 20:47:37 GMT",
-    "checked_at": "2026-10-24T20:50:22.837259+00:00"
+    "last_modified": "Sat, 24 Oct 2026 22:37:17 GMT",
+    "checked_at": "2026-10-24T22:40:20.082065+00:00"
   }
 }
