@@ -3,8 +3,8 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 01:43:18 GMT",
-    "checked_at": "2026-10-25T01:45:15.111668+00:00"
+    "last_modified": "Sun, 25 Oct 2026 02:13:24 GMT",
+    "checked_at": "2026-10-25T02:20:15.615885+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e8ef7d1d6d9d811e89365c911edfb8fb6ef06e1d7f5c78d7daf353a5dafb83c3",
@@ -141,19 +141,20 @@
     "hits": [
       "a:Anastasios Douvikas",
       "a:Erling Haaland",
+      "a:Petar Musa",
       "a:Sam Surridge",
       "t:Columbus Crew v Toronto FC: Match over 2.5 goals",
       "t:Lazio v Parma: Lazio under 2.5 goals"
     ],
-    "last_modified": "Sun, 25 Oct 2026 01:43:18 GMT",
-    "checked_at": "2026-10-25T01:45:18.430789+00:00"
+    "last_modified": "Sun, 25 Oct 2026 02:13:24 GMT",
+    "checked_at": "2026-10-25T02:20:21.811120+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 01:43:18 GMT",
-    "checked_at": "2026-10-25T01:45:18.690686+00:00"
+    "last_modified": "Sun, 25 Oct 2026 02:13:24 GMT",
+    "checked_at": "2026-10-25T02:20:22.074340+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "8f1e33f682abba7cc176d435e194d50be85abfe44268f88b2e07b6ad25237408",
@@ -308,7 +309,7 @@
       "a:Dyson Daniels",
       "a:Peyton Watson"
     ],
-    "last_modified": "Sun, 25 Oct 2026 01:43:18 GMT",
-    "checked_at": "2026-10-25T01:45:19.373843+00:00"
+    "last_modified": "Sun, 25 Oct 2026 02:13:24 GMT",
+    "checked_at": "2026-10-25T02:20:23.262645+00:00"
   }
 }
