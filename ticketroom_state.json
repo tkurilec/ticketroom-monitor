@@ -3,8 +3,8 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 15:32:05 GMT",
-    "checked_at": "2026-10-25T15:35:15.006120+00:00"
+    "last_modified": "Sun, 25 Oct 2026 15:36:48 GMT",
+    "checked_at": "2026-10-25T15:40:15.847323+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "c7bb6ae2818f505049b8e8c5a4fb51d7d2468c64579f1a37ea19db5b34e5d44f",
@@ -83,11 +83,11 @@
       "a:Nikola Krstovic",
       "t:Atalanta v Frosinone: Atalanta over 1.5 goals"
     ],
-    "last_modified": "Sun, 25 Oct 2026 15:32:05 GMT",
-    "checked_at": "2026-10-25T15:35:17.569599+00:00"
+    "last_modified": "Sun, 25 Oct 2026 15:36:48 GMT",
+    "checked_at": "2026-10-25T15:40:20.178325+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "367c70876999b05f943cd7b84bf0420e471db343e5b5ac368e51178f2c3613ea",
+    "hash": "bde8b3f523a65313921cbd326a5f1f83ab8fc05d92aefc3976dd517381aea95a",
     "confirmed": [
       {
         "name": "Goal Line Back",
@@ -107,6 +107,16 @@
         "rr": false,
         "info": {
           "Xavier Hutchinson": "Texans vs Giants \u00b7 Sun Oct 25 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "Short Yardage",
+        "legs": [
+          "Aaron Jones"
+        ],
+        "rr": false,
+        "info": {
+          "Aaron Jones": "Vikings vs Colts \u00b7 Sun Oct 25 \u00b7 1:00 PM ET"
         }
       },
       {
@@ -131,14 +141,14 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 15:32:05 GMT",
-    "checked_at": "2026-10-25T15:35:18.473110+00:00"
+    "last_modified": "Sun, 25 Oct 2026 15:36:48 GMT",
+    "checked_at": "2026-10-25T15:40:21.025861+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 15:32:05 GMT",
-    "checked_at": "2026-10-25T15:35:18.664341+00:00"
+    "last_modified": "Sun, 25 Oct 2026 15:36:48 GMT",
+    "checked_at": "2026-10-25T15:40:21.260150+00:00"
   }
 }
