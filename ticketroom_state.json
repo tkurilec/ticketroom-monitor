@@ -3,8 +3,8 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 17:41:26 GMT",
-    "checked_at": "2026-10-25T17:45:16.809965+00:00"
+    "last_modified": "Sun, 25 Oct 2026 18:41:23 GMT",
+    "checked_at": "2026-10-25T18:50:15.719038+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e9f7b9abdc89ec8854c37802e6a3ae8de2089db352a0d30726a0e54cbca19bf2",
@@ -104,11 +104,11 @@
       "a:Orri Steinn Oskarsson",
       "t:Atalanta v Frosinone: Atalanta over 1.5 goals"
     ],
-    "last_modified": "Sun, 25 Oct 2026 17:41:26 GMT",
-    "checked_at": "2026-10-25T17:45:19.546081+00:00"
+    "last_modified": "Sun, 25 Oct 2026 18:41:23 GMT",
+    "checked_at": "2026-10-25T18:50:19.202660+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "b61d8091de679c58ef5112d10c4f05f2180fd1f33838e6cbbc2f33e2763ba921",
+    "hash": "9fe1014aa8795833ac5cea68706a5f8183569fa87a0ce9573dc29f0a49b0a684",
     "confirmed": [
       {
         "name": "Bell Cow",
@@ -151,6 +151,16 @@
         }
       },
       {
+        "name": "Inside the Ten",
+        "legs": [
+          "RJ Harvey"
+        ],
+        "rr": false,
+        "info": {
+          "RJ Harvey": "Broncos vs Cardinals \u00b7 Sun Oct 25 \u00b7 4:05 PM ET"
+        }
+      },
+      {
         "name": "Quick Slant",
         "legs": [
           "Xavier Hutchinson"
@@ -161,6 +171,16 @@
         }
       },
       {
+        "name": "Seam Route",
+        "legs": [
+          "Troy Franklin"
+        ],
+        "rr": false,
+        "info": {
+          "Troy Franklin": "Broncos vs Cardinals \u00b7 Sun Oct 25 \u00b7 4:05 PM ET"
+        }
+      },
+      {
         "name": "Short Yardage",
         "legs": [
           "Aaron Jones"
@@ -168,6 +188,16 @@
         "rr": false,
         "info": {
           "Aaron Jones": "Vikings vs Colts \u00b7 Sun Oct 25 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "The Checkdown",
+        "legs": [
+          "J.K. Dobbins"
+        ],
+        "rr": false,
+        "info": {
+          "J.K. Dobbins": "Broncos vs Cardinals \u00b7 Sun Oct 25 \u00b7 4:05 PM ET"
         }
       },
       {
@@ -216,14 +246,14 @@
     "hits": [
       "a:Kaelon Black"
     ],
-    "last_modified": "Sun, 25 Oct 2026 17:41:26 GMT",
-    "checked_at": "2026-10-25T17:45:20.191491+00:00"
+    "last_modified": "Sun, 25 Oct 2026 18:41:23 GMT",
+    "checked_at": "2026-10-25T18:50:20.429292+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 17:41:26 GMT",
-    "checked_at": "2026-10-25T17:45:20.375101+00:00"
+    "last_modified": "Sun, 25 Oct 2026 18:41:23 GMT",
+    "checked_at": "2026-10-25T18:50:20.709496+00:00"
   }
 }
