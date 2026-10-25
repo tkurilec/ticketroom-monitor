@@ -3,8 +3,8 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 14:16:37 GMT",
-    "checked_at": "2026-10-25T14:20:16.131189+00:00"
+    "last_modified": "Sun, 25 Oct 2026 14:31:37 GMT",
+    "checked_at": "2026-10-25T14:35:13.514710+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "6408cba811716298e5c9e29b76ad574d45c12fe9eddbe3ff4dd89fd0c1af46cb",
@@ -70,10 +70,11 @@
     ],
     "hits": [
       "a:Marcus Thuram",
-      "a:Nikola Krstovic"
+      "a:Nikola Krstovic",
+      "t:Atalanta v Frosinone: Atalanta over 1.5 goals"
     ],
-    "last_modified": "Sun, 25 Oct 2026 14:16:37 GMT",
-    "checked_at": "2026-10-25T14:20:18.551085+00:00"
+    "last_modified": "Sun, 25 Oct 2026 14:31:37 GMT",
+    "checked_at": "2026-10-25T14:35:16.155893+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "33ce34820c4b40512752f5ca4d314692336abd16e679c6e7f9c3c1824d624f08",
@@ -100,14 +101,14 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 14:16:37 GMT",
-    "checked_at": "2026-10-25T14:20:18.995839+00:00"
+    "last_modified": "Sun, 25 Oct 2026 14:31:37 GMT",
+    "checked_at": "2026-10-25T14:35:16.462093+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 14:16:37 GMT",
-    "checked_at": "2026-10-25T14:20:19.177244+00:00"
+    "last_modified": "Sun, 25 Oct 2026 14:31:37 GMT",
+    "checked_at": "2026-10-25T14:35:16.663516+00:00"
   }
 }
