@@ -3,8 +3,8 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 00:43:22 GMT",
-    "checked_at": "2026-10-25T00:45:17.662268+00:00"
+    "last_modified": "Sun, 25 Oct 2026 01:29:47 GMT",
+    "checked_at": "2026-10-25T01:30:20.601804+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "90d666fdbc6110d8d5152deda6cadd311ffba37b323e8d3dd547890e412a6cd9",
@@ -135,18 +135,18 @@
       "t:Columbus Crew v Toronto FC: Match over 2.5 goals",
       "t:Lazio v Parma: Lazio under 2.5 goals"
     ],
-    "last_modified": "Sun, 25 Oct 2026 00:43:22 GMT",
-    "checked_at": "2026-10-25T00:45:23.791108+00:00"
+    "last_modified": "Sun, 25 Oct 2026 01:29:47 GMT",
+    "checked_at": "2026-10-25T01:30:24.271932+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 00:43:22 GMT",
-    "checked_at": "2026-10-25T00:45:24.013868+00:00"
+    "last_modified": "Sun, 25 Oct 2026 01:29:47 GMT",
+    "checked_at": "2026-10-25T01:30:24.563256+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "a0eaac6368a10a8675a346e30069ebe66b650374511bd2104bfeb41beba2f691",
+    "hash": "8f1e33f682abba7cc176d435e194d50be85abfe44268f88b2e07b6ad25237408",
     "confirmed": [
       {
         "name": "Alley-Oop",
@@ -178,6 +178,22 @@
           "Kyle Kuzma": "Bucks vs 76ers \u00b7 Sat Oct 24 \u00b7 7:30 PM ET",
           "P.J. Washington Jr.": "Mavericks vs Spurs \u00b7 Sat Oct 24 \u00b7 8:00 PM ET",
           "Dyson Daniels": "Hawks vs Rockets \u00b7 Sat Oct 24 \u00b7 8:30 PM ET"
+        }
+      },
+      {
+        "name": "Garrett's Temple",
+        "legs": [
+          "Bam Adebayo",
+          "Jarrett Allen",
+          "Joel Embiid",
+          "Victor Wembanyama"
+        ],
+        "rr": true,
+        "info": {
+          "Victor Wembanyama": "Spurs vs Mavericks \u00b7 Sat Oct 24 \u00b7 8:00 PM ET",
+          "Joel Embiid": "76ers vs Bucks \u00b7 Sat Oct 24 \u00b7 7:30 PM ET",
+          "Bam Adebayo": "Heat vs Hornets \u00b7 Sat Oct 24 \u00b7 6:00 PM ET",
+          "Jarrett Allen": "Cavaliers vs Nets \u00b7 Sat Oct 24 \u00b7 7:30 PM ET"
         }
       },
       {
@@ -282,7 +298,7 @@
       "a:Dyson Daniels",
       "a:Peyton Watson"
     ],
-    "last_modified": "Sun, 25 Oct 2026 00:43:22 GMT",
-    "checked_at": "2026-10-25T00:45:25.159749+00:00"
+    "last_modified": "Sun, 25 Oct 2026 01:29:47 GMT",
+    "checked_at": "2026-10-25T01:30:25.865137+00:00"
   }
 }
