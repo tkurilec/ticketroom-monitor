@@ -3,8 +3,8 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 23:47:42 GMT",
-    "checked_at": "2026-10-24T23:50:16.020426+00:00"
+    "last_modified": "Sun, 25 Oct 2026 00:08:09 GMT",
+    "checked_at": "2026-10-25T00:10:15.592804+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "90d666fdbc6110d8d5152deda6cadd311ffba37b323e8d3dd547890e412a6cd9",
@@ -135,18 +135,18 @@
       "t:Columbus Crew v Toronto FC: Match over 2.5 goals",
       "t:Lazio v Parma: Lazio under 2.5 goals"
     ],
-    "last_modified": "Sat, 24 Oct 2026 23:47:42 GMT",
-    "checked_at": "2026-10-24T23:50:22.532876+00:00"
+    "last_modified": "Sun, 25 Oct 2026 00:08:09 GMT",
+    "checked_at": "2026-10-25T00:10:22.457672+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sat, 24 Oct 2026 23:47:42 GMT",
-    "checked_at": "2026-10-24T23:50:22.808374+00:00"
+    "last_modified": "Sun, 25 Oct 2026 00:08:09 GMT",
+    "checked_at": "2026-10-25T00:10:22.689986+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "eaee3d890c68bb36aaf5c3c26e77e70f161c6d3a29cebd1909d5dcfb9372e5c2",
+    "hash": "a0eaac6368a10a8675a346e30069ebe66b650374511bd2104bfeb41beba2f691",
     "confirmed": [
       {
         "name": "Alley-Oop",
@@ -165,6 +165,38 @@
         }
       },
       {
+        "name": "Buzzer Beater",
+        "legs": [
+          "Bam Adebayo",
+          "Dyson Daniels",
+          "Kyle Kuzma",
+          "P.J. Washington Jr."
+        ],
+        "rr": true,
+        "info": {
+          "Bam Adebayo": "Heat vs Hornets \u00b7 Sat Oct 24 \u00b7 6:00 PM ET",
+          "Kyle Kuzma": "Bucks vs 76ers \u00b7 Sat Oct 24 \u00b7 7:30 PM ET",
+          "P.J. Washington Jr.": "Mavericks vs Spurs \u00b7 Sat Oct 24 \u00b7 8:00 PM ET",
+          "Dyson Daniels": "Hawks vs Rockets \u00b7 Sat Oct 24 \u00b7 8:30 PM ET"
+        }
+      },
+      {
+        "name": "Heat Check",
+        "legs": [
+          "Bam Adebayo",
+          "Kyle Kuzma",
+          "Onyeka Okongwu",
+          "Peyton Watson"
+        ],
+        "rr": true,
+        "info": {
+          "Bam Adebayo": "Heat vs Hornets \u00b7 Sat Oct 24 \u00b7 6:00 PM ET",
+          "Kyle Kuzma": "Bucks vs 76ers \u00b7 Sat Oct 24 \u00b7 7:30 PM ET",
+          "Onyeka Okongwu": "Hawks vs Rockets \u00b7 Sat Oct 24 \u00b7 8:30 PM ET",
+          "Peyton Watson": "Cavaliers vs Nets \u00b7 Sat Oct 24 \u00b7 7:30 PM ET"
+        }
+      },
+      {
         "name": "Lob City",
         "legs": [
           "Klay Thompson",
@@ -179,12 +211,77 @@
           "Peyton Watson": "Cavaliers vs Nets \u00b7 Sat Oct 24 \u00b7 7:30 PM ET",
           "Klay Thompson": "Heat vs Hornets \u00b7 Sat Oct 24 \u00b7 6:00 PM ET"
         }
+      },
+      {
+        "name": "Run and Gun",
+        "legs": [
+          "Dyson Daniels",
+          "Joel Embiid",
+          "Naz Reid",
+          "P.J. Washington Jr."
+        ],
+        "rr": true,
+        "info": {
+          "Joel Embiid": "76ers vs Bucks \u00b7 Sat Oct 24 \u00b7 7:30 PM ET",
+          "Naz Reid": "Hornets vs Heat \u00b7 Sat Oct 24 \u00b7 6:00 PM ET",
+          "P.J. Washington Jr.": "Mavericks vs Spurs \u00b7 Sat Oct 24 \u00b7 8:00 PM ET",
+          "Dyson Daniels": "Hawks vs Rockets \u00b7 Sat Oct 24 \u00b7 8:30 PM ET"
+        }
+      },
+      {
+        "name": "Showtime",
+        "legs": [
+          "Jarrett Allen",
+          "Kyle Kuzma",
+          "Naz Reid",
+          "Onyeka Okongwu"
+        ],
+        "rr": true,
+        "info": {
+          "Jarrett Allen": "Cavaliers vs Nets \u00b7 Sat Oct 24 \u00b7 7:30 PM ET",
+          "Kyle Kuzma": "Bucks vs 76ers \u00b7 Sat Oct 24 \u00b7 7:30 PM ET",
+          "Naz Reid": "Hornets vs Heat \u00b7 Sat Oct 24 \u00b7 6:00 PM ET",
+          "Onyeka Okongwu": "Hawks vs Rockets \u00b7 Sat Oct 24 \u00b7 8:30 PM ET"
+        }
+      },
+      {
+        "name": "Skyhook",
+        "legs": [
+          "Kyle Kuzma",
+          "Naz Reid",
+          "Onyeka Okongwu",
+          "Victor Wembanyama"
+        ],
+        "rr": true,
+        "info": {
+          "Victor Wembanyama": "Spurs vs Mavericks \u00b7 Sat Oct 24 \u00b7 8:00 PM ET",
+          "Kyle Kuzma": "Bucks vs 76ers \u00b7 Sat Oct 24 \u00b7 7:30 PM ET",
+          "Naz Reid": "Hornets vs Heat \u00b7 Sat Oct 24 \u00b7 6:00 PM ET",
+          "Onyeka Okongwu": "Hawks vs Rockets \u00b7 Sat Oct 24 \u00b7 8:30 PM ET"
+        }
+      },
+      {
+        "name": "Transition",
+        "legs": [
+          "Joel Embiid",
+          "Naz Reid",
+          "Onyeka Okongwu",
+          "Peyton Watson"
+        ],
+        "rr": true,
+        "info": {
+          "Joel Embiid": "76ers vs Bucks \u00b7 Sat Oct 24 \u00b7 7:30 PM ET",
+          "Naz Reid": "Hornets vs Heat \u00b7 Sat Oct 24 \u00b7 6:00 PM ET",
+          "Onyeka Okongwu": "Hawks vs Rockets \u00b7 Sat Oct 24 \u00b7 8:30 PM ET",
+          "Peyton Watson": "Cavaliers vs Nets \u00b7 Sat Oct 24 \u00b7 7:30 PM ET"
+        }
       }
     ],
     "hits": [
+      "a:Bam Adebayo",
       "a:Peyton Watson"
     ],
-    "last_modified": "Sat, 24 Oct 2026 23:47:42 GMT",
-    "checked_at": "2026-10-24T23:50:23.957316+00:00"
+    "last_modified": "Sun, 25 Oct 2026 00:08:09 GMT",
+    "checked_at": "2026-10-25T00:10:24.176591+00:00"
   }
 }
