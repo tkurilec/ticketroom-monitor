@@ -3,11 +3,11 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 18:41:23 GMT",
-    "checked_at": "2026-10-25T18:50:15.719038+00:00"
+    "last_modified": "Sun, 25 Oct 2026 19:06:54 GMT",
+    "checked_at": "2026-10-25T19:10:16.752722+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e9f7b9abdc89ec8854c37802e6a3ae8de2089db352a0d30726a0e54cbca19bf2",
+    "hash": "c9d04ad8dc7be602053ecab9a2e9168190a0e0567e6aedcdf15c8a51483d4242",
     "confirmed": [
       {
         "name": "Back of the Net",
@@ -58,6 +58,16 @@
         }
       },
       {
+        "name": "Near Post",
+        "legs": [
+          "Raphinha"
+        ],
+        "rr": false,
+        "info": {
+          "Raphinha": "Barcelona vs Real Madrid \u00b7 Sun Oct 25 \u00b7 4:00 PM ET"
+        }
+      },
+      {
         "name": "Runs the Channel",
         "legs": [
           "Marcus Thuram"
@@ -96,6 +106,16 @@
         "info": {
           "Harry Kane": "Bayern Munich vs SC Freiburg \u00b7 Sun Oct 25 \u00b7 12:30 PM ET"
         }
+      },
+      {
+        "name": "The Nine",
+        "legs": [
+          "Kylian Mbappe"
+        ],
+        "rr": false,
+        "info": {
+          "Kylian Mbappe": "Real Madrid vs Barcelona \u00b7 Sun Oct 25 \u00b7 4:00 PM ET"
+        }
       }
     ],
     "hits": [
@@ -104,12 +124,22 @@
       "a:Orri Steinn Oskarsson",
       "t:Atalanta v Frosinone: Atalanta over 1.5 goals"
     ],
-    "last_modified": "Sun, 25 Oct 2026 18:41:23 GMT",
-    "checked_at": "2026-10-25T18:50:19.202660+00:00"
+    "last_modified": "Sun, 25 Oct 2026 19:06:54 GMT",
+    "checked_at": "2026-10-25T19:10:20.486602+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "9fe1014aa8795833ac5cea68706a5f8183569fa87a0ce9573dc29f0a49b0a684",
+    "hash": "cadf025e705fb747661eb35b52f5a2a87b46847faf2d3daf9117e32150909ccf",
     "confirmed": [
+      {
+        "name": "Audible",
+        "legs": [
+          "Pierre Strong"
+        ],
+        "rr": false,
+        "info": {
+          "Pierre Strong": "Packers vs Lions \u00b7 Sun Oct 25 \u00b7 4:25 PM ET"
+        }
+      },
       {
         "name": "Bell Cow",
         "legs": [
@@ -118,6 +148,16 @@
         "rr": false,
         "info": {
           "Chase Brown": "Bengals vs Ravens \u00b7 Sun Oct 25 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "First Read",
+        "legs": [
+          "Puka Nacua"
+        ],
+        "rr": false,
+        "info": {
+          "Puka Nacua": "Rams vs Raiders \u00b7 Sun Oct 25 \u00b7 4:25 PM ET"
         }
       },
       {
@@ -161,6 +201,16 @@
         }
       },
       {
+        "name": "Move the Chains",
+        "legs": [
+          "Sam LaPorta"
+        ],
+        "rr": false,
+        "info": {
+          "Sam LaPorta": "Lions vs Packers \u00b7 Sun Oct 25 \u00b7 4:25 PM ET"
+        }
+      },
+      {
         "name": "Quick Slant",
         "legs": [
           "Xavier Hutchinson"
@@ -168,6 +218,16 @@
         "rr": false,
         "info": {
           "Xavier Hutchinson": "Texans vs Giants \u00b7 Sun Oct 25 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "Red Zone Target",
+        "legs": [
+          "Josh Jacobs"
+        ],
+        "rr": false,
+        "info": {
+          "Josh Jacobs": "Packers vs Lions \u00b7 Sun Oct 25 \u00b7 4:25 PM ET"
         }
       },
       {
@@ -223,6 +283,16 @@
         }
       },
       {
+        "name": "The Workhorse",
+        "legs": [
+          "Amon-Ra St. Brown"
+        ],
+        "rr": false,
+        "info": {
+          "Amon-Ra St. Brown": "Lions vs Packers \u00b7 Sun Oct 25 \u00b7 4:25 PM ET"
+        }
+      },
+      {
         "name": "Two Minute Drill",
         "legs": [
           "Alvin Kamara"
@@ -246,14 +316,14 @@
     "hits": [
       "a:Kaelon Black"
     ],
-    "last_modified": "Sun, 25 Oct 2026 18:41:23 GMT",
-    "checked_at": "2026-10-25T18:50:20.429292+00:00"
+    "last_modified": "Sun, 25 Oct 2026 19:06:54 GMT",
+    "checked_at": "2026-10-25T19:10:22.236721+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 18:41:23 GMT",
-    "checked_at": "2026-10-25T18:50:20.709496+00:00"
+    "last_modified": "Sun, 25 Oct 2026 19:06:54 GMT",
+    "checked_at": "2026-10-25T19:10:22.412635+00:00"
   }
 }
