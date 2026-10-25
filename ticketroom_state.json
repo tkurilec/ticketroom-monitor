@@ -3,11 +3,11 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 15:51:47 GMT",
-    "checked_at": "2026-10-25T15:55:12.647766+00:00"
+    "last_modified": "Sun, 25 Oct 2026 16:36:41 GMT",
+    "checked_at": "2026-10-25T16:37:01.152926+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "18b870e8619809dc4b4b58e779d2024fd5cceceba9f1bb64ac87fa0f4b1c5cfb",
+    "hash": "e9f7b9abdc89ec8854c37802e6a3ae8de2089db352a0d30726a0e54cbca19bf2",
     "confirmed": [
       {
         "name": "Back of the Net",
@@ -45,6 +45,16 @@
         "rr": false,
         "info": {
           "Casper Tengstedt": "Toulouse vs Troyes \u00b7 Sun Oct 25 \u00b7 12:15 PM ET"
+        }
+      },
+      {
+        "name": "First Time",
+        "legs": [
+          "Orri Steinn Oskarsson"
+        ],
+        "rr": false,
+        "info": {
+          "Orri Steinn Oskarsson": "Real Sociedad vs Levante \u00b7 Sun Oct 25 \u00b7 1:30 PM ET"
         }
       },
       {
@@ -93,8 +103,8 @@
       "a:Nikola Krstovic",
       "t:Atalanta v Frosinone: Atalanta over 1.5 goals"
     ],
-    "last_modified": "Sun, 25 Oct 2026 15:51:47 GMT",
-    "checked_at": "2026-10-25T15:55:16.122215+00:00"
+    "last_modified": "Sun, 25 Oct 2026 16:36:41 GMT",
+    "checked_at": "2026-10-25T16:37:04.272968+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "b61d8091de679c58ef5112d10c4f05f2180fd1f33838e6cbbc2f33e2763ba921",
@@ -203,14 +213,14 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 15:51:47 GMT",
-    "checked_at": "2026-10-25T15:55:16.561527+00:00"
+    "last_modified": "Sun, 25 Oct 2026 16:36:41 GMT",
+    "checked_at": "2026-10-25T16:37:04.470260+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 15:51:47 GMT",
-    "checked_at": "2026-10-25T15:55:16.803843+00:00"
+    "last_modified": "Sun, 25 Oct 2026 16:36:41 GMT",
+    "checked_at": "2026-10-25T16:37:04.560782+00:00"
   }
 }
