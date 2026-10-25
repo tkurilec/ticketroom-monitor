@@ -3,158 +3,22 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 02:13:24 GMT",
-    "checked_at": "2026-10-25T02:20:15.615885+00:00"
+    "last_modified": "Sun, 25 Oct 2026 02:41:54 GMT",
+    "checked_at": "2026-10-25T02:45:14.696466+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e8ef7d1d6d9d811e89365c911edfb8fb6ef06e1d7f5c78d7daf353a5dafb83c3",
-    "confirmed": [
-      {
-        "name": "Back Post",
-        "legs": [
-          "Milan Iloski"
-        ],
-        "rr": false,
-        "info": {
-          "Milan Iloski": "Philadelphia Union vs New England Revolution \u00b7 Sat Oct 24 \u00b7 7:30 PM ET"
-        }
-      },
-      {
-        "name": "Big Game Player",
-        "legs": [
-          "Erling Haaland"
-        ],
-        "rr": false,
-        "info": {
-          "Erling Haaland": "Manchester City vs Aston Villa \u00b7 Sat Oct 24 \u00b7 7:30 AM ET"
-        }
-      },
-      {
-        "name": "Cutback",
-        "legs": [
-          "Bruno Damiani"
-        ],
-        "rr": false,
-        "info": {
-          "Bruno Damiani": "Philadelphia Union vs New England Revolution \u00b7 Sat Oct 24 \u00b7 7:30 PM ET"
-        }
-      },
-      {
-        "name": "Far Post",
-        "legs": [
-          "Tai Baribo"
-        ],
-        "rr": false,
-        "info": {
-          "Tai Baribo": "D.C. United vs FC Cincinnati \u00b7 Sat Oct 24 \u00b7 7:30 PM ET"
-        }
-      },
-      {
-        "name": "Low and Hard",
-        "legs": [
-          "Vincent Janssen"
-        ],
-        "rr": false,
-        "info": {
-          "Vincent Janssen": "Portland Timbers vs Charlotte FC \u00b7 Sat Oct 24 \u00b7 10:30 PM ET"
-        }
-      },
-      {
-        "name": "Near Post",
-        "legs": [
-          "Erling Haaland"
-        ],
-        "rr": false,
-        "info": {
-          "Erling Haaland": "Manchester City vs Aston Villa \u00b7 Sat Oct 24 \u00b7 7:30 AM ET"
-        }
-      },
-      {
-        "name": "Rebound",
-        "legs": [
-          "Ahoueke Denkey"
-        ],
-        "rr": false,
-        "info": {
-          "Ahoueke Denkey": "FC Cincinnati vs D.C. United \u00b7 Sat Oct 24 \u00b7 7:30 PM ET"
-        }
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Serhou Guirassy"
-        ],
-        "rr": false,
-        "info": {
-          "Serhou Guirassy": "Borussia Dortmund vs Eintracht Frankfurt \u00b7 Sat Oct 24 \u00b7 12:30 PM ET"
-        }
-      },
-      {
-        "name": "Tap-In",
-        "legs": [
-          "Anastasios Douvikas"
-        ],
-        "rr": false,
-        "info": {
-          "Anastasios Douvikas": "Como vs Sassuolo \u00b7 Sat Oct 24 \u00b7 9:00 AM ET"
-        }
-      },
-      {
-        "name": "The Goal Rush",
-        "legs": [
-          "Cagliari v Bologna: Cagliari to score",
-          "Columbus Crew v Toronto FC: Match over 2.5 goals",
-          "Lazio v Parma: Lazio under 2.5 goals",
-          "RB Leipzig v SV Elversberg: Both teams to score"
-        ],
-        "rr": false,
-        "market": "",
-        "kind": "totals",
-        "info": {
-          "Cagliari v Bologna: Cagliari to score": "Sat Oct 24 \u00b7 9:00 AM ET",
-          "Columbus Crew v Toronto FC: Match over 2.5 goals": "Sat Oct 24 \u00b7 3:30 PM ET",
-          "RB Leipzig v SV Elversberg: Both teams to score": "Sat Oct 24 \u00b7 9:30 AM ET",
-          "Lazio v Parma: Lazio under 2.5 goals": "Sat Oct 24 \u00b7 2:45 PM ET"
-        }
-      },
-      {
-        "name": "The Nine",
-        "legs": [
-          "Sam Surridge"
-        ],
-        "rr": false,
-        "info": {
-          "Sam Surridge": "Nashville SC vs CF Montr\u00e9al \u00b7 Sat Oct 24 \u00b7 1:30 PM ET"
-        }
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Petar Musa"
-        ],
-        "rr": false,
-        "info": {
-          "Petar Musa": "FC Dallas vs San Jose Earthquakes \u00b7 Sat Oct 24 \u00b7 8:30 PM ET"
-        }
-      }
-    ],
-    "hits": [
-      "a:Anastasios Douvikas",
-      "a:Erling Haaland",
-      "a:Petar Musa",
-      "a:Sam Surridge",
-      "t:Columbus Crew v Toronto FC: Match over 2.5 goals",
-      "t:Lazio v Parma: Lazio under 2.5 goals"
-    ],
-    "last_modified": "Sun, 25 Oct 2026 02:13:24 GMT",
-    "checked_at": "2026-10-25T02:20:21.811120+00:00"
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "hits": [],
+    "last_modified": "Sun, 25 Oct 2026 02:41:54 GMT",
+    "checked_at": "2026-10-25T02:45:14.981661+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 02:13:24 GMT",
-    "checked_at": "2026-10-25T02:20:22.074340+00:00"
+    "last_modified": "Sun, 25 Oct 2026 02:41:54 GMT",
+    "checked_at": "2026-10-25T02:45:15.251371+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "8f1e33f682abba7cc176d435e194d50be85abfe44268f88b2e07b6ad25237408",
@@ -309,7 +173,7 @@
       "a:Dyson Daniels",
       "a:Peyton Watson"
     ],
-    "last_modified": "Sun, 25 Oct 2026 02:13:24 GMT",
-    "checked_at": "2026-10-25T02:20:23.262645+00:00"
+    "last_modified": "Sun, 25 Oct 2026 02:41:54 GMT",
+    "checked_at": "2026-10-25T02:45:16.450848+00:00"
   }
 }
