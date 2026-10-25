@@ -3,11 +3,11 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 05:34:45 GMT",
-    "checked_at": "2026-10-25T05:35:12.863711+00:00"
+    "last_modified": "Sun, 25 Oct 2026 10:51:51 GMT",
+    "checked_at": "2026-10-25T10:55:14.153772+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "c4c5771d874cf6e60a7f26bf24b99b53112a6be47349f910b5f564a6ef6e02e7",
+    "hash": "c19d8d0375224826c80b6b3671335d89c5736ca3ce799d33f040b01e752e4899",
     "confirmed": [
       {
         "name": "Back of the Net",
@@ -26,24 +26,34 @@
           "Udinese v AC Milan: Udinese to score": "Sun Oct 25 \u00b7 3:45 PM ET",
           "Atalanta v Frosinone: Atalanta over 1.5 goals": "Sun Oct 25 \u00b7 10:00 AM ET"
         }
+      },
+      {
+        "name": "Runs the Channel",
+        "legs": [
+          "Marcus Thuram"
+        ],
+        "rr": false,
+        "info": {
+          "Marcus Thuram": "Internazionale vs Fiorentina \u00b7 Sun Oct 25 \u00b7 7:30 AM ET"
+        }
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 05:34:45 GMT",
-    "checked_at": "2026-10-25T05:35:14.614117+00:00"
+    "last_modified": "Sun, 25 Oct 2026 10:51:51 GMT",
+    "checked_at": "2026-10-25T10:55:19.155128+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 05:34:45 GMT",
-    "checked_at": "2026-10-25T05:35:15.090175+00:00"
+    "last_modified": "Sun, 25 Oct 2026 10:51:51 GMT",
+    "checked_at": "2026-10-25T10:55:19.519712+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 05:34:45 GMT",
-    "checked_at": "2026-10-25T05:35:15.395530+00:00"
+    "last_modified": "Sun, 25 Oct 2026 10:51:51 GMT",
+    "checked_at": "2026-10-25T10:55:19.829742+00:00"
   }
 }
