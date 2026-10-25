@@ -153,11 +153,13 @@ def fetch_nfl_live_tds(leg_names: set, date_yyyymmdd: str | None = None) -> set:
 
 
 def fetch_nba_first_baskets(leg_names: set, date_yyyymmdd: str | None = None) -> set:
-    """Check ESPN NBA play-by-play for each game's first made basket.
+    """Check ESPN NBA play-by-play for each game's first points.
 
-    The first scoring play worth 2+ points settles the first-basket market
-    (free throws don't count); ESPN play text leads with the scorer
-    ("Jayson Tatum makes driving layup").
+    The market grades on FIRST POINTS (per the user 2026-10-25 — a Jarrett
+    Allen free throw cashed it), so the game's first scoring play of any
+    value settles it, free throws included. ESPN play text leads with the
+    scorer ("Jayson Tatum makes driving layup", "Jarrett Allen makes free
+    throw 1 of 2").
     """
     if not leg_names:
         return set()
@@ -178,14 +180,12 @@ def fetch_nba_first_baskets(leg_names: set, date_yyyymmdd: str | None = None) ->
             for play in summ.get("plays") or []:
                 if not play.get("scoringPlay"):
                     continue
-                if (play.get("scoreValue") or 0) < 2:
-                    continue  # free throws don't settle first basket
                 scorer_seg = _norm_name(
                     (play.get("text") or "").split(" makes")[0])
                 for nn, orig in want.items():
                     if nn and nn in scorer_seg:
                         found.add(orig)
-                break  # only the game's first made basket counts
+                break  # only the game's first points count
     except Exception as exc:
         print(f"WARNING: ESPN first-basket check failed: {exc}")
     return found
