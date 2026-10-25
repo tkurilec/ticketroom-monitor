@@ -699,10 +699,15 @@ def check_all() -> None:
             # Only tokens that belong to a confirmed ticket's legs count.
             hits = sorted(hits & leg_tokens)
         else:
-            # Page structure changed and the slate data couldn't be parsed —
-            # fall back to raw-page hashing so changes are never missed.
-            print(f"WARNING: could not parse slate data on {name}, "
-                  f"falling back to raw page hash")
+            # Slate data couldn't be parsed. If we have prior state, treat it
+            # as a transient glitch (a board caught mid-deploy once wiped
+            # memory and caused a duplicate hit blast, 2026-10-24): keep the
+            # old state untouched and try again next run. Raw-page hashing
+            # only applies when there is no prior state at all.
+            print(f"WARNING: could not parse slate data on {name}")
+            if state.get(url) is not None:
+                print("  (keeping previous state, will retry next run)")
+                continue
             digest = hashlib.sha256(body).hexdigest()
             confirmed = hits = None
         prev = state.get(url)
@@ -724,8 +729,9 @@ def check_all() -> None:
         # Mid-game hit alerts. "hits" missing from prev means this is the
         # feature's first run — baseline silently so a live slate doesn't
         # dump stale homer alerts. Same for pre-token-format hit lists.
-        if prev is not None and hits is not None and "hits" in prev:
-            prev_hits = prev.get("hits") or []
+        if (prev is not None and hits is not None
+                and isinstance(prev.get("hits"), list)):
+            prev_hits = prev["hits"]
             if any(":" not in h for h in prev_hits):
                 print("  (hit-token format migration — baselining silently)")
             else:
