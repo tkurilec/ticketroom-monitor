@@ -3,11 +3,11 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 15:41:50 GMT",
-    "checked_at": "2026-10-25T15:45:15.191274+00:00"
+    "last_modified": "Sun, 25 Oct 2026 15:51:47 GMT",
+    "checked_at": "2026-10-25T15:55:12.647766+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "c7bb6ae2818f505049b8e8c5a4fb51d7d2468c64579f1a37ea19db5b34e5d44f",
+    "hash": "18b870e8619809dc4b4b58e779d2024fd5cceceba9f1bb64ac87fa0f4b1c5cfb",
     "confirmed": [
       {
         "name": "Back of the Net",
@@ -76,6 +76,16 @@
         "info": {
           "Nikola Krstovic": "Atalanta vs Frosinone \u00b7 Sun Oct 25 \u00b7 10:00 AM ET"
         }
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Harry Kane"
+        ],
+        "rr": false,
+        "info": {
+          "Harry Kane": "Bayern Munich vs SC Freiburg \u00b7 Sun Oct 25 \u00b7 12:30 PM ET"
+        }
       }
     ],
     "hits": [
@@ -83,8 +93,8 @@
       "a:Nikola Krstovic",
       "t:Atalanta v Frosinone: Atalanta over 1.5 goals"
     ],
-    "last_modified": "Sun, 25 Oct 2026 15:41:50 GMT",
-    "checked_at": "2026-10-25T15:45:17.288045+00:00"
+    "last_modified": "Sun, 25 Oct 2026 15:51:47 GMT",
+    "checked_at": "2026-10-25T15:55:16.122215+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "b61d8091de679c58ef5112d10c4f05f2180fd1f33838e6cbbc2f33e2763ba921",
@@ -193,14 +203,14 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 15:41:50 GMT",
-    "checked_at": "2026-10-25T15:45:17.844691+00:00"
+    "last_modified": "Sun, 25 Oct 2026 15:51:47 GMT",
+    "checked_at": "2026-10-25T15:55:16.561527+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 15:41:50 GMT",
-    "checked_at": "2026-10-25T15:45:18.100837+00:00"
+    "last_modified": "Sun, 25 Oct 2026 15:51:47 GMT",
+    "checked_at": "2026-10-25T15:55:16.803843+00:00"
   }
 }
