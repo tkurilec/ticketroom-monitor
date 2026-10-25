@@ -3,8 +3,8 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 22:11:48 GMT",
-    "checked_at": "2026-10-25T22:15:14.727696+00:00"
+    "last_modified": "Sun, 25 Oct 2026 22:26:39 GMT",
+    "checked_at": "2026-10-25T22:30:19.000279+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "c9d04ad8dc7be602053ecab9a2e9168190a0e0567e6aedcdf15c8a51483d4242",
@@ -126,8 +126,8 @@
       "a:Raphinha",
       "t:Atalanta v Frosinone: Atalanta over 1.5 goals"
     ],
-    "last_modified": "Sun, 25 Oct 2026 22:11:48 GMT",
-    "checked_at": "2026-10-25T22:15:17.896062+00:00"
+    "last_modified": "Sun, 25 Oct 2026 22:26:39 GMT",
+    "checked_at": "2026-10-25T22:30:21.923209+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "cadf025e705fb747661eb35b52f5a2a87b46847faf2d3daf9117e32150909ccf",
@@ -317,14 +317,15 @@
     ],
     "hits": [
       "a:Cam Skattebo",
+      "a:J.K. Dobbins",
       "a:Josh Jacobs",
       "a:Kaelon Black",
       "a:Puka Nacua",
       "a:RJ Harvey",
       "a:Xavier Hutchinson"
     ],
-    "last_modified": "Sun, 25 Oct 2026 22:11:48 GMT",
-    "checked_at": "2026-10-25T22:15:19.223992+00:00"
+    "last_modified": "Sun, 25 Oct 2026 22:26:39 GMT",
+    "checked_at": "2026-10-25T22:30:23.745829+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "f04d45e3df8f73bda7a66e494cfeb1e94cc4ddec6fb51fa7dd6e64f008fd3e76",
@@ -478,7 +479,7 @@
       "a:Ivica Zubac",
       "a:Luka Doncic"
     ],
-    "last_modified": "Sun, 25 Oct 2026 22:11:48 GMT",
-    "checked_at": "2026-10-25T22:15:20.068879+00:00"
+    "last_modified": "Sun, 25 Oct 2026 22:26:39 GMT",
+    "checked_at": "2026-10-25T22:30:24.309537+00:00"
   }
 }
