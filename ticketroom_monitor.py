@@ -448,27 +448,32 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
         except Exception as exc:  # zoneinfo/tzdata missing on some hosts
             print(f"WARNING: kickoff-time check skipped: {exc}")
 
-    def leg_started(leg: dict) -> bool:
-        if now_mins is None:
-            return False
+    def gtime_mins(leg: dict):
         m2 = re.search(r"(\d{1,2}):(\d{2})\s*(AM|PM)", leg.get("gtime") or "")
         if not m2:
-            return False
+            return None
         h, mi = int(m2.group(1)) % 12, int(m2.group(2))
-        start = h * 60 + mi + (720 if m2.group(3) == "PM" else 0)
-        return now_mins >= start - early_min
+        return h * 60 + mi + (720 if m2.group(3) == "PM" else 0)
 
     pdata = data.get("players") or {}
 
-    def leg_confirmed(leg: dict) -> bool:
-        # A scratched/voided player blocks his ticket — matters most in the
-        # early-confirm window between lineups posting and kickoff.
+    def leg_available(leg: dict) -> bool:
         p = pdata.get(leg.get("name")) or {}
-        if p.get("out") or p.get("void"):
-            return False
+        return not (p.get("out") or p.get("void"))
+
+    def leg_confirmed(leg: dict) -> bool:
         return (leg.get("status") == "confirmed"
-                or str(leg.get("game")) in started_games
-                or leg_started(leg))
+                or str(leg.get("game")) in started_games)
+
+    def ticket_clock_ok(legs: list) -> bool:
+        # The bet window closes at the ticket's EARLIEST game (its lock), so
+        # the clock launches the whole ticket early_min minutes before that —
+        # waiting on each leg's own game would post multi-game tickets after
+        # their first legs had already started (NBA incident 2026-10-24).
+        if not early_min or now_mins is None:
+            return False
+        times = [t for t in (gtime_mins(l) for l in legs) if t is not None]
+        return bool(times) and now_mins >= min(times) - early_min
 
     # meta.ftd is the "pick of the day" ticket — regular player legs that live
     # outside the tickets list; treat it like any other ticket.
@@ -513,7 +518,9 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
     confirmed = []
     for t in tickets_src:
         legs = t.get("players", [])
-        if legs and all(leg_confirmed(leg) for leg in legs):
+        if (legs and all(leg_available(leg) for leg in legs)
+                and (all(leg_confirmed(leg) for leg in legs)
+                     or ticket_clock_ok(legs))):
             ent = {
                 "name": t.get("name"),
                 "legs": sorted(leg.get("name") for leg in legs if leg.get("name")),
