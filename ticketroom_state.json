@@ -3,8 +3,8 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 15:36:48 GMT",
-    "checked_at": "2026-10-25T15:40:15.847323+00:00"
+    "last_modified": "Sun, 25 Oct 2026 15:41:50 GMT",
+    "checked_at": "2026-10-25T15:45:15.191274+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "c7bb6ae2818f505049b8e8c5a4fb51d7d2468c64579f1a37ea19db5b34e5d44f",
@@ -83,12 +83,22 @@
       "a:Nikola Krstovic",
       "t:Atalanta v Frosinone: Atalanta over 1.5 goals"
     ],
-    "last_modified": "Sun, 25 Oct 2026 15:36:48 GMT",
-    "checked_at": "2026-10-25T15:40:20.178325+00:00"
+    "last_modified": "Sun, 25 Oct 2026 15:41:50 GMT",
+    "checked_at": "2026-10-25T15:45:17.288045+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "bde8b3f523a65313921cbd326a5f1f83ab8fc05d92aefc3976dd517381aea95a",
+    "hash": "b61d8091de679c58ef5112d10c4f05f2180fd1f33838e6cbbc2f33e2763ba921",
     "confirmed": [
+      {
+        "name": "Bell Cow",
+        "legs": [
+          "Chase Brown"
+        ],
+        "rr": false,
+        "info": {
+          "Chase Brown": "Bengals vs Ravens \u00b7 Sun Oct 25 \u00b7 1:00 PM ET"
+        }
+      },
       {
         "name": "Goal Line Back",
         "legs": [
@@ -97,6 +107,26 @@
         "rr": false,
         "info": {
           "Kayshon Boutte": "Texans vs Giants \u00b7 Sun Oct 25 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "Hard Count",
+        "legs": [
+          "Kaelon Black"
+        ],
+        "rr": false,
+        "info": {
+          "Kaelon Black": "49ers vs Falcons \u00b7 Sun Oct 25 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "Hurry Up",
+        "legs": [
+          "Cam Skattebo"
+        ],
+        "rr": false,
+        "info": {
+          "Cam Skattebo": "Giants vs Texans \u00b7 Sun Oct 25 \u00b7 1:00 PM ET"
         }
       },
       {
@@ -120,6 +150,18 @@
         }
       },
       {
+        "name": "The Opener",
+        "legs": [
+          "Derrick Henry"
+        ],
+        "rr": false,
+        "info": {
+          "Derrick Henry": "Ravens vs Bengals \u00b7 Sun Oct 25 \u00b7 1:00 PM ET"
+        },
+        "market": "first touchdown scorer",
+        "kind": "ftd"
+      },
+      {
         "name": "The Sneak",
         "legs": [
           "Rico Dowdle"
@@ -138,17 +180,27 @@
         "info": {
           "Alvin Kamara": "Saints vs Steelers \u00b7 Sun Oct 25 \u00b7 9:30 AM ET"
         }
+      },
+      {
+        "name": "Wheel Route",
+        "legs": [
+          "John Metchie III"
+        ],
+        "rr": false,
+        "info": {
+          "John Metchie III": "Panthers vs Buccaneers \u00b7 Sun Oct 25 \u00b7 1:00 PM ET"
+        }
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 15:36:48 GMT",
-    "checked_at": "2026-10-25T15:40:21.025861+00:00"
+    "last_modified": "Sun, 25 Oct 2026 15:41:50 GMT",
+    "checked_at": "2026-10-25T15:45:17.844691+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 15:36:48 GMT",
-    "checked_at": "2026-10-25T15:40:21.260150+00:00"
+    "last_modified": "Sun, 25 Oct 2026 15:41:50 GMT",
+    "checked_at": "2026-10-25T15:45:18.100837+00:00"
   }
 }
