@@ -3,8 +3,8 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 20:41:57 GMT",
-    "checked_at": "2026-10-25T20:45:17.621087+00:00"
+    "last_modified": "Sun, 25 Oct 2026 20:52:45 GMT",
+    "checked_at": "2026-10-25T20:55:14.279817+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "c9d04ad8dc7be602053ecab9a2e9168190a0e0567e6aedcdf15c8a51483d4242",
@@ -125,8 +125,8 @@
       "a:Orri Steinn Oskarsson",
       "t:Atalanta v Frosinone: Atalanta over 1.5 goals"
     ],
-    "last_modified": "Sun, 25 Oct 2026 20:41:57 GMT",
-    "checked_at": "2026-10-25T20:45:20.632264+00:00"
+    "last_modified": "Sun, 25 Oct 2026 20:52:45 GMT",
+    "checked_at": "2026-10-25T20:55:17.173797+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "cadf025e705fb747661eb35b52f5a2a87b46847faf2d3daf9117e32150909ccf",
@@ -319,14 +319,159 @@
       "a:Kaelon Black",
       "a:Xavier Hutchinson"
     ],
-    "last_modified": "Sun, 25 Oct 2026 20:41:57 GMT",
-    "checked_at": "2026-10-25T20:45:21.666972+00:00"
+    "last_modified": "Sun, 25 Oct 2026 20:52:45 GMT",
+    "checked_at": "2026-10-25T20:55:18.362495+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "f04d45e3df8f73bda7a66e494cfeb1e94cc4ddec6fb51fa7dd6e64f008fd3e76",
+    "confirmed": [
+      {
+        "name": "Alley-Oop",
+        "legs": [
+          "Isaiah Jackson",
+          "Ivica Zubac",
+          "Jaren Jackson Jr.",
+          "Paul Reed"
+        ],
+        "rr": true,
+        "info": {
+          "Ivica Zubac": "Pacers vs Nets \u00b7 Sun Oct 25 \u00b7 6:00 PM ET",
+          "Jaren Jackson Jr.": "Jazz vs Lakers \u00b7 Sun Oct 25 \u00b7 5:00 PM ET",
+          "Paul Reed": "Pistons vs 76ers \u00b7 Sun Oct 25 \u00b7 7:30 PM ET",
+          "Isaiah Jackson": "Clippers vs Thunder \u00b7 Sun Oct 25 \u00b7 7:00 PM ET"
+        }
+      },
+      {
+        "name": "Buzzer Beater",
+        "legs": [
+          "Chet Holmgren",
+          "Isaiah Stewart",
+          "Jaren Jackson Jr.",
+          "Paul Reed"
+        ],
+        "rr": true,
+        "info": {
+          "Chet Holmgren": "Thunder vs Clippers \u00b7 Sun Oct 25 \u00b7 7:00 PM ET",
+          "Jaren Jackson Jr.": "Jazz vs Lakers \u00b7 Sun Oct 25 \u00b7 5:00 PM ET",
+          "Paul Reed": "Pistons vs 76ers \u00b7 Sun Oct 25 \u00b7 7:30 PM ET",
+          "Isaiah Stewart": "Grizzlies vs Kings \u00b7 Sun Oct 25 \u00b7 9:00 PM ET"
+        }
+      },
+      {
+        "name": "Count On Me",
+        "legs": [
+          "Chet Holmgren",
+          "Domantas Sabonis",
+          "Ivica Zubac",
+          "Luka Doncic"
+        ],
+        "rr": true,
+        "info": {
+          "Luka Doncic": "Lakers vs Jazz \u00b7 Sun Oct 25 \u00b7 5:00 PM ET",
+          "Domantas Sabonis": "Kings vs Grizzlies \u00b7 Sun Oct 25 \u00b7 9:00 PM ET",
+          "Chet Holmgren": "Thunder vs Clippers \u00b7 Sun Oct 25 \u00b7 7:00 PM ET",
+          "Ivica Zubac": "Pacers vs Nets \u00b7 Sun Oct 25 \u00b7 6:00 PM ET"
+        }
+      },
+      {
+        "name": "Full Court",
+        "legs": [
+          "Isaiah Stewart",
+          "Ivica Zubac",
+          "Jaren Jackson Jr.",
+          "John Collins"
+        ],
+        "rr": true,
+        "info": {
+          "Ivica Zubac": "Pacers vs Nets \u00b7 Sun Oct 25 \u00b7 6:00 PM ET",
+          "Jaren Jackson Jr.": "Jazz vs Lakers \u00b7 Sun Oct 25 \u00b7 5:00 PM ET",
+          "Isaiah Stewart": "Grizzlies vs Kings \u00b7 Sun Oct 25 \u00b7 9:00 PM ET",
+          "John Collins": "Pistons vs 76ers \u00b7 Sun Oct 25 \u00b7 7:30 PM ET"
+        }
+      },
+      {
+        "name": "Heat Check",
+        "legs": [
+          "Day'Ron Sharpe",
+          "Domantas Sabonis",
+          "Jaren Jackson Jr.",
+          "John Collins"
+        ],
+        "rr": true,
+        "info": {
+          "Domantas Sabonis": "Kings vs Grizzlies \u00b7 Sun Oct 25 \u00b7 9:00 PM ET",
+          "Jaren Jackson Jr.": "Jazz vs Lakers \u00b7 Sun Oct 25 \u00b7 5:00 PM ET",
+          "John Collins": "Pistons vs 76ers \u00b7 Sun Oct 25 \u00b7 7:30 PM ET",
+          "Day'Ron Sharpe": "Nets vs Pacers \u00b7 Sun Oct 25 \u00b7 6:00 PM ET"
+        }
+      },
+      {
+        "name": "Lob City",
+        "legs": [
+          "Isaiah Jackson",
+          "Isaiah Stewart",
+          "Luka Doncic",
+          "Paul Reed"
+        ],
+        "rr": true,
+        "info": {
+          "Luka Doncic": "Lakers vs Jazz \u00b7 Sun Oct 25 \u00b7 5:00 PM ET",
+          "Paul Reed": "Pistons vs 76ers \u00b7 Sun Oct 25 \u00b7 7:30 PM ET",
+          "Isaiah Jackson": "Clippers vs Thunder \u00b7 Sun Oct 25 \u00b7 7:00 PM ET",
+          "Isaiah Stewart": "Grizzlies vs Kings \u00b7 Sun Oct 25 \u00b7 9:00 PM ET"
+        }
+      },
+      {
+        "name": "Run and Gun",
+        "legs": [
+          "Domantas Sabonis",
+          "Isaiah Jackson",
+          "Jaren Jackson Jr.",
+          "Paul Reed"
+        ],
+        "rr": true,
+        "info": {
+          "Domantas Sabonis": "Kings vs Grizzlies \u00b7 Sun Oct 25 \u00b7 9:00 PM ET",
+          "Jaren Jackson Jr.": "Jazz vs Lakers \u00b7 Sun Oct 25 \u00b7 5:00 PM ET",
+          "Paul Reed": "Pistons vs 76ers \u00b7 Sun Oct 25 \u00b7 7:30 PM ET",
+          "Isaiah Jackson": "Clippers vs Thunder \u00b7 Sun Oct 25 \u00b7 7:00 PM ET"
+        }
+      },
+      {
+        "name": "Showtime",
+        "legs": [
+          "Chet Holmgren",
+          "Day'Ron Sharpe",
+          "Jaren Jackson Jr.",
+          "John Collins"
+        ],
+        "rr": true,
+        "info": {
+          "Chet Holmgren": "Thunder vs Clippers \u00b7 Sun Oct 25 \u00b7 7:00 PM ET",
+          "Jaren Jackson Jr.": "Jazz vs Lakers \u00b7 Sun Oct 25 \u00b7 5:00 PM ET",
+          "John Collins": "Pistons vs 76ers \u00b7 Sun Oct 25 \u00b7 7:30 PM ET",
+          "Day'Ron Sharpe": "Nets vs Pacers \u00b7 Sun Oct 25 \u00b7 6:00 PM ET"
+        }
+      },
+      {
+        "name": "Transition",
+        "legs": [
+          "Day'Ron Sharpe",
+          "Luka Doncic",
+          "Paul Reed",
+          "Wendell Carter Jr."
+        ],
+        "rr": true,
+        "info": {
+          "Luka Doncic": "Lakers vs Jazz \u00b7 Sun Oct 25 \u00b7 5:00 PM ET",
+          "Paul Reed": "Pistons vs 76ers \u00b7 Sun Oct 25 \u00b7 7:30 PM ET",
+          "Day'Ron Sharpe": "Nets vs Pacers \u00b7 Sun Oct 25 \u00b7 6:00 PM ET",
+          "Wendell Carter Jr.": "Magic vs Knicks \u00b7 Sun Oct 25 \u00b7 7:00 PM ET"
+        }
+      }
+    ],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 20:41:57 GMT",
-    "checked_at": "2026-10-25T20:45:21.931447+00:00"
+    "last_modified": "Sun, 25 Oct 2026 20:52:45 GMT",
+    "checked_at": "2026-10-25T20:55:19.045901+00:00"
   }
 }
