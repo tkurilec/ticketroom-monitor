@@ -3,8 +3,8 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 10:51:51 GMT",
-    "checked_at": "2026-10-25T10:55:14.153772+00:00"
+    "last_modified": "Sun, 25 Oct 2026 12:11:43 GMT",
+    "checked_at": "2026-10-25T12:15:15.870079+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "c19d8d0375224826c80b6b3671335d89c5736ca3ce799d33f040b01e752e4899",
@@ -39,21 +39,42 @@
       }
     ],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 10:51:51 GMT",
-    "checked_at": "2026-10-25T10:55:19.155128+00:00"
+    "last_modified": "Sun, 25 Oct 2026 12:11:43 GMT",
+    "checked_at": "2026-10-25T12:15:19.147757+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "33ce34820c4b40512752f5ca4d314692336abd16e679c6e7f9c3c1824d624f08",
+    "confirmed": [
+      {
+        "name": "The Sneak",
+        "legs": [
+          "Rico Dowdle"
+        ],
+        "rr": false,
+        "info": {
+          "Rico Dowdle": "Steelers vs Saints \u00b7 Sun Oct 25 \u00b7 9:30 AM ET"
+        }
+      },
+      {
+        "name": "Two Minute Drill",
+        "legs": [
+          "Alvin Kamara"
+        ],
+        "rr": false,
+        "info": {
+          "Alvin Kamara": "Saints vs Steelers \u00b7 Sun Oct 25 \u00b7 9:30 AM ET"
+        }
+      }
+    ],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 10:51:51 GMT",
-    "checked_at": "2026-10-25T10:55:19.519712+00:00"
+    "last_modified": "Sun, 25 Oct 2026 12:11:43 GMT",
+    "checked_at": "2026-10-25T12:15:19.892943+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 10:51:51 GMT",
-    "checked_at": "2026-10-25T10:55:19.829742+00:00"
+    "last_modified": "Sun, 25 Oct 2026 12:11:43 GMT",
+    "checked_at": "2026-10-25T12:15:20.150908+00:00"
   }
 }
