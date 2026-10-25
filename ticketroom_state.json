@@ -3,28 +3,47 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 03:51:26 GMT",
-    "checked_at": "2026-10-25T04:00:22.456256+00:00"
+    "last_modified": "Sun, 25 Oct 2026 05:34:45 GMT",
+    "checked_at": "2026-10-25T05:35:12.863711+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "c4c5771d874cf6e60a7f26bf24b99b53112a6be47349f910b5f564a6ef6e02e7",
+    "confirmed": [
+      {
+        "name": "Back of the Net",
+        "legs": [
+          "Atalanta v Frosinone: Atalanta over 1.5 goals",
+          "Genoa v Venezia: Venezia to score",
+          "Liverpool v Brighton & Hove Albion: Both teams to score",
+          "Udinese v AC Milan: Udinese to score"
+        ],
+        "rr": false,
+        "market": "",
+        "kind": "totals",
+        "info": {
+          "Genoa v Venezia: Venezia to score": "Sun Oct 25 \u00b7 10:00 AM ET",
+          "Liverpool v Brighton & Hove Albion: Both teams to score": "Sun Oct 25 \u00b7 10:00 AM ET",
+          "Udinese v AC Milan: Udinese to score": "Sun Oct 25 \u00b7 3:45 PM ET",
+          "Atalanta v Frosinone: Atalanta over 1.5 goals": "Sun Oct 25 \u00b7 10:00 AM ET"
+        }
+      }
+    ],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 03:51:26 GMT",
-    "checked_at": "2026-10-25T04:00:22.722000+00:00"
+    "last_modified": "Sun, 25 Oct 2026 05:34:45 GMT",
+    "checked_at": "2026-10-25T05:35:14.614117+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 03:51:26 GMT",
-    "checked_at": "2026-10-25T04:00:23.054070+00:00"
+    "last_modified": "Sun, 25 Oct 2026 05:34:45 GMT",
+    "checked_at": "2026-10-25T05:35:15.090175+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Sun, 25 Oct 2026 03:51:26 GMT",
-    "checked_at": "2026-10-25T04:00:23.255667+00:00"
+    "last_modified": "Sun, 25 Oct 2026 05:34:45 GMT",
+    "checked_at": "2026-10-25T05:35:15.395530+00:00"
   }
 }
