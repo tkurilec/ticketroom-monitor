@@ -3,8 +3,8 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Mon, 26 Oct 2026 18:47:52 GMT",
-    "checked_at": "2026-10-26T18:48:12.493480+00:00"
+    "last_modified": "Mon, 26 Oct 2026 21:02:06 GMT",
+    "checked_at": "2026-10-26T21:02:14.148388+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "5f1fc4d4059a11c4a6c77cb48f829a5dc4c6de717bae743bef11292559c89fb3",
@@ -42,22 +42,24 @@
         }
       }
     ],
-    "hits": [],
-    "last_modified": "Mon, 26 Oct 2026 18:47:52 GMT",
-    "checked_at": "2026-10-26T18:48:13.724653+00:00"
+    "hits": [
+      "a:Ferran Torres"
+    ],
+    "last_modified": "Mon, 26 Oct 2026 21:02:06 GMT",
+    "checked_at": "2026-10-26T21:02:15.076773+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Mon, 26 Oct 2026 18:47:52 GMT",
-    "checked_at": "2026-10-26T18:48:14.206188+00:00"
+    "last_modified": "Mon, 26 Oct 2026 21:02:06 GMT",
+    "checked_at": "2026-10-26T21:02:15.217311+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Mon, 26 Oct 2026 18:47:52 GMT",
-    "checked_at": "2026-10-26T18:48:14.451921+00:00"
+    "last_modified": "Mon, 26 Oct 2026 21:02:06 GMT",
+    "checked_at": "2026-10-26T21:02:15.370901+00:00"
   }
 }
