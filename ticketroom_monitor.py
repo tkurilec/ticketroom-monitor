@@ -298,7 +298,8 @@ HIT_STYLE = {
 
 
 def entry_leg_tokens(ent: dict) -> list:
-    prefix = {"totals": "t", "ftd": "ftd"}.get(ent.get("kind") or "", "a")
+    prefix = {"totals": "t", "ftd": "ftd",
+              "downtown": "dt"}.get(ent.get("kind") or "", "a")
     return [f"{prefix}:{l}" for l in ent["legs"]]
 
 
@@ -306,6 +307,8 @@ def token_line(tok: str, board: str) -> str:
     scope, _, nm = tok.partition(":")
     if scope == "ftd":
         return f"🏁 **{nm}** scored the FIRST TD!"
+    if scope == "dt":
+        return f"🎯 **{nm}** cleared his threes line!"
     if scope == "t":
         return f"🧤 **{nm}** — hit!"
     emoji, verb = HIT_STYLE.get(board, ("🎯", "hit"))
@@ -430,7 +433,13 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
     if slate_date and _et_date("%Y-%m-%d") > str(slate_date):
         return {"confirmed": [], "hits": []}
 
-    started_games = {str(g) for g in (meta.get("gs") or {})}
+    # gs maps game -> state. Soccer only lists live games, but the NBA
+    # pipeline lists every game including "pre" — so only live/finished
+    # VALUES count as started, never mere presence (2026-10-26 incident:
+    # all-"pre" gs launched the whole board at 1 PM).
+    started_games = {str(g) for g, v in (meta.get("gs") or {}).items()
+                     if str(v).lower() in ("live", "in", "inprogress",
+                                           "halftime", "ht", "final", "post")}
     started_games |= {str(g) for g in (meta.get("finals") or [])}
 
     # Kickoff clock: legs carry their game time in ET ("8:15 PM ET",
@@ -561,6 +570,29 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
                               "market": "", "kind": "totals",
                               "info": tot_info})
 
+    # meta.dt is the NBA "Downtown" threes-made section (added 2026-10-26):
+    # independent singles, each player over a line of made threes. The line
+    # rides in the market so the card and Gambly link are self-describing.
+    dt_picks = (meta.get("dt") or {}).get("picks") or []
+    for p in dt_picks:
+        nm = p.get("name")
+        if not nm:
+            continue
+        launched = (p.get("status") == "confirmed" or p.get("locked")
+                    or str(p.get("game")) in started_games
+                    or ticket_clock_ok([p]))
+        if not launched:
+            continue
+        line = p.get("line")
+        confirmed.append({
+            "name": p.get("tname") or f"Downtown: {nm}",
+            "legs": [nm],
+            "rr": False,
+            "market": f"over {line} threes" if line is not None else "made threes",
+            "kind": "downtown",
+            "info": {nm: leg_info(p)},
+        })
+
     # Sort so a reordering of unchanged tickets never reads as a change.
     confirmed.sort(key=lambda t: t["name"] or "")
 
@@ -574,6 +606,8 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
         kind = ent.get("kind") or ""
         if kind == "totals":
             continue
+        if kind == "downtown":
+            continue  # graded below from the dt picks themselves
         for nm in ent["legs"]:
             p = pdata.get(nm) or {}
             if kind == "ftd":
@@ -581,6 +615,11 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
                     hits.add(f"ftd:{nm}")
             elif p.get("hr"):
                 hits.add(f"a:{nm}")
+    # Downtown picks: the site bakes made-threes from nba.com each build and
+    # marks a winner with res == "w".
+    for p in dt_picks:
+        if p.get("name") and p.get("res") == "w":
+            hits.add(f"dt:{p['name']}")
     return {"confirmed": confirmed, "hits": sorted(hits),
             "tot_raw": tot_raw, "espn": meta.get("espn") or {}}
 
