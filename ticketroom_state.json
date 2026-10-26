@@ -3,11 +3,11 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Mon, 26 Oct 2026 17:06:46 GMT",
-    "checked_at": "2026-10-26T17:09:14.619768+00:00"
+    "last_modified": "Mon, 26 Oct 2026 18:47:52 GMT",
+    "checked_at": "2026-10-26T18:48:12.493480+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "4375fa1245928311357ae41406844508fa7bbf4ce2314f85cc6228ada8c26aa6",
+    "hash": "5f1fc4d4059a11c4a6c77cb48f829a5dc4c6de717bae743bef11292559c89fb3",
     "confirmed": [
       {
         "name": "Full-Time Whistle",
@@ -20,24 +20,44 @@
         "info": {
           "Sevilla v Osasuna: Sevilla under 1.5 goals": "Mon Oct 26 \u00b7 4:00 PM ET"
         }
+      },
+      {
+        "name": "Leading Man",
+        "legs": [
+          "Ferran Torres"
+        ],
+        "rr": false,
+        "info": {
+          "Ferran Torres": "Paris Saint-Germain vs Lyon \u00b7 Mon Oct 26 \u00b7 3:30 PM ET"
+        }
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Ferran Torres"
+        ],
+        "rr": false,
+        "info": {
+          "Ferran Torres": "Paris Saint-Germain vs Lyon \u00b7 Mon Oct 26 \u00b7 3:30 PM ET"
+        }
       }
     ],
     "hits": [],
-    "last_modified": "Mon, 26 Oct 2026 17:06:46 GMT",
-    "checked_at": "2026-10-26T17:09:15.057269+00:00"
+    "last_modified": "Mon, 26 Oct 2026 18:47:52 GMT",
+    "checked_at": "2026-10-26T18:48:13.724653+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Mon, 26 Oct 2026 17:06:46 GMT",
-    "checked_at": "2026-10-26T17:09:15.288460+00:00"
+    "last_modified": "Mon, 26 Oct 2026 18:47:52 GMT",
+    "checked_at": "2026-10-26T18:48:14.206188+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Mon, 26 Oct 2026 17:06:46 GMT",
-    "checked_at": "2026-10-26T17:09:15.653264+00:00"
+    "last_modified": "Mon, 26 Oct 2026 18:47:52 GMT",
+    "checked_at": "2026-10-26T18:48:14.451921+00:00"
   }
 }
