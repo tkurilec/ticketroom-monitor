@@ -3,28 +3,41 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Mon, 26 Oct 2026 03:41:56 GMT",
-    "checked_at": "2026-10-26T04:00:24.517819+00:00"
+    "last_modified": "Mon, 26 Oct 2026 05:46:41 GMT",
+    "checked_at": "2026-10-26T05:50:19.604984+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "4375fa1245928311357ae41406844508fa7bbf4ce2314f85cc6228ada8c26aa6",
+    "confirmed": [
+      {
+        "name": "Full-Time Whistle",
+        "legs": [
+          "Sevilla v Osasuna: Sevilla under 1.5 goals"
+        ],
+        "rr": false,
+        "market": "",
+        "kind": "totals",
+        "info": {
+          "Sevilla v Osasuna: Sevilla under 1.5 goals": "Mon Oct 26 \u00b7 4:00 PM ET"
+        }
+      }
+    ],
     "hits": [],
-    "last_modified": "Mon, 26 Oct 2026 03:41:56 GMT",
-    "checked_at": "2026-10-26T04:00:24.998218+00:00"
+    "last_modified": "Mon, 26 Oct 2026 05:46:41 GMT",
+    "checked_at": "2026-10-26T05:50:20.586201+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Mon, 26 Oct 2026 03:41:56 GMT",
-    "checked_at": "2026-10-26T04:00:25.223926+00:00"
+    "last_modified": "Mon, 26 Oct 2026 05:46:41 GMT",
+    "checked_at": "2026-10-26T05:50:20.783774+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Mon, 26 Oct 2026 03:41:56 GMT",
-    "checked_at": "2026-10-26T04:00:25.507310+00:00"
+    "last_modified": "Mon, 26 Oct 2026 05:46:41 GMT",
+    "checked_at": "2026-10-26T05:50:21.257990+00:00"
   }
 }
