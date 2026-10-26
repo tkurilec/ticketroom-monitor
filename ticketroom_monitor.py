@@ -644,16 +644,16 @@ def save_state(state: dict) -> None:
 
 def describe_change(prev_confirmed: list | None, new_confirmed: list,
                     market: str = "") -> list[dict]:
-    """Build embed fields describing confirmed-ticket changes."""
-    fields = []
+    """Build one embed PER fresh ticket — Discord truncates a single embed
+    stuffed with many fields, so every ticket gets its own card."""
+    embeds = []
     if prev_confirmed is None:
-        return fields
+        return embeds
     prev = {t["name"]: t["legs"] for t in prev_confirmed}
     new = {t["name"]: t for t in new_confirmed}
 
     fresh = [n for n in new if n not in prev or prev[n] != new[n]["legs"]]
-    for ticket_name in fresh[:10]:
-        label = "✅ " + (ticket_name or "Ticket")
+    for ticket_name in fresh:
         legs = new[ticket_name]["legs"]
         # A ticket may carry its own market wording (e.g. the Totals Board's
         # legs are self-describing, so its market is empty; Opening Drive is
@@ -666,39 +666,41 @@ def describe_change(prev_confirmed: list | None, new_confirmed: list,
             value += f"\n*{mkt}*"
         link = gambly_link(legs, mkt)
         value += f"\n[⚡ Build in Gambly]({link})"
-        fields.append({"name": label[:256],
-                       "value": value[:1024],
-                       "inline": True})
-    if len(fresh) > 10:
-        fields.append({"name": "More",
-                       "value": f"…and {len(fresh) - 10} more confirmed tickets",
-                       "inline": False})
+        embeds.append({
+            "title": ("✅ " + (ticket_name or "Ticket"))[:256],
+            "url": "",  # filled by notify_discord
+            "color": 0x2ECC71,
+            "description": value[:4096],
+        })
     # Removals and reshuffles are deliberately silent (user request): only a
     # newly confirmed or player-changed ticket is worth a ping.
-    return fields
+    return embeds
 
 
 def notify_discord(webhook: str | None, name: str, url: str,
-                   last_modified: str | None, change_fields: list[dict]) -> None:
-    fields = list(change_fields)
-    fields.append({"name": "Site updated", "value": last_modified or "unknown",
-                   "inline": False})
-    embed = {
-        "title": f"{name} updated",
-        "url": url,
-        "color": 0x2ECC71,
-        "fields": fields,
-        "timestamp": datetime.now(timezone.utc).isoformat(),
-    }
+                   last_modified: str | None, embeds: list[dict]) -> None:
+    """Post one card per ticket, chunked at Discord's 10-embeds-per-message."""
+    if not embeds:
+        return
+    for e in embeds:
+        e["url"] = url
+    embeds[-1]["footer"] = {"text": f"{name} · site updated "
+                                    f"{last_modified or 'unknown'}"}
+    embeds[-1]["timestamp"] = datetime.now(timezone.utc).isoformat()
     if not webhook:
         print(f"DRY RUN (DISCORD_WEBHOOK unset): would notify -> {name}: "
-              f"{json.dumps(change_fields, ensure_ascii=False)} url={url}")
+              f"{len(embeds)} card(s): "
+              f"{json.dumps(embeds, ensure_ascii=False)[:1200]}")
         return
-    resp = requests.post(webhook, json={"embeds": [embed]}, timeout=30)
-    if resp.status_code >= 400:
-        print(f"ERROR: Discord webhook returned {resp.status_code}: {resp.text[:500]}")
-    else:
-        print(f"Notified Discord: {name}")
+    for i in range(0, len(embeds), 10):
+        chunk = embeds[i:i + 10]
+        resp = requests.post(webhook, json={"embeds": chunk}, timeout=30)
+        if resp.status_code >= 400:
+            print(f"ERROR: Discord webhook returned {resp.status_code}: "
+                  f"{resp.text[:500]}")
+        else:
+            print(f"Notified Discord: {name} ({len(chunk)} card(s))")
+        time.sleep(1)
 
 
 def check_all() -> None:
