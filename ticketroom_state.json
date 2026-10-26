@@ -3,8 +3,8 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Mon, 26 Oct 2026 22:48:04 GMT",
-    "checked_at": "2026-10-26T22:48:11.937026+00:00"
+    "last_modified": "Mon, 26 Oct 2026 22:56:57 GMT",
+    "checked_at": "2026-10-26T23:00:21.457243+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "5f1fc4d4059a11c4a6c77cb48f829a5dc4c6de717bae743bef11292559c89fb3",
@@ -45,12 +45,24 @@
     "hits": [
       "a:Ferran Torres"
     ],
-    "last_modified": "Mon, 26 Oct 2026 22:48:04 GMT",
-    "checked_at": "2026-10-26T22:48:12.483073+00:00"
+    "last_modified": "Mon, 26 Oct 2026 22:56:57 GMT",
+    "checked_at": "2026-10-26T23:00:22.446008+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "7853b7d3a62fc222c11f03f517a1c8eaf949ed18fd939a9c9b706979c2897810",
+    "hash": "700c29d3ef0c3421f0b0b93dc9bde247198e36d03f92f872cd1e4c8673cefa08",
     "confirmed": [
+      {
+        "name": "Early Strike",
+        "legs": [
+          "Saquon Barkley"
+        ],
+        "rr": false,
+        "info": {
+          "Saquon Barkley": "Eagles vs Cowboys \u00b7 Mon Oct 26 \u00b7 8:15 PM ET"
+        },
+        "market": "first touchdown scorer",
+        "kind": "ftd"
+      },
       {
         "name": "The Workhorse",
         "legs": [
@@ -63,11 +75,11 @@
       }
     ],
     "hits": [],
-    "last_modified": "Mon, 26 Oct 2026 22:48:04 GMT",
-    "checked_at": "2026-10-26T22:48:14.209515+00:00"
+    "last_modified": "Mon, 26 Oct 2026 22:56:57 GMT",
+    "checked_at": "2026-10-26T23:00:24.475803+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "cd0377c70588d635f400ad80f53aef5f0fd97991359c90ac963530ecafbf8522",
+    "hash": "8354241fc774ecc0e972ffc7514c82401247d75f1f9058e74b636658d585ccb5",
     "confirmed": [
       {
         "name": "Bad Boys",
@@ -116,6 +128,22 @@
         }
       },
       {
+        "name": "Flu Game",
+        "legs": [
+          "Alperen Sengun",
+          "Jaren Jackson Jr.",
+          "Jordan Walsh",
+          "Myles Turner"
+        ],
+        "rr": true,
+        "info": {
+          "Alperen Sengun": "Rockets vs Hawks \u00b7 Mon Oct 26 \u00b7 8:30 PM ET",
+          "Myles Turner": "Bucks vs Pacers \u00b7 Mon Oct 26 \u00b7 8:00 PM ET",
+          "Jaren Jackson Jr.": "Jazz vs Grizzlies \u00b7 Mon Oct 26 \u00b7 9:00 PM ET",
+          "Jordan Walsh": "Celtics vs Bulls \u00b7 Mon Oct 26 \u00b7 7:30 PM ET"
+        }
+      },
+      {
         "name": "Gold Chain Gunner",
         "legs": [
           "LaMelo Ball"
@@ -125,6 +153,20 @@
         "kind": "downtown",
         "info": {
           "LaMelo Ball": "Timberwolves vs Cavaliers \u00b7 Mon Oct 26 \u00b7 7:00 PM ET"
+        }
+      },
+      {
+        "name": "Grit and Grind",
+        "legs": [
+          "Jaren Jackson Jr.",
+          "Myles Turner",
+          "Paul George"
+        ],
+        "rr": true,
+        "info": {
+          "Paul George": "Celtics vs Bulls \u00b7 Mon Oct 26 \u00b7 7:30 PM ET",
+          "Myles Turner": "Bucks vs Pacers \u00b7 Mon Oct 26 \u00b7 8:00 PM ET",
+          "Jaren Jackson Jr.": "Jazz vs Grizzlies \u00b7 Mon Oct 26 \u00b7 9:00 PM ET"
         }
       },
       {
@@ -141,6 +183,32 @@
           "Myles Turner": "Bucks vs Pacers \u00b7 Mon Oct 26 \u00b7 8:00 PM ET",
           "Ace Bailey": "Jazz vs Grizzlies \u00b7 Mon Oct 26 \u00b7 9:00 PM ET",
           "Peyton Watson": "Cavaliers vs Timberwolves \u00b7 Mon Oct 26 \u00b7 7:00 PM ET"
+        }
+      },
+      {
+        "name": "Mr. Big Shot",
+        "legs": [
+          "Bam Adebayo",
+          "Jaren Jackson Jr.",
+          "Myles Turner"
+        ],
+        "rr": true,
+        "info": {
+          "Bam Adebayo": "Heat vs Mavericks \u00b7 Mon Oct 26 \u00b7 7:30 PM ET",
+          "Myles Turner": "Bucks vs Pacers \u00b7 Mon Oct 26 \u00b7 8:00 PM ET",
+          "Jaren Jackson Jr.": "Jazz vs Grizzlies \u00b7 Mon Oct 26 \u00b7 9:00 PM ET"
+        }
+      },
+      {
+        "name": "Pinball Wizard Pull-Up",
+        "legs": [
+          "Bam Adebayo"
+        ],
+        "rr": false,
+        "market": "over 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Bam Adebayo": "Heat vs Mavericks \u00b7 Mon Oct 26 \u00b7 7:30 PM ET"
         }
       },
       {
@@ -169,6 +237,34 @@
           "Bam Adebayo": "Heat vs Mavericks \u00b7 Mon Oct 26 \u00b7 7:30 PM ET",
           "Peyton Watson": "Cavaliers vs Timberwolves \u00b7 Mon Oct 26 \u00b7 7:00 PM ET",
           "Onyeka Okongwu": "Hawks vs Rockets \u00b7 Mon Oct 26 \u00b7 8:30 PM ET"
+        }
+      },
+      {
+        "name": "Sky Hook",
+        "legs": [
+          "Jaren Jackson Jr.",
+          "Myles Turner",
+          "Onyeka Okongwu",
+          "Paul George"
+        ],
+        "rr": true,
+        "info": {
+          "Paul George": "Celtics vs Bulls \u00b7 Mon Oct 26 \u00b7 7:30 PM ET",
+          "Myles Turner": "Bucks vs Pacers \u00b7 Mon Oct 26 \u00b7 8:00 PM ET",
+          "Onyeka Okongwu": "Hawks vs Rockets \u00b7 Mon Oct 26 \u00b7 8:30 PM ET",
+          "Jaren Jackson Jr.": "Jazz vs Grizzlies \u00b7 Mon Oct 26 \u00b7 9:00 PM ET"
+        }
+      },
+      {
+        "name": "Smooth Groove Rainmaker",
+        "legs": [
+          "Josh Giddey"
+        ],
+        "rr": false,
+        "market": "over 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Josh Giddey": "Bulls vs Celtics \u00b7 Mon Oct 26 \u00b7 7:30 PM ET"
         }
       },
       {
@@ -218,6 +314,22 @@
         }
       },
       {
+        "name": "The Shot",
+        "legs": [
+          "Bam Adebayo",
+          "Jaren Jackson Jr.",
+          "Myles Turner",
+          "Onyeka Okongwu"
+        ],
+        "rr": true,
+        "info": {
+          "Bam Adebayo": "Heat vs Mavericks \u00b7 Mon Oct 26 \u00b7 7:30 PM ET",
+          "Myles Turner": "Bucks vs Pacers \u00b7 Mon Oct 26 \u00b7 8:00 PM ET",
+          "Onyeka Okongwu": "Hawks vs Rockets \u00b7 Mon Oct 26 \u00b7 8:30 PM ET",
+          "Jaren Jackson Jr.": "Jazz vs Grizzlies \u00b7 Mon Oct 26 \u00b7 9:00 PM ET"
+        }
+      },
+      {
         "name": "Twin Towers",
         "legs": [
           "Alperen Sengun",
@@ -233,7 +345,7 @@
       }
     ],
     "hits": [],
-    "last_modified": "Mon, 26 Oct 2026 22:48:04 GMT",
-    "checked_at": "2026-10-26T22:48:14.765510+00:00"
+    "last_modified": "Mon, 26 Oct 2026 22:56:57 GMT",
+    "checked_at": "2026-10-26T23:00:26.271644+00:00"
   }
 }
