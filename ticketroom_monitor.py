@@ -621,7 +621,8 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
         if p.get("name") and p.get("res") == "w":
             hits.add(f"dt:{p['name']}")
     return {"confirmed": confirmed, "hits": sorted(hits),
-            "tot_raw": tot_raw, "espn": meta.get("espn") or {}}
+            "tot_raw": tot_raw, "espn": meta.get("espn") or {},
+            "slate": str(slate_date) if slate_date else None}
 
 
 def signature_hash(sig: dict) -> str:
@@ -645,11 +646,13 @@ def save_state(state: dict) -> None:
 def describe_change(prev_confirmed: list | None, new_confirmed: list,
                     market: str = "") -> list[dict]:
     """Build one embed PER fresh ticket — Discord truncates a single embed
-    stuffed with many fields, so every ticket gets its own card."""
+    stuffed with many fields, so every ticket gets its own card.
+    prev_confirmed is the slate's ANNOUNCED map (name -> legs): a ticket that
+    blinks off the board and back must not re-announce (site builds flap)."""
     embeds = []
     if prev_confirmed is None:
         return embeds
-    prev = {t["name"]: t["legs"] for t in prev_confirmed}
+    prev = dict(prev_confirmed)
     new = {t["name"]: t for t in new_confirmed}
 
     fresh = [n for n in new if n not in prev or prev[n] != new[n]["legs"]]
@@ -760,11 +763,22 @@ def check_all() -> None:
             confirmed = hits = None
         prev = state.get(url)
 
+        # The slate's announced ledger: name -> legs of every ticket already
+        # posted this slate day. Survives tickets blinking off the board
+        # (build flaps double-posted otherwise); resets when the slate rolls.
+        slate = sig.get("slate") if sig else None
+        announced = {}
+        if prev is not None and (slate is None or prev.get("slate") == slate):
+            announced = dict(prev.get("announced") or {})
+            if not announced and prev.get("confirmed"):
+                # migrate older state without the ledger
+                announced = {t["name"]: t["legs"] for t in prev["confirmed"]}
+
         if prev is None:
             first_run_pages.append(name)
         elif prev.get("hash") != digest:
             print(f"CHANGE detected on {name} ({url}) last_modified={last_modified}")
-            change_fields = (describe_change(prev.get("confirmed"), confirmed,
+            change_fields = (describe_change(announced, confirmed,
                                              MARKETS.get(name, ""))
                              if confirmed is not None else [])
             if change_fields:
@@ -773,6 +787,10 @@ def check_all() -> None:
                 print("  (removal/reshuffle only — updating state silently)")
         else:
             print(f"No change: {name} (last_modified={last_modified or 'n/a'})")
+
+        if confirmed is not None:
+            for t in confirmed:
+                announced[t["name"]] = t["legs"]
 
         # Mid-game hit alerts. "hits" missing from prev means this is the
         # feature's first run — baseline silently so a live slate doesn't
@@ -788,11 +806,15 @@ def check_all() -> None:
                     notify_hits(webhook, name, url, new_hits, hits, confirmed)
 
         if (prev is None or prev.get("hash") != digest
-                or prev.get("hits") != hits):
+                or prev.get("hits") != hits
+                or prev.get("announced") != announced
+                or prev.get("slate") != slate):
             changed = True
         state[url] = {
             "hash": digest,
             "confirmed": confirmed,
+            "announced": announced,
+            "slate": slate,
             "hits": hits,
             "last_modified": last_modified,
             "checked_at": datetime.now(timezone.utc).isoformat(),
