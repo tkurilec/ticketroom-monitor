@@ -392,9 +392,10 @@ EARLY_CONFIRM_MIN = {
     # but its soccer build can lag past kickoff — 15 min out is the backstop
     # (benched/out players are already flagged by then and block the ticket).
     "Soccer Board": 15,
-    # NBA starters are announced ~30 min before tip and first-basket bets
-    # only exist pre-tip; back-stop at 20 in case statuses never flip.
-    "NBA Board": 20,
+    # NBA starters post 30-40 min before tip (the first ✓s appear on the page
+    # then), and first-basket bets only exist pre-tip — launch at 40 so the
+    # board posts as confirmations start, not after.
+    "NBA Board": 40,
 }
 
 
