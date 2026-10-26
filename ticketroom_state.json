@@ -3,8 +3,8 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "hits": [],
-    "last_modified": "Mon, 26 Oct 2026 22:37:57 GMT",
-    "checked_at": "2026-10-26T22:38:15.718037+00:00"
+    "last_modified": "Mon, 26 Oct 2026 22:48:04 GMT",
+    "checked_at": "2026-10-26T22:48:11.937026+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "5f1fc4d4059a11c4a6c77cb48f829a5dc4c6de717bae743bef11292559c89fb3",
@@ -45,15 +45,26 @@
     "hits": [
       "a:Ferran Torres"
     ],
-    "last_modified": "Mon, 26 Oct 2026 22:37:57 GMT",
-    "checked_at": "2026-10-26T22:38:16.082105+00:00"
+    "last_modified": "Mon, 26 Oct 2026 22:48:04 GMT",
+    "checked_at": "2026-10-26T22:48:12.483073+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "7853b7d3a62fc222c11f03f517a1c8eaf949ed18fd939a9c9b706979c2897810",
+    "confirmed": [
+      {
+        "name": "The Workhorse",
+        "legs": [
+          "Ryan Flournoy"
+        ],
+        "rr": false,
+        "info": {
+          "Ryan Flournoy": "Cowboys vs Eagles \u00b7 Mon Oct 26 \u00b7 8:15 PM ET"
+        }
+      }
+    ],
     "hits": [],
-    "last_modified": "Mon, 26 Oct 2026 22:37:57 GMT",
-    "checked_at": "2026-10-26T22:38:16.225670+00:00"
+    "last_modified": "Mon, 26 Oct 2026 22:48:04 GMT",
+    "checked_at": "2026-10-26T22:48:14.209515+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "cd0377c70588d635f400ad80f53aef5f0fd97991359c90ac963530ecafbf8522",
@@ -222,7 +233,7 @@
       }
     ],
     "hits": [],
-    "last_modified": "Mon, 26 Oct 2026 22:37:57 GMT",
-    "checked_at": "2026-10-26T22:38:19.637989+00:00"
+    "last_modified": "Mon, 26 Oct 2026 22:48:04 GMT",
+    "checked_at": "2026-10-26T22:48:14.765510+00:00"
   }
 }
