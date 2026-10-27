@@ -6,14 +6,24 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 19:03:08 GMT",
-    "checked_at": "2026-10-27T19:03:11.709912+00:00"
+    "last_modified": "Tue, 27 Oct 2026 19:07:10 GMT",
+    "checked_at": "2026-10-27T19:07:11.736913+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "5dd472f53a7515309f8f9b2c0b08c25999d7201befee51170d90a54d0b849cae",
+    "hash": "88e7ed086bd702460b568eacf2a48c79fc01d859cc036c1dfd57f76189cbcb19",
     "confirmed": [
       {
         "name": "Six-Yard Box",
+        "legs": [
+          "Serhou Guirassy"
+        ],
+        "rr": false,
+        "info": {
+          "Serhou Guirassy": "Borussia Dortmund vs Werder Bremen \u00b7 Tue Oct 27 \u00b7 3:45 PM ET"
+        }
+      },
+      {
+        "name": "The Banker",
         "legs": [
           "Serhou Guirassy"
         ],
@@ -44,13 +54,16 @@
       ],
       "Six-Yard Box": [
         "Serhou Guirassy"
+      ],
+      "The Banker": [
+        "Serhou Guirassy"
       ]
     },
     "slate": "2026-10-27",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 19:03:08 GMT",
-    "checked_at": "2026-10-27T19:03:13.961017+00:00"
+    "last_modified": "Tue, 27 Oct 2026 19:07:10 GMT",
+    "checked_at": "2026-10-27T19:07:13.718577+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -75,8 +88,8 @@
       "best": 21,
       "settled": true
     },
-    "last_modified": "Tue, 27 Oct 2026 19:03:07 GMT",
-    "checked_at": "2026-10-27T19:03:14.562417+00:00"
+    "last_modified": "Tue, 27 Oct 2026 19:07:10 GMT",
+    "checked_at": "2026-10-27T19:07:13.787893+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -85,7 +98,7 @@
     "slate": "2026-10-27",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 19:03:07 GMT",
-    "checked_at": "2026-10-27T19:03:14.848910+00:00"
+    "last_modified": "Tue, 27 Oct 2026 19:07:10 GMT",
+    "checked_at": "2026-10-27T19:07:14.044386+00:00"
   }
 }
