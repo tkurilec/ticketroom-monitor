@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 22:58:58 GMT",
-    "checked_at": "2026-10-27T23:00:21.147635+00:00"
+    "last_modified": "Tue, 27 Oct 2026 23:07:01 GMT",
+    "checked_at": "2026-10-27T23:07:11.384265+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "88e7ed086bd702460b568eacf2a48c79fc01d859cc036c1dfd57f76189cbcb19",
@@ -70,8 +70,8 @@
       "t:Torino v Como: Torino to score"
     ],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 22:58:58 GMT",
-    "checked_at": "2026-10-27T23:00:21.822114+00:00"
+    "last_modified": "Tue, 27 Oct 2026 23:07:01 GMT",
+    "checked_at": "2026-10-27T23:07:12.438874+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -97,11 +97,11 @@
       "best": 21,
       "settled": true
     },
-    "last_modified": "Tue, 27 Oct 2026 22:58:58 GMT",
-    "checked_at": "2026-10-27T23:00:21.888440+00:00"
+    "last_modified": "Tue, 27 Oct 2026 23:07:01 GMT",
+    "checked_at": "2026-10-27T23:07:12.586119+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "86d8dc820c19c2e31c697961ce2ba2791d900ea26c633bb3a5088149cae3241a",
+    "hash": "647d9b0b9710df5cf5818bbca0c322274390e79fb50783752f7f351fa37f9c65",
     "confirmed": [
       {
         "name": "Bad Boys",
@@ -147,18 +147,6 @@
           "Ja Morant": "Trail Blazers vs Lakers \u00b7 Tue Oct 27 \u00b7 11:00 PM ET",
           "Josh Hart": "Knicks vs Pistons \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
           "Domantas Sabonis": "Kings vs Spurs \u00b7 Tue Oct 27 \u00b7 8:00 PM ET"
-        }
-      },
-      {
-        "name": "Eight-Track Heater",
-        "legs": [
-          "Keon Ellis"
-        ],
-        "rr": false,
-        "market": "over 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Keon Ellis": "Nets vs Celtics \u00b7 Tue Oct 27 \u00b7 7:30 PM ET"
         }
       },
       {
@@ -391,7 +379,7 @@
     "slate": "2026-10-27",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 22:58:58 GMT",
-    "checked_at": "2026-10-27T23:00:25.063971+00:00"
+    "last_modified": "Tue, 27 Oct 2026 23:07:01 GMT",
+    "checked_at": "2026-10-27T23:07:12.866662+00:00"
   }
 }
