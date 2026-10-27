@@ -152,6 +152,79 @@ def fetch_nfl_live_tds(leg_names: set, date_yyyymmdd: str | None = None) -> set:
     return any_td, first_td
 
 
+def fetch_nfl_longest_td(crowns: list, date_yyyymmdd: str | None = None) -> dict | None:
+    """Live "King of the End Zone" tracker — the market pays whoever scores
+    the longest TD of the NIGHT across the slate's games (user rules
+    2026-10-26): ping when a crown pick takes the lead mid-game, again if
+    they lose it, and only cash once EVERY slate game is final (a tie for
+    the longest still counts — dead heat pays). crowns is [{"name",
+    "gmatch"}] for the board's crown-flagged picks.
+
+    Returns None when nothing is trackable yet (no slate game started, or
+    ESPN doesn't list every slate game); otherwise {"best": yards,
+    "leader": [display names], "holding": [crown names on/ tied for the
+    lead], "all_final": bool}.
+    """
+    if not crowns:
+        return None
+    date = date_yyyymmdd or _et_date("%Y%m%d")
+    want_games = {str(g.get("gmatch") or "").upper()
+                  for g in crowns if g.get("gmatch")}
+    try:
+        sb = requests.get(
+            "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard",
+            params={"dates": date}, timeout=30).json()
+        events, seen = [], set()
+        for e in sb.get("events") or []:
+            comps = ((e.get("competitions") or [{}])[0].get("competitors")) or []
+            abbr = {c.get("homeAway"):
+                    ((c.get("team") or {}).get("abbreviation") or "").upper()
+                    for c in comps}
+            key = f"{abbr.get('away', '')}@{abbr.get('home', '')}"
+            if key in want_games:
+                events.append(e)
+                seen.add(key)
+        if seen != want_games:
+            print(f"WARNING: longest-TD slate games missing on ESPN: "
+                  f"{sorted(want_games - seen)}")
+            return None
+        def ev_state(e):
+            return ((e.get("status") or {}).get("type") or {}).get("state")
+        started = [e for e in events if ev_state(e) in ("in", "post")]
+        if not started:
+            return None
+        best, leaders, leader_disp = 0, [], []
+        for e in started:
+            summ = requests.get(
+                "https://site.api.espn.com/apis/site/v2/sports/football/nfl/summary",
+                params={"event": e.get("id")}, timeout=30).json()
+            for play in summ.get("scoringPlays") or []:
+                if ((play.get("type") or {}).get("abbreviation")) != "TD":
+                    continue
+                text = play.get("text") or ""
+                ym = re.search(r"(\d+)\s*[- ]?Y(?:ar)?ds?\b", text, re.I)
+                yards = int(ym.group(1)) if ym else 0
+                seg = re.split(r"\bpass from\b", text)[0].split("(")[0]
+                disp = re.sub(r"\s*\d+\s*[- ]?Y(?:ar)?ds?\b.*$", "",
+                              seg, flags=re.I).strip() or "unknown"
+                if yards > best:
+                    best, leaders, leader_disp = (
+                        yards, [_norm_name(seg)], [disp])
+                elif yards == best and yards > 0:
+                    leaders.append(_norm_name(seg))
+                    if disp not in leader_disp:
+                        leader_disp.append(disp)
+        holding = sorted(
+            g["name"] for g in crowns
+            if _norm_name(g.get("name") or "")
+            and any(_norm_name(g["name"]) in seg for seg in leaders))
+        return {"best": best, "leader": leader_disp, "holding": holding,
+                "all_final": all(ev_state(e) == "post" for e in events)}
+    except Exception as exc:
+        print(f"WARNING: ESPN longest-TD check failed: {exc}")
+        return None
+
+
 def fetch_nba_first_baskets(leg_names: set, date_yyyymmdd: str | None = None) -> set:
     """Check ESPN NBA play-by-play for each game's first points.
 
@@ -299,7 +372,7 @@ HIT_STYLE = {
 
 def entry_leg_tokens(ent: dict) -> list:
     prefix = {"totals": "t", "ftd": "ftd",
-              "downtown": "dt"}.get(ent.get("kind") or "", "a")
+              "downtown": "dt", "longtd": "ltd"}.get(ent.get("kind") or "", "a")
     return [f"{prefix}:{l}" for l in ent["legs"]]
 
 
@@ -353,6 +426,27 @@ def notify_hits(webhook: str | None, board: str, url: str,
         print(f"ERROR: Discord webhook returned {resp.status_code}: {resp.text[:500]}")
     else:
         print(f"Notified hits: {board} ({len(new_hits)} new hit(s))")
+
+
+def notify_longtd(webhook: str | None, board: str, url: str,
+                  lines: list) -> None:
+    """Lead-change pings for King of the End Zone (take/lose the longest TD)."""
+    embed = {
+        "title": f"👑 {board} — King of the End Zone",
+        "url": url,
+        "color": 0xF1C40F,
+        "description": "\n".join(lines)[:4096],
+        "timestamp": datetime.now(timezone.utc).isoformat(),
+    }
+    if not webhook:
+        print(f"DRY RUN (DISCORD_WEBHOOK unset): would notify longest-TD -> "
+              f"{board}: {json.dumps(lines, ensure_ascii=False)[:500]}")
+        return
+    resp = requests.post(webhook, json={"embeds": [embed]}, timeout=30)
+    if resp.status_code >= 400:
+        print(f"ERROR: Discord webhook returned {resp.status_code}: {resp.text[:500]}")
+    else:
+        print(f"Notified longest-TD lead change: {board}")
 
 STATE_FILE = Path(__file__).parent / "ticketroom_state.json"
 
@@ -593,6 +687,42 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
             "info": {nm: leg_info(p)},
         })
 
+    # meta.longtd is "King of the End Zone" (announced since 2026-10-26):
+    # the market pays whoever scores the longest TD of the NIGHT across the
+    # slate's games, and the crown-flagged candidate per game is the board's
+    # pick. The picks carry no gtime, so it is borrowed from any ticket leg
+    # in the same game, and the team code is mapped to the full team name
+    # through the player pool for the card's "Team vs Opp" line.
+    longtd_raw = []
+    game_gtimes = {}
+    for src in [l for t in tickets_src for l in t.get("players", [])]:
+        if src.get("game") is not None and src.get("gtime"):
+            game_gtimes.setdefault(src["game"], src["gtime"])
+    code_team = {v.get("code"): v.get("team") for v in pdata.values()
+                 if v.get("code") and v.get("team")}
+    for gm in (meta.get("longtd") or []):
+        for p in gm.get("picks") or []:
+            if not (p.get("crown") and p.get("name")):
+                continue
+            leg = {"name": p["name"],
+                   "team": code_team.get(p.get("team"), p.get("team")),
+                   "game": gm.get("game"), "gmatch": gm.get("gmatch"),
+                   "gtime": game_gtimes.get(gm.get("game"))}
+            if not leg_available(leg):
+                continue
+            if not (str(gm.get("game")) in started_games
+                    or ticket_clock_ok([leg])):
+                continue
+            longtd_raw.append({"name": p["name"], "gmatch": gm.get("gmatch")})
+            confirmed.append({
+                "name": f"King of the End Zone: {p['name']}",
+                "legs": [p["name"]],
+                "rr": False,
+                "market": "longest touchdown scorer",
+                "kind": "longtd",
+                "info": {p["name"]: leg_info(leg)},
+            })
+
     # Sort so a reordering of unchanged tickets never reads as a change.
     confirmed.sort(key=lambda t: t["name"] or "")
 
@@ -608,6 +738,8 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
             continue
         if kind == "downtown":
             continue  # graded below from the dt picks themselves
+        if kind == "longtd":
+            continue  # graded live in check_all via ESPN yardages
         for nm in ent["legs"]:
             p = pdata.get(nm) or {}
             if kind == "ftd":
@@ -628,6 +760,7 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
             hits.add(f"dt:{p['name']}")
     return {"confirmed": confirmed, "hits": sorted(hits),
             "tot_raw": tot_raw, "espn": meta.get("espn") or {},
+            "longtd": longtd_raw,
             "slate": str(slate_date) if slate_date else None}
 
 
@@ -725,6 +858,7 @@ def check_all() -> None:
             print(f"ERROR fetching {url}: {exc}")
             continue
 
+        ltd_status = None
         sig = extract_signature(html, EARLY_CONFIRM_MIN.get(name, 0))
         if sig is not None:
             # Hash covers only ticket construction (name + legs): hit flips
@@ -746,6 +880,10 @@ def check_all() -> None:
                     any_td, first_td = fetch_nfl_live_tds(player_legs)
                     hits |= {f"a:{p}" for p in any_td}
                     hits |= {f"ftd:{p}" for p in first_td}
+                    # King of the End Zone pings live in their own tracker
+                    # below (not the hit-token path) so every ping can state
+                    # the TD's yardage.
+                    ltd_status = fetch_nfl_longest_td(sig.get("longtd") or [])
                 elif name == "NBA Board":
                     hits |= {f"a:{p}"
                              for p in fetch_nba_first_baskets(player_legs)}
@@ -811,9 +949,45 @@ def check_all() -> None:
                 if new_hits:
                     notify_hits(webhook, name, url, new_hits, hits, confirmed)
 
+        # King of the End Zone lead tracker (user rules 2026-10-26): ping when
+        # a crown pick takes the longest TD of the night, again if they lose
+        # it, and cash only once every slate game is final — every ping states
+        # the TD's length, which is why this lives outside the hit-token path.
+        # "settled" keeps the night's final ping to exactly one.
+        prev_ltd = None
+        if prev is not None and (slate is None or prev.get("slate") == slate):
+            prev_ltd = prev.get("ltd")
+        ltd_state = prev_ltd
+        if ltd_status is not None:
+            prev_hold = set((prev_ltd or {}).get("holding") or [])
+            now_hold = set(ltd_status["holding"])
+            settled = bool((prev_ltd or {}).get("settled"))
+            best, leader = ltd_status["best"], ltd_status["leader"]
+            lines = []
+            if not settled:
+                for nm in sorted(prev_hold - now_hold):
+                    who = ", ".join(leader) or "someone else"
+                    lines.append(f"😬 **{nm}** lost the longest TD — "
+                                 f"**{who}** now leads with a {best}-yarder")
+                if ltd_status["all_final"]:
+                    for nm in sorted(now_hold):
+                        lines.append(f"💸 **{nm}** CASHED King of the End Zone "
+                                     f"— his {best}-yd TD was the longest of "
+                                     f"the night!")
+                    settled = True
+                else:
+                    for nm in sorted(now_hold - prev_hold):
+                        lines.append(f"👑 **{nm}** now holds the longest TD of "
+                                     f"the night — a {best}-yarder!")
+            if lines and prev is not None:
+                notify_longtd(webhook, name, url, lines)
+            ltd_state = {"holding": sorted(now_hold), "best": best,
+                         "settled": settled}
+
         if (prev is None or prev.get("hash") != digest
                 or prev.get("hits") != hits
                 or prev.get("announced") != announced
+                or prev.get("ltd") != ltd_state
                 or prev.get("slate") != slate):
             changed = True
         state[url] = {
@@ -822,6 +996,7 @@ def check_all() -> None:
             "announced": announced,
             "slate": slate,
             "hits": hits,
+            "ltd": ltd_state,
             "last_modified": last_modified,
             "checked_at": datetime.now(timezone.utc).isoformat(),
         }
