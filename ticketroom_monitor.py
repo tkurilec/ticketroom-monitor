@@ -487,8 +487,11 @@ EARLY_CONFIRM_MIN = {
     # (benched/out players are already flagged by then and block the ticket).
     "Soccer Board": 15,
     # NBA starters are announced ~30 min before tip and first-basket bets
-    # only exist pre-tip; launch at tip-30 per the user (2026-10-26).
-    "NBA Board": 30,
+    # only exist pre-tip. Tip-20 per the user (2026-10-27, down from 30): at
+    # tip-30 the board is often still "projected" and can pull a pick right
+    # after the clock posts it (Keon Ellis, 2026-10-27) — 20 out, scratches
+    # have settled, and a site confirm still posts the moment it flips.
+    "NBA Board": 20,
 }
 
 
