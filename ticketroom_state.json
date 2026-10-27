@@ -5,8 +5,8 @@
     "announced": {},
     "slate": null,
     "hits": [],
-    "last_modified": "Mon, 26 Oct 2026 23:41:43 GMT",
-    "checked_at": "2026-10-26T23:45:17.576818+00:00"
+    "last_modified": "Tue, 27 Oct 2026 00:26:51 GMT",
+    "checked_at": "2026-10-27T00:29:13.345709+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "5f1fc4d4059a11c4a6c77cb48f829a5dc4c6de717bae743bef11292559c89fb3",
@@ -59,8 +59,8 @@
     "hits": [
       "a:Ferran Torres"
     ],
-    "last_modified": "Mon, 26 Oct 2026 23:41:43 GMT",
-    "checked_at": "2026-10-26T23:45:17.995328+00:00"
+    "last_modified": "Tue, 27 Oct 2026 00:26:51 GMT",
+    "checked_at": "2026-10-27T00:29:13.714660+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "700c29d3ef0c3421f0b0b93dc9bde247198e36d03f92f872cd1e4c8673cefa08",
@@ -97,9 +97,11 @@
       ]
     },
     "slate": "2026-10-26",
-    "hits": [],
-    "last_modified": "Mon, 26 Oct 2026 23:41:43 GMT",
-    "checked_at": "2026-10-26T23:45:18.210618+00:00"
+    "hits": [
+      "ftd:Saquon Barkley"
+    ],
+    "last_modified": "Tue, 27 Oct 2026 00:26:51 GMT",
+    "checked_at": "2026-10-27T00:29:14.325224+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "4f55f409553b58d2cef9004f43e57cfeb7b41016f6a386172a73121ebdfed984",
@@ -499,7 +501,7 @@
     "hits": [
       "a:Paul George"
     ],
-    "last_modified": "Mon, 26 Oct 2026 23:41:43 GMT",
-    "checked_at": "2026-10-26T23:45:18.589690+00:00"
+    "last_modified": "Tue, 27 Oct 2026 00:26:51 GMT",
+    "checked_at": "2026-10-27T00:29:15.148534+00:00"
   }
 }
