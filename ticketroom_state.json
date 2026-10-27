@@ -7,44 +7,11 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Tue, 27 Oct 2026 03:51:44 GMT",
-    "checked_at": "2026-10-27T03:52:11.833501+00:00"
+    "checked_at": "2026-10-27T04:00:18.845806+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "5f1fc4d4059a11c4a6c77cb48f829a5dc4c6de717bae743bef11292559c89fb3",
-    "confirmed": [
-      {
-        "name": "Full-Time Whistle",
-        "legs": [
-          "Sevilla v Osasuna: Sevilla under 1.5 goals"
-        ],
-        "rr": false,
-        "market": "",
-        "kind": "totals",
-        "info": {
-          "Sevilla v Osasuna: Sevilla under 1.5 goals": "Mon Oct 26 \u00b7 4:00 PM ET"
-        }
-      },
-      {
-        "name": "Leading Man",
-        "legs": [
-          "Ferran Torres"
-        ],
-        "rr": false,
-        "info": {
-          "Ferran Torres": "Paris Saint-Germain vs Lyon \u00b7 Mon Oct 26 \u00b7 3:30 PM ET"
-        }
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Ferran Torres"
-        ],
-        "rr": false,
-        "info": {
-          "Ferran Torres": "Paris Saint-Germain vs Lyon \u00b7 Mon Oct 26 \u00b7 3:30 PM ET"
-        }
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Full-Time Whistle": [
         "Sevilla v Osasuna: Sevilla under 1.5 goals"
@@ -56,52 +23,15 @@
         "Ferran Torres"
       ]
     },
-    "slate": "2026-10-26",
-    "hits": [
-      "a:Ferran Torres"
-    ],
+    "slate": null,
+    "hits": [],
     "ltd": null,
     "last_modified": "Tue, 27 Oct 2026 03:51:44 GMT",
-    "checked_at": "2026-10-27T03:52:12.591957+00:00"
+    "checked_at": "2026-10-27T04:00:18.877328+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "bc718a8d66e650304fd39a5a56d789264b7e35adc3166b3a7203757ec9d1e817",
-    "confirmed": [
-      {
-        "name": "Early Strike",
-        "legs": [
-          "Saquon Barkley"
-        ],
-        "rr": false,
-        "info": {
-          "Saquon Barkley": "Eagles vs Cowboys \u00b7 Mon Oct 26 \u00b7 8:15 PM ET"
-        },
-        "market": "first touchdown scorer",
-        "kind": "ftd"
-      },
-      {
-        "name": "King of the End Zone: George Pickens",
-        "legs": [
-          "George Pickens"
-        ],
-        "rr": false,
-        "market": "longest touchdown scorer",
-        "kind": "longtd",
-        "info": {
-          "George Pickens": "Cowboys vs Eagles \u00b7 Mon Oct 26 \u00b7 8:15 PM ET"
-        }
-      },
-      {
-        "name": "The Workhorse",
-        "legs": [
-          "Ryan Flournoy"
-        ],
-        "rr": false,
-        "info": {
-          "Ryan Flournoy": "Cowboys vs Eagles \u00b7 Mon Oct 26 \u00b7 8:15 PM ET"
-        }
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Early Strike": [
         "Saquon Barkley"
@@ -113,10 +43,8 @@
         "George Pickens"
       ]
     },
-    "slate": "2026-10-26",
-    "hits": [
-      "ftd:Saquon Barkley"
-    ],
+    "slate": null,
+    "hits": [],
     "ltd": {
       "holding": [
         "George Pickens"
@@ -125,312 +53,11 @@
       "settled": true
     },
     "last_modified": "Tue, 27 Oct 2026 03:51:44 GMT",
-    "checked_at": "2026-10-27T03:52:13.325896+00:00"
+    "checked_at": "2026-10-27T04:00:19.105075+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "d488a4b8f19050cedf15161e35c75acc599bd2d139fef3aaa624dac8efde346e",
-    "confirmed": [
-      {
-        "name": "Bad Boys",
-        "legs": [
-          "Anthony Davis",
-          "Jaren Jackson Jr.",
-          "Myles Turner"
-        ],
-        "rr": true,
-        "info": {
-          "Anthony Davis": "Wizards vs Hornets \u00b7 Mon Oct 26 \u00b7 7:00 PM ET",
-          "Myles Turner": "Bucks vs Pacers \u00b7 Mon Oct 26 \u00b7 8:00 PM ET",
-          "Jaren Jackson Jr.": "Jazz vs Grizzlies \u00b7 Mon Oct 26 \u00b7 9:00 PM ET"
-        }
-      },
-      {
-        "name": "Dame Time",
-        "legs": [
-          "Ace Bailey",
-          "Anthony Davis",
-          "Myles Turner",
-          "Peyton Watson"
-        ],
-        "rr": true,
-        "info": {
-          "Anthony Davis": "Wizards vs Hornets \u00b7 Mon Oct 26 \u00b7 7:00 PM ET",
-          "Myles Turner": "Bucks vs Pacers \u00b7 Mon Oct 26 \u00b7 8:00 PM ET",
-          "Ace Bailey": "Jazz vs Grizzlies \u00b7 Mon Oct 26 \u00b7 9:00 PM ET",
-          "Peyton Watson": "Cavaliers vs Timberwolves \u00b7 Mon Oct 26 \u00b7 7:00 PM ET"
-        }
-      },
-      {
-        "name": "Dream Shake",
-        "legs": [
-          "Ace Bailey",
-          "Alperen Sengun",
-          "Myles Turner",
-          "Peyton Watson"
-        ],
-        "rr": true,
-        "info": {
-          "Alperen Sengun": "Rockets vs Hawks \u00b7 Mon Oct 26 \u00b7 8:30 PM ET",
-          "Myles Turner": "Bucks vs Pacers \u00b7 Mon Oct 26 \u00b7 8:00 PM ET",
-          "Ace Bailey": "Jazz vs Grizzlies \u00b7 Mon Oct 26 \u00b7 9:00 PM ET",
-          "Peyton Watson": "Cavaliers vs Timberwolves \u00b7 Mon Oct 26 \u00b7 7:00 PM ET"
-        }
-      },
-      {
-        "name": "Eight-Track Heater",
-        "legs": [
-          "Brice Sensabaugh"
-        ],
-        "rr": false,
-        "market": "over 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Brice Sensabaugh": "Jazz vs Grizzlies \u00b7 Mon Oct 26 \u00b7 9:00 PM ET"
-        }
-      },
-      {
-        "name": "Flu Game",
-        "legs": [
-          "Alperen Sengun",
-          "Jaren Jackson Jr.",
-          "Jordan Walsh",
-          "Myles Turner"
-        ],
-        "rr": true,
-        "info": {
-          "Alperen Sengun": "Rockets vs Hawks \u00b7 Mon Oct 26 \u00b7 8:30 PM ET",
-          "Myles Turner": "Bucks vs Pacers \u00b7 Mon Oct 26 \u00b7 8:00 PM ET",
-          "Jaren Jackson Jr.": "Jazz vs Grizzlies \u00b7 Mon Oct 26 \u00b7 9:00 PM ET",
-          "Jordan Walsh": "Celtics vs Bulls \u00b7 Mon Oct 26 \u00b7 7:30 PM ET"
-        }
-      },
-      {
-        "name": "Gold Chain Gunner",
-        "legs": [
-          "LaMelo Ball"
-        ],
-        "rr": false,
-        "market": "over 3.5 threes",
-        "kind": "downtown",
-        "info": {
-          "LaMelo Ball": "Timberwolves vs Cavaliers \u00b7 Mon Oct 26 \u00b7 7:00 PM ET"
-        }
-      },
-      {
-        "name": "Grit and Grind",
-        "legs": [
-          "Jaren Jackson Jr.",
-          "Myles Turner",
-          "Paul George"
-        ],
-        "rr": true,
-        "info": {
-          "Paul George": "Celtics vs Bulls \u00b7 Mon Oct 26 \u00b7 7:30 PM ET",
-          "Myles Turner": "Bucks vs Pacers \u00b7 Mon Oct 26 \u00b7 8:00 PM ET",
-          "Jaren Jackson Jr.": "Jazz vs Grizzlies \u00b7 Mon Oct 26 \u00b7 9:00 PM ET"
-        }
-      },
-      {
-        "name": "Lava Flow Lob Three",
-        "legs": [
-          "Jaime Jaquez Jr."
-        ],
-        "rr": false,
-        "market": "over 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Jaime Jaquez Jr.": "Bucks vs Pacers \u00b7 Mon Oct 26 \u00b7 8:00 PM ET"
-        }
-      },
-      {
-        "name": "Lob City",
-        "legs": [
-          "Ace Bailey",
-          "Bam Adebayo",
-          "Myles Turner",
-          "Peyton Watson"
-        ],
-        "rr": true,
-        "info": {
-          "Bam Adebayo": "Heat vs Mavericks \u00b7 Mon Oct 26 \u00b7 7:30 PM ET",
-          "Myles Turner": "Bucks vs Pacers \u00b7 Mon Oct 26 \u00b7 8:00 PM ET",
-          "Ace Bailey": "Jazz vs Grizzlies \u00b7 Mon Oct 26 \u00b7 9:00 PM ET",
-          "Peyton Watson": "Cavaliers vs Timberwolves \u00b7 Mon Oct 26 \u00b7 7:00 PM ET"
-        }
-      },
-      {
-        "name": "Mr. Big Shot",
-        "legs": [
-          "Bam Adebayo",
-          "Jaren Jackson Jr.",
-          "Myles Turner"
-        ],
-        "rr": true,
-        "info": {
-          "Bam Adebayo": "Heat vs Mavericks \u00b7 Mon Oct 26 \u00b7 7:30 PM ET",
-          "Myles Turner": "Bucks vs Pacers \u00b7 Mon Oct 26 \u00b7 8:00 PM ET",
-          "Jaren Jackson Jr.": "Jazz vs Grizzlies \u00b7 Mon Oct 26 \u00b7 9:00 PM ET"
-        }
-      },
-      {
-        "name": "Pinball Wizard Pull-Up",
-        "legs": [
-          "Bam Adebayo"
-        ],
-        "rr": false,
-        "market": "over 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Bam Adebayo": "Heat vs Mavericks \u00b7 Mon Oct 26 \u00b7 7:30 PM ET"
-        }
-      },
-      {
-        "name": "Run TMC",
-        "legs": [
-          "Alperen Sengun",
-          "Jaren Jackson Jr.",
-          "Myles Turner"
-        ],
-        "rr": true,
-        "info": {
-          "Alperen Sengun": "Rockets vs Hawks \u00b7 Mon Oct 26 \u00b7 8:30 PM ET",
-          "Myles Turner": "Bucks vs Pacers \u00b7 Mon Oct 26 \u00b7 8:00 PM ET",
-          "Jaren Jackson Jr.": "Jazz vs Grizzlies \u00b7 Mon Oct 26 \u00b7 9:00 PM ET"
-        }
-      },
-      {
-        "name": "Seven Seconds or Less",
-        "legs": [
-          "Anthony Davis",
-          "Klay Thompson",
-          "Peyton Watson"
-        ],
-        "rr": true,
-        "info": {
-          "Anthony Davis": "Wizards vs Hornets \u00b7 Mon Oct 26 \u00b7 7:00 PM ET",
-          "Peyton Watson": "Cavaliers vs Timberwolves \u00b7 Mon Oct 26 \u00b7 7:00 PM ET",
-          "Klay Thompson": "Heat vs Mavericks \u00b7 Mon Oct 26 \u00b7 7:30 PM ET"
-        }
-      },
-      {
-        "name": "Showtime",
-        "legs": [
-          "Bam Adebayo",
-          "Onyeka Okongwu",
-          "Peyton Watson"
-        ],
-        "rr": true,
-        "info": {
-          "Bam Adebayo": "Heat vs Mavericks \u00b7 Mon Oct 26 \u00b7 7:30 PM ET",
-          "Peyton Watson": "Cavaliers vs Timberwolves \u00b7 Mon Oct 26 \u00b7 7:00 PM ET",
-          "Onyeka Okongwu": "Hawks vs Rockets \u00b7 Mon Oct 26 \u00b7 8:30 PM ET"
-        }
-      },
-      {
-        "name": "Sky Hook",
-        "legs": [
-          "Jaren Jackson Jr.",
-          "Myles Turner",
-          "Onyeka Okongwu",
-          "Paul George"
-        ],
-        "rr": true,
-        "info": {
-          "Paul George": "Celtics vs Bulls \u00b7 Mon Oct 26 \u00b7 7:30 PM ET",
-          "Myles Turner": "Bucks vs Pacers \u00b7 Mon Oct 26 \u00b7 8:00 PM ET",
-          "Onyeka Okongwu": "Hawks vs Rockets \u00b7 Mon Oct 26 \u00b7 8:30 PM ET",
-          "Jaren Jackson Jr.": "Jazz vs Grizzlies \u00b7 Mon Oct 26 \u00b7 9:00 PM ET"
-        }
-      },
-      {
-        "name": "Smooth Groove Rainmaker",
-        "legs": [
-          "Josh Giddey"
-        ],
-        "rr": false,
-        "market": "over 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Josh Giddey": "Bulls vs Celtics \u00b7 Mon Oct 26 \u00b7 7:30 PM ET"
-        }
-      },
-      {
-        "name": "Splash Brothers",
-        "legs": [
-          "Klay Thompson",
-          "Paul George",
-          "Peyton Watson"
-        ],
-        "rr": true,
-        "info": {
-          "Paul George": "Celtics vs Bulls \u00b7 Mon Oct 26 \u00b7 7:30 PM ET",
-          "Peyton Watson": "Cavaliers vs Timberwolves \u00b7 Mon Oct 26 \u00b7 7:00 PM ET",
-          "Klay Thompson": "Heat vs Mavericks \u00b7 Mon Oct 26 \u00b7 7:30 PM ET"
-        }
-      },
-      {
-        "name": "The Bank Is Open",
-        "legs": [
-          "Anthony Davis",
-          "Jaren Jackson Jr.",
-          "Myles Turner",
-          "Onyeka Okongwu"
-        ],
-        "rr": true,
-        "info": {
-          "Anthony Davis": "Wizards vs Hornets \u00b7 Mon Oct 26 \u00b7 7:00 PM ET",
-          "Myles Turner": "Bucks vs Pacers \u00b7 Mon Oct 26 \u00b7 8:00 PM ET",
-          "Onyeka Okongwu": "Hawks vs Rockets \u00b7 Mon Oct 26 \u00b7 8:30 PM ET",
-          "Jaren Jackson Jr.": "Jazz vs Grizzlies \u00b7 Mon Oct 26 \u00b7 9:00 PM ET"
-        }
-      },
-      {
-        "name": "The Block",
-        "legs": [
-          "Ace Bailey",
-          "Myles Turner",
-          "Paul George",
-          "Peyton Watson"
-        ],
-        "rr": true,
-        "info": {
-          "Paul George": "Celtics vs Bulls \u00b7 Mon Oct 26 \u00b7 7:30 PM ET",
-          "Myles Turner": "Bucks vs Pacers \u00b7 Mon Oct 26 \u00b7 8:00 PM ET",
-          "Ace Bailey": "Jazz vs Grizzlies \u00b7 Mon Oct 26 \u00b7 9:00 PM ET",
-          "Peyton Watson": "Cavaliers vs Timberwolves \u00b7 Mon Oct 26 \u00b7 7:00 PM ET"
-        }
-      },
-      {
-        "name": "The Shot",
-        "legs": [
-          "Bam Adebayo",
-          "Jaren Jackson Jr.",
-          "Myles Turner",
-          "Onyeka Okongwu"
-        ],
-        "rr": true,
-        "info": {
-          "Bam Adebayo": "Heat vs Mavericks \u00b7 Mon Oct 26 \u00b7 7:30 PM ET",
-          "Myles Turner": "Bucks vs Pacers \u00b7 Mon Oct 26 \u00b7 8:00 PM ET",
-          "Onyeka Okongwu": "Hawks vs Rockets \u00b7 Mon Oct 26 \u00b7 8:30 PM ET",
-          "Jaren Jackson Jr.": "Jazz vs Grizzlies \u00b7 Mon Oct 26 \u00b7 9:00 PM ET"
-        }
-      },
-      {
-        "name": "Twin Towers",
-        "legs": [
-          "Alperen Sengun",
-          "Klay Thompson",
-          "Peyton Watson"
-        ],
-        "rr": true,
-        "info": {
-          "Alperen Sengun": "Rockets vs Hawks \u00b7 Mon Oct 26 \u00b7 8:30 PM ET",
-          "Peyton Watson": "Cavaliers vs Timberwolves \u00b7 Mon Oct 26 \u00b7 7:00 PM ET",
-          "Klay Thompson": "Heat vs Mavericks \u00b7 Mon Oct 26 \u00b7 7:30 PM ET"
-        }
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Bad Boys": [
         "Anthony Davis",
@@ -536,13 +163,10 @@
         "Brice Sensabaugh"
       ]
     },
-    "slate": "2026-10-26",
-    "hits": [
-      "a:Paul George",
-      "dt:Brice Sensabaugh"
-    ],
+    "slate": null,
+    "hits": [],
     "ltd": null,
     "last_modified": "Tue, 27 Oct 2026 03:51:44 GMT",
-    "checked_at": "2026-10-27T03:52:15.075838+00:00"
+    "checked_at": "2026-10-27T04:00:19.131551+00:00"
   }
 }
