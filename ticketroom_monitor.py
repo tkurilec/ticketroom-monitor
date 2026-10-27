@@ -615,10 +615,16 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
                     hits.add(f"ftd:{nm}")
             elif p.get("hr"):
                 hits.add(f"a:{nm}")
-    # Downtown picks: the site bakes made-threes from nba.com each build and
-    # marks a winner with res == "w".
+    # Downtown picks: the site bakes made-threes from nba.com each build into
+    # "made" (live counter) with "kmin" the threshold; res == "w" only lands
+    # at settle, so the live counter is the real-time trigger.
     for p in dt_picks:
-        if p.get("name") and p.get("res") == "w":
+        if not p.get("name"):
+            continue
+        made, kmin = p.get("made"), p.get("kmin")
+        cleared = (isinstance(made, (int, float))
+                   and isinstance(kmin, (int, float)) and made >= kmin)
+        if cleared or p.get("res") == "w":
             hits.add(f"dt:{p['name']}")
     return {"confirmed": confirmed, "hits": sorted(hits),
             "tot_raw": tot_raw, "espn": meta.get("espn") or {},
