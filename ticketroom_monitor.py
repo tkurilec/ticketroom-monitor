@@ -33,6 +33,10 @@ PAGES = {
 # Some ticket kinds are a different market than their board's default prop:
 # NFL's "Opening Drive" (kind ftd) is FIRST TD scorer. (Soccer's "brace" kind
 # is NOT a 2-goal market — it's the 2-unit pick-of-the-day lane, default prop.)
+# NBA "Downtown" threes-made singles: paused 2026-10-27 (the site kept
+# pulling the picks right around tip). Set True to resume.
+DOWNTOWN_ENABLED = False
+
 KIND_MARKETS = {
     "ftd": "first touchdown scorer",
 }
@@ -670,7 +674,10 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
     # meta.dt is the NBA "Downtown" threes-made section (added 2026-10-26):
     # independent singles, each player over a line of made threes. The line
     # rides in the market so the card and Gambly link are self-describing.
-    dt_picks = (meta.get("dt") or {}).get("picks") or []
+    # PAUSED per the user 2026-10-27: the site keeps pulling Downtown picks
+    # right around tip, so announcing them burns people on withdrawn bets.
+    # Flip DOWNTOWN_ENABLED to True to resume cards + hit pings.
+    dt_picks = ((meta.get("dt") or {}).get("picks") or []) if DOWNTOWN_ENABLED else []
     for p in dt_picks:
         nm = p.get("name")
         if not nm:
