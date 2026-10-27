@@ -5,8 +5,8 @@
     "announced": {},
     "slate": null,
     "hits": [],
-    "last_modified": "Tue, 27 Oct 2026 00:26:51 GMT",
-    "checked_at": "2026-10-27T00:30:18.093063+00:00"
+    "last_modified": "Tue, 27 Oct 2026 00:31:20 GMT",
+    "checked_at": "2026-10-27T00:32:13.357517+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "5f1fc4d4059a11c4a6c77cb48f829a5dc4c6de717bae743bef11292559c89fb3",
@@ -59,8 +59,8 @@
     "hits": [
       "a:Ferran Torres"
     ],
-    "last_modified": "Tue, 27 Oct 2026 00:26:51 GMT",
-    "checked_at": "2026-10-27T00:30:18.421462+00:00"
+    "last_modified": "Tue, 27 Oct 2026 00:31:20 GMT",
+    "checked_at": "2026-10-27T00:32:13.702412+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "700c29d3ef0c3421f0b0b93dc9bde247198e36d03f92f872cd1e4c8673cefa08",
@@ -100,11 +100,11 @@
     "hits": [
       "ftd:Saquon Barkley"
     ],
-    "last_modified": "Tue, 27 Oct 2026 00:26:51 GMT",
-    "checked_at": "2026-10-27T00:30:18.695319+00:00"
+    "last_modified": "Tue, 27 Oct 2026 00:31:20 GMT",
+    "checked_at": "2026-10-27T00:32:13.965427+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "d488a4b8f19050cedf15161e35c75acc599bd2d139fef3aaa624dac8efde346e",
+    "hash": "4f55f409553b58d2cef9004f43e57cfeb7b41016f6a386172a73121ebdfed984",
     "confirmed": [
       {
         "name": "Bad Boys",
@@ -150,18 +150,6 @@
           "Myles Turner": "Bucks vs Pacers \u00b7 Mon Oct 26 \u00b7 8:00 PM ET",
           "Ace Bailey": "Jazz vs Grizzlies \u00b7 Mon Oct 26 \u00b7 9:00 PM ET",
           "Peyton Watson": "Cavaliers vs Timberwolves \u00b7 Mon Oct 26 \u00b7 7:00 PM ET"
-        }
-      },
-      {
-        "name": "Eight-Track Heater",
-        "legs": [
-          "Brice Sensabaugh"
-        ],
-        "rr": false,
-        "market": "over 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Brice Sensabaugh": "Jazz vs Grizzlies \u00b7 Mon Oct 26 \u00b7 9:00 PM ET"
         }
       },
       {
@@ -516,7 +504,7 @@
     "hits": [
       "a:Paul George"
     ],
-    "last_modified": "Tue, 27 Oct 2026 00:26:51 GMT",
-    "checked_at": "2026-10-27T00:30:25.222380+00:00"
+    "last_modified": "Tue, 27 Oct 2026 00:31:20 GMT",
+    "checked_at": "2026-10-27T00:32:14.540351+00:00"
   }
 }
