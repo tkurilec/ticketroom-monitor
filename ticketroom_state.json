@@ -6,8 +6,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 04:56:48 GMT",
-    "checked_at": "2026-10-27T04:57:16.797616+00:00"
+    "last_modified": "Tue, 27 Oct 2026 10:00:59 GMT",
+    "checked_at": "2026-10-27T10:01:10.888154+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "318ed03f53c1d252a6d56f751c3ef47fbce752318add94b46d4685304f39240d",
@@ -36,8 +36,8 @@
     "slate": "2026-10-27",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 04:56:48 GMT",
-    "checked_at": "2026-10-27T04:57:18.765836+00:00"
+    "last_modified": "Tue, 27 Oct 2026 10:00:59 GMT",
+    "checked_at": "2026-10-27T10:01:11.448143+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -62,121 +62,17 @@
       "best": 21,
       "settled": true
     },
-    "last_modified": "Tue, 27 Oct 2026 04:56:48 GMT",
-    "checked_at": "2026-10-27T04:57:18.921413+00:00"
+    "last_modified": "Tue, 27 Oct 2026 10:00:59 GMT",
+    "checked_at": "2026-10-27T10:01:11.593836+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Bad Boys": [
-        "Anthony Davis",
-        "Jaren Jackson Jr.",
-        "Myles Turner"
-      ],
-      "Dame Time": [
-        "Ace Bailey",
-        "Anthony Davis",
-        "Myles Turner",
-        "Peyton Watson"
-      ],
-      "Dream Shake": [
-        "Ace Bailey",
-        "Alperen Sengun",
-        "Myles Turner",
-        "Peyton Watson"
-      ],
-      "Flu Game": [
-        "Alperen Sengun",
-        "Jaren Jackson Jr.",
-        "Jordan Walsh",
-        "Myles Turner"
-      ],
-      "Gold Chain Gunner": [
-        "LaMelo Ball"
-      ],
-      "Grit and Grind": [
-        "Jaren Jackson Jr.",
-        "Myles Turner",
-        "Paul George"
-      ],
-      "Lava Flow Lob Three": [
-        "Jaime Jaquez Jr."
-      ],
-      "Lob City": [
-        "Ace Bailey",
-        "Bam Adebayo",
-        "Myles Turner",
-        "Peyton Watson"
-      ],
-      "Mr. Big Shot": [
-        "Bam Adebayo",
-        "Jaren Jackson Jr.",
-        "Myles Turner"
-      ],
-      "Pinball Wizard Pull-Up": [
-        "Bam Adebayo"
-      ],
-      "Run TMC": [
-        "Alperen Sengun",
-        "Jaren Jackson Jr.",
-        "Myles Turner"
-      ],
-      "Seven Seconds or Less": [
-        "Anthony Davis",
-        "Klay Thompson",
-        "Peyton Watson"
-      ],
-      "Showtime": [
-        "Bam Adebayo",
-        "Onyeka Okongwu",
-        "Peyton Watson"
-      ],
-      "Sky Hook": [
-        "Jaren Jackson Jr.",
-        "Myles Turner",
-        "Onyeka Okongwu",
-        "Paul George"
-      ],
-      "Smooth Groove Rainmaker": [
-        "Josh Giddey"
-      ],
-      "Splash Brothers": [
-        "Klay Thompson",
-        "Paul George",
-        "Peyton Watson"
-      ],
-      "The Bank Is Open": [
-        "Anthony Davis",
-        "Jaren Jackson Jr.",
-        "Myles Turner",
-        "Onyeka Okongwu"
-      ],
-      "The Block": [
-        "Ace Bailey",
-        "Myles Turner",
-        "Paul George",
-        "Peyton Watson"
-      ],
-      "The Shot": [
-        "Bam Adebayo",
-        "Jaren Jackson Jr.",
-        "Myles Turner",
-        "Onyeka Okongwu"
-      ],
-      "Twin Towers": [
-        "Alperen Sengun",
-        "Klay Thompson",
-        "Peyton Watson"
-      ],
-      "Eight-Track Heater": [
-        "Brice Sensabaugh"
-      ]
-    },
-    "slate": null,
+    "announced": {},
+    "slate": "2026-10-27",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 04:56:48 GMT",
-    "checked_at": "2026-10-27T04:57:19.520950+00:00"
+    "last_modified": "Tue, 27 Oct 2026 10:00:59 GMT",
+    "checked_at": "2026-10-27T10:01:11.847868+00:00"
   }
 }
