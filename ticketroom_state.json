@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 20:11:47 GMT",
-    "checked_at": "2026-10-27T20:14:14.858019+00:00"
+    "last_modified": "Tue, 27 Oct 2026 22:58:58 GMT",
+    "checked_at": "2026-10-27T23:00:21.147635+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "88e7ed086bd702460b568eacf2a48c79fc01d859cc036c1dfd57f76189cbcb19",
@@ -70,8 +70,8 @@
       "t:Torino v Como: Torino to score"
     ],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 20:11:47 GMT",
-    "checked_at": "2026-10-27T20:14:16.077545+00:00"
+    "last_modified": "Tue, 27 Oct 2026 22:58:58 GMT",
+    "checked_at": "2026-10-27T23:00:21.822114+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -97,18 +97,301 @@
       "best": 21,
       "settled": true
     },
-    "last_modified": "Tue, 27 Oct 2026 20:11:47 GMT",
-    "checked_at": "2026-10-27T20:14:16.221077+00:00"
+    "last_modified": "Tue, 27 Oct 2026 22:58:58 GMT",
+    "checked_at": "2026-10-27T23:00:21.888440+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "86d8dc820c19c2e31c697961ce2ba2791d900ea26c633bb3a5088149cae3241a",
+    "confirmed": [
+      {
+        "name": "Bad Boys",
+        "legs": [
+          "Derrick White",
+          "Josh Hart",
+          "Victor Wembanyama"
+        ],
+        "rr": true,
+        "info": {
+          "Victor Wembanyama": "Spurs vs Kings \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
+          "Josh Hart": "Knicks vs Pistons \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
+          "Derrick White": "Celtics vs Nets \u00b7 Tue Oct 27 \u00b7 7:30 PM ET"
+        }
+      },
+      {
+        "name": "Dame Time",
+        "legs": [
+          "Day'Ron Sharpe",
+          "Ja Morant",
+          "Josh Hart",
+          "Victor Wembanyama"
+        ],
+        "rr": true,
+        "info": {
+          "Victor Wembanyama": "Spurs vs Kings \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
+          "Ja Morant": "Trail Blazers vs Lakers \u00b7 Tue Oct 27 \u00b7 11:00 PM ET",
+          "Josh Hart": "Knicks vs Pistons \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
+          "Day'Ron Sharpe": "Nets vs Celtics \u00b7 Tue Oct 27 \u00b7 7:30 PM ET"
+        }
+      },
+      {
+        "name": "Dream Shake",
+        "legs": [
+          "Domantas Sabonis",
+          "Ja Morant",
+          "Jayson Tatum",
+          "Josh Hart"
+        ],
+        "rr": true,
+        "info": {
+          "Jayson Tatum": "Celtics vs Nets \u00b7 Tue Oct 27 \u00b7 7:30 PM ET",
+          "Ja Morant": "Trail Blazers vs Lakers \u00b7 Tue Oct 27 \u00b7 11:00 PM ET",
+          "Josh Hart": "Knicks vs Pistons \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
+          "Domantas Sabonis": "Kings vs Spurs \u00b7 Tue Oct 27 \u00b7 8:00 PM ET"
+        }
+      },
+      {
+        "name": "Eight-Track Heater",
+        "legs": [
+          "Keon Ellis"
+        ],
+        "rr": false,
+        "market": "over 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Keon Ellis": "Nets vs Celtics \u00b7 Tue Oct 27 \u00b7 7:30 PM ET"
+        }
+      },
+      {
+        "name": "Flu Game",
+        "legs": [
+          "Derrick White",
+          "Ja Morant",
+          "Paul Reed",
+          "Zach LaVine"
+        ],
+        "rr": true,
+        "info": {
+          "Paul Reed": "Pistons vs Knicks \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
+          "Ja Morant": "Trail Blazers vs Lakers \u00b7 Tue Oct 27 \u00b7 11:00 PM ET",
+          "Zach LaVine": "Kings vs Spurs \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
+          "Derrick White": "Celtics vs Nets \u00b7 Tue Oct 27 \u00b7 7:30 PM ET"
+        }
+      },
+      {
+        "name": "Linsanity",
+        "legs": [
+          "Day'Ron Sharpe",
+          "Domantas Sabonis",
+          "Ja Morant",
+          "Paul Reed"
+        ],
+        "rr": true,
+        "info": {
+          "Paul Reed": "Pistons vs Knicks \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
+          "Ja Morant": "Trail Blazers vs Lakers \u00b7 Tue Oct 27 \u00b7 11:00 PM ET",
+          "Domantas Sabonis": "Kings vs Spurs \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
+          "Day'Ron Sharpe": "Nets vs Celtics \u00b7 Tue Oct 27 \u00b7 7:30 PM ET"
+        }
+      },
+      {
+        "name": "Run TMC",
+        "legs": [
+          "Jayson Tatum",
+          "Josh Hart",
+          "Zach LaVine"
+        ],
+        "rr": true,
+        "info": {
+          "Jayson Tatum": "Celtics vs Nets \u00b7 Tue Oct 27 \u00b7 7:30 PM ET",
+          "Zach LaVine": "Kings vs Spurs \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
+          "Josh Hart": "Knicks vs Pistons \u00b7 Tue Oct 27 \u00b7 8:00 PM ET"
+        }
+      },
+      {
+        "name": "Sky Hook",
+        "legs": [
+          "Ja Morant",
+          "Jayson Tatum",
+          "John Collins",
+          "Zach LaVine"
+        ],
+        "rr": true,
+        "info": {
+          "Jayson Tatum": "Celtics vs Nets \u00b7 Tue Oct 27 \u00b7 7:30 PM ET",
+          "Ja Morant": "Trail Blazers vs Lakers \u00b7 Tue Oct 27 \u00b7 11:00 PM ET",
+          "John Collins": "Pistons vs Knicks \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
+          "Zach LaVine": "Kings vs Spurs \u00b7 Tue Oct 27 \u00b7 8:00 PM ET"
+        }
+      },
+      {
+        "name": "Splash Brothers",
+        "legs": [
+          "Ja Morant",
+          "Jayson Tatum",
+          "John Collins"
+        ],
+        "rr": true,
+        "info": {
+          "Jayson Tatum": "Celtics vs Nets \u00b7 Tue Oct 27 \u00b7 7:30 PM ET",
+          "Ja Morant": "Trail Blazers vs Lakers \u00b7 Tue Oct 27 \u00b7 11:00 PM ET",
+          "John Collins": "Pistons vs Knicks \u00b7 Tue Oct 27 \u00b7 8:00 PM ET"
+        }
+      },
+      {
+        "name": "The Bank Is Open",
+        "legs": [
+          "Derrick White",
+          "John Collins",
+          "Luka Doncic",
+          "Zach LaVine"
+        ],
+        "rr": true,
+        "info": {
+          "Luka Doncic": "Lakers vs Trail Blazers \u00b7 Tue Oct 27 \u00b7 11:00 PM ET",
+          "John Collins": "Pistons vs Knicks \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
+          "Zach LaVine": "Kings vs Spurs \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
+          "Derrick White": "Celtics vs Nets \u00b7 Tue Oct 27 \u00b7 7:30 PM ET"
+        }
+      },
+      {
+        "name": "The Block",
+        "legs": [
+          "Day'Ron Sharpe",
+          "Domantas Sabonis",
+          "John Collins",
+          "Luka Doncic"
+        ],
+        "rr": true,
+        "info": {
+          "Luka Doncic": "Lakers vs Trail Blazers \u00b7 Tue Oct 27 \u00b7 11:00 PM ET",
+          "John Collins": "Pistons vs Knicks \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
+          "Domantas Sabonis": "Kings vs Spurs \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
+          "Day'Ron Sharpe": "Nets vs Celtics \u00b7 Tue Oct 27 \u00b7 7:30 PM ET"
+        }
+      },
+      {
+        "name": "The Process",
+        "legs": [
+          "Derrick White",
+          "Domantas Sabonis",
+          "Paul Reed"
+        ],
+        "rr": true,
+        "info": {
+          "Paul Reed": "Pistons vs Knicks \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
+          "Domantas Sabonis": "Kings vs Spurs \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
+          "Derrick White": "Celtics vs Nets \u00b7 Tue Oct 27 \u00b7 7:30 PM ET"
+        }
+      },
+      {
+        "name": "The Shot",
+        "legs": [
+          "Derrick White",
+          "Ja Morant",
+          "John Collins",
+          "Victor Wembanyama"
+        ],
+        "rr": true,
+        "info": {
+          "Victor Wembanyama": "Spurs vs Kings \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
+          "Ja Morant": "Trail Blazers vs Lakers \u00b7 Tue Oct 27 \u00b7 11:00 PM ET",
+          "John Collins": "Pistons vs Knicks \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
+          "Derrick White": "Celtics vs Nets \u00b7 Tue Oct 27 \u00b7 7:30 PM ET"
+        }
+      }
+    ],
+    "announced": {
+      "Bad Boys": [
+        "Derrick White",
+        "Josh Hart",
+        "Victor Wembanyama"
+      ],
+      "Dame Time": [
+        "Day'Ron Sharpe",
+        "Ja Morant",
+        "Josh Hart",
+        "Victor Wembanyama"
+      ],
+      "Dream Shake": [
+        "Domantas Sabonis",
+        "Ja Morant",
+        "Jayson Tatum",
+        "Josh Hart"
+      ],
+      "Eight-Track Heater": [
+        "Keon Ellis"
+      ],
+      "Flu Game": [
+        "Derrick White",
+        "Ja Morant",
+        "Paul Reed",
+        "Zach LaVine"
+      ],
+      "Linsanity": [
+        "Day'Ron Sharpe",
+        "Domantas Sabonis",
+        "Ja Morant",
+        "Paul Reed"
+      ],
+      "Run TMC": [
+        "Jayson Tatum",
+        "Josh Hart",
+        "Zach LaVine"
+      ],
+      "Sky Hook": [
+        "Ja Morant",
+        "Jayson Tatum",
+        "John Collins",
+        "Zach LaVine"
+      ],
+      "Splash Brothers": [
+        "Ja Morant",
+        "Jayson Tatum",
+        "John Collins"
+      ],
+      "The Bank Is Open": [
+        "Derrick White",
+        "John Collins",
+        "Luka Doncic",
+        "Zach LaVine"
+      ],
+      "The Block": [
+        "Day'Ron Sharpe",
+        "Domantas Sabonis",
+        "John Collins",
+        "Luka Doncic"
+      ],
+      "The Process": [
+        "Derrick White",
+        "Domantas Sabonis",
+        "Paul Reed"
+      ],
+      "The Shot": [
+        "Derrick White",
+        "Ja Morant",
+        "John Collins",
+        "Victor Wembanyama"
+      ]
+    },
+    "abets": [
+      "downtown|over 1.5 threes|Keon Ellis",
+      "|first basket|Day'Ron Sharpe,Domantas Sabonis,Ja Morant,Paul Reed",
+      "|first basket|Day'Ron Sharpe,Domantas Sabonis,John Collins,Luka Doncic",
+      "|first basket|Day'Ron Sharpe,Ja Morant,Josh Hart,Victor Wembanyama",
+      "|first basket|Derrick White,Domantas Sabonis,Paul Reed",
+      "|first basket|Derrick White,Ja Morant,John Collins,Victor Wembanyama",
+      "|first basket|Derrick White,Ja Morant,Paul Reed,Zach LaVine",
+      "|first basket|Derrick White,John Collins,Luka Doncic,Zach LaVine",
+      "|first basket|Derrick White,Josh Hart,Victor Wembanyama",
+      "|first basket|Domantas Sabonis,Ja Morant,Jayson Tatum,Josh Hart",
+      "|first basket|Ja Morant,Jayson Tatum,John Collins",
+      "|first basket|Ja Morant,Jayson Tatum,John Collins,Zach LaVine",
+      "|first basket|Jayson Tatum,Josh Hart,Zach LaVine"
+    ],
     "slate": "2026-10-27",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 20:11:47 GMT",
-    "checked_at": "2026-10-27T20:14:16.350156+00:00"
+    "last_modified": "Tue, 27 Oct 2026 22:58:58 GMT",
+    "checked_at": "2026-10-27T23:00:25.063971+00:00"
   }
 }
