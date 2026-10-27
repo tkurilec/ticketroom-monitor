@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 23:36:23 GMT",
-    "checked_at": "2026-10-27T23:40:17.829859+00:00"
+    "last_modified": "Tue, 27 Oct 2026 23:41:56 GMT",
+    "checked_at": "2026-10-27T23:42:11.635379+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "b2359b66dae4ab1ecc80061df4c0ed3dbbb9d77f28c9d9d316ec5d773829a1eb",
@@ -46,8 +46,8 @@
     "slate": "2026-10-28",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 23:36:23 GMT",
-    "checked_at": "2026-10-27T23:40:18.613958+00:00"
+    "last_modified": "Tue, 27 Oct 2026 23:41:56 GMT",
+    "checked_at": "2026-10-27T23:42:13.074562+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -73,11 +73,11 @@
       "best": 21,
       "settled": true
     },
-    "last_modified": "Tue, 27 Oct 2026 23:36:23 GMT",
-    "checked_at": "2026-10-27T23:40:18.928711+00:00"
+    "last_modified": "Tue, 27 Oct 2026 23:41:56 GMT",
+    "checked_at": "2026-10-27T23:42:13.253801+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "2c95bdc7f79ff4913619098d6495b5f0ffc5eb5e28ceb8b768ff0eba46ad559c",
+    "hash": "0872da62fd23e8f4b9740f6645dede45086c402989f8daac1314f2c14cc26c7f",
     "confirmed": [
       {
         "name": "Bad Boys",
@@ -153,18 +153,6 @@
           "Luka Doncic": "Lakers vs Trail Blazers \u00b7 Tue Oct 27 \u00b7 11:00 PM ET",
           "Josh Hart": "Knicks vs Pistons \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
           "Domantas Sabonis": "Kings vs Spurs \u00b7 Tue Oct 27 \u00b7 8:00 PM ET"
-        }
-      },
-      {
-        "name": "Lava Lamp Lefty",
-        "legs": [
-          "De'Andre Hunter"
-        ],
-        "rr": false,
-        "market": "over 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "De'Andre Hunter": "Kings vs Spurs \u00b7 Tue Oct 27 \u00b7 8:00 PM ET"
         }
       },
       {
@@ -447,7 +435,7 @@
     "slate": "2026-10-27",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 23:36:23 GMT",
-    "checked_at": "2026-10-27T23:40:20.595455+00:00"
+    "last_modified": "Tue, 27 Oct 2026 23:41:56 GMT",
+    "checked_at": "2026-10-27T23:42:13.888716+00:00"
   }
 }
