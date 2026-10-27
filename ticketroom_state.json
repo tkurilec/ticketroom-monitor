@@ -6,8 +6,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 02:52:17 GMT",
-    "checked_at": "2026-10-27T02:53:10.079747+00:00"
+    "last_modified": "Tue, 27 Oct 2026 03:17:13 GMT",
+    "checked_at": "2026-10-27T03:19:12.218270+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "5f1fc4d4059a11c4a6c77cb48f829a5dc4c6de717bae743bef11292559c89fb3",
@@ -61,8 +61,8 @@
       "a:Ferran Torres"
     ],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 02:52:17 GMT",
-    "checked_at": "2026-10-27T02:53:10.763234+00:00"
+    "last_modified": "Tue, 27 Oct 2026 03:17:13 GMT",
+    "checked_at": "2026-10-27T03:19:12.749917+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "bc718a8d66e650304fd39a5a56d789264b7e35adc3166b3a7203757ec9d1e817",
@@ -122,10 +122,10 @@
         "George Pickens"
       ],
       "best": 21,
-      "settled": false
+      "settled": true
     },
-    "last_modified": "Tue, 27 Oct 2026 02:52:17 GMT",
-    "checked_at": "2026-10-27T02:53:11.534337+00:00"
+    "last_modified": "Tue, 27 Oct 2026 03:17:13 GMT",
+    "checked_at": "2026-10-27T03:19:13.637108+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "d488a4b8f19050cedf15161e35c75acc599bd2d139fef3aaa624dac8efde346e",
@@ -542,7 +542,7 @@
       "dt:Brice Sensabaugh"
     ],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 02:52:17 GMT",
-    "checked_at": "2026-10-27T02:53:13.795916+00:00"
+    "last_modified": "Tue, 27 Oct 2026 03:17:13 GMT",
+    "checked_at": "2026-10-27T03:19:14.275168+00:00"
   }
 }
