@@ -6,28 +6,38 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 03:51:44 GMT",
-    "checked_at": "2026-10-27T04:00:18.845806+00:00"
+    "last_modified": "Tue, 27 Oct 2026 04:56:48 GMT",
+    "checked_at": "2026-10-27T04:57:16.797616+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "318ed03f53c1d252a6d56f751c3ef47fbce752318add94b46d4685304f39240d",
+    "confirmed": [
+      {
+        "name": "The Ninety",
+        "legs": [
+          "Sassuolo v Lazio: Sassuolo under 1.5 goals",
+          "Torino v Como: Torino to score"
+        ],
+        "rr": false,
+        "market": "",
+        "kind": "totals",
+        "info": {
+          "Torino v Como: Torino to score": "Tue Oct 27 \u00b7 3:45 PM ET",
+          "Sassuolo v Lazio: Sassuolo under 1.5 goals": "Tue Oct 27 \u00b7 1:30 PM ET"
+        }
+      }
+    ],
     "announced": {
-      "Full-Time Whistle": [
-        "Sevilla v Osasuna: Sevilla under 1.5 goals"
-      ],
-      "Leading Man": [
-        "Ferran Torres"
-      ],
-      "Target Man": [
-        "Ferran Torres"
+      "The Ninety": [
+        "Sassuolo v Lazio: Sassuolo under 1.5 goals",
+        "Torino v Como: Torino to score"
       ]
     },
-    "slate": null,
+    "slate": "2026-10-27",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 03:51:44 GMT",
-    "checked_at": "2026-10-27T04:00:18.877328+00:00"
+    "last_modified": "Tue, 27 Oct 2026 04:56:48 GMT",
+    "checked_at": "2026-10-27T04:57:18.765836+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -52,8 +62,8 @@
       "best": 21,
       "settled": true
     },
-    "last_modified": "Tue, 27 Oct 2026 03:51:44 GMT",
-    "checked_at": "2026-10-27T04:00:19.105075+00:00"
+    "last_modified": "Tue, 27 Oct 2026 04:56:48 GMT",
+    "checked_at": "2026-10-27T04:57:18.921413+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -166,7 +176,7 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 03:51:44 GMT",
-    "checked_at": "2026-10-27T04:00:19.131551+00:00"
+    "last_modified": "Tue, 27 Oct 2026 04:56:48 GMT",
+    "checked_at": "2026-10-27T04:57:19.520950+00:00"
   }
 }
