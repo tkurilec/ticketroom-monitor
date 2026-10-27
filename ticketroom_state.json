@@ -3,11 +3,12 @@
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "announced": {},
+    "abets": [],
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 19:07:10 GMT",
-    "checked_at": "2026-10-27T19:07:11.736913+00:00"
+    "last_modified": "Tue, 27 Oct 2026 19:07:56 GMT",
+    "checked_at": "2026-10-27T19:12:13.391716+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "88e7ed086bd702460b568eacf2a48c79fc01d859cc036c1dfd57f76189cbcb19",
@@ -59,11 +60,15 @@
         "Serhou Guirassy"
       ]
     },
+    "abets": [
+      "totals||Sassuolo v Lazio: Sassuolo under 1.5 goals,Torino v Como: Torino to score",
+      "|anytime goalscorer|Serhou Guirassy"
+    ],
     "slate": "2026-10-27",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 19:07:10 GMT",
-    "checked_at": "2026-10-27T19:07:13.718577+00:00"
+    "last_modified": "Tue, 27 Oct 2026 19:07:56 GMT",
+    "checked_at": "2026-10-27T19:12:14.109633+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -79,6 +84,7 @@
         "George Pickens"
       ]
     },
+    "abets": [],
     "slate": null,
     "hits": [],
     "ltd": {
@@ -88,17 +94,18 @@
       "best": 21,
       "settled": true
     },
-    "last_modified": "Tue, 27 Oct 2026 19:07:10 GMT",
-    "checked_at": "2026-10-27T19:07:13.787893+00:00"
+    "last_modified": "Tue, 27 Oct 2026 19:07:56 GMT",
+    "checked_at": "2026-10-27T19:12:14.351807+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "announced": {},
+    "abets": [],
     "slate": "2026-10-27",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 19:07:10 GMT",
-    "checked_at": "2026-10-27T19:07:14.044386+00:00"
+    "last_modified": "Tue, 27 Oct 2026 19:07:56 GMT",
+    "checked_at": "2026-10-27T19:12:14.499618+00:00"
   }
 }
