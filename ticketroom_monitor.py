@@ -782,12 +782,25 @@ def save_state(state: dict) -> None:
     STATE_FILE.write_text(json.dumps(state, indent=2) + "\n", encoding="utf-8")
 
 
+def bet_key(ent: dict, board_market: str = "") -> str:
+    """Content identity of a ticket's BET: kind, effective market, legs.
+    Two differently named tickets carrying the same bet are one ping — the
+    site posted "Six-Yard Box" and "The Banker" (board single + pick of the
+    day) as the identical Guirassy anytime single on 2026-10-27 and both
+    announced. Different markets on the same player stay distinct bets."""
+    return "|".join([ent.get("kind") or "",
+                     ent.get("market", board_market) or "",
+                     ",".join(ent["legs"])])
+
+
 def describe_change(prev_confirmed: list | None, new_confirmed: list,
-                    market: str = "") -> list[dict]:
+                    market: str = "", announced_bets: set | None = None) -> list[dict]:
     """Build one embed PER fresh ticket — Discord truncates a single embed
     stuffed with many fields, so every ticket gets its own card.
     prev_confirmed is the slate's ANNOUNCED map (name -> legs): a ticket that
-    blinks off the board and back must not re-announce (site builds flap)."""
+    blinks off the board and back must not re-announce (site builds flap).
+    announced_bets holds bet_key()s already posted this slate: a new NAME
+    carrying an identical bet is silent."""
     embeds = []
     if prev_confirmed is None:
         return embeds
@@ -795,6 +808,11 @@ def describe_change(prev_confirmed: list | None, new_confirmed: list,
     new = {t["name"]: t for t in new_confirmed}
 
     fresh = [n for n in new if n not in prev or prev[n] != new[n]["legs"]]
+    for ticket_name in list(fresh):
+        if announced_bets is not None and bet_key(new[ticket_name], market) in announced_bets:
+            print(f"  (skipping {ticket_name!r} — same bet already announced "
+                  f"this slate under another name)")
+            fresh.remove(ticket_name)
     for ticket_name in fresh:
         legs = new[ticket_name]["legs"]
         # A ticket may carry its own market wording (e.g. the Totals Board's
@@ -926,18 +944,24 @@ def check_all() -> None:
         # (build flaps double-posted otherwise); resets when the slate rolls.
         slate = sig.get("slate") if sig else None
         announced = {}
+        abets = set()
         if prev is not None and (slate is None or prev.get("slate") == slate):
             announced = dict(prev.get("announced") or {})
             if not announced and prev.get("confirmed"):
                 # migrate older state without the ledger
                 announced = {t["name"]: t["legs"] for t in prev["confirmed"]}
+            abets = set(prev.get("abets") or [])
+            if not abets and prev.get("confirmed"):
+                # migrate older state without the bet-content ledger
+                abets = {bet_key(t, MARKETS.get(name, ""))
+                         for t in prev["confirmed"]}
 
         if prev is None:
             first_run_pages.append(name)
         elif prev.get("hash") != digest:
             print(f"CHANGE detected on {name} ({url}) last_modified={last_modified}")
             change_fields = (describe_change(announced, confirmed,
-                                             MARKETS.get(name, ""))
+                                             MARKETS.get(name, ""), abets)
                              if confirmed is not None else [])
             if change_fields:
                 notify_discord(webhook, name, url, last_modified, change_fields)
@@ -949,6 +973,7 @@ def check_all() -> None:
         if confirmed is not None:
             for t in confirmed:
                 announced[t["name"]] = t["legs"]
+                abets.add(bet_key(t, MARKETS.get(name, "")))
 
         # Mid-game hit alerts. "hits" missing from prev means this is the
         # feature's first run — baseline silently so a live slate doesn't
@@ -1001,6 +1026,7 @@ def check_all() -> None:
         if (prev is None or prev.get("hash") != digest
                 or prev.get("hits") != hits
                 or prev.get("announced") != announced
+                or set(prev.get("abets") or []) != abets
                 or prev.get("ltd") != ltd_state
                 or prev.get("slate") != slate):
             changed = True
@@ -1008,6 +1034,7 @@ def check_all() -> None:
             "hash": digest,
             "confirmed": confirmed,
             "announced": announced,
+            "abets": sorted(abets),
             "slate": slate,
             "hits": hits,
             "ltd": ltd_state,
