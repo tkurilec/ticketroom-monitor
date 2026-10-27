@@ -892,7 +892,21 @@ def check_all() -> None:
                                                    sig.get("tot_raw") or [],
                                                    sig["espn"])
             # Only tokens that belong to a confirmed ticket's legs count.
-            hits = sorted(hits & leg_tokens)
+            hits &= leg_tokens
+            # Hits are STICKY for the slate: a hit can't un-happen, but its
+            # sources can flap — a site build regressed Brice Sensabaugh's
+            # threes "made" counter for one cycle on 2026-10-26 and re-pinged
+            # him on recovery, and a transient ESPN outage or a ticket
+            # blinking off the board would read the same way. Tokens already
+            # in state stay for the slate (lingering extras never ping; the
+            # set resets when the slate rolls), so a flap can't re-ping.
+            prev_sticky = state.get(url)
+            if (prev_sticky is not None
+                    and (sig.get("slate") is None
+                         or prev_sticky.get("slate") == sig.get("slate"))
+                    and isinstance(prev_sticky.get("hits"), list)):
+                hits |= {h for h in prev_sticky["hits"] if ":" in h}
+            hits = sorted(hits)
         else:
             # Slate data couldn't be parsed. If we have prior state, treat it
             # as a transient glitch (a board caught mid-deploy once wiped
