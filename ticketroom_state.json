@@ -5,8 +5,9 @@
     "announced": {},
     "slate": null,
     "hits": [],
-    "last_modified": "Tue, 27 Oct 2026 00:37:04 GMT",
-    "checked_at": "2026-10-27T00:37:12.614580+00:00"
+    "ltd": null,
+    "last_modified": "Tue, 27 Oct 2026 01:27:00 GMT",
+    "checked_at": "2026-10-27T01:27:10.585807+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "5f1fc4d4059a11c4a6c77cb48f829a5dc4c6de717bae743bef11292559c89fb3",
@@ -59,11 +60,12 @@
     "hits": [
       "a:Ferran Torres"
     ],
-    "last_modified": "Tue, 27 Oct 2026 00:37:04 GMT",
-    "checked_at": "2026-10-27T00:37:13.071577+00:00"
+    "ltd": null,
+    "last_modified": "Tue, 27 Oct 2026 01:27:00 GMT",
+    "checked_at": "2026-10-27T01:27:10.919219+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "700c29d3ef0c3421f0b0b93dc9bde247198e36d03f92f872cd1e4c8673cefa08",
+    "hash": "bc718a8d66e650304fd39a5a56d789264b7e35adc3166b3a7203757ec9d1e817",
     "confirmed": [
       {
         "name": "Early Strike",
@@ -76,6 +78,18 @@
         },
         "market": "first touchdown scorer",
         "kind": "ftd"
+      },
+      {
+        "name": "King of the End Zone: George Pickens",
+        "legs": [
+          "George Pickens"
+        ],
+        "rr": false,
+        "market": "longest touchdown scorer",
+        "kind": "longtd",
+        "info": {
+          "George Pickens": "Cowboys vs Eagles \u00b7 Mon Oct 26 \u00b7 8:15 PM ET"
+        }
       },
       {
         "name": "The Workhorse",
@@ -94,14 +108,24 @@
       ],
       "The Workhorse": [
         "Ryan Flournoy"
+      ],
+      "King of the End Zone: George Pickens": [
+        "George Pickens"
       ]
     },
     "slate": "2026-10-26",
     "hits": [
       "ftd:Saquon Barkley"
     ],
-    "last_modified": "Tue, 27 Oct 2026 00:37:04 GMT",
-    "checked_at": "2026-10-27T00:37:13.500584+00:00"
+    "ltd": {
+      "holding": [
+        "George Pickens"
+      ],
+      "best": 21,
+      "settled": false
+    },
+    "last_modified": "Tue, 27 Oct 2026 01:27:00 GMT",
+    "checked_at": "2026-10-27T01:27:12.943388+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "d488a4b8f19050cedf15161e35c75acc599bd2d139fef3aaa624dac8efde346e",
@@ -516,7 +540,8 @@
     "hits": [
       "a:Paul George"
     ],
-    "last_modified": "Tue, 27 Oct 2026 00:37:04 GMT",
-    "checked_at": "2026-10-27T00:37:14.214035+00:00"
+    "ltd": null,
+    "last_modified": "Tue, 27 Oct 2026 01:27:00 GMT",
+    "checked_at": "2026-10-27T01:27:13.705464+00:00"
   }
 }
