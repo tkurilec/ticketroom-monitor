@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 23:11:53 GMT",
-    "checked_at": "2026-10-27T23:12:13.248642+00:00"
+    "last_modified": "Tue, 27 Oct 2026 23:36:23 GMT",
+    "checked_at": "2026-10-27T23:40:17.829859+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "b2359b66dae4ab1ecc80061df4c0ed3dbbb9d77f28c9d9d316ec5d773829a1eb",
@@ -46,8 +46,8 @@
     "slate": "2026-10-28",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 23:11:53 GMT",
-    "checked_at": "2026-10-27T23:12:15.656611+00:00"
+    "last_modified": "Tue, 27 Oct 2026 23:36:23 GMT",
+    "checked_at": "2026-10-27T23:40:18.613958+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -73,11 +73,11 @@
       "best": 21,
       "settled": true
     },
-    "last_modified": "Tue, 27 Oct 2026 23:11:53 GMT",
-    "checked_at": "2026-10-27T23:12:15.855962+00:00"
+    "last_modified": "Tue, 27 Oct 2026 23:36:23 GMT",
+    "checked_at": "2026-10-27T23:40:18.928711+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "647d9b0b9710df5cf5818bbca0c322274390e79fb50783752f7f351fa37f9c65",
+    "hash": "2c95bdc7f79ff4913619098d6495b5f0ffc5eb5e28ceb8b768ff0eba46ad559c",
     "confirmed": [
       {
         "name": "Bad Boys",
@@ -142,6 +142,32 @@
         }
       },
       {
+        "name": "Grit and Grind",
+        "legs": [
+          "Domantas Sabonis",
+          "Josh Hart",
+          "Luka Doncic"
+        ],
+        "rr": true,
+        "info": {
+          "Luka Doncic": "Lakers vs Trail Blazers \u00b7 Tue Oct 27 \u00b7 11:00 PM ET",
+          "Josh Hart": "Knicks vs Pistons \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
+          "Domantas Sabonis": "Kings vs Spurs \u00b7 Tue Oct 27 \u00b7 8:00 PM ET"
+        }
+      },
+      {
+        "name": "Lava Lamp Lefty",
+        "legs": [
+          "De'Andre Hunter"
+        ],
+        "rr": false,
+        "market": "over 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "De'Andre Hunter": "Kings vs Spurs \u00b7 Tue Oct 27 \u00b7 8:00 PM ET"
+        }
+      },
+      {
         "name": "Linsanity",
         "legs": [
           "Day'Ron Sharpe",
@@ -169,6 +195,34 @@
           "Jayson Tatum": "Celtics vs Nets \u00b7 Tue Oct 27 \u00b7 7:30 PM ET",
           "Zach LaVine": "Kings vs Spurs \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
           "Josh Hart": "Knicks vs Pistons \u00b7 Tue Oct 27 \u00b7 8:00 PM ET"
+        }
+      },
+      {
+        "name": "Seven Seconds or Less",
+        "legs": [
+          "John Collins",
+          "Luka Doncic",
+          "Zach LaVine"
+        ],
+        "rr": true,
+        "info": {
+          "Luka Doncic": "Lakers vs Trail Blazers \u00b7 Tue Oct 27 \u00b7 11:00 PM ET",
+          "John Collins": "Pistons vs Knicks \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
+          "Zach LaVine": "Kings vs Spurs \u00b7 Tue Oct 27 \u00b7 8:00 PM ET"
+        }
+      },
+      {
+        "name": "Showtime",
+        "legs": [
+          "Ja Morant",
+          "John Collins",
+          "Victor Wembanyama"
+        ],
+        "rr": true,
+        "info": {
+          "Victor Wembanyama": "Spurs vs Kings \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
+          "Ja Morant": "Trail Blazers vs Lakers \u00b7 Tue Oct 27 \u00b7 11:00 PM ET",
+          "John Collins": "Pistons vs Knicks \u00b7 Tue Oct 27 \u00b7 8:00 PM ET"
         }
       },
       {
@@ -262,6 +316,20 @@
           "John Collins": "Pistons vs Knicks \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
           "Derrick White": "Celtics vs Nets \u00b7 Tue Oct 27 \u00b7 7:30 PM ET"
         }
+      },
+      {
+        "name": "Twin Towers",
+        "legs": [
+          "Ja Morant",
+          "Paul Reed",
+          "Zach LaVine"
+        ],
+        "rr": true,
+        "info": {
+          "Paul Reed": "Pistons vs Knicks \u00b7 Tue Oct 27 \u00b7 8:00 PM ET",
+          "Ja Morant": "Trail Blazers vs Lakers \u00b7 Tue Oct 27 \u00b7 11:00 PM ET",
+          "Zach LaVine": "Kings vs Spurs \u00b7 Tue Oct 27 \u00b7 8:00 PM ET"
+        }
       }
     ],
     "announced": {
@@ -332,9 +400,33 @@
         "Ja Morant",
         "John Collins",
         "Victor Wembanyama"
+      ],
+      "Grit and Grind": [
+        "Domantas Sabonis",
+        "Josh Hart",
+        "Luka Doncic"
+      ],
+      "Lava Lamp Lefty": [
+        "De'Andre Hunter"
+      ],
+      "Seven Seconds or Less": [
+        "John Collins",
+        "Luka Doncic",
+        "Zach LaVine"
+      ],
+      "Showtime": [
+        "Ja Morant",
+        "John Collins",
+        "Victor Wembanyama"
+      ],
+      "Twin Towers": [
+        "Ja Morant",
+        "Paul Reed",
+        "Zach LaVine"
       ]
     },
     "abets": [
+      "downtown|over 1.5 threes|De'Andre Hunter",
       "|first basket|Day'Ron Sharpe,Domantas Sabonis,Ja Morant,Paul Reed",
       "|first basket|Day'Ron Sharpe,Domantas Sabonis,John Collins,Luka Doncic",
       "|first basket|Day'Ron Sharpe,Ja Morant,Josh Hart,Victor Wembanyama",
@@ -344,14 +436,18 @@
       "|first basket|Derrick White,John Collins,Luka Doncic,Zach LaVine",
       "|first basket|Derrick White,Josh Hart,Victor Wembanyama",
       "|first basket|Domantas Sabonis,Ja Morant,Jayson Tatum,Josh Hart",
+      "|first basket|Domantas Sabonis,Josh Hart,Luka Doncic",
       "|first basket|Ja Morant,Jayson Tatum,John Collins",
       "|first basket|Ja Morant,Jayson Tatum,John Collins,Zach LaVine",
-      "|first basket|Jayson Tatum,Josh Hart,Zach LaVine"
+      "|first basket|Ja Morant,John Collins,Victor Wembanyama",
+      "|first basket|Ja Morant,Paul Reed,Zach LaVine",
+      "|first basket|Jayson Tatum,Josh Hart,Zach LaVine",
+      "|first basket|John Collins,Luka Doncic,Zach LaVine"
     ],
     "slate": "2026-10-27",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 23:11:53 GMT",
-    "checked_at": "2026-10-27T23:12:17.575116+00:00"
+    "last_modified": "Tue, 27 Oct 2026 23:36:23 GMT",
+    "checked_at": "2026-10-27T23:40:20.595455+00:00"
   }
 }
