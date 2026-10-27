@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 19:07:56 GMT",
-    "checked_at": "2026-10-27T19:12:13.391716+00:00"
+    "last_modified": "Tue, 27 Oct 2026 19:57:55 GMT",
+    "checked_at": "2026-10-27T19:58:11.827830+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "88e7ed086bd702460b568eacf2a48c79fc01d859cc036c1dfd57f76189cbcb19",
@@ -65,10 +65,12 @@
       "|anytime goalscorer|Serhou Guirassy"
     ],
     "slate": "2026-10-27",
-    "hits": [],
+    "hits": [
+      "a:Serhou Guirassy"
+    ],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 19:07:56 GMT",
-    "checked_at": "2026-10-27T19:12:14.109633+00:00"
+    "last_modified": "Tue, 27 Oct 2026 19:57:55 GMT",
+    "checked_at": "2026-10-27T19:58:13.960221+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -94,8 +96,8 @@
       "best": 21,
       "settled": true
     },
-    "last_modified": "Tue, 27 Oct 2026 19:07:56 GMT",
-    "checked_at": "2026-10-27T19:12:14.351807+00:00"
+    "last_modified": "Tue, 27 Oct 2026 19:57:55 GMT",
+    "checked_at": "2026-10-27T19:58:14.362882+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -105,7 +107,7 @@
     "slate": "2026-10-27",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 19:07:56 GMT",
-    "checked_at": "2026-10-27T19:12:14.499618+00:00"
+    "last_modified": "Tue, 27 Oct 2026 19:57:55 GMT",
+    "checked_at": "2026-10-27T19:58:14.720633+00:00"
   }
 }
