@@ -101,7 +101,7 @@
     "checked_at": "2026-10-27T23:07:12.586119+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "647d9b0b9710df5cf5818bbca0c322274390e79fb50783752f7f351fa37f9c65",
+    "hash": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
     "confirmed": [
       {
         "name": "Bad Boys",
@@ -294,87 +294,16 @@
         "Josh Hart",
         "Victor Wembanyama"
       ],
-      "Dame Time": [
-        "Day'Ron Sharpe",
-        "Ja Morant",
-        "Josh Hart",
-        "Victor Wembanyama"
-      ],
-      "Dream Shake": [
-        "Domantas Sabonis",
-        "Ja Morant",
-        "Jayson Tatum",
-        "Josh Hart"
-      ],
-      "Eight-Track Heater": [
-        "Keon Ellis"
-      ],
-      "Flu Game": [
-        "Derrick White",
-        "Ja Morant",
-        "Paul Reed",
-        "Zach LaVine"
-      ],
-      "Linsanity": [
-        "Day'Ron Sharpe",
-        "Domantas Sabonis",
-        "Ja Morant",
-        "Paul Reed"
-      ],
-      "Run TMC": [
-        "Jayson Tatum",
-        "Josh Hart",
-        "Zach LaVine"
-      ],
-      "Sky Hook": [
-        "Ja Morant",
-        "Jayson Tatum",
-        "John Collins",
-        "Zach LaVine"
-      ],
-      "Splash Brothers": [
-        "Ja Morant",
-        "Jayson Tatum",
-        "John Collins"
-      ],
-      "The Bank Is Open": [
-        "Derrick White",
-        "John Collins",
-        "Luka Doncic",
-        "Zach LaVine"
-      ],
       "The Block": [
         "Day'Ron Sharpe",
         "Domantas Sabonis",
         "John Collins",
         "Luka Doncic"
-      ],
-      "The Process": [
-        "Derrick White",
-        "Domantas Sabonis",
-        "Paul Reed"
-      ],
-      "The Shot": [
-        "Derrick White",
-        "Ja Morant",
-        "John Collins",
-        "Victor Wembanyama"
       ]
     },
     "abets": [
-      "downtown|over 1.5 threes|Keon Ellis",
-      "|first basket|Day'Ron Sharpe,Domantas Sabonis,Ja Morant,Paul Reed",
       "|first basket|Day'Ron Sharpe,Domantas Sabonis,John Collins,Luka Doncic",
-      "|first basket|Day'Ron Sharpe,Ja Morant,Josh Hart,Victor Wembanyama",
-      "|first basket|Derrick White,Domantas Sabonis,Paul Reed",
-      "|first basket|Derrick White,Ja Morant,John Collins,Victor Wembanyama",
-      "|first basket|Derrick White,Ja Morant,Paul Reed,Zach LaVine",
-      "|first basket|Derrick White,John Collins,Luka Doncic,Zach LaVine",
-      "|first basket|Derrick White,Josh Hart,Victor Wembanyama",
-      "|first basket|Domantas Sabonis,Ja Morant,Jayson Tatum,Josh Hart",
-      "|first basket|Ja Morant,Jayson Tatum,John Collins",
-      "|first basket|Ja Morant,Jayson Tatum,John Collins,Zach LaVine",
-      "|first basket|Jayson Tatum,Josh Hart,Zach LaVine"
+      "|first basket|Derrick White,Josh Hart,Victor Wembanyama"
     ],
     "slate": "2026-10-27",
     "hits": [],

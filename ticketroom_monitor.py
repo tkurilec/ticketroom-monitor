@@ -842,8 +842,12 @@ def notify_discord(webhook: str | None, name: str, url: str,
     """Post one card per ticket, chunked at Discord's 10-embeds-per-message."""
     if not embeds:
         return
-    for e in embeds:
-        e["url"] = url
+    for i, e in enumerate(embeds):
+        # Discord MERGES embeds that share a URL into one card (only the
+        # first title/description renders) — a 13-ticket launch collapsed to
+        # 2 visible cards on 2026-10-27. A unique fragment per card keeps the
+        # link working and the cards separate.
+        e["url"] = f"{url}#c{i}"
     embeds[-1]["footer"] = {"text": f"{name} · site updated "
                                     f"{last_modified or 'unknown'}"}
     embeds[-1]["timestamp"] = datetime.now(timezone.utc).isoformat()
