@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 23:06:40 GMT",
-    "checked_at": "2026-10-28T23:07:11.017064+00:00"
+    "last_modified": "Wed, 28 Oct 2026 23:12:02 GMT",
+    "checked_at": "2026-10-28T23:12:13.209657+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "b71128e82e0b675c6c86c67197fd3a6a7162451f3cb8fd39442a580959fd601e",
@@ -133,8 +133,8 @@
       "t:Venezia v Internazionale: Venezia to score"
     ],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 23:06:40 GMT",
-    "checked_at": "2026-10-28T23:07:13.660917+00:00"
+    "last_modified": "Wed, 28 Oct 2026 23:12:02 GMT",
+    "checked_at": "2026-10-28T23:12:18.567998+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -144,8 +144,8 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 23:06:40 GMT",
-    "checked_at": "2026-10-28T23:07:13.805632+00:00"
+    "last_modified": "Wed, 28 Oct 2026 23:12:02 GMT",
+    "checked_at": "2026-10-28T23:12:18.880307+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "996ff55c3e9d4ad613e81aa9555b638a9145a7e132641046f3c1b44283bb4888",
@@ -310,9 +310,11 @@
       "|first basket|Wendell Carter Jr."
     ],
     "slate": "2026-10-28",
-    "hits": [],
+    "hits": [
+      "a:Bam Adebayo"
+    ],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 23:06:40 GMT",
-    "checked_at": "2026-10-28T23:07:15.356170+00:00"
+    "last_modified": "Wed, 28 Oct 2026 23:12:02 GMT",
+    "checked_at": "2026-10-28T23:12:20.194626+00:00"
   }
 }
