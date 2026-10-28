@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 23:46:47 GMT",
-    "checked_at": "2026-10-28T23:47:10.789936+00:00"
+    "last_modified": "Wed, 28 Oct 2026 23:51:44 GMT",
+    "checked_at": "2026-10-28T23:52:12.310040+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "b706bc82d9198145b5bac89300c6375658a850c913c7aefe742d464460f0eab4",
+    "hash": "19f97b816b245f332a763d4253e87aeacbbb8a887d8182ab37b2b6ff51062c7b",
     "confirmed": [
       {
         "name": "Back Post",
@@ -120,6 +120,16 @@
         "info": {
           "Lionel Messi": "Inter Miami CF vs FC Cincinnati \u00b7 Wed Oct 28 \u00b7 7:30 PM ET"
         }
+      },
+      {
+        "name": "The Nine",
+        "legs": [
+          "Kelvin Yeboah"
+        ],
+        "rr": false,
+        "info": {
+          "Kelvin Yeboah": "Minnesota United FC vs Sporting Kansas City \u00b7 Wed Oct 28 \u00b7 8:30 PM ET"
+        }
       }
     ],
     "announced": {
@@ -155,6 +165,9 @@
       ],
       "Shoulder of the Last Man": [
         "Rafael Navarro"
+      ],
+      "The Nine": [
+        "Kelvin Yeboah"
       ]
     },
     "abets": [
@@ -162,6 +175,7 @@
       "|anytime goalscorer|Alonso Martinez",
       "|anytime goalscorer|Ange Bonny",
       "|anytime goalscorer|Ermedin Demirovic",
+      "|anytime goalscorer|Kelvin Yeboah",
       "|anytime goalscorer|Lautaro Martinez",
       "|anytime goalscorer|Lionel Messi",
       "|anytime goalscorer|Luis Suarez",
@@ -175,8 +189,8 @@
       "t:Venezia v Internazionale: Venezia to score"
     ],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 23:46:47 GMT",
-    "checked_at": "2026-10-28T23:47:15.180951+00:00"
+    "last_modified": "Wed, 28 Oct 2026 23:51:44 GMT",
+    "checked_at": "2026-10-28T23:52:18.766750+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -186,8 +200,8 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 23:46:47 GMT",
-    "checked_at": "2026-10-28T23:47:15.457773+00:00"
+    "last_modified": "Wed, 28 Oct 2026 23:51:44 GMT",
+    "checked_at": "2026-10-28T23:52:18.999807+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "cc463755503ef536079af5f38874414d48bf77b1ea09317161f6280306616d71",
@@ -444,7 +458,7 @@
       "a:Wendell Carter Jr."
     ],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 23:46:47 GMT",
-    "checked_at": "2026-10-28T23:47:16.192451+00:00"
+    "last_modified": "Wed, 28 Oct 2026 23:51:44 GMT",
+    "checked_at": "2026-10-28T23:52:19.963680+00:00"
   }
 }
