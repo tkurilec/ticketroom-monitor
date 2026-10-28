@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 23:41:56 GMT",
-    "checked_at": "2026-10-27T23:42:11.635379+00:00"
+    "last_modified": "Wed, 28 Oct 2026 00:08:18 GMT",
+    "checked_at": "2026-10-28T00:12:11.555480+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "b2359b66dae4ab1ecc80061df4c0ed3dbbb9d77f28c9d9d316ec5d773829a1eb",
@@ -46,8 +46,8 @@
     "slate": "2026-10-28",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 23:41:56 GMT",
-    "checked_at": "2026-10-27T23:42:13.074562+00:00"
+    "last_modified": "Wed, 28 Oct 2026 00:08:18 GMT",
+    "checked_at": "2026-10-28T00:12:12.778964+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -73,8 +73,8 @@
       "best": 21,
       "settled": true
     },
-    "last_modified": "Tue, 27 Oct 2026 23:41:56 GMT",
-    "checked_at": "2026-10-27T23:42:13.253801+00:00"
+    "last_modified": "Wed, 28 Oct 2026 00:08:18 GMT",
+    "checked_at": "2026-10-28T00:12:13.163712+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "0872da62fd23e8f4b9740f6645dede45086c402989f8daac1314f2c14cc26c7f",
@@ -433,9 +433,11 @@
       "|first basket|John Collins,Luka Doncic,Zach LaVine"
     ],
     "slate": "2026-10-27",
-    "hits": [],
+    "hits": [
+      "a:Victor Wembanyama"
+    ],
     "ltd": null,
-    "last_modified": "Tue, 27 Oct 2026 23:41:56 GMT",
-    "checked_at": "2026-10-27T23:42:13.888716+00:00"
+    "last_modified": "Wed, 28 Oct 2026 00:08:18 GMT",
+    "checked_at": "2026-10-28T00:12:18.455403+00:00"
   }
 }
