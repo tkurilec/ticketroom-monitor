@@ -7,12 +7,22 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 23:41:50 GMT",
-    "checked_at": "2026-10-28T23:43:11.397091+00:00"
+    "last_modified": "Wed, 28 Oct 2026 23:46:47 GMT",
+    "checked_at": "2026-10-28T23:47:10.789936+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "d21b7234baa300961df6e71a42797a9cef69ce48f9046a91067654849910a025",
+    "hash": "b706bc82d9198145b5bac89300c6375658a850c913c7aefe742d464460f0eab4",
     "confirmed": [
+      {
+        "name": "Back Post",
+        "legs": [
+          "Robert Lewandowski"
+        ],
+        "rr": false,
+        "info": {
+          "Robert Lewandowski": "Chicago Fire FC vs Orlando City SC \u00b7 Wed Oct 28 \u00b7 8:30 PM ET"
+        }
+      },
       {
         "name": "Cutback",
         "legs": [
@@ -82,6 +92,16 @@
         }
       },
       {
+        "name": "Shoulder of the Last Man",
+        "legs": [
+          "Rafael Navarro"
+        ],
+        "rr": false,
+        "info": {
+          "Rafael Navarro": "St. Louis CITY SC vs Portland Timbers \u00b7 Wed Oct 28 \u00b7 8:30 PM ET"
+        }
+      },
+      {
         "name": "Six-Yard Box",
         "legs": [
           "Ange Bonny"
@@ -129,6 +149,12 @@
       ],
       "Runs the Channel": [
         "Petar Musa"
+      ],
+      "Back Post": [
+        "Robert Lewandowski"
+      ],
+      "Shoulder of the Last Man": [
+        "Rafael Navarro"
       ]
     },
     "abets": [
@@ -140,15 +166,17 @@
       "|anytime goalscorer|Lionel Messi",
       "|anytime goalscorer|Luis Suarez",
       "|anytime goalscorer|Marcus Thuram",
-      "|anytime goalscorer|Petar Musa"
+      "|anytime goalscorer|Petar Musa",
+      "|anytime goalscorer|Rafael Navarro",
+      "|anytime goalscorer|Robert Lewandowski"
     ],
     "slate": "2026-10-28",
     "hits": [
       "t:Venezia v Internazionale: Venezia to score"
     ],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 23:41:50 GMT",
-    "checked_at": "2026-10-28T23:43:13.442408+00:00"
+    "last_modified": "Wed, 28 Oct 2026 23:46:47 GMT",
+    "checked_at": "2026-10-28T23:47:15.180951+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -158,8 +186,8 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 23:41:50 GMT",
-    "checked_at": "2026-10-28T23:43:13.693116+00:00"
+    "last_modified": "Wed, 28 Oct 2026 23:46:47 GMT",
+    "checked_at": "2026-10-28T23:47:15.457773+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "cc463755503ef536079af5f38874414d48bf77b1ea09317161f6280306616d71",
@@ -416,7 +444,7 @@
       "a:Wendell Carter Jr."
     ],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 23:41:50 GMT",
-    "checked_at": "2026-10-28T23:43:14.569419+00:00"
+    "last_modified": "Wed, 28 Oct 2026 23:46:47 GMT",
+    "checked_at": "2026-10-28T23:47:16.192451+00:00"
   }
 }
