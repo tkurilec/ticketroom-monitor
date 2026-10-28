@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 22:34:32 GMT",
-    "checked_at": "2026-10-28T22:35:13.228061+00:00"
+    "last_modified": "Wed, 28 Oct 2026 22:39:36 GMT",
+    "checked_at": "2026-10-28T22:40:14.675912+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "6a3920842ab9f31c84fe2f28949b576f1bb6e7ff9699cbd630dcc2d7f35ba1f2",
+    "hash": "b4af99ba99a612e4c23a30ef0f45601e65eeca138db2df7e5f5480b3e3d6b4ac",
     "confirmed": [
       {
         "name": "Cutback",
@@ -21,6 +21,16 @@
         "rr": false,
         "info": {
           "Marcus Thuram": "Internazionale vs Venezia \u00b7 Wed Oct 28 \u00b7 1:30 PM ET"
+        }
+      },
+      {
+        "name": "Low and Hard",
+        "legs": [
+          "Alonso Martinez"
+        ],
+        "rr": false,
+        "info": {
+          "Alonso Martinez": "New York City FC vs Atlanta United FC \u00b7 Wed Oct 28 \u00b7 7:30 PM ET"
         }
       },
       {
@@ -77,10 +87,14 @@
       ],
       "Six-Yard Box": [
         "Ange Bonny"
+      ],
+      "Low and Hard": [
+        "Alonso Martinez"
       ]
     },
     "abets": [
       "totals||FC Dallas v Columbus Crew: Both teams to score,St. Louis CITY SC v Portland Timbers: Both teams to score,Vancouver Whitecaps v San Diego FC: Both teams to score,Venezia v Internazionale: Venezia to score",
+      "|anytime goalscorer|Alonso Martinez",
       "|anytime goalscorer|Ange Bonny",
       "|anytime goalscorer|Ermedin Demirovic",
       "|anytime goalscorer|Lautaro Martinez",
@@ -91,8 +105,8 @@
       "t:Venezia v Internazionale: Venezia to score"
     ],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 22:34:32 GMT",
-    "checked_at": "2026-10-28T22:35:15.230571+00:00"
+    "last_modified": "Wed, 28 Oct 2026 22:39:36 GMT",
+    "checked_at": "2026-10-28T22:40:18.605630+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -102,11 +116,11 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 22:34:32 GMT",
-    "checked_at": "2026-10-28T22:35:15.304006+00:00"
+    "last_modified": "Wed, 28 Oct 2026 22:39:36 GMT",
+    "checked_at": "2026-10-28T22:40:18.675120+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "dd513d0564e6d4e703daf2689dece6b6a4c8786127dd8136364c64bd2b772717",
+    "hash": "bae6098b827096b69f914bc9cde4ca36a604c1993b8425353fc98945cdc6afd1",
     "confirmed": [
       {
         "name": "Bucket One",
@@ -136,6 +150,36 @@
         "rr": false,
         "info": {
           "Peyton Watson": "Cavaliers vs Wizards \u00b7 Wed Oct 28 \u00b7 7:00 PM ET"
+        }
+      },
+      {
+        "name": "First Points",
+        "legs": [
+          "John Collins"
+        ],
+        "rr": false,
+        "info": {
+          "John Collins": "Pistons vs Hornets \u00b7 Wed Oct 28 \u00b7 7:00 PM ET"
+        }
+      },
+      {
+        "name": "Opening Tip",
+        "legs": [
+          "Onyeka Okongwu"
+        ],
+        "rr": false,
+        "info": {
+          "Onyeka Okongwu": "Hawks vs Heat \u00b7 Wed Oct 28 \u00b7 7:00 PM ET"
+        }
+      },
+      {
+        "name": "The Opener",
+        "legs": [
+          "Jay Huff"
+        ],
+        "rr": false,
+        "info": {
+          "Jay Huff": "Pacers vs 76ers \u00b7 Wed Oct 28 \u00b7 7:00 PM ET"
         }
       },
       {
@@ -174,19 +218,31 @@
       ],
       "Tip Drill": [
         "Naz Reid"
+      ],
+      "First Points": [
+        "John Collins"
+      ],
+      "Opening Tip": [
+        "Onyeka Okongwu"
+      ],
+      "The Opener": [
+        "Jay Huff"
       ]
     },
     "abets": [
       "|first basket|Anthony Davis",
       "|first basket|Bam Adebayo",
+      "|first basket|Jay Huff",
+      "|first basket|John Collins",
       "|first basket|Klay Thompson",
       "|first basket|Naz Reid",
+      "|first basket|Onyeka Okongwu",
       "|first basket|Peyton Watson"
     ],
     "slate": "2026-10-28",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 22:34:32 GMT",
-    "checked_at": "2026-10-28T22:35:17.063923+00:00"
+    "last_modified": "Wed, 28 Oct 2026 22:39:36 GMT",
+    "checked_at": "2026-10-28T22:40:20.199087+00:00"
   }
 }
