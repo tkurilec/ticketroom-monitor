@@ -499,7 +499,16 @@ EARLY_CONFIRM_MIN = {
 }
 
 
-def extract_signature(html: str, early_min: int = 0) -> dict | None:
+# Boards where a ticket waits for its whole GAME's board picks to confirm
+# before the confirm-path launches it (the clock backstop still applies):
+# one NBA single flipping "confirmed" while sibling picks in the same game
+# are still projected means the lineup news isn't fully in yet, and the
+# site can still pull picks (user rule 2026-10-28).
+GAME_CONFIRM_BOARDS = {"NBA Board"}
+
+
+def extract_signature(html: str, early_min: int = 0,
+                      game_confirm: bool = False) -> dict | None:
     """Extract the slate signature from the page's embedded `const D={...}` data.
 
     Per the site owner, tickets are redrafted (price movements, live weather)
@@ -625,11 +634,30 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
         bits = [b for b in (where, date_str, f"{when} ET" if when else "") if b]
         return " · ".join(bits)
 
+    # Game-level confirmation (GAME_CONFIRM_BOARDS): a game counts as
+    # fully confirmed once every available board leg in it is confirmed —
+    # out/void legs can never confirm, so they don't hold the game hostage
+    # (the clock backstop caps any wait regardless).
+    game_all_conf = {}
+    if game_confirm:
+        for t in tickets_src:
+            for l in t.get("players", []):
+                g = str(l.get("game"))
+                ok = l.get("status") == "confirmed" or not leg_available(l)
+                game_all_conf[g] = game_all_conf.get(g, True) and ok
+
+    def leg_game_settled(leg: dict) -> bool:
+        if not game_confirm:
+            return True
+        g = str(leg.get("game"))
+        return g in started_games or game_all_conf.get(g, False)
+
     confirmed = []
     for t in tickets_src:
         legs = t.get("players", [])
         if (legs and all(leg_available(leg) for leg in legs)
-                and (all(leg_confirmed(leg) for leg in legs)
+                and (all(leg_confirmed(leg) and leg_game_settled(leg)
+                         for leg in legs)
                      or ticket_clock_ok(legs))):
             ent = {
                 "name": t.get("name"),
@@ -649,6 +677,12 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
             # stripped from the hash like the other card context.
             if t.get("units") is not None:
                 ent["units"] = t.get("units")
+            # On game-confirm boards, same-game singles launch together, so
+            # they share one card per game (user request 2026-10-28).
+            if game_confirm:
+                gset = {str(l.get("game")) for l in legs}
+                if len(gset) == 1:
+                    ent["group"] = gset.pop()
             confirmed.append(ent)
     # meta.tot is the Totals Board — match-level bets (team to score, BTTS,
     # over 2.5) with no lineup dependency, bettable from publish until lock,
@@ -828,6 +862,44 @@ def describe_change(prev_confirmed: list | None, new_confirmed: list,
             print(f"  (skipping {ticket_name!r} — same bet already announced "
                   f"this slate under another name)")
             fresh.remove(ticket_name)
+
+    # Same-game singles share ONE card per game (grouped boards launch them
+    # together via the game-confirm rule); each pick keeps its own units and
+    # Gambly link. Everything else stays one card per ticket.
+    grouped = {}
+    for ticket_name in list(fresh):
+        g = new[ticket_name].get("group")
+        if g is not None:
+            grouped.setdefault(g, []).append(ticket_name)
+            fresh.remove(ticket_name)
+    for g, names in grouped.items():
+        first = new[names[0]]
+        leg0 = first["legs"][0]
+        info0 = (first.get("info") or {}).get(leg0) or ""
+        bits = info0.split(" · ")
+        title = "✅ " + (bits[0] if bits[0] else "Game")
+        lines = []
+        when = " · ".join(bits[1:])
+        header = " · ".join(b for b in (when, f"*{market}*" if market else "")
+                            if b)
+        if header:
+            lines.append(header)
+        for n in names:
+            t = new[n]
+            leg = t["legs"][0]
+            line = f"**{leg}**"
+            if t.get("units") is not None:
+                line += f" 💵 {float(t['units']):g}u"
+            link = gambly_link(t["legs"], t.get("market", market))
+            line += f" — [⚡ Gambly]({link})"
+            lines.append(line)
+        embeds.append({
+            "title": title[:256],
+            "url": "",  # filled by notify_discord
+            "color": 0x2ECC71,
+            "description": "\n".join(lines)[:4096],
+        })
+
     for ticket_name in fresh:
         legs = new[ticket_name]["legs"]
         # A ticket may carry its own market wording (e.g. the Totals Board's
@@ -899,7 +971,8 @@ def check_all() -> None:
             continue
 
         ltd_status = None
-        sig = extract_signature(html, EARLY_CONFIRM_MIN.get(name, 0))
+        sig = extract_signature(html, EARLY_CONFIRM_MIN.get(name, 0),
+                                name in GAME_CONFIRM_BOARDS)
         if sig is not None:
             # Hash covers only ticket construction (name + legs): hit flips
             # and the rr flag must never re-announce tickets.
