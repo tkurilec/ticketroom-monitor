@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 23:36:39 GMT",
-    "checked_at": "2026-10-28T23:37:10.951167+00:00"
+    "last_modified": "Wed, 28 Oct 2026 23:41:50 GMT",
+    "checked_at": "2026-10-28T23:42:12.826519+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "b71128e82e0b675c6c86c67197fd3a6a7162451f3cb8fd39442a580959fd601e",
+    "hash": "d21b7234baa300961df6e71a42797a9cef69ce48f9046a91067654849910a025",
     "confirmed": [
       {
         "name": "Cutback",
@@ -51,6 +51,16 @@
         "rr": false,
         "info": {
           "Ermedin Demirovic": "VfB Stuttgart vs SC Paderborn 07 \u00b7 Wed Oct 28 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "Runs the Channel",
+        "legs": [
+          "Petar Musa"
+        ],
+        "rr": false,
+        "info": {
+          "Petar Musa": "FC Dallas vs Columbus Crew \u00b7 Wed Oct 28 \u00b7 8:30 PM ET"
         }
       },
       {
@@ -116,6 +126,9 @@
       ],
       "Target Man": [
         "Lionel Messi"
+      ],
+      "Runs the Channel": [
+        "Petar Musa"
       ]
     },
     "abets": [
@@ -126,15 +139,16 @@
       "|anytime goalscorer|Lautaro Martinez",
       "|anytime goalscorer|Lionel Messi",
       "|anytime goalscorer|Luis Suarez",
-      "|anytime goalscorer|Marcus Thuram"
+      "|anytime goalscorer|Marcus Thuram",
+      "|anytime goalscorer|Petar Musa"
     ],
     "slate": "2026-10-28",
     "hits": [
       "t:Venezia v Internazionale: Venezia to score"
     ],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 23:36:39 GMT",
-    "checked_at": "2026-10-28T23:37:16.150733+00:00"
+    "last_modified": "Wed, 28 Oct 2026 23:41:50 GMT",
+    "checked_at": "2026-10-28T23:42:16.877653+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -144,8 +158,8 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 23:36:39 GMT",
-    "checked_at": "2026-10-28T23:37:16.540920+00:00"
+    "last_modified": "Wed, 28 Oct 2026 23:41:50 GMT",
+    "checked_at": "2026-10-28T23:42:17.158125+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "cc463755503ef536079af5f38874414d48bf77b1ea09317161f6280306616d71",
@@ -401,7 +415,7 @@
       "a:Naz Reid"
     ],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 23:36:39 GMT",
-    "checked_at": "2026-10-28T23:37:19.567824+00:00"
+    "last_modified": "Wed, 28 Oct 2026 23:41:50 GMT",
+    "checked_at": "2026-10-28T23:42:17.650211+00:00"
   }
 }
