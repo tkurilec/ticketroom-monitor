@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 10:01:50 GMT",
-    "checked_at": "2026-10-28T10:02:13.149045+00:00"
+    "last_modified": "Wed, 28 Oct 2026 10:02:51 GMT",
+    "checked_at": "2026-10-28T10:03:16.485249+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "b2359b66dae4ab1ecc80061df4c0ed3dbbb9d77f28c9d9d316ec5d773829a1eb",
@@ -46,35 +46,19 @@
     "slate": "2026-10-28",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 10:01:50 GMT",
-    "checked_at": "2026-10-28T10:02:13.550305+00:00"
+    "last_modified": "Wed, 28 Oct 2026 10:02:51 GMT",
+    "checked_at": "2026-10-28T10:03:17.344460+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Early Strike": [
-        "Saquon Barkley"
-      ],
-      "The Workhorse": [
-        "Ryan Flournoy"
-      ],
-      "King of the End Zone: George Pickens": [
-        "George Pickens"
-      ]
-    },
+    "announced": {},
     "abets": [],
-    "slate": null,
+    "slate": "2026-10-29",
     "hits": [],
-    "ltd": {
-      "holding": [
-        "George Pickens"
-      ],
-      "best": 21,
-      "settled": true
-    },
-    "last_modified": "Wed, 28 Oct 2026 10:01:51 GMT",
-    "checked_at": "2026-10-28T10:02:13.619305+00:00"
+    "ltd": null,
+    "last_modified": "Wed, 28 Oct 2026 10:02:51 GMT",
+    "checked_at": "2026-10-28T10:03:17.641898+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -84,7 +68,7 @@
     "slate": "2026-10-28",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 10:01:50 GMT",
-    "checked_at": "2026-10-28T10:02:13.691797+00:00"
+    "last_modified": "Wed, 28 Oct 2026 10:02:51 GMT",
+    "checked_at": "2026-10-28T10:03:17.863604+00:00"
   }
 }
