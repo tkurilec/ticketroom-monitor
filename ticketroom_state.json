@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 17:57:02 GMT",
-    "checked_at": "2026-10-28T18:02:14.846182+00:00"
+    "last_modified": "Wed, 28 Oct 2026 22:25:00 GMT",
+    "checked_at": "2026-10-28T22:25:14.376302+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "6a3920842ab9f31c84fe2f28949b576f1bb6e7ff9699cbd630dcc2d7f35ba1f2",
@@ -91,8 +91,8 @@
       "t:Venezia v Internazionale: Venezia to score"
     ],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 17:57:02 GMT",
-    "checked_at": "2026-10-28T18:02:20.037531+00:00"
+    "last_modified": "Wed, 28 Oct 2026 22:25:00 GMT",
+    "checked_at": "2026-10-28T22:25:21.501469+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -102,18 +102,49 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 17:57:02 GMT",
-    "checked_at": "2026-10-28T18:02:20.244223+00:00"
+    "last_modified": "Wed, 28 Oct 2026 22:25:00 GMT",
+    "checked_at": "2026-10-28T22:25:21.718728+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "25c101265c17831c0ab80e20fec03419dbc2dee0276e2f7f389dc420c7db71b4",
+    "confirmed": [
+      {
+        "name": "Center Circle",
+        "legs": [
+          "Anthony Davis"
+        ],
+        "rr": false,
+        "info": {
+          "Anthony Davis": "Wizards vs Cavaliers \u00b7 Wed Oct 28 \u00b7 7:00 PM ET"
+        }
+      },
+      {
+        "name": "First Bucket",
+        "legs": [
+          "Peyton Watson"
+        ],
+        "rr": false,
+        "info": {
+          "Peyton Watson": "Cavaliers vs Wizards \u00b7 Wed Oct 28 \u00b7 7:00 PM ET"
+        }
+      }
+    ],
+    "announced": {
+      "Center Circle": [
+        "Anthony Davis"
+      ],
+      "First Bucket": [
+        "Peyton Watson"
+      ]
+    },
+    "abets": [
+      "|first basket|Anthony Davis",
+      "|first basket|Peyton Watson"
+    ],
     "slate": "2026-10-28",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 17:57:02 GMT",
-    "checked_at": "2026-10-28T18:02:20.461678+00:00"
+    "last_modified": "Wed, 28 Oct 2026 22:25:00 GMT",
+    "checked_at": "2026-10-28T22:25:23.600923+00:00"
   }
 }
