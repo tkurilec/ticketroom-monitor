@@ -7,12 +7,22 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 10:02:51 GMT",
-    "checked_at": "2026-10-28T10:03:16.485249+00:00"
+    "last_modified": "Wed, 28 Oct 2026 16:16:53 GMT",
+    "checked_at": "2026-10-28T16:17:10.914698+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "b2359b66dae4ab1ecc80061df4c0ed3dbbb9d77f28c9d9d316ec5d773829a1eb",
+    "hash": "0e5185a03574a3c8d187180b6c18d5b4ed9032a22f40001d68262b6d15bf432a",
     "confirmed": [
+      {
+        "name": "Penalty Spot",
+        "legs": [
+          "Ermedin Demirovic"
+        ],
+        "rr": false,
+        "info": {
+          "Ermedin Demirovic": "VfB Stuttgart vs SC Paderborn 07 \u00b7 Wed Oct 28 \u00b7 1:00 PM ET"
+        }
+      },
       {
         "name": "Scoreline Special",
         "legs": [
@@ -38,16 +48,20 @@
         "St. Louis CITY SC v Portland Timbers: Both teams to score",
         "Vancouver Whitecaps v San Diego FC: Both teams to score",
         "Venezia v Internazionale: Venezia to score"
+      ],
+      "Penalty Spot": [
+        "Ermedin Demirovic"
       ]
     },
     "abets": [
-      "totals||FC Dallas v Columbus Crew: Both teams to score,St. Louis CITY SC v Portland Timbers: Both teams to score,Vancouver Whitecaps v San Diego FC: Both teams to score,Venezia v Internazionale: Venezia to score"
+      "totals||FC Dallas v Columbus Crew: Both teams to score,St. Louis CITY SC v Portland Timbers: Both teams to score,Vancouver Whitecaps v San Diego FC: Both teams to score,Venezia v Internazionale: Venezia to score",
+      "|anytime goalscorer|Ermedin Demirovic"
     ],
     "slate": "2026-10-28",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 10:02:51 GMT",
-    "checked_at": "2026-10-28T10:03:17.344460+00:00"
+    "last_modified": "Wed, 28 Oct 2026 16:16:53 GMT",
+    "checked_at": "2026-10-28T16:17:14.547104+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -57,8 +71,8 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 10:02:51 GMT",
-    "checked_at": "2026-10-28T10:03:17.641898+00:00"
+    "last_modified": "Wed, 28 Oct 2026 16:16:53 GMT",
+    "checked_at": "2026-10-28T16:17:14.798693+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -68,7 +82,7 @@
     "slate": "2026-10-28",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 10:02:51 GMT",
-    "checked_at": "2026-10-28T10:03:17.863604+00:00"
+    "last_modified": "Wed, 28 Oct 2026 16:16:53 GMT",
+    "checked_at": "2026-10-28T16:17:14.949782+00:00"
   }
 }
