@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 22:25:00 GMT",
-    "checked_at": "2026-10-28T22:25:14.376302+00:00"
+    "last_modified": "Wed, 28 Oct 2026 22:32:07 GMT",
+    "checked_at": "2026-10-28T22:32:13.408075+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "6a3920842ab9f31c84fe2f28949b576f1bb6e7ff9699cbd630dcc2d7f35ba1f2",
@@ -91,8 +91,8 @@
       "t:Venezia v Internazionale: Venezia to score"
     ],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 22:25:00 GMT",
-    "checked_at": "2026-10-28T22:25:21.501469+00:00"
+    "last_modified": "Wed, 28 Oct 2026 22:32:07 GMT",
+    "checked_at": "2026-10-28T22:32:18.296034+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -102,12 +102,22 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 22:25:00 GMT",
-    "checked_at": "2026-10-28T22:25:21.718728+00:00"
+    "last_modified": "Wed, 28 Oct 2026 22:32:07 GMT",
+    "checked_at": "2026-10-28T22:32:18.558327+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "25c101265c17831c0ab80e20fec03419dbc2dee0276e2f7f389dc420c7db71b4",
+    "hash": "7465f98dde0b806dc102d7a1cd79139a3b14694dd2c2cae382c330456382bfa4",
     "confirmed": [
+      {
+        "name": "Bucket One",
+        "legs": [
+          "Klay Thompson"
+        ],
+        "rr": false,
+        "info": {
+          "Klay Thompson": "Heat vs Hawks \u00b7 Wed Oct 28 \u00b7 7:00 PM ET"
+        }
+      },
       {
         "name": "Center Circle",
         "legs": [
@@ -127,6 +137,16 @@
         "info": {
           "Peyton Watson": "Cavaliers vs Wizards \u00b7 Wed Oct 28 \u00b7 7:00 PM ET"
         }
+      },
+      {
+        "name": "Win the Tip",
+        "legs": [
+          "Bam Adebayo"
+        ],
+        "rr": false,
+        "info": {
+          "Bam Adebayo": "Heat vs Hawks \u00b7 Wed Oct 28 \u00b7 7:00 PM ET"
+        }
       }
     ],
     "announced": {
@@ -135,16 +155,24 @@
       ],
       "First Bucket": [
         "Peyton Watson"
+      ],
+      "Bucket One": [
+        "Klay Thompson"
+      ],
+      "Win the Tip": [
+        "Bam Adebayo"
       ]
     },
     "abets": [
       "|first basket|Anthony Davis",
+      "|first basket|Bam Adebayo",
+      "|first basket|Klay Thompson",
       "|first basket|Peyton Watson"
     ],
     "slate": "2026-10-28",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 22:25:00 GMT",
-    "checked_at": "2026-10-28T22:25:23.600923+00:00"
+    "last_modified": "Wed, 28 Oct 2026 22:32:07 GMT",
+    "checked_at": "2026-10-28T22:32:20.422009+00:00"
   }
 }
