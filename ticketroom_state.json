@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 23:12:02 GMT",
-    "checked_at": "2026-10-28T23:13:11.110486+00:00"
+    "last_modified": "Wed, 28 Oct 2026 23:36:39 GMT",
+    "checked_at": "2026-10-28T23:37:10.951167+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "b71128e82e0b675c6c86c67197fd3a6a7162451f3cb8fd39442a580959fd601e",
@@ -133,8 +133,8 @@
       "t:Venezia v Internazionale: Venezia to score"
     ],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 23:12:02 GMT",
-    "checked_at": "2026-10-28T23:13:13.330818+00:00"
+    "last_modified": "Wed, 28 Oct 2026 23:36:39 GMT",
+    "checked_at": "2026-10-28T23:37:16.150733+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -144,11 +144,11 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 23:12:02 GMT",
-    "checked_at": "2026-10-28T23:13:13.571787+00:00"
+    "last_modified": "Wed, 28 Oct 2026 23:36:39 GMT",
+    "checked_at": "2026-10-28T23:37:16.540920+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "996ff55c3e9d4ad613e81aa9555b638a9145a7e132641046f3c1b44283bb4888",
+    "hash": "cc463755503ef536079af5f38874414d48bf77b1ea09317161f6280306616d71",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -158,7 +158,9 @@
         "rr": false,
         "info": {
           "Franz Wagner": "Magic vs Raptors \u00b7 Wed Oct 28 \u00b7 7:30 PM ET"
-        }
+        },
+        "units": 0.3,
+        "group": "5"
       },
       {
         "name": "Bucket One",
@@ -168,7 +170,9 @@
         "rr": false,
         "info": {
           "Klay Thompson": "Heat vs Hawks \u00b7 Wed Oct 28 \u00b7 7:00 PM ET"
-        }
+        },
+        "units": 0.2,
+        "group": "2"
       },
       {
         "name": "Center Circle",
@@ -178,7 +182,9 @@
         "rr": false,
         "info": {
           "Anthony Davis": "Wizards vs Cavaliers \u00b7 Wed Oct 28 \u00b7 7:00 PM ET"
-        }
+        },
+        "units": 0.4,
+        "group": "1"
       },
       {
         "name": "First Bucket",
@@ -188,7 +194,21 @@
         "rr": false,
         "info": {
           "Peyton Watson": "Cavaliers vs Wizards \u00b7 Wed Oct 28 \u00b7 7:00 PM ET"
-        }
+        },
+        "units": 0.2,
+        "group": "1"
+      },
+      {
+        "name": "First Look",
+        "legs": [
+          "Jalen Smith"
+        ],
+        "rr": false,
+        "info": {
+          "Jalen Smith": "Bulls vs Knicks \u00b7 Wed Oct 28 \u00b7 8:00 PM ET"
+        },
+        "units": 0.3,
+        "group": "7"
       },
       {
         "name": "First Points",
@@ -198,7 +218,21 @@
         "rr": false,
         "info": {
           "John Collins": "Pistons vs Hornets \u00b7 Wed Oct 28 \u00b7 7:00 PM ET"
-        }
+        },
+        "units": 0.3,
+        "group": "4"
+      },
+      {
+        "name": "Get on the Board",
+        "legs": [
+          "Myles Turner"
+        ],
+        "rr": false,
+        "info": {
+          "Myles Turner": "Bucks vs Rockets \u00b7 Wed Oct 28 \u00b7 8:00 PM ET"
+        },
+        "units": 0.6,
+        "group": "6"
       },
       {
         "name": "Open Floor",
@@ -208,7 +242,9 @@
         "rr": false,
         "info": {
           "Wendell Carter Jr.": "Magic vs Raptors \u00b7 Wed Oct 28 \u00b7 7:30 PM ET"
-        }
+        },
+        "units": 0.2,
+        "group": "5"
       },
       {
         "name": "Opening Tip",
@@ -218,7 +254,33 @@
         "rr": false,
         "info": {
           "Onyeka Okongwu": "Hawks vs Heat \u00b7 Wed Oct 28 \u00b7 7:00 PM ET"
-        }
+        },
+        "units": 0.2,
+        "group": "2"
+      },
+      {
+        "name": "Out of the Huddle",
+        "legs": [
+          "Draymond Green"
+        ],
+        "rr": false,
+        "info": {
+          "Draymond Green": "Warriors vs Timberwolves \u00b7 Wed Oct 28 \u00b7 8:00 PM ET"
+        },
+        "units": 0.6,
+        "group": "8"
+      },
+      {
+        "name": "Set Play",
+        "legs": [
+          "Norman Powell"
+        ],
+        "rr": false,
+        "info": {
+          "Norman Powell": "Bulls vs Knicks \u00b7 Wed Oct 28 \u00b7 8:00 PM ET"
+        },
+        "units": 0.3,
+        "group": "7"
       },
       {
         "name": "The Opener",
@@ -228,7 +290,9 @@
         "rr": false,
         "info": {
           "Jay Huff": "Pacers vs 76ers \u00b7 Wed Oct 28 \u00b7 7:00 PM ET"
-        }
+        },
+        "units": 0.6,
+        "group": "3"
       },
       {
         "name": "Tip Drill",
@@ -238,7 +302,9 @@
         "rr": false,
         "info": {
           "Naz Reid": "Hornets vs Pistons \u00b7 Wed Oct 28 \u00b7 7:00 PM ET"
-        }
+        },
+        "units": 0.3,
+        "group": "4"
       },
       {
         "name": "Tip-Off Call",
@@ -248,7 +314,9 @@
         "rr": false,
         "info": {
           "Jase Richardson": "Magic vs Raptors \u00b7 Wed Oct 28 \u00b7 7:30 PM ET"
-        }
+        },
+        "units": 0.1,
+        "group": "5"
       },
       {
         "name": "Win the Tip",
@@ -258,7 +326,9 @@
         "rr": false,
         "info": {
           "Bam Adebayo": "Heat vs Hawks \u00b7 Wed Oct 28 \u00b7 7:00 PM ET"
-        }
+        },
+        "units": 0.3,
+        "group": "2"
       }
     ],
     "announced": {
@@ -294,17 +364,33 @@
       ],
       "Tip-Off Call": [
         "Jase Richardson"
+      ],
+      "First Look": [
+        "Jalen Smith"
+      ],
+      "Get on the Board": [
+        "Myles Turner"
+      ],
+      "Out of the Huddle": [
+        "Draymond Green"
+      ],
+      "Set Play": [
+        "Norman Powell"
       ]
     },
     "abets": [
       "|first basket|Anthony Davis",
       "|first basket|Bam Adebayo",
+      "|first basket|Draymond Green",
       "|first basket|Franz Wagner",
+      "|first basket|Jalen Smith",
       "|first basket|Jase Richardson",
       "|first basket|Jay Huff",
       "|first basket|John Collins",
       "|first basket|Klay Thompson",
+      "|first basket|Myles Turner",
       "|first basket|Naz Reid",
+      "|first basket|Norman Powell",
       "|first basket|Onyeka Okongwu",
       "|first basket|Peyton Watson",
       "|first basket|Wendell Carter Jr."
@@ -315,7 +401,7 @@
       "a:Naz Reid"
     ],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 23:12:02 GMT",
-    "checked_at": "2026-10-28T23:13:14.364753+00:00"
+    "last_modified": "Wed, 28 Oct 2026 23:36:39 GMT",
+    "checked_at": "2026-10-28T23:37:19.567824+00:00"
   }
 }
