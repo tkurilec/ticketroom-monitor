@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 22:39:36 GMT",
-    "checked_at": "2026-10-28T22:40:14.675912+00:00"
+    "last_modified": "Wed, 28 Oct 2026 22:49:44 GMT",
+    "checked_at": "2026-10-28T22:50:14.417254+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "b4af99ba99a612e4c23a30ef0f45601e65eeca138db2df7e5f5480b3e3d6b4ac",
+    "hash": "b71128e82e0b675c6c86c67197fd3a6a7162451f3cb8fd39442a580959fd601e",
     "confirmed": [
       {
         "name": "Cutback",
@@ -31,6 +31,16 @@
         "rr": false,
         "info": {
           "Alonso Martinez": "New York City FC vs Atlanta United FC \u00b7 Wed Oct 28 \u00b7 7:30 PM ET"
+        }
+      },
+      {
+        "name": "Near Post",
+        "legs": [
+          "Luis Suarez"
+        ],
+        "rr": false,
+        "info": {
+          "Luis Suarez": "Inter Miami CF vs FC Cincinnati \u00b7 Wed Oct 28 \u00b7 7:30 PM ET"
         }
       },
       {
@@ -70,6 +80,16 @@
         "info": {
           "Ange Bonny": "Internazionale vs Venezia \u00b7 Wed Oct 28 \u00b7 1:30 PM ET"
         }
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Lionel Messi"
+        ],
+        "rr": false,
+        "info": {
+          "Lionel Messi": "Inter Miami CF vs FC Cincinnati \u00b7 Wed Oct 28 \u00b7 7:30 PM ET"
+        }
       }
     ],
     "announced": {
@@ -90,6 +110,12 @@
       ],
       "Low and Hard": [
         "Alonso Martinez"
+      ],
+      "Near Post": [
+        "Luis Suarez"
+      ],
+      "Target Man": [
+        "Lionel Messi"
       ]
     },
     "abets": [
@@ -98,6 +124,8 @@
       "|anytime goalscorer|Ange Bonny",
       "|anytime goalscorer|Ermedin Demirovic",
       "|anytime goalscorer|Lautaro Martinez",
+      "|anytime goalscorer|Lionel Messi",
+      "|anytime goalscorer|Luis Suarez",
       "|anytime goalscorer|Marcus Thuram"
     ],
     "slate": "2026-10-28",
@@ -105,8 +133,8 @@
       "t:Venezia v Internazionale: Venezia to score"
     ],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 22:39:36 GMT",
-    "checked_at": "2026-10-28T22:40:18.605630+00:00"
+    "last_modified": "Wed, 28 Oct 2026 22:49:44 GMT",
+    "checked_at": "2026-10-28T22:50:19.969390+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -116,8 +144,8 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 22:39:36 GMT",
-    "checked_at": "2026-10-28T22:40:18.675120+00:00"
+    "last_modified": "Wed, 28 Oct 2026 22:50:19 GMT",
+    "checked_at": "2026-10-28T22:50:20.148909+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "bae6098b827096b69f914bc9cde4ca36a604c1993b8425353fc98945cdc6afd1",
@@ -242,7 +270,7 @@
     "slate": "2026-10-28",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 22:39:36 GMT",
-    "checked_at": "2026-10-28T22:40:20.199087+00:00"
+    "last_modified": "Wed, 28 Oct 2026 22:50:19 GMT",
+    "checked_at": "2026-10-28T22:50:20.463430+00:00"
   }
 }
