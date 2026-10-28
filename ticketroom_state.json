@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 17:22:34 GMT",
-    "checked_at": "2026-10-28T17:23:12.307368+00:00"
+    "last_modified": "Wed, 28 Oct 2026 17:57:02 GMT",
+    "checked_at": "2026-10-28T18:02:14.846182+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "6a3920842ab9f31c84fe2f28949b576f1bb6e7ff9699cbd630dcc2d7f35ba1f2",
@@ -87,10 +87,12 @@
       "|anytime goalscorer|Marcus Thuram"
     ],
     "slate": "2026-10-28",
-    "hits": [],
+    "hits": [
+      "t:Venezia v Internazionale: Venezia to score"
+    ],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 17:22:34 GMT",
-    "checked_at": "2026-10-28T17:23:17.013860+00:00"
+    "last_modified": "Wed, 28 Oct 2026 17:57:02 GMT",
+    "checked_at": "2026-10-28T18:02:20.037531+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -100,8 +102,8 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 17:22:34 GMT",
-    "checked_at": "2026-10-28T17:23:17.931962+00:00"
+    "last_modified": "Wed, 28 Oct 2026 17:57:02 GMT",
+    "checked_at": "2026-10-28T18:02:20.244223+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -111,7 +113,7 @@
     "slate": "2026-10-28",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 17:22:34 GMT",
-    "checked_at": "2026-10-28T17:23:18.256347+00:00"
+    "last_modified": "Wed, 28 Oct 2026 17:57:02 GMT",
+    "checked_at": "2026-10-28T18:02:20.461678+00:00"
   }
 }
