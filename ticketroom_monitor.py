@@ -644,6 +644,11 @@ def extract_signature(html: str, early_min: int = 0) -> dict | None:
             if km:
                 ent["market"] = km
                 ent["kind"] = t.get("kind")
+            # The 2026-10-28 NBA rework publishes a per-ticket unit rec
+            # (soccer's pick of the day carries one too) — display only,
+            # stripped from the hash like the other card context.
+            if t.get("units") is not None:
+                ent["units"] = t.get("units")
             confirmed.append(ent)
     # meta.tot is the Totals Board — match-level bets (team to score, BTTS,
     # over 2.5) with no lineup dependency, bettable from publish until lock,
@@ -834,6 +839,9 @@ def describe_change(prev_confirmed: list | None, new_confirmed: list,
             f"**{l}** — {info[l]}" if info.get(l) else l for l in legs)
         if "market" in new[ticket_name] and mkt:
             value += f"\n*{mkt}*"
+        units = new[ticket_name].get("units")
+        if units is not None:
+            value += f"\n💵 **{float(units):g}u**"
         link = gambly_link(legs, mkt)
         value += f"\n[⚡ Build in Gambly]({link})"
         embeds.append({
