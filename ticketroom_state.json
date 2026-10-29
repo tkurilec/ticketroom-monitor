@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Thu, 29 Oct 2026 23:36:39 GMT",
-    "checked_at": "2026-10-29T23:37:12.011314+00:00"
+    "checked_at": "2026-10-29T23:40:16.366590+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "c8e32c90a791588fc5df1646018af338b2b538ba6adf92005ae668e2656c3f42",
@@ -41,7 +41,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Thu, 29 Oct 2026 23:36:39 GMT",
-    "checked_at": "2026-10-29T23:37:12.258926+00:00"
+    "checked_at": "2026-10-29T23:40:17.490814+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "59ae29b8f565a076d60daec0499008edbab33d2ccfed405fc18dd19ff374642d",
@@ -143,10 +143,10 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Thu, 29 Oct 2026 23:36:39 GMT",
-    "checked_at": "2026-10-29T23:37:12.478517+00:00"
+    "checked_at": "2026-10-29T23:40:17.764318+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "f4da950c87819ce8ba41ca7771f1a66d06faf33c846a4b6450056945f0cc68ea",
+    "hash": "091c1dc86fbde6c85a372ea7ade9b09ff063c51d8deaba9609abdfcd1d08d510",
     "confirmed": [
       {
         "name": "First Bucket",
@@ -159,6 +159,18 @@
         },
         "units": 0.3,
         "group": "1"
+      },
+      {
+        "name": "Opening Tip",
+        "legs": [
+          "DeAndre Jordan"
+        ],
+        "rr": false,
+        "info": {
+          "DeAndre Jordan": "Pelicans vs Kings \u00b7 Thu Oct 29 \u00b7 8:00 PM ET"
+        },
+        "units": 0.6,
+        "group": "2"
       },
       {
         "name": "Win the Tip",
@@ -179,9 +191,13 @@
       ],
       "Win the Tip": [
         "Peyton Watson"
+      ],
+      "Opening Tip": [
+        "DeAndre Jordan"
       ]
     },
     "abets": [
+      "|first basket|DeAndre Jordan",
       "|first basket|Onyeka Okongwu",
       "|first basket|Peyton Watson"
     ],
@@ -189,6 +205,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Thu, 29 Oct 2026 23:36:39 GMT",
-    "checked_at": "2026-10-29T23:37:13.890092+00:00"
+    "checked_at": "2026-10-29T23:40:19.464332+00:00"
   }
 }
