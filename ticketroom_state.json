@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 05:02:31 GMT",
-    "checked_at": "2026-10-29T05:03:14.510756+00:00"
+    "last_modified": "Thu, 29 Oct 2026 10:02:19 GMT",
+    "checked_at": "2026-10-29T10:03:13.400438+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8c594a19ef81a4eebced6c5594eac2a4ccee749eaa84b5e2cfb05c64122a7f25",
@@ -40,8 +40,8 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 05:02:31 GMT",
-    "checked_at": "2026-10-29T05:03:17.005016+00:00"
+    "last_modified": "Thu, 29 Oct 2026 10:02:19 GMT",
+    "checked_at": "2026-10-29T10:03:13.943183+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -51,100 +51,18 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 05:02:31 GMT",
-    "checked_at": "2026-10-29T05:03:17.170859+00:00"
+    "last_modified": "Thu, 29 Oct 2026 10:02:19 GMT",
+    "checked_at": "2026-10-29T10:03:14.224707+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Center Circle": [
-        "Anthony Davis"
-      ],
-      "First Bucket": [
-        "Peyton Watson"
-      ],
-      "Bucket One": [
-        "Klay Thompson"
-      ],
-      "Win the Tip": [
-        "Bam Adebayo"
-      ],
-      "Tip Drill": [
-        "Naz Reid"
-      ],
-      "First Points": [
-        "John Collins"
-      ],
-      "Opening Tip": [
-        "Onyeka Okongwu"
-      ],
-      "The Opener": [
-        "Jay Huff"
-      ],
-      "Break the Seal": [
-        "Franz Wagner"
-      ],
-      "Open Floor": [
-        "Wendell Carter Jr."
-      ],
-      "Tip-Off Call": [
-        "Jase Richardson"
-      ],
-      "First Look": [
-        "Jalen Smith"
-      ],
-      "Get on the Board": [
-        "Myles Turner"
-      ],
-      "Out of the Huddle": [
-        "Draymond Green"
-      ],
-      "Set Play": [
-        "Norman Powell"
-      ],
-      "Top of the Key": [
-        "Ace Bailey"
-      ],
-      "Early Offense": [
-        "Daniel Gafford"
-      ],
-      "Off the Tip": [
-        "Isaiah Hartenstein"
-      ],
-      "Ice Breaker": [
-        "Isaiah Jackson"
-      ]
-    },
-    "abets": [
-      "|first basket|Ace Bailey",
-      "|first basket|Anthony Davis",
-      "|first basket|Bam Adebayo",
-      "|first basket|Daniel Gafford",
-      "|first basket|Draymond Green",
-      "|first basket|Franz Wagner",
-      "|first basket|Isaiah Hartenstein",
-      "|first basket|Isaiah Jackson",
-      "|first basket|Jalen Smith",
-      "|first basket|Jase Richardson",
-      "|first basket|Jay Huff",
-      "|first basket|John Collins",
-      "|first basket|Klay Thompson",
-      "|first basket|Myles Turner",
-      "|first basket|Naz Reid",
-      "|first basket|Norman Powell",
-      "|first basket|Onyeka Okongwu",
-      "|first basket|Peyton Watson",
-      "|first basket|Wendell Carter Jr."
-    ],
-    "slate": null,
-    "hits": [
-      "a:Bam Adebayo",
-      "a:Naz Reid",
-      "a:Wendell Carter Jr."
-    ],
+    "announced": {},
+    "abets": [],
+    "slate": "2026-10-29",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 05:02:31 GMT",
-    "checked_at": "2026-10-29T05:03:17.497942+00:00"
+    "last_modified": "Thu, 29 Oct 2026 10:02:19 GMT",
+    "checked_at": "2026-10-29T10:03:14.380470+00:00"
   }
 }
