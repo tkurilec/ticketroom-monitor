@@ -7,92 +7,41 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 03:37:02 GMT",
-    "checked_at": "2026-10-29T04:00:21.711867+00:00"
+    "last_modified": "Thu, 29 Oct 2026 05:02:31 GMT",
+    "checked_at": "2026-10-29T05:03:14.510756+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "8c594a19ef81a4eebced6c5594eac2a4ccee749eaa84b5e2cfb05c64122a7f25",
+    "confirmed": [
+      {
+        "name": "Final Tally",
+        "legs": [
+          "Fiorentina v Atalanta: Match under 3.5 goals",
+          "Frosinone v Lecce: Both teams to score"
+        ],
+        "rr": false,
+        "market": "",
+        "kind": "totals",
+        "info": {
+          "Frosinone v Lecce: Both teams to score": "Thu Oct 29 \u00b7 1:30 PM ET",
+          "Fiorentina v Atalanta: Match under 3.5 goals": "Thu Oct 29 \u00b7 3:45 PM ET"
+        }
+      }
+    ],
     "announced": {
-      "Scoreline Special": [
-        "FC Dallas v Columbus Crew: Both teams to score",
-        "St. Louis CITY SC v Portland Timbers: Both teams to score",
-        "Vancouver Whitecaps v San Diego FC: Both teams to score",
-        "Venezia v Internazionale: Venezia to score"
-      ],
-      "Penalty Spot": [
-        "Ermedin Demirovic"
-      ],
-      "Cutback": [
-        "Marcus Thuram"
-      ],
-      "Six-Yard Box": [
-        "Ange Bonny"
-      ],
-      "Low and Hard": [
-        "Alonso Martinez"
-      ],
-      "Near Post": [
-        "Luis Suarez"
-      ],
-      "Target Man": [
-        "Lionel Messi"
-      ],
-      "Runs the Channel": [
-        "Petar Musa"
-      ],
-      "Back Post": [
-        "Robert Lewandowski"
-      ],
-      "Shoulder of the Last Man": [
-        "Rafael Navarro"
-      ],
-      "The Nine": [
-        "Kelvin Yeboah"
-      ],
-      "Ghosts In": [
-        "Dejan Joveljic"
-      ],
-      "Big Game Player": [
-        "Brian White"
-      ],
-      "Tap-In": [
-        "Rayan Elloumi"
-      ],
-      "The Poacher": [
-        "Brian White"
+      "Final Tally": [
+        "Fiorentina v Atalanta: Match under 3.5 goals",
+        "Frosinone v Lecce: Both teams to score"
       ]
     },
     "abets": [
-      "totals||FC Dallas v Columbus Crew: Both teams to score,St. Louis CITY SC v Portland Timbers: Both teams to score,Vancouver Whitecaps v San Diego FC: Both teams to score,Venezia v Internazionale: Venezia to score",
-      "|anytime goalscorer|Alonso Martinez",
-      "|anytime goalscorer|Ange Bonny",
-      "|anytime goalscorer|Brian White",
-      "|anytime goalscorer|Dejan Joveljic",
-      "|anytime goalscorer|Ermedin Demirovic",
-      "|anytime goalscorer|Kelvin Yeboah",
-      "|anytime goalscorer|Lautaro Martinez",
-      "|anytime goalscorer|Lionel Messi",
-      "|anytime goalscorer|Luis Suarez",
-      "|anytime goalscorer|Marcus Thuram",
-      "|anytime goalscorer|Petar Musa",
-      "|anytime goalscorer|Rafael Navarro",
-      "|anytime goalscorer|Rayan Elloumi",
-      "|anytime goalscorer|Robert Lewandowski"
+      "totals||Fiorentina v Atalanta: Match under 3.5 goals,Frosinone v Lecce: Both teams to score"
     ],
-    "slate": null,
-    "hits": [
-      "a:Brian White",
-      "a:Kelvin Yeboah",
-      "a:Luis Suarez",
-      "a:Rafael Navarro",
-      "t:FC Dallas v Columbus Crew: Both teams to score",
-      "t:St. Louis CITY SC v Portland Timbers: Both teams to score",
-      "t:Venezia v Internazionale: Venezia to score"
-    ],
+    "slate": "2026-10-29",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 03:37:02 GMT",
-    "checked_at": "2026-10-29T04:00:22.214732+00:00"
+    "last_modified": "Thu, 29 Oct 2026 05:02:31 GMT",
+    "checked_at": "2026-10-29T05:03:17.005016+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -102,8 +51,8 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 03:37:02 GMT",
-    "checked_at": "2026-10-29T04:00:22.560610+00:00"
+    "last_modified": "Thu, 29 Oct 2026 05:02:31 GMT",
+    "checked_at": "2026-10-29T05:03:17.170859+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -195,7 +144,7 @@
       "a:Wendell Carter Jr."
     ],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 03:37:02 GMT",
-    "checked_at": "2026-10-29T04:00:22.969795+00:00"
+    "last_modified": "Thu, 29 Oct 2026 05:02:31 GMT",
+    "checked_at": "2026-10-29T05:03:17.497942+00:00"
   }
 }
