@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 00:57:03 GMT",
-    "checked_at": "2026-10-29T01:01:18.124581+00:00"
+    "last_modified": "Thu, 29 Oct 2026 01:06:51 GMT",
+    "checked_at": "2026-10-29T01:10:16.506077+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "19f97b816b245f332a763d4253e87aeacbbb8a887d8182ab37b2b6ff51062c7b",
@@ -190,8 +190,8 @@
       "t:Venezia v Internazionale: Venezia to score"
     ],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 00:57:03 GMT",
-    "checked_at": "2026-10-29T01:01:23.605817+00:00"
+    "last_modified": "Thu, 29 Oct 2026 01:06:51 GMT",
+    "checked_at": "2026-10-29T01:10:18.629439+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -201,11 +201,11 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 00:57:03 GMT",
-    "checked_at": "2026-10-29T01:01:24.078003+00:00"
+    "last_modified": "Thu, 29 Oct 2026 01:06:52 GMT",
+    "checked_at": "2026-10-29T01:10:18.899940+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "cd245bd432639a0735a1327332c6591a423f051aff4ede87e4d401a488bf4692",
+    "hash": "42bbac0a5dd655b877bf2157000dd7853f1e682aa4c4bfab2f51cb9b92f89f00",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -242,6 +242,18 @@
         },
         "units": 0.4,
         "group": "1"
+      },
+      {
+        "name": "Early Offense",
+        "legs": [
+          "Daniel Gafford"
+        ],
+        "rr": false,
+        "info": {
+          "Daniel Gafford": "Mavericks vs Thunder \u00b7 Wed Oct 28 \u00b7 9:30 PM ET"
+        },
+        "units": 0.3,
+        "group": "11"
       },
       {
         "name": "First Bucket",
@@ -290,6 +302,18 @@
         },
         "units": 0.6,
         "group": "6"
+      },
+      {
+        "name": "Off the Tip",
+        "legs": [
+          "Isaiah Hartenstein"
+        ],
+        "rr": false,
+        "info": {
+          "Isaiah Hartenstein": "Thunder vs Mavericks \u00b7 Wed Oct 28 \u00b7 9:30 PM ET"
+        },
+        "units": 0.3,
+        "group": "11"
       },
       {
         "name": "Open Floor",
@@ -448,14 +472,22 @@
       ],
       "Top of the Key": [
         "Ace Bailey"
+      ],
+      "Early Offense": [
+        "Daniel Gafford"
+      ],
+      "Off the Tip": [
+        "Isaiah Hartenstein"
       ]
     },
     "abets": [
       "|first basket|Ace Bailey",
       "|first basket|Anthony Davis",
       "|first basket|Bam Adebayo",
+      "|first basket|Daniel Gafford",
       "|first basket|Draymond Green",
       "|first basket|Franz Wagner",
+      "|first basket|Isaiah Hartenstein",
       "|first basket|Jalen Smith",
       "|first basket|Jase Richardson",
       "|first basket|Jay Huff",
@@ -475,7 +507,7 @@
       "a:Wendell Carter Jr."
     ],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 00:57:03 GMT",
-    "checked_at": "2026-10-29T01:01:25.702757+00:00"
+    "last_modified": "Thu, 29 Oct 2026 01:06:52 GMT",
+    "checked_at": "2026-10-29T01:10:21.621382+00:00"
   }
 }
