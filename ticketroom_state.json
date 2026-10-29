@@ -7,172 +7,12 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 03:11:31 GMT",
-    "checked_at": "2026-10-29T03:23:11.258361+00:00"
+    "last_modified": "Thu, 29 Oct 2026 03:37:02 GMT",
+    "checked_at": "2026-10-29T04:00:21.711867+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "b099cca78349834cf9b5b8af41a04c79b0cac58c5b49bca3b80c81b1bfd5c126",
-    "confirmed": [
-      {
-        "name": "Back Post",
-        "legs": [
-          "Robert Lewandowski"
-        ],
-        "rr": false,
-        "info": {
-          "Robert Lewandowski": "Chicago Fire FC vs Orlando City SC \u00b7 Wed Oct 28 \u00b7 8:30 PM ET"
-        }
-      },
-      {
-        "name": "Big Game Player",
-        "legs": [
-          "Brian White"
-        ],
-        "rr": false,
-        "info": {
-          "Brian White": "Vancouver Whitecaps vs San Diego FC \u00b7 Wed Oct 28 \u00b7 10:30 PM ET"
-        },
-        "units": 2
-      },
-      {
-        "name": "Cutback",
-        "legs": [
-          "Marcus Thuram"
-        ],
-        "rr": false,
-        "info": {
-          "Marcus Thuram": "Internazionale vs Venezia \u00b7 Wed Oct 28 \u00b7 1:30 PM ET"
-        }
-      },
-      {
-        "name": "Ghosts In",
-        "legs": [
-          "Dejan Joveljic"
-        ],
-        "rr": false,
-        "info": {
-          "Dejan Joveljic": "Seattle Sounders FC vs Houston Dynamo FC \u00b7 Wed Oct 28 \u00b7 10:30 PM ET"
-        }
-      },
-      {
-        "name": "Low and Hard",
-        "legs": [
-          "Alonso Martinez"
-        ],
-        "rr": false,
-        "info": {
-          "Alonso Martinez": "New York City FC vs Atlanta United FC \u00b7 Wed Oct 28 \u00b7 7:30 PM ET"
-        }
-      },
-      {
-        "name": "Near Post",
-        "legs": [
-          "Luis Suarez"
-        ],
-        "rr": false,
-        "info": {
-          "Luis Suarez": "Inter Miami CF vs FC Cincinnati \u00b7 Wed Oct 28 \u00b7 7:30 PM ET"
-        }
-      },
-      {
-        "name": "Penalty Spot",
-        "legs": [
-          "Ermedin Demirovic"
-        ],
-        "rr": false,
-        "info": {
-          "Ermedin Demirovic": "VfB Stuttgart vs SC Paderborn 07 \u00b7 Wed Oct 28 \u00b7 1:00 PM ET"
-        }
-      },
-      {
-        "name": "Runs the Channel",
-        "legs": [
-          "Petar Musa"
-        ],
-        "rr": false,
-        "info": {
-          "Petar Musa": "FC Dallas vs Columbus Crew \u00b7 Wed Oct 28 \u00b7 8:30 PM ET"
-        }
-      },
-      {
-        "name": "Scoreline Special",
-        "legs": [
-          "FC Dallas v Columbus Crew: Both teams to score",
-          "St. Louis CITY SC v Portland Timbers: Both teams to score",
-          "Vancouver Whitecaps v San Diego FC: Both teams to score",
-          "Venezia v Internazionale: Venezia to score"
-        ],
-        "rr": false,
-        "market": "",
-        "kind": "totals",
-        "info": {
-          "St. Louis CITY SC v Portland Timbers: Both teams to score": "Wed Oct 28 \u00b7 8:30 PM ET",
-          "FC Dallas v Columbus Crew: Both teams to score": "Wed Oct 28 \u00b7 8:30 PM ET",
-          "Vancouver Whitecaps v San Diego FC: Both teams to score": "Wed Oct 28 \u00b7 10:30 PM ET",
-          "Venezia v Internazionale: Venezia to score": "Wed Oct 28 \u00b7 1:30 PM ET"
-        }
-      },
-      {
-        "name": "Shoulder of the Last Man",
-        "legs": [
-          "Rafael Navarro"
-        ],
-        "rr": false,
-        "info": {
-          "Rafael Navarro": "St. Louis CITY SC vs Portland Timbers \u00b7 Wed Oct 28 \u00b7 8:30 PM ET"
-        }
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Ange Bonny"
-        ],
-        "rr": false,
-        "info": {
-          "Ange Bonny": "Internazionale vs Venezia \u00b7 Wed Oct 28 \u00b7 1:30 PM ET"
-        }
-      },
-      {
-        "name": "Tap-In",
-        "legs": [
-          "Rayan Elloumi"
-        ],
-        "rr": false,
-        "info": {
-          "Rayan Elloumi": "Vancouver Whitecaps vs San Diego FC \u00b7 Wed Oct 28 \u00b7 10:30 PM ET"
-        }
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Lionel Messi"
-        ],
-        "rr": false,
-        "info": {
-          "Lionel Messi": "Inter Miami CF vs FC Cincinnati \u00b7 Wed Oct 28 \u00b7 7:30 PM ET"
-        }
-      },
-      {
-        "name": "The Nine",
-        "legs": [
-          "Kelvin Yeboah"
-        ],
-        "rr": false,
-        "info": {
-          "Kelvin Yeboah": "Minnesota United FC vs Sporting Kansas City \u00b7 Wed Oct 28 \u00b7 8:30 PM ET"
-        }
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Brian White"
-        ],
-        "rr": false,
-        "info": {
-          "Brian White": "Vancouver Whitecaps vs San Diego FC \u00b7 Wed Oct 28 \u00b7 10:30 PM ET"
-        }
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Scoreline Special": [
         "FC Dallas v Columbus Crew: Both teams to score",
@@ -240,7 +80,7 @@
       "|anytime goalscorer|Rayan Elloumi",
       "|anytime goalscorer|Robert Lewandowski"
     ],
-    "slate": "2026-10-28",
+    "slate": null,
     "hits": [
       "a:Brian White",
       "a:Kelvin Yeboah",
@@ -251,8 +91,8 @@
       "t:Venezia v Internazionale: Venezia to score"
     ],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 03:11:31 GMT",
-    "checked_at": "2026-10-29T03:23:14.969818+00:00"
+    "last_modified": "Thu, 29 Oct 2026 03:37:02 GMT",
+    "checked_at": "2026-10-29T04:00:22.214732+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -262,241 +102,12 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 03:11:31 GMT",
-    "checked_at": "2026-10-29T03:23:15.208390+00:00"
+    "last_modified": "Thu, 29 Oct 2026 03:37:02 GMT",
+    "checked_at": "2026-10-29T04:00:22.560610+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "b8396f48012919dbc7cfab7a83ee5cd70bd8968a817bac84f12e27d6eaefbaab",
-    "confirmed": [
-      {
-        "name": "Break the Seal",
-        "legs": [
-          "Franz Wagner"
-        ],
-        "rr": false,
-        "info": {
-          "Franz Wagner": "Magic vs Raptors \u00b7 Wed Oct 28 \u00b7 7:30 PM ET"
-        },
-        "units": 0.3,
-        "group": "5"
-      },
-      {
-        "name": "Bucket One",
-        "legs": [
-          "Klay Thompson"
-        ],
-        "rr": false,
-        "info": {
-          "Klay Thompson": "Heat vs Hawks \u00b7 Wed Oct 28 \u00b7 7:00 PM ET"
-        },
-        "units": 0.2,
-        "group": "2"
-      },
-      {
-        "name": "Center Circle",
-        "legs": [
-          "Anthony Davis"
-        ],
-        "rr": false,
-        "info": {
-          "Anthony Davis": "Wizards vs Cavaliers \u00b7 Wed Oct 28 \u00b7 7:00 PM ET"
-        },
-        "units": 0.4,
-        "group": "1"
-      },
-      {
-        "name": "Early Offense",
-        "legs": [
-          "Daniel Gafford"
-        ],
-        "rr": false,
-        "info": {
-          "Daniel Gafford": "Mavericks vs Thunder \u00b7 Wed Oct 28 \u00b7 9:30 PM ET"
-        },
-        "units": 0.3,
-        "group": "11"
-      },
-      {
-        "name": "First Bucket",
-        "legs": [
-          "Peyton Watson"
-        ],
-        "rr": false,
-        "info": {
-          "Peyton Watson": "Cavaliers vs Wizards \u00b7 Wed Oct 28 \u00b7 7:00 PM ET"
-        },
-        "units": 0.2,
-        "group": "1"
-      },
-      {
-        "name": "First Look",
-        "legs": [
-          "Jalen Smith"
-        ],
-        "rr": false,
-        "info": {
-          "Jalen Smith": "Bulls vs Knicks \u00b7 Wed Oct 28 \u00b7 8:00 PM ET"
-        },
-        "units": 0.3,
-        "group": "7"
-      },
-      {
-        "name": "First Points",
-        "legs": [
-          "John Collins"
-        ],
-        "rr": false,
-        "info": {
-          "John Collins": "Pistons vs Hornets \u00b7 Wed Oct 28 \u00b7 7:00 PM ET"
-        },
-        "units": 0.3,
-        "group": "4"
-      },
-      {
-        "name": "Get on the Board",
-        "legs": [
-          "Myles Turner"
-        ],
-        "rr": false,
-        "info": {
-          "Myles Turner": "Bucks vs Rockets \u00b7 Wed Oct 28 \u00b7 8:00 PM ET"
-        },
-        "units": 0.6,
-        "group": "6"
-      },
-      {
-        "name": "Ice Breaker",
-        "legs": [
-          "Isaiah Jackson"
-        ],
-        "rr": false,
-        "info": {
-          "Isaiah Jackson": "Clippers vs Lakers \u00b7 Wed Oct 28 \u00b7 10:30 PM ET"
-        },
-        "units": 0.6,
-        "group": "12"
-      },
-      {
-        "name": "Off the Tip",
-        "legs": [
-          "Isaiah Hartenstein"
-        ],
-        "rr": false,
-        "info": {
-          "Isaiah Hartenstein": "Thunder vs Mavericks \u00b7 Wed Oct 28 \u00b7 9:30 PM ET"
-        },
-        "units": 0.3,
-        "group": "11"
-      },
-      {
-        "name": "Open Floor",
-        "legs": [
-          "Wendell Carter Jr."
-        ],
-        "rr": false,
-        "info": {
-          "Wendell Carter Jr.": "Magic vs Raptors \u00b7 Wed Oct 28 \u00b7 7:30 PM ET"
-        },
-        "units": 0.2,
-        "group": "5"
-      },
-      {
-        "name": "Opening Tip",
-        "legs": [
-          "Onyeka Okongwu"
-        ],
-        "rr": false,
-        "info": {
-          "Onyeka Okongwu": "Hawks vs Heat \u00b7 Wed Oct 28 \u00b7 7:00 PM ET"
-        },
-        "units": 0.2,
-        "group": "2"
-      },
-      {
-        "name": "Out of the Huddle",
-        "legs": [
-          "Draymond Green"
-        ],
-        "rr": false,
-        "info": {
-          "Draymond Green": "Warriors vs Timberwolves \u00b7 Wed Oct 28 \u00b7 8:00 PM ET"
-        },
-        "units": 0.6,
-        "group": "8"
-      },
-      {
-        "name": "Set Play",
-        "legs": [
-          "Norman Powell"
-        ],
-        "rr": false,
-        "info": {
-          "Norman Powell": "Bulls vs Knicks \u00b7 Wed Oct 28 \u00b7 8:00 PM ET"
-        },
-        "units": 0.3,
-        "group": "7"
-      },
-      {
-        "name": "The Opener",
-        "legs": [
-          "Jay Huff"
-        ],
-        "rr": false,
-        "info": {
-          "Jay Huff": "Pacers vs 76ers \u00b7 Wed Oct 28 \u00b7 7:00 PM ET"
-        },
-        "units": 0.6,
-        "group": "3"
-      },
-      {
-        "name": "Tip Drill",
-        "legs": [
-          "Naz Reid"
-        ],
-        "rr": false,
-        "info": {
-          "Naz Reid": "Hornets vs Pistons \u00b7 Wed Oct 28 \u00b7 7:00 PM ET"
-        },
-        "units": 0.3,
-        "group": "4"
-      },
-      {
-        "name": "Tip-Off Call",
-        "legs": [
-          "Jase Richardson"
-        ],
-        "rr": false,
-        "info": {
-          "Jase Richardson": "Magic vs Raptors \u00b7 Wed Oct 28 \u00b7 7:30 PM ET"
-        },
-        "units": 0.1,
-        "group": "5"
-      },
-      {
-        "name": "Top of the Key",
-        "legs": [
-          "Ace Bailey"
-        ],
-        "rr": false,
-        "info": {
-          "Ace Bailey": "Jazz vs Spurs \u00b7 Wed Oct 28 \u00b7 9:00 PM ET"
-        },
-        "units": 0.6,
-        "group": "10"
-      },
-      {
-        "name": "Win the Tip",
-        "legs": [
-          "Bam Adebayo"
-        ],
-        "rr": false,
-        "info": {
-          "Bam Adebayo": "Heat vs Hawks \u00b7 Wed Oct 28 \u00b7 7:00 PM ET"
-        },
-        "units": 0.3,
-        "group": "2"
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Center Circle": [
         "Anthony Davis"
@@ -577,14 +188,14 @@
       "|first basket|Peyton Watson",
       "|first basket|Wendell Carter Jr."
     ],
-    "slate": "2026-10-28",
+    "slate": null,
     "hits": [
       "a:Bam Adebayo",
       "a:Naz Reid",
       "a:Wendell Carter Jr."
     ],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 03:11:31 GMT",
-    "checked_at": "2026-10-29T03:23:16.278795+00:00"
+    "last_modified": "Thu, 29 Oct 2026 03:37:02 GMT",
+    "checked_at": "2026-10-29T04:00:22.969795+00:00"
   }
 }
