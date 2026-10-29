@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 02:07:08 GMT",
-    "checked_at": "2026-10-29T02:07:16.079856+00:00"
+    "last_modified": "Thu, 29 Oct 2026 02:07:27 GMT",
+    "checked_at": "2026-10-29T02:08:13.462889+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "b099cca78349834cf9b5b8af41a04c79b0cac58c5b49bca3b80c81b1bfd5c126",
@@ -248,8 +248,8 @@
       "t:Venezia v Internazionale: Venezia to score"
     ],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 02:07:08 GMT",
-    "checked_at": "2026-10-29T02:07:20.550759+00:00"
+    "last_modified": "Thu, 29 Oct 2026 02:07:27 GMT",
+    "checked_at": "2026-10-29T02:08:19.031606+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -259,11 +259,11 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 02:07:08 GMT",
-    "checked_at": "2026-10-29T02:07:20.731715+00:00"
+    "last_modified": "Thu, 29 Oct 2026 02:07:27 GMT",
+    "checked_at": "2026-10-29T02:08:19.477574+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "42bbac0a5dd655b877bf2157000dd7853f1e682aa4c4bfab2f51cb9b92f89f00",
+    "hash": "b8396f48012919dbc7cfab7a83ee5cd70bd8968a817bac84f12e27d6eaefbaab",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -360,6 +360,18 @@
         },
         "units": 0.6,
         "group": "6"
+      },
+      {
+        "name": "Ice Breaker",
+        "legs": [
+          "Isaiah Jackson"
+        ],
+        "rr": false,
+        "info": {
+          "Isaiah Jackson": "Clippers vs Lakers \u00b7 Wed Oct 28 \u00b7 10:30 PM ET"
+        },
+        "units": 0.6,
+        "group": "12"
       },
       {
         "name": "Off the Tip",
@@ -536,6 +548,9 @@
       ],
       "Off the Tip": [
         "Isaiah Hartenstein"
+      ],
+      "Ice Breaker": [
+        "Isaiah Jackson"
       ]
     },
     "abets": [
@@ -546,6 +561,7 @@
       "|first basket|Draymond Green",
       "|first basket|Franz Wagner",
       "|first basket|Isaiah Hartenstein",
+      "|first basket|Isaiah Jackson",
       "|first basket|Jalen Smith",
       "|first basket|Jase Richardson",
       "|first basket|Jay Huff",
@@ -565,7 +581,7 @@
       "a:Wendell Carter Jr."
     ],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 02:07:08 GMT",
-    "checked_at": "2026-10-29T02:07:21.781012+00:00"
+    "last_modified": "Thu, 29 Oct 2026 02:07:27 GMT",
+    "checked_at": "2026-10-29T02:08:23.025162+00:00"
   }
 }
