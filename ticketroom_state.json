@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 01:58:06 GMT",
-    "checked_at": "2026-10-29T02:01:12.971240+00:00"
+    "last_modified": "Thu, 29 Oct 2026 02:07:08 GMT",
+    "checked_at": "2026-10-29T02:07:16.079856+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "7de3622d66ef9fa29936b65aa54f2188c9b58a0cb0ac061882da9e0bdc243422",
+    "hash": "b099cca78349834cf9b5b8af41a04c79b0cac58c5b49bca3b80c81b1bfd5c126",
     "confirmed": [
       {
         "name": "Back Post",
@@ -22,6 +22,17 @@
         "info": {
           "Robert Lewandowski": "Chicago Fire FC vs Orlando City SC \u00b7 Wed Oct 28 \u00b7 8:30 PM ET"
         }
+      },
+      {
+        "name": "Big Game Player",
+        "legs": [
+          "Brian White"
+        ],
+        "rr": false,
+        "info": {
+          "Brian White": "Vancouver Whitecaps vs San Diego FC \u00b7 Wed Oct 28 \u00b7 10:30 PM ET"
+        },
+        "units": 2
       },
       {
         "name": "Cutback",
@@ -122,6 +133,16 @@
         }
       },
       {
+        "name": "Tap-In",
+        "legs": [
+          "Rayan Elloumi"
+        ],
+        "rr": false,
+        "info": {
+          "Rayan Elloumi": "Vancouver Whitecaps vs San Diego FC \u00b7 Wed Oct 28 \u00b7 10:30 PM ET"
+        }
+      },
+      {
         "name": "Target Man",
         "legs": [
           "Lionel Messi"
@@ -139,6 +160,16 @@
         "rr": false,
         "info": {
           "Kelvin Yeboah": "Minnesota United FC vs Sporting Kansas City \u00b7 Wed Oct 28 \u00b7 8:30 PM ET"
+        }
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Brian White"
+        ],
+        "rr": false,
+        "info": {
+          "Brian White": "Vancouver Whitecaps vs San Diego FC \u00b7 Wed Oct 28 \u00b7 10:30 PM ET"
         }
       }
     ],
@@ -181,12 +212,22 @@
       ],
       "Ghosts In": [
         "Dejan Joveljic"
+      ],
+      "Big Game Player": [
+        "Brian White"
+      ],
+      "Tap-In": [
+        "Rayan Elloumi"
+      ],
+      "The Poacher": [
+        "Brian White"
       ]
     },
     "abets": [
       "totals||FC Dallas v Columbus Crew: Both teams to score,St. Louis CITY SC v Portland Timbers: Both teams to score,Vancouver Whitecaps v San Diego FC: Both teams to score,Venezia v Internazionale: Venezia to score",
       "|anytime goalscorer|Alonso Martinez",
       "|anytime goalscorer|Ange Bonny",
+      "|anytime goalscorer|Brian White",
       "|anytime goalscorer|Dejan Joveljic",
       "|anytime goalscorer|Ermedin Demirovic",
       "|anytime goalscorer|Kelvin Yeboah",
@@ -196,6 +237,7 @@
       "|anytime goalscorer|Marcus Thuram",
       "|anytime goalscorer|Petar Musa",
       "|anytime goalscorer|Rafael Navarro",
+      "|anytime goalscorer|Rayan Elloumi",
       "|anytime goalscorer|Robert Lewandowski"
     ],
     "slate": "2026-10-28",
@@ -206,8 +248,8 @@
       "t:Venezia v Internazionale: Venezia to score"
     ],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 01:58:06 GMT",
-    "checked_at": "2026-10-29T02:01:18.407048+00:00"
+    "last_modified": "Thu, 29 Oct 2026 02:07:08 GMT",
+    "checked_at": "2026-10-29T02:07:20.550759+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -217,8 +259,8 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 01:58:06 GMT",
-    "checked_at": "2026-10-29T02:01:18.754723+00:00"
+    "last_modified": "Thu, 29 Oct 2026 02:07:08 GMT",
+    "checked_at": "2026-10-29T02:07:20.731715+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "42bbac0a5dd655b877bf2157000dd7853f1e682aa4c4bfab2f51cb9b92f89f00",
@@ -523,7 +565,7 @@
       "a:Wendell Carter Jr."
     ],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 01:58:06 GMT",
-    "checked_at": "2026-10-29T02:01:20.654942+00:00"
+    "last_modified": "Thu, 29 Oct 2026 02:07:08 GMT",
+    "checked_at": "2026-10-29T02:07:21.781012+00:00"
   }
 }
