@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 02:07:27 GMT",
-    "checked_at": "2026-10-29T02:08:13.462889+00:00"
+    "last_modified": "Thu, 29 Oct 2026 02:27:50 GMT",
+    "checked_at": "2026-10-29T02:30:19.400685+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "b099cca78349834cf9b5b8af41a04c79b0cac58c5b49bca3b80c81b1bfd5c126",
@@ -242,14 +242,15 @@
     ],
     "slate": "2026-10-28",
     "hits": [
+      "a:Kelvin Yeboah",
       "a:Luis Suarez",
       "t:FC Dallas v Columbus Crew: Both teams to score",
       "t:St. Louis CITY SC v Portland Timbers: Both teams to score",
       "t:Venezia v Internazionale: Venezia to score"
     ],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 02:07:27 GMT",
-    "checked_at": "2026-10-29T02:08:19.031606+00:00"
+    "last_modified": "Thu, 29 Oct 2026 02:27:50 GMT",
+    "checked_at": "2026-10-29T02:30:23.013453+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -259,8 +260,8 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 02:07:27 GMT",
-    "checked_at": "2026-10-29T02:08:19.477574+00:00"
+    "last_modified": "Thu, 29 Oct 2026 02:27:50 GMT",
+    "checked_at": "2026-10-29T02:30:23.316611+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "b8396f48012919dbc7cfab7a83ee5cd70bd8968a817bac84f12e27d6eaefbaab",
@@ -581,7 +582,7 @@
       "a:Wendell Carter Jr."
     ],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 02:07:27 GMT",
-    "checked_at": "2026-10-29T02:08:23.025162+00:00"
+    "last_modified": "Thu, 29 Oct 2026 02:27:50 GMT",
+    "checked_at": "2026-10-29T02:30:24.586725+00:00"
   }
 }
