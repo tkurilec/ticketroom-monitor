@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 23:51:44 GMT",
-    "checked_at": "2026-10-28T23:52:12.310040+00:00"
+    "last_modified": "Thu, 29 Oct 2026 00:37:18 GMT",
+    "checked_at": "2026-10-29T00:40:16.728757+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "19f97b816b245f332a763d4253e87aeacbbb8a887d8182ab37b2b6ff51062c7b",
@@ -189,8 +189,8 @@
       "t:Venezia v Internazionale: Venezia to score"
     ],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 23:51:44 GMT",
-    "checked_at": "2026-10-28T23:52:18.766750+00:00"
+    "last_modified": "Thu, 29 Oct 2026 00:37:18 GMT",
+    "checked_at": "2026-10-29T00:40:19.226640+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -200,11 +200,11 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 23:51:44 GMT",
-    "checked_at": "2026-10-28T23:52:18.999807+00:00"
+    "last_modified": "Thu, 29 Oct 2026 00:37:18 GMT",
+    "checked_at": "2026-10-29T00:40:19.509039+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "cc463755503ef536079af5f38874414d48bf77b1ea09317161f6280306616d71",
+    "hash": "cd245bd432639a0735a1327332c6591a423f051aff4ede87e4d401a488bf4692",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -375,6 +375,18 @@
         "group": "5"
       },
       {
+        "name": "Top of the Key",
+        "legs": [
+          "Ace Bailey"
+        ],
+        "rr": false,
+        "info": {
+          "Ace Bailey": "Jazz vs Spurs \u00b7 Wed Oct 28 \u00b7 9:00 PM ET"
+        },
+        "units": 0.6,
+        "group": "10"
+      },
+      {
         "name": "Win the Tip",
         "legs": [
           "Bam Adebayo"
@@ -432,9 +444,13 @@
       ],
       "Set Play": [
         "Norman Powell"
+      ],
+      "Top of the Key": [
+        "Ace Bailey"
       ]
     },
     "abets": [
+      "|first basket|Ace Bailey",
       "|first basket|Anthony Davis",
       "|first basket|Bam Adebayo",
       "|first basket|Draymond Green",
@@ -458,7 +474,7 @@
       "a:Wendell Carter Jr."
     ],
     "ltd": null,
-    "last_modified": "Wed, 28 Oct 2026 23:51:44 GMT",
-    "checked_at": "2026-10-28T23:52:19.963680+00:00"
+    "last_modified": "Thu, 29 Oct 2026 00:37:18 GMT",
+    "checked_at": "2026-10-29T00:40:21.809272+00:00"
   }
 }
