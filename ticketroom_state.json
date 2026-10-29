@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 18:51:35 GMT",
-    "checked_at": "2026-10-29T18:55:14.280848+00:00"
+    "last_modified": "Thu, 29 Oct 2026 19:16:25 GMT",
+    "checked_at": "2026-10-29T19:18:12.547499+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "cfc44e3e09b908be4c0001dc0623ce4094d19a625e73e8c0a44e35cbc8f9cea5",
@@ -67,11 +67,12 @@
     ],
     "slate": "2026-10-29",
     "hits": [
-      "a:Antonio Raimondo"
+      "a:Antonio Raimondo",
+      "t:Frosinone v Lecce: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 18:51:35 GMT",
-    "checked_at": "2026-10-29T18:55:15.260340+00:00"
+    "last_modified": "Thu, 29 Oct 2026 19:16:25 GMT",
+    "checked_at": "2026-10-29T19:18:14.235728+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -81,8 +82,8 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 18:51:35 GMT",
-    "checked_at": "2026-10-29T18:55:15.434310+00:00"
+    "last_modified": "Thu, 29 Oct 2026 19:16:25 GMT",
+    "checked_at": "2026-10-29T19:18:14.461346+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -92,7 +93,7 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 18:51:35 GMT",
-    "checked_at": "2026-10-29T18:55:15.608271+00:00"
+    "last_modified": "Thu, 29 Oct 2026 19:16:25 GMT",
+    "checked_at": "2026-10-29T19:18:14.713960+00:00"
   }
 }
