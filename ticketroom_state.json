@@ -7,72 +7,41 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 22:57:40 GMT",
-    "checked_at": "2026-10-29T23:00:24.581042+00:00"
+    "last_modified": "Thu, 29 Oct 2026 23:12:35 GMT",
+    "checked_at": "2026-10-29T23:13:11.636136+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "cfc44e3e09b908be4c0001dc0623ce4094d19a625e73e8c0a44e35cbc8f9cea5",
+    "hash": "c8e32c90a791588fc5df1646018af338b2b538ba6adf92005ae668e2656c3f42",
     "confirmed": [
       {
-        "name": "Danger Man",
+        "name": "Ninety Minutes",
         "legs": [
-          "Antonio Raimondo"
-        ],
-        "rr": false,
-        "info": {
-          "Antonio Raimondo": "Frosinone vs Lecce \u00b7 Thu Oct 29 \u00b7 1:30 PM ET"
-        },
-        "units": 2
-      },
-      {
-        "name": "Final Tally",
-        "legs": [
-          "Fiorentina v Atalanta: Match under 3.5 goals",
-          "Frosinone v Lecce: Both teams to score"
+          "SV Elversberg v Mainz: Both teams to score",
+          "Villarreal v Espanyol: Espanyol to score"
         ],
         "rr": false,
         "market": "",
         "kind": "totals",
         "info": {
-          "Frosinone v Lecce: Both teams to score": "Thu Oct 29 \u00b7 1:30 PM ET",
-          "Fiorentina v Atalanta: Match under 3.5 goals": "Thu Oct 29 \u00b7 3:45 PM ET"
-        }
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Antonio Raimondo"
-        ],
-        "rr": false,
-        "info": {
-          "Antonio Raimondo": "Frosinone vs Lecce \u00b7 Thu Oct 29 \u00b7 1:30 PM ET"
+          "SV Elversberg v Mainz: Both teams to score": "Fri Oct 30 \u00b7 3:30 PM ET",
+          "Villarreal v Espanyol: Espanyol to score": "Fri Oct 30 \u00b7 4:00 PM ET"
         }
       }
     ],
     "announced": {
-      "Final Tally": [
-        "Fiorentina v Atalanta: Match under 3.5 goals",
-        "Frosinone v Lecce: Both teams to score"
-      ],
-      "Danger Man": [
-        "Antonio Raimondo"
-      ],
-      "Target Man": [
-        "Antonio Raimondo"
+      "Ninety Minutes": [
+        "SV Elversberg v Mainz: Both teams to score",
+        "Villarreal v Espanyol: Espanyol to score"
       ]
     },
     "abets": [
-      "totals||Fiorentina v Atalanta: Match under 3.5 goals,Frosinone v Lecce: Both teams to score",
-      "|anytime goalscorer|Antonio Raimondo"
+      "totals||SV Elversberg v Mainz: Both teams to score,Villarreal v Espanyol: Espanyol to score"
     ],
-    "slate": "2026-10-29",
-    "hits": [
-      "a:Antonio Raimondo",
-      "t:Frosinone v Lecce: Both teams to score"
-    ],
+    "slate": "2026-10-30",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 22:57:40 GMT",
-    "checked_at": "2026-10-29T23:00:25.139492+00:00"
+    "last_modified": "Thu, 29 Oct 2026 23:12:35 GMT",
+    "checked_at": "2026-10-29T23:13:13.502379+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "59ae29b8f565a076d60daec0499008edbab33d2ccfed405fc18dd19ff374642d",
@@ -173,8 +142,8 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 22:57:40 GMT",
-    "checked_at": "2026-10-29T23:00:26.891478+00:00"
+    "last_modified": "Thu, 29 Oct 2026 23:12:35 GMT",
+    "checked_at": "2026-10-29T23:13:13.699049+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -184,7 +153,7 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 22:57:40 GMT",
-    "checked_at": "2026-10-29T23:00:27.016175+00:00"
+    "last_modified": "Thu, 29 Oct 2026 23:12:35 GMT",
+    "checked_at": "2026-10-29T23:13:13.841437+00:00"
   }
 }
