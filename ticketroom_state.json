@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 23:12:35 GMT",
-    "checked_at": "2026-10-29T23:13:11.636136+00:00"
+    "last_modified": "Thu, 29 Oct 2026 23:36:39 GMT",
+    "checked_at": "2026-10-29T23:37:12.011314+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "c8e32c90a791588fc5df1646018af338b2b538ba6adf92005ae668e2656c3f42",
@@ -40,8 +40,8 @@
     "slate": "2026-10-30",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 23:12:35 GMT",
-    "checked_at": "2026-10-29T23:13:13.502379+00:00"
+    "last_modified": "Thu, 29 Oct 2026 23:36:39 GMT",
+    "checked_at": "2026-10-29T23:37:12.258926+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "59ae29b8f565a076d60daec0499008edbab33d2ccfed405fc18dd19ff374642d",
@@ -142,18 +142,53 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 23:12:35 GMT",
-    "checked_at": "2026-10-29T23:13:13.699049+00:00"
+    "last_modified": "Thu, 29 Oct 2026 23:36:39 GMT",
+    "checked_at": "2026-10-29T23:37:12.478517+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "f4da950c87819ce8ba41ca7771f1a66d06faf33c846a4b6450056945f0cc68ea",
+    "confirmed": [
+      {
+        "name": "First Bucket",
+        "legs": [
+          "Onyeka Okongwu"
+        ],
+        "rr": false,
+        "info": {
+          "Onyeka Okongwu": "Hawks vs Cavaliers \u00b7 Thu Oct 29 \u00b7 8:00 PM ET"
+        },
+        "units": 0.3,
+        "group": "1"
+      },
+      {
+        "name": "Win the Tip",
+        "legs": [
+          "Peyton Watson"
+        ],
+        "rr": false,
+        "info": {
+          "Peyton Watson": "Cavaliers vs Hawks \u00b7 Thu Oct 29 \u00b7 8:00 PM ET"
+        },
+        "units": 0.3,
+        "group": "1"
+      }
+    ],
+    "announced": {
+      "First Bucket": [
+        "Onyeka Okongwu"
+      ],
+      "Win the Tip": [
+        "Peyton Watson"
+      ]
+    },
+    "abets": [
+      "|first basket|Onyeka Okongwu",
+      "|first basket|Peyton Watson"
+    ],
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 23:12:35 GMT",
-    "checked_at": "2026-10-29T23:13:13.841437+00:00"
+    "last_modified": "Thu, 29 Oct 2026 23:36:39 GMT",
+    "checked_at": "2026-10-29T23:37:13.890092+00:00"
   }
 }
