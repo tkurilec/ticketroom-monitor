@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 19:16:25 GMT",
-    "checked_at": "2026-10-29T19:18:12.547499+00:00"
+    "last_modified": "Thu, 29 Oct 2026 22:57:40 GMT",
+    "checked_at": "2026-10-29T23:00:24.581042+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "cfc44e3e09b908be4c0001dc0623ce4094d19a625e73e8c0a44e35cbc8f9cea5",
@@ -71,19 +71,110 @@
       "t:Frosinone v Lecce: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 19:16:25 GMT",
-    "checked_at": "2026-10-29T19:18:14.235728+00:00"
+    "last_modified": "Thu, 29 Oct 2026 22:57:40 GMT",
+    "checked_at": "2026-10-29T23:00:25.139492+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "59ae29b8f565a076d60daec0499008edbab33d2ccfed405fc18dd19ff374642d",
+    "confirmed": [
+      {
+        "name": "Bell Cow",
+        "legs": [
+          "John Metchie III"
+        ],
+        "rr": false,
+        "info": {
+          "John Metchie III": "Panthers vs Packers \u00b7 Thu Oct 29 \u00b7 8:15 PM ET"
+        }
+      },
+      {
+        "name": "Break the Seal",
+        "legs": [
+          "Josh Jacobs"
+        ],
+        "rr": false,
+        "info": {
+          "Josh Jacobs": "Packers vs Panthers \u00b7 Thu Oct 29 \u00b7 8:15 PM ET"
+        },
+        "market": "first touchdown scorer",
+        "kind": "ftd"
+      },
+      {
+        "name": "Goal Line Back",
+        "legs": [
+          "Mark Redman"
+        ],
+        "rr": false,
+        "info": {
+          "Mark Redman": "Packers vs Panthers \u00b7 Thu Oct 29 \u00b7 8:15 PM ET"
+        }
+      },
+      {
+        "name": "King of the End Zone: Christian Watson",
+        "legs": [
+          "Christian Watson"
+        ],
+        "rr": false,
+        "market": "longest touchdown scorer",
+        "kind": "longtd",
+        "info": {
+          "Christian Watson": "Packers vs Panthers \u00b7 Thu Oct 29 \u00b7 8:15 PM ET"
+        }
+      },
+      {
+        "name": "Red Zone Target",
+        "legs": [
+          "David Moore"
+        ],
+        "rr": false,
+        "info": {
+          "David Moore": "Panthers vs Packers \u00b7 Thu Oct 29 \u00b7 8:15 PM ET"
+        }
+      },
+      {
+        "name": "Short Yardage",
+        "legs": [
+          "Feleipe Franks"
+        ],
+        "rr": false,
+        "info": {
+          "Feleipe Franks": "Panthers vs Packers \u00b7 Thu Oct 29 \u00b7 8:15 PM ET"
+        }
+      }
+    ],
+    "announced": {
+      "Bell Cow": [
+        "John Metchie III"
+      ],
+      "Break the Seal": [
+        "Josh Jacobs"
+      ],
+      "Goal Line Back": [
+        "Mark Redman"
+      ],
+      "King of the End Zone: Christian Watson": [
+        "Christian Watson"
+      ],
+      "Red Zone Target": [
+        "David Moore"
+      ],
+      "Short Yardage": [
+        "Feleipe Franks"
+      ]
+    },
+    "abets": [
+      "ftd|first touchdown scorer|Josh Jacobs",
+      "longtd|longest touchdown scorer|Christian Watson",
+      "|anytime touchdown|David Moore",
+      "|anytime touchdown|Feleipe Franks",
+      "|anytime touchdown|John Metchie III",
+      "|anytime touchdown|Mark Redman"
+    ],
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 19:16:25 GMT",
-    "checked_at": "2026-10-29T19:18:14.461346+00:00"
+    "last_modified": "Thu, 29 Oct 2026 22:57:40 GMT",
+    "checked_at": "2026-10-29T23:00:26.891478+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -93,7 +184,7 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 19:16:25 GMT",
-    "checked_at": "2026-10-29T19:18:14.713960+00:00"
+    "last_modified": "Thu, 29 Oct 2026 22:57:40 GMT",
+    "checked_at": "2026-10-29T23:00:27.016175+00:00"
   }
 }
