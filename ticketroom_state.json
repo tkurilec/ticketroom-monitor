@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 23:36:39 GMT",
-    "checked_at": "2026-10-29T23:40:16.366590+00:00"
+    "last_modified": "Thu, 29 Oct 2026 23:41:55 GMT",
+    "checked_at": "2026-10-29T23:42:14.957007+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "c8e32c90a791588fc5df1646018af338b2b538ba6adf92005ae668e2656c3f42",
@@ -40,11 +40,11 @@
     "slate": "2026-10-30",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 23:36:39 GMT",
-    "checked_at": "2026-10-29T23:40:17.490814+00:00"
+    "last_modified": "Thu, 29 Oct 2026 23:41:55 GMT",
+    "checked_at": "2026-10-29T23:42:15.399602+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "59ae29b8f565a076d60daec0499008edbab33d2ccfed405fc18dd19ff374642d",
+    "hash": "c82672bc31d68aff7631ad39f7f864ec2397effcc43aeffecbb1a4554eebadee",
     "confirmed": [
       {
         "name": "Bell Cow",
@@ -109,6 +109,16 @@
         "info": {
           "Feleipe Franks": "Panthers vs Packers \u00b7 Thu Oct 29 \u00b7 8:15 PM ET"
         }
+      },
+      {
+        "name": "The Workhorse",
+        "legs": [
+          "MarShawn Lloyd"
+        ],
+        "rr": false,
+        "info": {
+          "MarShawn Lloyd": "Packers vs Panthers \u00b7 Thu Oct 29 \u00b7 8:15 PM ET"
+        }
       }
     ],
     "announced": {
@@ -129,6 +139,9 @@
       ],
       "Short Yardage": [
         "Feleipe Franks"
+      ],
+      "The Workhorse": [
+        "MarShawn Lloyd"
       ]
     },
     "abets": [
@@ -137,16 +150,17 @@
       "|anytime touchdown|David Moore",
       "|anytime touchdown|Feleipe Franks",
       "|anytime touchdown|John Metchie III",
+      "|anytime touchdown|MarShawn Lloyd",
       "|anytime touchdown|Mark Redman"
     ],
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 23:36:39 GMT",
-    "checked_at": "2026-10-29T23:40:17.764318+00:00"
+    "last_modified": "Thu, 29 Oct 2026 23:41:55 GMT",
+    "checked_at": "2026-10-29T23:42:17.487877+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "091c1dc86fbde6c85a372ea7ade9b09ff063c51d8deaba9609abdfcd1d08d510",
+    "hash": "8827863a2dbb1726ae980dcdbe044c336e7ce1058f529d24ab0a3188a292871b",
     "confirmed": [
       {
         "name": "First Bucket",
@@ -163,11 +177,11 @@
       {
         "name": "Opening Tip",
         "legs": [
-          "DeAndre Jordan"
+          "Domantas Sabonis"
         ],
         "rr": false,
         "info": {
-          "DeAndre Jordan": "Pelicans vs Kings \u00b7 Thu Oct 29 \u00b7 8:00 PM ET"
+          "Domantas Sabonis": "Kings vs Pelicans \u00b7 Thu Oct 29 \u00b7 8:00 PM ET"
         },
         "units": 0.6,
         "group": "2"
@@ -193,18 +207,19 @@
         "Peyton Watson"
       ],
       "Opening Tip": [
-        "DeAndre Jordan"
+        "Domantas Sabonis"
       ]
     },
     "abets": [
       "|first basket|DeAndre Jordan",
+      "|first basket|Domantas Sabonis",
       "|first basket|Onyeka Okongwu",
       "|first basket|Peyton Watson"
     ],
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 23:36:39 GMT",
-    "checked_at": "2026-10-29T23:40:19.464332+00:00"
+    "last_modified": "Thu, 29 Oct 2026 23:41:55 GMT",
+    "checked_at": "2026-10-29T23:42:19.295092+00:00"
   }
 }
