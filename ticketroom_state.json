@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 16:41:49 GMT",
-    "checked_at": "2026-10-29T16:42:15.320085+00:00"
+    "last_modified": "Thu, 29 Oct 2026 18:51:35 GMT",
+    "checked_at": "2026-10-29T18:55:14.280848+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "cfc44e3e09b908be4c0001dc0623ce4094d19a625e73e8c0a44e35cbc8f9cea5",
@@ -66,10 +66,12 @@
       "|anytime goalscorer|Antonio Raimondo"
     ],
     "slate": "2026-10-29",
-    "hits": [],
+    "hits": [
+      "a:Antonio Raimondo"
+    ],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 16:41:49 GMT",
-    "checked_at": "2026-10-29T16:42:17.633940+00:00"
+    "last_modified": "Thu, 29 Oct 2026 18:51:35 GMT",
+    "checked_at": "2026-10-29T18:55:15.260340+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -79,8 +81,8 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 16:41:49 GMT",
-    "checked_at": "2026-10-29T16:42:17.820470+00:00"
+    "last_modified": "Thu, 29 Oct 2026 18:51:35 GMT",
+    "checked_at": "2026-10-29T18:55:15.434310+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -90,7 +92,7 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 16:41:49 GMT",
-    "checked_at": "2026-10-29T16:42:18.211526+00:00"
+    "last_modified": "Thu, 29 Oct 2026 18:51:35 GMT",
+    "checked_at": "2026-10-29T18:55:15.608271+00:00"
   }
 }
