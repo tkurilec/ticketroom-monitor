@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 00:37:18 GMT",
-    "checked_at": "2026-10-29T00:40:16.728757+00:00"
+    "last_modified": "Thu, 29 Oct 2026 00:57:03 GMT",
+    "checked_at": "2026-10-29T01:01:18.124581+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "19f97b816b245f332a763d4253e87aeacbbb8a887d8182ab37b2b6ff51062c7b",
@@ -186,11 +186,12 @@
     ],
     "slate": "2026-10-28",
     "hits": [
+      "a:Luis Suarez",
       "t:Venezia v Internazionale: Venezia to score"
     ],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 00:37:18 GMT",
-    "checked_at": "2026-10-29T00:40:19.226640+00:00"
+    "last_modified": "Thu, 29 Oct 2026 00:57:03 GMT",
+    "checked_at": "2026-10-29T01:01:23.605817+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -200,8 +201,8 @@
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 00:37:18 GMT",
-    "checked_at": "2026-10-29T00:40:19.509039+00:00"
+    "last_modified": "Thu, 29 Oct 2026 00:57:03 GMT",
+    "checked_at": "2026-10-29T01:01:24.078003+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "cd245bd432639a0735a1327332c6591a423f051aff4ede87e4d401a488bf4692",
@@ -474,7 +475,7 @@
       "a:Wendell Carter Jr."
     ],
     "ltd": null,
-    "last_modified": "Thu, 29 Oct 2026 00:37:18 GMT",
-    "checked_at": "2026-10-29T00:40:21.809272+00:00"
+    "last_modified": "Thu, 29 Oct 2026 00:57:03 GMT",
+    "checked_at": "2026-10-29T01:01:25.702757+00:00"
   }
 }
