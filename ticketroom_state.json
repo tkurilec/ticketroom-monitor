@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 30 Oct 2026 20:51:30 GMT",
-    "checked_at": "2026-10-30T20:55:14.322064+00:00"
+    "last_modified": "Fri, 30 Oct 2026 21:07:08 GMT",
+    "checked_at": "2026-10-30T21:07:10.110505+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "ab60c045f1cd2775385db37edf5542a2119ecd5f4cad483814c8c6d5d09ff818",
@@ -67,11 +67,12 @@
     ],
     "slate": "2026-10-30",
     "hits": [
-      "t:SV Elversberg v Mainz: Both teams to score"
+      "t:SV Elversberg v Mainz: Both teams to score",
+      "t:Villarreal v Espanyol: Espanyol to score"
     ],
     "ltd": null,
-    "last_modified": "Fri, 30 Oct 2026 20:51:30 GMT",
-    "checked_at": "2026-10-30T20:55:15.477554+00:00"
+    "last_modified": "Fri, 30 Oct 2026 21:07:08 GMT",
+    "checked_at": "2026-10-30T21:07:10.983447+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -115,8 +116,8 @@
       "best": 26,
       "settled": true
     },
-    "last_modified": "Fri, 30 Oct 2026 20:51:30 GMT",
-    "checked_at": "2026-10-30T20:55:15.823595+00:00"
+    "last_modified": "Fri, 30 Oct 2026 21:07:08 GMT",
+    "checked_at": "2026-10-30T21:07:11.171145+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -126,7 +127,7 @@
     "slate": "2026-10-30",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 30 Oct 2026 20:51:30 GMT",
-    "checked_at": "2026-10-30T20:55:16.185451+00:00"
+    "last_modified": "Fri, 30 Oct 2026 21:07:08 GMT",
+    "checked_at": "2026-10-30T21:07:11.272794+00:00"
   }
 }
