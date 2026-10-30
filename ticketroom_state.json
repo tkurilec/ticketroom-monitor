@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 30 Oct 2026 03:12:05 GMT",
-    "checked_at": "2026-10-30T03:26:12.768577+00:00"
+    "last_modified": "Fri, 30 Oct 2026 03:41:19 GMT",
+    "checked_at": "2026-10-30T04:00:22.251594+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "c8e32c90a791588fc5df1646018af338b2b538ba6adf92005ae668e2656c3f42",
@@ -40,87 +40,12 @@
     "slate": "2026-10-30",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 30 Oct 2026 03:12:05 GMT",
-    "checked_at": "2026-10-30T03:26:13.113980+00:00"
+    "last_modified": "Fri, 30 Oct 2026 03:41:19 GMT",
+    "checked_at": "2026-10-30T04:00:22.821028+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "c82672bc31d68aff7631ad39f7f864ec2397effcc43aeffecbb1a4554eebadee",
-    "confirmed": [
-      {
-        "name": "Bell Cow",
-        "legs": [
-          "John Metchie III"
-        ],
-        "rr": false,
-        "info": {
-          "John Metchie III": "Panthers vs Packers \u00b7 Thu Oct 29 \u00b7 8:15 PM ET"
-        }
-      },
-      {
-        "name": "Break the Seal",
-        "legs": [
-          "Josh Jacobs"
-        ],
-        "rr": false,
-        "info": {
-          "Josh Jacobs": "Packers vs Panthers \u00b7 Thu Oct 29 \u00b7 8:15 PM ET"
-        },
-        "market": "first touchdown scorer",
-        "kind": "ftd"
-      },
-      {
-        "name": "Goal Line Back",
-        "legs": [
-          "Mark Redman"
-        ],
-        "rr": false,
-        "info": {
-          "Mark Redman": "Packers vs Panthers \u00b7 Thu Oct 29 \u00b7 8:15 PM ET"
-        }
-      },
-      {
-        "name": "King of the End Zone: Christian Watson",
-        "legs": [
-          "Christian Watson"
-        ],
-        "rr": false,
-        "market": "longest touchdown scorer",
-        "kind": "longtd",
-        "info": {
-          "Christian Watson": "Packers vs Panthers \u00b7 Thu Oct 29 \u00b7 8:15 PM ET"
-        }
-      },
-      {
-        "name": "Red Zone Target",
-        "legs": [
-          "David Moore"
-        ],
-        "rr": false,
-        "info": {
-          "David Moore": "Panthers vs Packers \u00b7 Thu Oct 29 \u00b7 8:15 PM ET"
-        }
-      },
-      {
-        "name": "Short Yardage",
-        "legs": [
-          "Feleipe Franks"
-        ],
-        "rr": false,
-        "info": {
-          "Feleipe Franks": "Panthers vs Packers \u00b7 Thu Oct 29 \u00b7 8:15 PM ET"
-        }
-      },
-      {
-        "name": "The Workhorse",
-        "legs": [
-          "MarShawn Lloyd"
-        ],
-        "rr": false,
-        "info": {
-          "MarShawn Lloyd": "Packers vs Panthers \u00b7 Thu Oct 29 \u00b7 8:15 PM ET"
-        }
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Bell Cow": [
         "John Metchie III"
@@ -153,80 +78,19 @@
       "|anytime touchdown|MarShawn Lloyd",
       "|anytime touchdown|Mark Redman"
     ],
-    "slate": "2026-10-29",
+    "slate": null,
     "hits": [],
     "ltd": {
       "holding": [],
       "best": 26,
       "settled": true
     },
-    "last_modified": "Fri, 30 Oct 2026 03:12:05 GMT",
-    "checked_at": "2026-10-30T03:26:13.502577+00:00"
+    "last_modified": "Fri, 30 Oct 2026 03:41:19 GMT",
+    "checked_at": "2026-10-30T04:00:23.000690+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "f05aacaa98169e02a184574e7c9657fff6536d21fd56cb87495f7e79938d6a20",
-    "confirmed": [
-      {
-        "name": "Bucket One",
-        "legs": [
-          "Ja Morant"
-        ],
-        "rr": false,
-        "info": {
-          "Ja Morant": "Trail Blazers vs Grizzlies \u00b7 Thu Oct 29 \u00b7 10:00 PM ET"
-        },
-        "units": 0.3,
-        "group": "3"
-      },
-      {
-        "name": "First Bucket",
-        "legs": [
-          "Onyeka Okongwu"
-        ],
-        "rr": false,
-        "info": {
-          "Onyeka Okongwu": "Hawks vs Cavaliers \u00b7 Thu Oct 29 \u00b7 8:00 PM ET"
-        },
-        "units": 0.3,
-        "group": "1"
-      },
-      {
-        "name": "Opening Tip",
-        "legs": [
-          "Domantas Sabonis"
-        ],
-        "rr": false,
-        "info": {
-          "Domantas Sabonis": "Kings vs Pelicans \u00b7 Thu Oct 29 \u00b7 8:00 PM ET"
-        },
-        "units": 0.6,
-        "group": "2"
-      },
-      {
-        "name": "The Opener",
-        "legs": [
-          "Jaylen Wells"
-        ],
-        "rr": false,
-        "info": {
-          "Jaylen Wells": "Grizzlies vs Trail Blazers \u00b7 Thu Oct 29 \u00b7 10:00 PM ET"
-        },
-        "units": 0.3,
-        "group": "3"
-      },
-      {
-        "name": "Win the Tip",
-        "legs": [
-          "Peyton Watson"
-        ],
-        "rr": false,
-        "info": {
-          "Peyton Watson": "Cavaliers vs Hawks \u00b7 Thu Oct 29 \u00b7 8:00 PM ET"
-        },
-        "units": 0.3,
-        "group": "1"
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "First Bucket": [
         "Onyeka Okongwu"
@@ -252,10 +116,10 @@
       "|first basket|Onyeka Okongwu",
       "|first basket|Peyton Watson"
     ],
-    "slate": "2026-10-29",
+    "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 30 Oct 2026 03:12:05 GMT",
-    "checked_at": "2026-10-30T03:26:13.785471+00:00"
+    "last_modified": "Fri, 30 Oct 2026 03:41:19 GMT",
+    "checked_at": "2026-10-30T04:00:23.249097+00:00"
   }
 }
