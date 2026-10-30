@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 30 Oct 2026 01:32:34 GMT",
-    "checked_at": "2026-10-30T01:33:10.891224+00:00"
+    "last_modified": "Fri, 30 Oct 2026 01:36:58 GMT",
+    "checked_at": "2026-10-30T01:37:12.674879+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "c8e32c90a791588fc5df1646018af338b2b538ba6adf92005ae668e2656c3f42",
@@ -40,8 +40,8 @@
     "slate": "2026-10-30",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 30 Oct 2026 01:32:34 GMT",
-    "checked_at": "2026-10-30T01:33:11.522335+00:00"
+    "last_modified": "Fri, 30 Oct 2026 01:36:58 GMT",
+    "checked_at": "2026-10-30T01:37:13.610400+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "c82672bc31d68aff7631ad39f7f864ec2397effcc43aeffecbb1a4554eebadee",
@@ -160,12 +160,24 @@
       "best": 24,
       "settled": false
     },
-    "last_modified": "Fri, 30 Oct 2026 01:32:34 GMT",
-    "checked_at": "2026-10-30T01:33:12.394144+00:00"
+    "last_modified": "Fri, 30 Oct 2026 01:36:58 GMT",
+    "checked_at": "2026-10-30T01:37:14.319172+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "8827863a2dbb1726ae980dcdbe044c336e7ce1058f529d24ab0a3188a292871b",
+    "hash": "f05aacaa98169e02a184574e7c9657fff6536d21fd56cb87495f7e79938d6a20",
     "confirmed": [
+      {
+        "name": "Bucket One",
+        "legs": [
+          "Ja Morant"
+        ],
+        "rr": false,
+        "info": {
+          "Ja Morant": "Trail Blazers vs Grizzlies \u00b7 Thu Oct 29 \u00b7 10:00 PM ET"
+        },
+        "units": 0.3,
+        "group": "3"
+      },
       {
         "name": "First Bucket",
         "legs": [
@@ -191,6 +203,18 @@
         "group": "2"
       },
       {
+        "name": "The Opener",
+        "legs": [
+          "Jaylen Wells"
+        ],
+        "rr": false,
+        "info": {
+          "Jaylen Wells": "Grizzlies vs Trail Blazers \u00b7 Thu Oct 29 \u00b7 10:00 PM ET"
+        },
+        "units": 0.3,
+        "group": "3"
+      },
+      {
         "name": "Win the Tip",
         "legs": [
           "Peyton Watson"
@@ -212,18 +236,26 @@
       ],
       "Opening Tip": [
         "Domantas Sabonis"
+      ],
+      "Bucket One": [
+        "Ja Morant"
+      ],
+      "The Opener": [
+        "Jaylen Wells"
       ]
     },
     "abets": [
       "|first basket|DeAndre Jordan",
       "|first basket|Domantas Sabonis",
+      "|first basket|Ja Morant",
+      "|first basket|Jaylen Wells",
       "|first basket|Onyeka Okongwu",
       "|first basket|Peyton Watson"
     ],
     "slate": "2026-10-29",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 30 Oct 2026 01:32:34 GMT",
-    "checked_at": "2026-10-30T01:33:12.952359+00:00"
+    "last_modified": "Fri, 30 Oct 2026 01:36:58 GMT",
+    "checked_at": "2026-10-30T01:37:16.504317+00:00"
   }
 }
