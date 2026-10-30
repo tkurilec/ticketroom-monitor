@@ -7,72 +7,47 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 30 Oct 2026 23:08:25 GMT",
-    "checked_at": "2026-10-30T23:10:16.555785+00:00"
+    "last_modified": "Fri, 30 Oct 2026 23:13:14 GMT",
+    "checked_at": "2026-10-30T23:14:11.634892+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "ab60c045f1cd2775385db37edf5542a2119ecd5f4cad483814c8c6d5d09ff818",
+    "hash": "768952f4c3a21b0cd2b8c39dc1e705d75c31eae0716f2d5498c17888e9fe50de",
     "confirmed": [
       {
-        "name": "Ninety Minutes",
+        "name": "The Totals Board",
         "legs": [
-          "SV Elversberg v Mainz: Both teams to score",
-          "Villarreal v Espanyol: Espanyol to score"
+          "Bayern Munich v Borussia Dortmund: Both teams to score",
+          "FC Augsburg v SC Freiburg: Both teams to score",
+          "Levante v Atl\u00e9tico Madrid: Levante to score",
+          "Schalke 04 v RB Leipzig: Both teams to score"
         ],
         "rr": false,
         "market": "",
         "kind": "totals",
         "info": {
-          "SV Elversberg v Mainz: Both teams to score": "Fri Oct 30 \u00b7 3:30 PM ET",
-          "Villarreal v Espanyol: Espanyol to score": "Fri Oct 30 \u00b7 4:00 PM ET"
+          "Schalke 04 v RB Leipzig: Both teams to score": "Sat Oct 31 \u00b7 10:30 AM ET",
+          "Bayern Munich v Borussia Dortmund: Both teams to score": "Sat Oct 31 \u00b7 1:30 PM ET",
+          "FC Augsburg v SC Freiburg: Both teams to score": "Sat Oct 31 \u00b7 10:30 AM ET",
+          "Levante v Atl\u00e9tico Madrid: Levante to score": "Sat Oct 31 \u00b7 9:00 AM ET"
         }
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Georges Mikautadze"
-        ],
-        "rr": false,
-        "info": {
-          "Georges Mikautadze": "Villarreal vs Espanyol \u00b7 Fri Oct 30 \u00b7 4:00 PM ET"
-        }
-      },
-      {
-        "name": "The Talisman",
-        "legs": [
-          "Georges Mikautadze"
-        ],
-        "rr": false,
-        "info": {
-          "Georges Mikautadze": "Villarreal vs Espanyol \u00b7 Fri Oct 30 \u00b7 4:00 PM ET"
-        },
-        "units": 2
       }
     ],
     "announced": {
-      "Ninety Minutes": [
-        "SV Elversberg v Mainz: Both teams to score",
-        "Villarreal v Espanyol: Espanyol to score"
-      ],
-      "Target Man": [
-        "Georges Mikautadze"
-      ],
-      "The Talisman": [
-        "Georges Mikautadze"
+      "The Totals Board": [
+        "Bayern Munich v Borussia Dortmund: Both teams to score",
+        "FC Augsburg v SC Freiburg: Both teams to score",
+        "Levante v Atl\u00e9tico Madrid: Levante to score",
+        "Schalke 04 v RB Leipzig: Both teams to score"
       ]
     },
     "abets": [
-      "totals||SV Elversberg v Mainz: Both teams to score,Villarreal v Espanyol: Espanyol to score",
-      "|anytime goalscorer|Georges Mikautadze"
+      "totals||Bayern Munich v Borussia Dortmund: Both teams to score,FC Augsburg v SC Freiburg: Both teams to score,Levante v Atl\u00e9tico Madrid: Levante to score,Schalke 04 v RB Leipzig: Both teams to score"
     ],
-    "slate": "2026-10-30",
-    "hits": [
-      "t:SV Elversberg v Mainz: Both teams to score",
-      "t:Villarreal v Espanyol: Espanyol to score"
-    ],
+    "slate": "2026-10-31",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 30 Oct 2026 23:08:26 GMT",
-    "checked_at": "2026-10-30T23:10:17.162575+00:00"
+    "last_modified": "Fri, 30 Oct 2026 23:13:14 GMT",
+    "checked_at": "2026-10-30T23:14:13.576461+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -116,8 +91,8 @@
       "best": 26,
       "settled": true
     },
-    "last_modified": "Fri, 30 Oct 2026 23:08:26 GMT",
-    "checked_at": "2026-10-30T23:10:17.419480+00:00"
+    "last_modified": "Fri, 30 Oct 2026 23:13:14 GMT",
+    "checked_at": "2026-10-30T23:14:13.654332+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "54860e18d1a956d7f7d8eb8fddd74572b58032bc84d08593f36897393f1856bd",
@@ -290,7 +265,7 @@
     "slate": "2026-10-30",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 30 Oct 2026 23:08:25 GMT",
-    "checked_at": "2026-10-30T23:10:18.876505+00:00"
+    "last_modified": "Fri, 30 Oct 2026 23:13:14 GMT",
+    "checked_at": "2026-10-30T23:14:13.860469+00:00"
   }
 }
