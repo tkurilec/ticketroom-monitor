@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 30 Oct 2026 10:01:34 GMT",
-    "checked_at": "2026-10-30T10:02:12.581167+00:00"
+    "last_modified": "Fri, 30 Oct 2026 19:05:20 GMT",
+    "checked_at": "2026-10-30T19:06:13.767361+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "c8e32c90a791588fc5df1646018af338b2b538ba6adf92005ae668e2656c3f42",
+    "hash": "ab60c045f1cd2775385db37edf5542a2119ecd5f4cad483814c8c6d5d09ff818",
     "confirmed": [
       {
         "name": "Ninety Minutes",
@@ -26,22 +26,50 @@
           "SV Elversberg v Mainz: Both teams to score": "Fri Oct 30 \u00b7 3:30 PM ET",
           "Villarreal v Espanyol: Espanyol to score": "Fri Oct 30 \u00b7 4:00 PM ET"
         }
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Georges Mikautadze"
+        ],
+        "rr": false,
+        "info": {
+          "Georges Mikautadze": "Villarreal vs Espanyol \u00b7 Fri Oct 30 \u00b7 4:00 PM ET"
+        }
+      },
+      {
+        "name": "The Talisman",
+        "legs": [
+          "Georges Mikautadze"
+        ],
+        "rr": false,
+        "info": {
+          "Georges Mikautadze": "Villarreal vs Espanyol \u00b7 Fri Oct 30 \u00b7 4:00 PM ET"
+        },
+        "units": 2
       }
     ],
     "announced": {
       "Ninety Minutes": [
         "SV Elversberg v Mainz: Both teams to score",
         "Villarreal v Espanyol: Espanyol to score"
+      ],
+      "Target Man": [
+        "Georges Mikautadze"
+      ],
+      "The Talisman": [
+        "Georges Mikautadze"
       ]
     },
     "abets": [
-      "totals||SV Elversberg v Mainz: Both teams to score,Villarreal v Espanyol: Espanyol to score"
+      "totals||SV Elversberg v Mainz: Both teams to score,Villarreal v Espanyol: Espanyol to score",
+      "|anytime goalscorer|Georges Mikautadze"
     ],
     "slate": "2026-10-30",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 30 Oct 2026 10:01:34 GMT",
-    "checked_at": "2026-10-30T10:02:13.500561+00:00"
+    "last_modified": "Fri, 30 Oct 2026 19:05:20 GMT",
+    "checked_at": "2026-10-30T19:06:15.714547+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -85,8 +113,8 @@
       "best": 26,
       "settled": true
     },
-    "last_modified": "Fri, 30 Oct 2026 10:01:34 GMT",
-    "checked_at": "2026-10-30T10:02:13.690830+00:00"
+    "last_modified": "Fri, 30 Oct 2026 19:05:20 GMT",
+    "checked_at": "2026-10-30T19:06:16.036677+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -96,7 +124,7 @@
     "slate": "2026-10-30",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 30 Oct 2026 10:01:34 GMT",
-    "checked_at": "2026-10-30T10:02:13.972522+00:00"
+    "last_modified": "Fri, 30 Oct 2026 19:05:20 GMT",
+    "checked_at": "2026-10-30T19:06:16.199312+00:00"
   }
 }
