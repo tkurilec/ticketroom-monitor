@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 30 Oct 2026 03:41:19 GMT",
-    "checked_at": "2026-10-30T04:00:22.251594+00:00"
+    "last_modified": "Fri, 30 Oct 2026 10:01:34 GMT",
+    "checked_at": "2026-10-30T10:02:12.581167+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "c8e32c90a791588fc5df1646018af338b2b538ba6adf92005ae668e2656c3f42",
@@ -40,8 +40,8 @@
     "slate": "2026-10-30",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 30 Oct 2026 03:41:19 GMT",
-    "checked_at": "2026-10-30T04:00:22.821028+00:00"
+    "last_modified": "Fri, 30 Oct 2026 10:01:34 GMT",
+    "checked_at": "2026-10-30T10:02:13.500561+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -85,41 +85,18 @@
       "best": 26,
       "settled": true
     },
-    "last_modified": "Fri, 30 Oct 2026 03:41:19 GMT",
-    "checked_at": "2026-10-30T04:00:23.000690+00:00"
+    "last_modified": "Fri, 30 Oct 2026 10:01:34 GMT",
+    "checked_at": "2026-10-30T10:02:13.690830+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "First Bucket": [
-        "Onyeka Okongwu"
-      ],
-      "Win the Tip": [
-        "Peyton Watson"
-      ],
-      "Opening Tip": [
-        "Domantas Sabonis"
-      ],
-      "Bucket One": [
-        "Ja Morant"
-      ],
-      "The Opener": [
-        "Jaylen Wells"
-      ]
-    },
-    "abets": [
-      "|first basket|DeAndre Jordan",
-      "|first basket|Domantas Sabonis",
-      "|first basket|Ja Morant",
-      "|first basket|Jaylen Wells",
-      "|first basket|Onyeka Okongwu",
-      "|first basket|Peyton Watson"
-    ],
-    "slate": null,
+    "announced": {},
+    "abets": [],
+    "slate": "2026-10-30",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 30 Oct 2026 03:41:19 GMT",
-    "checked_at": "2026-10-30T04:00:23.249097+00:00"
+    "last_modified": "Fri, 30 Oct 2026 10:01:34 GMT",
+    "checked_at": "2026-10-30T10:02:13.972522+00:00"
   }
 }
