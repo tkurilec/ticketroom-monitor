@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 30 Oct 2026 23:08:26 GMT",
-    "checked_at": "2026-10-30T23:09:12.351700+00:00"
+    "last_modified": "Fri, 30 Oct 2026 23:08:25 GMT",
+    "checked_at": "2026-10-30T23:10:16.555785+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "ab60c045f1cd2775385db37edf5542a2119ecd5f4cad483814c8c6d5d09ff818",
@@ -72,7 +72,7 @@
     ],
     "ltd": null,
     "last_modified": "Fri, 30 Oct 2026 23:08:26 GMT",
-    "checked_at": "2026-10-30T23:09:13.307146+00:00"
+    "checked_at": "2026-10-30T23:10:17.162575+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -117,10 +117,10 @@
       "settled": true
     },
     "last_modified": "Fri, 30 Oct 2026 23:08:26 GMT",
-    "checked_at": "2026-10-30T23:09:13.545445+00:00"
+    "checked_at": "2026-10-30T23:10:17.419480+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "6736b8291ba30abea4ceda6e35c26eaa3c4f3b9afec2d280939f3737adb8baab",
+    "hash": "54860e18d1a956d7f7d8eb8fddd74572b58032bc84d08593f36897393f1856bd",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -133,6 +133,18 @@
         },
         "units": 0.3,
         "group": "4"
+      },
+      {
+        "name": "Bucket One",
+        "legs": [
+          "John Collins"
+        ],
+        "rr": false,
+        "info": {
+          "John Collins": "Pistons vs Nets \u00b7 Fri Oct 30 \u00b7 7:30 PM ET"
+        },
+        "units": 0.3,
+        "group": "2"
       },
       {
         "name": "First Points",
@@ -181,6 +193,18 @@
         },
         "units": 0.3,
         "group": "1"
+      },
+      {
+        "name": "The Opener",
+        "legs": [
+          "Day'Ron Sharpe"
+        ],
+        "rr": false,
+        "info": {
+          "Day'Ron Sharpe": "Nets vs Pistons \u00b7 Fri Oct 30 \u00b7 7:30 PM ET"
+        },
+        "units": 0.3,
+        "group": "2"
       },
       {
         "name": "Tip Drill",
@@ -243,12 +267,20 @@
       ],
       "Tip-Off Call": [
         "Norman Powell"
+      ],
+      "Bucket One": [
+        "John Collins"
+      ],
+      "The Opener": [
+        "Day'Ron Sharpe"
       ]
     },
     "abets": [
       "|first basket|Alex Sarr",
+      "|first basket|Day'Ron Sharpe",
       "|first basket|Derrick White",
       "|first basket|Jakob Poeltl",
+      "|first basket|John Collins",
       "|first basket|Josh Hart",
       "|first basket|Naz Reid",
       "|first basket|Norman Powell",
@@ -259,6 +291,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Fri, 30 Oct 2026 23:08:25 GMT",
-    "checked_at": "2026-10-30T23:09:15.445930+00:00"
+    "checked_at": "2026-10-30T23:10:18.876505+00:00"
   }
 }
