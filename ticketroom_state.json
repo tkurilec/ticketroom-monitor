@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 30 Oct 2026 22:33:30 GMT",
-    "checked_at": "2026-10-30T22:34:17.551820+00:00"
+    "last_modified": "Fri, 30 Oct 2026 23:08:26 GMT",
+    "checked_at": "2026-10-30T23:09:12.351700+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "ab60c045f1cd2775385db37edf5542a2119ecd5f4cad483814c8c6d5d09ff818",
@@ -71,8 +71,8 @@
       "t:Villarreal v Espanyol: Espanyol to score"
     ],
     "ltd": null,
-    "last_modified": "Fri, 30 Oct 2026 22:33:30 GMT",
-    "checked_at": "2026-10-30T22:34:18.260093+00:00"
+    "last_modified": "Fri, 30 Oct 2026 23:08:26 GMT",
+    "checked_at": "2026-10-30T23:09:13.307146+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -116,12 +116,60 @@
       "best": 26,
       "settled": true
     },
-    "last_modified": "Fri, 30 Oct 2026 22:33:30 GMT",
-    "checked_at": "2026-10-30T22:34:18.437545+00:00"
+    "last_modified": "Fri, 30 Oct 2026 23:08:26 GMT",
+    "checked_at": "2026-10-30T23:09:13.545445+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "872208664190345e2972318bfd144b63154cc689600b880149bfc3bf1d2bd558",
+    "hash": "6736b8291ba30abea4ceda6e35c26eaa3c4f3b9afec2d280939f3737adb8baab",
     "confirmed": [
+      {
+        "name": "Break the Seal",
+        "legs": [
+          "Paul George"
+        ],
+        "rr": false,
+        "info": {
+          "Paul George": "Celtics vs Bulls \u00b7 Fri Oct 30 \u00b7 7:30 PM ET"
+        },
+        "units": 0.3,
+        "group": "4"
+      },
+      {
+        "name": "First Points",
+        "legs": [
+          "Jakob Poeltl"
+        ],
+        "rr": false,
+        "info": {
+          "Jakob Poeltl": "Raptors vs Magic \u00b7 Fri Oct 30 \u00b7 7:30 PM ET"
+        },
+        "units": 0.3,
+        "group": "3"
+      },
+      {
+        "name": "Get on the Board",
+        "legs": [
+          "Josh Hart"
+        ],
+        "rr": false,
+        "info": {
+          "Josh Hart": "Knicks vs 76ers \u00b7 Fri Oct 30 \u00b7 7:30 PM ET"
+        },
+        "units": 0.6,
+        "group": "5"
+      },
+      {
+        "name": "Open Floor",
+        "legs": [
+          "Derrick White"
+        ],
+        "rr": false,
+        "info": {
+          "Derrick White": "Celtics vs Bulls \u00b7 Fri Oct 30 \u00b7 7:30 PM ET"
+        },
+        "units": 0.2,
+        "group": "4"
+      },
       {
         "name": "Opening Tip",
         "legs": [
@@ -133,6 +181,30 @@
         },
         "units": 0.3,
         "group": "1"
+      },
+      {
+        "name": "Tip Drill",
+        "legs": [
+          "Wendell Carter Jr."
+        ],
+        "rr": false,
+        "info": {
+          "Wendell Carter Jr.": "Magic vs Raptors \u00b7 Fri Oct 30 \u00b7 7:30 PM ET"
+        },
+        "units": 0.3,
+        "group": "3"
+      },
+      {
+        "name": "Tip-Off Call",
+        "legs": [
+          "Norman Powell"
+        ],
+        "rr": false,
+        "info": {
+          "Norman Powell": "Bulls vs Celtics \u00b7 Fri Oct 30 \u00b7 7:30 PM ET"
+        },
+        "units": 0.1,
+        "group": "4"
       },
       {
         "name": "Win the Tip",
@@ -153,16 +225,40 @@
       ],
       "Win the Tip": [
         "Alex Sarr"
+      ],
+      "Break the Seal": [
+        "Paul George"
+      ],
+      "First Points": [
+        "Jakob Poeltl"
+      ],
+      "Get on the Board": [
+        "Josh Hart"
+      ],
+      "Open Floor": [
+        "Derrick White"
+      ],
+      "Tip Drill": [
+        "Wendell Carter Jr."
+      ],
+      "Tip-Off Call": [
+        "Norman Powell"
       ]
     },
     "abets": [
       "|first basket|Alex Sarr",
-      "|first basket|Naz Reid"
+      "|first basket|Derrick White",
+      "|first basket|Jakob Poeltl",
+      "|first basket|Josh Hart",
+      "|first basket|Naz Reid",
+      "|first basket|Norman Powell",
+      "|first basket|Paul George",
+      "|first basket|Wendell Carter Jr."
     ],
     "slate": "2026-10-30",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 30 Oct 2026 22:33:30 GMT",
-    "checked_at": "2026-10-30T22:34:20.529184+00:00"
+    "last_modified": "Fri, 30 Oct 2026 23:08:25 GMT",
+    "checked_at": "2026-10-30T23:09:15.445930+00:00"
   }
 }
