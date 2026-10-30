@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 30 Oct 2026 21:07:08 GMT",
-    "checked_at": "2026-10-30T21:07:10.110505+00:00"
+    "last_modified": "Fri, 30 Oct 2026 22:33:30 GMT",
+    "checked_at": "2026-10-30T22:34:17.551820+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "ab60c045f1cd2775385db37edf5542a2119ecd5f4cad483814c8c6d5d09ff818",
@@ -71,8 +71,8 @@
       "t:Villarreal v Espanyol: Espanyol to score"
     ],
     "ltd": null,
-    "last_modified": "Fri, 30 Oct 2026 21:07:08 GMT",
-    "checked_at": "2026-10-30T21:07:10.983447+00:00"
+    "last_modified": "Fri, 30 Oct 2026 22:33:30 GMT",
+    "checked_at": "2026-10-30T22:34:18.260093+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -116,18 +116,53 @@
       "best": 26,
       "settled": true
     },
-    "last_modified": "Fri, 30 Oct 2026 21:07:08 GMT",
-    "checked_at": "2026-10-30T21:07:11.171145+00:00"
+    "last_modified": "Fri, 30 Oct 2026 22:33:30 GMT",
+    "checked_at": "2026-10-30T22:34:18.437545+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "872208664190345e2972318bfd144b63154cc689600b880149bfc3bf1d2bd558",
+    "confirmed": [
+      {
+        "name": "Opening Tip",
+        "legs": [
+          "Naz Reid"
+        ],
+        "rr": false,
+        "info": {
+          "Naz Reid": "Hornets vs Wizards \u00b7 Fri Oct 30 \u00b7 7:00 PM ET"
+        },
+        "units": 0.3,
+        "group": "1"
+      },
+      {
+        "name": "Win the Tip",
+        "legs": [
+          "Alex Sarr"
+        ],
+        "rr": false,
+        "info": {
+          "Alex Sarr": "Wizards vs Hornets \u00b7 Fri Oct 30 \u00b7 7:00 PM ET"
+        },
+        "units": 0.3,
+        "group": "1"
+      }
+    ],
+    "announced": {
+      "Opening Tip": [
+        "Naz Reid"
+      ],
+      "Win the Tip": [
+        "Alex Sarr"
+      ]
+    },
+    "abets": [
+      "|first basket|Alex Sarr",
+      "|first basket|Naz Reid"
+    ],
     "slate": "2026-10-30",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 30 Oct 2026 21:07:08 GMT",
-    "checked_at": "2026-10-30T21:07:11.272794+00:00"
+    "last_modified": "Fri, 30 Oct 2026 22:33:30 GMT",
+    "checked_at": "2026-10-30T22:34:20.529184+00:00"
   }
 }
