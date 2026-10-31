@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 14:56:49 GMT",
-    "checked_at": "2026-10-31T15:00:20.435474+00:00"
+    "last_modified": "Sat, 31 Oct 2026 15:51:36 GMT",
+    "checked_at": "2026-10-31T15:54:13.577408+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "41866c22b221660fffc2d4239a20f8565ad518b090a4977a4ae729f2dc253d7b",
@@ -87,11 +87,12 @@
     ],
     "slate": "2026-10-31",
     "hits": [
-      "a:Patrik Schick"
+      "a:Patrik Schick",
+      "t:FC Augsburg v SC Freiburg: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 14:56:49 GMT",
-    "checked_at": "2026-10-31T15:00:26.462764+00:00"
+    "last_modified": "Sat, 31 Oct 2026 15:51:36 GMT",
+    "checked_at": "2026-10-31T15:54:16.392537+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -101,8 +102,8 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 14:56:49 GMT",
-    "checked_at": "2026-10-31T15:00:26.702859+00:00"
+    "last_modified": "Sat, 31 Oct 2026 15:51:36 GMT",
+    "checked_at": "2026-10-31T15:54:16.573973+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -112,7 +113,7 @@
     "slate": "2026-10-31",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 14:56:49 GMT",
-    "checked_at": "2026-10-31T15:00:27.092681+00:00"
+    "last_modified": "Sat, 31 Oct 2026 15:51:36 GMT",
+    "checked_at": "2026-10-31T15:54:16.727690+00:00"
   }
 }
