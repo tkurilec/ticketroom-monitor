@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 10:01:22 GMT",
-    "checked_at": "2026-10-31T10:02:13.155538+00:00"
+    "last_modified": "Sat, 31 Oct 2026 10:03:04 GMT",
+    "checked_at": "2026-10-31T10:03:11.966990+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "768952f4c3a21b0cd2b8c39dc1e705d75c31eae0716f2d5498c17888e9fe50de",
@@ -46,53 +46,19 @@
     "slate": "2026-10-31",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 10:01:22 GMT",
-    "checked_at": "2026-10-31T10:02:14.438903+00:00"
+    "last_modified": "Sat, 31 Oct 2026 10:03:04 GMT",
+    "checked_at": "2026-10-31T10:03:12.471233+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Bell Cow": [
-        "John Metchie III"
-      ],
-      "Break the Seal": [
-        "Josh Jacobs"
-      ],
-      "Goal Line Back": [
-        "Mark Redman"
-      ],
-      "King of the End Zone: Christian Watson": [
-        "Christian Watson"
-      ],
-      "Red Zone Target": [
-        "David Moore"
-      ],
-      "Short Yardage": [
-        "Feleipe Franks"
-      ],
-      "The Workhorse": [
-        "MarShawn Lloyd"
-      ]
-    },
-    "abets": [
-      "ftd|first touchdown scorer|Josh Jacobs",
-      "longtd|longest touchdown scorer|Christian Watson",
-      "|anytime touchdown|David Moore",
-      "|anytime touchdown|Feleipe Franks",
-      "|anytime touchdown|John Metchie III",
-      "|anytime touchdown|MarShawn Lloyd",
-      "|anytime touchdown|Mark Redman"
-    ],
-    "slate": null,
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-01",
     "hits": [],
-    "ltd": {
-      "holding": [],
-      "best": 26,
-      "settled": true
-    },
-    "last_modified": "Sat, 31 Oct 2026 10:01:22 GMT",
-    "checked_at": "2026-10-31T10:02:14.849454+00:00"
+    "ltd": null,
+    "last_modified": "Sat, 31 Oct 2026 10:03:04 GMT",
+    "checked_at": "2026-10-31T10:03:12.534637+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -102,7 +68,7 @@
     "slate": "2026-10-31",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 10:01:22 GMT",
-    "checked_at": "2026-10-31T10:02:14.997531+00:00"
+    "last_modified": "Sat, 31 Oct 2026 10:03:04 GMT",
+    "checked_at": "2026-10-31T10:03:12.771457+00:00"
   }
 }
