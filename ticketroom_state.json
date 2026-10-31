@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 19:17:25 GMT",
-    "checked_at": "2026-10-31T19:18:12.385595+00:00"
+    "last_modified": "Sat, 31 Oct 2026 20:11:41 GMT",
+    "checked_at": "2026-10-31T20:12:11.746391+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "cee8cf83b515eafea844c6076459b16def25e37b0adfcc65eae6987d244c1f49",
+    "hash": "5a1864be2b1ff599c563dc1d65b4654efcfa6d8c3665c4694cc0ec2ddee14468",
     "confirmed": [
       {
         "name": "Back Post",
@@ -82,6 +82,16 @@
         "rr": false,
         "info": {
           "Troy Parrott": "Real Betis vs M\u00e1laga \u00b7 Sat Oct 31 \u00b7 1:30 PM ET"
+        }
+      },
+      {
+        "name": "Near Post",
+        "legs": [
+          "Klauss"
+        ],
+        "rr": false,
+        "info": {
+          "Klauss": "LA Galaxy vs Austin FC \u00b7 Sat Oct 31 \u00b7 5:00 PM ET"
         }
       },
       {
@@ -195,6 +205,9 @@
       ],
       "Gets Across": [
         "Lamine Yamal Nasraqui Ebana"
+      ],
+      "Near Post": [
+        "Klauss"
       ]
     },
     "abets": [
@@ -204,6 +217,7 @@
       "|anytime goalscorer|Gonzalo Tapia",
       "|anytime goalscorer|Harry Kane",
       "|anytime goalscorer|Igor Thiago Nascimento Rodrigues",
+      "|anytime goalscorer|Klauss",
       "|anytime goalscorer|Lamine Yamal Nasraqui Ebana",
       "|anytime goalscorer|Nicolas Ezequiel Fernandez Mercau",
       "|anytime goalscorer|Patrik Schick",
@@ -216,12 +230,13 @@
       "a:Donyell Malen",
       "a:Igor Thiago Nascimento Rodrigues",
       "a:Patrik Schick",
+      "a:Raphinha",
       "t:Bayern Munich v Borussia Dortmund: Both teams to score",
       "t:FC Augsburg v SC Freiburg: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 19:17:25 GMT",
-    "checked_at": "2026-10-31T19:18:17.376669+00:00"
+    "last_modified": "Sat, 31 Oct 2026 20:11:41 GMT",
+    "checked_at": "2026-10-31T20:12:19.390478+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -231,8 +246,8 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 19:17:25 GMT",
-    "checked_at": "2026-10-31T19:18:17.564997+00:00"
+    "last_modified": "Sat, 31 Oct 2026 20:11:41 GMT",
+    "checked_at": "2026-10-31T20:12:19.714687+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "3603d99bfcc3e8b36361eeac4a97fb3fdd63a7961543626ced68233c87984d75",
@@ -277,7 +292,7 @@
     "slate": "2026-10-31",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 19:17:25 GMT",
-    "checked_at": "2026-10-31T19:18:17.845553+00:00"
+    "last_modified": "Sat, 31 Oct 2026 20:11:41 GMT",
+    "checked_at": "2026-10-31T20:12:20.445652+00:00"
   }
 }
