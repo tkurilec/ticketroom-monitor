@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 03:31:53 GMT",
-    "checked_at": "2026-10-31T04:00:27.906292+00:00"
+    "last_modified": "Sat, 31 Oct 2026 10:01:22 GMT",
+    "checked_at": "2026-10-31T10:02:13.155538+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "768952f4c3a21b0cd2b8c39dc1e705d75c31eae0716f2d5498c17888e9fe50de",
@@ -46,8 +46,8 @@
     "slate": "2026-10-31",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 03:31:54 GMT",
-    "checked_at": "2026-10-31T04:00:28.738572+00:00"
+    "last_modified": "Sat, 31 Oct 2026 10:01:22 GMT",
+    "checked_at": "2026-10-31T10:02:14.438903+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -91,94 +91,18 @@
       "best": 26,
       "settled": true
     },
-    "last_modified": "Sat, 31 Oct 2026 03:31:53 GMT",
-    "checked_at": "2026-10-31T04:00:28.890848+00:00"
+    "last_modified": "Sat, 31 Oct 2026 10:01:22 GMT",
+    "checked_at": "2026-10-31T10:02:14.849454+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Opening Tip": [
-        "Naz Reid"
-      ],
-      "Win the Tip": [
-        "Alex Sarr"
-      ],
-      "Break the Seal": [
-        "Paul George"
-      ],
-      "First Points": [
-        "Jakob Poeltl"
-      ],
-      "Get on the Board": [
-        "Josh Hart"
-      ],
-      "Open Floor": [
-        "Derrick White"
-      ],
-      "Tip Drill": [
-        "Wendell Carter Jr."
-      ],
-      "Tip-Off Call": [
-        "Norman Powell"
-      ],
-      "Bucket One": [
-        "John Collins"
-      ],
-      "The Opener": [
-        "Day'Ron Sharpe"
-      ],
-      "Early Offense": [
-        "P.J. Washington Jr."
-      ],
-      "First Look": [
-        "Isaiah Jackson"
-      ],
-      "Off the Tip": [
-        "Daniel Gafford"
-      ],
-      "Out of the Huddle": [
-        "Klay Thompson"
-      ],
-      "Set Play": [
-        "Bam Adebayo"
-      ],
-      "Top of the Key": [
-        "Andrew Wiggins"
-      ],
-      "Ice Breaker": [
-        "Nikola Jokic"
-      ],
-      "Lead the Break": [
-        "Draymond Green"
-      ]
-    },
-    "abets": [
-      "|first basket|Alex Sarr",
-      "|first basket|Andrew Wiggins",
-      "|first basket|Bam Adebayo",
-      "|first basket|Daniel Gafford",
-      "|first basket|Day'Ron Sharpe",
-      "|first basket|Derrick White",
-      "|first basket|Draymond Green",
-      "|first basket|Isaiah Jackson",
-      "|first basket|Jakob Poeltl",
-      "|first basket|John Collins",
-      "|first basket|Josh Hart",
-      "|first basket|Klay Thompson",
-      "|first basket|Naz Reid",
-      "|first basket|Nikola Jokic",
-      "|first basket|Norman Powell",
-      "|first basket|P.J. Washington Jr.",
-      "|first basket|Paul George",
-      "|first basket|Wendell Carter Jr."
-    ],
-    "slate": null,
-    "hits": [
-      "a:Bam Adebayo"
-    ],
+    "announced": {},
+    "abets": [],
+    "slate": "2026-10-31",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 03:31:53 GMT",
-    "checked_at": "2026-10-31T04:00:29.050615+00:00"
+    "last_modified": "Sat, 31 Oct 2026 10:01:22 GMT",
+    "checked_at": "2026-10-31T10:02:14.997531+00:00"
   }
 }
