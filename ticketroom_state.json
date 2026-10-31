@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 23:33:00 GMT",
-    "checked_at": "2026-10-31T23:33:10.238759+00:00"
+    "last_modified": "Sat, 31 Oct 2026 23:36:43 GMT",
+    "checked_at": "2026-10-31T23:37:10.569219+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "5a1864be2b1ff599c563dc1d65b4654efcfa6d8c3665c4694cc0ec2ddee14468",
@@ -237,8 +237,8 @@
       "t:FC Augsburg v SC Freiburg: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 23:33:00 GMT",
-    "checked_at": "2026-10-31T23:33:13.350894+00:00"
+    "last_modified": "Sat, 31 Oct 2026 23:36:43 GMT",
+    "checked_at": "2026-10-31T23:37:15.169004+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -248,12 +248,24 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 23:33:00 GMT",
-    "checked_at": "2026-10-31T23:33:13.596476+00:00"
+    "last_modified": "Sat, 31 Oct 2026 23:36:43 GMT",
+    "checked_at": "2026-10-31T23:37:15.484254+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "a956f5ed4c023c98c5dca6bfa6b3e62e91f9f4a5a21efd9451c789adf8e5d4ac",
+    "hash": "e07126fd8d187ecc694f09ec1ec391d0a83e239f3a142990d2cff30dbb57e77c",
     "confirmed": [
+      {
+        "name": "Break the Seal",
+        "legs": [
+          "Peyton Watson"
+        ],
+        "rr": false,
+        "info": {
+          "Peyton Watson": "Cavaliers vs Bucks \u00b7 Sat Oct 31 \u00b7 8:00 PM ET"
+        },
+        "units": 0.2,
+        "group": "4"
+      },
       {
         "name": "Bucket One",
         "legs": [
@@ -267,6 +279,18 @@
         "group": "1"
       },
       {
+        "name": "First Look",
+        "legs": [
+          "De'Andre Hunter"
+        ],
+        "rr": false,
+        "info": {
+          "De'Andre Hunter": "Kings vs Grizzlies \u00b7 Sat Oct 31 \u00b7 8:00 PM ET"
+        },
+        "units": 0.2,
+        "group": "5"
+      },
+      {
         "name": "First Points",
         "legs": [
           "Karlo Matkovic"
@@ -277,6 +301,30 @@
         },
         "units": 0.3,
         "group": "3"
+      },
+      {
+        "name": "Get on the Board",
+        "legs": [
+          "Domantas Sabonis"
+        ],
+        "rr": false,
+        "info": {
+          "Domantas Sabonis": "Kings vs Grizzlies \u00b7 Sat Oct 31 \u00b7 8:00 PM ET"
+        },
+        "units": 0.3,
+        "group": "5"
+      },
+      {
+        "name": "Open Floor",
+        "legs": [
+          "Myles Turner"
+        ],
+        "rr": false,
+        "info": {
+          "Myles Turner": "Bucks vs Cavaliers \u00b7 Sat Oct 31 \u00b7 8:00 PM ET"
+        },
+        "units": 0.2,
+        "group": "4"
       },
       {
         "name": "Opening Tip",
@@ -303,6 +351,18 @@
         "group": "6"
       },
       {
+        "name": "Set Play",
+        "legs": [
+          "Precious Achiuwa"
+        ],
+        "rr": false,
+        "info": {
+          "Precious Achiuwa": "Kings vs Grizzlies \u00b7 Sat Oct 31 \u00b7 8:00 PM ET"
+        },
+        "units": 0.2,
+        "group": "5"
+      },
+      {
         "name": "The Opener",
         "legs": [
           "Naz Reid"
@@ -325,6 +385,18 @@
         },
         "units": 0.3,
         "group": "3"
+      },
+      {
+        "name": "Tip-Off Call",
+        "legs": [
+          "Kyle Kuzma"
+        ],
+        "rr": false,
+        "info": {
+          "Kyle Kuzma": "Bucks vs Cavaliers \u00b7 Sat Oct 31 \u00b7 8:00 PM ET"
+        },
+        "units": 0.2,
+        "group": "4"
       },
       {
         "name": "Top of the Key",
@@ -360,21 +432,45 @@
       ],
       "Out of the Huddle": [
         "Ayo Dosunmu"
+      ],
+      "Break the Seal": [
+        "Peyton Watson"
+      ],
+      "First Look": [
+        "De'Andre Hunter"
+      ],
+      "Get on the Board": [
+        "Domantas Sabonis"
+      ],
+      "Open Floor": [
+        "Myles Turner"
+      ],
+      "Set Play": [
+        "Precious Achiuwa"
+      ],
+      "Tip-Off Call": [
+        "Kyle Kuzma"
       ]
     },
     "abets": [
       "|first basket|Ayo Dosunmu",
+      "|first basket|De'Andre Hunter",
+      "|first basket|Domantas Sabonis",
       "|first basket|Donovan Clingan",
       "|first basket|Jaxson Hayes",
       "|first basket|Karlo Matkovic",
       "|first basket|Kevin Durant",
+      "|first basket|Kyle Kuzma",
+      "|first basket|Myles Turner",
       "|first basket|Naz Reid",
-      "|first basket|Onyeka Okongwu"
+      "|first basket|Onyeka Okongwu",
+      "|first basket|Peyton Watson",
+      "|first basket|Precious Achiuwa"
     ],
     "slate": "2026-10-31",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 23:33:00 GMT",
-    "checked_at": "2026-10-31T23:33:15.192877+00:00"
+    "last_modified": "Sat, 31 Oct 2026 23:36:43 GMT",
+    "checked_at": "2026-10-31T23:37:17.373342+00:00"
   }
 }
