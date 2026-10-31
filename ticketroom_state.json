@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 17:21:47 GMT",
-    "checked_at": "2026-10-31T17:22:13.033497+00:00"
+    "last_modified": "Sat, 31 Oct 2026 17:31:23 GMT",
+    "checked_at": "2026-10-31T17:34:19.763826+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "3d3036e184621e377360fac1616261724e00228aff6b42dd41151e33eb7fdea7",
@@ -171,13 +171,14 @@
     ],
     "slate": "2026-10-31",
     "hits": [
+      "a:Donyell Malen",
       "a:Igor Thiago Nascimento Rodrigues",
       "a:Patrik Schick",
       "t:FC Augsburg v SC Freiburg: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 17:21:47 GMT",
-    "checked_at": "2026-10-31T17:22:16.534536+00:00"
+    "last_modified": "Sat, 31 Oct 2026 17:31:23 GMT",
+    "checked_at": "2026-10-31T17:34:21.867493+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -187,8 +188,8 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 17:21:47 GMT",
-    "checked_at": "2026-10-31T17:22:16.696173+00:00"
+    "last_modified": "Sat, 31 Oct 2026 17:31:23 GMT",
+    "checked_at": "2026-10-31T17:34:22.120297+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -198,7 +199,7 @@
     "slate": "2026-10-31",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 17:21:47 GMT",
-    "checked_at": "2026-10-31T17:22:16.839467+00:00"
+    "last_modified": "Sat, 31 Oct 2026 17:31:23 GMT",
+    "checked_at": "2026-10-31T17:34:22.268696+00:00"
   }
 }
