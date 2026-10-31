@@ -7,12 +7,22 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 10:03:04 GMT",
-    "checked_at": "2026-10-31T10:03:11.966990+00:00"
+    "last_modified": "Sat, 31 Oct 2026 13:32:33 GMT",
+    "checked_at": "2026-10-31T13:33:09.417944+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "768952f4c3a21b0cd2b8c39dc1e705d75c31eae0716f2d5498c17888e9fe50de",
+    "hash": "f63e5277b8b93e87352f323cfcde13fbef57a1545f9a0aa8cca9915be439e5a2",
     "confirmed": [
+      {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Patrik Schick"
+        ],
+        "rr": false,
+        "info": {
+          "Patrik Schick": "Bayer Leverkusen vs VfB Stuttgart \u00b7 Sat Oct 31 \u00b7 10:30 AM ET"
+        }
+      },
       {
         "name": "The Totals Board",
         "legs": [
@@ -38,16 +48,20 @@
         "FC Augsburg v SC Freiburg: Both teams to score",
         "Levante v Atl\u00e9tico Madrid: Levante to score",
         "Schalke 04 v RB Leipzig: Both teams to score"
+      ],
+      "Six-Yard Box": [
+        "Patrik Schick"
       ]
     },
     "abets": [
-      "totals||Bayern Munich v Borussia Dortmund: Both teams to score,FC Augsburg v SC Freiburg: Both teams to score,Levante v Atl\u00e9tico Madrid: Levante to score,Schalke 04 v RB Leipzig: Both teams to score"
+      "totals||Bayern Munich v Borussia Dortmund: Both teams to score,FC Augsburg v SC Freiburg: Both teams to score,Levante v Atl\u00e9tico Madrid: Levante to score,Schalke 04 v RB Leipzig: Both teams to score",
+      "|anytime goalscorer|Patrik Schick"
     ],
     "slate": "2026-10-31",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 10:03:04 GMT",
-    "checked_at": "2026-10-31T10:03:12.471233+00:00"
+    "last_modified": "Sat, 31 Oct 2026 13:32:33 GMT",
+    "checked_at": "2026-10-31T13:33:13.777534+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -57,8 +71,8 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 10:03:04 GMT",
-    "checked_at": "2026-10-31T10:03:12.534637+00:00"
+    "last_modified": "Sat, 31 Oct 2026 13:32:33 GMT",
+    "checked_at": "2026-10-31T13:33:13.977863+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -68,7 +82,7 @@
     "slate": "2026-10-31",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 10:03:04 GMT",
-    "checked_at": "2026-10-31T10:03:12.771457+00:00"
+    "last_modified": "Sat, 31 Oct 2026 13:32:33 GMT",
+    "checked_at": "2026-10-31T13:33:14.203392+00:00"
   }
 }
