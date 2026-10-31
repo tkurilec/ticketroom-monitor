@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 21:33:46 GMT",
-    "checked_at": "2026-10-31T21:34:11.435815+00:00"
+    "last_modified": "Sat, 31 Oct 2026 22:37:16 GMT",
+    "checked_at": "2026-10-31T22:40:16.840399+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "5a1864be2b1ff599c563dc1d65b4654efcfa6d8c3665c4694cc0ec2ddee14468",
@@ -237,8 +237,8 @@
       "t:FC Augsburg v SC Freiburg: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 21:33:46 GMT",
-    "checked_at": "2026-10-31T21:34:13.922522+00:00"
+    "last_modified": "Sat, 31 Oct 2026 22:37:16 GMT",
+    "checked_at": "2026-10-31T22:40:19.330885+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -248,11 +248,11 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 21:33:46 GMT",
-    "checked_at": "2026-10-31T21:34:14.003036+00:00"
+    "last_modified": "Sat, 31 Oct 2026 22:37:16 GMT",
+    "checked_at": "2026-10-31T22:40:19.472812+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "35d80dc758e5b451f52806ad26509f1eb1ad23d45a1636c6036bf2f480abc059",
+    "hash": "f4c143fd8f1ecee0f9d497bd5ffd7c0ab7fe58d4af553aab3cea68580a8e46dc",
     "confirmed": [
       {
         "name": "Bucket One",
@@ -265,6 +265,18 @@
         },
         "units": 0.3,
         "group": "1"
+      },
+      {
+        "name": "First Points",
+        "legs": [
+          "Karlo Matkovic"
+        ],
+        "rr": false,
+        "info": {
+          "Karlo Matkovic": "Pelicans vs Hawks \u00b7 Sat Oct 31 \u00b7 7:00 PM ET"
+        },
+        "units": 0.3,
+        "group": "3"
       },
       {
         "name": "Opening Tip",
@@ -289,6 +301,18 @@
         },
         "units": 0.6,
         "group": "2"
+      },
+      {
+        "name": "Tip Drill",
+        "legs": [
+          "Onyeka Okongwu"
+        ],
+        "rr": false,
+        "info": {
+          "Onyeka Okongwu": "Hawks vs Pelicans \u00b7 Sat Oct 31 \u00b7 7:00 PM ET"
+        },
+        "units": 0.3,
+        "group": "3"
       }
     ],
     "announced": {
@@ -300,17 +324,25 @@
       ],
       "The Opener": [
         "Naz Reid"
+      ],
+      "First Points": [
+        "Karlo Matkovic"
+      ],
+      "Tip Drill": [
+        "Onyeka Okongwu"
       ]
     },
     "abets": [
       "|first basket|Donovan Clingan",
       "|first basket|Jaxson Hayes",
-      "|first basket|Naz Reid"
+      "|first basket|Karlo Matkovic",
+      "|first basket|Naz Reid",
+      "|first basket|Onyeka Okongwu"
     ],
     "slate": "2026-10-31",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 21:33:46 GMT",
-    "checked_at": "2026-10-31T21:34:15.565320+00:00"
+    "last_modified": "Sat, 31 Oct 2026 22:37:16 GMT",
+    "checked_at": "2026-10-31T22:40:21.075387+00:00"
   }
 }
