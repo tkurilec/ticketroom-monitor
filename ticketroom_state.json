@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 18:06:35 GMT",
-    "checked_at": "2026-10-31T18:07:10.479381+00:00"
+    "last_modified": "Sat, 31 Oct 2026 18:36:42 GMT",
+    "checked_at": "2026-10-31T18:40:17.468762+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "eefcd448dcdd1c5e288e8567522b0096ed8c1912da960c50cd841040834c1cd8",
@@ -191,8 +191,8 @@
       "t:FC Augsburg v SC Freiburg: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 18:06:35 GMT",
-    "checked_at": "2026-10-31T18:07:14.848352+00:00"
+    "last_modified": "Sat, 31 Oct 2026 18:36:42 GMT",
+    "checked_at": "2026-10-31T18:40:22.687900+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -202,18 +202,53 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 18:06:35 GMT",
-    "checked_at": "2026-10-31T18:07:15.109307+00:00"
+    "last_modified": "Sat, 31 Oct 2026 18:36:42 GMT",
+    "checked_at": "2026-10-31T18:40:22.977985+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "3603d99bfcc3e8b36361eeac4a97fb3fdd63a7961543626ced68233c87984d75",
+    "confirmed": [
+      {
+        "name": "Bucket One",
+        "legs": [
+          "Donovan Clingan"
+        ],
+        "rr": false,
+        "info": {
+          "Donovan Clingan": "Trail Blazers vs Jazz \u00b7 Sat Oct 31 \u00b7 3:00 PM ET"
+        },
+        "units": 0.3,
+        "group": "1"
+      },
+      {
+        "name": "Opening Tip",
+        "legs": [
+          "Jaxson Hayes"
+        ],
+        "rr": false,
+        "info": {
+          "Jaxson Hayes": "Jazz vs Trail Blazers \u00b7 Sat Oct 31 \u00b7 3:00 PM ET"
+        },
+        "units": 0.3,
+        "group": "1"
+      }
+    ],
+    "announced": {
+      "Bucket One": [
+        "Donovan Clingan"
+      ],
+      "Opening Tip": [
+        "Jaxson Hayes"
+      ]
+    },
+    "abets": [
+      "|first basket|Donovan Clingan",
+      "|first basket|Jaxson Hayes"
+    ],
     "slate": "2026-10-31",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 18:06:35 GMT",
-    "checked_at": "2026-10-31T18:07:15.317899+00:00"
+    "last_modified": "Sat, 31 Oct 2026 18:36:42 GMT",
+    "checked_at": "2026-10-31T18:40:25.026938+00:00"
   }
 }
