@@ -7,12 +7,22 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 18:51:26 GMT",
-    "checked_at": "2026-10-31T18:55:23.222505+00:00"
+    "last_modified": "Sat, 31 Oct 2026 19:17:25 GMT",
+    "checked_at": "2026-10-31T19:18:12.385595+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "eefcd448dcdd1c5e288e8567522b0096ed8c1912da960c50cd841040834c1cd8",
+    "hash": "cee8cf83b515eafea844c6076459b16def25e37b0adfcc65eae6987d244c1f49",
     "confirmed": [
+      {
+        "name": "Back Post",
+        "legs": [
+          "Raphinha"
+        ],
+        "rr": false,
+        "info": {
+          "Raphinha": "Barcelona vs Alav\u00e9s \u00b7 Sat Oct 31 \u00b7 4:00 PM ET"
+        }
+      },
       {
         "name": "Double Up",
         "legs": [
@@ -42,6 +52,16 @@
         "rr": false,
         "info": {
           "Rafael Navarro": "St. Louis CITY SC vs San Diego FC \u00b7 Sat Oct 31 \u00b7 3:00 PM ET"
+        }
+      },
+      {
+        "name": "Gets Across",
+        "legs": [
+          "Lamine Yamal Nasraqui Ebana"
+        ],
+        "rr": false,
+        "info": {
+          "Lamine Yamal Nasraqui Ebana": "Barcelona vs Alav\u00e9s \u00b7 Sat Oct 31 \u00b7 4:00 PM ET"
         }
       },
       {
@@ -169,6 +189,12 @@
       ],
       "First Time": [
         "Rafael Navarro"
+      ],
+      "Back Post": [
+        "Raphinha"
+      ],
+      "Gets Across": [
+        "Lamine Yamal Nasraqui Ebana"
       ]
     },
     "abets": [
@@ -178,9 +204,11 @@
       "|anytime goalscorer|Gonzalo Tapia",
       "|anytime goalscorer|Harry Kane",
       "|anytime goalscorer|Igor Thiago Nascimento Rodrigues",
+      "|anytime goalscorer|Lamine Yamal Nasraqui Ebana",
       "|anytime goalscorer|Nicolas Ezequiel Fernandez Mercau",
       "|anytime goalscorer|Patrik Schick",
       "|anytime goalscorer|Rafael Navarro",
+      "|anytime goalscorer|Raphinha",
       "|anytime goalscorer|Troy Parrott"
     ],
     "slate": "2026-10-31",
@@ -192,8 +220,8 @@
       "t:FC Augsburg v SC Freiburg: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 18:51:26 GMT",
-    "checked_at": "2026-10-31T18:55:25.662956+00:00"
+    "last_modified": "Sat, 31 Oct 2026 19:17:25 GMT",
+    "checked_at": "2026-10-31T19:18:17.376669+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -203,8 +231,8 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 18:51:26 GMT",
-    "checked_at": "2026-10-31T18:55:26.228288+00:00"
+    "last_modified": "Sat, 31 Oct 2026 19:17:25 GMT",
+    "checked_at": "2026-10-31T19:18:17.564997+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "3603d99bfcc3e8b36361eeac4a97fb3fdd63a7961543626ced68233c87984d75",
@@ -249,7 +277,7 @@
     "slate": "2026-10-31",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 18:51:26 GMT",
-    "checked_at": "2026-10-31T18:55:26.397528+00:00"
+    "last_modified": "Sat, 31 Oct 2026 19:17:25 GMT",
+    "checked_at": "2026-10-31T19:18:17.845553+00:00"
   }
 }
