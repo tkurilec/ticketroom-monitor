@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 22:52:09 GMT",
-    "checked_at": "2026-10-31T22:52:13.468591+00:00"
+    "last_modified": "Sat, 31 Oct 2026 23:33:00 GMT",
+    "checked_at": "2026-10-31T23:33:10.238759+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "5a1864be2b1ff599c563dc1d65b4654efcfa6d8c3665c4694cc0ec2ddee14468",
@@ -237,8 +237,8 @@
       "t:FC Augsburg v SC Freiburg: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 22:52:09 GMT",
-    "checked_at": "2026-10-31T22:52:16.170250+00:00"
+    "last_modified": "Sat, 31 Oct 2026 23:33:00 GMT",
+    "checked_at": "2026-10-31T23:33:13.350894+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -248,11 +248,11 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 22:52:09 GMT",
-    "checked_at": "2026-10-31T22:52:16.315086+00:00"
+    "last_modified": "Sat, 31 Oct 2026 23:33:00 GMT",
+    "checked_at": "2026-10-31T23:33:13.596476+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "a63a6bdaa524ad47f9b8ab310b029cda2bcb4defdb1569a69d6cda057fffa738",
+    "hash": "a956f5ed4c023c98c5dca6bfa6b3e62e91f9f4a5a21efd9451c789adf8e5d4ac",
     "confirmed": [
       {
         "name": "Bucket One",
@@ -289,6 +289,18 @@
         },
         "units": 0.3,
         "group": "1"
+      },
+      {
+        "name": "Out of the Huddle",
+        "legs": [
+          "Ayo Dosunmu"
+        ],
+        "rr": false,
+        "info": {
+          "Ayo Dosunmu": "Timberwolves vs Spurs \u00b7 Sat Oct 31 \u00b7 8:00 PM ET"
+        },
+        "units": 0.6,
+        "group": "6"
       },
       {
         "name": "The Opener",
@@ -345,9 +357,13 @@
       ],
       "Top of the Key": [
         "Kevin Durant"
+      ],
+      "Out of the Huddle": [
+        "Ayo Dosunmu"
       ]
     },
     "abets": [
+      "|first basket|Ayo Dosunmu",
       "|first basket|Donovan Clingan",
       "|first basket|Jaxson Hayes",
       "|first basket|Karlo Matkovic",
@@ -358,7 +374,7 @@
     "slate": "2026-10-31",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 22:52:09 GMT",
-    "checked_at": "2026-10-31T22:52:18.068559+00:00"
+    "last_modified": "Sat, 31 Oct 2026 23:33:00 GMT",
+    "checked_at": "2026-10-31T23:33:15.192877+00:00"
   }
 }
