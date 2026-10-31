@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 16:46:48 GMT",
-    "checked_at": "2026-10-31T16:47:11.014863+00:00"
+    "last_modified": "Sat, 31 Oct 2026 17:17:18 GMT",
+    "checked_at": "2026-10-31T17:18:12.054871+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "27f7455c8d1ffe1bd40edd24e9fcc80c5d02f1bd5c89a6fd843084438caa22f1",
+    "hash": "3a8413b86adc26b560fc6b99006fa29e9c36af806725bad2a5fe3daca9878401",
     "confirmed": [
       {
         "name": "Double Up",
@@ -23,6 +23,16 @@
           "Donyell Malen": "AS Roma vs Udinese \u00b7 Sat Oct 31 \u00b7 1:00 PM ET"
         },
         "units": 2
+      },
+      {
+        "name": "Far Post",
+        "legs": [
+          "Gonzalo Tapia"
+        ],
+        "rr": false,
+        "info": {
+          "Gonzalo Tapia": "Columbus Crew vs D.C. United \u00b7 Sat Oct 31 \u00b7 2:00 PM ET"
+        }
       },
       {
         "name": "Header Home",
@@ -130,12 +140,16 @@
       ],
       "Target Man": [
         "Harry Kane"
+      ],
+      "Far Post": [
+        "Gonzalo Tapia"
       ]
     },
     "abets": [
       "totals||Bayern Munich v Borussia Dortmund: Both teams to score,FC Augsburg v SC Freiburg: Both teams to score,Levante v Atl\u00e9tico Madrid: Levante to score,Schalke 04 v RB Leipzig: Both teams to score",
       "|anytime goalscorer|Donyell Malen",
       "|anytime goalscorer|Erling Haaland",
+      "|anytime goalscorer|Gonzalo Tapia",
       "|anytime goalscorer|Harry Kane",
       "|anytime goalscorer|Igor Thiago Nascimento Rodrigues",
       "|anytime goalscorer|Patrik Schick",
@@ -148,8 +162,8 @@
       "t:FC Augsburg v SC Freiburg: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 16:46:48 GMT",
-    "checked_at": "2026-10-31T16:47:16.300628+00:00"
+    "last_modified": "Sat, 31 Oct 2026 17:17:18 GMT",
+    "checked_at": "2026-10-31T17:18:16.298162+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -159,8 +173,8 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 16:46:48 GMT",
-    "checked_at": "2026-10-31T16:47:16.454570+00:00"
+    "last_modified": "Sat, 31 Oct 2026 17:17:18 GMT",
+    "checked_at": "2026-10-31T17:18:16.388137+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -170,7 +184,7 @@
     "slate": "2026-10-31",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 16:46:48 GMT",
-    "checked_at": "2026-10-31T16:47:16.625366+00:00"
+    "last_modified": "Sat, 31 Oct 2026 17:17:18 GMT",
+    "checked_at": "2026-10-31T17:18:16.522065+00:00"
   }
 }
