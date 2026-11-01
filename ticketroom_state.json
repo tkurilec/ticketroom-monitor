@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Sun, 01 Nov 2026 20:06:28 GMT",
-    "checked_at": "2026-11-01T20:07:10.435099+00:00"
+    "checked_at": "2026-11-01T20:10:15.225565+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "598c32073eca889112afd763afb1f81e2df169e566027b2679368d9e9fef64b6",
@@ -123,10 +123,10 @@
     ],
     "ltd": null,
     "last_modified": "Sun, 01 Nov 2026 20:06:28 GMT",
-    "checked_at": "2026-11-01T20:07:13.798473+00:00"
+    "checked_at": "2026-11-01T20:10:19.312859+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "d072e1d9721806db822c63f4fff4d3a3f02081bb896271ea5d1d500611c9c12a",
+    "hash": "30a9cc7f41460b2e7a17354733ca78acb7dc5a211241654056c9cd0f61947532",
     "confirmed": [
       {
         "name": "Audible",
@@ -351,6 +351,16 @@
         }
       },
       {
+        "name": "Two Minute Drill",
+        "legs": [
+          "J.K. Dobbins"
+        ],
+        "rr": false,
+        "info": {
+          "J.K. Dobbins": "Broncos vs Chiefs \u00b7 Sun Nov 1 \u00b7 4:25 PM ET"
+        }
+      },
+      {
         "name": "Wheel Route",
         "legs": [
           "Keon Coleman"
@@ -433,6 +443,9 @@
       ],
       "Screen Pass": [
         "Kevin Coleman Jr."
+      ],
+      "Two Minute Drill": [
+        "J.K. Dobbins"
       ]
     },
     "abets": [
@@ -443,6 +456,7 @@
       "|anytime touchdown|Bam Knight",
       "|anytime touchdown|Bhayshul Tuten",
       "|anytime touchdown|Chris Rodriguez Jr.",
+      "|anytime touchdown|J.K. Dobbins",
       "|anytime touchdown|Jakobi Meyers",
       "|anytime touchdown|James Cook",
       "|anytime touchdown|Jameson Williams",
@@ -469,7 +483,7 @@
     ],
     "ltd": null,
     "last_modified": "Sun, 01 Nov 2026 20:06:28 GMT",
-    "checked_at": "2026-11-01T20:07:15.369393+00:00"
+    "checked_at": "2026-11-01T20:10:22.149621+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "82af62eb0112c6e375faf36e4b7c3425058b2cc92ee4593e7b90129ef1382285",
@@ -531,6 +545,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Sun, 01 Nov 2026 20:06:28 GMT",
-    "checked_at": "2026-11-01T20:07:17.166569+00:00"
+    "checked_at": "2026-11-01T20:10:22.677020+00:00"
   }
 }
