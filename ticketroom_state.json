@@ -7,162 +7,12 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 00:11:41 GMT",
-    "checked_at": "2026-11-01T00:13:10.294292+00:00"
+    "last_modified": "Sun, 01 Nov 2026 03:34:33 GMT",
+    "checked_at": "2026-11-01T04:00:20.130758+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "5a1864be2b1ff599c563dc1d65b4654efcfa6d8c3665c4694cc0ec2ddee14468",
-    "confirmed": [
-      {
-        "name": "Back Post",
-        "legs": [
-          "Raphinha"
-        ],
-        "rr": false,
-        "info": {
-          "Raphinha": "Barcelona vs Alav\u00e9s \u00b7 Sat Oct 31 \u00b7 4:00 PM ET"
-        }
-      },
-      {
-        "name": "Double Up",
-        "legs": [
-          "Donyell Malen"
-        ],
-        "rr": false,
-        "info": {
-          "Donyell Malen": "AS Roma vs Udinese \u00b7 Sat Oct 31 \u00b7 1:00 PM ET"
-        },
-        "units": 2
-      },
-      {
-        "name": "Far Post",
-        "legs": [
-          "Gonzalo Tapia"
-        ],
-        "rr": false,
-        "info": {
-          "Gonzalo Tapia": "Columbus Crew vs D.C. United \u00b7 Sat Oct 31 \u00b7 2:00 PM ET"
-        }
-      },
-      {
-        "name": "First Time",
-        "legs": [
-          "Rafael Navarro"
-        ],
-        "rr": false,
-        "info": {
-          "Rafael Navarro": "St. Louis CITY SC vs San Diego FC \u00b7 Sat Oct 31 \u00b7 3:00 PM ET"
-        }
-      },
-      {
-        "name": "Gets Across",
-        "legs": [
-          "Lamine Yamal Nasraqui Ebana"
-        ],
-        "rr": false,
-        "info": {
-          "Lamine Yamal Nasraqui Ebana": "Barcelona vs Alav\u00e9s \u00b7 Sat Oct 31 \u00b7 4:00 PM ET"
-        }
-      },
-      {
-        "name": "Ghosts In",
-        "legs": [
-          "Nicolas Ezequiel Fernandez Mercau"
-        ],
-        "rr": false,
-        "info": {
-          "Nicolas Ezequiel Fernandez Mercau": "New York City FC vs CF Montr\u00e9al \u00b7 Sat Oct 31 \u00b7 2:00 PM ET"
-        }
-      },
-      {
-        "name": "Header Home",
-        "legs": [
-          "Troy Parrott"
-        ],
-        "rr": false,
-        "info": {
-          "Troy Parrott": "Real Betis vs M\u00e1laga \u00b7 Sat Oct 31 \u00b7 1:30 PM ET"
-        }
-      },
-      {
-        "name": "Near Post",
-        "legs": [
-          "Klauss"
-        ],
-        "rr": false,
-        "info": {
-          "Klauss": "LA Galaxy vs Austin FC \u00b7 Sat Oct 31 \u00b7 5:00 PM ET"
-        }
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Patrik Schick"
-        ],
-        "rr": false,
-        "info": {
-          "Patrik Schick": "Bayer Leverkusen vs VfB Stuttgart \u00b7 Sat Oct 31 \u00b7 10:30 AM ET"
-        }
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Harry Kane"
-        ],
-        "rr": false,
-        "info": {
-          "Harry Kane": "Bayern Munich vs Borussia Dortmund \u00b7 Sat Oct 31 \u00b7 1:30 PM ET"
-        }
-      },
-      {
-        "name": "The Nine",
-        "legs": [
-          "Donyell Malen"
-        ],
-        "rr": false,
-        "info": {
-          "Donyell Malen": "AS Roma vs Udinese \u00b7 Sat Oct 31 \u00b7 1:00 PM ET"
-        }
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Erling Haaland"
-        ],
-        "rr": false,
-        "info": {
-          "Erling Haaland": "Manchester City vs Brighton & Hove Albion \u00b7 Sat Oct 31 \u00b7 11:00 AM ET"
-        }
-      },
-      {
-        "name": "The Totals Board",
-        "legs": [
-          "Bayern Munich v Borussia Dortmund: Both teams to score",
-          "FC Augsburg v SC Freiburg: Both teams to score",
-          "Levante v Atl\u00e9tico Madrid: Levante to score",
-          "Schalke 04 v RB Leipzig: Both teams to score"
-        ],
-        "rr": false,
-        "market": "",
-        "kind": "totals",
-        "info": {
-          "Schalke 04 v RB Leipzig: Both teams to score": "Sat Oct 31 \u00b7 10:30 AM ET",
-          "Bayern Munich v Borussia Dortmund: Both teams to score": "Sat Oct 31 \u00b7 1:30 PM ET",
-          "FC Augsburg v SC Freiburg: Both teams to score": "Sat Oct 31 \u00b7 10:30 AM ET",
-          "Levante v Atl\u00e9tico Madrid: Levante to score": "Sat Oct 31 \u00b7 9:00 AM ET"
-        }
-      },
-      {
-        "name": "Through on Goal",
-        "legs": [
-          "Igor Thiago Nascimento Rodrigues"
-        ],
-        "rr": false,
-        "info": {
-          "Igor Thiago Nascimento Rodrigues": "Brentford vs Nottingham Forest \u00b7 Sat Oct 31 \u00b7 11:00 AM ET"
-        }
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "The Totals Board": [
         "Bayern Munich v Borussia Dortmund: Both teams to score",
@@ -225,7 +75,7 @@
       "|anytime goalscorer|Raphinha",
       "|anytime goalscorer|Troy Parrott"
     ],
-    "slate": "2026-10-31",
+    "slate": null,
     "hits": [
       "a:Donyell Malen",
       "a:Igor Thiago Nascimento Rodrigues",
@@ -237,8 +87,8 @@
       "t:FC Augsburg v SC Freiburg: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 00:11:41 GMT",
-    "checked_at": "2026-11-01T00:13:13.181685+00:00"
+    "last_modified": "Sun, 01 Nov 2026 03:34:33 GMT",
+    "checked_at": "2026-11-01T04:00:20.473680+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -248,169 +98,12 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 00:11:41 GMT",
-    "checked_at": "2026-11-01T00:13:13.429068+00:00"
+    "last_modified": "Sun, 01 Nov 2026 03:34:33 GMT",
+    "checked_at": "2026-11-01T04:00:20.577058+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e07126fd8d187ecc694f09ec1ec391d0a83e239f3a142990d2cff30dbb57e77c",
-    "confirmed": [
-      {
-        "name": "Break the Seal",
-        "legs": [
-          "Peyton Watson"
-        ],
-        "rr": false,
-        "info": {
-          "Peyton Watson": "Cavaliers vs Bucks \u00b7 Sat Oct 31 \u00b7 8:00 PM ET"
-        },
-        "units": 0.2,
-        "group": "4"
-      },
-      {
-        "name": "Bucket One",
-        "legs": [
-          "Donovan Clingan"
-        ],
-        "rr": false,
-        "info": {
-          "Donovan Clingan": "Trail Blazers vs Jazz \u00b7 Sat Oct 31 \u00b7 3:00 PM ET"
-        },
-        "units": 0.3,
-        "group": "1"
-      },
-      {
-        "name": "First Look",
-        "legs": [
-          "De'Andre Hunter"
-        ],
-        "rr": false,
-        "info": {
-          "De'Andre Hunter": "Kings vs Grizzlies \u00b7 Sat Oct 31 \u00b7 8:00 PM ET"
-        },
-        "units": 0.2,
-        "group": "5"
-      },
-      {
-        "name": "First Points",
-        "legs": [
-          "Karlo Matkovic"
-        ],
-        "rr": false,
-        "info": {
-          "Karlo Matkovic": "Pelicans vs Hawks \u00b7 Sat Oct 31 \u00b7 7:00 PM ET"
-        },
-        "units": 0.3,
-        "group": "3"
-      },
-      {
-        "name": "Get on the Board",
-        "legs": [
-          "Domantas Sabonis"
-        ],
-        "rr": false,
-        "info": {
-          "Domantas Sabonis": "Kings vs Grizzlies \u00b7 Sat Oct 31 \u00b7 8:00 PM ET"
-        },
-        "units": 0.3,
-        "group": "5"
-      },
-      {
-        "name": "Open Floor",
-        "legs": [
-          "Myles Turner"
-        ],
-        "rr": false,
-        "info": {
-          "Myles Turner": "Bucks vs Cavaliers \u00b7 Sat Oct 31 \u00b7 8:00 PM ET"
-        },
-        "units": 0.2,
-        "group": "4"
-      },
-      {
-        "name": "Opening Tip",
-        "legs": [
-          "Jaxson Hayes"
-        ],
-        "rr": false,
-        "info": {
-          "Jaxson Hayes": "Jazz vs Trail Blazers \u00b7 Sat Oct 31 \u00b7 3:00 PM ET"
-        },
-        "units": 0.3,
-        "group": "1"
-      },
-      {
-        "name": "Out of the Huddle",
-        "legs": [
-          "Ayo Dosunmu"
-        ],
-        "rr": false,
-        "info": {
-          "Ayo Dosunmu": "Timberwolves vs Spurs \u00b7 Sat Oct 31 \u00b7 8:00 PM ET"
-        },
-        "units": 0.6,
-        "group": "6"
-      },
-      {
-        "name": "Set Play",
-        "legs": [
-          "Precious Achiuwa"
-        ],
-        "rr": false,
-        "info": {
-          "Precious Achiuwa": "Kings vs Grizzlies \u00b7 Sat Oct 31 \u00b7 8:00 PM ET"
-        },
-        "units": 0.2,
-        "group": "5"
-      },
-      {
-        "name": "The Opener",
-        "legs": [
-          "Naz Reid"
-        ],
-        "rr": false,
-        "info": {
-          "Naz Reid": "Hornets vs 76ers \u00b7 Sat Oct 31 \u00b7 6:00 PM ET"
-        },
-        "units": 0.6,
-        "group": "2"
-      },
-      {
-        "name": "Tip Drill",
-        "legs": [
-          "Onyeka Okongwu"
-        ],
-        "rr": false,
-        "info": {
-          "Onyeka Okongwu": "Hawks vs Pelicans \u00b7 Sat Oct 31 \u00b7 7:00 PM ET"
-        },
-        "units": 0.3,
-        "group": "3"
-      },
-      {
-        "name": "Tip-Off Call",
-        "legs": [
-          "Kyle Kuzma"
-        ],
-        "rr": false,
-        "info": {
-          "Kyle Kuzma": "Bucks vs Cavaliers \u00b7 Sat Oct 31 \u00b7 8:00 PM ET"
-        },
-        "units": 0.2,
-        "group": "4"
-      },
-      {
-        "name": "Top of the Key",
-        "legs": [
-          "Kevin Durant"
-        ],
-        "rr": false,
-        "info": {
-          "Kevin Durant": "Rockets vs Thunder \u00b7 Sat Oct 31 \u00b7 8:30 PM ET"
-        },
-        "units": 0.6,
-        "group": "7"
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Bucket One": [
         "Donovan Clingan"
@@ -467,13 +160,13 @@
       "|first basket|Peyton Watson",
       "|first basket|Precious Achiuwa"
     ],
-    "slate": "2026-10-31",
+    "slate": null,
     "hits": [
       "a:De'Andre Hunter",
       "a:Myles Turner"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 00:11:41 GMT",
-    "checked_at": "2026-11-01T00:13:14.791789+00:00"
+    "last_modified": "Sun, 01 Nov 2026 03:34:33 GMT",
+    "checked_at": "2026-11-01T04:00:20.736347+00:00"
   }
 }
