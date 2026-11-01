@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 15:26:33 GMT",
-    "checked_at": "2026-11-01T15:30:18.068369+00:00"
+    "last_modified": "Sun, 01 Nov 2026 15:46:35 GMT",
+    "checked_at": "2026-11-01T15:47:09.914527+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "ee07fe586567ff7f8823d00e72f82e9bfbadcc0c806442d8dae8879d625ad669",
+    "hash": "241fa3a6f560a76040741f024fbbf57854c050cd217ca5ac8bf5fa5c524246de",
     "confirmed": [
       {
         "name": "Back Post",
@@ -21,6 +21,16 @@
         "rr": false,
         "info": {
           "Anastasios Douvikas": "Como vs Venezia \u00b7 Sun Nov 1 \u00b7 6:30 AM ET"
+        }
+      },
+      {
+        "name": "First Time",
+        "legs": [
+          "Younes Ebnoutalib"
+        ],
+        "rr": false,
+        "info": {
+          "Younes Ebnoutalib": "Eintracht Frankfurt vs Hamburg SV \u00b7 Sun Nov 1 \u00b7 11:30 AM ET"
         }
       },
       {
@@ -77,13 +87,17 @@
       ],
       "Target Man": [
         "Kylian Mbappe"
+      ],
+      "First Time": [
+        "Younes Ebnoutalib"
       ]
     },
     "abets": [
       "totals||Eintracht Frankfurt v Hamburg SV: Hamburg SV under 1.5 goals,Getafe v Sevilla: Sevilla to score,Lazio v Cagliari: Lazio under 2.5 goals,Portland Timbers v Houston Dynamo FC: Houston Dynamo FC under 1.5 goals",
       "|anytime goalscorer|Anastasios Douvikas",
       "|anytime goalscorer|Kylian Mbappe",
-      "|anytime goalscorer|Nicolas Paz Martinez"
+      "|anytime goalscorer|Nicolas Paz Martinez",
+      "|anytime goalscorer|Younes Ebnoutalib"
     ],
     "slate": "2026-11-01",
     "hits": [
@@ -91,8 +105,8 @@
       "t:Getafe v Sevilla: Sevilla to score"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 15:26:33 GMT",
-    "checked_at": "2026-11-01T15:30:19.984651+00:00"
+    "last_modified": "Sun, 01 Nov 2026 15:46:35 GMT",
+    "checked_at": "2026-11-01T15:47:15.072730+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -102,8 +116,8 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 15:26:33 GMT",
-    "checked_at": "2026-11-01T15:30:20.097108+00:00"
+    "last_modified": "Sun, 01 Nov 2026 15:46:35 GMT",
+    "checked_at": "2026-11-01T15:47:15.371668+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -113,7 +127,7 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 15:26:33 GMT",
-    "checked_at": "2026-11-01T15:30:20.351912+00:00"
+    "last_modified": "Sun, 01 Nov 2026 15:46:35 GMT",
+    "checked_at": "2026-11-01T15:47:15.564670+00:00"
   }
 }
