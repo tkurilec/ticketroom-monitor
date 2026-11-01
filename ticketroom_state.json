@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 19:22:01 GMT",
-    "checked_at": "2026-11-01T19:22:15.280663+00:00"
+    "last_modified": "Sun, 01 Nov 2026 19:46:43 GMT",
+    "checked_at": "2026-11-01T19:47:10.185936+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "241fa3a6f560a76040741f024fbbf57854c050cd217ca5ac8bf5fa5c524246de",
+    "hash": "598c32073eca889112afd763afb1f81e2df169e566027b2679368d9e9fef64b6",
     "confirmed": [
       {
         "name": "Back Post",
@@ -54,6 +54,16 @@
         }
       },
       {
+        "name": "The Nine",
+        "legs": [
+          "Brian White"
+        ],
+        "rr": false,
+        "info": {
+          "Brian White": "Vancouver Whitecaps vs Seattle Sounders FC \u00b7 Sun Nov 1 \u00b7 3:30 PM ET"
+        }
+      },
+      {
         "name": "The Ninety",
         "legs": [
           "Eintracht Frankfurt v Hamburg SV: Hamburg SV under 1.5 goals",
@@ -90,11 +100,15 @@
       ],
       "First Time": [
         "Younes Ebnoutalib"
+      ],
+      "The Nine": [
+        "Brian White"
       ]
     },
     "abets": [
       "totals||Eintracht Frankfurt v Hamburg SV: Hamburg SV under 1.5 goals,Getafe v Sevilla: Sevilla to score,Lazio v Cagliari: Lazio under 2.5 goals,Portland Timbers v Houston Dynamo FC: Houston Dynamo FC under 1.5 goals",
       "|anytime goalscorer|Anastasios Douvikas",
+      "|anytime goalscorer|Brian White",
       "|anytime goalscorer|Kylian Mbappe",
       "|anytime goalscorer|Nicolas Paz Martinez",
       "|anytime goalscorer|Younes Ebnoutalib"
@@ -108,8 +122,8 @@
       "t:Lazio v Cagliari: Lazio under 2.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 19:22:01 GMT",
-    "checked_at": "2026-11-01T19:22:17.602809+00:00"
+    "last_modified": "Sun, 01 Nov 2026 19:46:43 GMT",
+    "checked_at": "2026-11-01T19:47:15.594075+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "35564100dddc9a0061da7ce9cd641e9bb289c37587174ac599244df81dcd2862",
@@ -411,8 +425,8 @@
       "a:Rico Dowdle"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 19:22:02 GMT",
-    "checked_at": "2026-11-01T19:22:18.613962+00:00"
+    "last_modified": "Sun, 01 Nov 2026 19:46:43 GMT",
+    "checked_at": "2026-11-01T19:47:16.991001+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -422,7 +436,7 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 19:22:01 GMT",
-    "checked_at": "2026-11-01T19:22:18.797605+00:00"
+    "last_modified": "Sun, 01 Nov 2026 19:46:43 GMT",
+    "checked_at": "2026-11-01T19:47:17.239296+00:00"
   }
 }
