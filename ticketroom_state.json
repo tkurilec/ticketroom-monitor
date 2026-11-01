@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Sun, 01 Nov 2026 19:46:43 GMT",
-    "checked_at": "2026-11-01T19:47:10.185936+00:00"
+    "checked_at": "2026-11-01T19:50:17.899031+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "598c32073eca889112afd763afb1f81e2df169e566027b2679368d9e9fef64b6",
@@ -123,10 +123,10 @@
     ],
     "ltd": null,
     "last_modified": "Sun, 01 Nov 2026 19:46:43 GMT",
-    "checked_at": "2026-11-01T19:47:15.594075+00:00"
+    "checked_at": "2026-11-01T19:50:20.130780+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "35564100dddc9a0061da7ce9cd641e9bb289c37587174ac599244df81dcd2862",
+    "hash": "b8cb929aac8400af470eadde4a7d88293f8bc1d0b0fbc351ec9d041d0d50f114",
     "confirmed": [
       {
         "name": "Audible",
@@ -146,6 +146,16 @@
         "rr": false,
         "info": {
           "Mason Taylor": "Jets vs Raiders \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "Bell Cow",
+        "legs": [
+          "Kyren Williams"
+        ],
+        "rr": false,
+        "info": {
+          "Kyren Williams": "Rams vs Chargers \u00b7 Sun Nov 1 \u00b7 4:05 PM ET"
         }
       },
       {
@@ -301,6 +311,16 @@
         }
       },
       {
+        "name": "The Sneak",
+        "legs": [
+          "Omarion Hampton"
+        ],
+        "rr": false,
+        "info": {
+          "Omarion Hampton": "Chargers vs Rams \u00b7 Sun Nov 1 \u00b7 4:05 PM ET"
+        }
+      },
+      {
         "name": "The Workhorse",
         "legs": [
           "James Cook"
@@ -394,6 +414,12 @@
       ],
       "Toe Tap": [
         "Jauan Jennings"
+      ],
+      "Bell Cow": [
+        "Kyren Williams"
+      ],
+      "The Sneak": [
+        "Omarion Hampton"
       ]
     },
     "abets": [
@@ -412,8 +438,10 @@
       "|anytime touchdown|Jonathan Taylor",
       "|anytime touchdown|Josh Cuevas",
       "|anytime touchdown|Keon Coleman",
+      "|anytime touchdown|Kyren Williams",
       "|anytime touchdown|Mason Taylor",
       "|anytime touchdown|Mitchell Tinsley",
+      "|anytime touchdown|Omarion Hampton",
       "|anytime touchdown|Reggie Virgil",
       "|anytime touchdown|Rico Dowdle",
       "|anytime touchdown|Sam LaPorta",
@@ -426,7 +454,7 @@
     ],
     "ltd": null,
     "last_modified": "Sun, 01 Nov 2026 19:46:43 GMT",
-    "checked_at": "2026-11-01T19:47:16.991001+00:00"
+    "checked_at": "2026-11-01T19:50:22.474858+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -437,6 +465,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Sun, 01 Nov 2026 19:46:43 GMT",
-    "checked_at": "2026-11-01T19:47:17.239296+00:00"
+    "checked_at": "2026-11-01T19:50:22.638035+00:00"
   }
 }
