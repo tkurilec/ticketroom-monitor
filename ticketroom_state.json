@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 11:02:10 GMT",
-    "checked_at": "2026-11-01T11:02:12.341257+00:00"
+    "last_modified": "Sun, 01 Nov 2026 13:21:59 GMT",
+    "checked_at": "2026-11-01T13:25:13.046385+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "992efb686c587a7a658e71e0478151d27e3bea9f6d7cb49a8e1721725535539e",
@@ -72,10 +72,12 @@
       "|anytime goalscorer|Nicolas Paz Martinez"
     ],
     "slate": "2026-11-01",
-    "hits": [],
+    "hits": [
+      "t:Getafe v Sevilla: Sevilla to score"
+    ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 11:02:10 GMT",
-    "checked_at": "2026-11-01T11:02:16.582368+00:00"
+    "last_modified": "Sun, 01 Nov 2026 13:21:59 GMT",
+    "checked_at": "2026-11-01T13:25:16.882812+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -85,8 +87,8 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 11:02:10 GMT",
-    "checked_at": "2026-11-01T11:02:16.771930+00:00"
+    "last_modified": "Sun, 01 Nov 2026 13:21:59 GMT",
+    "checked_at": "2026-11-01T13:25:17.292131+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -96,7 +98,7 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 11:02:10 GMT",
-    "checked_at": "2026-11-01T11:02:16.946376+00:00"
+    "last_modified": "Sun, 01 Nov 2026 13:21:59 GMT",
+    "checked_at": "2026-11-01T13:25:17.545695+00:00"
   }
 }
