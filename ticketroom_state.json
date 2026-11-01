@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 23:26:58 GMT",
-    "checked_at": "2026-11-01T23:27:11.623786+00:00"
+    "last_modified": "Sun, 01 Nov 2026 23:36:37 GMT",
+    "checked_at": "2026-11-01T23:39:11.929039+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "33dc23e870b42273b99c44fac9d64927c2ee98f9d3b09fc08d512624554c9631",
@@ -173,14 +173,15 @@
     "hits": [
       "a:Brian White",
       "a:Kylian Mbappe",
+      "a:Sam Surridge",
       "a:Younes Ebnoutalib",
       "t:Eintracht Frankfurt v Hamburg SV: Hamburg SV under 1.5 goals",
       "t:Getafe v Sevilla: Sevilla to score",
       "t:Lazio v Cagliari: Lazio under 2.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 23:26:58 GMT",
-    "checked_at": "2026-11-01T23:27:14.847910+00:00"
+    "last_modified": "Sun, 01 Nov 2026 23:36:37 GMT",
+    "checked_at": "2026-11-01T23:39:14.122009+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "1eb5b44e55a0f577540adeefeb813cf10b73cff477f17c9fa06bdb6de0d20b22",
@@ -523,8 +524,8 @@
       "a:Tyler Allgeier"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 23:26:58 GMT",
-    "checked_at": "2026-11-01T23:27:15.619291+00:00"
+    "last_modified": "Sun, 01 Nov 2026 23:36:37 GMT",
+    "checked_at": "2026-11-01T23:39:14.831989+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "161b5ea429c9e2bdc2734046cbe1a2ff905a4a8ea875030902ed23b9a53bd1ef",
@@ -620,7 +621,7 @@
       "a:Wendell Carter Jr."
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 23:26:58 GMT",
-    "checked_at": "2026-11-01T23:27:15.847535+00:00"
+    "last_modified": "Sun, 01 Nov 2026 23:36:37 GMT",
+    "checked_at": "2026-11-01T23:39:15.073613+00:00"
   }
 }
