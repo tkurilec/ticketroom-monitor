@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 15:56:26 GMT",
-    "checked_at": "2026-11-01T15:59:11.480843+00:00"
+    "last_modified": "Sun, 01 Nov 2026 16:42:14 GMT",
+    "checked_at": "2026-11-01T16:43:09.864413+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "241fa3a6f560a76040741f024fbbf57854c050cd217ca5ac8bf5fa5c524246de",
@@ -106,19 +106,120 @@
       "t:Lazio v Cagliari: Lazio under 2.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 15:56:26 GMT",
-    "checked_at": "2026-11-01T15:59:13.180550+00:00"
+    "last_modified": "Sun, 01 Nov 2026 16:42:14 GMT",
+    "checked_at": "2026-11-01T16:43:12.315213+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "7cb82aa5c011fb7c5b5b15048c00c0ad2d4ab3ade5dc6164abadf50bfbc5023c",
+    "confirmed": [
+      {
+        "name": "Audible",
+        "legs": [
+          "Jameson Williams"
+        ],
+        "rr": false,
+        "info": {
+          "Jameson Williams": "Lions vs Vikings \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "Inside the Ten",
+        "legs": [
+          "Sam LaPorta"
+        ],
+        "rr": false,
+        "info": {
+          "Sam LaPorta": "Lions vs Vikings \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "Quick Slant",
+        "legs": [
+          "Rico Dowdle"
+        ],
+        "rr": false,
+        "info": {
+          "Rico Dowdle": "Steelers vs Browns \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "Red Zone Target",
+        "legs": [
+          "Amon-Ra St. Brown"
+        ],
+        "rr": false,
+        "info": {
+          "Amon-Ra St. Brown": "Lions vs Vikings \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "The Checkdown",
+        "legs": [
+          "Jonathan Taylor"
+        ],
+        "rr": false,
+        "info": {
+          "Jonathan Taylor": "Colts vs Jaguars \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "The Workhorse",
+        "legs": [
+          "James Cook"
+        ],
+        "rr": false,
+        "info": {
+          "James Cook": "Bills vs Ravens \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "Wheel Route",
+        "legs": [
+          "Keon Coleman"
+        ],
+        "rr": false,
+        "info": {
+          "Keon Coleman": "Bills vs Ravens \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
+        }
+      }
+    ],
+    "announced": {
+      "Audible": [
+        "Jameson Williams"
+      ],
+      "Inside the Ten": [
+        "Sam LaPorta"
+      ],
+      "Quick Slant": [
+        "Rico Dowdle"
+      ],
+      "Red Zone Target": [
+        "Amon-Ra St. Brown"
+      ],
+      "The Checkdown": [
+        "Jonathan Taylor"
+      ],
+      "The Workhorse": [
+        "James Cook"
+      ],
+      "Wheel Route": [
+        "Keon Coleman"
+      ]
+    },
+    "abets": [
+      "|anytime touchdown|Amon-Ra St. Brown",
+      "|anytime touchdown|James Cook",
+      "|anytime touchdown|Jameson Williams",
+      "|anytime touchdown|Jonathan Taylor",
+      "|anytime touchdown|Keon Coleman",
+      "|anytime touchdown|Rico Dowdle",
+      "|anytime touchdown|Sam LaPorta"
+    ],
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 15:56:26 GMT",
-    "checked_at": "2026-11-01T15:59:13.330061+00:00"
+    "last_modified": "Sun, 01 Nov 2026 16:42:14 GMT",
+    "checked_at": "2026-11-01T16:43:14.052799+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -128,7 +229,7 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 15:56:26 GMT",
-    "checked_at": "2026-11-01T15:59:13.496527+00:00"
+    "last_modified": "Sun, 01 Nov 2026 16:42:14 GMT",
+    "checked_at": "2026-11-01T16:43:14.404893+00:00"
   }
 }
