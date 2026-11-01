@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 22:17:18 GMT",
-    "checked_at": "2026-11-01T22:22:14.261412+00:00"
+    "last_modified": "Sun, 01 Nov 2026 23:26:58 GMT",
+    "checked_at": "2026-11-01T23:27:11.623786+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "b24474aa4b9c109b2d0da48dba6ed614ba67fd15200f5ac6c51f93ef86251c01",
+    "hash": "33dc23e870b42273b99c44fac9d64927c2ee98f9d3b09fc08d512624554c9631",
     "confirmed": [
       {
         "name": "Back Post",
@@ -22,6 +22,17 @@
         "info": {
           "Anastasios Douvikas": "Como vs Venezia \u00b7 Sun Nov 1 \u00b7 6:30 AM ET"
         }
+      },
+      {
+        "name": "Big Game Player",
+        "legs": [
+          "Lionel Messi"
+        ],
+        "rr": false,
+        "info": {
+          "Lionel Messi": "Inter Miami CF vs New England Revolution \u00b7 Sun Nov 1 \u00b7 7:00 PM ET"
+        },
+        "units": 2
       },
       {
         "name": "Far Post",
@@ -51,6 +62,16 @@
         "rr": false,
         "info": {
           "Nicolas Paz Martinez": "Como v Venezia \u00b7 Sun Nov 1 \u00b7 6:30 AM ET"
+        }
+      },
+      {
+        "name": "Near Post",
+        "legs": [
+          "Lionel Messi"
+        ],
+        "rr": false,
+        "info": {
+          "Lionel Messi": "Inter Miami CF vs New England Revolution \u00b7 Sun Nov 1 \u00b7 7:00 PM ET"
         }
       },
       {
@@ -129,6 +150,12 @@
       ],
       "Six-Yard Box": [
         "Sam Surridge"
+      ],
+      "Big Game Player": [
+        "Lionel Messi"
+      ],
+      "Near Post": [
+        "Lionel Messi"
       ]
     },
     "abets": [
@@ -137,6 +164,7 @@
       "|anytime goalscorer|Brian White",
       "|anytime goalscorer|Hany Mukhtar",
       "|anytime goalscorer|Kylian Mbappe",
+      "|anytime goalscorer|Lionel Messi",
       "|anytime goalscorer|Nicolas Paz Martinez",
       "|anytime goalscorer|Sam Surridge",
       "|anytime goalscorer|Younes Ebnoutalib"
@@ -151,8 +179,8 @@
       "t:Lazio v Cagliari: Lazio under 2.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 22:17:18 GMT",
-    "checked_at": "2026-11-01T22:22:16.553824+00:00"
+    "last_modified": "Sun, 01 Nov 2026 23:26:58 GMT",
+    "checked_at": "2026-11-01T23:27:14.847910+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "1eb5b44e55a0f577540adeefeb813cf10b73cff477f17c9fa06bdb6de0d20b22",
@@ -495,8 +523,8 @@
       "a:Tyler Allgeier"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 22:17:18 GMT",
-    "checked_at": "2026-11-01T22:22:17.804564+00:00"
+    "last_modified": "Sun, 01 Nov 2026 23:26:58 GMT",
+    "checked_at": "2026-11-01T23:27:15.619291+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "161b5ea429c9e2bdc2734046cbe1a2ff905a4a8ea875030902ed23b9a53bd1ef",
@@ -592,7 +620,7 @@
       "a:Wendell Carter Jr."
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 22:22:17 GMT",
-    "checked_at": "2026-11-01T22:22:18.049216+00:00"
+    "last_modified": "Sun, 01 Nov 2026 23:26:58 GMT",
+    "checked_at": "2026-11-01T23:27:15.847535+00:00"
   }
 }
