@@ -7,88 +7,47 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 03:34:33 GMT",
-    "checked_at": "2026-11-01T04:00:20.130758+00:00"
+    "last_modified": "Sun, 01 Nov 2026 04:04:53 GMT",
+    "checked_at": "2026-11-01T04:05:14.307809+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "f53090ffabf40b943603aa82462a9e79b9ddd74b3aa1f2da3ff5713c05a15647",
+    "confirmed": [
+      {
+        "name": "The Ninety",
+        "legs": [
+          "Eintracht Frankfurt v Hamburg SV: Hamburg SV under 1.5 goals",
+          "Getafe v Sevilla: Sevilla to score",
+          "Lazio v Cagliari: Lazio under 2.5 goals",
+          "Portland Timbers v Houston Dynamo FC: Houston Dynamo FC under 1.5 goals"
+        ],
+        "rr": false,
+        "market": "",
+        "kind": "totals",
+        "info": {
+          "Lazio v Cagliari: Lazio under 2.5 goals": "Sun Nov 1 \u00b7 9:00 AM ET",
+          "Getafe v Sevilla: Sevilla to score": "Sun Nov 1 \u00b7 8:00 AM ET",
+          "Eintracht Frankfurt v Hamburg SV: Hamburg SV under 1.5 goals": "Sun Nov 1 \u00b7 11:30 AM ET",
+          "Portland Timbers v Houston Dynamo FC: Houston Dynamo FC under 1.5 goals": "Sun Nov 1 \u00b7 9:45 PM ET"
+        }
+      }
+    ],
     "announced": {
-      "The Totals Board": [
-        "Bayern Munich v Borussia Dortmund: Both teams to score",
-        "FC Augsburg v SC Freiburg: Both teams to score",
-        "Levante v Atl\u00e9tico Madrid: Levante to score",
-        "Schalke 04 v RB Leipzig: Both teams to score"
-      ],
-      "Six-Yard Box": [
-        "Patrik Schick"
-      ],
-      "The Poacher": [
-        "Erling Haaland"
-      ],
-      "Through on Goal": [
-        "Igor Thiago Nascimento Rodrigues"
-      ],
-      "Double Up": [
-        "Donyell Malen"
-      ],
-      "The Nine": [
-        "Donyell Malen"
-      ],
-      "Header Home": [
-        "Troy Parrott"
-      ],
-      "Target Man": [
-        "Harry Kane"
-      ],
-      "Far Post": [
-        "Gonzalo Tapia"
-      ],
-      "Ghosts In": [
-        "Nicolas Ezequiel Fernandez Mercau"
-      ],
-      "First Time": [
-        "Rafael Navarro"
-      ],
-      "Back Post": [
-        "Raphinha"
-      ],
-      "Gets Across": [
-        "Lamine Yamal Nasraqui Ebana"
-      ],
-      "Near Post": [
-        "Klauss"
+      "The Ninety": [
+        "Eintracht Frankfurt v Hamburg SV: Hamburg SV under 1.5 goals",
+        "Getafe v Sevilla: Sevilla to score",
+        "Lazio v Cagliari: Lazio under 2.5 goals",
+        "Portland Timbers v Houston Dynamo FC: Houston Dynamo FC under 1.5 goals"
       ]
     },
     "abets": [
-      "totals||Bayern Munich v Borussia Dortmund: Both teams to score,FC Augsburg v SC Freiburg: Both teams to score,Levante v Atl\u00e9tico Madrid: Levante to score,Schalke 04 v RB Leipzig: Both teams to score",
-      "|anytime goalscorer|Donyell Malen",
-      "|anytime goalscorer|Erling Haaland",
-      "|anytime goalscorer|Gonzalo Tapia",
-      "|anytime goalscorer|Harry Kane",
-      "|anytime goalscorer|Igor Thiago Nascimento Rodrigues",
-      "|anytime goalscorer|Klauss",
-      "|anytime goalscorer|Lamine Yamal Nasraqui Ebana",
-      "|anytime goalscorer|Nicolas Ezequiel Fernandez Mercau",
-      "|anytime goalscorer|Patrik Schick",
-      "|anytime goalscorer|Rafael Navarro",
-      "|anytime goalscorer|Raphinha",
-      "|anytime goalscorer|Troy Parrott"
+      "totals||Eintracht Frankfurt v Hamburg SV: Hamburg SV under 1.5 goals,Getafe v Sevilla: Sevilla to score,Lazio v Cagliari: Lazio under 2.5 goals,Portland Timbers v Houston Dynamo FC: Houston Dynamo FC under 1.5 goals"
     ],
-    "slate": null,
-    "hits": [
-      "a:Donyell Malen",
-      "a:Igor Thiago Nascimento Rodrigues",
-      "a:Klauss",
-      "a:Lamine Yamal Nasraqui Ebana",
-      "a:Patrik Schick",
-      "a:Raphinha",
-      "t:Bayern Munich v Borussia Dortmund: Both teams to score",
-      "t:FC Augsburg v SC Freiburg: Both teams to score"
-    ],
+    "slate": "2026-11-01",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 03:34:33 GMT",
-    "checked_at": "2026-11-01T04:00:20.473680+00:00"
+    "last_modified": "Sun, 01 Nov 2026 04:04:53 GMT",
+    "checked_at": "2026-11-01T04:05:16.772773+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -98,8 +57,8 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 03:34:33 GMT",
-    "checked_at": "2026-11-01T04:00:20.577058+00:00"
+    "last_modified": "Sun, 01 Nov 2026 04:04:53 GMT",
+    "checked_at": "2026-11-01T04:05:17.129434+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -166,7 +125,7 @@
       "a:Myles Turner"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 03:34:33 GMT",
-    "checked_at": "2026-11-01T04:00:20.736347+00:00"
+    "last_modified": "Sun, 01 Nov 2026 04:04:53 GMT",
+    "checked_at": "2026-11-01T04:05:17.378945+00:00"
   }
 }
