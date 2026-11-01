@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 21:17:16 GMT",
-    "checked_at": "2026-11-01T21:18:11.477612+00:00"
+    "last_modified": "Sun, 01 Nov 2026 21:37:31 GMT",
+    "checked_at": "2026-11-01T21:40:19.516608+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "b24474aa4b9c109b2d0da48dba6ed614ba67fd15200f5ac6c51f93ef86251c01",
@@ -151,8 +151,8 @@
       "t:Lazio v Cagliari: Lazio under 2.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 21:17:16 GMT",
-    "checked_at": "2026-11-01T21:18:15.712509+00:00"
+    "last_modified": "Sun, 01 Nov 2026 21:37:31 GMT",
+    "checked_at": "2026-11-01T21:40:21.501598+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "1eb5b44e55a0f577540adeefeb813cf10b73cff477f17c9fa06bdb6de0d20b22",
@@ -494,12 +494,24 @@
       "a:Tyler Allgeier"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 21:17:16 GMT",
-    "checked_at": "2026-11-01T21:18:17.502782+00:00"
+    "last_modified": "Sun, 01 Nov 2026 21:37:31 GMT",
+    "checked_at": "2026-11-01T21:40:22.206265+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "82af62eb0112c6e375faf36e4b7c3425058b2cc92ee4593e7b90129ef1382285",
+    "hash": "161b5ea429c9e2bdc2734046cbe1a2ff905a4a8ea875030902ed23b9a53bd1ef",
     "confirmed": [
+      {
+        "name": "Break the Seal",
+        "legs": [
+          "Day'Ron Sharpe"
+        ],
+        "rr": false,
+        "info": {
+          "Day'Ron Sharpe": "Nets vs Pacers \u00b7 Sun Nov 1 \u00b7 5:00 PM ET"
+        },
+        "units": 0.3,
+        "group": "2"
+      },
       {
         "name": "Bucket One",
         "legs": [
@@ -511,6 +523,18 @@
         },
         "units": 0.3,
         "group": "1"
+      },
+      {
+        "name": "First Points",
+        "legs": [
+          "Jay Huff"
+        ],
+        "rr": false,
+        "info": {
+          "Jay Huff": "Pacers vs Nets \u00b7 Sun Nov 1 \u00b7 5:00 PM ET"
+        },
+        "units": 0.3,
+        "group": "2"
       },
       {
         "name": "The Opener",
@@ -546,11 +570,19 @@
       ],
       "Tip Drill": [
         "Jase Richardson"
+      ],
+      "Break the Seal": [
+        "Day'Ron Sharpe"
+      ],
+      "First Points": [
+        "Jay Huff"
       ]
     },
     "abets": [
+      "|first basket|Day'Ron Sharpe",
       "|first basket|Derrick White",
       "|first basket|Jase Richardson",
+      "|first basket|Jay Huff",
       "|first basket|Wendell Carter Jr."
     ],
     "slate": "2026-11-01",
@@ -558,7 +590,7 @@
       "a:Wendell Carter Jr."
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 21:17:16 GMT",
-    "checked_at": "2026-11-01T21:18:17.986347+00:00"
+    "last_modified": "Sun, 01 Nov 2026 21:37:31 GMT",
+    "checked_at": "2026-11-01T21:40:23.822334+00:00"
   }
 }
