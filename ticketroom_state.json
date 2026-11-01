@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 20:41:41 GMT",
-    "checked_at": "2026-11-01T20:43:10.767135+00:00"
+    "last_modified": "Sun, 01 Nov 2026 20:47:07 GMT",
+    "checked_at": "2026-11-01T20:47:11.766953+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "598c32073eca889112afd763afb1f81e2df169e566027b2679368d9e9fef64b6",
+    "hash": "b24474aa4b9c109b2d0da48dba6ed614ba67fd15200f5ac6c51f93ef86251c01",
     "confirmed": [
       {
         "name": "Back Post",
@@ -21,6 +21,16 @@
         "rr": false,
         "info": {
           "Anastasios Douvikas": "Como vs Venezia \u00b7 Sun Nov 1 \u00b7 6:30 AM ET"
+        }
+      },
+      {
+        "name": "Far Post",
+        "legs": [
+          "Hany Mukhtar"
+        ],
+        "rr": false,
+        "info": {
+          "Hany Mukhtar": "Nashville SC vs Red Bull New York \u00b7 Sun Nov 1 \u00b7 4:30 PM ET"
         }
       },
       {
@@ -41,6 +51,16 @@
         "rr": false,
         "info": {
           "Nicolas Paz Martinez": "Como v Venezia \u00b7 Sun Nov 1 \u00b7 6:30 AM ET"
+        }
+      },
+      {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Sam Surridge"
+        ],
+        "rr": false,
+        "info": {
+          "Sam Surridge": "Nashville SC vs Red Bull New York \u00b7 Sun Nov 1 \u00b7 4:30 PM ET"
         }
       },
       {
@@ -103,14 +123,22 @@
       ],
       "The Nine": [
         "Brian White"
+      ],
+      "Far Post": [
+        "Hany Mukhtar"
+      ],
+      "Six-Yard Box": [
+        "Sam Surridge"
       ]
     },
     "abets": [
       "totals||Eintracht Frankfurt v Hamburg SV: Hamburg SV under 1.5 goals,Getafe v Sevilla: Sevilla to score,Lazio v Cagliari: Lazio under 2.5 goals,Portland Timbers v Houston Dynamo FC: Houston Dynamo FC under 1.5 goals",
       "|anytime goalscorer|Anastasios Douvikas",
       "|anytime goalscorer|Brian White",
+      "|anytime goalscorer|Hany Mukhtar",
       "|anytime goalscorer|Kylian Mbappe",
       "|anytime goalscorer|Nicolas Paz Martinez",
+      "|anytime goalscorer|Sam Surridge",
       "|anytime goalscorer|Younes Ebnoutalib"
     ],
     "slate": "2026-11-01",
@@ -123,8 +151,8 @@
       "t:Lazio v Cagliari: Lazio under 2.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 20:41:41 GMT",
-    "checked_at": "2026-11-01T20:43:17.234578+00:00"
+    "last_modified": "Sun, 01 Nov 2026 20:47:07 GMT",
+    "checked_at": "2026-11-01T20:47:14.685686+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "f209ef779d2325daf39d747a978dab072783e3c79cf53527c0fb2c05c8b3ac00",
@@ -475,8 +503,8 @@
       "a:Tyler Allgeier"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 20:41:41 GMT",
-    "checked_at": "2026-11-01T20:43:19.997336+00:00"
+    "last_modified": "Sun, 01 Nov 2026 20:47:07 GMT",
+    "checked_at": "2026-11-01T20:47:15.113265+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "82af62eb0112c6e375faf36e4b7c3425058b2cc92ee4593e7b90129ef1382285",
@@ -539,7 +567,7 @@
       "a:Wendell Carter Jr."
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 20:41:41 GMT",
-    "checked_at": "2026-11-01T20:43:21.063950+00:00"
+    "last_modified": "Sun, 01 Nov 2026 20:47:07 GMT",
+    "checked_at": "2026-11-01T20:47:15.370205+00:00"
   }
 }
