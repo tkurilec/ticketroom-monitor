@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 20:17:22 GMT",
-    "checked_at": "2026-11-01T20:18:12.711702+00:00"
+    "last_modified": "Sun, 01 Nov 2026 20:32:03 GMT",
+    "checked_at": "2026-11-01T20:32:14.389487+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "598c32073eca889112afd763afb1f81e2df169e566027b2679368d9e9fef64b6",
@@ -122,11 +122,11 @@
       "t:Lazio v Cagliari: Lazio under 2.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 20:17:22 GMT",
-    "checked_at": "2026-11-01T20:18:14.739349+00:00"
+    "last_modified": "Sun, 01 Nov 2026 20:32:03 GMT",
+    "checked_at": "2026-11-01T20:32:16.094175+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "30a9cc7f41460b2e7a17354733ca78acb7dc5a211241654056c9cd0f61947532",
+    "hash": "f209ef779d2325daf39d747a978dab072783e3c79cf53527c0fb2c05c8b3ac00",
     "confirmed": [
       {
         "name": "Audible",
@@ -278,16 +278,6 @@
         "rr": false,
         "info": {
           "Kevin Coleman Jr.": "Dolphins vs Patriots \u00b7 Sun Nov 1 \u00b7 4:25 PM ET"
-        }
-      },
-      {
-        "name": "Seam Route",
-        "legs": [
-          "Bam Knight"
-        ],
-        "rr": false,
-        "info": {
-          "Bam Knight": "Cardinals vs Cowboys \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
         }
       },
       {
@@ -484,8 +474,8 @@
       "a:Tyler Allgeier"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 20:17:22 GMT",
-    "checked_at": "2026-11-01T20:18:17.027991+00:00"
+    "last_modified": "Sun, 01 Nov 2026 20:32:03 GMT",
+    "checked_at": "2026-11-01T20:32:16.620087+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "82af62eb0112c6e375faf36e4b7c3425058b2cc92ee4593e7b90129ef1382285",
@@ -546,7 +536,7 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 20:17:22 GMT",
-    "checked_at": "2026-11-01T20:18:17.254237+00:00"
+    "last_modified": "Sun, 01 Nov 2026 20:32:03 GMT",
+    "checked_at": "2026-11-01T20:32:16.805214+00:00"
   }
 }
