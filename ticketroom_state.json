@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 20:52:11 GMT",
-    "checked_at": "2026-11-01T20:53:12.112945+00:00"
+    "last_modified": "Sun, 01 Nov 2026 21:17:16 GMT",
+    "checked_at": "2026-11-01T21:18:11.477612+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "b24474aa4b9c109b2d0da48dba6ed614ba67fd15200f5ac6c51f93ef86251c01",
@@ -151,11 +151,11 @@
       "t:Lazio v Cagliari: Lazio under 2.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 20:52:11 GMT",
-    "checked_at": "2026-11-01T20:53:13.748431+00:00"
+    "last_modified": "Sun, 01 Nov 2026 21:17:16 GMT",
+    "checked_at": "2026-11-01T21:18:15.712509+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "f209ef779d2325daf39d747a978dab072783e3c79cf53527c0fb2c05c8b3ac00",
+    "hash": "1eb5b44e55a0f577540adeefeb813cf10b73cff477f17c9fa06bdb6de0d20b22",
     "confirmed": [
       {
         "name": "Audible",
@@ -257,16 +257,6 @@
         "rr": false,
         "info": {
           "Reggie Virgil": "Cardinals vs Cowboys \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
-        }
-      },
-      {
-        "name": "Move the Chains",
-        "legs": [
-          "Jeremiyah Love"
-        ],
-        "rr": false,
-        "info": {
-          "Jeremiyah Love": "Cardinals vs Cowboys \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
         }
       },
       {
@@ -504,8 +494,8 @@
       "a:Tyler Allgeier"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 20:52:11 GMT",
-    "checked_at": "2026-11-01T20:53:15.602880+00:00"
+    "last_modified": "Sun, 01 Nov 2026 21:17:16 GMT",
+    "checked_at": "2026-11-01T21:18:17.502782+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "82af62eb0112c6e375faf36e4b7c3425058b2cc92ee4593e7b90129ef1382285",
@@ -568,7 +558,7 @@
       "a:Wendell Carter Jr."
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 20:52:11 GMT",
-    "checked_at": "2026-11-01T20:53:15.787006+00:00"
+    "last_modified": "Sun, 01 Nov 2026 21:17:16 GMT",
+    "checked_at": "2026-11-01T21:18:17.986347+00:00"
   }
 }
