@@ -7,12 +7,22 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 04:04:53 GMT",
-    "checked_at": "2026-11-01T04:05:14.307809+00:00"
+    "last_modified": "Sun, 01 Nov 2026 10:51:42 GMT",
+    "checked_at": "2026-11-01T10:52:12.639870+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "f53090ffabf40b943603aa82462a9e79b9ddd74b3aa1f2da3ff5713c05a15647",
+    "hash": "e7c4ef88cbb641f769e1b13656a0c898c689d98e3e57811be0915af15efb2c49",
     "confirmed": [
+      {
+        "name": "Back Post",
+        "legs": [
+          "Anastasios Douvikas"
+        ],
+        "rr": false,
+        "info": {
+          "Anastasios Douvikas": "Como vs Venezia \u00b7 Sun Nov 1 \u00b7 6:30 AM ET"
+        }
+      },
       {
         "name": "The Ninety",
         "legs": [
@@ -38,16 +48,20 @@
         "Getafe v Sevilla: Sevilla to score",
         "Lazio v Cagliari: Lazio under 2.5 goals",
         "Portland Timbers v Houston Dynamo FC: Houston Dynamo FC under 1.5 goals"
+      ],
+      "Back Post": [
+        "Anastasios Douvikas"
       ]
     },
     "abets": [
-      "totals||Eintracht Frankfurt v Hamburg SV: Hamburg SV under 1.5 goals,Getafe v Sevilla: Sevilla to score,Lazio v Cagliari: Lazio under 2.5 goals,Portland Timbers v Houston Dynamo FC: Houston Dynamo FC under 1.5 goals"
+      "totals||Eintracht Frankfurt v Hamburg SV: Hamburg SV under 1.5 goals,Getafe v Sevilla: Sevilla to score,Lazio v Cagliari: Lazio under 2.5 goals,Portland Timbers v Houston Dynamo FC: Houston Dynamo FC under 1.5 goals",
+      "|anytime goalscorer|Anastasios Douvikas"
     ],
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 04:04:53 GMT",
-    "checked_at": "2026-11-01T04:05:16.772773+00:00"
+    "last_modified": "Sun, 01 Nov 2026 10:51:42 GMT",
+    "checked_at": "2026-11-01T10:52:15.662995+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -57,8 +71,8 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 04:04:53 GMT",
-    "checked_at": "2026-11-01T04:05:17.129434+00:00"
+    "last_modified": "Sun, 01 Nov 2026 10:51:42 GMT",
+    "checked_at": "2026-11-01T10:52:16.152814+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -125,7 +139,7 @@
       "a:Myles Turner"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 04:04:53 GMT",
-    "checked_at": "2026-11-01T04:05:17.378945+00:00"
+    "last_modified": "Sun, 01 Nov 2026 10:51:42 GMT",
+    "checked_at": "2026-11-01T10:52:16.294234+00:00"
   }
 }
