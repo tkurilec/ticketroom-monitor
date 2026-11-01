@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 20:32:03 GMT",
-    "checked_at": "2026-11-01T20:32:14.389487+00:00"
+    "last_modified": "Sun, 01 Nov 2026 20:41:41 GMT",
+    "checked_at": "2026-11-01T20:42:13.011514+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "598c32073eca889112afd763afb1f81e2df169e566027b2679368d9e9fef64b6",
@@ -122,8 +122,8 @@
       "t:Lazio v Cagliari: Lazio under 2.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 20:32:03 GMT",
-    "checked_at": "2026-11-01T20:32:16.094175+00:00"
+    "last_modified": "Sun, 01 Nov 2026 20:41:41 GMT",
+    "checked_at": "2026-11-01T20:42:16.896809+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "f209ef779d2325daf39d747a978dab072783e3c79cf53527c0fb2c05c8b3ac00",
@@ -474,8 +474,8 @@
       "a:Tyler Allgeier"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 20:32:03 GMT",
-    "checked_at": "2026-11-01T20:32:16.620087+00:00"
+    "last_modified": "Sun, 01 Nov 2026 20:41:41 GMT",
+    "checked_at": "2026-11-01T20:42:18.401864+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "82af62eb0112c6e375faf36e4b7c3425058b2cc92ee4593e7b90129ef1382285",
@@ -534,9 +534,11 @@
       "|first basket|Wendell Carter Jr."
     ],
     "slate": "2026-11-01",
-    "hits": [],
+    "hits": [
+      "a:Wendell Carter Jr."
+    ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 20:32:03 GMT",
-    "checked_at": "2026-11-01T20:32:16.805214+00:00"
+    "last_modified": "Sun, 01 Nov 2026 20:41:41 GMT",
+    "checked_at": "2026-11-01T20:42:19.268337+00:00"
   }
 }
