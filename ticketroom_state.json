@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 16:42:14 GMT",
-    "checked_at": "2026-11-01T16:45:16.368627+00:00"
+    "last_modified": "Sun, 01 Nov 2026 16:51:48 GMT",
+    "checked_at": "2026-11-01T16:52:11.448276+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "241fa3a6f560a76040741f024fbbf57854c050cd217ca5ac8bf5fa5c524246de",
@@ -106,11 +106,11 @@
       "t:Lazio v Cagliari: Lazio under 2.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 16:42:14 GMT",
-    "checked_at": "2026-11-01T16:45:19.297945+00:00"
+    "last_modified": "Sun, 01 Nov 2026 16:51:48 GMT",
+    "checked_at": "2026-11-01T16:52:14.948399+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "2524f08bd3586e6322b426246e4f16cbbbe3a49927d06c5eb111c3bd1090f2dd",
+    "hash": "35564100dddc9a0061da7ce9cd641e9bb289c37587174ac599244df81dcd2862",
     "confirmed": [
       {
         "name": "Audible",
@@ -275,16 +275,6 @@
         }
       },
       {
-        "name": "Stiff Arm",
-        "legs": [
-          "Mitchell Tinsley"
-        ],
-        "rr": false,
-        "info": {
-          "Mitchell Tinsley": "Bengals vs Titans \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
-        }
-      },
-      {
         "name": "The Checkdown",
         "legs": [
           "Jonathan Taylor"
@@ -416,8 +406,8 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 16:42:14 GMT",
-    "checked_at": "2026-11-01T16:45:22.664874+00:00"
+    "last_modified": "Sun, 01 Nov 2026 16:51:48 GMT",
+    "checked_at": "2026-11-01T16:52:15.327446+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -427,7 +417,7 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 16:42:14 GMT",
-    "checked_at": "2026-11-01T16:45:22.946929+00:00"
+    "last_modified": "Sun, 01 Nov 2026 16:51:48 GMT",
+    "checked_at": "2026-11-01T16:52:15.748122+00:00"
   }
 }
