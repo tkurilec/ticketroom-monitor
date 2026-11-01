@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 19:56:56 GMT",
-    "checked_at": "2026-11-01T20:00:22.202550+00:00"
+    "last_modified": "Sun, 01 Nov 2026 20:02:31 GMT",
+    "checked_at": "2026-11-01T20:03:10.124972+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "598c32073eca889112afd763afb1f81e2df169e566027b2679368d9e9fef64b6",
@@ -122,11 +122,11 @@
       "t:Lazio v Cagliari: Lazio under 2.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 19:56:56 GMT",
-    "checked_at": "2026-11-01T20:00:23.918216+00:00"
+    "last_modified": "Sun, 01 Nov 2026 20:02:31 GMT",
+    "checked_at": "2026-11-01T20:03:12.335535+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "b8cb929aac8400af470eadde4a7d88293f8bc1d0b0fbc351ec9d041d0d50f114",
+    "hash": "d072e1d9721806db822c63f4fff4d3a3f02081bb896271ea5d1d500611c9c12a",
     "confirmed": [
       {
         "name": "Audible",
@@ -268,6 +268,16 @@
         "rr": false,
         "info": {
           "Amon-Ra St. Brown": "Lions vs Vikings \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "Screen Pass",
+        "legs": [
+          "Kevin Coleman Jr."
+        ],
+        "rr": false,
+        "info": {
+          "Kevin Coleman Jr.": "Dolphins vs Patriots \u00b7 Sun Nov 1 \u00b7 4:25 PM ET"
         }
       },
       {
@@ -420,6 +430,9 @@
       ],
       "The Sneak": [
         "Omarion Hampton"
+      ],
+      "Screen Pass": [
+        "Kevin Coleman Jr."
       ]
     },
     "abets": [
@@ -438,6 +451,7 @@
       "|anytime touchdown|Jonathan Taylor",
       "|anytime touchdown|Josh Cuevas",
       "|anytime touchdown|Keon Coleman",
+      "|anytime touchdown|Kevin Coleman Jr.",
       "|anytime touchdown|Kyren Williams",
       "|anytime touchdown|Mason Taylor",
       "|anytime touchdown|Mitchell Tinsley",
@@ -454,8 +468,8 @@
       "a:Rico Dowdle"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 19:56:56 GMT",
-    "checked_at": "2026-11-01T20:00:24.844216+00:00"
+    "last_modified": "Sun, 01 Nov 2026 20:02:31 GMT",
+    "checked_at": "2026-11-01T20:03:14.630833+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -465,7 +479,7 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 19:56:56 GMT",
-    "checked_at": "2026-11-01T20:00:24.998979+00:00"
+    "last_modified": "Sun, 01 Nov 2026 20:02:31 GMT",
+    "checked_at": "2026-11-01T20:03:14.731197+00:00"
   }
 }
