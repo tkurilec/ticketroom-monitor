@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 20:02:31 GMT",
-    "checked_at": "2026-11-01T20:03:10.124972+00:00"
+    "last_modified": "Sun, 01 Nov 2026 20:06:28 GMT",
+    "checked_at": "2026-11-01T20:07:10.435099+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "598c32073eca889112afd763afb1f81e2df169e566027b2679368d9e9fef64b6",
@@ -122,8 +122,8 @@
       "t:Lazio v Cagliari: Lazio under 2.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 20:02:31 GMT",
-    "checked_at": "2026-11-01T20:03:12.335535+00:00"
+    "last_modified": "Sun, 01 Nov 2026 20:06:28 GMT",
+    "checked_at": "2026-11-01T20:07:13.798473+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "d072e1d9721806db822c63f4fff4d3a3f02081bb896271ea5d1d500611c9c12a",
@@ -468,18 +468,69 @@
       "a:Rico Dowdle"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 20:02:31 GMT",
-    "checked_at": "2026-11-01T20:03:14.630833+00:00"
+    "last_modified": "Sun, 01 Nov 2026 20:06:28 GMT",
+    "checked_at": "2026-11-01T20:07:15.369393+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "82af62eb0112c6e375faf36e4b7c3425058b2cc92ee4593e7b90129ef1382285",
+    "confirmed": [
+      {
+        "name": "Bucket One",
+        "legs": [
+          "Wendell Carter Jr."
+        ],
+        "rr": false,
+        "info": {
+          "Wendell Carter Jr.": "Magic vs Celtics \u00b7 Sun Nov 1 \u00b7 3:30 PM ET"
+        },
+        "units": 0.3,
+        "group": "1"
+      },
+      {
+        "name": "The Opener",
+        "legs": [
+          "Derrick White"
+        ],
+        "rr": false,
+        "info": {
+          "Derrick White": "Celtics vs Magic \u00b7 Sun Nov 1 \u00b7 3:30 PM ET"
+        },
+        "units": 0.2,
+        "group": "1"
+      },
+      {
+        "name": "Tip Drill",
+        "legs": [
+          "Jase Richardson"
+        ],
+        "rr": false,
+        "info": {
+          "Jase Richardson": "Magic vs Celtics \u00b7 Sun Nov 1 \u00b7 3:30 PM ET"
+        },
+        "units": 0.1,
+        "group": "1"
+      }
+    ],
+    "announced": {
+      "Bucket One": [
+        "Wendell Carter Jr."
+      ],
+      "The Opener": [
+        "Derrick White"
+      ],
+      "Tip Drill": [
+        "Jase Richardson"
+      ]
+    },
+    "abets": [
+      "|first basket|Derrick White",
+      "|first basket|Jase Richardson",
+      "|first basket|Wendell Carter Jr."
+    ],
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 20:02:31 GMT",
-    "checked_at": "2026-11-01T20:03:14.731197+00:00"
+    "last_modified": "Sun, 01 Nov 2026 20:06:28 GMT",
+    "checked_at": "2026-11-01T20:07:17.166569+00:00"
   }
 }
