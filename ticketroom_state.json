@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 15:46:35 GMT",
-    "checked_at": "2026-11-01T15:47:09.914527+00:00"
+    "last_modified": "Sun, 01 Nov 2026 15:56:26 GMT",
+    "checked_at": "2026-11-01T15:59:11.480843+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "241fa3a6f560a76040741f024fbbf57854c050cd217ca5ac8bf5fa5c524246de",
@@ -102,11 +102,12 @@
     "slate": "2026-11-01",
     "hits": [
       "a:Kylian Mbappe",
-      "t:Getafe v Sevilla: Sevilla to score"
+      "t:Getafe v Sevilla: Sevilla to score",
+      "t:Lazio v Cagliari: Lazio under 2.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 15:46:35 GMT",
-    "checked_at": "2026-11-01T15:47:15.072730+00:00"
+    "last_modified": "Sun, 01 Nov 2026 15:56:26 GMT",
+    "checked_at": "2026-11-01T15:59:13.180550+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -116,8 +117,8 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 15:46:35 GMT",
-    "checked_at": "2026-11-01T15:47:15.371668+00:00"
+    "last_modified": "Sun, 01 Nov 2026 15:56:26 GMT",
+    "checked_at": "2026-11-01T15:59:13.330061+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -127,7 +128,7 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 15:46:35 GMT",
-    "checked_at": "2026-11-01T15:47:15.564670+00:00"
+    "last_modified": "Sun, 01 Nov 2026 15:56:26 GMT",
+    "checked_at": "2026-11-01T15:59:13.496527+00:00"
   }
 }
