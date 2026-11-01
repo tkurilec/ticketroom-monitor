@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Sun, 01 Nov 2026 16:42:14 GMT",
-    "checked_at": "2026-11-01T16:43:09.864413+00:00"
+    "checked_at": "2026-11-01T16:45:16.368627+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "241fa3a6f560a76040741f024fbbf57854c050cd217ca5ac8bf5fa5c524246de",
@@ -107,10 +107,10 @@
     ],
     "ltd": null,
     "last_modified": "Sun, 01 Nov 2026 16:42:14 GMT",
-    "checked_at": "2026-11-01T16:43:12.315213+00:00"
+    "checked_at": "2026-11-01T16:45:19.297945+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "7cb82aa5c011fb7c5b5b15048c00c0ad2d4ab3ade5dc6164abadf50bfbc5023c",
+    "hash": "2524f08bd3586e6322b426246e4f16cbbbe3a49927d06c5eb111c3bd1090f2dd",
     "confirmed": [
       {
         "name": "Audible",
@@ -123,6 +123,68 @@
         }
       },
       {
+        "name": "Back Shoulder",
+        "legs": [
+          "Mason Taylor"
+        ],
+        "rr": false,
+        "info": {
+          "Mason Taylor": "Jets vs Raiders \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "First Read",
+        "legs": [
+          "Aaron Jones"
+        ],
+        "rr": false,
+        "info": {
+          "Aaron Jones": "Vikings vs Lions \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "First on the Board",
+        "legs": [
+          "Derrick Henry"
+        ],
+        "rr": false,
+        "info": {
+          "Derrick Henry": "Ravens vs Bills \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
+        },
+        "market": "first touchdown scorer",
+        "kind": "ftd"
+      },
+      {
+        "name": "Goal Line Back",
+        "legs": [
+          "Bhayshul Tuten"
+        ],
+        "rr": false,
+        "info": {
+          "Bhayshul Tuten": "Jaguars vs Colts \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "Hard Count",
+        "legs": [
+          "Jakobi Meyers"
+        ],
+        "rr": false,
+        "info": {
+          "Jakobi Meyers": "Jaguars vs Colts \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "Hurry Up",
+        "legs": [
+          "Chris Rodriguez Jr."
+        ],
+        "rr": false,
+        "info": {
+          "Chris Rodriguez Jr.": "Jaguars vs Colts \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
+        }
+      },
+      {
         "name": "Inside the Ten",
         "legs": [
           "Sam LaPorta"
@@ -130,6 +192,36 @@
         "rr": false,
         "info": {
           "Sam LaPorta": "Lions vs Vikings \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "Jump Ball",
+        "legs": [
+          "Reggie Virgil"
+        ],
+        "rr": false,
+        "info": {
+          "Reggie Virgil": "Cardinals vs Cowboys \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "Move the Chains",
+        "legs": [
+          "Jeremiyah Love"
+        ],
+        "rr": false,
+        "info": {
+          "Jeremiyah Love": "Cardinals vs Cowboys \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "Post Corner",
+        "legs": [
+          "Tyler Allgeier"
+        ],
+        "rr": false,
+        "info": {
+          "Tyler Allgeier": "Cardinals vs Cowboys \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
         }
       },
       {
@@ -153,6 +245,46 @@
         }
       },
       {
+        "name": "Seam Route",
+        "legs": [
+          "Bam Knight"
+        ],
+        "rr": false,
+        "info": {
+          "Bam Knight": "Cardinals vs Cowboys \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "Short Yardage",
+        "legs": [
+          "Ashton Jeanty"
+        ],
+        "rr": false,
+        "info": {
+          "Ashton Jeanty": "Raiders vs Jets \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "Spin Move",
+        "legs": [
+          "Josh Cuevas"
+        ],
+        "rr": false,
+        "info": {
+          "Josh Cuevas": "Ravens vs Bills \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "Stiff Arm",
+        "legs": [
+          "Mitchell Tinsley"
+        ],
+        "rr": false,
+        "info": {
+          "Mitchell Tinsley": "Bengals vs Titans \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
+        }
+      },
+      {
         "name": "The Checkdown",
         "legs": [
           "Jonathan Taylor"
@@ -170,6 +302,16 @@
         "rr": false,
         "info": {
           "James Cook": "Bills vs Ravens \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
+        }
+      },
+      {
+        "name": "Toe Tap",
+        "legs": [
+          "Jauan Jennings"
+        ],
+        "rr": false,
+        "info": {
+          "Jauan Jennings": "Vikings vs Lions \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
         }
       },
       {
@@ -204,22 +346,78 @@
       ],
       "Wheel Route": [
         "Keon Coleman"
+      ],
+      "Back Shoulder": [
+        "Mason Taylor"
+      ],
+      "First Read": [
+        "Aaron Jones"
+      ],
+      "First on the Board": [
+        "Derrick Henry"
+      ],
+      "Goal Line Back": [
+        "Bhayshul Tuten"
+      ],
+      "Hard Count": [
+        "Jakobi Meyers"
+      ],
+      "Hurry Up": [
+        "Chris Rodriguez Jr."
+      ],
+      "Jump Ball": [
+        "Reggie Virgil"
+      ],
+      "Move the Chains": [
+        "Jeremiyah Love"
+      ],
+      "Post Corner": [
+        "Tyler Allgeier"
+      ],
+      "Seam Route": [
+        "Bam Knight"
+      ],
+      "Short Yardage": [
+        "Ashton Jeanty"
+      ],
+      "Spin Move": [
+        "Josh Cuevas"
+      ],
+      "Stiff Arm": [
+        "Mitchell Tinsley"
+      ],
+      "Toe Tap": [
+        "Jauan Jennings"
       ]
     },
     "abets": [
+      "ftd|first touchdown scorer|Derrick Henry",
+      "|anytime touchdown|Aaron Jones",
       "|anytime touchdown|Amon-Ra St. Brown",
+      "|anytime touchdown|Ashton Jeanty",
+      "|anytime touchdown|Bam Knight",
+      "|anytime touchdown|Bhayshul Tuten",
+      "|anytime touchdown|Chris Rodriguez Jr.",
+      "|anytime touchdown|Jakobi Meyers",
       "|anytime touchdown|James Cook",
       "|anytime touchdown|Jameson Williams",
+      "|anytime touchdown|Jauan Jennings",
+      "|anytime touchdown|Jeremiyah Love",
       "|anytime touchdown|Jonathan Taylor",
+      "|anytime touchdown|Josh Cuevas",
       "|anytime touchdown|Keon Coleman",
+      "|anytime touchdown|Mason Taylor",
+      "|anytime touchdown|Mitchell Tinsley",
+      "|anytime touchdown|Reggie Virgil",
       "|anytime touchdown|Rico Dowdle",
-      "|anytime touchdown|Sam LaPorta"
+      "|anytime touchdown|Sam LaPorta",
+      "|anytime touchdown|Tyler Allgeier"
     ],
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
     "last_modified": "Sun, 01 Nov 2026 16:42:14 GMT",
-    "checked_at": "2026-11-01T16:43:14.052799+00:00"
+    "checked_at": "2026-11-01T16:45:22.664874+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -230,6 +428,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Sun, 01 Nov 2026 16:42:14 GMT",
-    "checked_at": "2026-11-01T16:43:14.404893+00:00"
+    "checked_at": "2026-11-01T16:45:22.946929+00:00"
   }
 }
