@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 17:56:54 GMT",
-    "checked_at": "2026-11-01T18:00:20.632870+00:00"
+    "last_modified": "Sun, 01 Nov 2026 18:21:22 GMT",
+    "checked_at": "2026-11-01T18:24:13.455407+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "241fa3a6f560a76040741f024fbbf57854c050cd217ca5ac8bf5fa5c524246de",
@@ -107,8 +107,8 @@
       "t:Lazio v Cagliari: Lazio under 2.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 17:56:54 GMT",
-    "checked_at": "2026-11-01T18:00:22.531198+00:00"
+    "last_modified": "Sun, 01 Nov 2026 18:21:22 GMT",
+    "checked_at": "2026-11-01T18:24:15.817571+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "35564100dddc9a0061da7ce9cd641e9bb289c37587174ac599244df81dcd2862",
@@ -405,10 +405,12 @@
       "|anytime touchdown|Tyler Allgeier"
     ],
     "slate": "2026-11-01",
-    "hits": [],
+    "hits": [
+      "a:Rico Dowdle"
+    ],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 17:56:54 GMT",
-    "checked_at": "2026-11-01T18:00:22.834128+00:00"
+    "last_modified": "Sun, 01 Nov 2026 18:21:22 GMT",
+    "checked_at": "2026-11-01T18:24:16.983479+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -418,7 +420,7 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 01 Nov 2026 17:56:54 GMT",
-    "checked_at": "2026-11-01T18:00:23.101630+00:00"
+    "last_modified": "Sun, 01 Nov 2026 18:21:22 GMT",
+    "checked_at": "2026-11-01T18:24:17.235778+00:00"
   }
 }
