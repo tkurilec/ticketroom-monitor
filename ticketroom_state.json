@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 23:36:43 GMT",
-    "checked_at": "2026-10-31T23:37:10.569219+00:00"
+    "last_modified": "Sun, 01 Nov 2026 00:11:41 GMT",
+    "checked_at": "2026-11-01T00:12:12.171496+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "5a1864be2b1ff599c563dc1d65b4654efcfa6d8c3665c4694cc0ec2ddee14468",
@@ -237,8 +237,8 @@
       "t:FC Augsburg v SC Freiburg: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 23:36:43 GMT",
-    "checked_at": "2026-10-31T23:37:15.169004+00:00"
+    "last_modified": "Sun, 01 Nov 2026 00:11:41 GMT",
+    "checked_at": "2026-11-01T00:12:14.751020+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -248,8 +248,8 @@
     "slate": "2026-11-01",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 23:36:43 GMT",
-    "checked_at": "2026-10-31T23:37:15.484254+00:00"
+    "last_modified": "Sun, 01 Nov 2026 00:11:41 GMT",
+    "checked_at": "2026-11-01T00:12:15.014639+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e07126fd8d187ecc694f09ec1ec391d0a83e239f3a142990d2cff30dbb57e77c",
@@ -468,9 +468,11 @@
       "|first basket|Precious Achiuwa"
     ],
     "slate": "2026-10-31",
-    "hits": [],
+    "hits": [
+      "a:Myles Turner"
+    ],
     "ltd": null,
-    "last_modified": "Sat, 31 Oct 2026 23:36:43 GMT",
-    "checked_at": "2026-10-31T23:37:17.373342+00:00"
+    "last_modified": "Sun, 01 Nov 2026 00:11:41 GMT",
+    "checked_at": "2026-11-01T00:12:15.774686+00:00"
   }
 }
