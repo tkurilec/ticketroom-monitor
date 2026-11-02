@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 04:56:49 GMT",
-    "checked_at": "2026-11-02T05:00:21.042456+00:00"
+    "last_modified": "Mon, 02 Nov 2026 05:22:00 GMT",
+    "checked_at": "2026-11-02T05:22:12.104252+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -72,130 +72,19 @@
       "t:Portland Timbers v Houston Dynamo FC: Houston Dynamo FC under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 04:56:49 GMT",
-    "checked_at": "2026-11-02T05:00:21.700393+00:00"
+    "last_modified": "Mon, 02 Nov 2026 05:22:00 GMT",
+    "checked_at": "2026-11-02T05:22:12.281267+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Audible": [
-        "Jameson Williams"
-      ],
-      "Inside the Ten": [
-        "Sam LaPorta"
-      ],
-      "Quick Slant": [
-        "Rico Dowdle"
-      ],
-      "Red Zone Target": [
-        "Amon-Ra St. Brown"
-      ],
-      "The Checkdown": [
-        "Jonathan Taylor"
-      ],
-      "The Workhorse": [
-        "James Cook"
-      ],
-      "Wheel Route": [
-        "Keon Coleman"
-      ],
-      "Back Shoulder": [
-        "Mason Taylor"
-      ],
-      "First Read": [
-        "Aaron Jones"
-      ],
-      "First on the Board": [
-        "Derrick Henry"
-      ],
-      "Goal Line Back": [
-        "Bhayshul Tuten"
-      ],
-      "Hard Count": [
-        "Jakobi Meyers"
-      ],
-      "Hurry Up": [
-        "Chris Rodriguez Jr."
-      ],
-      "Jump Ball": [
-        "Reggie Virgil"
-      ],
-      "Move the Chains": [
-        "Jeremiyah Love"
-      ],
-      "Post Corner": [
-        "Tyler Allgeier"
-      ],
-      "Seam Route": [
-        "Bam Knight"
-      ],
-      "Short Yardage": [
-        "Ashton Jeanty"
-      ],
-      "Spin Move": [
-        "Josh Cuevas"
-      ],
-      "Stiff Arm": [
-        "Mitchell Tinsley"
-      ],
-      "Toe Tap": [
-        "Jauan Jennings"
-      ],
-      "Bell Cow": [
-        "Kyren Williams"
-      ],
-      "The Sneak": [
-        "Omarion Hampton"
-      ],
-      "Screen Pass": [
-        "Kevin Coleman Jr."
-      ],
-      "Two Minute Drill": [
-        "J.K. Dobbins"
-      ]
-    },
-    "abets": [
-      "ftd|first touchdown scorer|Derrick Henry",
-      "|anytime touchdown|Aaron Jones",
-      "|anytime touchdown|Amon-Ra St. Brown",
-      "|anytime touchdown|Ashton Jeanty",
-      "|anytime touchdown|Bam Knight",
-      "|anytime touchdown|Bhayshul Tuten",
-      "|anytime touchdown|Chris Rodriguez Jr.",
-      "|anytime touchdown|J.K. Dobbins",
-      "|anytime touchdown|Jakobi Meyers",
-      "|anytime touchdown|James Cook",
-      "|anytime touchdown|Jameson Williams",
-      "|anytime touchdown|Jauan Jennings",
-      "|anytime touchdown|Jeremiyah Love",
-      "|anytime touchdown|Jonathan Taylor",
-      "|anytime touchdown|Josh Cuevas",
-      "|anytime touchdown|Keon Coleman",
-      "|anytime touchdown|Kevin Coleman Jr.",
-      "|anytime touchdown|Kyren Williams",
-      "|anytime touchdown|Mason Taylor",
-      "|anytime touchdown|Mitchell Tinsley",
-      "|anytime touchdown|Omarion Hampton",
-      "|anytime touchdown|Reggie Virgil",
-      "|anytime touchdown|Rico Dowdle",
-      "|anytime touchdown|Sam LaPorta",
-      "|anytime touchdown|Tyler Allgeier"
-    ],
-    "slate": null,
-    "hits": [
-      "a:Bhayshul Tuten",
-      "a:Chris Rodriguez Jr.",
-      "a:James Cook",
-      "a:Jameson Williams",
-      "a:Kevin Coleman Jr.",
-      "a:Kyren Williams",
-      "a:Rico Dowdle",
-      "a:Tyler Allgeier"
-    ],
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-02",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 04:56:49 GMT",
-    "checked_at": "2026-11-02T05:00:21.784885+00:00"
+    "last_modified": "Mon, 02 Nov 2026 05:22:00 GMT",
+    "checked_at": "2026-11-02T05:22:12.379259+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -242,7 +131,7 @@
       "a:Wendell Carter Jr."
     ],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 04:56:49 GMT",
-    "checked_at": "2026-11-02T05:00:21.913505+00:00"
+    "last_modified": "Mon, 02 Nov 2026 05:22:00 GMT",
+    "checked_at": "2026-11-02T05:22:12.453790+00:00"
   }
 }
