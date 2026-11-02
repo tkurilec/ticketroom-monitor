@@ -10,6 +10,9 @@ on:
       test_board:
         description: "Board to test-post (e.g. NBA Board)"
         required: false
+      recap_date:
+        description: "Post the results recap for this date (YYYY-MM-DD) as a test"
+        required: false
 
 permissions:
   contents: write
@@ -35,9 +38,12 @@ jobs:
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
           TEST_BOARD: ${{ github.event.inputs.test_board }}
+          RECAP_DATE: ${{ github.event.inputs.recap_date }}
         run: |
           if [ -n "$TEST_BOARD" ]; then
             python ticketroom_monitor.py --test-board "$TEST_BOARD"
+          elif [ -n "$RECAP_DATE" ]; then
+            python ticketroom_monitor.py --recap "$RECAP_DATE"
           else
             python ticketroom_monitor.py --once
           fi

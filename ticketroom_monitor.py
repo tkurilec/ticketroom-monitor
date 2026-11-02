@@ -1487,15 +1487,40 @@ def test_board(name: str) -> int:
     return 0
 
 
+def recap_for_date(date_str: str) -> int:
+    """Post the results recap for a given slate date, from the ledger as-is,
+    marked TEST. State and recap_sent are untouched, so the normal 7 AM
+    recap still runs."""
+    webhook = os.environ.get("DISCORD_WEBHOOK")
+    results = load_results()
+    state = load_state()
+    fields, total_pl, record, unknown, _ = build_recap(results, date_str, state)
+    if not fields:
+        print(f"No tickets logged for {date_str}")
+        return 1
+    try:
+        d = datetime.strptime(date_str, "%Y-%m-%d")
+        label = f"{d.strftime('%a %b')} {d.day}"
+    except ValueError:
+        label = date_str
+    notify_recap(webhook, f"{label} (TEST)", fields, total_pl, record, unknown)
+    return 0
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Monitor theticketroom.live for changes")
     parser.add_argument("--once", action="store_true", help="run a single check and exit")
     parser.add_argument("--test-board", metavar="NAME",
                         help="post a board's current tickets as a format test")
+    parser.add_argument("--recap", metavar="DATE",
+                        help="post the results recap for DATE (YYYY-MM-DD) "
+                             "as a test, from the ledger as-is")
     args = parser.parse_args()
 
     if args.test_board:
         return test_board(args.test_board)
+    if args.recap:
+        return recap_for_date(args.recap)
     if args.once:
         check_all()
         return 0
