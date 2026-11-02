@@ -7,122 +7,12 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 04:47:02 GMT",
-    "checked_at": "2026-11-02T04:56:12.963839+00:00"
+    "last_modified": "Mon, 02 Nov 2026 04:56:49 GMT",
+    "checked_at": "2026-11-02T05:00:21.042456+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "33dc23e870b42273b99c44fac9d64927c2ee98f9d3b09fc08d512624554c9631",
-    "confirmed": [
-      {
-        "name": "Back Post",
-        "legs": [
-          "Anastasios Douvikas"
-        ],
-        "rr": false,
-        "info": {
-          "Anastasios Douvikas": "Como vs Venezia \u00b7 Sun Nov 1 \u00b7 6:30 AM ET"
-        }
-      },
-      {
-        "name": "Big Game Player",
-        "legs": [
-          "Lionel Messi"
-        ],
-        "rr": false,
-        "info": {
-          "Lionel Messi": "Inter Miami CF vs New England Revolution \u00b7 Sun Nov 1 \u00b7 7:00 PM ET"
-        },
-        "units": 2
-      },
-      {
-        "name": "Far Post",
-        "legs": [
-          "Hany Mukhtar"
-        ],
-        "rr": false,
-        "info": {
-          "Hany Mukhtar": "Nashville SC vs Red Bull New York \u00b7 Sun Nov 1 \u00b7 4:30 PM ET"
-        }
-      },
-      {
-        "name": "First Time",
-        "legs": [
-          "Younes Ebnoutalib"
-        ],
-        "rr": false,
-        "info": {
-          "Younes Ebnoutalib": "Eintracht Frankfurt vs Hamburg SV \u00b7 Sun Nov 1 \u00b7 11:30 AM ET"
-        }
-      },
-      {
-        "name": "Gets Across",
-        "legs": [
-          "Nicolas Paz Martinez"
-        ],
-        "rr": false,
-        "info": {
-          "Nicolas Paz Martinez": "Como v Venezia \u00b7 Sun Nov 1 \u00b7 6:30 AM ET"
-        }
-      },
-      {
-        "name": "Near Post",
-        "legs": [
-          "Lionel Messi"
-        ],
-        "rr": false,
-        "info": {
-          "Lionel Messi": "Inter Miami CF vs New England Revolution \u00b7 Sun Nov 1 \u00b7 7:00 PM ET"
-        }
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Sam Surridge"
-        ],
-        "rr": false,
-        "info": {
-          "Sam Surridge": "Nashville SC vs Red Bull New York \u00b7 Sun Nov 1 \u00b7 4:30 PM ET"
-        }
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Kylian Mbappe"
-        ],
-        "rr": false,
-        "info": {
-          "Kylian Mbappe": "Real Madrid vs Racing Santander \u00b7 Sun Nov 1 \u00b7 10:15 AM ET"
-        }
-      },
-      {
-        "name": "The Nine",
-        "legs": [
-          "Brian White"
-        ],
-        "rr": false,
-        "info": {
-          "Brian White": "Vancouver Whitecaps vs Seattle Sounders FC \u00b7 Sun Nov 1 \u00b7 3:30 PM ET"
-        }
-      },
-      {
-        "name": "The Ninety",
-        "legs": [
-          "Eintracht Frankfurt v Hamburg SV: Hamburg SV under 1.5 goals",
-          "Getafe v Sevilla: Sevilla to score",
-          "Lazio v Cagliari: Lazio under 2.5 goals",
-          "Portland Timbers v Houston Dynamo FC: Houston Dynamo FC under 1.5 goals"
-        ],
-        "rr": false,
-        "market": "",
-        "kind": "totals",
-        "info": {
-          "Lazio v Cagliari: Lazio under 2.5 goals": "Sun Nov 1 \u00b7 9:00 AM ET",
-          "Getafe v Sevilla: Sevilla to score": "Sun Nov 1 \u00b7 8:00 AM ET",
-          "Eintracht Frankfurt v Hamburg SV: Hamburg SV under 1.5 goals": "Sun Nov 1 \u00b7 11:30 AM ET",
-          "Portland Timbers v Houston Dynamo FC: Houston Dynamo FC under 1.5 goals": "Sun Nov 1 \u00b7 9:45 PM ET"
-        }
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "The Ninety": [
         "Eintracht Frankfurt v Hamburg SV: Hamburg SV under 1.5 goals",
@@ -169,7 +59,7 @@
       "|anytime goalscorer|Sam Surridge",
       "|anytime goalscorer|Younes Ebnoutalib"
     ],
-    "slate": "2026-11-01",
+    "slate": null,
     "hits": [
       "a:Brian White",
       "a:Kylian Mbappe",
@@ -182,235 +72,12 @@
       "t:Portland Timbers v Houston Dynamo FC: Houston Dynamo FC under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 04:47:02 GMT",
-    "checked_at": "2026-11-02T04:56:15.329185+00:00"
+    "last_modified": "Mon, 02 Nov 2026 04:56:49 GMT",
+    "checked_at": "2026-11-02T05:00:21.700393+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "1eb5b44e55a0f577540adeefeb813cf10b73cff477f17c9fa06bdb6de0d20b22",
-    "confirmed": [
-      {
-        "name": "Audible",
-        "legs": [
-          "Jameson Williams"
-        ],
-        "rr": false,
-        "info": {
-          "Jameson Williams": "Lions vs Vikings \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
-        }
-      },
-      {
-        "name": "Back Shoulder",
-        "legs": [
-          "Mason Taylor"
-        ],
-        "rr": false,
-        "info": {
-          "Mason Taylor": "Jets vs Raiders \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
-        }
-      },
-      {
-        "name": "Bell Cow",
-        "legs": [
-          "Kyren Williams"
-        ],
-        "rr": false,
-        "info": {
-          "Kyren Williams": "Rams vs Chargers \u00b7 Sun Nov 1 \u00b7 4:05 PM ET"
-        }
-      },
-      {
-        "name": "First Read",
-        "legs": [
-          "Aaron Jones"
-        ],
-        "rr": false,
-        "info": {
-          "Aaron Jones": "Vikings vs Lions \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
-        }
-      },
-      {
-        "name": "First on the Board",
-        "legs": [
-          "Derrick Henry"
-        ],
-        "rr": false,
-        "info": {
-          "Derrick Henry": "Ravens vs Bills \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
-        },
-        "market": "first touchdown scorer",
-        "kind": "ftd"
-      },
-      {
-        "name": "Goal Line Back",
-        "legs": [
-          "Bhayshul Tuten"
-        ],
-        "rr": false,
-        "info": {
-          "Bhayshul Tuten": "Jaguars vs Colts \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
-        }
-      },
-      {
-        "name": "Hard Count",
-        "legs": [
-          "Jakobi Meyers"
-        ],
-        "rr": false,
-        "info": {
-          "Jakobi Meyers": "Jaguars vs Colts \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
-        }
-      },
-      {
-        "name": "Hurry Up",
-        "legs": [
-          "Chris Rodriguez Jr."
-        ],
-        "rr": false,
-        "info": {
-          "Chris Rodriguez Jr.": "Jaguars vs Colts \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
-        }
-      },
-      {
-        "name": "Inside the Ten",
-        "legs": [
-          "Sam LaPorta"
-        ],
-        "rr": false,
-        "info": {
-          "Sam LaPorta": "Lions vs Vikings \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
-        }
-      },
-      {
-        "name": "Jump Ball",
-        "legs": [
-          "Reggie Virgil"
-        ],
-        "rr": false,
-        "info": {
-          "Reggie Virgil": "Cardinals vs Cowboys \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
-        }
-      },
-      {
-        "name": "Post Corner",
-        "legs": [
-          "Tyler Allgeier"
-        ],
-        "rr": false,
-        "info": {
-          "Tyler Allgeier": "Cardinals vs Cowboys \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
-        }
-      },
-      {
-        "name": "Quick Slant",
-        "legs": [
-          "Rico Dowdle"
-        ],
-        "rr": false,
-        "info": {
-          "Rico Dowdle": "Steelers vs Browns \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
-        }
-      },
-      {
-        "name": "Red Zone Target",
-        "legs": [
-          "Amon-Ra St. Brown"
-        ],
-        "rr": false,
-        "info": {
-          "Amon-Ra St. Brown": "Lions vs Vikings \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
-        }
-      },
-      {
-        "name": "Screen Pass",
-        "legs": [
-          "Kevin Coleman Jr."
-        ],
-        "rr": false,
-        "info": {
-          "Kevin Coleman Jr.": "Dolphins vs Patriots \u00b7 Sun Nov 1 \u00b7 4:25 PM ET"
-        }
-      },
-      {
-        "name": "Short Yardage",
-        "legs": [
-          "Ashton Jeanty"
-        ],
-        "rr": false,
-        "info": {
-          "Ashton Jeanty": "Raiders vs Jets \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
-        }
-      },
-      {
-        "name": "Spin Move",
-        "legs": [
-          "Josh Cuevas"
-        ],
-        "rr": false,
-        "info": {
-          "Josh Cuevas": "Ravens vs Bills \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
-        }
-      },
-      {
-        "name": "The Checkdown",
-        "legs": [
-          "Jonathan Taylor"
-        ],
-        "rr": false,
-        "info": {
-          "Jonathan Taylor": "Colts vs Jaguars \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
-        }
-      },
-      {
-        "name": "The Sneak",
-        "legs": [
-          "Omarion Hampton"
-        ],
-        "rr": false,
-        "info": {
-          "Omarion Hampton": "Chargers vs Rams \u00b7 Sun Nov 1 \u00b7 4:05 PM ET"
-        }
-      },
-      {
-        "name": "The Workhorse",
-        "legs": [
-          "James Cook"
-        ],
-        "rr": false,
-        "info": {
-          "James Cook": "Bills vs Ravens \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
-        }
-      },
-      {
-        "name": "Toe Tap",
-        "legs": [
-          "Jauan Jennings"
-        ],
-        "rr": false,
-        "info": {
-          "Jauan Jennings": "Vikings vs Lions \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
-        }
-      },
-      {
-        "name": "Two Minute Drill",
-        "legs": [
-          "J.K. Dobbins"
-        ],
-        "rr": false,
-        "info": {
-          "J.K. Dobbins": "Broncos vs Chiefs \u00b7 Sun Nov 1 \u00b7 4:25 PM ET"
-        }
-      },
-      {
-        "name": "Wheel Route",
-        "legs": [
-          "Keon Coleman"
-        ],
-        "rr": false,
-        "info": {
-          "Keon Coleman": "Bills vs Ravens \u00b7 Sun Nov 1 \u00b7 1:00 PM ET"
-        }
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Audible": [
         "Jameson Williams"
@@ -515,7 +182,7 @@
       "|anytime touchdown|Sam LaPorta",
       "|anytime touchdown|Tyler Allgeier"
     ],
-    "slate": "2026-11-01",
+    "slate": null,
     "hits": [
       "a:Bhayshul Tuten",
       "a:Chris Rodriguez Jr.",
@@ -527,97 +194,12 @@
       "a:Tyler Allgeier"
     ],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 04:47:02 GMT",
-    "checked_at": "2026-11-02T04:56:16.646174+00:00"
+    "last_modified": "Mon, 02 Nov 2026 04:56:49 GMT",
+    "checked_at": "2026-11-02T05:00:21.784885+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "d8a6c2a3044d7fc9d1e8214e5a68635703469364c36eccfe04e7da024ebcd061",
-    "confirmed": [
-      {
-        "name": "Break the Seal",
-        "legs": [
-          "Day'Ron Sharpe"
-        ],
-        "rr": false,
-        "info": {
-          "Day'Ron Sharpe": "Nets vs Pacers \u00b7 Sun Nov 1 \u00b7 5:00 PM ET"
-        },
-        "units": 0.3,
-        "group": "2"
-      },
-      {
-        "name": "Bucket One",
-        "legs": [
-          "Wendell Carter Jr."
-        ],
-        "rr": false,
-        "info": {
-          "Wendell Carter Jr.": "Magic vs Celtics \u00b7 Sun Nov 1 \u00b7 3:30 PM ET"
-        },
-        "units": 0.3,
-        "group": "1"
-      },
-      {
-        "name": "First Points",
-        "legs": [
-          "Jay Huff"
-        ],
-        "rr": false,
-        "info": {
-          "Jay Huff": "Pacers vs Nets \u00b7 Sun Nov 1 \u00b7 5:00 PM ET"
-        },
-        "units": 0.3,
-        "group": "2"
-      },
-      {
-        "name": "Get on the Board",
-        "legs": [
-          "Matisse Thybulle"
-        ],
-        "rr": false,
-        "info": {
-          "Matisse Thybulle": "Lakers vs Raptors \u00b7 Sun Nov 1 \u00b7 9:00 PM ET"
-        },
-        "units": 0.2,
-        "group": "4"
-      },
-      {
-        "name": "Open Floor",
-        "legs": [
-          "Isaiah Jackson"
-        ],
-        "rr": false,
-        "info": {
-          "Isaiah Jackson": "Clippers vs Warriors \u00b7 Sun Nov 1 \u00b7 8:30 PM ET"
-        },
-        "units": 0.6,
-        "group": "3"
-      },
-      {
-        "name": "The Opener",
-        "legs": [
-          "Derrick White"
-        ],
-        "rr": false,
-        "info": {
-          "Derrick White": "Celtics vs Magic \u00b7 Sun Nov 1 \u00b7 3:30 PM ET"
-        },
-        "units": 0.2,
-        "group": "1"
-      },
-      {
-        "name": "Tip Drill",
-        "legs": [
-          "Jase Richardson"
-        ],
-        "rr": false,
-        "info": {
-          "Jase Richardson": "Magic vs Celtics \u00b7 Sun Nov 1 \u00b7 3:30 PM ET"
-        },
-        "units": 0.1,
-        "group": "1"
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Bucket One": [
         "Wendell Carter Jr."
@@ -654,13 +236,13 @@
       "|first basket|Matisse Thybulle",
       "|first basket|Wendell Carter Jr."
     ],
-    "slate": "2026-11-01",
+    "slate": null,
     "hits": [
       "a:Day'Ron Sharpe",
       "a:Wendell Carter Jr."
     ],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 04:47:02 GMT",
-    "checked_at": "2026-11-02T04:56:17.059003+00:00"
+    "last_modified": "Mon, 02 Nov 2026 04:56:49 GMT",
+    "checked_at": "2026-11-02T05:00:21.913505+00:00"
   }
 }
