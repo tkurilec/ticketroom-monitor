@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 02:07:44 GMT",
-    "checked_at": "2026-11-02T02:09:11.607971+00:00"
+    "last_modified": "Mon, 02 Nov 2026 02:12:39 GMT",
+    "checked_at": "2026-11-02T02:18:13.020565+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "33dc23e870b42273b99c44fac9d64927c2ee98f9d3b09fc08d512624554c9631",
@@ -181,8 +181,8 @@
       "t:Lazio v Cagliari: Lazio under 2.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 02:07:44 GMT",
-    "checked_at": "2026-11-02T02:09:14.746364+00:00"
+    "last_modified": "Mon, 02 Nov 2026 02:12:39 GMT",
+    "checked_at": "2026-11-02T02:18:16.254596+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "1eb5b44e55a0f577540adeefeb813cf10b73cff477f17c9fa06bdb6de0d20b22",
@@ -526,11 +526,11 @@
       "a:Tyler Allgeier"
     ],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 02:07:44 GMT",
-    "checked_at": "2026-11-02T02:09:16.307126+00:00"
+    "last_modified": "Mon, 02 Nov 2026 02:18:13 GMT",
+    "checked_at": "2026-11-02T02:18:17.922628+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "4bc893fe1dec53fba94f6f52a7f4d6ff5406ec940f126a8e3725b62963b5e346",
+    "hash": "d8a6c2a3044d7fc9d1e8214e5a68635703469364c36eccfe04e7da024ebcd061",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -615,18 +615,6 @@
         },
         "units": 0.1,
         "group": "1"
-      },
-      {
-        "name": "Tip-Off Call",
-        "legs": [
-          "Jakob Poeltl"
-        ],
-        "rr": false,
-        "info": {
-          "Jakob Poeltl": "Raptors vs Lakers \u00b7 Sun Nov 1 \u00b7 9:00 PM ET"
-        },
-        "units": 0.4,
-        "group": "4"
       }
     ],
     "announced": {
@@ -671,7 +659,7 @@
       "a:Wendell Carter Jr."
     ],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 02:07:44 GMT",
-    "checked_at": "2026-11-02T02:09:16.677815+00:00"
+    "last_modified": "Mon, 02 Nov 2026 02:18:13 GMT",
+    "checked_at": "2026-11-02T02:18:18.739285+00:00"
   }
 }
