@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 23:37:20 GMT",
-    "checked_at": "2026-11-02T23:40:16.294061+00:00"
+    "last_modified": "Mon, 02 Nov 2026 23:56:58 GMT",
+    "checked_at": "2026-11-02T23:57:12.880533+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "d7c859d27cfcd481ffc804a289a972f9f2f95ae19a5b497b1443f66778aff976",
@@ -80,19 +80,109 @@
       "t:Sassuolo v Fiorentina: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 23:37:20 GMT",
-    "checked_at": "2026-11-02T23:40:16.800307+00:00"
+    "last_modified": "Mon, 02 Nov 2026 23:56:58 GMT",
+    "checked_at": "2026-11-02T23:57:14.442971+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "e7f20a528b91a7a1f890cd1d6a0c8ab13ac31ec786d6addfef403994b87b8bb3",
+    "confirmed": [
+      {
+        "name": "Bell Cow",
+        "legs": [
+          "Jadarian Price"
+        ],
+        "rr": false,
+        "info": {
+          "Jadarian Price": "Seahawks vs Bears \u00b7 Mon Nov 2 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Jadarian Price": 330
+        }
+      },
+      {
+        "name": "Goal Line Back",
+        "legs": [
+          "Nick Kallerup"
+        ],
+        "rr": false,
+        "info": {
+          "Nick Kallerup": "Seahawks vs Bears \u00b7 Mon Nov 2 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Nick Kallerup": 2800
+        }
+      },
+      {
+        "name": "Red Zone Target",
+        "legs": [
+          "Jahdae Walker"
+        ],
+        "rr": false,
+        "info": {
+          "Jahdae Walker": "Bears vs Seahawks \u00b7 Mon Nov 2 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Jahdae Walker": 1941
+        }
+      },
+      {
+        "name": "Strike First",
+        "legs": [
+          "Jaxon Smith-Njigba"
+        ],
+        "rr": false,
+        "info": {
+          "Jaxon Smith-Njigba": "Seahawks vs Bears \u00b7 Mon Nov 2 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Jaxon Smith-Njigba": 562
+        },
+        "market": "first touchdown scorer",
+        "kind": "ftd"
+      },
+      {
+        "name": "The Workhorse",
+        "legs": [
+          "Emanuel Wilson"
+        ],
+        "rr": false,
+        "info": {
+          "Emanuel Wilson": "Seahawks vs Bears \u00b7 Mon Nov 2 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Emanuel Wilson": 350
+        }
+      }
+    ],
+    "announced": {
+      "Bell Cow": [
+        "Jadarian Price"
+      ],
+      "Goal Line Back": [
+        "Nick Kallerup"
+      ],
+      "Red Zone Target": [
+        "Jahdae Walker"
+      ],
+      "Strike First": [
+        "Jaxon Smith-Njigba"
+      ],
+      "The Workhorse": [
+        "Emanuel Wilson"
+      ]
+    },
+    "abets": [
+      "ftd|first touchdown scorer|Jaxon Smith-Njigba",
+      "|anytime touchdown|Emanuel Wilson",
+      "|anytime touchdown|Jadarian Price",
+      "|anytime touchdown|Jahdae Walker",
+      "|anytime touchdown|Nick Kallerup"
+    ],
     "slate": "2026-11-02",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 23:37:20 GMT",
-    "checked_at": "2026-11-02T23:40:16.916862+00:00"
+    "last_modified": "Mon, 02 Nov 2026 23:56:58 GMT",
+    "checked_at": "2026-11-02T23:57:16.170530+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "a9b4f0585e264d0d9adbf17dfd999d8443259fa1b0ab0fef36c9cc61a516bede",
@@ -124,7 +214,7 @@
     "slate": "2026-11-02",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 23:37:20 GMT",
-    "checked_at": "2026-11-02T23:40:18.886011+00:00"
+    "last_modified": "Mon, 02 Nov 2026 23:56:58 GMT",
+    "checked_at": "2026-11-02T23:57:16.470910+00:00"
   }
 }

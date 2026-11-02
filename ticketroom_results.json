@@ -178,7 +178,78 @@
       }
     },
     "NFL Board": {
-      "2026-11-02": {},
+      "2026-11-02": {
+        "Bell Cow": {
+          "legs": [
+            "Jadarian Price"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jadarian Price": 330
+          },
+          "bkey": "|anytime touchdown|Jadarian Price",
+          "result": null,
+          "pl": null
+        },
+        "Goal Line Back": {
+          "legs": [
+            "Nick Kallerup"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Nick Kallerup": 2800
+          },
+          "bkey": "|anytime touchdown|Nick Kallerup",
+          "result": null,
+          "pl": null
+        },
+        "Red Zone Target": {
+          "legs": [
+            "Jahdae Walker"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jahdae Walker": 1941
+          },
+          "bkey": "|anytime touchdown|Jahdae Walker",
+          "result": null,
+          "pl": null
+        },
+        "Strike First": {
+          "legs": [
+            "Jaxon Smith-Njigba"
+          ],
+          "kind": "ftd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jaxon Smith-Njigba": 562
+          },
+          "bkey": "ftd|first touchdown scorer|Jaxon Smith-Njigba",
+          "result": null,
+          "pl": null
+        },
+        "The Workhorse": {
+          "legs": [
+            "Emanuel Wilson"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Emanuel Wilson": 350
+          },
+          "bkey": "|anytime touchdown|Emanuel Wilson",
+          "result": null,
+          "pl": null
+        }
+      },
       "2026-11-01": {
         "Audible": {
           "legs": [
