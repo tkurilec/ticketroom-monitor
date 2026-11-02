@@ -7,73 +7,41 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 05:22:00 GMT",
-    "checked_at": "2026-11-02T05:22:12.104252+00:00"
+    "last_modified": "Mon, 02 Nov 2026 10:07:08 GMT",
+    "checked_at": "2026-11-02T10:07:11.507481+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "5f59e69954ade050ea8c81f4b9a4e5bce8a1b390de50391a1bc64a39181b19ee",
+    "confirmed": [
+      {
+        "name": "The Net Count",
+        "legs": [
+          "Atalanta v Parma: Atalanta over 1.5 goals",
+          "Sassuolo v Fiorentina: Both teams to score"
+        ],
+        "rr": false,
+        "market": "",
+        "kind": "totals",
+        "info": {
+          "Sassuolo v Fiorentina: Both teams to score": "Mon Nov 2 \u00b7 12:30 PM ET",
+          "Atalanta v Parma: Atalanta over 1.5 goals": "Mon Nov 2 \u00b7 2:45 PM ET"
+        }
+      }
+    ],
     "announced": {
-      "The Ninety": [
-        "Eintracht Frankfurt v Hamburg SV: Hamburg SV under 1.5 goals",
-        "Getafe v Sevilla: Sevilla to score",
-        "Lazio v Cagliari: Lazio under 2.5 goals",
-        "Portland Timbers v Houston Dynamo FC: Houston Dynamo FC under 1.5 goals"
-      ],
-      "Back Post": [
-        "Anastasios Douvikas"
-      ],
-      "Gets Across": [
-        "Nicolas Paz Martinez"
-      ],
-      "Target Man": [
-        "Kylian Mbappe"
-      ],
-      "First Time": [
-        "Younes Ebnoutalib"
-      ],
-      "The Nine": [
-        "Brian White"
-      ],
-      "Far Post": [
-        "Hany Mukhtar"
-      ],
-      "Six-Yard Box": [
-        "Sam Surridge"
-      ],
-      "Big Game Player": [
-        "Lionel Messi"
-      ],
-      "Near Post": [
-        "Lionel Messi"
+      "The Net Count": [
+        "Atalanta v Parma: Atalanta over 1.5 goals",
+        "Sassuolo v Fiorentina: Both teams to score"
       ]
     },
     "abets": [
-      "totals||Eintracht Frankfurt v Hamburg SV: Hamburg SV under 1.5 goals,Getafe v Sevilla: Sevilla to score,Lazio v Cagliari: Lazio under 2.5 goals,Portland Timbers v Houston Dynamo FC: Houston Dynamo FC under 1.5 goals",
-      "|anytime goalscorer|Anastasios Douvikas",
-      "|anytime goalscorer|Brian White",
-      "|anytime goalscorer|Hany Mukhtar",
-      "|anytime goalscorer|Kylian Mbappe",
-      "|anytime goalscorer|Lionel Messi",
-      "|anytime goalscorer|Nicolas Paz Martinez",
-      "|anytime goalscorer|Sam Surridge",
-      "|anytime goalscorer|Younes Ebnoutalib"
+      "totals||Atalanta v Parma: Atalanta over 1.5 goals,Sassuolo v Fiorentina: Both teams to score"
     ],
-    "slate": null,
-    "hits": [
-      "a:Brian White",
-      "a:Kylian Mbappe",
-      "a:Lionel Messi",
-      "a:Sam Surridge",
-      "a:Younes Ebnoutalib",
-      "t:Eintracht Frankfurt v Hamburg SV: Hamburg SV under 1.5 goals",
-      "t:Getafe v Sevilla: Sevilla to score",
-      "t:Lazio v Cagliari: Lazio under 2.5 goals",
-      "t:Portland Timbers v Houston Dynamo FC: Houston Dynamo FC under 1.5 goals"
-    ],
+    "slate": "2026-11-02",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 05:22:00 GMT",
-    "checked_at": "2026-11-02T05:22:12.281267+00:00"
+    "last_modified": "Mon, 02 Nov 2026 10:07:08 GMT",
+    "checked_at": "2026-11-02T10:07:14.156967+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -83,8 +51,8 @@
     "slate": "2026-11-02",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 05:22:00 GMT",
-    "checked_at": "2026-11-02T05:22:12.379259+00:00"
+    "last_modified": "Mon, 02 Nov 2026 10:07:08 GMT",
+    "checked_at": "2026-11-02T10:07:14.407132+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -131,7 +99,7 @@
       "a:Wendell Carter Jr."
     ],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 05:22:00 GMT",
-    "checked_at": "2026-11-02T05:22:12.453790+00:00"
+    "last_modified": "Mon, 02 Nov 2026 10:07:08 GMT",
+    "checked_at": "2026-11-02T10:07:14.639368+00:00"
   }
 }
