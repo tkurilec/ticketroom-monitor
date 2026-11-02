@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 11:01:05 GMT",
-    "checked_at": "2026-11-02T11:01:11.717082+00:00"
+    "last_modified": "Mon, 02 Nov 2026 18:16:57 GMT",
+    "checked_at": "2026-11-02T18:18:12.371421+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "5f59e69954ade050ea8c81f4b9a4e5bce8a1b390de50391a1bc64a39181b19ee",
@@ -25,6 +25,10 @@
         "info": {
           "Sassuolo v Fiorentina: Both teams to score": "Mon Nov 2 \u00b7 12:30 PM ET",
           "Atalanta v Parma: Atalanta over 1.5 goals": "Mon Nov 2 \u00b7 2:45 PM ET"
+        },
+        "odds": {
+          "Sassuolo v Fiorentina: Both teams to score": -210,
+          "Atalanta v Parma: Atalanta over 1.5 goals": -200
         }
       }
     ],
@@ -38,10 +42,12 @@
       "totals||Atalanta v Parma: Atalanta over 1.5 goals,Sassuolo v Fiorentina: Both teams to score"
     ],
     "slate": "2026-11-02",
-    "hits": [],
+    "hits": [
+      "t:Sassuolo v Fiorentina: Both teams to score"
+    ],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 11:01:05 GMT",
-    "checked_at": "2026-11-02T11:01:11.991376+00:00"
+    "last_modified": "Mon, 02 Nov 2026 18:16:57 GMT",
+    "checked_at": "2026-11-02T18:18:13.514693+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -51,8 +57,8 @@
     "slate": "2026-11-02",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 11:01:05 GMT",
-    "checked_at": "2026-11-02T11:01:12.237852+00:00"
+    "last_modified": "Mon, 02 Nov 2026 18:16:57 GMT",
+    "checked_at": "2026-11-02T18:18:13.700294+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -62,7 +68,7 @@
     "slate": "2026-11-02",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 11:01:05 GMT",
-    "checked_at": "2026-11-02T11:01:12.329973+00:00"
+    "last_modified": "Mon, 02 Nov 2026 18:16:57 GMT",
+    "checked_at": "2026-11-02T18:18:13.956831+00:00"
   }
 }
