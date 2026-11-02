@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 01:06:56 GMT",
-    "checked_at": "2026-11-02T01:07:10.295032+00:00"
+    "last_modified": "Mon, 02 Nov 2026 01:37:19 GMT",
+    "checked_at": "2026-11-02T01:40:16.747921+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "33dc23e870b42273b99c44fac9d64927c2ee98f9d3b09fc08d512624554c9631",
@@ -180,8 +180,8 @@
       "t:Lazio v Cagliari: Lazio under 2.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 01:06:56 GMT",
-    "checked_at": "2026-11-02T01:07:14.807746+00:00"
+    "last_modified": "Mon, 02 Nov 2026 01:37:19 GMT",
+    "checked_at": "2026-11-02T01:40:18.704704+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "1eb5b44e55a0f577540adeefeb813cf10b73cff477f17c9fa06bdb6de0d20b22",
@@ -525,11 +525,11 @@
       "a:Tyler Allgeier"
     ],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 01:06:56 GMT",
-    "checked_at": "2026-11-02T01:07:16.552180+00:00"
+    "last_modified": "Mon, 02 Nov 2026 01:37:19 GMT",
+    "checked_at": "2026-11-02T01:40:19.572839+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "b0827e3f24b80fe30ffb2bd616fac3483de39b5d321e7cdd00972285e3d46c04",
+    "hash": "4bc893fe1dec53fba94f6f52a7f4d6ff5406ec940f126a8e3725b62963b5e346",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -568,6 +568,18 @@
         "group": "2"
       },
       {
+        "name": "Get on the Board",
+        "legs": [
+          "Matisse Thybulle"
+        ],
+        "rr": false,
+        "info": {
+          "Matisse Thybulle": "Lakers vs Raptors \u00b7 Sun Nov 1 \u00b7 9:00 PM ET"
+        },
+        "units": 0.2,
+        "group": "4"
+      },
+      {
         "name": "Open Floor",
         "legs": [
           "Isaiah Jackson"
@@ -602,6 +614,18 @@
         },
         "units": 0.1,
         "group": "1"
+      },
+      {
+        "name": "Tip-Off Call",
+        "legs": [
+          "Jakob Poeltl"
+        ],
+        "rr": false,
+        "info": {
+          "Jakob Poeltl": "Raptors vs Lakers \u00b7 Sun Nov 1 \u00b7 9:00 PM ET"
+        },
+        "units": 0.4,
+        "group": "4"
       }
     ],
     "announced": {
@@ -622,14 +646,22 @@
       ],
       "Open Floor": [
         "Isaiah Jackson"
+      ],
+      "Get on the Board": [
+        "Matisse Thybulle"
+      ],
+      "Tip-Off Call": [
+        "Jakob Poeltl"
       ]
     },
     "abets": [
       "|first basket|Day'Ron Sharpe",
       "|first basket|Derrick White",
       "|first basket|Isaiah Jackson",
+      "|first basket|Jakob Poeltl",
       "|first basket|Jase Richardson",
       "|first basket|Jay Huff",
+      "|first basket|Matisse Thybulle",
       "|first basket|Wendell Carter Jr."
     ],
     "slate": "2026-11-01",
@@ -638,7 +670,7 @@
       "a:Wendell Carter Jr."
     ],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 01:06:56 GMT",
-    "checked_at": "2026-11-02T01:07:18.868453+00:00"
+    "last_modified": "Mon, 02 Nov 2026 01:37:19 GMT",
+    "checked_at": "2026-11-02T01:40:21.558416+00:00"
   }
 }
