@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 10:07:08 GMT",
-    "checked_at": "2026-11-02T10:07:11.507481+00:00"
+    "last_modified": "Mon, 02 Nov 2026 11:01:05 GMT",
+    "checked_at": "2026-11-02T11:01:11.717082+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "5f59e69954ade050ea8c81f4b9a4e5bce8a1b390de50391a1bc64a39181b19ee",
@@ -40,8 +40,8 @@
     "slate": "2026-11-02",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 10:07:08 GMT",
-    "checked_at": "2026-11-02T10:07:14.156967+00:00"
+    "last_modified": "Mon, 02 Nov 2026 11:01:05 GMT",
+    "checked_at": "2026-11-02T11:01:11.991376+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -51,55 +51,18 @@
     "slate": "2026-11-02",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 10:07:08 GMT",
-    "checked_at": "2026-11-02T10:07:14.407132+00:00"
+    "last_modified": "Mon, 02 Nov 2026 11:01:05 GMT",
+    "checked_at": "2026-11-02T11:01:12.237852+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Bucket One": [
-        "Wendell Carter Jr."
-      ],
-      "The Opener": [
-        "Derrick White"
-      ],
-      "Tip Drill": [
-        "Jase Richardson"
-      ],
-      "Break the Seal": [
-        "Day'Ron Sharpe"
-      ],
-      "First Points": [
-        "Jay Huff"
-      ],
-      "Open Floor": [
-        "Isaiah Jackson"
-      ],
-      "Get on the Board": [
-        "Matisse Thybulle"
-      ],
-      "Tip-Off Call": [
-        "Jakob Poeltl"
-      ]
-    },
-    "abets": [
-      "|first basket|Day'Ron Sharpe",
-      "|first basket|Derrick White",
-      "|first basket|Isaiah Jackson",
-      "|first basket|Jakob Poeltl",
-      "|first basket|Jase Richardson",
-      "|first basket|Jay Huff",
-      "|first basket|Matisse Thybulle",
-      "|first basket|Wendell Carter Jr."
-    ],
-    "slate": null,
-    "hits": [
-      "a:Day'Ron Sharpe",
-      "a:Wendell Carter Jr."
-    ],
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-02",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 10:07:08 GMT",
-    "checked_at": "2026-11-02T10:07:14.639368+00:00"
+    "last_modified": "Mon, 02 Nov 2026 11:01:05 GMT",
+    "checked_at": "2026-11-02T11:01:12.329973+00:00"
   }
 }
