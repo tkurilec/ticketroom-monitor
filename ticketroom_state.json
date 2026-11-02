@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 18:56:39 GMT",
-    "checked_at": "2026-11-02T18:57:12.032211+00:00"
+    "last_modified": "Mon, 02 Nov 2026 23:37:20 GMT",
+    "checked_at": "2026-11-02T23:40:16.294061+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "d7c859d27cfcd481ffc804a289a972f9f2f95ae19a5b497b1443f66778aff976",
@@ -80,8 +80,8 @@
       "t:Sassuolo v Fiorentina: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 18:56:39 GMT",
-    "checked_at": "2026-11-02T18:57:14.751213+00:00"
+    "last_modified": "Mon, 02 Nov 2026 23:37:20 GMT",
+    "checked_at": "2026-11-02T23:40:16.800307+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -91,18 +91,40 @@
     "slate": "2026-11-02",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 18:56:39 GMT",
-    "checked_at": "2026-11-02T18:57:14.952038+00:00"
+    "last_modified": "Mon, 02 Nov 2026 23:37:20 GMT",
+    "checked_at": "2026-11-02T23:40:16.916862+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "a9b4f0585e264d0d9adbf17dfd999d8443259fa1b0ab0fef36c9cc61a516bede",
+    "confirmed": [
+      {
+        "name": "The Opener",
+        "legs": [
+          "Isaiah Hartenstein"
+        ],
+        "rr": false,
+        "info": {
+          "Isaiah Hartenstein": "Thunder vs Cavaliers \u00b7 Mon Nov 2 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "Isaiah Hartenstein": 1000
+        },
+        "units": 0.6,
+        "group": "1"
+      }
+    ],
+    "announced": {
+      "The Opener": [
+        "Isaiah Hartenstein"
+      ]
+    },
+    "abets": [
+      "|first basket|Isaiah Hartenstein"
+    ],
     "slate": "2026-11-02",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 18:56:39 GMT",
-    "checked_at": "2026-11-02T18:57:15.130272+00:00"
+    "last_modified": "Mon, 02 Nov 2026 23:37:20 GMT",
+    "checked_at": "2026-11-02T23:40:18.886011+00:00"
   }
 }
