@@ -974,6 +974,71 @@ def settle_day(day: dict, hits: set, ltd: dict | None) -> bool:
     return changed
 
 
+def update_daily_summaries(results: dict) -> bool:
+    """Condense every fully settled slate day into a per-day summary under
+    results["daily"]. Summaries survive the 14-day row pruning, so month and
+    all-time totals stay correct forever; while rows still exist they are
+    recomputed from them, so a re-grade corrects the record."""
+    daily = results.setdefault("daily", {})
+    changed = False
+    for board, days in (results.get("boards") or {}).items():
+        bd = daily.setdefault(board, {})
+        for date, rows in days.items():
+            if not rows or any(r.get("result") is None for r in rows.values()):
+                continue  # live/partial day — summarize once it settles
+            s = {"w": 0, "l": 0, "v": 0, "pl": 0.0, "unk": 0}
+            for r in rows.values():
+                if r["result"] == "won":
+                    s["w"] += 1
+                    if r.get("pl") is None:
+                        s["unk"] += 1
+                    else:
+                        s["pl"] += r["pl"]
+                elif r["result"] == "lost":
+                    s["l"] += 1
+                    s["pl"] += r.get("pl") or 0.0
+                elif r["result"] == "void":
+                    s["v"] += 1
+            s["pl"] = round(s["pl"], 2)
+            if bd.get(date) != s:
+                bd[date] = s
+                changed = True
+    return changed
+
+
+def period_total_lines(results: dict, day: str) -> list:
+    """Month and all-time total lines for the recap description, summed from
+    the per-day summaries up to and including `day`."""
+    month = day[:7]
+    mt = {"w": 0, "l": 0, "pl": 0.0}
+    at = {"w": 0, "l": 0, "pl": 0.0}
+    since = None
+    for days in (results.get("daily") or {}).values():
+        for date, s in days.items():
+            if date > day:
+                continue
+            since = date if since is None else min(since, date)
+            for k in ("w", "l", "pl"):
+                at[k] += s.get(k, 0)
+            if date.startswith(month):
+                for k in ("w", "l", "pl"):
+                    mt[k] += s.get(k, 0)
+    if since is None:
+        return []
+    try:
+        month_name = datetime.strptime(month, "%Y-%m").strftime("%B")
+    except ValueError:
+        month_name = month
+    try:
+        d = datetime.strptime(since, "%Y-%m-%d")
+        since_txt = f"{d.strftime('%b')} {d.day}"
+    except ValueError:
+        since_txt = since
+    return [f"**{month_name}: {mt['pl']:+.2f}u** ({mt['w']:g}-{mt['l']:g})",
+            f"**All-time: {at['pl']:+.2f}u** ({at['w']:g}-{at['l']:g} · "
+            f"since {since_txt})"]
+
+
 def build_recap(results: dict, day: str, state: dict):
     """Fields for the morning recap embed, one per board with graded tickets
     on that slate date. Boards still showing the old slate at recap time get
@@ -1067,13 +1132,16 @@ def build_recap(results: dict, day: str, state: dict):
 
 
 def notify_recap(webhook: str | None, day_label: str, fields: list,
-                 total_pl: float, record: str, unknown: int) -> bool:
+                 total_pl: float, record: str, unknown: int,
+                 extra: list | None = None) -> bool:
     """Post the morning recap. Returns True when delivered (or dry-run), so
     the caller only marks the day sent on success and a transient Discord
     failure retries on the next run."""
-    desc = f"**Day total: {total_pl:+.2f}u** ({record})"
+    desc = f"**Day: {total_pl:+.2f}u** ({record})"
+    for line in extra or []:
+        desc += f"\n{line}"
     if unknown:
-        desc += f"\n*{unknown} win(s) missing odds — not counted in the total*"
+        desc += f"\n*{unknown} win(s) missing odds — not counted in the totals*"
     embed = {
         "title": f"📊 Ticket Room Results — {day_label}",
         "color": 0x2ECC71 if total_pl >= 0 else 0xE74C3C,
@@ -1438,10 +1506,12 @@ def check_all() -> None:
             fields, total_pl, record, unknown, rc = build_recap(
                 results, yday, state)
             results_changed |= rc
+            results_changed |= update_daily_summaries(results)
             sent = True
             if fields:
                 sent = notify_recap(webhook, f"{yd.strftime('%a %b')} {yd.day}",
-                                    fields, total_pl, record, unknown)
+                                    fields, total_pl, record, unknown,
+                                    period_total_lines(results, yday))
             else:
                 print(f"Recap: no tickets logged for {yday} — nothing to post")
             if sent:
@@ -1498,12 +1568,14 @@ def recap_for_date(date_str: str) -> int:
     if not fields:
         print(f"No tickets logged for {date_str}")
         return 1
+    update_daily_summaries(results)  # in-memory only — nothing is saved here
     try:
         d = datetime.strptime(date_str, "%Y-%m-%d")
         label = f"{d.strftime('%a %b')} {d.day}"
     except ValueError:
         label = date_str
-    notify_recap(webhook, f"{label} (TEST)", fields, total_pl, record, unknown)
+    notify_recap(webhook, f"{label} (TEST)", fields, total_pl, record, unknown,
+                 period_total_lines(results, date_str))
     return 0
 
 
