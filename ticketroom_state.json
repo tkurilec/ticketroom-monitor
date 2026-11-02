@@ -7,12 +7,39 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 18:16:57 GMT",
-    "checked_at": "2026-11-02T18:18:12.371421+00:00"
+    "last_modified": "Mon, 02 Nov 2026 18:56:39 GMT",
+    "checked_at": "2026-11-02T18:57:12.032211+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "5f59e69954ade050ea8c81f4b9a4e5bce8a1b390de50391a1bc64a39181b19ee",
+    "hash": "d7c859d27cfcd481ffc804a289a972f9f2f95ae19a5b497b1443f66778aff976",
     "confirmed": [
+      {
+        "name": "Target Man",
+        "legs": [
+          "Nikola Krstovic"
+        ],
+        "rr": false,
+        "info": {
+          "Nikola Krstovic": "Atalanta vs Parma \u00b7 Mon Nov 2 \u00b7 2:45 PM ET"
+        },
+        "odds": {
+          "Nikola Krstovic": 110
+        }
+      },
+      {
+        "name": "The Banker",
+        "legs": [
+          "Nikola Krstovic"
+        ],
+        "rr": false,
+        "info": {
+          "Nikola Krstovic": "Atalanta vs Parma \u00b7 Mon Nov 2 \u00b7 2:45 PM ET"
+        },
+        "odds": {
+          "Nikola Krstovic": 110
+        },
+        "units": 2
+      },
       {
         "name": "The Net Count",
         "legs": [
@@ -36,18 +63,25 @@
       "The Net Count": [
         "Atalanta v Parma: Atalanta over 1.5 goals",
         "Sassuolo v Fiorentina: Both teams to score"
+      ],
+      "Target Man": [
+        "Nikola Krstovic"
+      ],
+      "The Banker": [
+        "Nikola Krstovic"
       ]
     },
     "abets": [
-      "totals||Atalanta v Parma: Atalanta over 1.5 goals,Sassuolo v Fiorentina: Both teams to score"
+      "totals||Atalanta v Parma: Atalanta over 1.5 goals,Sassuolo v Fiorentina: Both teams to score",
+      "|anytime goalscorer|Nikola Krstovic"
     ],
     "slate": "2026-11-02",
     "hits": [
       "t:Sassuolo v Fiorentina: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 18:16:57 GMT",
-    "checked_at": "2026-11-02T18:18:13.514693+00:00"
+    "last_modified": "Mon, 02 Nov 2026 18:56:39 GMT",
+    "checked_at": "2026-11-02T18:57:14.751213+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -57,8 +91,8 @@
     "slate": "2026-11-02",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 18:16:57 GMT",
-    "checked_at": "2026-11-02T18:18:13.700294+00:00"
+    "last_modified": "Mon, 02 Nov 2026 18:56:39 GMT",
+    "checked_at": "2026-11-02T18:57:14.952038+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -68,7 +102,7 @@
     "slate": "2026-11-02",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 18:16:57 GMT",
-    "checked_at": "2026-11-02T18:18:13.956831+00:00"
+    "last_modified": "Mon, 02 Nov 2026 18:56:39 GMT",
+    "checked_at": "2026-11-02T18:57:15.130272+00:00"
   }
 }
