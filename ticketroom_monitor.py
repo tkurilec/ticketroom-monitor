@@ -400,7 +400,15 @@ def notify_hits(webhook: str | None, board: str, url: str,
     hitset = set(hits)
     lines = [token_line(t, board) for t in new_hits]
     fully_cashed = False
-    for t in confirmed:
+    seen_bets = set()
+    for t in sorted(confirmed, key=lambda t: (t.get("units") is None,
+                                              t.get("name") or "")):
+        # The same bet under two names cashes once — prefer the unit-rec
+        # name, matching the card dedupe (Krstovic double, 2026-11-02).
+        bk = bet_key(t)
+        if bk in seen_bets:
+            continue
+        seen_bets.add(bk)
         toks = entry_leg_tokens(t)
         if not set(toks) & set(new_hits):
             continue
