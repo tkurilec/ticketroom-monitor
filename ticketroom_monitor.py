@@ -17,7 +17,7 @@ import os
 import re
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import quote
 
@@ -580,6 +580,12 @@ def extract_signature(html: str, early_min: int = 0,
         p = pdata.get(leg.get("name")) or {}
         return not (p.get("out") or p.get("void"))
 
+    # Players flagged out/void — books refund those bets, so the results
+    # ledger voids an announced ticket that loses a leg to a scratch instead
+    # of grading it as a loss.
+    outs = sorted(nm for nm, p in pdata.items()
+                  if isinstance(p, dict) and (p.get("out") or p.get("void")))
+
     def leg_confirmed(leg: dict) -> bool:
         return (leg.get("status") == "confirmed"
                 or str(leg.get("game")) in started_games)
@@ -667,6 +673,11 @@ def extract_signature(html: str, early_min: int = 0,
                 "rr": bool(t.get("rr")),
                 "info": {leg.get("name"): leg_info(leg)
                          for leg in legs if leg.get("name")},
+                # Per-leg American odds at announce time — the price the card
+                # posted at — so the results ledger can grade P/L. Display/
+                # grading context only, stripped from the hash like info.
+                "odds": {leg.get("name"): leg.get("odds") for leg in legs
+                         if leg.get("name") and leg.get("odds") is not None},
             }
             km = KIND_MARKETS.get(t.get("kind"))
             if km:
@@ -708,7 +719,10 @@ def extract_signature(html: str, early_min: int = 0,
             confirmed.append({"name": tot.get("name") or "The Totals Board",
                               "legs": sorted(tot_legs), "rr": False,
                               "market": "", "kind": "totals",
-                              "info": tot_info})
+                              "info": tot_info,
+                              "odds": {leg["_lbl"]: leg.get("odds")
+                                       for leg in tot_raw
+                                       if leg.get("odds") is not None}})
 
     # meta.dt is the NBA "Downtown" threes-made section (added 2026-10-26):
     # independent singles, each player over a line of made threes. The line
@@ -770,6 +784,8 @@ def extract_signature(html: str, early_min: int = 0,
                 "market": "longest touchdown scorer",
                 "kind": "longtd",
                 "info": {p["name"]: leg_info(leg)},
+                "odds": ({p["name"]: p["odds"]}
+                         if p.get("odds") is not None else {}),
             })
 
     # Sort so a reordering of unchanged tickets never reads as a change.
@@ -809,7 +825,7 @@ def extract_signature(html: str, early_min: int = 0,
             hits.add(f"dt:{p['name']}")
     return {"confirmed": confirmed, "hits": sorted(hits),
             "tot_raw": tot_raw, "espn": meta.get("espn") or {},
-            "longtd": longtd_raw,
+            "longtd": longtd_raw, "outs": outs,
             "slate": str(slate_date) if slate_date else None}
 
 
@@ -829,6 +845,253 @@ def load_state() -> dict:
 
 def save_state(state: dict) -> None:
     STATE_FILE.write_text(json.dumps(state, indent=2) + "\n", encoding="utf-8")
+
+
+# ---------------------------------------------------------------------------
+# Results ledger: every announced ticket is logged with its odds and unit rec,
+# graded from the slate's hit tokens once the night is over, and recapped to
+# Discord at 7 AM ET with per-sport P/L (user request 2026-11-02). Stake
+# convention: the site's unit rec where published (NBA, soccer's POTD),
+# otherwise flat 1u per ticket.
+# ---------------------------------------------------------------------------
+
+RESULTS_FILE = Path(__file__).parent / "ticketroom_results.json"
+RESULTS_KEEP_DAYS = 14
+
+
+def load_results() -> dict:
+    if RESULTS_FILE.exists():
+        try:
+            return json.loads(RESULTS_FILE.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            print(f"WARNING: could not parse {RESULTS_FILE}, starting fresh")
+    return {}
+
+
+def save_results(results: dict) -> None:
+    RESULTS_FILE.write_text(
+        json.dumps(results, indent=2, ensure_ascii=False) + "\n",
+        encoding="utf-8")
+
+
+def american_to_decimal(odds) -> float | None:
+    try:
+        o = float(odds)
+    except (TypeError, ValueError):
+        return None
+    if o >= 100:
+        return 1 + o / 100
+    if o <= -100:
+        return 1 + 100 / abs(o)
+    return None
+
+
+def ticket_payout_units(row: dict) -> float | None:
+    """Winning profit in units: stake times the parlay product of the legs'
+    American odds. None when any leg's odds were never captured."""
+    units = row.get("units") or 1.0
+    dec = 1.0
+    for leg in row.get("legs") or []:
+        d = american_to_decimal((row.get("odds") or {}).get(leg))
+        if d is None:
+            return None
+        dec *= d
+    return units * (dec - 1)
+
+
+def record_results(results: dict, board: str, slate: str, confirmed: list,
+                   board_market: str, outs: set) -> bool:
+    """Log announced tickets into the ledger — once per name, and once per
+    bet CONTENT (the same bet under two names must not count twice). While
+    the slate is live, keep a "void" flag current: a leg whose player is
+    out/void is refunded by the book, so it must not grade as a loss. The
+    last observed value before the slate rolls wins, so a scratch that
+    re-confirms clears the flag again."""
+    day = (results.setdefault("boards", {}).setdefault(board, {})
+                  .setdefault(slate, {}))
+    changed = False
+    seen_bets = {r.get("bkey"): r for r in day.values()}
+    for t in confirmed:
+        nm = t.get("name")
+        if not nm or nm in day:
+            continue
+        bk = bet_key(t, board_market)
+        if bk in seen_bets:
+            # Same bet under another name (e.g. a board single that is also
+            # the pick of the day): one row only, but adopt the duplicate's
+            # unit rec when the recorded copy had none — the POTD lane is
+            # where the sizing lives.
+            twin = seen_bets[bk]
+            if twin.get("units") is None and t.get("units") is not None \
+                    and twin.get("result") is None:
+                twin["units"] = t.get("units")
+                changed = True
+            continue
+        day[nm] = {"legs": t["legs"], "kind": t.get("kind") or "",
+                   "rr": bool(t.get("rr")), "units": t.get("units"),
+                   "odds": t.get("odds") or {}, "bkey": bk,
+                   "result": None, "pl": None}
+        seen_bets[bk] = day[nm]
+        changed = True
+    for nm, row in day.items():
+        if row.get("result") is not None:
+            continue
+        void = any(l in outs for l in row.get("legs") or [])
+        if bool(row.get("void")) != void:
+            row["void"] = void
+            changed = True
+    days = results["boards"][board]
+    for old in sorted(days)[:-RESULTS_KEEP_DAYS]:
+        del days[old]
+        changed = True
+    return changed
+
+
+def settle_day(day: dict, hits: set, ltd: dict | None) -> bool:
+    """Final grading for a finished slate: every pending ticket resolves now.
+    A leg without a hit token is a miss (settling only runs once the night is
+    over), a void-flagged ticket refunds, and King of the End Zone grades
+    from the lead tracker's last word on who held the longest TD."""
+    changed = False
+    for row in day.values():
+        if row.get("result") is not None:
+            continue
+        units = row.get("units") or 1.0
+        if row.get("void"):
+            row["result"], row["pl"] = "void", 0.0
+        elif (row.get("kind") or "") == "longtd":
+            held = set((ltd or {}).get("holding") or [])
+            won = all(l in held for l in row["legs"]) if held else False
+            row["result"] = "won" if won else "lost"
+            row["pl"] = ticket_payout_units(row) if won else -units
+        else:
+            toks = entry_leg_tokens(row)
+            row["legs_hit"] = sum(1 for tok in toks if tok in hits)
+            won = row["legs_hit"] == len(toks)
+            row["result"] = "won" if won else "lost"
+            row["pl"] = ticket_payout_units(row) if won else -units
+        changed = True
+    return changed
+
+
+def build_recap(results: dict, day: str, state: dict):
+    """Fields for the morning recap embed, one per board with graded tickets
+    on that slate date. Boards still showing the old slate at recap time get
+    their stragglers settled here from the sticky hit tokens in state.
+    Returns (fields, total_pl, record_str, unknown_count, changed)."""
+    fields = []
+    total_pl, total_w, total_l = 0.0, 0, 0
+    unknown = 0
+    changed = False
+    for board in PAGES:
+        day_rows = ((results.get("boards") or {}).get(board) or {}).get(day)
+        if not day_rows:
+            continue
+        if any(r.get("result") is None for r in day_rows.values()):
+            st = state.get(PAGES[board]) or {}
+            if st.get("slate") in (day, None):
+                changed |= settle_day(day_rows, set(st.get("hits") or []),
+                                      st.get("ltd"))
+        lines = []
+        w = l = v = 0
+        pl = 0.0
+        for nm in sorted(day_rows):
+            row = day_rows[nm]
+            res = row.get("result")
+            units = row.get("units") or 1.0
+            legs = row.get("legs") or []
+            crown = "👑 " if (row.get("kind") or "") == "longtd" else ""
+            if len(legs) == 1:
+                od = (row.get("odds") or {}).get(legs[0])
+                od_txt = f" ({od:+g})" if isinstance(od, (int, float)) else ""
+                leg_txt = f"{legs[0]}{od_txt}"
+            else:
+                k = row.get("legs_hit")
+                k = "?" if k is None else k
+                leg_txt = f"{k}/{len(legs)} legs"
+            if res == "void":
+                v += 1
+                lines.append(f"◻️ {crown}**{nm}** — {leg_txt} · voided "
+                             f"(player out)")
+            elif res == "won":
+                w += 1
+                p = row.get("pl")
+                if p is None:
+                    unknown += 1
+                    lines.append(f"✅ {crown}**{nm}** — {leg_txt} · won "
+                                 f"(odds n/a)")
+                else:
+                    pl += p
+                    lines.append(f"✅ {crown}**{nm}** — {leg_txt} → "
+                                 f"**+{p:.2f}u**")
+            elif res == "lost":
+                l += 1
+                pl -= units
+                lines.append(f"❌ {crown}**{nm}** — {leg_txt} → −{units:g}u")
+            else:
+                lines.append(f"⏳ **{nm}** — ungraded")
+        total_pl += pl
+        total_w += w
+        total_l += l
+        emoji, _ = HIT_STYLE.get(board, ("🎟️", ""))
+        void_txt = f" · {v} void" if v else ""
+        header = f"{emoji} {board} — {w}-{l}{void_txt} · {pl:+.2f}u"
+        # Discord caps a field value at 1024 chars and a heavy NBA slate runs
+        # 25+ lines, so a board spills into continuation fields (zero-width
+        # space names render as a seamless list).
+        chunks = []
+        cur = ""
+        for ln in lines:
+            if cur and len(cur) + 1 + len(ln) > 1024:
+                chunks.append(cur)
+                cur = ln
+            else:
+                cur = f"{cur}\n{ln}" if cur else ln
+        if cur:
+            chunks.append(cur)
+        for i, c in enumerate(chunks):
+            fields.append({"name": header if i == 0 else "​",
+                           "value": c, "inline": False})
+    # A whole embed caps at 6000 chars — drop trailing fields rather than
+    # have Discord reject the recap outright.
+    size = 0
+    for i, f in enumerate(fields):
+        size += len(f["name"]) + len(f["value"])
+        if size > 5300:
+            fields = fields[:i]
+            fields.append({"name": "​", "value": "… (truncated)",
+                           "inline": False})
+            break
+    record = f"{total_w}-{total_l}"
+    return fields, total_pl, record, unknown, changed
+
+
+def notify_recap(webhook: str | None, day_label: str, fields: list,
+                 total_pl: float, record: str, unknown: int) -> bool:
+    """Post the morning recap. Returns True when delivered (or dry-run), so
+    the caller only marks the day sent on success and a transient Discord
+    failure retries on the next run."""
+    desc = f"**Day total: {total_pl:+.2f}u** ({record})"
+    if unknown:
+        desc += f"\n*{unknown} win(s) missing odds — not counted in the total*"
+    embed = {
+        "title": f"📊 Ticket Room Results — {day_label}",
+        "color": 0x2ECC71 if total_pl >= 0 else 0xE74C3C,
+        "description": desc,
+        "fields": fields[:25],
+        "timestamp": datetime.now(timezone.utc).isoformat(),
+    }
+    if not webhook:
+        print(f"DRY RUN (DISCORD_WEBHOOK unset): would post recap "
+              f"{day_label}: {record}, {total_pl:+.2f}u")
+        return True
+    resp = requests.post(webhook, json={"embeds": [embed]}, timeout=30)
+    if resp.status_code >= 400:
+        print(f"ERROR: Discord webhook returned {resp.status_code}: "
+              f"{resp.text[:500]}")
+        return False
+    print(f"Posted morning recap for {day_label}: {record}, {total_pl:+.2f}u")
+    return True
 
 
 def bet_key(ent: dict, board_market: str = "") -> str:
@@ -960,6 +1223,8 @@ def notify_discord(webhook: str | None, name: str, url: str,
 def check_all() -> None:
     webhook = os.environ.get("DISCORD_WEBHOOK")
     state = load_state()
+    results = load_results()
+    results_changed = False
     first_run_pages = []
     changed = False
 
@@ -1051,6 +1316,17 @@ def check_all() -> None:
                 abets = {bet_key(t, MARKETS.get(name, ""))
                          for t in prev["confirmed"]}
 
+        # A new slate date means last night is over: grade its ledger rows
+        # now, from the sticky hit tokens and KOTE tracker that slate left
+        # in the outgoing state.
+        if (slate and prev is not None and prev.get("slate")
+                and prev.get("slate") != slate):
+            old_day = ((results.get("boards") or {}).get(name)
+                       or {}).get(prev["slate"])
+            if old_day:
+                results_changed |= settle_day(
+                    old_day, set(prev.get("hits") or []), prev.get("ltd"))
+
         if prev is None:
             first_run_pages.append(name)
         elif prev.get("hash") != digest:
@@ -1069,6 +1345,10 @@ def check_all() -> None:
             for t in confirmed:
                 announced[t["name"]] = t["legs"]
                 abets.add(bet_key(t, MARKETS.get(name, "")))
+            if slate:
+                results_changed |= record_results(
+                    results, name, slate, confirmed, MARKETS.get(name, ""),
+                    set((sig.get("outs") or []) if sig else []))
 
         # Mid-game hit alerts. "hits" missing from prev means this is the
         # feature's first run — baseline silently so a live slate doesn't
@@ -1139,6 +1419,38 @@ def check_all() -> None:
 
     if first_run_pages:
         print(f"Baseline stored (no notification) for: {', '.join(first_run_pages)}")
+
+    # Morning recap (user request 2026-11-02): from 7 AM ET, the first run of
+    # the day posts yesterday's graded P/L per sport. ">= 7" instead of
+    # "== 7" so a CI outage over 7 AM only delays the recap, never skips it;
+    # recap_sent keeps it to exactly one post per day.
+    try:
+        from zoneinfo import ZoneInfo
+        now_et = datetime.now(ZoneInfo("America/New_York"))
+    except Exception as exc:
+        now_et = None
+        print(f"WARNING: recap clock unavailable: {exc}")
+    if now_et is not None and now_et.hour >= 7:
+        today_et = now_et.strftime("%Y-%m-%d")
+        if results.get("recap_sent") != today_et:
+            yd = now_et - timedelta(days=1)
+            yday = yd.strftime("%Y-%m-%d")
+            fields, total_pl, record, unknown, rc = build_recap(
+                results, yday, state)
+            results_changed |= rc
+            sent = True
+            if fields:
+                sent = notify_recap(webhook, f"{yd.strftime('%a %b')} {yd.day}",
+                                    fields, total_pl, record, unknown)
+            else:
+                print(f"Recap: no tickets logged for {yday} — nothing to post")
+            if sent:
+                results["recap_sent"] = today_et
+                results_changed = True
+
+    if results_changed:
+        save_results(results)
+        print(f"Results ledger saved to {RESULTS_FILE.name}")
 
     # checked_at always moves, but only rewrite when hash/published changed so
     # CI doesn't commit a new state file every 15 minutes.

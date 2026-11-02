@@ -48,12 +48,15 @@ jobs:
         # pings. Keeping our version of the state file on conflict is correct —
         # it reflects the freshest fetch.
         run: |
-          if git diff --quiet -- ticketroom_state.json; then
+          git add -- ticketroom_state.json
+          if [ -f ticketroom_results.json ]; then
+            git add -- ticketroom_results.json
+          fi
+          if git diff --cached --quiet; then
             echo "No state changes to commit"
           else
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add ticketroom_state.json
             git commit -m "Update monitor state"
             for i in 1 2 3; do
               if git push; then
