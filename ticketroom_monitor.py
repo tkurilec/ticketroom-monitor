@@ -1188,11 +1188,23 @@ def describe_change(prev_confirmed: list | None, new_confirmed: list,
     new = {t["name"]: t for t in new_confirmed}
 
     fresh = [n for n in new if n not in prev or prev[n] != new[n]["legs"]]
+    # Dedupe by bet content against earlier slates AND within this batch:
+    # Target Man + The Banker (the same Krstovic single) confirmed in the
+    # same cycle on 2026-11-02 and both rendered, because only previously
+    # announced bets were checked. The POTD lane sorts after most board
+    # names, so prefer keeping the name that carries a unit rec.
+    fresh.sort(key=lambda n: new[n].get("units") is None)
+    seen_batch = set()
     for ticket_name in list(fresh):
-        if announced_bets is not None and bet_key(new[ticket_name], market) in announced_bets:
+        bk = bet_key(new[ticket_name], market)
+        if (announced_bets is not None and bk in announced_bets) \
+                or bk in seen_batch:
             print(f"  (skipping {ticket_name!r} — same bet already announced "
                   f"this slate under another name)")
             fresh.remove(ticket_name)
+        else:
+            seen_batch.add(bk)
+    fresh.sort(key=lambda n: n or "")
 
     # Same-game singles share ONE card per game (grouped boards launch them
     # together via the game-confirm rule); each pick keeps its own units and
