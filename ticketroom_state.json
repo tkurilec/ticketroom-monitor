@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 00:17:11 GMT",
-    "checked_at": "2026-11-02T00:18:13.676394+00:00"
+    "last_modified": "Mon, 02 Nov 2026 01:06:56 GMT",
+    "checked_at": "2026-11-02T01:07:10.295032+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "33dc23e870b42273b99c44fac9d64927c2ee98f9d3b09fc08d512624554c9631",
@@ -180,8 +180,8 @@
       "t:Lazio v Cagliari: Lazio under 2.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 00:17:11 GMT",
-    "checked_at": "2026-11-02T00:18:16.351793+00:00"
+    "last_modified": "Mon, 02 Nov 2026 01:06:56 GMT",
+    "checked_at": "2026-11-02T01:07:14.807746+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "1eb5b44e55a0f577540adeefeb813cf10b73cff477f17c9fa06bdb6de0d20b22",
@@ -525,11 +525,11 @@
       "a:Tyler Allgeier"
     ],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 00:17:11 GMT",
-    "checked_at": "2026-11-02T00:18:17.982759+00:00"
+    "last_modified": "Mon, 02 Nov 2026 01:06:56 GMT",
+    "checked_at": "2026-11-02T01:07:16.552180+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "161b5ea429c9e2bdc2734046cbe1a2ff905a4a8ea875030902ed23b9a53bd1ef",
+    "hash": "b0827e3f24b80fe30ffb2bd616fac3483de39b5d321e7cdd00972285e3d46c04",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -566,6 +566,18 @@
         },
         "units": 0.3,
         "group": "2"
+      },
+      {
+        "name": "Open Floor",
+        "legs": [
+          "Isaiah Jackson"
+        ],
+        "rr": false,
+        "info": {
+          "Isaiah Jackson": "Clippers vs Warriors \u00b7 Sun Nov 1 \u00b7 8:30 PM ET"
+        },
+        "units": 0.6,
+        "group": "3"
       },
       {
         "name": "The Opener",
@@ -607,11 +619,15 @@
       ],
       "First Points": [
         "Jay Huff"
+      ],
+      "Open Floor": [
+        "Isaiah Jackson"
       ]
     },
     "abets": [
       "|first basket|Day'Ron Sharpe",
       "|first basket|Derrick White",
+      "|first basket|Isaiah Jackson",
       "|first basket|Jase Richardson",
       "|first basket|Jay Huff",
       "|first basket|Wendell Carter Jr."
@@ -622,7 +638,7 @@
       "a:Wendell Carter Jr."
     ],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 00:17:11 GMT",
-    "checked_at": "2026-11-02T00:18:18.226492+00:00"
+    "last_modified": "Mon, 02 Nov 2026 01:06:56 GMT",
+    "checked_at": "2026-11-02T01:07:18.868453+00:00"
   }
 }
