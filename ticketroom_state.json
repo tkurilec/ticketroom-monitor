@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 03:21:40 GMT",
-    "checked_at": "2026-11-03T03:22:12.962823+00:00"
+    "last_modified": "Tue, 03 Nov 2026 04:04:55 GMT",
+    "checked_at": "2026-11-03T04:25:12.608664+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "57f683b8017b96ac1c236a814a3fd98ec8e7077f1eafd67165c2d6910e557d5b",
@@ -44,8 +44,8 @@
     "slate": "2026-11-03",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 03:21:40 GMT",
-    "checked_at": "2026-11-03T03:22:13.618380+00:00"
+    "last_modified": "Tue, 03 Nov 2026 04:04:55 GMT",
+    "checked_at": "2026-11-03T04:25:13.369451+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "738e32267f468fbd0d8c34ab27dd23862dadb9b1bfe77dff3cbd6c1f9076e481",
@@ -168,10 +168,10 @@
         "Jaxon Smith-Njigba"
       ],
       "best": 43,
-      "settled": false
+      "settled": true
     },
-    "last_modified": "Tue, 03 Nov 2026 03:21:40 GMT",
-    "checked_at": "2026-11-03T03:22:14.213670+00:00"
+    "last_modified": "Tue, 03 Nov 2026 04:04:55 GMT",
+    "checked_at": "2026-11-03T04:25:15.023296+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "ac944d56c5b822224a41d77451d79ff7c34c660817cd237abfb7a8c0aee30233",
@@ -644,7 +644,7 @@
     "slate": "2026-11-02",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 03:21:40 GMT",
-    "checked_at": "2026-11-03T03:22:15.564619+00:00"
+    "last_modified": "Tue, 03 Nov 2026 04:04:55 GMT",
+    "checked_at": "2026-11-03T04:25:17.091083+00:00"
   }
 }
