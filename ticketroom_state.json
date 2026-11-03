@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 21:18:12 GMT",
-    "checked_at": "2026-11-03T21:19:18.729546+00:00"
+    "last_modified": "Tue, 03 Nov 2026 21:47:05 GMT",
+    "checked_at": "2026-11-03T21:53:11.803923+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "bd0a869c3c1582b67f124d918247af70b3fe840a630a618a2024260bc5a97fa1",
@@ -131,11 +131,12 @@
       "a:Donyell Malen",
       "a:Lamine Yamal Nasraqui Ebana",
       "a:Raphinha",
-      "t:Manchester United v AS Roma: Both teams to score"
+      "t:Manchester United v AS Roma: Both teams to score",
+      "t:Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 21:18:12 GMT",
-    "checked_at": "2026-11-03T21:19:20.241655+00:00"
+    "last_modified": "Tue, 03 Nov 2026 21:47:05 GMT",
+    "checked_at": "2026-11-03T21:53:13.149025+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -177,8 +178,8 @@
       "best": 43,
       "settled": true
     },
-    "last_modified": "Tue, 03 Nov 2026 21:18:12 GMT",
-    "checked_at": "2026-11-03T21:19:20.489787+00:00"
+    "last_modified": "Tue, 03 Nov 2026 21:47:05 GMT",
+    "checked_at": "2026-11-03T21:53:13.367170+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -290,7 +291,7 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 21:18:12 GMT",
-    "checked_at": "2026-11-03T21:19:20.762129+00:00"
+    "last_modified": "Tue, 03 Nov 2026 21:47:05 GMT",
+    "checked_at": "2026-11-03T21:53:13.737718+00:00"
   }
 }
