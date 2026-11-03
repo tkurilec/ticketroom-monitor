@@ -15,8 +15,9 @@
             "Atalanta v Parma: Atalanta over 1.5 goals": -200
           },
           "bkey": "totals||Atalanta v Parma: Atalanta over 1.5 goals,Sassuolo v Fiorentina: Both teams to score",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 1
         },
         "Target Man": {
           "legs": [
@@ -29,8 +30,9 @@
             "Nikola Krstovic": 110
           },
           "bkey": "|anytime goalscorer|Nikola Krstovic",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -2,
+          "legs_hit": 0
         }
       },
       "2026-11-01": {
@@ -174,6 +176,24 @@
           "result": "won",
           "pl": 2.4807799329969664,
           "legs_hit": 4
+        }
+      },
+      "2026-11-03": {
+        "Final Tally": {
+          "legs": [
+            "Manchester United v AS Roma: Both teams to score",
+            "Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals"
+          ],
+          "kind": "totals",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Manchester United v AS Roma: Both teams to score": -199,
+            "Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals": -183
+          },
+          "bkey": "totals||Manchester United v AS Roma: Both teams to score,Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals",
+          "result": null,
+          "pl": null
         }
       }
     },

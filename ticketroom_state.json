@@ -7,81 +7,45 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 01:12:53 GMT",
-    "checked_at": "2026-11-03T01:17:17.361846+00:00"
+    "last_modified": "Tue, 03 Nov 2026 01:22:45 GMT",
+    "checked_at": "2026-11-03T01:23:11.145487+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "d7c859d27cfcd481ffc804a289a972f9f2f95ae19a5b497b1443f66778aff976",
+    "hash": "57f683b8017b96ac1c236a814a3fd98ec8e7077f1eafd67165c2d6910e557d5b",
     "confirmed": [
       {
-        "name": "Target Man",
+        "name": "Final Tally",
         "legs": [
-          "Nikola Krstovic"
-        ],
-        "rr": false,
-        "info": {
-          "Nikola Krstovic": "Atalanta vs Parma \u00b7 Mon Nov 2 \u00b7 2:45 PM ET"
-        },
-        "odds": {
-          "Nikola Krstovic": 110
-        }
-      },
-      {
-        "name": "The Banker",
-        "legs": [
-          "Nikola Krstovic"
-        ],
-        "rr": false,
-        "info": {
-          "Nikola Krstovic": "Atalanta vs Parma \u00b7 Mon Nov 2 \u00b7 2:45 PM ET"
-        },
-        "odds": {
-          "Nikola Krstovic": 110
-        },
-        "units": 2
-      },
-      {
-        "name": "The Net Count",
-        "legs": [
-          "Atalanta v Parma: Atalanta over 1.5 goals",
-          "Sassuolo v Fiorentina: Both teams to score"
+          "Manchester United v AS Roma: Both teams to score",
+          "Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals"
         ],
         "rr": false,
         "market": "",
         "kind": "totals",
         "info": {
-          "Sassuolo v Fiorentina: Both teams to score": "Mon Nov 2 \u00b7 12:30 PM ET",
-          "Atalanta v Parma: Atalanta over 1.5 goals": "Mon Nov 2 \u00b7 2:45 PM ET"
+          "Manchester United v AS Roma: Both teams to score": "Tue Nov 3 \u00b7 3:00 PM ET",
+          "Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals": "Tue Nov 3 \u00b7 3:00 PM ET"
         },
         "odds": {
-          "Sassuolo v Fiorentina: Both teams to score": -210,
-          "Atalanta v Parma: Atalanta over 1.5 goals": -200
+          "Manchester United v AS Roma: Both teams to score": -199,
+          "Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals": -183
         }
       }
     ],
     "announced": {
-      "The Net Count": [
-        "Atalanta v Parma: Atalanta over 1.5 goals",
-        "Sassuolo v Fiorentina: Both teams to score"
-      ],
-      "Target Man": [
-        "Nikola Krstovic"
-      ],
-      "The Banker": [
-        "Nikola Krstovic"
+      "Final Tally": [
+        "Manchester United v AS Roma: Both teams to score",
+        "Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals"
       ]
     },
     "abets": [
-      "totals||Atalanta v Parma: Atalanta over 1.5 goals,Sassuolo v Fiorentina: Both teams to score",
-      "|anytime goalscorer|Nikola Krstovic"
+      "totals||Manchester United v AS Roma: Both teams to score,Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals"
     ],
-    "slate": "2026-11-02",
-    "hits": [
-      "t:Sassuolo v Fiorentina: Both teams to score"
-    ],
+    "slate": "2026-11-03",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 01:12:53 GMT",
-    "checked_at": "2026-11-03T01:17:18.564397+00:00"
+    "last_modified": "Tue, 03 Nov 2026 01:22:45 GMT",
+    "checked_at": "2026-11-03T01:23:13.950266+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "738e32267f468fbd0d8c34ab27dd23862dadb9b1bfe77dff3cbd6c1f9076e481",
@@ -204,8 +168,8 @@
       "best": 0,
       "settled": false
     },
-    "last_modified": "Tue, 03 Nov 2026 01:12:53 GMT",
-    "checked_at": "2026-11-03T01:17:19.342705+00:00"
+    "last_modified": "Tue, 03 Nov 2026 01:22:45 GMT",
+    "checked_at": "2026-11-03T01:23:15.011062+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "c94edf11cc31716c574c0c663e8d4217dd7800be7d893f9e88393080b9c42992",
@@ -579,7 +543,7 @@
     "slate": "2026-11-02",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 01:12:53 GMT",
-    "checked_at": "2026-11-03T01:17:20.737521+00:00"
+    "last_modified": "Tue, 03 Nov 2026 01:22:45 GMT",
+    "checked_at": "2026-11-03T01:23:16.587387+00:00"
   }
 }
