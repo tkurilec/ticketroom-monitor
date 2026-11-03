@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 04:40:06 GMT",
-    "checked_at": "2026-11-03T05:00:22.525405+00:00"
+    "last_modified": "Tue, 03 Nov 2026 19:01:12 GMT",
+    "checked_at": "2026-11-03T19:01:17.038009+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "57f683b8017b96ac1c236a814a3fd98ec8e7077f1eafd67165c2d6910e557d5b",
+    "hash": "bd0a869c3c1582b67f124d918247af70b3fe840a630a618a2024260bc5a97fa1",
     "confirmed": [
       {
         "name": "Final Tally",
@@ -30,22 +30,107 @@
           "Manchester United v AS Roma: Both teams to score": -199,
           "Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals": -183
         }
+      },
+      {
+        "name": "First Time",
+        "legs": [
+          "Donyell Malen"
+        ],
+        "rr": false,
+        "info": {
+          "Donyell Malen": "AS Roma vs Manchester United \u00b7 Tue Nov 3 \u00b7 3:00 PM ET"
+        },
+        "odds": {
+          "Donyell Malen": 115
+        }
+      },
+      {
+        "name": "Leading Man",
+        "legs": [
+          "Donyell Malen"
+        ],
+        "rr": false,
+        "info": {
+          "Donyell Malen": "AS Roma vs Manchester United \u00b7 Tue Nov 3 \u00b7 3:00 PM ET"
+        },
+        "odds": {
+          "Donyell Malen": 115
+        },
+        "units": 2
+      },
+      {
+        "name": "Near Post",
+        "legs": [
+          "Harry Kane"
+        ],
+        "rr": false,
+        "info": {
+          "Harry Kane": "Bayern Munich vs Atl\u00e9tico Madrid \u00b7 Tue Nov 3 \u00b7 3:00 PM ET"
+        },
+        "odds": {
+          "Harry Kane": -100
+        }
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Raphinha"
+        ],
+        "rr": false,
+        "info": {
+          "Raphinha": "Barcelona vs Aston Villa \u00b7 Tue Nov 3 \u00b7 3:00 PM ET"
+        },
+        "odds": {
+          "Raphinha": -165
+        }
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Lamine Yamal Nasraqui Ebana"
+        ],
+        "rr": false,
+        "info": {
+          "Lamine Yamal Nasraqui Ebana": "Barcelona vs Aston Villa \u00b7 Tue Nov 3 \u00b7 3:00 PM ET"
+        },
+        "odds": {
+          "Lamine Yamal Nasraqui Ebana": -120
+        }
       }
     ],
     "announced": {
       "Final Tally": [
         "Manchester United v AS Roma: Both teams to score",
         "Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals"
+      ],
+      "First Time": [
+        "Donyell Malen"
+      ],
+      "Leading Man": [
+        "Donyell Malen"
+      ],
+      "Near Post": [
+        "Harry Kane"
+      ],
+      "Target Man": [
+        "Raphinha"
+      ],
+      "The Poacher": [
+        "Lamine Yamal Nasraqui Ebana"
       ]
     },
     "abets": [
-      "totals||Manchester United v AS Roma: Both teams to score,Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals"
+      "totals||Manchester United v AS Roma: Both teams to score,Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals",
+      "|anytime goalscorer|Donyell Malen",
+      "|anytime goalscorer|Harry Kane",
+      "|anytime goalscorer|Lamine Yamal Nasraqui Ebana",
+      "|anytime goalscorer|Raphinha"
     ],
     "slate": "2026-11-03",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 04:40:06 GMT",
-    "checked_at": "2026-11-03T05:00:23.393090+00:00"
+    "last_modified": "Tue, 03 Nov 2026 19:01:12 GMT",
+    "checked_at": "2026-11-03T19:01:19.728494+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -87,8 +172,8 @@
       "best": 43,
       "settled": true
     },
-    "last_modified": "Tue, 03 Nov 2026 04:40:06 GMT",
-    "checked_at": "2026-11-03T05:00:23.684656+00:00"
+    "last_modified": "Tue, 03 Nov 2026 19:01:12 GMT",
+    "checked_at": "2026-11-03T19:01:19.934133+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -200,7 +285,7 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 04:40:06 GMT",
-    "checked_at": "2026-11-03T05:00:24.050971+00:00"
+    "last_modified": "Tue, 03 Nov 2026 19:01:12 GMT",
+    "checked_at": "2026-11-03T19:01:20.067191+00:00"
   }
 }

@@ -194,6 +194,62 @@
           "bkey": "totals||Manchester United v AS Roma: Both teams to score,Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals",
           "result": null,
           "pl": null
+        },
+        "First Time": {
+          "legs": [
+            "Donyell Malen"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 2,
+          "odds": {
+            "Donyell Malen": 115
+          },
+          "bkey": "|anytime goalscorer|Donyell Malen",
+          "result": null,
+          "pl": null
+        },
+        "Near Post": {
+          "legs": [
+            "Harry Kane"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Harry Kane": -100
+          },
+          "bkey": "|anytime goalscorer|Harry Kane",
+          "result": null,
+          "pl": null
+        },
+        "Target Man": {
+          "legs": [
+            "Raphinha"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Raphinha": -165
+          },
+          "bkey": "|anytime goalscorer|Raphinha",
+          "result": null,
+          "pl": null
+        },
+        "The Poacher": {
+          "legs": [
+            "Lamine Yamal Nasraqui Ebana"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Lamine Yamal Nasraqui Ebana": -120
+          },
+          "bkey": "|anytime goalscorer|Lamine Yamal Nasraqui Ebana",
+          "result": null,
+          "pl": null
         }
       }
     },
