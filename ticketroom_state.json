@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 01:33:25 GMT",
-    "checked_at": "2026-11-03T01:34:13.054001+00:00"
+    "last_modified": "Tue, 03 Nov 2026 02:37:02 GMT",
+    "checked_at": "2026-11-03T02:37:11.284498+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "57f683b8017b96ac1c236a814a3fd98ec8e7077f1eafd67165c2d6910e557d5b",
@@ -44,8 +44,8 @@
     "slate": "2026-11-03",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 01:33:25 GMT",
-    "checked_at": "2026-11-03T01:34:13.477172+00:00"
+    "last_modified": "Tue, 03 Nov 2026 02:37:02 GMT",
+    "checked_at": "2026-11-03T02:37:11.611734+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "738e32267f468fbd0d8c34ab27dd23862dadb9b1bfe77dff3cbd6c1f9076e481",
@@ -164,15 +164,17 @@
     "slate": "2026-11-02",
     "hits": [],
     "ltd": {
-      "holding": [],
-      "best": 1,
+      "holding": [
+        "Jaxon Smith-Njigba"
+      ],
+      "best": 43,
       "settled": false
     },
-    "last_modified": "Tue, 03 Nov 2026 01:33:25 GMT",
-    "checked_at": "2026-11-03T01:34:14.058807+00:00"
+    "last_modified": "Tue, 03 Nov 2026 02:37:02 GMT",
+    "checked_at": "2026-11-03T02:37:12.368310+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "9bc18f02994984a426a739c107b17ca601263714db8c2a83dfa844d7ce3bbe1b",
+    "hash": "ac944d56c5b822224a41d77451d79ff7c34c660817cd237abfb7a8c0aee30233",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -190,6 +192,36 @@
         "group": "3"
       },
       {
+        "name": "Bucket One",
+        "legs": [
+          "Draymond Green"
+        ],
+        "rr": false,
+        "info": {
+          "Draymond Green": "Warriors vs Suns \u00b7 Mon Nov 2 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "Draymond Green": 1000
+        },
+        "units": 0.6,
+        "group": "15"
+      },
+      {
+        "name": "Center Circle",
+        "legs": [
+          "Bam Adebayo"
+        ],
+        "rr": false,
+        "info": {
+          "Bam Adebayo": "Heat vs Lakers \u00b7 Mon Nov 2 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "Bam Adebayo": 600
+        },
+        "units": 0.3,
+        "group": "13"
+      },
+      {
         "name": "Early Offense",
         "legs": [
           "Precious Achiuwa"
@@ -203,6 +235,21 @@
         },
         "units": 0.2,
         "group": "7"
+      },
+      {
+        "name": "First Bucket",
+        "legs": [
+          "Klay Thompson"
+        ],
+        "rr": false,
+        "info": {
+          "Klay Thompson": "Heat vs Lakers \u00b7 Mon Nov 2 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "Klay Thompson": 1200
+        },
+        "units": 0.2,
+        "group": "13"
       },
       {
         "name": "First Look",
@@ -473,6 +520,21 @@
         },
         "units": 0.6,
         "group": "10"
+      },
+      {
+        "name": "Win the Tip",
+        "legs": [
+          "Andrew Wiggins"
+        ],
+        "rr": false,
+        "info": {
+          "Andrew Wiggins": "Heat vs Lakers \u00b7 Mon Nov 2 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "Andrew Wiggins": 1300
+        },
+        "units": 0.1,
+        "group": "13"
       }
     ],
     "announced": {
@@ -538,14 +600,29 @@
       ],
       "Jump Ball": [
         "Donovan Clingan"
+      ],
+      "Bucket One": [
+        "Draymond Green"
+      ],
+      "Center Circle": [
+        "Bam Adebayo"
+      ],
+      "First Bucket": [
+        "Klay Thompson"
+      ],
+      "Win the Tip": [
+        "Andrew Wiggins"
       ]
     },
     "abets": [
       "|first basket|Ace Bailey",
+      "|first basket|Andrew Wiggins",
+      "|first basket|Bam Adebayo",
       "|first basket|Day'Ron Sharpe",
       "|first basket|De'Andre Hunter",
       "|first basket|Domantas Sabonis",
       "|first basket|Donovan Clingan",
+      "|first basket|Draymond Green",
       "|first basket|Hugo Gonzalez",
       "|first basket|Isaiah Hartenstein",
       "|first basket|Isaiah Jackson",
@@ -554,6 +631,7 @@
       "|first basket|Jaxson Hayes",
       "|first basket|John Collins",
       "|first basket|Karlo Matkovic",
+      "|first basket|Klay Thompson",
       "|first basket|Kyle Kuzma",
       "|first basket|Myles Turner",
       "|first basket|Naz Reid",
@@ -566,7 +644,7 @@
     "slate": "2026-11-02",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 01:33:25 GMT",
-    "checked_at": "2026-11-03T01:34:16.459456+00:00"
+    "last_modified": "Tue, 03 Nov 2026 02:37:02 GMT",
+    "checked_at": "2026-11-03T02:37:14.888030+00:00"
   }
 }

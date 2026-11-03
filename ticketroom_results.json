@@ -955,6 +955,62 @@
           "bkey": "|first basket|Donovan Clingan",
           "result": null,
           "pl": null
+        },
+        "Bucket One": {
+          "legs": [
+            "Draymond Green"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Draymond Green": 1000
+          },
+          "bkey": "|first basket|Draymond Green",
+          "result": null,
+          "pl": null
+        },
+        "Center Circle": {
+          "legs": [
+            "Bam Adebayo"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Bam Adebayo": 600
+          },
+          "bkey": "|first basket|Bam Adebayo",
+          "result": null,
+          "pl": null
+        },
+        "First Bucket": {
+          "legs": [
+            "Klay Thompson"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "Klay Thompson": 1200
+          },
+          "bkey": "|first basket|Klay Thompson",
+          "result": null,
+          "pl": null
+        },
+        "Win the Tip": {
+          "legs": [
+            "Andrew Wiggins"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.1,
+          "odds": {
+            "Andrew Wiggins": 1300
+          },
+          "bkey": "|first basket|Andrew Wiggins",
+          "result": null,
+          "pl": null
         }
       },
       "2026-11-01": {
