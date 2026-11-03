@@ -941,7 +941,7 @@
           "bkey": "|first basket|Isaiah Jackson",
           "result": null,
           "pl": null,
-          "void": true
+          "void": false
         },
         "Jump Ball": {
           "legs": [
