@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 01:07:05 GMT",
-    "checked_at": "2026-11-03T01:07:18.210019+00:00"
+    "last_modified": "Tue, 03 Nov 2026 01:12:53 GMT",
+    "checked_at": "2026-11-03T01:17:17.361846+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "d7c859d27cfcd481ffc804a289a972f9f2f95ae19a5b497b1443f66778aff976",
@@ -80,8 +80,8 @@
       "t:Sassuolo v Fiorentina: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 01:07:05 GMT",
-    "checked_at": "2026-11-03T01:07:18.994096+00:00"
+    "last_modified": "Tue, 03 Nov 2026 01:12:53 GMT",
+    "checked_at": "2026-11-03T01:17:18.564397+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "738e32267f468fbd0d8c34ab27dd23862dadb9b1bfe77dff3cbd6c1f9076e481",
@@ -199,9 +199,13 @@
     ],
     "slate": "2026-11-02",
     "hits": [],
-    "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 01:07:05 GMT",
-    "checked_at": "2026-11-03T01:07:19.162485+00:00"
+    "ltd": {
+      "holding": [],
+      "best": 0,
+      "settled": false
+    },
+    "last_modified": "Tue, 03 Nov 2026 01:12:53 GMT",
+    "checked_at": "2026-11-03T01:17:19.342705+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "c94edf11cc31716c574c0c663e8d4217dd7800be7d893f9e88393080b9c42992",
@@ -575,7 +579,7 @@
     "slate": "2026-11-02",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 01:07:05 GMT",
-    "checked_at": "2026-11-03T01:07:21.109509+00:00"
+    "last_modified": "Tue, 03 Nov 2026 01:12:53 GMT",
+    "checked_at": "2026-11-03T01:17:20.737521+00:00"
   }
 }
