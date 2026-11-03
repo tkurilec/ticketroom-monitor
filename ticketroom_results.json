@@ -823,6 +823,48 @@
           "bkey": "|first basket|Kyle Kuzma",
           "result": null,
           "pl": null
+        },
+        "Early Offense": {
+          "legs": [
+            "Precious Achiuwa"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "Precious Achiuwa": 1200
+          },
+          "bkey": "|first basket|Precious Achiuwa",
+          "result": null,
+          "pl": null
+        },
+        "Off the Tip": {
+          "legs": [
+            "De'Andre Hunter"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "De'Andre Hunter": 1100
+          },
+          "bkey": "|first basket|De'Andre Hunter",
+          "result": null,
+          "pl": null
+        },
+        "Top of the Key": {
+          "legs": [
+            "Domantas Sabonis"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Domantas Sabonis": 650
+          },
+          "bkey": "|first basket|Domantas Sabonis",
+          "result": null,
+          "pl": null
         }
       },
       "2026-11-01": {

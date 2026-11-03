@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Tue, 03 Nov 2026 00:37:04 GMT",
-    "checked_at": "2026-11-03T00:37:21.592924+00:00"
+    "checked_at": "2026-11-03T00:40:26.886467+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "d7c859d27cfcd481ffc804a289a972f9f2f95ae19a5b497b1443f66778aff976",
@@ -81,7 +81,7 @@
     ],
     "ltd": null,
     "last_modified": "Tue, 03 Nov 2026 00:37:04 GMT",
-    "checked_at": "2026-11-03T00:37:22.150794+00:00"
+    "checked_at": "2026-11-03T00:40:27.428913+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "738e32267f468fbd0d8c34ab27dd23862dadb9b1bfe77dff3cbd6c1f9076e481",
@@ -201,10 +201,10 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Tue, 03 Nov 2026 00:37:04 GMT",
-    "checked_at": "2026-11-03T00:37:22.476321+00:00"
+    "checked_at": "2026-11-03T00:40:27.789633+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "a7f2dfcb3cf0c6e87af1bac0545a770f5262a16686502cd9967799902c54e63d",
+    "hash": "9613a1df9b326112fc72d2dce290b7092b606c3b4d7106c1e452dd30ba16eccc",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -220,6 +220,21 @@
         },
         "units": 0.3,
         "group": "3"
+      },
+      {
+        "name": "Early Offense",
+        "legs": [
+          "Precious Achiuwa"
+        ],
+        "rr": false,
+        "info": {
+          "Precious Achiuwa": "Kings vs Mavericks \u00b7 Mon Nov 2 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Precious Achiuwa": 1200
+        },
+        "units": 0.2,
+        "group": "7"
       },
       {
         "name": "First Look",
@@ -312,6 +327,21 @@
         "group": "8"
       },
       {
+        "name": "Off the Tip",
+        "legs": [
+          "De'Andre Hunter"
+        ],
+        "rr": false,
+        "info": {
+          "De'Andre Hunter": "Kings vs Mavericks \u00b7 Mon Nov 2 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "De'Andre Hunter": 1100
+        },
+        "units": 0.2,
+        "group": "7"
+      },
+      {
         "name": "Open Floor",
         "legs": [
           "Wendell Carter Jr."
@@ -400,6 +430,21 @@
         },
         "units": 0.2,
         "group": "4"
+      },
+      {
+        "name": "Top of the Key",
+        "legs": [
+          "Domantas Sabonis"
+        ],
+        "rr": false,
+        "info": {
+          "Domantas Sabonis": "Kings vs Mavericks \u00b7 Mon Nov 2 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Domantas Sabonis": 650
+        },
+        "units": 0.3,
+        "group": "7"
       }
     ],
     "announced": {
@@ -441,10 +486,21 @@
       ],
       "Lead the Break": [
         "Kyle Kuzma"
+      ],
+      "Early Offense": [
+        "Precious Achiuwa"
+      ],
+      "Off the Tip": [
+        "De'Andre Hunter"
+      ],
+      "Top of the Key": [
+        "Domantas Sabonis"
       ]
     },
     "abets": [
       "|first basket|Day'Ron Sharpe",
+      "|first basket|De'Andre Hunter",
+      "|first basket|Domantas Sabonis",
       "|first basket|Isaiah Hartenstein",
       "|first basket|Jalen Smith",
       "|first basket|Jase Richardson",
@@ -456,12 +512,13 @@
       "|first basket|Nolan Traore",
       "|first basket|Norman Powell",
       "|first basket|Onyeka Okongwu",
+      "|first basket|Precious Achiuwa",
       "|first basket|Wendell Carter Jr."
     ],
     "slate": "2026-11-02",
     "hits": [],
     "ltd": null,
     "last_modified": "Tue, 03 Nov 2026 00:37:04 GMT",
-    "checked_at": "2026-11-03T00:37:23.996780+00:00"
+    "checked_at": "2026-11-03T00:40:29.354845+00:00"
   }
 }
