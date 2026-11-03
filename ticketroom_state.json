@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Tue, 03 Nov 2026 02:37:02 GMT",
-    "checked_at": "2026-11-03T02:37:11.284498+00:00"
+    "checked_at": "2026-11-03T02:40:16.776008+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "57f683b8017b96ac1c236a814a3fd98ec8e7077f1eafd67165c2d6910e557d5b",
@@ -45,7 +45,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Tue, 03 Nov 2026 02:37:02 GMT",
-    "checked_at": "2026-11-03T02:37:11.611734+00:00"
+    "checked_at": "2026-11-03T02:40:17.705964+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "738e32267f468fbd0d8c34ab27dd23862dadb9b1bfe77dff3cbd6c1f9076e481",
@@ -171,10 +171,10 @@
       "settled": false
     },
     "last_modified": "Tue, 03 Nov 2026 02:37:02 GMT",
-    "checked_at": "2026-11-03T02:37:12.368310+00:00"
+    "checked_at": "2026-11-03T02:40:18.377953+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "ac944d56c5b822224a41d77451d79ff7c34c660817cd237abfb7a8c0aee30233",
+    "hash": "9122d76d8b182374bc2b9fefe15f5253990f04d425fb5049bcdd78bc158af599",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -400,6 +400,21 @@
         },
         "units": 0.3,
         "group": "11"
+      },
+      {
+        "name": "Opening Tip",
+        "legs": [
+          "Isaiah Jackson"
+        ],
+        "rr": false,
+        "info": {
+          "Isaiah Jackson": "Clippers vs Raptors \u00b7 Mon Nov 2 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "Isaiah Jackson": 900
+        },
+        "units": 0.6,
+        "group": "14"
       },
       {
         "name": "Out of the Huddle",
@@ -645,6 +660,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Tue, 03 Nov 2026 02:37:02 GMT",
-    "checked_at": "2026-11-03T02:37:14.888030+00:00"
+    "checked_at": "2026-11-03T02:40:19.723686+00:00"
   }
 }
