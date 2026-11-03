@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Tue, 03 Nov 2026 00:07:17 GMT",
-    "checked_at": "2026-11-03T00:08:26.980690+00:00"
+    "checked_at": "2026-11-03T00:10:17.050281+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "d7c859d27cfcd481ffc804a289a972f9f2f95ae19a5b497b1443f66778aff976",
@@ -81,7 +81,7 @@
     ],
     "ltd": null,
     "last_modified": "Tue, 03 Nov 2026 00:07:17 GMT",
-    "checked_at": "2026-11-03T00:08:28.330959+00:00"
+    "checked_at": "2026-11-03T00:10:18.396906+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "738e32267f468fbd0d8c34ab27dd23862dadb9b1bfe77dff3cbd6c1f9076e481",
@@ -201,10 +201,10 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Tue, 03 Nov 2026 00:07:17 GMT",
-    "checked_at": "2026-11-03T00:08:28.953905+00:00"
+    "checked_at": "2026-11-03T00:10:19.060363+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "5850a7b6af27c68397470322825847c667b5d20ea4f0330bbce5e87b99ccd8b9",
+    "hash": "7c4750a84e1d663b0a94df7e0bdee78ff8f7d5f2f2b7f4f2f20bd3bd8231a52f",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -222,6 +222,21 @@
         "group": "3"
       },
       {
+        "name": "First Look",
+        "legs": [
+          "John Collins"
+        ],
+        "rr": false,
+        "info": {
+          "John Collins": "Pistons vs Hornets \u00b7 Mon Nov 2 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "John Collins": 850
+        },
+        "units": 0.3,
+        "group": "5"
+      },
+      {
         "name": "First Points",
         "legs": [
           "Day'Ron Sharpe"
@@ -235,6 +250,21 @@
         },
         "units": 0.3,
         "group": "3"
+      },
+      {
+        "name": "Get on the Board",
+        "legs": [
+          "Naz Reid"
+        ],
+        "rr": false,
+        "info": {
+          "Naz Reid": "Hornets vs Pistons \u00b7 Mon Nov 2 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Naz Reid": 800
+        },
+        "units": 0.3,
+        "group": "5"
       },
       {
         "name": "Open Floor",
@@ -351,6 +381,12 @@
       ],
       "Tip-Off Call": [
         "Jase Richardson"
+      ],
+      "First Look": [
+        "John Collins"
+      ],
+      "Get on the Board": [
+        "Naz Reid"
       ]
     },
     "abets": [
@@ -358,6 +394,8 @@
       "|first basket|Isaiah Hartenstein",
       "|first basket|Jalen Smith",
       "|first basket|Jase Richardson",
+      "|first basket|John Collins",
+      "|first basket|Naz Reid",
       "|first basket|Nolan Traore",
       "|first basket|Norman Powell",
       "|first basket|Onyeka Okongwu",
@@ -367,6 +405,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Tue, 03 Nov 2026 00:07:17 GMT",
-    "checked_at": "2026-11-03T00:08:30.886146+00:00"
+    "checked_at": "2026-11-03T00:10:20.601796+00:00"
   }
 }

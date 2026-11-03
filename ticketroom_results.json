@@ -753,6 +753,34 @@
           "bkey": "|first basket|Jase Richardson",
           "result": null,
           "pl": null
+        },
+        "First Look": {
+          "legs": [
+            "John Collins"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "John Collins": 850
+          },
+          "bkey": "|first basket|John Collins",
+          "result": null,
+          "pl": null
+        },
+        "Get on the Board": {
+          "legs": [
+            "Naz Reid"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Naz Reid": 800
+          },
+          "bkey": "|first basket|Naz Reid",
+          "result": null,
+          "pl": null
         }
       },
       "2026-11-01": {
