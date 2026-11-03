@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 00:37:04 GMT",
-    "checked_at": "2026-11-03T00:40:26.886467+00:00"
+    "last_modified": "Tue, 03 Nov 2026 01:07:05 GMT",
+    "checked_at": "2026-11-03T01:07:18.210019+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "d7c859d27cfcd481ffc804a289a972f9f2f95ae19a5b497b1443f66778aff976",
@@ -80,8 +80,8 @@
       "t:Sassuolo v Fiorentina: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 00:37:04 GMT",
-    "checked_at": "2026-11-03T00:40:27.428913+00:00"
+    "last_modified": "Tue, 03 Nov 2026 01:07:05 GMT",
+    "checked_at": "2026-11-03T01:07:18.994096+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "738e32267f468fbd0d8c34ab27dd23862dadb9b1bfe77dff3cbd6c1f9076e481",
@@ -200,11 +200,11 @@
     "slate": "2026-11-02",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 00:37:04 GMT",
-    "checked_at": "2026-11-03T00:40:27.789633+00:00"
+    "last_modified": "Tue, 03 Nov 2026 01:07:05 GMT",
+    "checked_at": "2026-11-03T01:07:19.162485+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "9613a1df9b326112fc72d2dce290b7092b606c3b4d7106c1e452dd30ba16eccc",
+    "hash": "c94edf11cc31716c574c0c663e8d4217dd7800be7d893f9e88393080b9c42992",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -357,6 +357,21 @@
         "group": "4"
       },
       {
+        "name": "Opening Set",
+        "legs": [
+          "Jaxson Hayes"
+        ],
+        "rr": false,
+        "info": {
+          "Jaxson Hayes": "Jazz vs Spurs \u00b7 Mon Nov 2 \u00b7 8:30 PM ET"
+        },
+        "odds": {
+          "Jaxson Hayes": 1500
+        },
+        "units": 0.3,
+        "group": "11"
+      },
+      {
         "name": "Out of the Huddle",
         "legs": [
           "Norman Powell"
@@ -402,6 +417,21 @@
         "group": "1"
       },
       {
+        "name": "The Starter",
+        "legs": [
+          "Ace Bailey"
+        ],
+        "rr": false,
+        "info": {
+          "Ace Bailey": "Jazz vs Spurs \u00b7 Mon Nov 2 \u00b7 8:30 PM ET"
+        },
+        "odds": {
+          "Ace Bailey": 1100
+        },
+        "units": 0.3,
+        "group": "11"
+      },
+      {
         "name": "Tip Drill",
         "legs": [
           "Onyeka Okongwu"
@@ -445,6 +475,21 @@
         },
         "units": 0.3,
         "group": "7"
+      },
+      {
+        "name": "Two Points",
+        "legs": [
+          "Hugo Gonzalez"
+        ],
+        "rr": false,
+        "info": {
+          "Hugo Gonzalez": "Celtics vs Rockets \u00b7 Mon Nov 2 \u00b7 8:30 PM ET"
+        },
+        "odds": {
+          "Hugo Gonzalez": 1400
+        },
+        "units": 0.6,
+        "group": "10"
       }
     ],
     "announced": {
@@ -495,15 +540,27 @@
       ],
       "Top of the Key": [
         "Domantas Sabonis"
+      ],
+      "Opening Set": [
+        "Jaxson Hayes"
+      ],
+      "The Starter": [
+        "Ace Bailey"
+      ],
+      "Two Points": [
+        "Hugo Gonzalez"
       ]
     },
     "abets": [
+      "|first basket|Ace Bailey",
       "|first basket|Day'Ron Sharpe",
       "|first basket|De'Andre Hunter",
       "|first basket|Domantas Sabonis",
+      "|first basket|Hugo Gonzalez",
       "|first basket|Isaiah Hartenstein",
       "|first basket|Jalen Smith",
       "|first basket|Jase Richardson",
+      "|first basket|Jaxson Hayes",
       "|first basket|John Collins",
       "|first basket|Karlo Matkovic",
       "|first basket|Kyle Kuzma",
@@ -518,7 +575,7 @@
     "slate": "2026-11-02",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 00:37:04 GMT",
-    "checked_at": "2026-11-03T00:40:29.354845+00:00"
+    "last_modified": "Tue, 03 Nov 2026 01:07:05 GMT",
+    "checked_at": "2026-11-03T01:07:21.109509+00:00"
   }
 }
