@@ -248,6 +248,20 @@
           "bkey": "|anytime touchdown|Emanuel Wilson",
           "result": null,
           "pl": null
+        },
+        "King of the End Zone: Jaxon Smith-Njigba": {
+          "legs": [
+            "Jaxon Smith-Njigba"
+          ],
+          "kind": "longtd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jaxon Smith-Njigba": -110
+          },
+          "bkey": "longtd|longest touchdown scorer|Jaxon Smith-Njigba",
+          "result": null,
+          "pl": null
         }
       },
       "2026-11-01": {

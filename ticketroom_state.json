@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 23:56:58 GMT",
-    "checked_at": "2026-11-02T23:57:12.880533+00:00"
+    "last_modified": "Mon, 02 Nov 2026 23:57:19 GMT",
+    "checked_at": "2026-11-03T00:00:21.665880+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "d7c859d27cfcd481ffc804a289a972f9f2f95ae19a5b497b1443f66778aff976",
@@ -80,11 +80,11 @@
       "t:Sassuolo v Fiorentina: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 23:56:58 GMT",
-    "checked_at": "2026-11-02T23:57:14.442971+00:00"
+    "last_modified": "Mon, 02 Nov 2026 23:57:19 GMT",
+    "checked_at": "2026-11-03T00:00:23.031015+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e7f20a528b91a7a1f890cd1d6a0c8ab13ac31ec786d6addfef403994b87b8bb3",
+    "hash": "738e32267f468fbd0d8c34ab27dd23862dadb9b1bfe77dff3cbd6c1f9076e481",
     "confirmed": [
       {
         "name": "Bell Cow",
@@ -110,6 +110,21 @@
         },
         "odds": {
           "Nick Kallerup": 2800
+        }
+      },
+      {
+        "name": "King of the End Zone: Jaxon Smith-Njigba",
+        "legs": [
+          "Jaxon Smith-Njigba"
+        ],
+        "rr": false,
+        "market": "longest touchdown scorer",
+        "kind": "longtd",
+        "info": {
+          "Jaxon Smith-Njigba": "Seahawks vs Bears \u00b7 Mon Nov 2 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Jaxon Smith-Njigba": -110
         }
       },
       {
@@ -169,10 +184,14 @@
       ],
       "The Workhorse": [
         "Emanuel Wilson"
+      ],
+      "King of the End Zone: Jaxon Smith-Njigba": [
+        "Jaxon Smith-Njigba"
       ]
     },
     "abets": [
       "ftd|first touchdown scorer|Jaxon Smith-Njigba",
+      "longtd|longest touchdown scorer|Jaxon Smith-Njigba",
       "|anytime touchdown|Emanuel Wilson",
       "|anytime touchdown|Jadarian Price",
       "|anytime touchdown|Jahdae Walker",
@@ -181,8 +200,8 @@
     "slate": "2026-11-02",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 23:56:58 GMT",
-    "checked_at": "2026-11-02T23:57:16.170530+00:00"
+    "last_modified": "Mon, 02 Nov 2026 23:57:19 GMT",
+    "checked_at": "2026-11-03T00:00:25.064938+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "a9b4f0585e264d0d9adbf17dfd999d8443259fa1b0ab0fef36c9cc61a516bede",
@@ -214,7 +233,7 @@
     "slate": "2026-11-02",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 23:56:58 GMT",
-    "checked_at": "2026-11-02T23:57:16.470910+00:00"
+    "last_modified": "Mon, 02 Nov 2026 23:57:19 GMT",
+    "checked_at": "2026-11-03T00:00:25.732771+00:00"
   }
 }
