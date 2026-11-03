@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 00:07:17 GMT",
-    "checked_at": "2026-11-03T00:10:17.050281+00:00"
+    "last_modified": "Tue, 03 Nov 2026 00:37:04 GMT",
+    "checked_at": "2026-11-03T00:37:21.592924+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "d7c859d27cfcd481ffc804a289a972f9f2f95ae19a5b497b1443f66778aff976",
@@ -80,8 +80,8 @@
       "t:Sassuolo v Fiorentina: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 00:07:17 GMT",
-    "checked_at": "2026-11-03T00:10:18.396906+00:00"
+    "last_modified": "Tue, 03 Nov 2026 00:37:04 GMT",
+    "checked_at": "2026-11-03T00:37:22.150794+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "738e32267f468fbd0d8c34ab27dd23862dadb9b1bfe77dff3cbd6c1f9076e481",
@@ -200,11 +200,11 @@
     "slate": "2026-11-02",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 00:07:17 GMT",
-    "checked_at": "2026-11-03T00:10:19.060363+00:00"
+    "last_modified": "Tue, 03 Nov 2026 00:37:04 GMT",
+    "checked_at": "2026-11-03T00:37:22.476321+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "7c4750a84e1d663b0a94df7e0bdee78ff8f7d5f2f2b7f4f2f20bd3bd8231a52f",
+    "hash": "a7f2dfcb3cf0c6e87af1bac0545a770f5262a16686502cd9967799902c54e63d",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -252,6 +252,21 @@
         "group": "3"
       },
       {
+        "name": "First Touch",
+        "legs": [
+          "Karlo Matkovic"
+        ],
+        "rr": false,
+        "info": {
+          "Karlo Matkovic": "Pelicans vs Grizzlies \u00b7 Mon Nov 2 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Karlo Matkovic": 1700
+        },
+        "units": 0.6,
+        "group": "9"
+      },
+      {
         "name": "Get on the Board",
         "legs": [
           "Naz Reid"
@@ -265,6 +280,36 @@
         },
         "units": 0.3,
         "group": "5"
+      },
+      {
+        "name": "Ice Breaker",
+        "legs": [
+          "Myles Turner"
+        ],
+        "rr": false,
+        "info": {
+          "Myles Turner": "Bucks vs Timberwolves \u00b7 Mon Nov 2 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Myles Turner": 1100
+        },
+        "units": 0.3,
+        "group": "8"
+      },
+      {
+        "name": "Lead the Break",
+        "legs": [
+          "Kyle Kuzma"
+        ],
+        "rr": false,
+        "info": {
+          "Kyle Kuzma": "Bucks vs Timberwolves \u00b7 Mon Nov 2 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Kyle Kuzma": 1300
+        },
+        "units": 0.3,
+        "group": "8"
       },
       {
         "name": "Open Floor",
@@ -387,6 +432,15 @@
       ],
       "Get on the Board": [
         "Naz Reid"
+      ],
+      "First Touch": [
+        "Karlo Matkovic"
+      ],
+      "Ice Breaker": [
+        "Myles Turner"
+      ],
+      "Lead the Break": [
+        "Kyle Kuzma"
       ]
     },
     "abets": [
@@ -395,6 +449,9 @@
       "|first basket|Jalen Smith",
       "|first basket|Jase Richardson",
       "|first basket|John Collins",
+      "|first basket|Karlo Matkovic",
+      "|first basket|Kyle Kuzma",
+      "|first basket|Myles Turner",
       "|first basket|Naz Reid",
       "|first basket|Nolan Traore",
       "|first basket|Norman Powell",
@@ -404,7 +461,7 @@
     "slate": "2026-11-02",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 00:07:17 GMT",
-    "checked_at": "2026-11-03T00:10:20.601796+00:00"
+    "last_modified": "Tue, 03 Nov 2026 00:37:04 GMT",
+    "checked_at": "2026-11-03T00:37:23.996780+00:00"
   }
 }

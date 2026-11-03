@@ -781,6 +781,48 @@
           "bkey": "|first basket|Naz Reid",
           "result": null,
           "pl": null
+        },
+        "First Touch": {
+          "legs": [
+            "Karlo Matkovic"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Karlo Matkovic": 1700
+          },
+          "bkey": "|first basket|Karlo Matkovic",
+          "result": null,
+          "pl": null
+        },
+        "Ice Breaker": {
+          "legs": [
+            "Myles Turner"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Myles Turner": 1100
+          },
+          "bkey": "|first basket|Myles Turner",
+          "result": null,
+          "pl": null
+        },
+        "Lead the Break": {
+          "legs": [
+            "Kyle Kuzma"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Kyle Kuzma": 1300
+          },
+          "bkey": "|first basket|Kyle Kuzma",
+          "result": null,
+          "pl": null
         }
       },
       "2026-11-01": {
