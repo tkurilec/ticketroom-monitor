@@ -927,6 +927,20 @@
           "bkey": "|first basket|Hugo Gonzalez",
           "result": null,
           "pl": null
+        },
+        "Opening Tip": {
+          "legs": [
+            "Isaiah Jackson"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Isaiah Jackson": 900
+          },
+          "bkey": "|first basket|Isaiah Jackson",
+          "result": null,
+          "pl": null
         }
       },
       "2026-11-01": {
