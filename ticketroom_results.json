@@ -655,6 +655,104 @@
           "bkey": "|first basket|Isaiah Hartenstein",
           "result": null,
           "pl": null
+        },
+        "Break the Seal": {
+          "legs": [
+            "Nolan Traore"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Nolan Traore": 1300
+          },
+          "bkey": "|first basket|Nolan Traore",
+          "result": null,
+          "pl": null
+        },
+        "First Points": {
+          "legs": [
+            "Day'Ron Sharpe"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Day'Ron Sharpe": 1000
+          },
+          "bkey": "|first basket|Day'Ron Sharpe",
+          "result": null,
+          "pl": null
+        },
+        "Open Floor": {
+          "legs": [
+            "Wendell Carter Jr."
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.4,
+          "odds": {
+            "Wendell Carter Jr.": 700
+          },
+          "bkey": "|first basket|Wendell Carter Jr.",
+          "result": null,
+          "pl": null
+        },
+        "Out of the Huddle": {
+          "legs": [
+            "Norman Powell"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Norman Powell": 1000
+          },
+          "bkey": "|first basket|Norman Powell",
+          "result": null,
+          "pl": null
+        },
+        "Set Play": {
+          "legs": [
+            "Jalen Smith"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Jalen Smith": 1000
+          },
+          "bkey": "|first basket|Jalen Smith",
+          "result": null,
+          "pl": null
+        },
+        "Tip Drill": {
+          "legs": [
+            "Onyeka Okongwu"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Onyeka Okongwu": 950
+          },
+          "bkey": "|first basket|Onyeka Okongwu",
+          "result": null,
+          "pl": null
+        },
+        "Tip-Off Call": {
+          "legs": [
+            "Jase Richardson"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "Jase Richardson": 1500
+          },
+          "bkey": "|first basket|Jase Richardson",
+          "result": null,
+          "pl": null
         }
       },
       "2026-11-01": {

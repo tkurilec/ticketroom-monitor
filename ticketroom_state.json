@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 23:57:19 GMT",
-    "checked_at": "2026-11-03T00:00:21.665880+00:00"
+    "last_modified": "Tue, 03 Nov 2026 00:07:17 GMT",
+    "checked_at": "2026-11-03T00:08:26.980690+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "d7c859d27cfcd481ffc804a289a972f9f2f95ae19a5b497b1443f66778aff976",
@@ -80,8 +80,8 @@
       "t:Sassuolo v Fiorentina: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 23:57:19 GMT",
-    "checked_at": "2026-11-03T00:00:23.031015+00:00"
+    "last_modified": "Tue, 03 Nov 2026 00:07:17 GMT",
+    "checked_at": "2026-11-03T00:08:28.330959+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "738e32267f468fbd0d8c34ab27dd23862dadb9b1bfe77dff3cbd6c1f9076e481",
@@ -200,12 +200,87 @@
     "slate": "2026-11-02",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 23:57:19 GMT",
-    "checked_at": "2026-11-03T00:00:25.064938+00:00"
+    "last_modified": "Tue, 03 Nov 2026 00:07:17 GMT",
+    "checked_at": "2026-11-03T00:08:28.953905+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "a9b4f0585e264d0d9adbf17dfd999d8443259fa1b0ab0fef36c9cc61a516bede",
+    "hash": "5850a7b6af27c68397470322825847c667b5d20ea4f0330bbce5e87b99ccd8b9",
     "confirmed": [
+      {
+        "name": "Break the Seal",
+        "legs": [
+          "Nolan Traore"
+        ],
+        "rr": false,
+        "info": {
+          "Nolan Traore": "Nets vs Knicks \u00b7 Mon Nov 2 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Nolan Traore": 1300
+        },
+        "units": 0.3,
+        "group": "3"
+      },
+      {
+        "name": "First Points",
+        "legs": [
+          "Day'Ron Sharpe"
+        ],
+        "rr": false,
+        "info": {
+          "Day'Ron Sharpe": "Nets vs Knicks \u00b7 Mon Nov 2 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Day'Ron Sharpe": 1000
+        },
+        "units": 0.3,
+        "group": "3"
+      },
+      {
+        "name": "Open Floor",
+        "legs": [
+          "Wendell Carter Jr."
+        ],
+        "rr": false,
+        "info": {
+          "Wendell Carter Jr.": "Magic vs Wizards \u00b7 Mon Nov 2 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Wendell Carter Jr.": 700
+        },
+        "units": 0.4,
+        "group": "4"
+      },
+      {
+        "name": "Out of the Huddle",
+        "legs": [
+          "Norman Powell"
+        ],
+        "rr": false,
+        "info": {
+          "Norman Powell": "Bulls vs 76ers \u00b7 Mon Nov 2 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Norman Powell": 1000
+        },
+        "units": 0.3,
+        "group": "6"
+      },
+      {
+        "name": "Set Play",
+        "legs": [
+          "Jalen Smith"
+        ],
+        "rr": false,
+        "info": {
+          "Jalen Smith": "Bulls vs 76ers \u00b7 Mon Nov 2 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Jalen Smith": 1000
+        },
+        "units": 0.3,
+        "group": "6"
+      },
       {
         "name": "The Opener",
         "legs": [
@@ -220,20 +295,78 @@
         },
         "units": 0.6,
         "group": "1"
+      },
+      {
+        "name": "Tip Drill",
+        "legs": [
+          "Onyeka Okongwu"
+        ],
+        "rr": false,
+        "info": {
+          "Onyeka Okongwu": "Hawks vs Pacers \u00b7 Mon Nov 2 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Onyeka Okongwu": 950
+        },
+        "units": 0.6,
+        "group": "2"
+      },
+      {
+        "name": "Tip-Off Call",
+        "legs": [
+          "Jase Richardson"
+        ],
+        "rr": false,
+        "info": {
+          "Jase Richardson": "Magic vs Wizards \u00b7 Mon Nov 2 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Jase Richardson": 1500
+        },
+        "units": 0.2,
+        "group": "4"
       }
     ],
     "announced": {
       "The Opener": [
         "Isaiah Hartenstein"
+      ],
+      "Break the Seal": [
+        "Nolan Traore"
+      ],
+      "First Points": [
+        "Day'Ron Sharpe"
+      ],
+      "Open Floor": [
+        "Wendell Carter Jr."
+      ],
+      "Out of the Huddle": [
+        "Norman Powell"
+      ],
+      "Set Play": [
+        "Jalen Smith"
+      ],
+      "Tip Drill": [
+        "Onyeka Okongwu"
+      ],
+      "Tip-Off Call": [
+        "Jase Richardson"
       ]
     },
     "abets": [
-      "|first basket|Isaiah Hartenstein"
+      "|first basket|Day'Ron Sharpe",
+      "|first basket|Isaiah Hartenstein",
+      "|first basket|Jalen Smith",
+      "|first basket|Jase Richardson",
+      "|first basket|Nolan Traore",
+      "|first basket|Norman Powell",
+      "|first basket|Onyeka Okongwu",
+      "|first basket|Wendell Carter Jr."
     ],
     "slate": "2026-11-02",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 02 Nov 2026 23:57:19 GMT",
-    "checked_at": "2026-11-03T00:00:25.732771+00:00"
+    "last_modified": "Tue, 03 Nov 2026 00:07:17 GMT",
+    "checked_at": "2026-11-03T00:08:30.886146+00:00"
   }
 }
