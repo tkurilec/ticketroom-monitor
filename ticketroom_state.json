@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 01:31:38 GMT",
-    "checked_at": "2026-11-03T01:32:12.779608+00:00"
+    "last_modified": "Tue, 03 Nov 2026 01:33:25 GMT",
+    "checked_at": "2026-11-03T01:34:13.054001+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "57f683b8017b96ac1c236a814a3fd98ec8e7077f1eafd67165c2d6910e557d5b",
@@ -44,8 +44,8 @@
     "slate": "2026-11-03",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 01:31:38 GMT",
-    "checked_at": "2026-11-03T01:32:13.114307+00:00"
+    "last_modified": "Tue, 03 Nov 2026 01:33:25 GMT",
+    "checked_at": "2026-11-03T01:34:13.477172+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "738e32267f468fbd0d8c34ab27dd23862dadb9b1bfe77dff3cbd6c1f9076e481",
@@ -168,11 +168,11 @@
       "best": 1,
       "settled": false
     },
-    "last_modified": "Tue, 03 Nov 2026 01:31:38 GMT",
-    "checked_at": "2026-11-03T01:32:13.411671+00:00"
+    "last_modified": "Tue, 03 Nov 2026 01:33:25 GMT",
+    "checked_at": "2026-11-03T01:34:14.058807+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "6e792a70686efc42c487f69cb40266a36280b3dc16e2940de44ed892a1dac497",
+    "hash": "9bc18f02994984a426a739c107b17ca601263714db8c2a83dfa844d7ce3bbe1b",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -280,6 +280,21 @@
         "group": "8"
       },
       {
+        "name": "Jump Ball",
+        "legs": [
+          "Donovan Clingan"
+        ],
+        "rr": false,
+        "info": {
+          "Donovan Clingan": "Trail Blazers vs Nuggets \u00b7 Mon Nov 2 \u00b7 9:00 PM ET"
+        },
+        "odds": {
+          "Donovan Clingan": 950
+        },
+        "units": 0.6,
+        "group": "12"
+      },
+      {
         "name": "Lead the Break",
         "legs": [
           "Kyle Kuzma"
@@ -338,21 +353,6 @@
         },
         "units": 0.3,
         "group": "11"
-      },
-      {
-        "name": "Opening Tip",
-        "legs": [
-          "Isaiah Jackson"
-        ],
-        "rr": false,
-        "info": {
-          "Isaiah Jackson": "Clippers vs Raptors \u00b7 Mon Nov 2 \u00b7 10:00 PM ET"
-        },
-        "odds": {
-          "Isaiah Jackson": 900
-        },
-        "units": 0.6,
-        "group": "14"
       },
       {
         "name": "Out of the Huddle",
@@ -535,6 +535,9 @@
       ],
       "Opening Tip": [
         "Isaiah Jackson"
+      ],
+      "Jump Ball": [
+        "Donovan Clingan"
       ]
     },
     "abets": [
@@ -542,6 +545,7 @@
       "|first basket|Day'Ron Sharpe",
       "|first basket|De'Andre Hunter",
       "|first basket|Domantas Sabonis",
+      "|first basket|Donovan Clingan",
       "|first basket|Hugo Gonzalez",
       "|first basket|Isaiah Hartenstein",
       "|first basket|Isaiah Jackson",
@@ -562,7 +566,7 @@
     "slate": "2026-11-02",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 01:31:38 GMT",
-    "checked_at": "2026-11-03T01:32:14.043487+00:00"
+    "last_modified": "Tue, 03 Nov 2026 01:33:25 GMT",
+    "checked_at": "2026-11-03T01:34:16.459456+00:00"
   }
 }

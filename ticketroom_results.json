@@ -941,6 +941,20 @@
           "bkey": "|first basket|Isaiah Jackson",
           "result": null,
           "pl": null
+        },
+        "Jump Ball": {
+          "legs": [
+            "Donovan Clingan"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Donovan Clingan": 950
+          },
+          "bkey": "|first basket|Donovan Clingan",
+          "result": null,
+          "pl": null
         }
       },
       "2026-11-01": {
