@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 04 Nov 2026 01:21:44 GMT",
-    "checked_at": "2026-11-04T01:22:10.853206+00:00"
+    "last_modified": "Wed, 04 Nov 2026 11:06:03 GMT",
+    "checked_at": "2026-11-04T11:07:13.398836+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "56e7172c3a0fff324db269da33b54e4d763d8d4236f0a074fdf74e8788050641",
@@ -44,8 +44,8 @@
     "slate": "2026-11-04",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 04 Nov 2026 01:21:44 GMT",
-    "checked_at": "2026-11-04T01:22:13.185408+00:00"
+    "last_modified": "Wed, 04 Nov 2026 11:06:03 GMT",
+    "checked_at": "2026-11-04T11:07:13.939037+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -87,120 +87,18 @@
       "best": 43,
       "settled": true
     },
-    "last_modified": "Wed, 04 Nov 2026 01:21:44 GMT",
-    "checked_at": "2026-11-04T01:22:13.575029+00:00"
+    "last_modified": "Wed, 04 Nov 2026 11:06:03 GMT",
+    "checked_at": "2026-11-04T11:07:14.166135+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "The Opener": [
-        "Isaiah Hartenstein"
-      ],
-      "Break the Seal": [
-        "Nolan Traore"
-      ],
-      "First Points": [
-        "Day'Ron Sharpe"
-      ],
-      "Open Floor": [
-        "Wendell Carter Jr."
-      ],
-      "Out of the Huddle": [
-        "Norman Powell"
-      ],
-      "Set Play": [
-        "Jalen Smith"
-      ],
-      "Tip Drill": [
-        "Onyeka Okongwu"
-      ],
-      "Tip-Off Call": [
-        "Jase Richardson"
-      ],
-      "First Look": [
-        "John Collins"
-      ],
-      "Get on the Board": [
-        "Naz Reid"
-      ],
-      "First Touch": [
-        "Karlo Matkovic"
-      ],
-      "Ice Breaker": [
-        "Myles Turner"
-      ],
-      "Lead the Break": [
-        "Kyle Kuzma"
-      ],
-      "Early Offense": [
-        "Precious Achiuwa"
-      ],
-      "Off the Tip": [
-        "De'Andre Hunter"
-      ],
-      "Top of the Key": [
-        "Domantas Sabonis"
-      ],
-      "Opening Set": [
-        "Jaxson Hayes"
-      ],
-      "The Starter": [
-        "Ace Bailey"
-      ],
-      "Two Points": [
-        "Hugo Gonzalez"
-      ],
-      "Opening Tip": [
-        "Isaiah Jackson"
-      ],
-      "Jump Ball": [
-        "Donovan Clingan"
-      ],
-      "Bucket One": [
-        "Draymond Green"
-      ],
-      "Center Circle": [
-        "Bam Adebayo"
-      ],
-      "First Bucket": [
-        "Klay Thompson"
-      ],
-      "Win the Tip": [
-        "Andrew Wiggins"
-      ]
-    },
-    "abets": [
-      "|first basket|Ace Bailey",
-      "|first basket|Andrew Wiggins",
-      "|first basket|Bam Adebayo",
-      "|first basket|Day'Ron Sharpe",
-      "|first basket|De'Andre Hunter",
-      "|first basket|Domantas Sabonis",
-      "|first basket|Donovan Clingan",
-      "|first basket|Draymond Green",
-      "|first basket|Hugo Gonzalez",
-      "|first basket|Isaiah Hartenstein",
-      "|first basket|Isaiah Jackson",
-      "|first basket|Jalen Smith",
-      "|first basket|Jase Richardson",
-      "|first basket|Jaxson Hayes",
-      "|first basket|John Collins",
-      "|first basket|Karlo Matkovic",
-      "|first basket|Klay Thompson",
-      "|first basket|Kyle Kuzma",
-      "|first basket|Myles Turner",
-      "|first basket|Naz Reid",
-      "|first basket|Nolan Traore",
-      "|first basket|Norman Powell",
-      "|first basket|Onyeka Okongwu",
-      "|first basket|Precious Achiuwa",
-      "|first basket|Wendell Carter Jr."
-    ],
-    "slate": null,
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-04",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 04 Nov 2026 01:21:44 GMT",
-    "checked_at": "2026-11-04T01:22:13.917817+00:00"
+    "last_modified": "Wed, 04 Nov 2026 11:06:03 GMT",
+    "checked_at": "2026-11-04T11:07:14.334949+00:00"
   }
 }
