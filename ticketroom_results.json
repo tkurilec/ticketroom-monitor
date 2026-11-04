@@ -192,8 +192,9 @@
             "Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals": -183
           },
           "bkey": "totals||Manchester United v AS Roma: Both teams to score,Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.323557679105912,
+          "legs_hit": 2
         },
         "First Time": {
           "legs": [
@@ -206,8 +207,9 @@
             "Donyell Malen": 115
           },
           "bkey": "|anytime goalscorer|Donyell Malen",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 2.3,
+          "legs_hit": 1
         },
         "Near Post": {
           "legs": [
@@ -220,8 +222,9 @@
             "Harry Kane": -100
           },
           "bkey": "|anytime goalscorer|Harry Kane",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Target Man": {
           "legs": [
@@ -234,8 +237,9 @@
             "Raphinha": -165
           },
           "bkey": "|anytime goalscorer|Raphinha",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.606060606060606,
+          "legs_hit": 1
         },
         "The Poacher": {
           "legs": [
@@ -248,6 +252,25 @@
             "Lamine Yamal Nasraqui Ebana": -120
           },
           "bkey": "|anytime goalscorer|Lamine Yamal Nasraqui Ebana",
+          "result": "won",
+          "pl": 0.8333333333333335,
+          "legs_hit": 1
+        }
+      },
+      "2026-11-04": {
+        "Ninety Minutes": {
+          "legs": [
+            "Lens v Como: Both teams to score",
+            "RB Leipzig v Manchester City: Both teams to score"
+          ],
+          "kind": "totals",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "RB Leipzig v Manchester City: Both teams to score": -229,
+            "Lens v Como: Both teams to score": -186
+          },
+          "bkey": "totals||Lens v Como: Both teams to score,RB Leipzig v Manchester City: Both teams to score",
           "result": null,
           "pl": null
         }

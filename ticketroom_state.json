@@ -7,136 +7,45 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 21:47:05 GMT",
-    "checked_at": "2026-11-03T21:53:11.803923+00:00"
+    "last_modified": "Wed, 04 Nov 2026 01:21:44 GMT",
+    "checked_at": "2026-11-04T01:22:10.853206+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "bd0a869c3c1582b67f124d918247af70b3fe840a630a618a2024260bc5a97fa1",
+    "hash": "56e7172c3a0fff324db269da33b54e4d763d8d4236f0a074fdf74e8788050641",
     "confirmed": [
       {
-        "name": "Final Tally",
+        "name": "Ninety Minutes",
         "legs": [
-          "Manchester United v AS Roma: Both teams to score",
-          "Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals"
+          "Lens v Como: Both teams to score",
+          "RB Leipzig v Manchester City: Both teams to score"
         ],
         "rr": false,
         "market": "",
         "kind": "totals",
         "info": {
-          "Manchester United v AS Roma: Both teams to score": "Tue Nov 3 \u00b7 3:00 PM ET",
-          "Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals": "Tue Nov 3 \u00b7 3:00 PM ET"
+          "RB Leipzig v Manchester City: Both teams to score": "Wed Nov 4 \u00b7 3:00 PM ET",
+          "Lens v Como: Both teams to score": "Wed Nov 4 \u00b7 3:00 PM ET"
         },
         "odds": {
-          "Manchester United v AS Roma: Both teams to score": -199,
-          "Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals": -183
-        }
-      },
-      {
-        "name": "First Time",
-        "legs": [
-          "Donyell Malen"
-        ],
-        "rr": false,
-        "info": {
-          "Donyell Malen": "AS Roma vs Manchester United \u00b7 Tue Nov 3 \u00b7 3:00 PM ET"
-        },
-        "odds": {
-          "Donyell Malen": 115
-        }
-      },
-      {
-        "name": "Leading Man",
-        "legs": [
-          "Donyell Malen"
-        ],
-        "rr": false,
-        "info": {
-          "Donyell Malen": "AS Roma vs Manchester United \u00b7 Tue Nov 3 \u00b7 3:00 PM ET"
-        },
-        "odds": {
-          "Donyell Malen": 115
-        },
-        "units": 2
-      },
-      {
-        "name": "Near Post",
-        "legs": [
-          "Harry Kane"
-        ],
-        "rr": false,
-        "info": {
-          "Harry Kane": "Bayern Munich vs Atl\u00e9tico Madrid \u00b7 Tue Nov 3 \u00b7 3:00 PM ET"
-        },
-        "odds": {
-          "Harry Kane": -100
-        }
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Raphinha"
-        ],
-        "rr": false,
-        "info": {
-          "Raphinha": "Barcelona vs Aston Villa \u00b7 Tue Nov 3 \u00b7 3:00 PM ET"
-        },
-        "odds": {
-          "Raphinha": -165
-        }
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Lamine Yamal Nasraqui Ebana"
-        ],
-        "rr": false,
-        "info": {
-          "Lamine Yamal Nasraqui Ebana": "Barcelona vs Aston Villa \u00b7 Tue Nov 3 \u00b7 3:00 PM ET"
-        },
-        "odds": {
-          "Lamine Yamal Nasraqui Ebana": -120
+          "RB Leipzig v Manchester City: Both teams to score": -229,
+          "Lens v Como: Both teams to score": -186
         }
       }
     ],
     "announced": {
-      "Final Tally": [
-        "Manchester United v AS Roma: Both teams to score",
-        "Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals"
-      ],
-      "First Time": [
-        "Donyell Malen"
-      ],
-      "Leading Man": [
-        "Donyell Malen"
-      ],
-      "Near Post": [
-        "Harry Kane"
-      ],
-      "Target Man": [
-        "Raphinha"
-      ],
-      "The Poacher": [
-        "Lamine Yamal Nasraqui Ebana"
+      "Ninety Minutes": [
+        "Lens v Como: Both teams to score",
+        "RB Leipzig v Manchester City: Both teams to score"
       ]
     },
     "abets": [
-      "totals||Manchester United v AS Roma: Both teams to score,Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals",
-      "|anytime goalscorer|Donyell Malen",
-      "|anytime goalscorer|Harry Kane",
-      "|anytime goalscorer|Lamine Yamal Nasraqui Ebana",
-      "|anytime goalscorer|Raphinha"
+      "totals||Lens v Como: Both teams to score,RB Leipzig v Manchester City: Both teams to score"
     ],
-    "slate": "2026-11-03",
-    "hits": [
-      "a:Donyell Malen",
-      "a:Lamine Yamal Nasraqui Ebana",
-      "a:Raphinha",
-      "t:Manchester United v AS Roma: Both teams to score",
-      "t:Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals"
-    ],
+    "slate": "2026-11-04",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 21:47:05 GMT",
-    "checked_at": "2026-11-03T21:53:13.149025+00:00"
+    "last_modified": "Wed, 04 Nov 2026 01:21:44 GMT",
+    "checked_at": "2026-11-04T01:22:13.185408+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -178,8 +87,8 @@
       "best": 43,
       "settled": true
     },
-    "last_modified": "Tue, 03 Nov 2026 21:47:05 GMT",
-    "checked_at": "2026-11-03T21:53:13.367170+00:00"
+    "last_modified": "Wed, 04 Nov 2026 01:21:44 GMT",
+    "checked_at": "2026-11-04T01:22:13.575029+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -291,7 +200,7 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 03 Nov 2026 21:47:05 GMT",
-    "checked_at": "2026-11-03T21:53:13.737718+00:00"
+    "last_modified": "Wed, 04 Nov 2026 01:21:44 GMT",
+    "checked_at": "2026-11-04T01:22:13.917817+00:00"
   }
 }
