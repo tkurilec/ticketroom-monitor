@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 04 Nov 2026 11:06:03 GMT",
-    "checked_at": "2026-11-04T11:07:13.398836+00:00"
+    "last_modified": "Wed, 04 Nov 2026 11:32:55 GMT",
+    "checked_at": "2026-11-04T11:33:14.379385+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "56e7172c3a0fff324db269da33b54e4d763d8d4236f0a074fdf74e8788050641",
@@ -44,51 +44,19 @@
     "slate": "2026-11-04",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 04 Nov 2026 11:06:03 GMT",
-    "checked_at": "2026-11-04T11:07:13.939037+00:00"
+    "last_modified": "Wed, 04 Nov 2026 11:32:55 GMT",
+    "checked_at": "2026-11-04T11:33:15.146585+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Bell Cow": [
-        "Jadarian Price"
-      ],
-      "Goal Line Back": [
-        "Nick Kallerup"
-      ],
-      "Red Zone Target": [
-        "Jahdae Walker"
-      ],
-      "Strike First": [
-        "Jaxon Smith-Njigba"
-      ],
-      "The Workhorse": [
-        "Emanuel Wilson"
-      ],
-      "King of the End Zone: Jaxon Smith-Njigba": [
-        "Jaxon Smith-Njigba"
-      ]
-    },
-    "abets": [
-      "ftd|first touchdown scorer|Jaxon Smith-Njigba",
-      "longtd|longest touchdown scorer|Jaxon Smith-Njigba",
-      "|anytime touchdown|Emanuel Wilson",
-      "|anytime touchdown|Jadarian Price",
-      "|anytime touchdown|Jahdae Walker",
-      "|anytime touchdown|Nick Kallerup"
-    ],
-    "slate": null,
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-05",
     "hits": [],
-    "ltd": {
-      "holding": [
-        "Jaxon Smith-Njigba"
-      ],
-      "best": 43,
-      "settled": true
-    },
-    "last_modified": "Wed, 04 Nov 2026 11:06:03 GMT",
-    "checked_at": "2026-11-04T11:07:14.166135+00:00"
+    "ltd": null,
+    "last_modified": "Wed, 04 Nov 2026 11:32:55 GMT",
+    "checked_at": "2026-11-04T11:33:15.393280+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -98,7 +66,7 @@
     "slate": "2026-11-04",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 04 Nov 2026 11:06:03 GMT",
-    "checked_at": "2026-11-04T11:07:14.334949+00:00"
+    "last_modified": "Wed, 04 Nov 2026 11:32:55 GMT",
+    "checked_at": "2026-11-04T11:33:15.659089+00:00"
   }
 }
