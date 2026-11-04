@@ -273,6 +273,34 @@
           "bkey": "totals||Lens v Como: Both teams to score,RB Leipzig v Manchester City: Both teams to score",
           "result": null,
           "pl": null
+        },
+        "Go-To Man": {
+          "legs": [
+            "Erling Haaland"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 2,
+          "odds": {
+            "Erling Haaland": -185
+          },
+          "bkey": "|anytime goalscorer|Erling Haaland",
+          "result": null,
+          "pl": null
+        },
+        "The Poacher": {
+          "legs": [
+            "Sehrou Guirassy"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Sehrou Guirassy": -102
+          },
+          "bkey": "|anytime goalscorer|Sehrou Guirassy",
+          "result": null,
+          "pl": null
         }
       }
     },

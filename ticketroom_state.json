@@ -7,12 +7,26 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 04 Nov 2026 11:32:55 GMT",
-    "checked_at": "2026-11-04T11:33:14.379385+00:00"
+    "last_modified": "Wed, 04 Nov 2026 19:02:48 GMT",
+    "checked_at": "2026-11-04T19:03:29.437951+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "56e7172c3a0fff324db269da33b54e4d763d8d4236f0a074fdf74e8788050641",
+    "hash": "2991696edace804f750a699715f85d195cc2c48f0277c8cfd38e0ee599dd9a3e",
     "confirmed": [
+      {
+        "name": "Go-To Man",
+        "legs": [
+          "Erling Haaland"
+        ],
+        "rr": false,
+        "info": {
+          "Erling Haaland": "Manchester City vs RB Leipzig \u00b7 Wed Nov 4 \u00b7 3:00 PM ET"
+        },
+        "odds": {
+          "Erling Haaland": -185
+        },
+        "units": 2
+      },
       {
         "name": "Ninety Minutes",
         "legs": [
@@ -30,22 +44,59 @@
           "RB Leipzig v Manchester City: Both teams to score": -229,
           "Lens v Como: Both teams to score": -186
         }
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Erling Haaland"
+        ],
+        "rr": false,
+        "info": {
+          "Erling Haaland": "Manchester City vs RB Leipzig \u00b7 Wed Nov 4 \u00b7 3:00 PM ET"
+        },
+        "odds": {
+          "Erling Haaland": -185
+        }
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Sehrou Guirassy"
+        ],
+        "rr": false,
+        "info": {
+          "Sehrou Guirassy": "Borussia Dortmund vs Real Betis \u00b7 Wed Nov 4 \u00b7 3:00 PM ET"
+        },
+        "odds": {
+          "Sehrou Guirassy": -102
+        }
       }
     ],
     "announced": {
       "Ninety Minutes": [
         "Lens v Como: Both teams to score",
         "RB Leipzig v Manchester City: Both teams to score"
+      ],
+      "Go-To Man": [
+        "Erling Haaland"
+      ],
+      "Target Man": [
+        "Erling Haaland"
+      ],
+      "The Poacher": [
+        "Sehrou Guirassy"
       ]
     },
     "abets": [
-      "totals||Lens v Como: Both teams to score,RB Leipzig v Manchester City: Both teams to score"
+      "totals||Lens v Como: Both teams to score,RB Leipzig v Manchester City: Both teams to score",
+      "|anytime goalscorer|Erling Haaland",
+      "|anytime goalscorer|Sehrou Guirassy"
     ],
     "slate": "2026-11-04",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 04 Nov 2026 11:32:55 GMT",
-    "checked_at": "2026-11-04T11:33:15.146585+00:00"
+    "last_modified": "Wed, 04 Nov 2026 19:02:47 GMT",
+    "checked_at": "2026-11-04T19:03:31.367814+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -55,8 +106,8 @@
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 04 Nov 2026 11:32:55 GMT",
-    "checked_at": "2026-11-04T11:33:15.393280+00:00"
+    "last_modified": "Wed, 04 Nov 2026 19:02:48 GMT",
+    "checked_at": "2026-11-04T19:03:31.515223+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -66,7 +117,7 @@
     "slate": "2026-11-04",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 04 Nov 2026 11:32:55 GMT",
-    "checked_at": "2026-11-04T11:33:15.659089+00:00"
+    "last_modified": "Wed, 04 Nov 2026 19:02:47 GMT",
+    "checked_at": "2026-11-04T19:03:31.686935+00:00"
   }
 }
