@@ -1273,7 +1273,64 @@
           "legs_hit": 0
         }
       },
-      "2026-11-04": {}
+      "2026-11-04": {
+        "Break the Seal": {
+          "legs": [
+            "Onyeka Okongwu"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Onyeka Okongwu": 800
+          },
+          "bkey": "|first basket|Onyeka Okongwu",
+          "result": null,
+          "pl": null
+        },
+        "First Points": {
+          "legs": [
+            "AJ Dybantsa"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "AJ Dybantsa": 700
+          },
+          "bkey": "|first basket|AJ Dybantsa",
+          "result": null,
+          "pl": null
+        },
+        "Open Floor": {
+          "legs": [
+            "Paul Reed"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.4,
+          "odds": {
+            "Paul Reed": 650
+          },
+          "bkey": "|first basket|Paul Reed",
+          "result": null,
+          "pl": null
+        },
+        "Tip-Off Call": {
+          "legs": [
+            "John Collins"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "John Collins": 1000
+          },
+          "bkey": "|first basket|John Collins",
+          "result": null,
+          "pl": null
+        }
+      }
     }
   },
   "recap_sent": "2026-11-04",

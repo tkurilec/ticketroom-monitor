@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 04 Nov 2026 21:36:42 GMT",
-    "checked_at": "2026-11-04T21:39:12.029512+00:00"
+    "last_modified": "Wed, 04 Nov 2026 23:36:53 GMT",
+    "checked_at": "2026-11-04T23:40:15.167317+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "2991696edace804f750a699715f85d195cc2c48f0277c8cfd38e0ee599dd9a3e",
@@ -99,8 +99,8 @@
       "t:RB Leipzig v Manchester City: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Wed, 04 Nov 2026 21:36:42 GMT",
-    "checked_at": "2026-11-04T21:39:13.038588+00:00"
+    "last_modified": "Wed, 04 Nov 2026 23:36:53 GMT",
+    "checked_at": "2026-11-04T23:40:15.940448+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -110,18 +110,97 @@
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 04 Nov 2026 21:36:42 GMT",
-    "checked_at": "2026-11-04T21:39:13.218717+00:00"
+    "last_modified": "Wed, 04 Nov 2026 23:36:53 GMT",
+    "checked_at": "2026-11-04T23:40:16.616764+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "653e78bb7d771c05c2f80c94f3e3345434732714765c41a5b10734e4a7d85161",
+    "confirmed": [
+      {
+        "name": "Break the Seal",
+        "legs": [
+          "Onyeka Okongwu"
+        ],
+        "rr": false,
+        "info": {
+          "Onyeka Okongwu": "Hawks vs Wizards \u00b7 Wed Nov 4 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "Onyeka Okongwu": 800
+        },
+        "units": 0.3,
+        "group": "1"
+      },
+      {
+        "name": "First Points",
+        "legs": [
+          "AJ Dybantsa"
+        ],
+        "rr": false,
+        "info": {
+          "AJ Dybantsa": "Wizards vs Hawks \u00b7 Wed Nov 4 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "AJ Dybantsa": 700
+        },
+        "units": 0.3,
+        "group": "1"
+      },
+      {
+        "name": "Open Floor",
+        "legs": [
+          "Paul Reed"
+        ],
+        "rr": false,
+        "info": {
+          "Paul Reed": "Pistons vs 76ers \u00b7 Wed Nov 4 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "Paul Reed": 650
+        },
+        "units": 0.4,
+        "group": "2"
+      },
+      {
+        "name": "Tip-Off Call",
+        "legs": [
+          "John Collins"
+        ],
+        "rr": false,
+        "info": {
+          "John Collins": "Pistons vs 76ers \u00b7 Wed Nov 4 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "John Collins": 1000
+        },
+        "units": 0.2,
+        "group": "2"
+      }
+    ],
+    "announced": {
+      "Break the Seal": [
+        "Onyeka Okongwu"
+      ],
+      "First Points": [
+        "AJ Dybantsa"
+      ],
+      "Open Floor": [
+        "Paul Reed"
+      ],
+      "Tip-Off Call": [
+        "John Collins"
+      ]
+    },
+    "abets": [
+      "|first basket|AJ Dybantsa",
+      "|first basket|John Collins",
+      "|first basket|Onyeka Okongwu",
+      "|first basket|Paul Reed"
+    ],
     "slate": "2026-11-04",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 04 Nov 2026 21:36:42 GMT",
-    "checked_at": "2026-11-04T21:39:13.540948+00:00"
+    "last_modified": "Wed, 04 Nov 2026 23:36:53 GMT",
+    "checked_at": "2026-11-04T23:40:19.678053+00:00"
   }
 }
