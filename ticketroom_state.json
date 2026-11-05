@@ -7,12 +7,39 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 16:52:10 GMT",
-    "checked_at": "2026-11-05T16:52:15.365312+00:00"
+    "last_modified": "Thu, 05 Nov 2026 19:06:38 GMT",
+    "checked_at": "2026-11-05T19:07:14.234637+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "57a1a3e7da3882cf46b0c90d42e3069cfc0858f41be9a7dc376f1eb847862b2c",
+    "hash": "0b6a6d598d7612a133274461d787fd3ded27a549a183d7fa2099f186fb8d1ad5",
     "confirmed": [
+      {
+        "name": "Heavy Boot",
+        "legs": [
+          "Patrik Schick"
+        ],
+        "rr": false,
+        "info": {
+          "Patrik Schick": "Bayer Leverkusen vs Marseille \u00b7 Thu Nov 5 \u00b7 3:00 PM ET"
+        },
+        "odds": {
+          "Patrik Schick": -145
+        },
+        "units": 2
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Patrik Schick"
+        ],
+        "rr": false,
+        "info": {
+          "Patrik Schick": "Bayer Leverkusen vs Marseille \u00b7 Thu Nov 5 \u00b7 3:00 PM ET"
+        },
+        "odds": {
+          "Patrik Schick": -145
+        }
+      },
       {
         "name": "The Poacher",
         "legs": [
@@ -30,16 +57,23 @@
     "announced": {
       "The Poacher": [
         "Jean-Philippe Mateta"
+      ],
+      "Heavy Boot": [
+        "Patrik Schick"
+      ],
+      "Target Man": [
+        "Patrik Schick"
       ]
     },
     "abets": [
-      "|anytime goalscorer|Jean-Philippe Mateta"
+      "|anytime goalscorer|Jean-Philippe Mateta",
+      "|anytime goalscorer|Patrik Schick"
     ],
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 16:52:10 GMT",
-    "checked_at": "2026-11-05T16:52:17.840476+00:00"
+    "last_modified": "Thu, 05 Nov 2026 19:06:38 GMT",
+    "checked_at": "2026-11-05T19:07:16.459825+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -49,8 +83,8 @@
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 16:52:10 GMT",
-    "checked_at": "2026-11-05T16:52:17.990521+00:00"
+    "last_modified": "Thu, 05 Nov 2026 19:06:38 GMT",
+    "checked_at": "2026-11-05T19:07:16.549984+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -60,7 +94,7 @@
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 16:52:10 GMT",
-    "checked_at": "2026-11-05T16:52:18.132958+00:00"
+    "last_modified": "Thu, 05 Nov 2026 19:06:38 GMT",
+    "checked_at": "2026-11-05T19:07:16.673536+00:00"
   }
 }

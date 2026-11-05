@@ -320,6 +320,20 @@
           "bkey": "|anytime goalscorer|Jean-Philippe Mateta",
           "result": null,
           "pl": null
+        },
+        "Heavy Boot": {
+          "legs": [
+            "Patrik Schick"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 2,
+          "odds": {
+            "Patrik Schick": -145
+          },
+          "bkey": "|anytime goalscorer|Patrik Schick",
+          "result": null,
+          "pl": null
         }
       }
     },
