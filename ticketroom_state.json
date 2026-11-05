@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Thu, 05 Nov 2026 01:36:28 GMT",
-    "checked_at": "2026-11-05T01:37:11.769283+00:00"
+    "checked_at": "2026-11-05T01:40:16.796398+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -19,7 +19,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Thu, 05 Nov 2026 01:36:28 GMT",
-    "checked_at": "2026-11-05T01:37:11.951956+00:00"
+    "checked_at": "2026-11-05T01:40:16.926459+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -30,10 +30,10 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Thu, 05 Nov 2026 01:36:28 GMT",
-    "checked_at": "2026-11-05T01:37:12.150617+00:00"
+    "checked_at": "2026-11-05T01:40:17.226659+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "921010d8b85ffca3fb43020ec74d732afa0480ac0d82d7206b7b3be575d263b0",
+    "hash": "a65cd046f95e8fc0a7a3daaf3196195d81e9840180ffe25ea9e1cad99e82ddb3",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -139,6 +139,21 @@
         },
         "units": 0.3,
         "group": "6"
+      },
+      {
+        "name": "Jump Ball",
+        "legs": [
+          "Donovan Clingan"
+        ],
+        "rr": false,
+        "info": {
+          "Donovan Clingan": "Trail Blazers vs Suns \u00b7 Wed Nov 4 \u00b7 9:00 PM ET"
+        },
+        "odds": {
+          "Donovan Clingan": 1000
+        },
+        "units": 0.6,
+        "group": "11"
       },
       {
         "name": "Lead the Break",
@@ -342,12 +357,16 @@
       ],
       "Opening Set": [
         "Cameron Johnson"
+      ],
+      "Jump Ball": [
+        "Donovan Clingan"
       ]
     },
     "abets": [
       "|first basket|AJ Dybantsa",
       "|first basket|Andrew Nembhard",
       "|first basket|Cameron Johnson",
+      "|first basket|Donovan Clingan",
       "|first basket|Isaiah Hartenstein",
       "|first basket|Jalen Smith",
       "|first basket|Jaxson Hayes",
@@ -367,6 +386,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Thu, 05 Nov 2026 01:36:28 GMT",
-    "checked_at": "2026-11-05T01:37:14.736056+00:00"
+    "checked_at": "2026-11-05T01:40:24.271675+00:00"
   }
 }
