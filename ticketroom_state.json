@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 04:47:56 GMT",
-    "checked_at": "2026-11-05T05:00:20.112063+00:00"
+    "last_modified": "Thu, 05 Nov 2026 11:01:04 GMT",
+    "checked_at": "2026-11-05T11:01:12.677623+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 04:47:56 GMT",
-    "checked_at": "2026-11-05T05:00:20.646068+00:00"
+    "last_modified": "Thu, 05 Nov 2026 11:01:04 GMT",
+    "checked_at": "2026-11-05T11:01:12.976822+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -29,121 +29,18 @@
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 04:47:56 GMT",
-    "checked_at": "2026-11-05T05:00:20.874969+00:00"
+    "last_modified": "Thu, 05 Nov 2026 11:01:04 GMT",
+    "checked_at": "2026-11-05T11:01:13.159824+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Break the Seal": [
-        "Onyeka Okongwu"
-      ],
-      "First Points": [
-        "Andrew Wiggins"
-      ],
-      "Open Floor": [
-        "Paul Reed"
-      ],
-      "Tip-Off Call": [
-        "John Collins"
-      ],
-      "First Look": [
-        "Myles Turner"
-      ],
-      "Get on the Board": [
-        "Naz Reid"
-      ],
-      "Off the Tip": [
-        "Mikal Bridges"
-      ],
-      "Out of the Huddle": [
-        "Jalen Smith"
-      ],
-      "Set Play": [
-        "Kyle Kuzma"
-      ],
-      "Top of the Key": [
-        "Norman Powell"
-      ],
-      "Early Offense": [
-        "Jaxson Hayes"
-      ],
-      "Ice Breaker": [
-        "Karlo Matkovic"
-      ],
-      "Two Points": [
-        "Isaiah Hartenstein"
-      ],
-      "First Touch": [
-        "Andrew Nembhard"
-      ],
-      "Lead the Break": [
-        "Jaylen Wells"
-      ],
-      "The Starter": [
-        "Jonathan Kuminga"
-      ],
-      "Opening Set": [
-        "Cameron Johnson"
-      ],
-      "Jump Ball": [
-        "Donovan Clingan"
-      ],
-      "Center Circle": [
-        "Devin Vassell"
-      ],
-      "First Bucket": [
-        "Daniel Gafford"
-      ],
-      "Bucket One": [
-        "Precious Achiuwa"
-      ],
-      "Opening Tip": [
-        "De'Andre Hunter"
-      ],
-      "Win the Tip": [
-        "Domantas Sabonis"
-      ],
-      "The Opener": [
-        "Bam Adebayo"
-      ],
-      "Tip Drill": [
-        "Klay Thompson"
-      ]
-    },
-    "abets": [
-      "|first basket|AJ Dybantsa",
-      "|first basket|Andrew Nembhard",
-      "|first basket|Andrew Wiggins",
-      "|first basket|Bam Adebayo",
-      "|first basket|Cameron Johnson",
-      "|first basket|Daniel Gafford",
-      "|first basket|De'Andre Hunter",
-      "|first basket|Devin Vassell",
-      "|first basket|Domantas Sabonis",
-      "|first basket|Donovan Clingan",
-      "|first basket|Isaiah Hartenstein",
-      "|first basket|Jalen Smith",
-      "|first basket|Jaxson Hayes",
-      "|first basket|Jaylen Wells",
-      "|first basket|John Collins",
-      "|first basket|Jonathan Kuminga",
-      "|first basket|Karlo Matkovic",
-      "|first basket|Klay Thompson",
-      "|first basket|Kyle Kuzma",
-      "|first basket|Mikal Bridges",
-      "|first basket|Myles Turner",
-      "|first basket|Naz Reid",
-      "|first basket|Norman Powell",
-      "|first basket|Onyeka Okongwu",
-      "|first basket|Paul Reed",
-      "|first basket|Precious Achiuwa"
-    ],
-    "slate": null,
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 04:47:56 GMT",
-    "checked_at": "2026-11-05T05:00:21.115259+00:00"
+    "last_modified": "Thu, 05 Nov 2026 11:01:04 GMT",
+    "checked_at": "2026-11-05T11:01:13.346719+00:00"
   }
 }
