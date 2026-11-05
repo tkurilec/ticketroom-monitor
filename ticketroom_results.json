@@ -804,7 +804,36 @@
           "legs_hit": 0
         }
       },
-      "2026-11-05": {}
+      "2026-11-05": {
+        "Short Yardage": {
+          "legs": [
+            "Josh Cuevas"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Josh Cuevas": 1949
+          },
+          "bkey": "|anytime touchdown|Josh Cuevas",
+          "result": null,
+          "pl": null
+        },
+        "Six Before Anyone": {
+          "legs": [
+            "Derrick Henry"
+          ],
+          "kind": "ftd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Derrick Henry": 596
+          },
+          "bkey": "ftd|first touchdown scorer|Derrick Henry",
+          "result": null,
+          "pl": null
+        }
+      }
     },
     "NBA Board": {
       "2026-11-02": {

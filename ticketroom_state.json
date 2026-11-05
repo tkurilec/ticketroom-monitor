@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 19:06:38 GMT",
-    "checked_at": "2026-11-05T19:07:14.234637+00:00"
+    "last_modified": "Thu, 05 Nov 2026 23:57:48 GMT",
+    "checked_at": "2026-11-05T23:58:05.745567+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "0b6a6d598d7612a133274461d787fd3ded27a549a183d7fa2099f186fb8d1ad5",
@@ -72,19 +72,58 @@
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 19:06:38 GMT",
-    "checked_at": "2026-11-05T19:07:16.459825+00:00"
+    "last_modified": "Thu, 05 Nov 2026 23:57:48 GMT",
+    "checked_at": "2026-11-05T23:58:07.039650+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "aed53b8e6889dd6079090ac6018a9c6eccd7ad95db3b4529736108cc7f33fa3a",
+    "confirmed": [
+      {
+        "name": "Short Yardage",
+        "legs": [
+          "Josh Cuevas"
+        ],
+        "rr": false,
+        "info": {
+          "Josh Cuevas": "Ravens vs Jaguars \u00b7 Thu Nov 5 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Josh Cuevas": 1949
+        }
+      },
+      {
+        "name": "Six Before Anyone",
+        "legs": [
+          "Derrick Henry"
+        ],
+        "rr": false,
+        "info": {
+          "Derrick Henry": "Ravens vs Jaguars \u00b7 Thu Nov 5 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Derrick Henry": 596
+        },
+        "market": "first touchdown scorer",
+        "kind": "ftd"
+      }
+    ],
+    "announced": {
+      "Short Yardage": [
+        "Josh Cuevas"
+      ],
+      "Six Before Anyone": [
+        "Derrick Henry"
+      ]
+    },
+    "abets": [
+      "ftd|first touchdown scorer|Derrick Henry",
+      "|anytime touchdown|Josh Cuevas"
+    ],
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 19:06:38 GMT",
-    "checked_at": "2026-11-05T19:07:16.549984+00:00"
+    "last_modified": "Thu, 05 Nov 2026 23:57:48 GMT",
+    "checked_at": "2026-11-05T23:58:08.958925+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -94,7 +133,7 @@
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 19:06:38 GMT",
-    "checked_at": "2026-11-05T19:07:16.673536+00:00"
+    "last_modified": "Thu, 05 Nov 2026 23:57:48 GMT",
+    "checked_at": "2026-11-05T23:58:09.641820+00:00"
   }
 }
