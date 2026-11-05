@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 02:07:04 GMT",
-    "checked_at": "2026-11-05T02:10:16.613691+00:00"
+    "last_modified": "Thu, 05 Nov 2026 02:37:41 GMT",
+    "checked_at": "2026-11-05T02:38:12.778902+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 02:07:04 GMT",
-    "checked_at": "2026-11-05T02:10:16.810720+00:00"
+    "last_modified": "Thu, 05 Nov 2026 02:37:41 GMT",
+    "checked_at": "2026-11-05T02:38:12.884982+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -29,11 +29,11 @@
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 02:07:04 GMT",
-    "checked_at": "2026-11-05T02:10:16.964003+00:00"
+    "last_modified": "Thu, 05 Nov 2026 02:37:41 GMT",
+    "checked_at": "2026-11-05T02:38:12.993384+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "c392bd7f0b5d846615b820b159f1496ff6554711918f2d568272ec21c87b7d81",
+    "hash": "2b54f066fe5348cf77205cf0716c54840931478247d06af1a214389b587a5d65",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -49,6 +49,21 @@
         },
         "units": 0.3,
         "group": "1"
+      },
+      {
+        "name": "Bucket One",
+        "legs": [
+          "Precious Achiuwa"
+        ],
+        "rr": false,
+        "info": {
+          "Precious Achiuwa": "Kings vs Lakers \u00b7 Wed Nov 4 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "Precious Achiuwa": 1400
+        },
+        "units": 0.2,
+        "group": "13"
       },
       {
         "name": "Center Circle",
@@ -246,6 +261,21 @@
         "group": "10"
       },
       {
+        "name": "Opening Tip",
+        "legs": [
+          "De'Andre Hunter"
+        ],
+        "rr": false,
+        "info": {
+          "De'Andre Hunter": "Kings vs Lakers \u00b7 Wed Nov 4 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "De'Andre Hunter": 1300
+        },
+        "units": 0.2,
+        "group": "13"
+      },
+      {
         "name": "Out of the Huddle",
         "legs": [
           "Jalen Smith"
@@ -334,6 +364,21 @@
         },
         "units": 0.6,
         "group": "8"
+      },
+      {
+        "name": "Win the Tip",
+        "legs": [
+          "Domantas Sabonis"
+        ],
+        "rr": false,
+        "info": {
+          "Domantas Sabonis": "Kings vs Lakers \u00b7 Wed Nov 4 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "Domantas Sabonis": 800
+        },
+        "units": 0.3,
+        "group": "13"
       }
     ],
     "announced": {
@@ -396,6 +441,15 @@
       ],
       "First Bucket": [
         "Daniel Gafford"
+      ],
+      "Bucket One": [
+        "Precious Achiuwa"
+      ],
+      "Opening Tip": [
+        "De'Andre Hunter"
+      ],
+      "Win the Tip": [
+        "Domantas Sabonis"
       ]
     },
     "abets": [
@@ -403,7 +457,9 @@
       "|first basket|Andrew Nembhard",
       "|first basket|Cameron Johnson",
       "|first basket|Daniel Gafford",
+      "|first basket|De'Andre Hunter",
       "|first basket|Devin Vassell",
+      "|first basket|Domantas Sabonis",
       "|first basket|Donovan Clingan",
       "|first basket|Isaiah Hartenstein",
       "|first basket|Jalen Smith",
@@ -418,12 +474,13 @@
       "|first basket|Naz Reid",
       "|first basket|Norman Powell",
       "|first basket|Onyeka Okongwu",
-      "|first basket|Paul Reed"
+      "|first basket|Paul Reed",
+      "|first basket|Precious Achiuwa"
     ],
     "slate": "2026-11-04",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 02:07:04 GMT",
-    "checked_at": "2026-11-05T02:10:18.908636+00:00"
+    "last_modified": "Thu, 05 Nov 2026 02:37:41 GMT",
+    "checked_at": "2026-11-05T02:38:15.165533+00:00"
   }
 }

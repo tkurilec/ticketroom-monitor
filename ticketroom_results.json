@@ -1557,6 +1557,48 @@
           "bkey": "|first basket|Daniel Gafford",
           "result": null,
           "pl": null
+        },
+        "Bucket One": {
+          "legs": [
+            "Precious Achiuwa"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "Precious Achiuwa": 1400
+          },
+          "bkey": "|first basket|Precious Achiuwa",
+          "result": null,
+          "pl": null
+        },
+        "Opening Tip": {
+          "legs": [
+            "De'Andre Hunter"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "De'Andre Hunter": 1300
+          },
+          "bkey": "|first basket|De'Andre Hunter",
+          "result": null,
+          "pl": null
+        },
+        "Win the Tip": {
+          "legs": [
+            "Domantas Sabonis"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Domantas Sabonis": 800
+          },
+          "bkey": "|first basket|Domantas Sabonis",
+          "result": null,
+          "pl": null
         }
       }
     }
