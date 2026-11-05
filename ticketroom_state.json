@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 04 Nov 2026 23:36:53 GMT",
-    "checked_at": "2026-11-04T23:40:15.167317+00:00"
+    "last_modified": "Thu, 05 Nov 2026 00:07:22 GMT",
+    "checked_at": "2026-11-05T00:08:15.510407+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "2991696edace804f750a699715f85d195cc2c48f0277c8cfd38e0ee599dd9a3e",
@@ -99,8 +99,8 @@
       "t:RB Leipzig v Manchester City: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Wed, 04 Nov 2026 23:36:53 GMT",
-    "checked_at": "2026-11-04T23:40:15.940448+00:00"
+    "last_modified": "Thu, 05 Nov 2026 00:07:22 GMT",
+    "checked_at": "2026-11-05T00:08:16.356806+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -110,11 +110,11 @@
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 04 Nov 2026 23:36:53 GMT",
-    "checked_at": "2026-11-04T23:40:16.616764+00:00"
+    "last_modified": "Thu, 05 Nov 2026 00:07:22 GMT",
+    "checked_at": "2026-11-05T00:08:16.628531+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "653e78bb7d771c05c2f80c94f3e3345434732714765c41a5b10734e4a7d85161",
+    "hash": "f35d501db2031fa0e87457e7a9d792d1ef31f267554f8075cd24959fee9ecedb",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -132,6 +132,21 @@
         "group": "1"
       },
       {
+        "name": "First Look",
+        "legs": [
+          "Myles Turner"
+        ],
+        "rr": false,
+        "info": {
+          "Myles Turner": "Bucks vs Celtics \u00b7 Wed Nov 4 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Myles Turner": 1100
+        },
+        "units": 0.3,
+        "group": "4"
+      },
+      {
         "name": "First Points",
         "legs": [
           "AJ Dybantsa"
@@ -145,6 +160,36 @@
         },
         "units": 0.3,
         "group": "1"
+      },
+      {
+        "name": "Get on the Board",
+        "legs": [
+          "Naz Reid"
+        ],
+        "rr": false,
+        "info": {
+          "Naz Reid": "Hornets vs Nets \u00b7 Wed Nov 4 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Naz Reid": 850
+        },
+        "units": 0.6,
+        "group": "3"
+      },
+      {
+        "name": "Off the Tip",
+        "legs": [
+          "Mikal Bridges"
+        ],
+        "rr": false,
+        "info": {
+          "Mikal Bridges": "Knicks vs Bulls \u00b7 Wed Nov 4 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Mikal Bridges": 1000
+        },
+        "units": 0.2,
+        "group": "5"
       },
       {
         "name": "Open Floor",
@@ -162,6 +207,36 @@
         "group": "2"
       },
       {
+        "name": "Out of the Huddle",
+        "legs": [
+          "Jalen Smith"
+        ],
+        "rr": false,
+        "info": {
+          "Jalen Smith": "Bulls vs Knicks \u00b7 Wed Nov 4 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Jalen Smith": 950
+        },
+        "units": 0.2,
+        "group": "5"
+      },
+      {
+        "name": "Set Play",
+        "legs": [
+          "Kyle Kuzma"
+        ],
+        "rr": false,
+        "info": {
+          "Kyle Kuzma": "Bucks vs Celtics \u00b7 Wed Nov 4 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Kyle Kuzma": 1300
+        },
+        "units": 0.3,
+        "group": "4"
+      },
+      {
         "name": "Tip-Off Call",
         "legs": [
           "John Collins"
@@ -175,6 +250,21 @@
         },
         "units": 0.2,
         "group": "2"
+      },
+      {
+        "name": "Top of the Key",
+        "legs": [
+          "Norman Powell"
+        ],
+        "rr": false,
+        "info": {
+          "Norman Powell": "Bulls vs Knicks \u00b7 Wed Nov 4 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Norman Powell": 950
+        },
+        "units": 0.2,
+        "group": "5"
       }
     ],
     "announced": {
@@ -189,18 +279,42 @@
       ],
       "Tip-Off Call": [
         "John Collins"
+      ],
+      "First Look": [
+        "Myles Turner"
+      ],
+      "Get on the Board": [
+        "Naz Reid"
+      ],
+      "Off the Tip": [
+        "Mikal Bridges"
+      ],
+      "Out of the Huddle": [
+        "Jalen Smith"
+      ],
+      "Set Play": [
+        "Kyle Kuzma"
+      ],
+      "Top of the Key": [
+        "Norman Powell"
       ]
     },
     "abets": [
       "|first basket|AJ Dybantsa",
+      "|first basket|Jalen Smith",
       "|first basket|John Collins",
+      "|first basket|Kyle Kuzma",
+      "|first basket|Mikal Bridges",
+      "|first basket|Myles Turner",
+      "|first basket|Naz Reid",
+      "|first basket|Norman Powell",
       "|first basket|Onyeka Okongwu",
       "|first basket|Paul Reed"
     ],
     "slate": "2026-11-04",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 04 Nov 2026 23:36:53 GMT",
-    "checked_at": "2026-11-04T23:40:19.678053+00:00"
+    "last_modified": "Thu, 05 Nov 2026 00:07:22 GMT",
+    "checked_at": "2026-11-05T00:08:18.389386+00:00"
   }
 }

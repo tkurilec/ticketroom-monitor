@@ -1329,6 +1329,90 @@
           "bkey": "|first basket|John Collins",
           "result": null,
           "pl": null
+        },
+        "First Look": {
+          "legs": [
+            "Myles Turner"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Myles Turner": 1100
+          },
+          "bkey": "|first basket|Myles Turner",
+          "result": null,
+          "pl": null
+        },
+        "Get on the Board": {
+          "legs": [
+            "Naz Reid"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Naz Reid": 850
+          },
+          "bkey": "|first basket|Naz Reid",
+          "result": null,
+          "pl": null
+        },
+        "Off the Tip": {
+          "legs": [
+            "Mikal Bridges"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "Mikal Bridges": 1000
+          },
+          "bkey": "|first basket|Mikal Bridges",
+          "result": null,
+          "pl": null
+        },
+        "Out of the Huddle": {
+          "legs": [
+            "Jalen Smith"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "Jalen Smith": 950
+          },
+          "bkey": "|first basket|Jalen Smith",
+          "result": null,
+          "pl": null
+        },
+        "Set Play": {
+          "legs": [
+            "Kyle Kuzma"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Kyle Kuzma": 1300
+          },
+          "bkey": "|first basket|Kyle Kuzma",
+          "result": null,
+          "pl": null
+        },
+        "Top of the Key": {
+          "legs": [
+            "Norman Powell"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "Norman Powell": 950
+          },
+          "bkey": "|first basket|Norman Powell",
+          "result": null,
+          "pl": null
         }
       }
     }
