@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 01:36:28 GMT",
-    "checked_at": "2026-11-05T01:40:16.796398+00:00"
+    "last_modified": "Thu, 05 Nov 2026 02:07:04 GMT",
+    "checked_at": "2026-11-05T02:10:16.613691+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 01:36:28 GMT",
-    "checked_at": "2026-11-05T01:40:16.926459+00:00"
+    "last_modified": "Thu, 05 Nov 2026 02:07:04 GMT",
+    "checked_at": "2026-11-05T02:10:16.810720+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -29,11 +29,11 @@
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 01:36:28 GMT",
-    "checked_at": "2026-11-05T01:40:17.226659+00:00"
+    "last_modified": "Thu, 05 Nov 2026 02:07:04 GMT",
+    "checked_at": "2026-11-05T02:10:16.964003+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "a65cd046f95e8fc0a7a3daaf3196195d81e9840180ffe25ea9e1cad99e82ddb3",
+    "hash": "c392bd7f0b5d846615b820b159f1496ff6554711918f2d568272ec21c87b7d81",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -51,6 +51,21 @@
         "group": "1"
       },
       {
+        "name": "Center Circle",
+        "legs": [
+          "Devin Vassell"
+        ],
+        "rr": false,
+        "info": {
+          "Devin Vassell": "Spurs vs Mavericks \u00b7 Wed Nov 4 \u00b7 9:30 PM ET"
+        },
+        "odds": {
+          "Devin Vassell": 900
+        },
+        "units": 0.3,
+        "group": "12"
+      },
+      {
         "name": "Early Offense",
         "legs": [
           "Jaxson Hayes"
@@ -64,6 +79,21 @@
         },
         "units": 0.3,
         "group": "6"
+      },
+      {
+        "name": "First Bucket",
+        "legs": [
+          "Daniel Gafford"
+        ],
+        "rr": false,
+        "info": {
+          "Daniel Gafford": "Mavericks vs Spurs \u00b7 Wed Nov 4 \u00b7 9:30 PM ET"
+        },
+        "odds": {
+          "Daniel Gafford": 1300
+        },
+        "units": 0.2,
+        "group": "12"
       },
       {
         "name": "First Look",
@@ -360,12 +390,20 @@
       ],
       "Jump Ball": [
         "Donovan Clingan"
+      ],
+      "Center Circle": [
+        "Devin Vassell"
+      ],
+      "First Bucket": [
+        "Daniel Gafford"
       ]
     },
     "abets": [
       "|first basket|AJ Dybantsa",
       "|first basket|Andrew Nembhard",
       "|first basket|Cameron Johnson",
+      "|first basket|Daniel Gafford",
+      "|first basket|Devin Vassell",
       "|first basket|Donovan Clingan",
       "|first basket|Isaiah Hartenstein",
       "|first basket|Jalen Smith",
@@ -385,7 +423,7 @@
     "slate": "2026-11-04",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 01:36:28 GMT",
-    "checked_at": "2026-11-05T01:40:24.271675+00:00"
+    "last_modified": "Thu, 05 Nov 2026 02:07:04 GMT",
+    "checked_at": "2026-11-05T02:10:18.908636+00:00"
   }
 }

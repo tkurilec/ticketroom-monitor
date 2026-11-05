@@ -1529,6 +1529,34 @@
           "bkey": "|first basket|Donovan Clingan",
           "result": null,
           "pl": null
+        },
+        "Center Circle": {
+          "legs": [
+            "Devin Vassell"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Devin Vassell": 900
+          },
+          "bkey": "|first basket|Devin Vassell",
+          "result": null,
+          "pl": null
+        },
+        "First Bucket": {
+          "legs": [
+            "Daniel Gafford"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "Daniel Gafford": 1300
+          },
+          "bkey": "|first basket|Daniel Gafford",
+          "result": null,
+          "pl": null
         }
       }
     }
