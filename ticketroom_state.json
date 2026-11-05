@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 00:07:22 GMT",
-    "checked_at": "2026-11-05T00:08:15.510407+00:00"
+    "last_modified": "Thu, 05 Nov 2026 00:37:23 GMT",
+    "checked_at": "2026-11-05T00:38:14.366975+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "2991696edace804f750a699715f85d195cc2c48f0277c8cfd38e0ee599dd9a3e",
@@ -99,8 +99,8 @@
       "t:RB Leipzig v Manchester City: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 00:07:22 GMT",
-    "checked_at": "2026-11-05T00:08:16.356806+00:00"
+    "last_modified": "Thu, 05 Nov 2026 00:37:23 GMT",
+    "checked_at": "2026-11-05T00:38:15.053962+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -110,11 +110,11 @@
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 00:07:22 GMT",
-    "checked_at": "2026-11-05T00:08:16.628531+00:00"
+    "last_modified": "Thu, 05 Nov 2026 00:37:23 GMT",
+    "checked_at": "2026-11-05T00:38:15.223819+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "f35d501db2031fa0e87457e7a9d792d1ef31f267554f8075cd24959fee9ecedb",
+    "hash": "bbc98f5769dd656b9049f09e85b82453113f0db96db34f27d0de99a7d6f5b813",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -130,6 +130,21 @@
         },
         "units": 0.3,
         "group": "1"
+      },
+      {
+        "name": "Early Offense",
+        "legs": [
+          "Jaxson Hayes"
+        ],
+        "rr": false,
+        "info": {
+          "Jaxson Hayes": "Jazz vs Pelicans \u00b7 Wed Nov 4 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Jaxson Hayes": 1100
+        },
+        "units": 0.3,
+        "group": "6"
       },
       {
         "name": "First Look",
@@ -175,6 +190,21 @@
         },
         "units": 0.6,
         "group": "3"
+      },
+      {
+        "name": "Ice Breaker",
+        "legs": [
+          "Karlo Matkovic"
+        ],
+        "rr": false,
+        "info": {
+          "Karlo Matkovic": "Pelicans vs Jazz \u00b7 Wed Nov 4 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Karlo Matkovic": 1200
+        },
+        "units": 0.3,
+        "group": "6"
       },
       {
         "name": "Off the Tip",
@@ -265,6 +295,21 @@
         },
         "units": 0.2,
         "group": "5"
+      },
+      {
+        "name": "Two Points",
+        "legs": [
+          "Isaiah Hartenstein"
+        ],
+        "rr": false,
+        "info": {
+          "Isaiah Hartenstein": "Thunder vs Cavaliers \u00b7 Wed Nov 4 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Isaiah Hartenstein": 1000
+        },
+        "units": 0.6,
+        "group": "8"
       }
     ],
     "announced": {
@@ -297,12 +342,24 @@
       ],
       "Top of the Key": [
         "Norman Powell"
+      ],
+      "Early Offense": [
+        "Jaxson Hayes"
+      ],
+      "Ice Breaker": [
+        "Karlo Matkovic"
+      ],
+      "Two Points": [
+        "Isaiah Hartenstein"
       ]
     },
     "abets": [
       "|first basket|AJ Dybantsa",
+      "|first basket|Isaiah Hartenstein",
       "|first basket|Jalen Smith",
+      "|first basket|Jaxson Hayes",
       "|first basket|John Collins",
+      "|first basket|Karlo Matkovic",
       "|first basket|Kyle Kuzma",
       "|first basket|Mikal Bridges",
       "|first basket|Myles Turner",
@@ -314,7 +371,7 @@
     "slate": "2026-11-04",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 00:07:22 GMT",
-    "checked_at": "2026-11-05T00:08:18.389386+00:00"
+    "last_modified": "Thu, 05 Nov 2026 00:37:23 GMT",
+    "checked_at": "2026-11-05T00:38:16.954497+00:00"
   }
 }

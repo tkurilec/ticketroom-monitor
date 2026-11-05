@@ -1413,6 +1413,48 @@
           "bkey": "|first basket|Norman Powell",
           "result": null,
           "pl": null
+        },
+        "Early Offense": {
+          "legs": [
+            "Jaxson Hayes"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Jaxson Hayes": 1100
+          },
+          "bkey": "|first basket|Jaxson Hayes",
+          "result": null,
+          "pl": null
+        },
+        "Ice Breaker": {
+          "legs": [
+            "Karlo Matkovic"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Karlo Matkovic": 1200
+          },
+          "bkey": "|first basket|Karlo Matkovic",
+          "result": null,
+          "pl": null
+        },
+        "Two Points": {
+          "legs": [
+            "Isaiah Hartenstein"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Isaiah Hartenstein": 1000
+          },
+          "bkey": "|first basket|Isaiah Hartenstein",
+          "result": null,
+          "pl": null
         }
       }
     }
