@@ -1501,6 +1501,20 @@
           "bkey": "|first basket|Jonathan Kuminga",
           "result": null,
           "pl": null
+        },
+        "Opening Set": {
+          "legs": [
+            "Cameron Johnson"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Cameron Johnson": 1200
+          },
+          "bkey": "|first basket|Cameron Johnson",
+          "result": null,
+          "pl": null
         }
       }
     }

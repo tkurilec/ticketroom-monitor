@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 01:17:55 GMT",
-    "checked_at": "2026-11-05T01:18:12.583995+00:00"
+    "last_modified": "Thu, 05 Nov 2026 01:36:28 GMT",
+    "checked_at": "2026-11-05T01:37:11.769283+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 01:17:55 GMT",
-    "checked_at": "2026-11-05T01:18:12.881217+00:00"
+    "last_modified": "Thu, 05 Nov 2026 01:36:28 GMT",
+    "checked_at": "2026-11-05T01:37:11.951956+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -29,11 +29,11 @@
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 01:17:55 GMT",
-    "checked_at": "2026-11-05T01:18:13.178626+00:00"
+    "last_modified": "Thu, 05 Nov 2026 01:36:28 GMT",
+    "checked_at": "2026-11-05T01:37:12.150617+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "ceefc15b5c7ed5a9defe67293d1cf8418fd3600e8d21bfdedfcc49a4121e0904",
+    "hash": "921010d8b85ffca3fb43020ec74d732afa0480ac0d82d7206b7b3be575d263b0",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -186,6 +186,21 @@
         "group": "2"
       },
       {
+        "name": "Opening Set",
+        "legs": [
+          "Cameron Johnson"
+        ],
+        "rr": false,
+        "info": {
+          "Cameron Johnson": "Nuggets vs Raptors \u00b7 Wed Nov 4 \u00b7 9:00 PM ET"
+        },
+        "odds": {
+          "Cameron Johnson": 1200
+        },
+        "units": 0.6,
+        "group": "10"
+      },
+      {
         "name": "Out of the Huddle",
         "legs": [
           "Jalen Smith"
@@ -324,11 +339,15 @@
       ],
       "The Starter": [
         "Jonathan Kuminga"
+      ],
+      "Opening Set": [
+        "Cameron Johnson"
       ]
     },
     "abets": [
       "|first basket|AJ Dybantsa",
       "|first basket|Andrew Nembhard",
+      "|first basket|Cameron Johnson",
       "|first basket|Isaiah Hartenstein",
       "|first basket|Jalen Smith",
       "|first basket|Jaxson Hayes",
@@ -347,7 +366,7 @@
     "slate": "2026-11-04",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 01:17:55 GMT",
-    "checked_at": "2026-11-05T01:18:13.867023+00:00"
+    "last_modified": "Thu, 05 Nov 2026 01:36:28 GMT",
+    "checked_at": "2026-11-05T01:37:14.736056+00:00"
   }
 }
