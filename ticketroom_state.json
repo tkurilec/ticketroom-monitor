@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 00:37:23 GMT",
-    "checked_at": "2026-11-05T00:40:15.821830+00:00"
+    "last_modified": "Thu, 05 Nov 2026 01:06:32 GMT",
+    "checked_at": "2026-11-05T01:07:11.728266+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "2991696edace804f750a699715f85d195cc2c48f0277c8cfd38e0ee599dd9a3e",
@@ -99,8 +99,8 @@
       "t:RB Leipzig v Manchester City: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 00:37:23 GMT",
-    "checked_at": "2026-11-05T00:40:16.487151+00:00"
+    "last_modified": "Thu, 05 Nov 2026 01:06:32 GMT",
+    "checked_at": "2026-11-05T01:07:12.672267+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -110,11 +110,11 @@
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 00:37:23 GMT",
-    "checked_at": "2026-11-05T00:40:17.648205+00:00"
+    "last_modified": "Thu, 05 Nov 2026 01:06:32 GMT",
+    "checked_at": "2026-11-05T01:07:12.932602+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "b5cde032f23777395cff4403dd813d78fb7ce7e81960bce91c10942314cb20c6",
+    "hash": "ceefc15b5c7ed5a9defe67293d1cf8418fd3600e8d21bfdedfcc49a4121e0904",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -297,6 +297,21 @@
         "group": "4"
       },
       {
+        "name": "The Starter",
+        "legs": [
+          "Jonathan Kuminga"
+        ],
+        "rr": false,
+        "info": {
+          "Jonathan Kuminga": "Timberwolves vs Rockets \u00b7 Wed Nov 4 \u00b7 8:30 PM ET"
+        },
+        "odds": {
+          "Jonathan Kuminga": 850
+        },
+        "units": 0.6,
+        "group": "9"
+      },
+      {
         "name": "Tip-Off Call",
         "legs": [
           "John Collins"
@@ -387,6 +402,9 @@
       ],
       "Lead the Break": [
         "Jaylen Wells"
+      ],
+      "The Starter": [
+        "Jonathan Kuminga"
       ]
     },
     "abets": [
@@ -397,6 +415,7 @@
       "|first basket|Jaxson Hayes",
       "|first basket|Jaylen Wells",
       "|first basket|John Collins",
+      "|first basket|Jonathan Kuminga",
       "|first basket|Karlo Matkovic",
       "|first basket|Kyle Kuzma",
       "|first basket|Mikal Bridges",
@@ -409,7 +428,7 @@
     "slate": "2026-11-04",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 00:37:23 GMT",
-    "checked_at": "2026-11-05T00:40:19.484141+00:00"
+    "last_modified": "Thu, 05 Nov 2026 01:06:32 GMT",
+    "checked_at": "2026-11-05T01:07:15.096238+00:00"
   }
 }
