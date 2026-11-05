@@ -7,100 +7,19 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 01:06:32 GMT",
-    "checked_at": "2026-11-05T01:07:11.728266+00:00"
+    "last_modified": "Thu, 05 Nov 2026 01:17:55 GMT",
+    "checked_at": "2026-11-05T01:18:12.583995+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "2991696edace804f750a699715f85d195cc2c48f0277c8cfd38e0ee599dd9a3e",
-    "confirmed": [
-      {
-        "name": "Go-To Man",
-        "legs": [
-          "Erling Haaland"
-        ],
-        "rr": false,
-        "info": {
-          "Erling Haaland": "Manchester City vs RB Leipzig \u00b7 Wed Nov 4 \u00b7 3:00 PM ET"
-        },
-        "odds": {
-          "Erling Haaland": -185
-        },
-        "units": 2
-      },
-      {
-        "name": "Ninety Minutes",
-        "legs": [
-          "Lens v Como: Both teams to score",
-          "RB Leipzig v Manchester City: Both teams to score"
-        ],
-        "rr": false,
-        "market": "",
-        "kind": "totals",
-        "info": {
-          "RB Leipzig v Manchester City: Both teams to score": "Wed Nov 4 \u00b7 3:00 PM ET",
-          "Lens v Como: Both teams to score": "Wed Nov 4 \u00b7 3:00 PM ET"
-        },
-        "odds": {
-          "RB Leipzig v Manchester City: Both teams to score": -229,
-          "Lens v Como: Both teams to score": -186
-        }
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Erling Haaland"
-        ],
-        "rr": false,
-        "info": {
-          "Erling Haaland": "Manchester City vs RB Leipzig \u00b7 Wed Nov 4 \u00b7 3:00 PM ET"
-        },
-        "odds": {
-          "Erling Haaland": -185
-        }
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Sehrou Guirassy"
-        ],
-        "rr": false,
-        "info": {
-          "Sehrou Guirassy": "Borussia Dortmund vs Real Betis \u00b7 Wed Nov 4 \u00b7 3:00 PM ET"
-        },
-        "odds": {
-          "Sehrou Guirassy": -102
-        }
-      }
-    ],
-    "announced": {
-      "Ninety Minutes": [
-        "Lens v Como: Both teams to score",
-        "RB Leipzig v Manchester City: Both teams to score"
-      ],
-      "Go-To Man": [
-        "Erling Haaland"
-      ],
-      "Target Man": [
-        "Erling Haaland"
-      ],
-      "The Poacher": [
-        "Sehrou Guirassy"
-      ]
-    },
-    "abets": [
-      "totals||Lens v Como: Both teams to score,RB Leipzig v Manchester City: Both teams to score",
-      "|anytime goalscorer|Erling Haaland",
-      "|anytime goalscorer|Sehrou Guirassy"
-    ],
-    "slate": "2026-11-04",
-    "hits": [
-      "a:Erling Haaland",
-      "t:Lens v Como: Both teams to score",
-      "t:RB Leipzig v Manchester City: Both teams to score"
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-05",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 01:06:32 GMT",
-    "checked_at": "2026-11-05T01:07:12.672267+00:00"
+    "last_modified": "Thu, 05 Nov 2026 01:17:55 GMT",
+    "checked_at": "2026-11-05T01:18:12.881217+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -110,8 +29,8 @@
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 01:06:32 GMT",
-    "checked_at": "2026-11-05T01:07:12.932602+00:00"
+    "last_modified": "Thu, 05 Nov 2026 01:17:55 GMT",
+    "checked_at": "2026-11-05T01:18:13.178626+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "ceefc15b5c7ed5a9defe67293d1cf8418fd3600e8d21bfdedfcc49a4121e0904",
@@ -428,7 +347,7 @@
     "slate": "2026-11-04",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 01:06:32 GMT",
-    "checked_at": "2026-11-05T01:07:15.096238+00:00"
+    "last_modified": "Thu, 05 Nov 2026 01:17:55 GMT",
+    "checked_at": "2026-11-05T01:18:13.867023+00:00"
   }
 }

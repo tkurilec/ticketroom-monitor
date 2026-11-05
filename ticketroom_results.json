@@ -271,8 +271,9 @@
             "Lens v Como: Both teams to score": -186
           },
           "bkey": "totals||Lens v Como: Both teams to score,RB Leipzig v Manchester City: Both teams to score",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.209090482227544,
+          "legs_hit": 2
         },
         "Go-To Man": {
           "legs": [
@@ -285,8 +286,9 @@
             "Erling Haaland": -185
           },
           "bkey": "|anytime goalscorer|Erling Haaland",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.0810810810810811,
+          "legs_hit": 1
         },
         "The Poacher": {
           "legs": [
@@ -299,10 +301,12 @@
             "Sehrou Guirassy": -102
           },
           "bkey": "|anytime goalscorer|Sehrou Guirassy",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         }
-      }
+      },
+      "2026-11-05": {}
     },
     "NFL Board": {
       "2026-11-02": {
