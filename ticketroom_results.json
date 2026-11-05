@@ -1289,8 +1289,9 @@
             "Onyeka Okongwu": 800
           },
           "bkey": "|first basket|Onyeka Okongwu",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "First Points": {
           "legs": [
@@ -1303,8 +1304,9 @@
             "AJ Dybantsa": 700
           },
           "bkey": "|first basket|AJ Dybantsa",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "Open Floor": {
           "legs": [
@@ -1317,8 +1319,9 @@
             "Paul Reed": 650
           },
           "bkey": "|first basket|Paul Reed",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.4,
+          "legs_hit": 0
         },
         "Tip-Off Call": {
           "legs": [
@@ -1331,8 +1334,9 @@
             "John Collins": 1000
           },
           "bkey": "|first basket|John Collins",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.2,
+          "legs_hit": 0
         },
         "First Look": {
           "legs": [
@@ -1345,8 +1349,9 @@
             "Myles Turner": 1100
           },
           "bkey": "|first basket|Myles Turner",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "Get on the Board": {
           "legs": [
@@ -1359,8 +1364,9 @@
             "Naz Reid": 850
           },
           "bkey": "|first basket|Naz Reid",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Off the Tip": {
           "legs": [
@@ -1373,8 +1379,9 @@
             "Mikal Bridges": 1000
           },
           "bkey": "|first basket|Mikal Bridges",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.2,
+          "legs_hit": 0
         },
         "Out of the Huddle": {
           "legs": [
@@ -1387,8 +1394,9 @@
             "Jalen Smith": 950
           },
           "bkey": "|first basket|Jalen Smith",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.2,
+          "legs_hit": 0
         },
         "Set Play": {
           "legs": [
@@ -1401,8 +1409,9 @@
             "Kyle Kuzma": 1300
           },
           "bkey": "|first basket|Kyle Kuzma",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "Top of the Key": {
           "legs": [
@@ -1415,8 +1424,9 @@
             "Norman Powell": 950
           },
           "bkey": "|first basket|Norman Powell",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.2,
+          "legs_hit": 0
         },
         "Early Offense": {
           "legs": [
@@ -1429,8 +1439,9 @@
             "Jaxson Hayes": 1100
           },
           "bkey": "|first basket|Jaxson Hayes",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "Ice Breaker": {
           "legs": [
@@ -1443,8 +1454,9 @@
             "Karlo Matkovic": 1200
           },
           "bkey": "|first basket|Karlo Matkovic",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "Two Points": {
           "legs": [
@@ -1457,8 +1469,9 @@
             "Isaiah Hartenstein": 1000
           },
           "bkey": "|first basket|Isaiah Hartenstein",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "First Touch": {
           "legs": [
@@ -1471,8 +1484,9 @@
             "Andrew Nembhard": 1100
           },
           "bkey": "|first basket|Andrew Nembhard",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "Lead the Break": {
           "legs": [
@@ -1485,8 +1499,9 @@
             "Jaylen Wells": 1000
           },
           "bkey": "|first basket|Jaylen Wells",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "The Starter": {
           "legs": [
@@ -1499,8 +1514,9 @@
             "Jonathan Kuminga": 850
           },
           "bkey": "|first basket|Jonathan Kuminga",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Opening Set": {
           "legs": [
@@ -1513,8 +1529,9 @@
             "Cameron Johnson": 1200
           },
           "bkey": "|first basket|Cameron Johnson",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Jump Ball": {
           "legs": [
@@ -1527,8 +1544,9 @@
             "Donovan Clingan": 1000
           },
           "bkey": "|first basket|Donovan Clingan",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Center Circle": {
           "legs": [
@@ -1541,8 +1559,9 @@
             "Devin Vassell": 900
           },
           "bkey": "|first basket|Devin Vassell",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "First Bucket": {
           "legs": [
@@ -1555,8 +1574,9 @@
             "Daniel Gafford": 1300
           },
           "bkey": "|first basket|Daniel Gafford",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.2,
+          "legs_hit": 0
         },
         "Bucket One": {
           "legs": [
@@ -1569,8 +1589,9 @@
             "Precious Achiuwa": 1400
           },
           "bkey": "|first basket|Precious Achiuwa",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.2,
+          "legs_hit": 0
         },
         "Opening Tip": {
           "legs": [
@@ -1583,8 +1604,9 @@
             "De'Andre Hunter": 1300
           },
           "bkey": "|first basket|De'Andre Hunter",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.2,
+          "legs_hit": 0
         },
         "Win the Tip": {
           "legs": [
@@ -1597,8 +1619,9 @@
             "Domantas Sabonis": 800
           },
           "bkey": "|first basket|Domantas Sabonis",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "The Opener": {
           "legs": [
@@ -1611,8 +1634,9 @@
             "Bam Adebayo": 550
           },
           "bkey": "|first basket|Bam Adebayo",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "Tip Drill": {
           "legs": [
@@ -1625,8 +1649,9 @@
             "Klay Thompson": 1100
           },
           "bkey": "|first basket|Klay Thompson",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.2,
+          "legs_hit": 0
         }
       },
       "2026-11-05": {}
@@ -1693,6 +1718,13 @@
         "l": 6,
         "v": 0,
         "pl": 3.45,
+        "unk": 0
+      },
+      "2026-11-04": {
+        "w": 0,
+        "l": 25,
+        "v": 0,
+        "pl": -8.3,
         "unk": 0
       }
     }

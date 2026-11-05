@@ -1391,6 +1391,13 @@ def check_all() -> None:
         # posted this slate day. Survives tickets blinking off the board
         # (build flaps double-posted otherwise); resets when the slate rolls.
         slate = sig.get("slate") if sig else None
+        # The site nulls meta.date at midnight ET and publishes the next
+        # slate hours later, so the slate rolls as old -> None -> new. Carry
+        # yesterday's date across the gap, otherwise the roll-settle never
+        # sees old != new and the night's rows stay pending forever (NBA
+        # 2026-11-04 went ungraded on the morning card this way).
+        if slate is None and prev is not None:
+            slate = prev.get("slate")
         announced = {}
         abets = set()
         if prev is not None and (slate is None or prev.get("slate") == slate):
