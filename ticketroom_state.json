@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 02:37:41 GMT",
-    "checked_at": "2026-11-05T02:38:12.778902+00:00"
+    "last_modified": "Thu, 05 Nov 2026 03:06:52 GMT",
+    "checked_at": "2026-11-05T03:07:11.812595+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 02:37:41 GMT",
-    "checked_at": "2026-11-05T02:38:12.884982+00:00"
+    "last_modified": "Thu, 05 Nov 2026 03:06:52 GMT",
+    "checked_at": "2026-11-05T03:07:12.024753+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -29,11 +29,11 @@
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 02:37:41 GMT",
-    "checked_at": "2026-11-05T02:38:12.993384+00:00"
+    "last_modified": "Thu, 05 Nov 2026 03:06:52 GMT",
+    "checked_at": "2026-11-05T03:07:12.286453+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "2b54f066fe5348cf77205cf0716c54840931478247d06af1a214389b587a5d65",
+    "hash": "3c59a2f433ee12f36ab978cb937fc65ebb0ee0abeed792d60ba9e7dc7ae9306f",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -139,6 +139,21 @@
         },
         "units": 0.3,
         "group": "1"
+      },
+      {
+        "name": "First Points",
+        "legs": [
+          "Andrew Wiggins"
+        ],
+        "rr": false,
+        "info": {
+          "Andrew Wiggins": "Heat vs Clippers \u00b7 Wed Nov 4 \u00b7 10:30 PM ET"
+        },
+        "odds": {
+          "Andrew Wiggins": 1000
+        },
+        "units": 0.2,
+        "group": "14"
       },
       {
         "name": "First Touch",
@@ -306,6 +321,21 @@
         "group": "4"
       },
       {
+        "name": "The Opener",
+        "legs": [
+          "Bam Adebayo"
+        ],
+        "rr": false,
+        "info": {
+          "Bam Adebayo": "Heat vs Clippers \u00b7 Wed Nov 4 \u00b7 10:30 PM ET"
+        },
+        "odds": {
+          "Bam Adebayo": 550
+        },
+        "units": 0.3,
+        "group": "14"
+      },
+      {
         "name": "The Starter",
         "legs": [
           "Jonathan Kuminga"
@@ -319,6 +349,21 @@
         },
         "units": 0.6,
         "group": "9"
+      },
+      {
+        "name": "Tip Drill",
+        "legs": [
+          "Klay Thompson"
+        ],
+        "rr": false,
+        "info": {
+          "Klay Thompson": "Heat vs Clippers \u00b7 Wed Nov 4 \u00b7 10:30 PM ET"
+        },
+        "odds": {
+          "Klay Thompson": 1100
+        },
+        "units": 0.2,
+        "group": "14"
       },
       {
         "name": "Tip-Off Call",
@@ -386,7 +431,7 @@
         "Onyeka Okongwu"
       ],
       "First Points": [
-        "AJ Dybantsa"
+        "Andrew Wiggins"
       ],
       "Open Floor": [
         "Paul Reed"
@@ -450,11 +495,19 @@
       ],
       "Win the Tip": [
         "Domantas Sabonis"
+      ],
+      "The Opener": [
+        "Bam Adebayo"
+      ],
+      "Tip Drill": [
+        "Klay Thompson"
       ]
     },
     "abets": [
       "|first basket|AJ Dybantsa",
       "|first basket|Andrew Nembhard",
+      "|first basket|Andrew Wiggins",
+      "|first basket|Bam Adebayo",
       "|first basket|Cameron Johnson",
       "|first basket|Daniel Gafford",
       "|first basket|De'Andre Hunter",
@@ -468,6 +521,7 @@
       "|first basket|John Collins",
       "|first basket|Jonathan Kuminga",
       "|first basket|Karlo Matkovic",
+      "|first basket|Klay Thompson",
       "|first basket|Kyle Kuzma",
       "|first basket|Mikal Bridges",
       "|first basket|Myles Turner",
@@ -480,7 +534,7 @@
     "slate": "2026-11-04",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 02:37:41 GMT",
-    "checked_at": "2026-11-05T02:38:15.165533+00:00"
+    "last_modified": "Thu, 05 Nov 2026 03:06:52 GMT",
+    "checked_at": "2026-11-05T03:07:15.552097+00:00"
   }
 }

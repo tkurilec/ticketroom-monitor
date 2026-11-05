@@ -1599,6 +1599,34 @@
           "bkey": "|first basket|Domantas Sabonis",
           "result": null,
           "pl": null
+        },
+        "The Opener": {
+          "legs": [
+            "Bam Adebayo"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Bam Adebayo": 550
+          },
+          "bkey": "|first basket|Bam Adebayo",
+          "result": null,
+          "pl": null
+        },
+        "Tip Drill": {
+          "legs": [
+            "Klay Thompson"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "Klay Thompson": 1100
+          },
+          "bkey": "|first basket|Klay Thompson",
+          "result": null,
+          "pl": null
         }
       }
     }
