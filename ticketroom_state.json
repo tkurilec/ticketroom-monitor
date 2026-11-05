@@ -7,19 +7,39 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 11:01:04 GMT",
-    "checked_at": "2026-11-05T11:01:12.677623+00:00"
+    "last_modified": "Thu, 05 Nov 2026 16:52:10 GMT",
+    "checked_at": "2026-11-05T16:52:15.365312+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "57a1a3e7da3882cf46b0c90d42e3069cfc0858f41be9a7dc376f1eb847862b2c",
+    "confirmed": [
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Jean-Philippe Mateta"
+        ],
+        "rr": false,
+        "info": {
+          "Jean-Philippe Mateta": "Crystal Palace vs TSG Hoffenheim \u00b7 Thu Nov 5 \u00b7 12:45 PM ET"
+        },
+        "odds": {
+          "Jean-Philippe Mateta": -105
+        }
+      }
+    ],
+    "announced": {
+      "The Poacher": [
+        "Jean-Philippe Mateta"
+      ]
+    },
+    "abets": [
+      "|anytime goalscorer|Jean-Philippe Mateta"
+    ],
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 11:01:04 GMT",
-    "checked_at": "2026-11-05T11:01:12.976822+00:00"
+    "last_modified": "Thu, 05 Nov 2026 16:52:10 GMT",
+    "checked_at": "2026-11-05T16:52:17.840476+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -29,8 +49,8 @@
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 11:01:04 GMT",
-    "checked_at": "2026-11-05T11:01:13.159824+00:00"
+    "last_modified": "Thu, 05 Nov 2026 16:52:10 GMT",
+    "checked_at": "2026-11-05T16:52:17.990521+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -40,7 +60,7 @@
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 05 Nov 2026 11:01:04 GMT",
-    "checked_at": "2026-11-05T11:01:13.346719+00:00"
+    "last_modified": "Thu, 05 Nov 2026 16:52:10 GMT",
+    "checked_at": "2026-11-05T16:52:18.132958+00:00"
   }
 }

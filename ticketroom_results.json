@@ -306,7 +306,22 @@
           "legs_hit": 0
         }
       },
-      "2026-11-05": {}
+      "2026-11-05": {
+        "The Poacher": {
+          "legs": [
+            "Jean-Philippe Mateta"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jean-Philippe Mateta": -105
+          },
+          "bkey": "|anytime goalscorer|Jean-Philippe Mateta",
+          "result": null,
+          "pl": null
+        }
+      }
     },
     "NFL Board": {
       "2026-11-02": {
