@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Thu, 05 Nov 2026 00:37:23 GMT",
-    "checked_at": "2026-11-05T00:38:14.366975+00:00"
+    "checked_at": "2026-11-05T00:40:15.821830+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "2991696edace804f750a699715f85d195cc2c48f0277c8cfd38e0ee599dd9a3e",
@@ -100,7 +100,7 @@
     ],
     "ltd": null,
     "last_modified": "Thu, 05 Nov 2026 00:37:23 GMT",
-    "checked_at": "2026-11-05T00:38:15.053962+00:00"
+    "checked_at": "2026-11-05T00:40:16.487151+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -111,10 +111,10 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Thu, 05 Nov 2026 00:37:23 GMT",
-    "checked_at": "2026-11-05T00:38:15.223819+00:00"
+    "checked_at": "2026-11-05T00:40:17.648205+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "bbc98f5769dd656b9049f09e85b82453113f0db96db34f27d0de99a7d6f5b813",
+    "hash": "b5cde032f23777395cff4403dd813d78fb7ce7e81960bce91c10942314cb20c6",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -177,6 +177,21 @@
         "group": "1"
       },
       {
+        "name": "First Touch",
+        "legs": [
+          "Andrew Nembhard"
+        ],
+        "rr": false,
+        "info": {
+          "Andrew Nembhard": "Pacers vs Grizzlies \u00b7 Wed Nov 4 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Andrew Nembhard": 1100
+        },
+        "units": 0.3,
+        "group": "7"
+      },
+      {
         "name": "Get on the Board",
         "legs": [
           "Naz Reid"
@@ -205,6 +220,21 @@
         },
         "units": 0.3,
         "group": "6"
+      },
+      {
+        "name": "Lead the Break",
+        "legs": [
+          "Jaylen Wells"
+        ],
+        "rr": false,
+        "info": {
+          "Jaylen Wells": "Grizzlies vs Pacers \u00b7 Wed Nov 4 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Jaylen Wells": 1000
+        },
+        "units": 0.3,
+        "group": "7"
       },
       {
         "name": "Off the Tip",
@@ -351,13 +381,21 @@
       ],
       "Two Points": [
         "Isaiah Hartenstein"
+      ],
+      "First Touch": [
+        "Andrew Nembhard"
+      ],
+      "Lead the Break": [
+        "Jaylen Wells"
       ]
     },
     "abets": [
       "|first basket|AJ Dybantsa",
+      "|first basket|Andrew Nembhard",
       "|first basket|Isaiah Hartenstein",
       "|first basket|Jalen Smith",
       "|first basket|Jaxson Hayes",
+      "|first basket|Jaylen Wells",
       "|first basket|John Collins",
       "|first basket|Karlo Matkovic",
       "|first basket|Kyle Kuzma",
@@ -372,6 +410,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Thu, 05 Nov 2026 00:37:23 GMT",
-    "checked_at": "2026-11-05T00:38:16.954497+00:00"
+    "checked_at": "2026-11-05T00:40:19.484141+00:00"
   }
 }

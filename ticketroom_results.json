@@ -1455,6 +1455,34 @@
           "bkey": "|first basket|Isaiah Hartenstein",
           "result": null,
           "pl": null
+        },
+        "First Touch": {
+          "legs": [
+            "Andrew Nembhard"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Andrew Nembhard": 1100
+          },
+          "bkey": "|first basket|Andrew Nembhard",
+          "result": null,
+          "pl": null
+        },
+        "Lead the Break": {
+          "legs": [
+            "Jaylen Wells"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Jaylen Wells": 1000
+          },
+          "bkey": "|first basket|Jaylen Wells",
+          "result": null,
+          "pl": null
         }
       }
     }
