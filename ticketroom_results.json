@@ -836,8 +836,9 @@
             "Josh Cuevas": 1949
           },
           "bkey": "|anytime touchdown|Josh Cuevas",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Six Before Anyone": {
           "legs": [
@@ -850,8 +851,9 @@
             "Derrick Henry": 596
           },
           "bkey": "ftd|first touchdown scorer|Derrick Henry",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Bell Cow": {
           "legs": [
@@ -864,8 +866,9 @@
             "Brian Thomas Jr.": 550
           },
           "bkey": "|anytime touchdown|Brian Thomas Jr.",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Goal Line Back": {
           "legs": [
@@ -878,8 +881,9 @@
             "Travis Hunter": 700
           },
           "bkey": "|anytime touchdown|Travis Hunter",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "King of the End Zone: Zay Flowers": {
           "legs": [
@@ -892,8 +896,8 @@
             "Zay Flowers": 325
           },
           "bkey": "longtd|longest touchdown scorer|Zay Flowers",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0
         },
         "Red Zone Target": {
           "legs": [
@@ -906,8 +910,9 @@
             "Tanner Koziol": 2200
           },
           "bkey": "|anytime touchdown|Tanner Koziol",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "The Workhorse": {
           "legs": [
@@ -920,8 +925,9 @@
             "Jakobi Meyers": 300
           },
           "bkey": "|anytime touchdown|Jakobi Meyers",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         }
       }
     },
@@ -1867,7 +1873,7 @@
       "2026-11-06": {}
     }
   },
-  "recap_sent": "2026-11-05",
+  "recap_sent": "2026-11-06",
   "daily": {
     "Soccer Board": {
       "2026-11-02": {
@@ -1897,6 +1903,13 @@
         "v": 0,
         "pl": 1.29,
         "unk": 0
+      },
+      "2026-11-05": {
+        "w": 0,
+        "l": 2,
+        "v": 0,
+        "pl": -3.0,
+        "unk": 0
       }
     },
     "NFL Board": {
@@ -1912,6 +1925,13 @@
         "l": 17,
         "v": 0,
         "pl": 10.84,
+        "unk": 0
+      },
+      "2026-11-05": {
+        "w": 0,
+        "l": 7,
+        "v": 0,
+        "pl": -7.0,
         "unk": 0
       }
     },
@@ -1935,6 +1955,13 @@
         "l": 25,
         "v": 0,
         "pl": -8.3,
+        "unk": 0
+      },
+      "2026-11-05": {
+        "w": 1,
+        "l": 3,
+        "v": 0,
+        "pl": 0.8,
         "unk": 0
       }
     }
