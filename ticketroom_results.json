@@ -1802,7 +1802,22 @@
           "legs_hit": 0
         }
       },
-      "2026-11-05": {}
+      "2026-11-05": {
+        "Break the Seal": {
+          "legs": [
+            "Jase Richardson"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Jase Richardson": 1600
+          },
+          "bkey": "|first basket|Jase Richardson",
+          "result": null,
+          "pl": null
+        }
+      }
     }
   },
   "recap_sent": "2026-11-05",
