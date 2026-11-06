@@ -354,6 +354,20 @@
           "bkey": "totals||Everton v Coventry City: Coventry City to score,Venezia v Udinese: Udinese under 1.5 goals",
           "result": null,
           "pl": null
+        },
+        "Main Man": {
+          "legs": [
+            "Thierno Barry"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 2,
+          "odds": {
+            "Thierno Barry": 118
+          },
+          "bkey": "|anytime goalscorer|Thierno Barry",
+          "result": null,
+          "pl": null
         }
       }
     },

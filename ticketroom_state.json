@@ -7,12 +7,26 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 11:01:56 GMT",
-    "checked_at": "2026-11-06T11:02:11.840275+00:00"
+    "last_modified": "Fri, 06 Nov 2026 19:02:03 GMT",
+    "checked_at": "2026-11-06T19:02:12.758371+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "059d3dcd5e9758397739ccadcc00d92ca79bbea3f0a88830c62d010989df6bff",
+    "hash": "e72ea098858a39d1af7525efac8764c6c44eb5065ef822fa170baa98a23277f0",
     "confirmed": [
+      {
+        "name": "Main Man",
+        "legs": [
+          "Thierno Barry"
+        ],
+        "rr": false,
+        "info": {
+          "Thierno Barry": "Everton vs Coventry City \u00b7 Fri Nov 6 \u00b7 3:00 PM ET"
+        },
+        "odds": {
+          "Thierno Barry": 118
+        },
+        "units": 2
+      },
       {
         "name": "Shut the Gate",
         "legs": [
@@ -30,22 +44,42 @@
           "Everton v Coventry City: Coventry City to score": -217,
           "Venezia v Udinese: Udinese under 1.5 goals": -199
         }
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Thierno Barry"
+        ],
+        "rr": false,
+        "info": {
+          "Thierno Barry": "Everton vs Coventry City \u00b7 Fri Nov 6 \u00b7 3:00 PM ET"
+        },
+        "odds": {
+          "Thierno Barry": 118
+        }
       }
     ],
     "announced": {
       "Shut the Gate": [
         "Everton v Coventry City: Coventry City to score",
         "Venezia v Udinese: Udinese under 1.5 goals"
+      ],
+      "Main Man": [
+        "Thierno Barry"
+      ],
+      "Target Man": [
+        "Thierno Barry"
       ]
     },
     "abets": [
-      "totals||Everton v Coventry City: Coventry City to score,Venezia v Udinese: Udinese under 1.5 goals"
+      "totals||Everton v Coventry City: Coventry City to score,Venezia v Udinese: Udinese under 1.5 goals",
+      "|anytime goalscorer|Thierno Barry"
     ],
     "slate": "2026-11-06",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 11:01:56 GMT",
-    "checked_at": "2026-11-06T11:02:12.053520+00:00"
+    "last_modified": "Fri, 06 Nov 2026 19:02:03 GMT",
+    "checked_at": "2026-11-06T19:02:14.796806+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -89,8 +123,8 @@
       "best": 65,
       "settled": true
     },
-    "last_modified": "Fri, 06 Nov 2026 11:01:56 GMT",
-    "checked_at": "2026-11-06T11:02:12.129224+00:00"
+    "last_modified": "Fri, 06 Nov 2026 19:02:03 GMT",
+    "checked_at": "2026-11-06T19:02:14.864817+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -100,7 +134,7 @@
     "slate": "2026-11-06",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 11:01:56 GMT",
-    "checked_at": "2026-11-06T11:02:12.207752+00:00"
+    "last_modified": "Fri, 06 Nov 2026 19:02:03 GMT",
+    "checked_at": "2026-11-06T19:02:15.111418+00:00"
   }
 }
