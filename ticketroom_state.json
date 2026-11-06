@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 04:06:55 GMT",
-    "checked_at": "2026-11-06T04:07:12.275201+00:00"
+    "last_modified": "Fri, 06 Nov 2026 04:47:55 GMT",
+    "checked_at": "2026-11-06T05:00:20.423236+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "059d3dcd5e9758397739ccadcc00d92ca79bbea3f0a88830c62d010989df6bff",
@@ -44,108 +44,12 @@
     "slate": "2026-11-06",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 04:06:55 GMT",
-    "checked_at": "2026-11-06T04:07:12.859262+00:00"
+    "last_modified": "Fri, 06 Nov 2026 04:47:55 GMT",
+    "checked_at": "2026-11-06T05:00:20.963320+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "5567aa28ce7c2f5100b6048fd0817c33ecef86b456154e2381ec3aaf2775b379",
-    "confirmed": [
-      {
-        "name": "Bell Cow",
-        "legs": [
-          "Brian Thomas Jr."
-        ],
-        "rr": false,
-        "info": {
-          "Brian Thomas Jr.": "Jaguars vs Ravens \u00b7 Thu Nov 5 \u00b7 8:15 PM ET"
-        },
-        "odds": {
-          "Brian Thomas Jr.": 550
-        }
-      },
-      {
-        "name": "Goal Line Back",
-        "legs": [
-          "Travis Hunter"
-        ],
-        "rr": false,
-        "info": {
-          "Travis Hunter": "Jaguars vs Ravens \u00b7 Thu Nov 5 \u00b7 8:15 PM ET"
-        },
-        "odds": {
-          "Travis Hunter": 700
-        }
-      },
-      {
-        "name": "King of the End Zone: Zay Flowers",
-        "legs": [
-          "Zay Flowers"
-        ],
-        "rr": false,
-        "market": "longest touchdown scorer",
-        "kind": "longtd",
-        "info": {
-          "Zay Flowers": "Ravens vs Jaguars \u00b7 Thu Nov 5 \u00b7 8:15 PM ET"
-        },
-        "odds": {
-          "Zay Flowers": 325
-        }
-      },
-      {
-        "name": "Red Zone Target",
-        "legs": [
-          "Tanner Koziol"
-        ],
-        "rr": false,
-        "info": {
-          "Tanner Koziol": "Jaguars vs Ravens \u00b7 Thu Nov 5 \u00b7 8:15 PM ET"
-        },
-        "odds": {
-          "Tanner Koziol": 2200
-        }
-      },
-      {
-        "name": "Short Yardage",
-        "legs": [
-          "Josh Cuevas"
-        ],
-        "rr": false,
-        "info": {
-          "Josh Cuevas": "Ravens vs Jaguars \u00b7 Thu Nov 5 \u00b7 8:15 PM ET"
-        },
-        "odds": {
-          "Josh Cuevas": 1949
-        }
-      },
-      {
-        "name": "Six Before Anyone",
-        "legs": [
-          "Derrick Henry"
-        ],
-        "rr": false,
-        "info": {
-          "Derrick Henry": "Ravens vs Jaguars \u00b7 Thu Nov 5 \u00b7 8:15 PM ET"
-        },
-        "odds": {
-          "Derrick Henry": 596
-        },
-        "market": "first touchdown scorer",
-        "kind": "ftd"
-      },
-      {
-        "name": "The Workhorse",
-        "legs": [
-          "Jakobi Meyers"
-        ],
-        "rr": false,
-        "info": {
-          "Jakobi Meyers": "Jaguars vs Ravens \u00b7 Thu Nov 5 \u00b7 8:15 PM ET"
-        },
-        "odds": {
-          "Jakobi Meyers": 300
-        }
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Short Yardage": [
         "Josh Cuevas"
@@ -185,73 +89,12 @@
       "best": 65,
       "settled": true
     },
-    "last_modified": "Fri, 06 Nov 2026 04:06:55 GMT",
-    "checked_at": "2026-11-06T04:07:13.520144+00:00"
+    "last_modified": "Fri, 06 Nov 2026 04:47:55 GMT",
+    "checked_at": "2026-11-06T05:00:21.123814+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "f6fe209f87d4b5859d6424440e5a30f94568bb7af9d7e4a6a79d1f665d33f662",
-    "confirmed": [
-      {
-        "name": "Break the Seal",
-        "legs": [
-          "Jase Richardson"
-        ],
-        "rr": false,
-        "info": {
-          "Jase Richardson": "Magic vs Suns \u00b7 Thu Nov 5 \u00b7 9:00 PM ET"
-        },
-        "odds": {
-          "Jase Richardson": 1600
-        },
-        "units": 0.6,
-        "group": "1"
-      },
-      {
-        "name": "Get on the Board",
-        "legs": [
-          "Andrew Wiggins"
-        ],
-        "rr": false,
-        "info": {
-          "Andrew Wiggins": "Heat vs Warriors \u00b7 Thu Nov 5 \u00b7 10:00 PM ET"
-        },
-        "odds": {
-          "Andrew Wiggins": 950
-        },
-        "units": 0.2,
-        "group": "2"
-      },
-      {
-        "name": "Open Floor",
-        "legs": [
-          "Bam Adebayo"
-        ],
-        "rr": false,
-        "info": {
-          "Bam Adebayo": "Heat vs Warriors \u00b7 Thu Nov 5 \u00b7 10:00 PM ET"
-        },
-        "odds": {
-          "Bam Adebayo": 500
-        },
-        "units": 0.3,
-        "group": "2"
-      },
-      {
-        "name": "Tip-Off Call",
-        "legs": [
-          "Klay Thompson"
-        ],
-        "rr": false,
-        "info": {
-          "Klay Thompson": "Heat vs Warriors \u00b7 Thu Nov 5 \u00b7 10:00 PM ET"
-        },
-        "odds": {
-          "Klay Thompson": 1000
-        },
-        "units": 0.2,
-        "group": "2"
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Break the Seal": [
         "Jase Richardson"
@@ -277,7 +120,7 @@
       "a:Andrew Wiggins"
     ],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 04:06:55 GMT",
-    "checked_at": "2026-11-06T04:07:14.078392+00:00"
+    "last_modified": "Fri, 06 Nov 2026 04:47:55 GMT",
+    "checked_at": "2026-11-06T05:00:21.513169+00:00"
   }
 }
