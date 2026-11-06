@@ -318,8 +318,9 @@
             "Jean-Philippe Mateta": -105
           },
           "bkey": "|anytime goalscorer|Jean-Philippe Mateta",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Heavy Boot": {
           "legs": [
@@ -332,6 +333,25 @@
             "Patrik Schick": -145
           },
           "bkey": "|anytime goalscorer|Patrik Schick",
+          "result": "lost",
+          "pl": -2,
+          "legs_hit": 0
+        }
+      },
+      "2026-11-06": {
+        "Shut the Gate": {
+          "legs": [
+            "Everton v Coventry City: Coventry City to score",
+            "Venezia v Udinese: Udinese under 1.5 goals"
+          ],
+          "kind": "totals",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Everton v Coventry City: Coventry City to score": -217,
+            "Venezia v Udinese: Udinese under 1.5 goals": -199
+          },
+          "bkey": "totals||Everton v Coventry City: Coventry City to score,Venezia v Udinese: Udinese under 1.5 goals",
           "result": null,
           "pl": null
         }

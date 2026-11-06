@@ -7,73 +7,45 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 01:11:26 GMT",
-    "checked_at": "2026-11-06T01:17:13.270665+00:00"
+    "last_modified": "Fri, 06 Nov 2026 01:17:38 GMT",
+    "checked_at": "2026-11-06T01:18:11.608207+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "0b6a6d598d7612a133274461d787fd3ded27a549a183d7fa2099f186fb8d1ad5",
+    "hash": "059d3dcd5e9758397739ccadcc00d92ca79bbea3f0a88830c62d010989df6bff",
     "confirmed": [
       {
-        "name": "Heavy Boot",
+        "name": "Shut the Gate",
         "legs": [
-          "Patrik Schick"
+          "Everton v Coventry City: Coventry City to score",
+          "Venezia v Udinese: Udinese under 1.5 goals"
         ],
         "rr": false,
+        "market": "",
+        "kind": "totals",
         "info": {
-          "Patrik Schick": "Bayer Leverkusen vs Marseille \u00b7 Thu Nov 5 \u00b7 3:00 PM ET"
+          "Everton v Coventry City: Coventry City to score": "Fri Nov 6 \u00b7 3:00 PM ET",
+          "Venezia v Udinese: Udinese under 1.5 goals": "Fri Nov 6 \u00b7 2:45 PM ET"
         },
         "odds": {
-          "Patrik Schick": -145
-        },
-        "units": 2
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Patrik Schick"
-        ],
-        "rr": false,
-        "info": {
-          "Patrik Schick": "Bayer Leverkusen vs Marseille \u00b7 Thu Nov 5 \u00b7 3:00 PM ET"
-        },
-        "odds": {
-          "Patrik Schick": -145
-        }
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Jean-Philippe Mateta"
-        ],
-        "rr": false,
-        "info": {
-          "Jean-Philippe Mateta": "Crystal Palace vs TSG Hoffenheim \u00b7 Thu Nov 5 \u00b7 12:45 PM ET"
-        },
-        "odds": {
-          "Jean-Philippe Mateta": -105
+          "Everton v Coventry City: Coventry City to score": -217,
+          "Venezia v Udinese: Udinese under 1.5 goals": -199
         }
       }
     ],
     "announced": {
-      "The Poacher": [
-        "Jean-Philippe Mateta"
-      ],
-      "Heavy Boot": [
-        "Patrik Schick"
-      ],
-      "Target Man": [
-        "Patrik Schick"
+      "Shut the Gate": [
+        "Everton v Coventry City: Coventry City to score",
+        "Venezia v Udinese: Udinese under 1.5 goals"
       ]
     },
     "abets": [
-      "|anytime goalscorer|Jean-Philippe Mateta",
-      "|anytime goalscorer|Patrik Schick"
+      "totals||Everton v Coventry City: Coventry City to score,Venezia v Udinese: Udinese under 1.5 goals"
     ],
-    "slate": "2026-11-05",
+    "slate": "2026-11-06",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 01:11:26 GMT",
-    "checked_at": "2026-11-06T01:17:13.874649+00:00"
+    "last_modified": "Fri, 06 Nov 2026 01:17:38 GMT",
+    "checked_at": "2026-11-06T01:18:13.882242+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "5567aa28ce7c2f5100b6048fd0817c33ecef86b456154e2381ec3aaf2775b379",
@@ -213,8 +185,8 @@
       "best": 0,
       "settled": false
     },
-    "last_modified": "Fri, 06 Nov 2026 01:11:26 GMT",
-    "checked_at": "2026-11-06T01:17:14.372915+00:00"
+    "last_modified": "Fri, 06 Nov 2026 01:17:38 GMT",
+    "checked_at": "2026-11-06T01:18:14.249206+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -224,7 +196,7 @@
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 01:11:26 GMT",
-    "checked_at": "2026-11-06T01:17:14.617471+00:00"
+    "last_modified": "Fri, 06 Nov 2026 01:17:38 GMT",
+    "checked_at": "2026-11-06T01:18:14.898934+00:00"
   }
 }
