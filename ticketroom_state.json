@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 21:12:11 GMT",
-    "checked_at": "2026-11-06T21:16:11.202753+00:00"
+    "last_modified": "Fri, 06 Nov 2026 21:36:42 GMT",
+    "checked_at": "2026-11-06T21:40:17.082165+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e72ea098858a39d1af7525efac8764c6c44eb5065ef822fa170baa98a23277f0",
@@ -78,11 +78,12 @@
     "slate": "2026-11-06",
     "hits": [
       "a:Thierno Barry",
-      "t:Everton v Coventry City: Coventry City to score"
+      "t:Everton v Coventry City: Coventry City to score",
+      "t:Venezia v Udinese: Udinese under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 21:12:11 GMT",
-    "checked_at": "2026-11-06T21:16:12.429957+00:00"
+    "last_modified": "Fri, 06 Nov 2026 21:36:42 GMT",
+    "checked_at": "2026-11-06T21:40:18.809557+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -126,8 +127,8 @@
       "best": 65,
       "settled": true
     },
-    "last_modified": "Fri, 06 Nov 2026 21:12:11 GMT",
-    "checked_at": "2026-11-06T21:16:12.619530+00:00"
+    "last_modified": "Fri, 06 Nov 2026 21:36:42 GMT",
+    "checked_at": "2026-11-06T21:40:19.000608+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -137,7 +138,7 @@
     "slate": "2026-11-06",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 21:12:11 GMT",
-    "checked_at": "2026-11-06T21:16:12.732622+00:00"
+    "last_modified": "Fri, 06 Nov 2026 21:36:42 GMT",
+    "checked_at": "2026-11-06T21:40:19.704459+00:00"
   }
 }
