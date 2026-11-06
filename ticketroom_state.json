@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 02:22:12 GMT",
-    "checked_at": "2026-11-06T02:26:14.524440+00:00"
+    "last_modified": "Fri, 06 Nov 2026 02:36:35 GMT",
+    "checked_at": "2026-11-06T02:37:13.052748+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "059d3dcd5e9758397739ccadcc00d92ca79bbea3f0a88830c62d010989df6bff",
@@ -44,8 +44,8 @@
     "slate": "2026-11-06",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 02:22:12 GMT",
-    "checked_at": "2026-11-06T02:26:15.086672+00:00"
+    "last_modified": "Fri, 06 Nov 2026 02:36:35 GMT",
+    "checked_at": "2026-11-06T02:37:13.447662+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "5567aa28ce7c2f5100b6048fd0817c33ecef86b456154e2381ec3aaf2775b379",
@@ -185,11 +185,11 @@
       "best": 50,
       "settled": false
     },
-    "last_modified": "Fri, 06 Nov 2026 02:22:12 GMT",
-    "checked_at": "2026-11-06T02:26:15.454389+00:00"
+    "last_modified": "Fri, 06 Nov 2026 02:36:35 GMT",
+    "checked_at": "2026-11-06T02:37:13.871648+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e1d8186d5ebd6f00577cbe6b6ca5b48289ffdfa94152286e523520e17277171a",
+    "hash": "f6fe209f87d4b5859d6424440e5a30f94568bb7af9d7e4a6a79d1f665d33f662",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -205,20 +205,77 @@
         },
         "units": 0.6,
         "group": "1"
+      },
+      {
+        "name": "Get on the Board",
+        "legs": [
+          "Andrew Wiggins"
+        ],
+        "rr": false,
+        "info": {
+          "Andrew Wiggins": "Heat vs Warriors \u00b7 Thu Nov 5 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "Andrew Wiggins": 950
+        },
+        "units": 0.2,
+        "group": "2"
+      },
+      {
+        "name": "Open Floor",
+        "legs": [
+          "Bam Adebayo"
+        ],
+        "rr": false,
+        "info": {
+          "Bam Adebayo": "Heat vs Warriors \u00b7 Thu Nov 5 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "Bam Adebayo": 500
+        },
+        "units": 0.3,
+        "group": "2"
+      },
+      {
+        "name": "Tip-Off Call",
+        "legs": [
+          "Klay Thompson"
+        ],
+        "rr": false,
+        "info": {
+          "Klay Thompson": "Heat vs Warriors \u00b7 Thu Nov 5 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "Klay Thompson": 1000
+        },
+        "units": 0.2,
+        "group": "2"
       }
     ],
     "announced": {
       "Break the Seal": [
         "Jase Richardson"
+      ],
+      "Get on the Board": [
+        "Andrew Wiggins"
+      ],
+      "Open Floor": [
+        "Bam Adebayo"
+      ],
+      "Tip-Off Call": [
+        "Klay Thompson"
       ]
     },
     "abets": [
-      "|first basket|Jase Richardson"
+      "|first basket|Andrew Wiggins",
+      "|first basket|Bam Adebayo",
+      "|first basket|Jase Richardson",
+      "|first basket|Klay Thompson"
     ],
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 02:22:12 GMT",
-    "checked_at": "2026-11-06T02:26:15.751293+00:00"
+    "last_modified": "Fri, 06 Nov 2026 02:36:35 GMT",
+    "checked_at": "2026-11-06T02:37:15.923750+00:00"
   }
 }

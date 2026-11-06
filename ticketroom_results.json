@@ -1816,6 +1816,48 @@
           "bkey": "|first basket|Jase Richardson",
           "result": null,
           "pl": null
+        },
+        "Get on the Board": {
+          "legs": [
+            "Andrew Wiggins"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "Andrew Wiggins": 950
+          },
+          "bkey": "|first basket|Andrew Wiggins",
+          "result": null,
+          "pl": null
+        },
+        "Open Floor": {
+          "legs": [
+            "Bam Adebayo"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Bam Adebayo": 500
+          },
+          "bkey": "|first basket|Bam Adebayo",
+          "result": null,
+          "pl": null
+        },
+        "Tip-Off Call": {
+          "legs": [
+            "Klay Thompson"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "Klay Thompson": 1000
+          },
+          "bkey": "|first basket|Klay Thompson",
+          "result": null,
+          "pl": null
         }
       }
     }
