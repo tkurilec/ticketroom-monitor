@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 03:32:05 GMT",
-    "checked_at": "2026-11-06T03:54:15.014006+00:00"
+    "last_modified": "Fri, 06 Nov 2026 04:06:55 GMT",
+    "checked_at": "2026-11-06T04:07:12.275201+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "059d3dcd5e9758397739ccadcc00d92ca79bbea3f0a88830c62d010989df6bff",
@@ -44,8 +44,8 @@
     "slate": "2026-11-06",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 03:32:05 GMT",
-    "checked_at": "2026-11-06T03:54:15.446863+00:00"
+    "last_modified": "Fri, 06 Nov 2026 04:06:55 GMT",
+    "checked_at": "2026-11-06T04:07:12.859262+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "5567aa28ce7c2f5100b6048fd0817c33ecef86b456154e2381ec3aaf2775b379",
@@ -183,10 +183,10 @@
     "ltd": {
       "holding": [],
       "best": 65,
-      "settled": false
+      "settled": true
     },
-    "last_modified": "Fri, 06 Nov 2026 03:32:05 GMT",
-    "checked_at": "2026-11-06T03:54:16.051431+00:00"
+    "last_modified": "Fri, 06 Nov 2026 04:06:55 GMT",
+    "checked_at": "2026-11-06T04:07:13.520144+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "f6fe209f87d4b5859d6424440e5a30f94568bb7af9d7e4a6a79d1f665d33f662",
@@ -277,7 +277,7 @@
       "a:Andrew Wiggins"
     ],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 03:32:05 GMT",
-    "checked_at": "2026-11-06T03:54:16.487543+00:00"
+    "last_modified": "Fri, 06 Nov 2026 04:06:55 GMT",
+    "checked_at": "2026-11-06T04:07:14.078392+00:00"
   }
 }
