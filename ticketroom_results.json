@@ -832,6 +832,76 @@
           "bkey": "ftd|first touchdown scorer|Derrick Henry",
           "result": null,
           "pl": null
+        },
+        "Bell Cow": {
+          "legs": [
+            "Brian Thomas Jr."
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Brian Thomas Jr.": 550
+          },
+          "bkey": "|anytime touchdown|Brian Thomas Jr.",
+          "result": null,
+          "pl": null
+        },
+        "Goal Line Back": {
+          "legs": [
+            "Travis Hunter"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Travis Hunter": 700
+          },
+          "bkey": "|anytime touchdown|Travis Hunter",
+          "result": null,
+          "pl": null
+        },
+        "King of the End Zone: Zay Flowers": {
+          "legs": [
+            "Zay Flowers"
+          ],
+          "kind": "longtd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Zay Flowers": 325
+          },
+          "bkey": "longtd|longest touchdown scorer|Zay Flowers",
+          "result": null,
+          "pl": null
+        },
+        "Red Zone Target": {
+          "legs": [
+            "Tanner Koziol"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Tanner Koziol": 2200
+          },
+          "bkey": "|anytime touchdown|Tanner Koziol",
+          "result": null,
+          "pl": null
+        },
+        "The Workhorse": {
+          "legs": [
+            "Jakobi Meyers"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jakobi Meyers": 300
+          },
+          "bkey": "|anytime touchdown|Jakobi Meyers",
+          "result": null,
+          "pl": null
         }
       }
     },

@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Thu, 05 Nov 2026 23:57:48 GMT",
-    "checked_at": "2026-11-05T23:58:22.881508+00:00"
+    "checked_at": "2026-11-06T00:00:23.066491+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "0b6a6d598d7612a133274461d787fd3ded27a549a183d7fa2099f186fb8d1ad5",
@@ -73,11 +73,65 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Thu, 05 Nov 2026 23:57:48 GMT",
-    "checked_at": "2026-11-05T23:58:23.580821+00:00"
+    "checked_at": "2026-11-06T00:00:23.804181+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "aed53b8e6889dd6079090ac6018a9c6eccd7ad95db3b4529736108cc7f33fa3a",
+    "hash": "5567aa28ce7c2f5100b6048fd0817c33ecef86b456154e2381ec3aaf2775b379",
     "confirmed": [
+      {
+        "name": "Bell Cow",
+        "legs": [
+          "Brian Thomas Jr."
+        ],
+        "rr": false,
+        "info": {
+          "Brian Thomas Jr.": "Jaguars vs Ravens \u00b7 Thu Nov 5 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Brian Thomas Jr.": 550
+        }
+      },
+      {
+        "name": "Goal Line Back",
+        "legs": [
+          "Travis Hunter"
+        ],
+        "rr": false,
+        "info": {
+          "Travis Hunter": "Jaguars vs Ravens \u00b7 Thu Nov 5 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Travis Hunter": 700
+        }
+      },
+      {
+        "name": "King of the End Zone: Zay Flowers",
+        "legs": [
+          "Zay Flowers"
+        ],
+        "rr": false,
+        "market": "longest touchdown scorer",
+        "kind": "longtd",
+        "info": {
+          "Zay Flowers": "Ravens vs Jaguars \u00b7 Thu Nov 5 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Zay Flowers": 325
+        }
+      },
+      {
+        "name": "Red Zone Target",
+        "legs": [
+          "Tanner Koziol"
+        ],
+        "rr": false,
+        "info": {
+          "Tanner Koziol": "Jaguars vs Ravens \u00b7 Thu Nov 5 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Tanner Koziol": 2200
+        }
+      },
       {
         "name": "Short Yardage",
         "legs": [
@@ -105,6 +159,19 @@
         },
         "market": "first touchdown scorer",
         "kind": "ftd"
+      },
+      {
+        "name": "The Workhorse",
+        "legs": [
+          "Jakobi Meyers"
+        ],
+        "rr": false,
+        "info": {
+          "Jakobi Meyers": "Jaguars vs Ravens \u00b7 Thu Nov 5 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Jakobi Meyers": 300
+        }
       }
     ],
     "announced": {
@@ -113,17 +180,37 @@
       ],
       "Six Before Anyone": [
         "Derrick Henry"
+      ],
+      "Bell Cow": [
+        "Brian Thomas Jr."
+      ],
+      "Goal Line Back": [
+        "Travis Hunter"
+      ],
+      "King of the End Zone: Zay Flowers": [
+        "Zay Flowers"
+      ],
+      "Red Zone Target": [
+        "Tanner Koziol"
+      ],
+      "The Workhorse": [
+        "Jakobi Meyers"
       ]
     },
     "abets": [
       "ftd|first touchdown scorer|Derrick Henry",
-      "|anytime touchdown|Josh Cuevas"
+      "longtd|longest touchdown scorer|Zay Flowers",
+      "|anytime touchdown|Brian Thomas Jr.",
+      "|anytime touchdown|Jakobi Meyers",
+      "|anytime touchdown|Josh Cuevas",
+      "|anytime touchdown|Tanner Koziol",
+      "|anytime touchdown|Travis Hunter"
     ],
     "slate": "2026-11-05",
     "hits": [],
     "ltd": null,
     "last_modified": "Thu, 05 Nov 2026 23:57:48 GMT",
-    "checked_at": "2026-11-05T23:58:25.092991+00:00"
+    "checked_at": "2026-11-06T00:00:26.089988+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -134,6 +221,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Thu, 05 Nov 2026 23:57:48 GMT",
-    "checked_at": "2026-11-05T23:58:25.224991+00:00"
+    "checked_at": "2026-11-06T00:00:26.268090+00:00"
   }
 }
