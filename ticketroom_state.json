@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 04:47:55 GMT",
-    "checked_at": "2026-11-06T05:00:20.423236+00:00"
+    "last_modified": "Fri, 06 Nov 2026 11:01:56 GMT",
+    "checked_at": "2026-11-06T11:02:11.840275+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "059d3dcd5e9758397739ccadcc00d92ca79bbea3f0a88830c62d010989df6bff",
@@ -44,8 +44,8 @@
     "slate": "2026-11-06",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 04:47:55 GMT",
-    "checked_at": "2026-11-06T05:00:20.963320+00:00"
+    "last_modified": "Fri, 06 Nov 2026 11:01:56 GMT",
+    "checked_at": "2026-11-06T11:02:12.053520+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -89,38 +89,18 @@
       "best": 65,
       "settled": true
     },
-    "last_modified": "Fri, 06 Nov 2026 04:47:55 GMT",
-    "checked_at": "2026-11-06T05:00:21.123814+00:00"
+    "last_modified": "Fri, 06 Nov 2026 11:01:56 GMT",
+    "checked_at": "2026-11-06T11:02:12.129224+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Break the Seal": [
-        "Jase Richardson"
-      ],
-      "Get on the Board": [
-        "Andrew Wiggins"
-      ],
-      "Open Floor": [
-        "Bam Adebayo"
-      ],
-      "Tip-Off Call": [
-        "Klay Thompson"
-      ]
-    },
-    "abets": [
-      "|first basket|Andrew Wiggins",
-      "|first basket|Bam Adebayo",
-      "|first basket|Jase Richardson",
-      "|first basket|Klay Thompson"
-    ],
-    "slate": "2026-11-05",
-    "hits": [
-      "a:Andrew Wiggins"
-    ],
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-06",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 04:47:55 GMT",
-    "checked_at": "2026-11-06T05:00:21.513169+00:00"
+    "last_modified": "Fri, 06 Nov 2026 11:01:56 GMT",
+    "checked_at": "2026-11-06T11:02:12.207752+00:00"
   }
 }

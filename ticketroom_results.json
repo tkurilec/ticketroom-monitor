@@ -1814,8 +1814,9 @@
             "Jase Richardson": 1600
           },
           "bkey": "|first basket|Jase Richardson",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Get on the Board": {
           "legs": [
@@ -1828,8 +1829,9 @@
             "Andrew Wiggins": 950
           },
           "bkey": "|first basket|Andrew Wiggins",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.9000000000000001,
+          "legs_hit": 1
         },
         "Open Floor": {
           "legs": [
@@ -1842,8 +1844,9 @@
             "Bam Adebayo": 500
           },
           "bkey": "|first basket|Bam Adebayo",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "Tip-Off Call": {
           "legs": [
@@ -1856,10 +1859,12 @@
             "Klay Thompson": 1000
           },
           "bkey": "|first basket|Klay Thompson",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.2,
+          "legs_hit": 0
         }
-      }
+      },
+      "2026-11-06": {}
     }
   },
   "recap_sent": "2026-11-05",
