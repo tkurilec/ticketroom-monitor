@@ -1884,7 +1884,78 @@
           "legs_hit": 0
         }
       },
-      "2026-11-06": {}
+      "2026-11-06": {
+        "First Look": {
+          "legs": [
+            "Coby White"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "Coby White": 1000
+          },
+          "bkey": "|first basket|Coby White",
+          "result": null,
+          "pl": null
+        },
+        "Get on the Board": {
+          "legs": [
+            "Naz Reid"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Naz Reid": 750
+          },
+          "bkey": "|first basket|Naz Reid",
+          "result": null,
+          "pl": null
+        },
+        "Open Floor": {
+          "legs": [
+            "Onyeka Okongwu"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Onyeka Okongwu": 1000
+          },
+          "bkey": "|first basket|Onyeka Okongwu",
+          "result": null,
+          "pl": null
+        },
+        "Set Play": {
+          "legs": [
+            "Hugo Gonzalez"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.1,
+          "odds": {
+            "Hugo Gonzalez": 1400
+          },
+          "bkey": "|first basket|Hugo Gonzalez",
+          "result": null,
+          "pl": null
+        },
+        "Tip-Off Call": {
+          "legs": [
+            "Kingston Flemings"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Kingston Flemings": 1100
+          },
+          "bkey": "|first basket|Kingston Flemings",
+          "result": null,
+          "pl": null
+        }
+      }
     }
   },
   "recap_sent": "2026-11-06",
