@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 23:37:39 GMT",
-    "checked_at": "2026-11-06T23:40:16.294039+00:00"
+    "last_modified": "Fri, 06 Nov 2026 23:57:10 GMT",
+    "checked_at": "2026-11-06T23:57:11.176662+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e72ea098858a39d1af7525efac8764c6c44eb5065ef822fa170baa98a23277f0",
@@ -82,8 +82,8 @@
       "t:Venezia v Udinese: Udinese under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 23:37:39 GMT",
-    "checked_at": "2026-11-06T23:40:17.075432+00:00"
+    "last_modified": "Fri, 06 Nov 2026 23:57:10 GMT",
+    "checked_at": "2026-11-06T23:57:12.174355+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -127,25 +127,25 @@
       "best": 65,
       "settled": true
     },
-    "last_modified": "Fri, 06 Nov 2026 23:37:39 GMT",
-    "checked_at": "2026-11-06T23:40:17.231583+00:00"
+    "last_modified": "Fri, 06 Nov 2026 23:57:10 GMT",
+    "checked_at": "2026-11-06T23:57:12.379189+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "d62ac1981ba828f307b7383253528109d4fc3681ff8af1fd05de1b43f1df150b",
+    "hash": "e0ce34a5b67a43dab7b8c70a376e59026301a8b8ec41821e607a02dbf62cb801",
     "confirmed": [
       {
         "name": "First Look",
         "legs": [
-          "Coby White"
+          "Grayson Allen"
         ],
         "rr": false,
         "info": {
-          "Coby White": "Hornets vs Celtics \u00b7 Fri Nov 6 \u00b7 7:00 PM ET"
+          "Grayson Allen": "Hornets vs Celtics \u00b7 Fri Nov 6 \u00b7 7:00 PM ET"
         },
         "odds": {
-          "Coby White": 1000
+          "Grayson Allen": 950
         },
-        "units": 0.2,
+        "units": 1,
         "group": "2"
       },
       {
@@ -181,16 +181,16 @@
       {
         "name": "Set Play",
         "legs": [
-          "Hugo Gonzalez"
+          "Coby White"
         ],
         "rr": false,
         "info": {
-          "Hugo Gonzalez": "Celtics vs Hornets \u00b7 Fri Nov 6 \u00b7 7:00 PM ET"
+          "Coby White": "Hornets vs Celtics \u00b7 Fri Nov 6 \u00b7 7:00 PM ET"
         },
         "odds": {
-          "Hugo Gonzalez": 1400
+          "Coby White": 1000
         },
-        "units": 0.1,
+        "units": 0.2,
         "group": "2"
       },
       {
@@ -211,7 +211,7 @@
     ],
     "announced": {
       "First Look": [
-        "Coby White"
+        "Grayson Allen"
       ],
       "Get on the Board": [
         "Naz Reid"
@@ -220,7 +220,7 @@
         "Onyeka Okongwu"
       ],
       "Set Play": [
-        "Hugo Gonzalez"
+        "Coby White"
       ],
       "Tip-Off Call": [
         "Kingston Flemings"
@@ -228,6 +228,7 @@
     },
     "abets": [
       "|first basket|Coby White",
+      "|first basket|Grayson Allen",
       "|first basket|Hugo Gonzalez",
       "|first basket|Kingston Flemings",
       "|first basket|Naz Reid",
@@ -236,7 +237,7 @@
     "slate": "2026-11-06",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 23:37:39 GMT",
-    "checked_at": "2026-11-06T23:40:18.978018+00:00"
+    "last_modified": "Fri, 06 Nov 2026 23:57:10 GMT",
+    "checked_at": "2026-11-06T23:57:14.223044+00:00"
   }
 }
