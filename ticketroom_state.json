@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 20:09:44 GMT",
-    "checked_at": "2026-11-07T20:10:15.443757+00:00"
+    "last_modified": "Sat, 07 Nov 2026 20:19:53 GMT",
+    "checked_at": "2026-11-07T20:20:17.555361+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "55f959bb88ce4905251a2105c53f001dbfc889dc87370fb76437ec4b6bef5b67",
+    "hash": "39729a508ba3ae7d04fede2292b8cb434fe7525be811bb8b511b1b8dd04a1ca1",
     "confirmed": [
       {
         "name": "Back Post",
@@ -119,6 +119,32 @@
         }
       },
       {
+        "name": "Penalty Spot",
+        "legs": [
+          "Bruno Damiani"
+        ],
+        "rr": false,
+        "info": {
+          "Bruno Damiani": "Philadelphia Union vs Toronto FC \u00b7 Sat Nov 7 \u00b7 4:00 PM ET"
+        },
+        "odds": {
+          "Bruno Damiani": -100
+        }
+      },
+      {
+        "name": "Poked Home",
+        "legs": [
+          "Rayan Elloumi"
+        ],
+        "rr": false,
+        "info": {
+          "Rayan Elloumi": "Vancouver Whitecaps vs CF Montr\u00e9al \u00b7 Sat Nov 7 \u00b7 4:00 PM ET"
+        },
+        "odds": {
+          "Rayan Elloumi": 120
+        }
+      },
+      {
         "name": "Rebound",
         "legs": [
           "Desire Doue"
@@ -132,6 +158,19 @@
         }
       },
       {
+        "name": "Rounds the Keeper",
+        "legs": [
+          "Sam Surridge"
+        ],
+        "rr": false,
+        "info": {
+          "Sam Surridge": "Nashville SC vs FC Cincinnati \u00b7 Sat Nov 7 \u00b7 4:00 PM ET"
+        },
+        "odds": {
+          "Sam Surridge": 112
+        }
+      },
+      {
         "name": "Shoulder of the Last Man",
         "legs": [
           "Erling Haaland"
@@ -142,6 +181,19 @@
         },
         "odds": {
           "Erling Haaland": -135
+        }
+      },
+      {
+        "name": "Side Netting",
+        "legs": [
+          "Antoine Griezmann"
+        ],
+        "rr": false,
+        "info": {
+          "Antoine Griezmann": "Orlando City SC vs New England Revolution \u00b7 Sat Nov 7 \u00b7 4:00 PM ET"
+        },
+        "odds": {
+          "Antoine Griezmann": 110
         }
       },
       {
@@ -301,10 +353,24 @@
       ],
       "Gets Across": [
         "Luis Suarez"
+      ],
+      "Penalty Spot": [
+        "Bruno Damiani"
+      ],
+      "Poked Home": [
+        "Rayan Elloumi"
+      ],
+      "Rounds the Keeper": [
+        "Sam Surridge"
+      ],
+      "Side Netting": [
+        "Antoine Griezmann"
       ]
     },
     "abets": [
       "totals||Chicago Fire FC v Columbus Crew: Both teams to score,Minnesota United FC v San Jose Earthquakes: Both teams to score,Nottingham Forest v Manchester City: Nottingham Forest to score,SC Paderborn 07 v Eintracht Frankfurt: Both teams to score",
+      "|anytime goalscorer|Antoine Griezmann",
+      "|anytime goalscorer|Bruno Damiani",
       "|anytime goalscorer|Christopher Nkunku",
       "|anytime goalscorer|Deniz Undav",
       "|anytime goalscorer|Desire Doue",
@@ -318,8 +384,10 @@
       "|anytime goalscorer|Lassine Sinayoko",
       "|anytime goalscorer|Lionel Messi",
       "|anytime goalscorer|Luis Suarez",
+      "|anytime goalscorer|Rayan Elloumi",
       "|anytime goalscorer|Robert Lewandowski",
-      "|anytime goalscorer|Romulo"
+      "|anytime goalscorer|Romulo",
+      "|anytime goalscorer|Sam Surridge"
     ],
     "slate": "2026-11-07",
     "hits": [
@@ -330,8 +398,8 @@
       "t:SC Paderborn 07 v Eintracht Frankfurt: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 20:09:44 GMT",
-    "checked_at": "2026-11-07T20:10:21.186711+00:00"
+    "last_modified": "Sat, 07 Nov 2026 20:19:53 GMT",
+    "checked_at": "2026-11-07T20:20:23.719583+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -341,8 +409,8 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 20:09:44 GMT",
-    "checked_at": "2026-11-07T20:10:21.526969+00:00"
+    "last_modified": "Sat, 07 Nov 2026 20:19:53 GMT",
+    "checked_at": "2026-11-07T20:20:23.917184+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -352,7 +420,7 @@
     "slate": "2026-11-07",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 20:09:44 GMT",
-    "checked_at": "2026-11-07T20:10:21.705987+00:00"
+    "last_modified": "Sat, 07 Nov 2026 20:19:53 GMT",
+    "checked_at": "2026-11-07T20:20:24.080025+00:00"
   }
 }

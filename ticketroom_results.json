@@ -602,6 +602,62 @@
           "bkey": "|anytime goalscorer|Luis Suarez",
           "result": null,
           "pl": null
+        },
+        "Penalty Spot": {
+          "legs": [
+            "Bruno Damiani"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Bruno Damiani": -100
+          },
+          "bkey": "|anytime goalscorer|Bruno Damiani",
+          "result": null,
+          "pl": null
+        },
+        "Poked Home": {
+          "legs": [
+            "Rayan Elloumi"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Rayan Elloumi": 120
+          },
+          "bkey": "|anytime goalscorer|Rayan Elloumi",
+          "result": null,
+          "pl": null
+        },
+        "Rounds the Keeper": {
+          "legs": [
+            "Sam Surridge"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Sam Surridge": 112
+          },
+          "bkey": "|anytime goalscorer|Sam Surridge",
+          "result": null,
+          "pl": null
+        },
+        "Side Netting": {
+          "legs": [
+            "Antoine Griezmann"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Antoine Griezmann": 110
+          },
+          "bkey": "|anytime goalscorer|Antoine Griezmann",
+          "result": null,
+          "pl": null
         }
       }
     },
