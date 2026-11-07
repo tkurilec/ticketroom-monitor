@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 01:17:56 GMT",
-    "checked_at": "2026-11-07T01:18:11.981033+00:00"
+    "last_modified": "Sat, 07 Nov 2026 02:37:08 GMT",
+    "checked_at": "2026-11-07T02:37:13.768056+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a138dd10c0ca4a53e3fd8cdaa8c8b8866ca6597c021c292b4cae3b5ca2cde05b",
@@ -52,8 +52,8 @@
     "slate": "2026-11-07",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 01:17:56 GMT",
-    "checked_at": "2026-11-07T01:18:14.164612+00:00"
+    "last_modified": "Sat, 07 Nov 2026 02:37:08 GMT",
+    "checked_at": "2026-11-07T02:37:15.124896+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -97,11 +97,11 @@
       "best": 65,
       "settled": true
     },
-    "last_modified": "Sat, 07 Nov 2026 01:17:56 GMT",
-    "checked_at": "2026-11-07T01:18:14.314759+00:00"
+    "last_modified": "Sat, 07 Nov 2026 02:37:08 GMT",
+    "checked_at": "2026-11-07T02:37:15.340297+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "f4cc2d03a2ea2ff8575dd7980cf47ca4de159f70d50def53f15b83fcd99fe2b4",
+    "hash": "44102a7d5a1c364ebb4ab47d8570eedeaefcb5e60b0115afa278bf6678adcb88",
     "confirmed": [
       {
         "name": "Early Offense",
@@ -224,6 +224,21 @@
         "group": "1"
       },
       {
+        "name": "Opening Set",
+        "legs": [
+          "Matisse Thybulle"
+        ],
+        "rr": false,
+        "info": {
+          "Matisse Thybulle": "Lakers vs Trail Blazers \u00b7 Fri Nov 6 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "Matisse Thybulle": 1900
+        },
+        "units": 0.2,
+        "group": "8"
+      },
+      {
         "name": "Out of the Huddle",
         "legs": [
           "Donovan Mitchell"
@@ -252,6 +267,21 @@
         },
         "units": 0.2,
         "group": "2"
+      },
+      {
+        "name": "The Starter",
+        "legs": [
+          "Donovan Clingan"
+        ],
+        "rr": false,
+        "info": {
+          "Donovan Clingan": "Trail Blazers vs Lakers \u00b7 Fri Nov 6 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "Donovan Clingan": 1000
+        },
+        "units": 0.4,
+        "group": "8"
       },
       {
         "name": "Tip-Off Call",
@@ -338,6 +368,12 @@
       ],
       "Two Points": [
         "Daniel Gafford"
+      ],
+      "Opening Set": [
+        "Matisse Thybulle"
+      ],
+      "The Starter": [
+        "Donovan Clingan"
       ]
     },
     "abets": [
@@ -346,12 +382,14 @@
       "|first basket|Brayden Burries",
       "|first basket|Coby White",
       "|first basket|Daniel Gafford",
+      "|first basket|Donovan Clingan",
       "|first basket|Donovan Mitchell",
       "|first basket|Grayson Allen",
       "|first basket|Hugo Gonzalez",
       "|first basket|Jaxson Hayes",
       "|first basket|Jeremiah Fears",
       "|first basket|Kingston Flemings",
+      "|first basket|Matisse Thybulle",
       "|first basket|Myles Turner",
       "|first basket|Naz Reid",
       "|first basket|Onyeka Okongwu"
@@ -359,7 +397,7 @@
     "slate": "2026-11-06",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 01:17:56 GMT",
-    "checked_at": "2026-11-07T01:18:14.764948+00:00"
+    "last_modified": "Sat, 07 Nov 2026 02:37:08 GMT",
+    "checked_at": "2026-11-07T02:37:17.622623+00:00"
   }
 }

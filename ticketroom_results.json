@@ -2090,6 +2090,34 @@
           "bkey": "|first basket|Daniel Gafford",
           "result": null,
           "pl": null
+        },
+        "Opening Set": {
+          "legs": [
+            "Matisse Thybulle"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "Matisse Thybulle": 1900
+          },
+          "bkey": "|first basket|Matisse Thybulle",
+          "result": null,
+          "pl": null
+        },
+        "The Starter": {
+          "legs": [
+            "Donovan Clingan"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.4,
+          "odds": {
+            "Donovan Clingan": 1000
+          },
+          "bkey": "|first basket|Donovan Clingan",
+          "result": null,
+          "pl": null
         }
       }
     }
