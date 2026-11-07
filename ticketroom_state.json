@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 19:17:02 GMT",
-    "checked_at": "2026-11-07T19:17:12.123832+00:00"
+    "last_modified": "Sat, 07 Nov 2026 19:21:33 GMT",
+    "checked_at": "2026-11-07T19:24:12.952584+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "2b895ca6e208f31a240c7ece06dc5ec0c9a43eafcd17304e4f936aa2314a3b2c",
@@ -273,13 +273,14 @@
     "slate": "2026-11-07",
     "hits": [
       "a:Christopher Nkunku",
+      "a:Lassine Sinayoko",
       "a:Romulo",
       "t:Nottingham Forest v Manchester City: Nottingham Forest to score",
       "t:SC Paderborn 07 v Eintracht Frankfurt: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 19:17:02 GMT",
-    "checked_at": "2026-11-07T19:17:16.844446+00:00"
+    "last_modified": "Sat, 07 Nov 2026 19:21:33 GMT",
+    "checked_at": "2026-11-07T19:24:15.520434+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -289,8 +290,8 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 19:17:02 GMT",
-    "checked_at": "2026-11-07T19:17:17.220378+00:00"
+    "last_modified": "Sat, 07 Nov 2026 19:21:40 GMT",
+    "checked_at": "2026-11-07T19:24:15.736970+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -300,7 +301,7 @@
     "slate": "2026-11-07",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 19:17:02 GMT",
-    "checked_at": "2026-11-07T19:17:17.436028+00:00"
+    "last_modified": "Sat, 07 Nov 2026 19:21:39 GMT",
+    "checked_at": "2026-11-07T19:24:15.918947+00:00"
   }
 }
