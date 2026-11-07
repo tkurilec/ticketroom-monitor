@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 21:40:29 GMT",
-    "checked_at": "2026-11-07T21:44:10.913352+00:00"
+    "last_modified": "Sat, 07 Nov 2026 22:31:17 GMT",
+    "checked_at": "2026-11-07T22:33:12.364340+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "39729a508ba3ae7d04fede2292b8cb434fe7525be811bb8b511b1b8dd04a1ca1",
@@ -397,13 +397,14 @@
       "a:Luis Suarez",
       "a:Robert Lewandowski",
       "a:Romulo",
+      "a:Sam Surridge",
       "t:Chicago Fire FC v Columbus Crew: Both teams to score",
       "t:Nottingham Forest v Manchester City: Nottingham Forest to score",
       "t:SC Paderborn 07 v Eintracht Frankfurt: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 21:40:29 GMT",
-    "checked_at": "2026-11-07T21:44:16.817696+00:00"
+    "last_modified": "Sat, 07 Nov 2026 22:31:17 GMT",
+    "checked_at": "2026-11-07T22:33:15.248325+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -413,8 +414,8 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 21:40:29 GMT",
-    "checked_at": "2026-11-07T21:44:17.047182+00:00"
+    "last_modified": "Sat, 07 Nov 2026 22:31:17 GMT",
+    "checked_at": "2026-11-07T22:33:15.432309+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -424,7 +425,7 @@
     "slate": "2026-11-07",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 21:40:29 GMT",
-    "checked_at": "2026-11-07T21:44:17.390567+00:00"
+    "last_modified": "Sat, 07 Nov 2026 22:31:17 GMT",
+    "checked_at": "2026-11-07T22:33:15.571225+00:00"
   }
 }
