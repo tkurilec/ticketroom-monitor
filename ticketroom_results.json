@@ -1027,1217 +1027,146 @@
       "2026-11-08": {}
     },
     "NBA Board": {
-      "2026-11-02": {
-        "The Opener": {
-          "legs": [
-            "Isaiah Hartenstein"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.6,
-          "odds": {
-            "Isaiah Hartenstein": 1000
-          },
-          "bkey": "|first basket|Isaiah Hartenstein",
-          "result": "lost",
-          "pl": -0.6,
-          "legs_hit": 0
-        },
-        "Break the Seal": {
-          "legs": [
-            "Nolan Traore"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Nolan Traore": 1300
-          },
-          "bkey": "|first basket|Nolan Traore",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "First Points": {
-          "legs": [
-            "Day'Ron Sharpe"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Day'Ron Sharpe": 1000
-          },
-          "bkey": "|first basket|Day'Ron Sharpe",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "Open Floor": {
-          "legs": [
-            "Wendell Carter Jr."
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.4,
-          "odds": {
-            "Wendell Carter Jr.": 700
-          },
-          "bkey": "|first basket|Wendell Carter Jr.",
-          "result": "lost",
-          "pl": -0.4,
-          "legs_hit": 0
-        },
-        "Out of the Huddle": {
-          "legs": [
-            "Norman Powell"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Norman Powell": 1000
-          },
-          "bkey": "|first basket|Norman Powell",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "Set Play": {
-          "legs": [
-            "Jalen Smith"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Jalen Smith": 1000
-          },
-          "bkey": "|first basket|Jalen Smith",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "Tip Drill": {
-          "legs": [
-            "Onyeka Okongwu"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.6,
-          "odds": {
-            "Onyeka Okongwu": 950
-          },
-          "bkey": "|first basket|Onyeka Okongwu",
-          "result": "lost",
-          "pl": -0.6,
-          "legs_hit": 0
-        },
-        "Tip-Off Call": {
-          "legs": [
-            "Jase Richardson"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.2,
-          "odds": {
-            "Jase Richardson": 1500
-          },
-          "bkey": "|first basket|Jase Richardson",
-          "result": "lost",
-          "pl": -0.2,
-          "legs_hit": 0
-        },
-        "First Look": {
-          "legs": [
-            "John Collins"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "John Collins": 850
-          },
-          "bkey": "|first basket|John Collins",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "Get on the Board": {
-          "legs": [
-            "Naz Reid"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Naz Reid": 800
-          },
-          "bkey": "|first basket|Naz Reid",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "First Touch": {
-          "legs": [
-            "Karlo Matkovic"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.6,
-          "odds": {
-            "Karlo Matkovic": 1700
-          },
-          "bkey": "|first basket|Karlo Matkovic",
-          "result": "lost",
-          "pl": -0.6,
-          "legs_hit": 0
-        },
-        "Ice Breaker": {
-          "legs": [
-            "Myles Turner"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Myles Turner": 1100
-          },
-          "bkey": "|first basket|Myles Turner",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "Lead the Break": {
-          "legs": [
-            "Kyle Kuzma"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Kyle Kuzma": 1300
-          },
-          "bkey": "|first basket|Kyle Kuzma",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "Early Offense": {
-          "legs": [
-            "Precious Achiuwa"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.2,
-          "odds": {
-            "Precious Achiuwa": 1200
-          },
-          "bkey": "|first basket|Precious Achiuwa",
-          "result": "lost",
-          "pl": -0.2,
-          "legs_hit": 0
-        },
-        "Off the Tip": {
-          "legs": [
-            "De'Andre Hunter"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.2,
-          "odds": {
-            "De'Andre Hunter": 1100
-          },
-          "bkey": "|first basket|De'Andre Hunter",
-          "result": "lost",
-          "pl": -0.2,
-          "legs_hit": 0
-        },
-        "Top of the Key": {
-          "legs": [
-            "Domantas Sabonis"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Domantas Sabonis": 650
-          },
-          "bkey": "|first basket|Domantas Sabonis",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "Opening Set": {
-          "legs": [
-            "Jaxson Hayes"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Jaxson Hayes": 1500
-          },
-          "bkey": "|first basket|Jaxson Hayes",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "The Starter": {
-          "legs": [
-            "Ace Bailey"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Ace Bailey": 1100
-          },
-          "bkey": "|first basket|Ace Bailey",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "Two Points": {
-          "legs": [
-            "Hugo Gonzalez"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.6,
-          "odds": {
-            "Hugo Gonzalez": 1400
-          },
-          "bkey": "|first basket|Hugo Gonzalez",
-          "result": "lost",
-          "pl": -0.6,
-          "legs_hit": 0
-        },
-        "Opening Tip": {
-          "legs": [
-            "Isaiah Jackson"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.6,
-          "odds": {
-            "Isaiah Jackson": 900
-          },
-          "bkey": "|first basket|Isaiah Jackson",
-          "result": "void",
-          "pl": 0.0,
-          "void": true
-        },
-        "Jump Ball": {
-          "legs": [
-            "Donovan Clingan"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.6,
-          "odds": {
-            "Donovan Clingan": 950
-          },
-          "bkey": "|first basket|Donovan Clingan",
-          "result": "lost",
-          "pl": -0.6,
-          "legs_hit": 0
-        },
-        "Bucket One": {
-          "legs": [
-            "Draymond Green"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.6,
-          "odds": {
-            "Draymond Green": 1000
-          },
-          "bkey": "|first basket|Draymond Green",
-          "result": "lost",
-          "pl": -0.6,
-          "legs_hit": 0
-        },
-        "Center Circle": {
-          "legs": [
-            "Bam Adebayo"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Bam Adebayo": 600
-          },
-          "bkey": "|first basket|Bam Adebayo",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "First Bucket": {
-          "legs": [
-            "Klay Thompson"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.2,
-          "odds": {
-            "Klay Thompson": 1200
-          },
-          "bkey": "|first basket|Klay Thompson",
-          "result": "lost",
-          "pl": -0.2,
-          "legs_hit": 0
-        },
-        "Win the Tip": {
-          "legs": [
-            "Andrew Wiggins"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.1,
-          "odds": {
-            "Andrew Wiggins": 1300
-          },
-          "bkey": "|first basket|Andrew Wiggins",
-          "result": "lost",
-          "pl": -0.1,
-          "legs_hit": 0
-        }
-      },
-      "2026-11-01": {
-        "Break the Seal": {
-          "legs": [
-            "Day'Ron Sharpe"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Day'Ron Sharpe": 1000
-          },
-          "bkey": "|first basket|Day'Ron Sharpe",
-          "result": "won",
-          "pl": 3.0,
-          "legs_hit": 1
-        },
-        "Bucket One": {
-          "legs": [
-            "Wendell Carter Jr."
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Wendell Carter Jr.": 750
-          },
-          "bkey": "|first basket|Wendell Carter Jr.",
-          "result": "won",
-          "pl": 2.25,
-          "legs_hit": 1
-        },
-        "First Points": {
-          "legs": [
-            "Jay Huff"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Jay Huff": 900
-          },
-          "bkey": "|first basket|Jay Huff",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "Get on the Board": {
-          "legs": [
-            "Matisse Thybulle"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.2,
-          "odds": {
-            "Matisse Thybulle": 2000
-          },
-          "bkey": "|first basket|Matisse Thybulle",
-          "result": "lost",
-          "pl": -0.2,
-          "legs_hit": 0
-        },
-        "Open Floor": {
-          "legs": [
-            "Isaiah Jackson"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.6,
-          "odds": {
-            "Isaiah Jackson": 900
-          },
-          "bkey": "|first basket|Isaiah Jackson",
-          "result": "lost",
-          "pl": -0.6,
-          "legs_hit": 0
-        },
-        "The Opener": {
-          "legs": [
-            "Derrick White"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.2,
-          "odds": {
-            "Derrick White": 1000
-          },
-          "bkey": "|first basket|Derrick White",
-          "result": "lost",
-          "pl": -0.2,
-          "legs_hit": 0
-        },
-        "Tip Drill": {
-          "legs": [
-            "Jase Richardson"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.1,
-          "odds": {
-            "Jase Richardson": 1500
-          },
-          "bkey": "|first basket|Jase Richardson",
-          "result": "lost",
-          "pl": -0.1,
-          "legs_hit": 0
-        },
-        "Tip-Off Call": {
-          "legs": [
-            "Jakob Poeltl"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.4,
-          "odds": {
-            "Jakob Poeltl": 900
-          },
-          "bkey": "|first basket|Jakob Poeltl",
-          "result": "lost",
-          "pl": -0.4,
-          "legs_hit": 0
-        }
-      },
-      "2026-11-04": {
-        "Break the Seal": {
-          "legs": [
-            "Onyeka Okongwu"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Onyeka Okongwu": 800
-          },
-          "bkey": "|first basket|Onyeka Okongwu",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "First Points": {
-          "legs": [
-            "AJ Dybantsa"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "AJ Dybantsa": 700
-          },
-          "bkey": "|first basket|AJ Dybantsa",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "Open Floor": {
-          "legs": [
-            "Paul Reed"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.4,
-          "odds": {
-            "Paul Reed": 650
-          },
-          "bkey": "|first basket|Paul Reed",
-          "result": "lost",
-          "pl": -0.4,
-          "legs_hit": 0
-        },
-        "Tip-Off Call": {
-          "legs": [
-            "John Collins"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.2,
-          "odds": {
-            "John Collins": 1000
-          },
-          "bkey": "|first basket|John Collins",
-          "result": "lost",
-          "pl": -0.2,
-          "legs_hit": 0
-        },
-        "First Look": {
-          "legs": [
-            "Myles Turner"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Myles Turner": 1100
-          },
-          "bkey": "|first basket|Myles Turner",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "Get on the Board": {
-          "legs": [
-            "Naz Reid"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.6,
-          "odds": {
-            "Naz Reid": 850
-          },
-          "bkey": "|first basket|Naz Reid",
-          "result": "lost",
-          "pl": -0.6,
-          "legs_hit": 0
-        },
-        "Off the Tip": {
-          "legs": [
-            "Mikal Bridges"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.2,
-          "odds": {
-            "Mikal Bridges": 1000
-          },
-          "bkey": "|first basket|Mikal Bridges",
-          "result": "lost",
-          "pl": -0.2,
-          "legs_hit": 0
-        },
-        "Out of the Huddle": {
-          "legs": [
-            "Jalen Smith"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.2,
-          "odds": {
-            "Jalen Smith": 950
-          },
-          "bkey": "|first basket|Jalen Smith",
-          "result": "lost",
-          "pl": -0.2,
-          "legs_hit": 0
-        },
-        "Set Play": {
-          "legs": [
-            "Kyle Kuzma"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Kyle Kuzma": 1300
-          },
-          "bkey": "|first basket|Kyle Kuzma",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "Top of the Key": {
-          "legs": [
-            "Norman Powell"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.2,
-          "odds": {
-            "Norman Powell": 950
-          },
-          "bkey": "|first basket|Norman Powell",
-          "result": "lost",
-          "pl": -0.2,
-          "legs_hit": 0
-        },
-        "Early Offense": {
-          "legs": [
-            "Jaxson Hayes"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Jaxson Hayes": 1100
-          },
-          "bkey": "|first basket|Jaxson Hayes",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "Ice Breaker": {
-          "legs": [
-            "Karlo Matkovic"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Karlo Matkovic": 1200
-          },
-          "bkey": "|first basket|Karlo Matkovic",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "Two Points": {
-          "legs": [
-            "Isaiah Hartenstein"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.6,
-          "odds": {
-            "Isaiah Hartenstein": 1000
-          },
-          "bkey": "|first basket|Isaiah Hartenstein",
-          "result": "lost",
-          "pl": -0.6,
-          "legs_hit": 0
-        },
-        "First Touch": {
-          "legs": [
-            "Andrew Nembhard"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Andrew Nembhard": 1100
-          },
-          "bkey": "|first basket|Andrew Nembhard",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "Lead the Break": {
-          "legs": [
-            "Jaylen Wells"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Jaylen Wells": 1000
-          },
-          "bkey": "|first basket|Jaylen Wells",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "The Starter": {
-          "legs": [
-            "Jonathan Kuminga"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.6,
-          "odds": {
-            "Jonathan Kuminga": 850
-          },
-          "bkey": "|first basket|Jonathan Kuminga",
-          "result": "lost",
-          "pl": -0.6,
-          "legs_hit": 0
-        },
-        "Opening Set": {
-          "legs": [
-            "Cameron Johnson"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.6,
-          "odds": {
-            "Cameron Johnson": 1200
-          },
-          "bkey": "|first basket|Cameron Johnson",
-          "result": "lost",
-          "pl": -0.6,
-          "legs_hit": 0
-        },
-        "Jump Ball": {
-          "legs": [
-            "Donovan Clingan"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.6,
-          "odds": {
-            "Donovan Clingan": 1000
-          },
-          "bkey": "|first basket|Donovan Clingan",
-          "result": "lost",
-          "pl": -0.6,
-          "legs_hit": 0
-        },
-        "Center Circle": {
-          "legs": [
-            "Devin Vassell"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Devin Vassell": 900
-          },
-          "bkey": "|first basket|Devin Vassell",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "First Bucket": {
-          "legs": [
-            "Daniel Gafford"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.2,
-          "odds": {
-            "Daniel Gafford": 1300
-          },
-          "bkey": "|first basket|Daniel Gafford",
-          "result": "lost",
-          "pl": -0.2,
-          "legs_hit": 0
-        },
-        "Bucket One": {
-          "legs": [
-            "Precious Achiuwa"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.2,
-          "odds": {
-            "Precious Achiuwa": 1400
-          },
-          "bkey": "|first basket|Precious Achiuwa",
-          "result": "lost",
-          "pl": -0.2,
-          "legs_hit": 0
-        },
-        "Opening Tip": {
-          "legs": [
-            "De'Andre Hunter"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.2,
-          "odds": {
-            "De'Andre Hunter": 1300
-          },
-          "bkey": "|first basket|De'Andre Hunter",
-          "result": "lost",
-          "pl": -0.2,
-          "legs_hit": 0
-        },
-        "Win the Tip": {
-          "legs": [
-            "Domantas Sabonis"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Domantas Sabonis": 800
-          },
-          "bkey": "|first basket|Domantas Sabonis",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "The Opener": {
-          "legs": [
-            "Bam Adebayo"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Bam Adebayo": 550
-          },
-          "bkey": "|first basket|Bam Adebayo",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "Tip Drill": {
-          "legs": [
-            "Klay Thompson"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.2,
-          "odds": {
-            "Klay Thompson": 1100
-          },
-          "bkey": "|first basket|Klay Thompson",
-          "result": "lost",
-          "pl": -0.2,
-          "legs_hit": 0
-        }
-      },
       "2026-11-05": {
-        "Break the Seal": {
+        "First Basket: ORL@PHX": {
           "legs": [
-            "Jase Richardson"
+            "Franz Wagner",
+            "Wendell Carter Jr."
           ],
-          "kind": "",
+          "kind": "fb2",
           "rr": false,
-          "units": 0.6,
+          "units": 1,
           "odds": {
-            "Jase Richardson": 1600
+            "Franz Wagner": 500,
+            "Wendell Carter Jr.": 600
           },
-          "bkey": "|first basket|Jase Richardson",
-          "result": "lost",
-          "pl": -0.6,
-          "legs_hit": 0
-        },
-        "Get on the Board": {
-          "legs": [
-            "Andrew Wiggins"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.2,
-          "odds": {
-            "Andrew Wiggins": 950
-          },
-          "bkey": "|first basket|Andrew Wiggins",
+          "bkey": "fb2|first basket|Franz Wagner,Wendell Carter Jr.",
           "result": "won",
-          "pl": 1.9000000000000001,
-          "legs_hit": 1
+          "legs_hit": 1,
+          "pl": 2.2308
         },
-        "Open Floor": {
+        "First Basket: MIA@GSW": {
           "legs": [
-            "Bam Adebayo"
+            "Bam Adebayo",
+            "Giannis Antetokounmpo"
           ],
-          "kind": "",
+          "kind": "fb2",
           "rr": false,
-          "units": 0.3,
+          "units": 1,
           "odds": {
-            "Bam Adebayo": 500
+            "Bam Adebayo": 500,
+            "Giannis Antetokounmpo": 330
           },
-          "bkey": "|first basket|Bam Adebayo",
+          "bkey": "fb2|first basket|Bam Adebayo,Giannis Antetokounmpo",
           "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "Tip-Off Call": {
-          "legs": [
-            "Klay Thompson"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.2,
-          "odds": {
-            "Klay Thompson": 1000
-          },
-          "bkey": "|first basket|Klay Thompson",
-          "result": "lost",
-          "pl": -0.2,
-          "legs_hit": 0
+          "legs_hit": 0,
+          "pl": -1.0
         }
       },
       "2026-11-06": {
-        "First Look": {
+        "First Basket: WAS@ATL": {
           "legs": [
-            "Coby White"
+            "AJ Dybantsa",
+            "Deandre Ayton"
           ],
-          "kind": "",
+          "kind": "fb2",
           "rr": false,
-          "units": 0.2,
+          "units": 1,
           "odds": {
-            "Coby White": 1000
+            "AJ Dybantsa": 650,
+            "Deandre Ayton": 800
           },
-          "bkey": "|first basket|Coby White",
+          "bkey": "fb2|first basket|AJ Dybantsa,Deandre Ayton",
           "result": "lost",
-          "pl": -0.2,
-          "legs_hit": 0
+          "legs_hit": 0,
+          "pl": -1.0
         },
-        "Get on the Board": {
+        "First Basket: OKC@MEM": {
           "legs": [
-            "Naz Reid"
+            "Ty Jerome",
+            "Zach Edey"
           ],
-          "kind": "",
+          "kind": "fb2",
           "rr": false,
-          "units": 0.3,
+          "units": 1,
           "odds": {
-            "Naz Reid": 750
+            "Ty Jerome": 500,
+            "Zach Edey": 600
           },
-          "bkey": "|first basket|Naz Reid",
+          "bkey": "fb2|first basket|Ty Jerome,Zach Edey",
           "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
+          "legs_hit": 0,
+          "pl": -1.0
         },
-        "Open Floor": {
+        "First Basket: MIN@NOP": {
           "legs": [
-            "Onyeka Okongwu"
+            "Jonathan Kuminga",
+            "LaMelo Ball"
           ],
-          "kind": "",
+          "kind": "fb2",
           "rr": false,
-          "units": 0.3,
+          "units": 1,
           "odds": {
-            "Onyeka Okongwu": 1000
+            "LaMelo Ball": 500,
+            "Jonathan Kuminga": 700
           },
-          "bkey": "|first basket|Onyeka Okongwu",
+          "bkey": "fb2|first basket|Jonathan Kuminga,LaMelo Ball",
           "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
+          "legs_hit": 0,
+          "pl": -1.0
         },
-        "Set Play": {
+        "First Basket: TOR@MIL": {
           "legs": [
-            "Hugo Gonzalez"
+            "Jakob Poeltl",
+            "RJ Barrett"
           ],
-          "kind": "",
+          "kind": "fb2",
           "rr": false,
-          "units": 0.1,
+          "units": 1,
           "odds": {
-            "Hugo Gonzalez": 1400
+            "Jakob Poeltl": 600,
+            "RJ Barrett": 600
           },
-          "bkey": "|first basket|Hugo Gonzalez",
+          "bkey": "fb2|first basket|Jakob Poeltl,RJ Barrett",
           "result": "lost",
-          "pl": -0.1,
-          "legs_hit": 0
+          "legs_hit": 0,
+          "pl": -1.0
         },
-        "Tip-Off Call": {
+        "First Basket: UTA@DAL": {
           "legs": [
-            "Kingston Flemings"
+            "Ace Bailey",
+            "Lauri Markkanen"
           ],
-          "kind": "",
+          "kind": "fb2",
           "rr": false,
-          "units": 0.3,
+          "units": 1,
           "odds": {
-            "Kingston Flemings": 1100
+            "Ace Bailey": 800,
+            "Lauri Markkanen": 600
           },
-          "bkey": "|first basket|Kingston Flemings",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
+          "bkey": "fb2|first basket|Ace Bailey,Lauri Markkanen",
+          "result": "won",
+          "legs_hit": 1,
+          "pl": 2.9375
         },
-        "Out of the Huddle": {
+        "First Basket: SAS@SAC": {
           "legs": [
-            "Donovan Mitchell"
+            "De'Aaron Fox",
+            "Victor Wembanyama"
           ],
-          "kind": "",
+          "kind": "fb2",
           "rr": false,
-          "units": 0.6,
+          "units": 1,
           "odds": {
-            "Donovan Mitchell": 750
+            "Victor Wembanyama": 240,
+            "De'Aaron Fox": 600
           },
-          "bkey": "|first basket|Donovan Mitchell",
-          "result": "lost",
-          "pl": -0.6,
-          "legs_hit": 0
-        },
-        "Off the Tip": {
-          "legs": [
-            "Jeremiah Fears"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.6,
-          "odds": {
-            "Jeremiah Fears": 1000
-          },
-          "bkey": "|first basket|Jeremiah Fears",
-          "result": "lost",
-          "pl": -0.6,
-          "legs_hit": 0
-        },
-        "Top of the Key": {
-          "legs": [
-            "Ajay Mitchell"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.6,
-          "odds": {
-            "Ajay Mitchell": 800
-          },
-          "bkey": "|first basket|Ajay Mitchell",
-          "result": "lost",
-          "pl": -0.6,
-          "legs_hit": 0
-        },
-        "Early Offense": {
-          "legs": [
-            "Myles Turner"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Myles Turner": 850
-          },
-          "bkey": "|first basket|Myles Turner",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "First Touch": {
-          "legs": [
-            "Jaxson Hayes"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.2,
-          "odds": {
-            "Jaxson Hayes": 900
-          },
-          "bkey": "|first basket|Jaxson Hayes",
-          "result": "lost",
-          "pl": -0.2,
-          "legs_hit": 0
-        },
-        "Ice Breaker": {
-          "legs": [
-            "Brayden Burries"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Brayden Burries": 1000
-          },
-          "bkey": "|first basket|Brayden Burries",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
-        },
-        "Lead the Break": {
-          "legs": [
-            "Ace Bailey"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.2,
-          "odds": {
-            "Ace Bailey": 750
-          },
-          "bkey": "|first basket|Ace Bailey",
-          "result": "lost",
-          "pl": -0.2,
-          "legs_hit": 0
-        },
-        "Two Points": {
-          "legs": [
-            "Daniel Gafford"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.2,
-          "odds": {
-            "Daniel Gafford": 950
-          },
-          "bkey": "|first basket|Daniel Gafford",
-          "result": "lost",
-          "pl": -0.2,
-          "legs_hit": 0
-        },
-        "Opening Set": {
-          "legs": [
-            "Matisse Thybulle"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.2,
-          "odds": {
-            "Matisse Thybulle": 1900
-          },
-          "bkey": "|first basket|Matisse Thybulle",
-          "result": "lost",
-          "pl": -0.2,
-          "legs_hit": 0
-        },
-        "The Starter": {
-          "legs": [
-            "Donovan Clingan"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.4,
-          "odds": {
-            "Donovan Clingan": 1000
-          },
-          "bkey": "|first basket|Donovan Clingan",
-          "result": "lost",
-          "pl": -0.4,
-          "legs_hit": 0
-        },
-        "Center Circle": {
-          "legs": [
-            "Zach LaVine"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.2,
-          "odds": {
-            "Zach LaVine": 1400
-          },
-          "bkey": "|first basket|Zach LaVine",
-          "result": "lost",
-          "pl": -0.2,
-          "legs_hit": 0
-        },
-        "First Bucket": {
-          "legs": [
-            "Precious Achiuwa"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.2,
-          "odds": {
-            "Precious Achiuwa": 1700
-          },
-          "bkey": "|first basket|Precious Achiuwa",
-          "result": "lost",
-          "pl": -0.2,
-          "legs_hit": 0
-        },
-        "Jump Ball": {
-          "legs": [
-            "Domantas Sabonis"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.3,
-          "odds": {
-            "Domantas Sabonis": 1000
-          },
-          "bkey": "|first basket|Domantas Sabonis",
-          "result": "lost",
-          "pl": -0.3,
-          "legs_hit": 0
+          "bkey": "fb2|first basket|De'Aaron Fox,Victor Wembanyama",
+          "result": "won",
+          "legs_hit": 1,
+          "pl": 1.2885
         }
-      },
-      "2026-11-07": {}
+      }
     }
   },
   "recap_sent": "2026-11-07",
@@ -2310,39 +1239,123 @@
       }
     },
     "NBA Board": {
-      "2026-11-02": {
+      "2026-10-20": {
         "w": 0,
-        "l": 24,
-        "v": 1,
-        "pl": -8.5,
+        "l": 2,
+        "v": 0,
+        "pl": -2.0,
+        "unk": 0
+      },
+      "2026-10-21": {
+        "w": 3,
+        "l": 4,
+        "v": 0,
+        "pl": 2.21,
+        "unk": 0
+      },
+      "2026-10-22": {
+        "w": 1,
+        "l": 0,
+        "v": 0,
+        "pl": 2.62,
+        "unk": 0
+      },
+      "2026-10-23": {
+        "w": 3,
+        "l": 8,
+        "v": 0,
+        "pl": -0.83,
+        "unk": 0
+      },
+      "2026-10-24": {
+        "w": 3,
+        "l": 1,
+        "v": 0,
+        "pl": 4.04,
+        "unk": 0
+      },
+      "2026-10-25": {
+        "w": 0,
+        "l": 2,
+        "v": 0,
+        "pl": -2.0,
+        "unk": 0
+      },
+      "2026-10-26": {
+        "w": 3,
+        "l": 4,
+        "v": 0,
+        "pl": 1.74,
+        "unk": 0
+      },
+      "2026-10-27": {
+        "w": 2,
+        "l": 1,
+        "v": 0,
+        "pl": 2.23,
+        "unk": 0
+      },
+      "2026-10-28": {
+        "w": 3,
+        "l": 4,
+        "v": 0,
+        "pl": 2.56,
+        "unk": 0
+      },
+      "2026-10-29": {
+        "w": 2,
+        "l": 0,
+        "v": 0,
+        "pl": 3.95,
+        "unk": 0
+      },
+      "2026-10-30": {
+        "w": 4,
+        "l": 4,
+        "v": 0,
+        "pl": 3.35,
+        "unk": 0
+      },
+      "2026-10-31": {
+        "w": 1,
+        "l": 3,
+        "v": 0,
+        "pl": -1.52,
         "unk": 0
       },
       "2026-11-01": {
-        "w": 2,
-        "l": 6,
+        "w": 1,
+        "l": 2,
         "v": 0,
-        "pl": 3.45,
+        "pl": 0.98,
+        "unk": 0
+      },
+      "2026-11-02": {
+        "w": 4,
+        "l": 4,
+        "v": 0,
+        "pl": 3.67,
         "unk": 0
       },
       "2026-11-04": {
-        "w": 0,
-        "l": 25,
+        "w": 5,
+        "l": 5,
         "v": 0,
-        "pl": -8.3,
+        "pl": 5.45,
         "unk": 0
       },
       "2026-11-05": {
         "w": 1,
-        "l": 3,
+        "l": 1,
         "v": 0,
-        "pl": 0.8,
+        "pl": 1.23,
         "unk": 0
       },
       "2026-11-06": {
-        "w": 0,
-        "l": 18,
+        "w": 2,
+        "l": 4,
         "v": 0,
-        "pl": -5.5,
+        "pl": 0.23,
         "unk": 0
       }
     }

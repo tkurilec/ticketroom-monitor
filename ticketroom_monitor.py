@@ -39,7 +39,14 @@ DOWNTOWN_ENABLED = False
 
 KIND_MARKETS = {
     "ftd": "first touchdown scorer",
+    "fb2": "first basket",
 }
+
+# NBA first-basket read (replaces mirroring the site's own NBA tickets,
+# user request 2026-11-07): any game where a team is at least this likely
+# to win the tip becomes one 2-leg ticket — that team's top two players by
+# the research tab's Chance — staked as a 1u equal-profit dutch.
+FB_TIP_MIN = 0.60
 
 # gambly.com/chat?q=<text> opens Gambly Chat with the text pre-typed (verified
 # 2026-09-15), so one link hands the whole ticket to Gambly for a betslip with
@@ -414,7 +421,11 @@ def notify_hits(webhook: str | None, board: str, url: str,
             continue
         k = sum(1 for x in toks if x in hitset)
         n = len(toks)
-        if k == n:
+        if (t.get("kind") or "") == "fb2" and k >= 1:
+            # A dutch needs only one leg — the first basket cashes it.
+            fully_cashed = True
+            lines.append(f"💸 **{t['name']}** CASHED")
+        elif k == n:
             fully_cashed = True
             lines.append(f"💸 **{t['name']}** CASHED" if n == 1
                          else f"💸 **{t['name']}** FULLY CASHED {k}/{n}")
@@ -516,7 +527,8 @@ GAME_CONFIRM_BOARDS = {"NBA Board"}
 
 
 def extract_signature(html: str, early_min: int = 0,
-                      game_confirm: bool = False) -> dict | None:
+                      game_confirm: bool = False,
+                      fb_read: bool = False) -> dict | None:
     """Extract the slate signature from the page's embedded `const D={...}` data.
 
     Per the site owner, tickets are redrafted (price movements, live weather)
@@ -615,6 +627,46 @@ def extract_signature(html: str, early_min: int = 0,
     if isinstance(ftd, dict) and ftd.get("players"):
         tickets_src.append(ftd)
 
+    # fb_read boards (NBA): the site's own tickets and pick of the day are
+    # ignored entirely — the lane runs the tip-win read instead (user request
+    # 2026-11-07, backtested Oct 20–Nov 6 at +32% ROI): each game whose tip
+    # favorite is at FB_TIP_MIN or better becomes one synthetic 2-leg ticket,
+    # the favorite's top two by Chance (p_value), graded as a 1u dutch in
+    # settle_day (one leg scoring first cashes the ticket). Out/void players
+    # never make the cut, and a scratch after announce re-draws the top two —
+    # describe_change re-pings the ticket since its legs changed.
+    if fb_read:
+        tickets_src = []
+        by_game = {}
+        for nm, p in pdata.items():
+            if isinstance(p, dict) and p.get("game") is not None:
+                by_game.setdefault(p["game"], []).append(dict(p, name=nm))
+        for g, ps in sorted(by_game.items(), key=lambda kv: str(kv[0])):
+            teams = {}
+            for p in ps:
+                if p.get("ptip") is not None:
+                    teams.setdefault(p["team"], p["ptip"])
+            if not teams:
+                continue
+            fav, tip = max(teams.items(), key=lambda kv: kv[1])
+            if tip < FB_TIP_MIN:
+                continue
+            cands = [p for p in ps
+                     if p.get("team") == fav
+                     and not p.get("out") and not p.get("void")
+                     and p.get("p_value")
+                     and isinstance(p.get("odds"), (int, float))
+                     and p["odds"] >= 100]
+            cands.sort(key=lambda p: -p["p_value"])
+            if len(cands) < 2:
+                continue
+            tickets_src.append({
+                "name": f"First Basket: {cands[0].get('gmatch') or g}",
+                "kind": "fb2",
+                "units": 1,
+                "players": cands[:2],
+            })
+
     # Display context (date, teams, opponent, game time) — kept OUT of the
     # hash so wording changes never re-announce tickets. The opponent is
     # derived from the other team names seen in the same game.
@@ -697,11 +749,27 @@ def extract_signature(html: str, early_min: int = 0,
             if t.get("units") is not None:
                 ent["units"] = t.get("units")
             # On game-confirm boards, same-game singles launch together, so
-            # they share one card per game (user request 2026-10-28).
-            if game_confirm:
+            # they share one card per game (user request 2026-10-28). An fb2
+            # dutch is already one card per game — grouping would render only
+            # its first leg, so it opts out.
+            if game_confirm and t.get("kind") != "fb2":
                 gset = {str(l.get("game")) for l in legs}
                 if len(gset) == 1:
                     ent["group"] = gset.pop()
+            # fb2 cards carry each leg's price and dutch stake so the bet can
+            # be placed straight off the card (stakes from announce odds).
+            if t.get("kind") == "fb2":
+                decs = {l.get("name"): american_to_decimal(l.get("odds"))
+                        for l in legs}
+                if all(decs.values()):
+                    inv = {n2: 1 / d for n2, d in decs.items()}
+                    tot_inv = sum(inv.values())
+                    for leg in legs:
+                        n2 = leg.get("name")
+                        ent["info"][n2] = " · ".join(b for b in (
+                            ent["info"].get(n2),
+                            f"{leg['odds']:+d} · dutch {inv[n2]/tot_inv:.2f}u",
+                        ) if b)
             confirmed.append(ent)
     # meta.tot is the Totals Board — match-level bets (team to score, BTTS,
     # over 2.5) with no lineup dependency, bettable from publish until lock,
@@ -972,6 +1040,25 @@ def settle_day(day: dict, hits: set, ltd: dict | None) -> bool:
             won = all(l in held for l in row["legs"]) if held else False
             row["result"] = "won" if won else "lost"
             row["pl"] = ticket_payout_units(row) if won else -units
+        elif (row.get("kind") or "") == "fb2":
+            # Tip-win dutch: the stake splits across both legs in proportion
+            # to 1/decimal (equal profit either way), so ONE leg hitting
+            # cashes the ticket for that leg's share times its price.
+            toks = entry_leg_tokens(row)
+            hit_legs = [l for l, tok in zip(row["legs"], toks) if tok in hits]
+            row["legs_hit"] = len(hit_legs)
+            row["result"] = "won" if hit_legs else "lost"
+            if not hit_legs:
+                row["pl"] = -units
+            else:
+                decs = {l: american_to_decimal((row.get("odds") or {}).get(l))
+                        for l in row["legs"]}
+                if all(decs.values()):
+                    inv = {l: 1 / d for l, d in decs.items()}
+                    stake = units * inv[hit_legs[0]] / sum(inv.values())
+                    row["pl"] = round(stake * decs[hit_legs[0]] - units, 4)
+                else:
+                    row["pl"] = None  # odds never captured — flagged in recap
         else:
             toks = entry_leg_tokens(row)
             row["legs_hit"] = sum(1 for tok in toks if tok in hits)
@@ -1325,7 +1412,8 @@ def check_all() -> None:
 
         ltd_status = None
         sig = extract_signature(html, EARLY_CONFIRM_MIN.get(name, 0),
-                                name in GAME_CONFIRM_BOARDS)
+                                name in GAME_CONFIRM_BOARDS,
+                                fb_read=(name == "NBA Board"))
         if sig is not None:
             # Hash covers only ticket construction (name + legs): hit flips
             # and the rr flag must never re-announce tickets.
