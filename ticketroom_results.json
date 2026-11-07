@@ -476,6 +476,20 @@
           "bkey": "|anytime goalscorer|Erling Haaland",
           "result": null,
           "pl": null
+        },
+        "Through on Goal": {
+          "legs": [
+            "Deniz Undav"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Deniz Undav": -104
+          },
+          "bkey": "|anytime goalscorer|Deniz Undav",
+          "result": null,
+          "pl": null
         }
       }
     },

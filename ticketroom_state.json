@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 16:31:59 GMT",
-    "checked_at": "2026-11-07T16:32:13.087331+00:00"
+    "last_modified": "Sat, 07 Nov 2026 16:41:31 GMT",
+    "checked_at": "2026-11-07T16:45:16.181252+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "6cdfc3e10446f5bc1bcdfdb5e40da21b3867a0bbf0cb1ac89fbf31cf83812c21",
+    "hash": "4943eb2e0d2b39b1a0f8ecbdd4a9e5fef60c58252ca531b3ffa4b258155a7384",
     "confirmed": [
       {
         "name": "Bottom Corner",
@@ -128,6 +128,19 @@
           "Minnesota United FC v San Jose Earthquakes: Both teams to score": -213,
           "SC Paderborn 07 v Eintracht Frankfurt: Both teams to score": -205
         }
+      },
+      {
+        "name": "Through on Goal",
+        "legs": [
+          "Deniz Undav"
+        ],
+        "rr": false,
+        "info": {
+          "Deniz Undav": "VfB Stuttgart vs Werder Bremen \u00b7 Sat Nov 7 \u00b7 12:30 PM ET"
+        },
+        "odds": {
+          "Deniz Undav": -104
+        }
       }
     ],
     "announced": {
@@ -157,11 +170,15 @@
       ],
       "Shoulder of the Last Man": [
         "Erling Haaland"
+      ],
+      "Through on Goal": [
+        "Deniz Undav"
       ]
     },
     "abets": [
       "totals||Chicago Fire FC v Columbus Crew: Both teams to score,Minnesota United FC v San Jose Earthquakes: Both teams to score,Nottingham Forest v Manchester City: Nottingham Forest to score,SC Paderborn 07 v Eintracht Frankfurt: Both teams to score",
       "|anytime goalscorer|Christopher Nkunku",
+      "|anytime goalscorer|Deniz Undav",
       "|anytime goalscorer|Erling Haaland",
       "|anytime goalscorer|Fabio Silva",
       "|anytime goalscorer|Harry Kane",
@@ -175,8 +192,8 @@
       "t:SC Paderborn 07 v Eintracht Frankfurt: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 16:31:59 GMT",
-    "checked_at": "2026-11-07T16:32:20.880198+00:00"
+    "last_modified": "Sat, 07 Nov 2026 16:44:08 GMT",
+    "checked_at": "2026-11-07T16:45:21.867279+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -186,8 +203,8 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 16:31:59 GMT",
-    "checked_at": "2026-11-07T16:32:21.090057+00:00"
+    "last_modified": "Sat, 07 Nov 2026 16:41:31 GMT",
+    "checked_at": "2026-11-07T16:45:22.008936+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -197,7 +214,7 @@
     "slate": "2026-11-07",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 16:31:59 GMT",
-    "checked_at": "2026-11-07T16:32:21.408148+00:00"
+    "last_modified": "Sat, 07 Nov 2026 16:41:31 GMT",
+    "checked_at": "2026-11-07T16:45:22.174988+00:00"
   }
 }
