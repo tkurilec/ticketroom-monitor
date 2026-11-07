@@ -392,6 +392,20 @@
           "bkey": "totals||Chicago Fire FC v Columbus Crew: Both teams to score,Minnesota United FC v San Jose Earthquakes: Both teams to score,Nottingham Forest v Manchester City: Nottingham Forest to score,SC Paderborn 07 v Eintracht Frankfurt: Both teams to score",
           "result": null,
           "pl": null
+        },
+        "Smashed Home": {
+          "legs": [
+            "Fabio Silva"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Fabio Silva": 105
+          },
+          "bkey": "|anytime goalscorer|Fabio Silva",
+          "result": null,
+          "pl": null
         }
       }
     },

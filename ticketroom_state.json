@@ -7,12 +7,25 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 11:07:24 GMT",
-    "checked_at": "2026-11-07T11:08:11.093595+00:00"
+    "last_modified": "Sat, 07 Nov 2026 13:36:28 GMT",
+    "checked_at": "2026-11-07T13:37:10.322479+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "a138dd10c0ca4a53e3fd8cdaa8c8b8866ca6597c021c292b4cae3b5ca2cde05b",
+    "hash": "5e144b6ebc88d1607bf3cbb8b8693aa115099b3a76f9086ab6aa68a6fd4bf41e",
     "confirmed": [
+      {
+        "name": "Smashed Home",
+        "legs": [
+          "Fabio Silva"
+        ],
+        "rr": false,
+        "info": {
+          "Fabio Silva": "Borussia Dortmund vs SV Elversberg \u00b7 Sat Nov 7 \u00b7 9:30 AM ET"
+        },
+        "odds": {
+          "Fabio Silva": 105
+        }
+      },
       {
         "name": "The Score Sheet",
         "legs": [
@@ -44,16 +57,20 @@
         "Minnesota United FC v San Jose Earthquakes: Both teams to score",
         "Nottingham Forest v Manchester City: Nottingham Forest to score",
         "SC Paderborn 07 v Eintracht Frankfurt: Both teams to score"
+      ],
+      "Smashed Home": [
+        "Fabio Silva"
       ]
     },
     "abets": [
-      "totals||Chicago Fire FC v Columbus Crew: Both teams to score,Minnesota United FC v San Jose Earthquakes: Both teams to score,Nottingham Forest v Manchester City: Nottingham Forest to score,SC Paderborn 07 v Eintracht Frankfurt: Both teams to score"
+      "totals||Chicago Fire FC v Columbus Crew: Both teams to score,Minnesota United FC v San Jose Earthquakes: Both teams to score,Nottingham Forest v Manchester City: Nottingham Forest to score,SC Paderborn 07 v Eintracht Frankfurt: Both teams to score",
+      "|anytime goalscorer|Fabio Silva"
     ],
     "slate": "2026-11-07",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 11:07:25 GMT",
-    "checked_at": "2026-11-07T11:08:12.033954+00:00"
+    "last_modified": "Sat, 07 Nov 2026 13:36:28 GMT",
+    "checked_at": "2026-11-07T13:37:13.529187+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -63,8 +80,8 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 11:07:25 GMT",
-    "checked_at": "2026-11-07T11:08:12.222905+00:00"
+    "last_modified": "Sat, 07 Nov 2026 13:36:28 GMT",
+    "checked_at": "2026-11-07T13:37:13.617820+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -74,7 +91,7 @@
     "slate": "2026-11-07",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 11:07:24 GMT",
-    "checked_at": "2026-11-07T11:08:12.433303+00:00"
+    "last_modified": "Sat, 07 Nov 2026 13:36:28 GMT",
+    "checked_at": "2026-11-07T13:37:13.861309+00:00"
   }
 }
