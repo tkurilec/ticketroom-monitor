@@ -672,6 +672,48 @@
           "bkey": "|anytime goalscorer|Vincent Janssen",
           "result": null,
           "pl": null
+        },
+        "First Time": {
+          "legs": [
+            "Marcus Ingvartsen"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Marcus Ingvartsen": -118
+          },
+          "bkey": "|anytime goalscorer|Marcus Ingvartsen",
+          "result": null,
+          "pl": null
+        },
+        "Runs the Channel": {
+          "legs": [
+            "Anders Dreyer"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Anders Dreyer": -115
+          },
+          "bkey": "|anytime goalscorer|Anders Dreyer",
+          "result": null,
+          "pl": null
+        },
+        "Stoops to Conquer": {
+          "legs": [
+            "Sergi Solans"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Sergi Solans": 104
+          },
+          "bkey": "|anytime goalscorer|Sergi Solans",
+          "result": null,
+          "pl": null
         }
       }
     },

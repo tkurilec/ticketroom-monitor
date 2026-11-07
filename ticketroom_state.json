@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 23:11:59 GMT",
-    "checked_at": "2026-11-07T23:12:12.168807+00:00"
+    "last_modified": "Sat, 07 Nov 2026 23:26:42 GMT",
+    "checked_at": "2026-11-07T23:27:12.399345+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "9d0100f124ace0ec3bf5aa0eea3e0980782d5f79db1629ccd8d31e564d0aadeb",
+    "hash": "b5c2fe114a9543bf2a6f38abefdb32ddb62bf7c3dd19a19940768fbe934ac786",
     "confirmed": [
       {
         "name": "Back Post",
@@ -63,6 +63,19 @@
         },
         "odds": {
           "Robert Lewandowski": 115
+        }
+      },
+      {
+        "name": "First Time",
+        "legs": [
+          "Marcus Ingvartsen"
+        ],
+        "rr": false,
+        "info": {
+          "Marcus Ingvartsen": "San Diego FC vs Sporting Kansas City \u00b7 Sat Nov 7 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "Marcus Ingvartsen": -118
         }
       },
       {
@@ -184,6 +197,19 @@
         }
       },
       {
+        "name": "Runs the Channel",
+        "legs": [
+          "Anders Dreyer"
+        ],
+        "rr": false,
+        "info": {
+          "Anders Dreyer": "San Diego FC vs Sporting Kansas City \u00b7 Sat Nov 7 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "Anders Dreyer": -115
+        }
+      },
+      {
         "name": "Shoulder of the Last Man",
         "legs": [
           "Erling Haaland"
@@ -233,6 +259,19 @@
         },
         "odds": {
           "Fabio Silva": 105
+        }
+      },
+      {
+        "name": "Stoops to Conquer",
+        "legs": [
+          "Sergi Solans"
+        ],
+        "rr": false,
+        "info": {
+          "Sergi Solans": "Real Salt Lake vs LA Galaxy \u00b7 Sat Nov 7 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "Sergi Solans": 104
         }
       },
       {
@@ -381,10 +420,20 @@
       ],
       "In Behind": [
         "Vincent Janssen"
+      ],
+      "First Time": [
+        "Marcus Ingvartsen"
+      ],
+      "Runs the Channel": [
+        "Anders Dreyer"
+      ],
+      "Stoops to Conquer": [
+        "Sergi Solans"
       ]
     },
     "abets": [
       "totals||Chicago Fire FC v Columbus Crew: Both teams to score,Minnesota United FC v San Jose Earthquakes: Both teams to score,Nottingham Forest v Manchester City: Nottingham Forest to score,SC Paderborn 07 v Eintracht Frankfurt: Both teams to score",
+      "|anytime goalscorer|Anders Dreyer",
       "|anytime goalscorer|Antoine Griezmann",
       "|anytime goalscorer|Bruno Damiani",
       "|anytime goalscorer|Christopher Nkunku",
@@ -400,10 +449,12 @@
       "|anytime goalscorer|Lassine Sinayoko",
       "|anytime goalscorer|Lionel Messi",
       "|anytime goalscorer|Luis Suarez",
+      "|anytime goalscorer|Marcus Ingvartsen",
       "|anytime goalscorer|Rayan Elloumi",
       "|anytime goalscorer|Robert Lewandowski",
       "|anytime goalscorer|Romulo",
       "|anytime goalscorer|Sam Surridge",
+      "|anytime goalscorer|Sergi Solans",
       "|anytime goalscorer|Vincent Janssen"
     ],
     "slate": "2026-11-07",
@@ -421,8 +472,8 @@
       "t:SC Paderborn 07 v Eintracht Frankfurt: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 23:11:59 GMT",
-    "checked_at": "2026-11-07T23:12:18.325679+00:00"
+    "last_modified": "Sat, 07 Nov 2026 23:26:42 GMT",
+    "checked_at": "2026-11-07T23:27:16.338837+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -432,8 +483,8 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 23:11:59 GMT",
-    "checked_at": "2026-11-07T23:12:18.487754+00:00"
+    "last_modified": "Sat, 07 Nov 2026 23:26:42 GMT",
+    "checked_at": "2026-11-07T23:27:16.590552+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -443,7 +494,7 @@
     "slate": "2026-11-07",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 23:11:59 GMT",
-    "checked_at": "2026-11-07T23:12:18.644836+00:00"
+    "last_modified": "Sat, 07 Nov 2026 23:26:42 GMT",
+    "checked_at": "2026-11-07T23:27:16.665575+00:00"
   }
 }
