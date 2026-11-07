@@ -490,6 +490,20 @@
           "bkey": "|anytime goalscorer|Deniz Undav",
           "result": null,
           "pl": null
+        },
+        "Far Post": {
+          "legs": [
+            "Lassine Sinayoko"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Lassine Sinayoko": 120
+          },
+          "bkey": "|anytime goalscorer|Lassine Sinayoko",
+          "result": null,
+          "pl": null
         }
       }
     },
