@@ -45,7 +45,7 @@ KIND_MARKETS = {
 # NBA first-basket read (replaces mirroring the site's own NBA tickets,
 # user request 2026-11-07): any game where a team is at least this likely
 # to win the tip becomes one 2-leg ticket — that team's top two players by
-# the research tab's Chance — staked as a 1u equal-profit dutch.
+# the research tab's Chance — staked flat 0.5u per leg (1u per game).
 FB_TIP_MIN = 0.60
 
 # gambly.com/chat?q=<text> opens Gambly Chat with the text pre-typed (verified
@@ -422,7 +422,7 @@ def notify_hits(webhook: str | None, board: str, url: str,
         k = sum(1 for x in toks if x in hitset)
         n = len(toks)
         if (t.get("kind") or "") == "fb2" and k >= 1:
-            # A dutch needs only one leg — the first basket cashes it.
+            # The read needs only one leg — the first basket cashes it.
             fully_cashed = True
             lines.append(f"💸 **{t['name']}** CASHED")
         elif k == n:
@@ -631,8 +631,8 @@ def extract_signature(html: str, early_min: int = 0,
     # ignored entirely — the lane runs the tip-win read instead (user request
     # 2026-11-07, backtested Oct 20–Nov 6 at +32% ROI): each game whose tip
     # favorite is at FB_TIP_MIN or better becomes one synthetic 2-leg ticket,
-    # the favorite's top two by Chance (p_value), graded as a 1u dutch in
-    # settle_day (one leg scoring first cashes the ticket). Out/void players
+    # the favorite's top two by Chance (p_value), graded in settle_day at a
+    # flat 0.5u per leg (one leg scoring first cashes it). Out/void players
     # never make the cut, and a scratch after announce re-draws the top two —
     # describe_change re-pings the ticket since its legs changed.
     if fb_read:
@@ -750,26 +750,23 @@ def extract_signature(html: str, early_min: int = 0,
                 ent["units"] = t.get("units")
             # On game-confirm boards, same-game singles launch together, so
             # they share one card per game (user request 2026-10-28). An fb2
-            # dutch is already one card per game — grouping would render only
-            # its first leg, so it opts out.
+            # ticket is already one card per game — grouping would render
+            # only its first leg, so it opts out.
             if game_confirm and t.get("kind") != "fb2":
                 gset = {str(l.get("game")) for l in legs}
                 if len(gset) == 1:
                     ent["group"] = gset.pop()
-            # fb2 cards carry each leg's price and dutch stake so the bet can
-            # be placed straight off the card (stakes from announce odds).
+            # fb2 cards carry each leg's price and stake so the bet can be
+            # placed straight off the card — always flat 0.5u per leg.
             if t.get("kind") == "fb2":
-                decs = {l.get("name"): american_to_decimal(l.get("odds"))
-                        for l in legs}
-                if all(decs.values()):
-                    inv = {n2: 1 / d for n2, d in decs.items()}
-                    tot_inv = sum(inv.values())
-                    for leg in legs:
-                        n2 = leg.get("name")
-                        ent["info"][n2] = " · ".join(b for b in (
-                            ent["info"].get(n2),
-                            f"{leg['odds']:+d} · dutch {inv[n2]/tot_inv:.2f}u",
-                        ) if b)
+                for leg in legs:
+                    n2 = leg.get("name")
+                    if leg.get("odds") is None:
+                        continue
+                    ent["info"][n2] = " · ".join(b for b in (
+                        ent["info"].get(n2),
+                        f"{leg['odds']:+d} · 0.5u",
+                    ) if b)
             confirmed.append(ent)
     # meta.tot is the Totals Board — match-level bets (team to score, BTTS,
     # over 2.5) with no lineup dependency, bettable from publish until lock,
@@ -1041,9 +1038,9 @@ def settle_day(day: dict, hits: set, ltd: dict | None) -> bool:
             row["result"] = "won" if won else "lost"
             row["pl"] = ticket_payout_units(row) if won else -units
         elif (row.get("kind") or "") == "fb2":
-            # Tip-win dutch: the stake splits across both legs in proportion
-            # to 1/decimal (equal profit either way), so ONE leg hitting
-            # cashes the ticket for that leg's share times its price.
+            # Tip-win read: flat half the units on each leg, so ONE leg
+            # scoring first cashes half-stake at its price and the other
+            # half is the dead leg (pl = units/2 × dec − units).
             toks = entry_leg_tokens(row)
             hit_legs = [l for l, tok in zip(row["legs"], toks) if tok in hits]
             row["legs_hit"] = len(hit_legs)
@@ -1051,14 +1048,12 @@ def settle_day(day: dict, hits: set, ltd: dict | None) -> bool:
             if not hit_legs:
                 row["pl"] = -units
             else:
-                decs = {l: american_to_decimal((row.get("odds") or {}).get(l))
-                        for l in row["legs"]}
-                if all(decs.values()):
-                    inv = {l: 1 / d for l, d in decs.items()}
-                    stake = units * inv[hit_legs[0]] / sum(inv.values())
-                    row["pl"] = round(stake * decs[hit_legs[0]] - units, 4)
-                else:
+                dec = american_to_decimal(
+                    (row.get("odds") or {}).get(hit_legs[0]))
+                if dec is None:
                     row["pl"] = None  # odds never captured — flagged in recap
+                else:
+                    row["pl"] = round(units / 2 * dec - units, 4)
         else:
             toks = entry_leg_tokens(row)
             row["legs_hit"] = sum(1 for tok in toks if tok in hits)
