@@ -1996,6 +1996,76 @@
           "bkey": "|first basket|Ajay Mitchell",
           "result": null,
           "pl": null
+        },
+        "Early Offense": {
+          "legs": [
+            "Myles Turner"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Myles Turner": 850
+          },
+          "bkey": "|first basket|Myles Turner",
+          "result": null,
+          "pl": null
+        },
+        "First Touch": {
+          "legs": [
+            "Jaxson Hayes"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "Jaxson Hayes": 900
+          },
+          "bkey": "|first basket|Jaxson Hayes",
+          "result": null,
+          "pl": null
+        },
+        "Ice Breaker": {
+          "legs": [
+            "Brayden Burries"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Brayden Burries": 1000
+          },
+          "bkey": "|first basket|Brayden Burries",
+          "result": null,
+          "pl": null
+        },
+        "Lead the Break": {
+          "legs": [
+            "Ace Bailey"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "Ace Bailey": 750
+          },
+          "bkey": "|first basket|Ace Bailey",
+          "result": null,
+          "pl": null
+        },
+        "Two Points": {
+          "legs": [
+            "Daniel Gafford"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "Daniel Gafford": 950
+          },
+          "bkey": "|first basket|Daniel Gafford",
+          "result": null,
+          "pl": null
         }
       }
     }

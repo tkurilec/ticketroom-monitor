@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Sat, 07 Nov 2026 00:36:44 GMT",
-    "checked_at": "2026-11-07T00:37:12.578724+00:00"
+    "checked_at": "2026-11-07T00:40:17.163832+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e72ea098858a39d1af7525efac8764c6c44eb5065ef822fa170baa98a23277f0",
@@ -83,7 +83,7 @@
     ],
     "ltd": null,
     "last_modified": "Sat, 07 Nov 2026 00:36:44 GMT",
-    "checked_at": "2026-11-07T00:37:13.137187+00:00"
+    "checked_at": "2026-11-07T00:40:18.145236+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -128,11 +128,26 @@
       "settled": true
     },
     "last_modified": "Sat, 07 Nov 2026 00:36:44 GMT",
-    "checked_at": "2026-11-07T00:37:13.281218+00:00"
+    "checked_at": "2026-11-07T00:40:18.392161+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "29bda2c9e55a726a5208e6d7622f487112d2f816edaa6aac780f8e791e3f9323",
+    "hash": "f4cc2d03a2ea2ff8575dd7980cf47ca4de159f70d50def53f15b83fcd99fe2b4",
     "confirmed": [
+      {
+        "name": "Early Offense",
+        "legs": [
+          "Myles Turner"
+        ],
+        "rr": false,
+        "info": {
+          "Myles Turner": "Bucks vs Raptors \u00b7 Fri Nov 6 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Myles Turner": 850
+        },
+        "units": 0.3,
+        "group": "6"
+      },
       {
         "name": "First Look",
         "legs": [
@@ -149,6 +164,21 @@
         "group": "2"
       },
       {
+        "name": "First Touch",
+        "legs": [
+          "Jaxson Hayes"
+        ],
+        "rr": false,
+        "info": {
+          "Jaxson Hayes": "Jazz vs Mavericks \u00b7 Fri Nov 6 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Jaxson Hayes": 900
+        },
+        "units": 0.2,
+        "group": "7"
+      },
+      {
         "name": "Get on the Board",
         "legs": [
           "Naz Reid"
@@ -162,6 +192,36 @@
         },
         "units": 0.3,
         "group": "2"
+      },
+      {
+        "name": "Ice Breaker",
+        "legs": [
+          "Brayden Burries"
+        ],
+        "rr": false,
+        "info": {
+          "Brayden Burries": "Bucks vs Raptors \u00b7 Fri Nov 6 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Brayden Burries": 1000
+        },
+        "units": 0.3,
+        "group": "6"
+      },
+      {
+        "name": "Lead the Break",
+        "legs": [
+          "Ace Bailey"
+        ],
+        "rr": false,
+        "info": {
+          "Ace Bailey": "Jazz vs Mavericks \u00b7 Fri Nov 6 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Ace Bailey": 750
+        },
+        "units": 0.2,
+        "group": "7"
       },
       {
         "name": "Off the Tip",
@@ -252,6 +312,21 @@
         },
         "units": 0.6,
         "group": "4"
+      },
+      {
+        "name": "Two Points",
+        "legs": [
+          "Daniel Gafford"
+        ],
+        "rr": false,
+        "info": {
+          "Daniel Gafford": "Mavericks vs Jazz \u00b7 Fri Nov 6 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Daniel Gafford": 950
+        },
+        "units": 0.2,
+        "group": "7"
       }
     ],
     "announced": {
@@ -278,16 +353,36 @@
       ],
       "Top of the Key": [
         "Ajay Mitchell"
+      ],
+      "Early Offense": [
+        "Myles Turner"
+      ],
+      "First Touch": [
+        "Jaxson Hayes"
+      ],
+      "Ice Breaker": [
+        "Brayden Burries"
+      ],
+      "Lead the Break": [
+        "Ace Bailey"
+      ],
+      "Two Points": [
+        "Daniel Gafford"
       ]
     },
     "abets": [
+      "|first basket|Ace Bailey",
       "|first basket|Ajay Mitchell",
+      "|first basket|Brayden Burries",
       "|first basket|Coby White",
+      "|first basket|Daniel Gafford",
       "|first basket|Donovan Mitchell",
       "|first basket|Grayson Allen",
       "|first basket|Hugo Gonzalez",
+      "|first basket|Jaxson Hayes",
       "|first basket|Jeremiah Fears",
       "|first basket|Kingston Flemings",
+      "|first basket|Myles Turner",
       "|first basket|Naz Reid",
       "|first basket|Onyeka Okongwu"
     ],
@@ -295,6 +390,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Sat, 07 Nov 2026 00:36:44 GMT",
-    "checked_at": "2026-11-07T00:37:15.086307+00:00"
+    "checked_at": "2026-11-07T00:40:20.684181+00:00"
   }
 }
