@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 11:01:19 GMT",
-    "checked_at": "2026-11-07T11:02:11.365258+00:00"
+    "last_modified": "Sat, 07 Nov 2026 11:07:24 GMT",
+    "checked_at": "2026-11-07T11:08:11.093595+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a138dd10c0ca4a53e3fd8cdaa8c8b8866ca6597c021c292b4cae3b5ca2cde05b",
@@ -52,53 +52,19 @@
     "slate": "2026-11-07",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 11:01:19 GMT",
-    "checked_at": "2026-11-07T11:02:11.833461+00:00"
+    "last_modified": "Sat, 07 Nov 2026 11:07:25 GMT",
+    "checked_at": "2026-11-07T11:08:12.033954+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Short Yardage": [
-        "Josh Cuevas"
-      ],
-      "Six Before Anyone": [
-        "Derrick Henry"
-      ],
-      "Bell Cow": [
-        "Brian Thomas Jr."
-      ],
-      "Goal Line Back": [
-        "Travis Hunter"
-      ],
-      "King of the End Zone: Zay Flowers": [
-        "Zay Flowers"
-      ],
-      "Red Zone Target": [
-        "Tanner Koziol"
-      ],
-      "The Workhorse": [
-        "Jakobi Meyers"
-      ]
-    },
-    "abets": [
-      "ftd|first touchdown scorer|Derrick Henry",
-      "longtd|longest touchdown scorer|Zay Flowers",
-      "|anytime touchdown|Brian Thomas Jr.",
-      "|anytime touchdown|Jakobi Meyers",
-      "|anytime touchdown|Josh Cuevas",
-      "|anytime touchdown|Tanner Koziol",
-      "|anytime touchdown|Travis Hunter"
-    ],
-    "slate": "2026-11-05",
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-08",
     "hits": [],
-    "ltd": {
-      "holding": [],
-      "best": 65,
-      "settled": true
-    },
-    "last_modified": "Sat, 07 Nov 2026 11:01:19 GMT",
-    "checked_at": "2026-11-07T11:02:11.929701+00:00"
+    "ltd": null,
+    "last_modified": "Sat, 07 Nov 2026 11:07:25 GMT",
+    "checked_at": "2026-11-07T11:08:12.222905+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -108,7 +74,7 @@
     "slate": "2026-11-07",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 11:01:19 GMT",
-    "checked_at": "2026-11-07T11:02:12.193456+00:00"
+    "last_modified": "Sat, 07 Nov 2026 11:07:24 GMT",
+    "checked_at": "2026-11-07T11:08:12.433303+00:00"
   }
 }
