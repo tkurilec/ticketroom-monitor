@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 23:57:10 GMT",
-    "checked_at": "2026-11-06T23:57:11.176662+00:00"
+    "last_modified": "Sat, 07 Nov 2026 00:06:45 GMT",
+    "checked_at": "2026-11-07T00:07:11.652785+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e72ea098858a39d1af7525efac8764c6c44eb5065ef822fa170baa98a23277f0",
@@ -82,8 +82,8 @@
       "t:Venezia v Udinese: Udinese under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 23:57:10 GMT",
-    "checked_at": "2026-11-06T23:57:12.174355+00:00"
+    "last_modified": "Sat, 07 Nov 2026 00:06:45 GMT",
+    "checked_at": "2026-11-07T00:07:12.912850+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -127,11 +127,11 @@
       "best": 65,
       "settled": true
     },
-    "last_modified": "Fri, 06 Nov 2026 23:57:10 GMT",
-    "checked_at": "2026-11-06T23:57:12.379189+00:00"
+    "last_modified": "Sat, 07 Nov 2026 00:06:45 GMT",
+    "checked_at": "2026-11-07T00:07:13.104508+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e0ce34a5b67a43dab7b8c70a376e59026301a8b8ec41821e607a02dbf62cb801",
+    "hash": "2a6385006e1fd06ce8e4464d0c88755fea1c3af2abb046e882f0687eb21b32d4",
     "confirmed": [
       {
         "name": "First Look",
@@ -179,6 +179,21 @@
         "group": "1"
       },
       {
+        "name": "Out of the Huddle",
+        "legs": [
+          "Donovan Mitchell"
+        ],
+        "rr": false,
+        "info": {
+          "Donovan Mitchell": "Cavaliers vs 76ers \u00b7 Fri Nov 6 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Donovan Mitchell": 750
+        },
+        "units": 0.6,
+        "group": "3"
+      },
+      {
         "name": "Set Play",
         "legs": [
           "Coby White"
@@ -224,10 +239,14 @@
       ],
       "Tip-Off Call": [
         "Kingston Flemings"
+      ],
+      "Out of the Huddle": [
+        "Donovan Mitchell"
       ]
     },
     "abets": [
       "|first basket|Coby White",
+      "|first basket|Donovan Mitchell",
       "|first basket|Grayson Allen",
       "|first basket|Hugo Gonzalez",
       "|first basket|Kingston Flemings",
@@ -237,7 +256,7 @@
     "slate": "2026-11-06",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 06 Nov 2026 23:57:10 GMT",
-    "checked_at": "2026-11-06T23:57:14.223044+00:00"
+    "last_modified": "Sat, 07 Nov 2026 00:06:45 GMT",
+    "checked_at": "2026-11-07T00:07:14.924444+00:00"
   }
 }

@@ -1954,6 +1954,20 @@
           "bkey": "|first basket|Kingston Flemings",
           "result": null,
           "pl": null
+        },
+        "Out of the Huddle": {
+          "legs": [
+            "Donovan Mitchell"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Donovan Mitchell": 750
+          },
+          "bkey": "|first basket|Donovan Mitchell",
+          "result": null,
+          "pl": null
         }
       }
     }
