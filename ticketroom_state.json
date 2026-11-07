@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 23:26:42 GMT",
-    "checked_at": "2026-11-07T23:27:12.399345+00:00"
+    "last_modified": "Sat, 07 Nov 2026 23:36:37 GMT",
+    "checked_at": "2026-11-07T23:37:10.932130+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "b5c2fe114a9543bf2a6f38abefdb32ddb62bf7c3dd19a19940768fbe934ac786",
+    "hash": "9ee307261ab3f535d104c84b160e93d2f07678b91d71ca74487e8812c0ab6df5",
     "confirmed": [
       {
         "name": "Back Post",
@@ -142,6 +142,19 @@
         },
         "odds": {
           "Christopher Nkunku": 105
+        }
+      },
+      {
+        "name": "One-Two",
+        "legs": [
+          "Kelvin Yeboah"
+        ],
+        "rr": false,
+        "info": {
+          "Kelvin Yeboah": "Minnesota United FC vs San Jose Earthquakes \u00b7 Sat Nov 7 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "Kelvin Yeboah": 108
         }
       },
       {
@@ -429,6 +442,9 @@
       ],
       "Stoops to Conquer": [
         "Sergi Solans"
+      ],
+      "One-Two": [
+        "Kelvin Yeboah"
       ]
     },
     "abets": [
@@ -445,6 +461,7 @@
       "|anytime goalscorer|Ferran Torres",
       "|anytime goalscorer|Harry Kane",
       "|anytime goalscorer|Kai Havertz",
+      "|anytime goalscorer|Kelvin Yeboah",
       "|anytime goalscorer|Kylian Mbappe",
       "|anytime goalscorer|Lassine Sinayoko",
       "|anytime goalscorer|Lionel Messi",
@@ -472,8 +489,8 @@
       "t:SC Paderborn 07 v Eintracht Frankfurt: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 23:26:42 GMT",
-    "checked_at": "2026-11-07T23:27:16.338837+00:00"
+    "last_modified": "Sat, 07 Nov 2026 23:36:37 GMT",
+    "checked_at": "2026-11-07T23:37:17.589863+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -483,8 +500,8 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 23:26:42 GMT",
-    "checked_at": "2026-11-07T23:27:16.590552+00:00"
+    "last_modified": "Sat, 07 Nov 2026 23:36:37 GMT",
+    "checked_at": "2026-11-07T23:37:17.673581+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -494,7 +511,7 @@
     "slate": "2026-11-07",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 23:26:42 GMT",
-    "checked_at": "2026-11-07T23:27:16.665575+00:00"
+    "last_modified": "Sat, 07 Nov 2026 23:36:37 GMT",
+    "checked_at": "2026-11-07T23:37:17.814605+00:00"
   }
 }

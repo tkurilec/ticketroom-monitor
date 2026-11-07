@@ -714,6 +714,20 @@
           "bkey": "|anytime goalscorer|Sergi Solans",
           "result": null,
           "pl": null
+        },
+        "One-Two": {
+          "legs": [
+            "Kelvin Yeboah"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Kelvin Yeboah": 108
+          },
+          "bkey": "|anytime goalscorer|Kelvin Yeboah",
+          "result": null,
+          "pl": null
         }
       }
     },
