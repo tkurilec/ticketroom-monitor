@@ -434,6 +434,20 @@
           "bkey": "|anytime goalscorer|Christopher Nkunku",
           "result": null,
           "pl": null
+        },
+        "Six-Yard Box": {
+          "legs": [
+            "Harry Kane"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Harry Kane": -197
+          },
+          "bkey": "|anytime goalscorer|Harry Kane",
+          "result": null,
+          "pl": null
         }
       }
     },
