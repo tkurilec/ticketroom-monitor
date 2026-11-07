@@ -406,6 +406,34 @@
           "bkey": "|anytime goalscorer|Fabio Silva",
           "result": null,
           "pl": null
+        },
+        "Bottom Corner": {
+          "legs": [
+            "Romulo"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Romulo": -106
+          },
+          "bkey": "|anytime goalscorer|Romulo",
+          "result": null,
+          "pl": null
+        },
+        "Near Post": {
+          "legs": [
+            "Christopher Nkunku"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Christopher Nkunku": 105
+          },
+          "bkey": "|anytime goalscorer|Christopher Nkunku",
+          "result": null,
+          "pl": null
         }
       }
     },
