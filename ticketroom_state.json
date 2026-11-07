@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 04:56:35 GMT",
-    "checked_at": "2026-11-07T05:00:22.217439+00:00"
+    "last_modified": "Sat, 07 Nov 2026 11:01:19 GMT",
+    "checked_at": "2026-11-07T11:02:11.365258+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a138dd10c0ca4a53e3fd8cdaa8c8b8866ca6597c021c292b4cae3b5ca2cde05b",
@@ -52,8 +52,8 @@
     "slate": "2026-11-07",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 04:56:35 GMT",
-    "checked_at": "2026-11-07T05:00:22.748161+00:00"
+    "last_modified": "Sat, 07 Nov 2026 11:01:19 GMT",
+    "checked_at": "2026-11-07T11:02:11.833461+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -97,93 +97,18 @@
       "best": 65,
       "settled": true
     },
-    "last_modified": "Sat, 07 Nov 2026 04:56:35 GMT",
-    "checked_at": "2026-11-07T05:00:22.894045+00:00"
+    "last_modified": "Sat, 07 Nov 2026 11:01:19 GMT",
+    "checked_at": "2026-11-07T11:02:11.929701+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "First Look": [
-        "Grayson Allen"
-      ],
-      "Get on the Board": [
-        "Naz Reid"
-      ],
-      "Open Floor": [
-        "Onyeka Okongwu"
-      ],
-      "Set Play": [
-        "Coby White"
-      ],
-      "Tip-Off Call": [
-        "Kingston Flemings"
-      ],
-      "Out of the Huddle": [
-        "Donovan Mitchell"
-      ],
-      "Off the Tip": [
-        "Jeremiah Fears"
-      ],
-      "Top of the Key": [
-        "Ajay Mitchell"
-      ],
-      "Early Offense": [
-        "Myles Turner"
-      ],
-      "First Touch": [
-        "Jaxson Hayes"
-      ],
-      "Ice Breaker": [
-        "Brayden Burries"
-      ],
-      "Lead the Break": [
-        "Ace Bailey"
-      ],
-      "Two Points": [
-        "Daniel Gafford"
-      ],
-      "Opening Set": [
-        "Matisse Thybulle"
-      ],
-      "The Starter": [
-        "Donovan Clingan"
-      ],
-      "Center Circle": [
-        "Zach LaVine"
-      ],
-      "First Bucket": [
-        "Precious Achiuwa"
-      ],
-      "Jump Ball": [
-        "Domantas Sabonis"
-      ]
-    },
-    "abets": [
-      "|first basket|Ace Bailey",
-      "|first basket|Ajay Mitchell",
-      "|first basket|Brayden Burries",
-      "|first basket|Coby White",
-      "|first basket|Daniel Gafford",
-      "|first basket|Domantas Sabonis",
-      "|first basket|Donovan Clingan",
-      "|first basket|Donovan Mitchell",
-      "|first basket|Grayson Allen",
-      "|first basket|Hugo Gonzalez",
-      "|first basket|Jaxson Hayes",
-      "|first basket|Jeremiah Fears",
-      "|first basket|Kingston Flemings",
-      "|first basket|Matisse Thybulle",
-      "|first basket|Myles Turner",
-      "|first basket|Naz Reid",
-      "|first basket|Onyeka Okongwu",
-      "|first basket|Precious Achiuwa",
-      "|first basket|Zach LaVine"
-    ],
-    "slate": "2026-11-06",
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-07",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 04:56:35 GMT",
-    "checked_at": "2026-11-07T05:00:23.050660+00:00"
+    "last_modified": "Sat, 07 Nov 2026 11:01:19 GMT",
+    "checked_at": "2026-11-07T11:02:12.193456+00:00"
   }
 }

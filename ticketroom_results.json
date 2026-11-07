@@ -1920,8 +1920,9 @@
             "Coby White": 1000
           },
           "bkey": "|first basket|Coby White",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.2,
+          "legs_hit": 0
         },
         "Get on the Board": {
           "legs": [
@@ -1934,8 +1935,9 @@
             "Naz Reid": 750
           },
           "bkey": "|first basket|Naz Reid",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "Open Floor": {
           "legs": [
@@ -1948,8 +1950,9 @@
             "Onyeka Okongwu": 1000
           },
           "bkey": "|first basket|Onyeka Okongwu",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "Set Play": {
           "legs": [
@@ -1962,8 +1965,9 @@
             "Hugo Gonzalez": 1400
           },
           "bkey": "|first basket|Hugo Gonzalez",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.1,
+          "legs_hit": 0
         },
         "Tip-Off Call": {
           "legs": [
@@ -1976,8 +1980,9 @@
             "Kingston Flemings": 1100
           },
           "bkey": "|first basket|Kingston Flemings",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "Out of the Huddle": {
           "legs": [
@@ -1990,8 +1995,9 @@
             "Donovan Mitchell": 750
           },
           "bkey": "|first basket|Donovan Mitchell",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Off the Tip": {
           "legs": [
@@ -2004,8 +2010,9 @@
             "Jeremiah Fears": 1000
           },
           "bkey": "|first basket|Jeremiah Fears",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Top of the Key": {
           "legs": [
@@ -2018,8 +2025,9 @@
             "Ajay Mitchell": 800
           },
           "bkey": "|first basket|Ajay Mitchell",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Early Offense": {
           "legs": [
@@ -2032,8 +2040,9 @@
             "Myles Turner": 850
           },
           "bkey": "|first basket|Myles Turner",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "First Touch": {
           "legs": [
@@ -2046,8 +2055,9 @@
             "Jaxson Hayes": 900
           },
           "bkey": "|first basket|Jaxson Hayes",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.2,
+          "legs_hit": 0
         },
         "Ice Breaker": {
           "legs": [
@@ -2060,8 +2070,9 @@
             "Brayden Burries": 1000
           },
           "bkey": "|first basket|Brayden Burries",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "Lead the Break": {
           "legs": [
@@ -2074,8 +2085,9 @@
             "Ace Bailey": 750
           },
           "bkey": "|first basket|Ace Bailey",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.2,
+          "legs_hit": 0
         },
         "Two Points": {
           "legs": [
@@ -2088,8 +2100,9 @@
             "Daniel Gafford": 950
           },
           "bkey": "|first basket|Daniel Gafford",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.2,
+          "legs_hit": 0
         },
         "Opening Set": {
           "legs": [
@@ -2102,8 +2115,9 @@
             "Matisse Thybulle": 1900
           },
           "bkey": "|first basket|Matisse Thybulle",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.2,
+          "legs_hit": 0
         },
         "The Starter": {
           "legs": [
@@ -2116,8 +2130,9 @@
             "Donovan Clingan": 1000
           },
           "bkey": "|first basket|Donovan Clingan",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.4,
+          "legs_hit": 0
         },
         "Center Circle": {
           "legs": [
@@ -2130,8 +2145,9 @@
             "Zach LaVine": 1400
           },
           "bkey": "|first basket|Zach LaVine",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.2,
+          "legs_hit": 0
         },
         "First Bucket": {
           "legs": [
@@ -2144,8 +2160,9 @@
             "Precious Achiuwa": 1700
           },
           "bkey": "|first basket|Precious Achiuwa",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.2,
+          "legs_hit": 0
         },
         "Jump Ball": {
           "legs": [
@@ -2158,10 +2175,12 @@
             "Domantas Sabonis": 1000
           },
           "bkey": "|first basket|Domantas Sabonis",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         }
-      }
+      },
+      "2026-11-07": {}
     }
   },
   "recap_sent": "2026-11-06",
