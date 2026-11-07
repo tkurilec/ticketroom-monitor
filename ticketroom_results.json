@@ -2118,6 +2118,48 @@
           "bkey": "|first basket|Donovan Clingan",
           "result": null,
           "pl": null
+        },
+        "Center Circle": {
+          "legs": [
+            "Zach LaVine"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "Zach LaVine": 1400
+          },
+          "bkey": "|first basket|Zach LaVine",
+          "result": null,
+          "pl": null
+        },
+        "First Bucket": {
+          "legs": [
+            "Precious Achiuwa"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "Precious Achiuwa": 1700
+          },
+          "bkey": "|first basket|Precious Achiuwa",
+          "result": null,
+          "pl": null
+        },
+        "Jump Ball": {
+          "legs": [
+            "Domantas Sabonis"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Domantas Sabonis": 1000
+          },
+          "bkey": "|first basket|Domantas Sabonis",
+          "result": null,
+          "pl": null
         }
       }
     }

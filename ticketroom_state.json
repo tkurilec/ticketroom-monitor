@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Sat, 07 Nov 2026 02:37:08 GMT",
-    "checked_at": "2026-11-07T02:37:13.768056+00:00"
+    "checked_at": "2026-11-07T02:40:14.990559+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a138dd10c0ca4a53e3fd8cdaa8c8b8866ca6597c021c292b4cae3b5ca2cde05b",
@@ -53,7 +53,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Sat, 07 Nov 2026 02:37:08 GMT",
-    "checked_at": "2026-11-07T02:37:15.124896+00:00"
+    "checked_at": "2026-11-07T02:40:15.991428+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -98,11 +98,26 @@
       "settled": true
     },
     "last_modified": "Sat, 07 Nov 2026 02:37:08 GMT",
-    "checked_at": "2026-11-07T02:37:15.340297+00:00"
+    "checked_at": "2026-11-07T02:40:16.232860+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "44102a7d5a1c364ebb4ab47d8570eedeaefcb5e60b0115afa278bf6678adcb88",
+    "hash": "b28b227c3c3ce636733d15ec7ce7b4420c2434c7f671f281b6ecd2767982845f",
     "confirmed": [
+      {
+        "name": "Center Circle",
+        "legs": [
+          "Zach LaVine"
+        ],
+        "rr": false,
+        "info": {
+          "Zach LaVine": "Kings vs Spurs \u00b7 Fri Nov 6 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "Zach LaVine": 1400
+        },
+        "units": 0.2,
+        "group": "9"
+      },
       {
         "name": "Early Offense",
         "legs": [
@@ -117,6 +132,21 @@
         },
         "units": 0.3,
         "group": "6"
+      },
+      {
+        "name": "First Bucket",
+        "legs": [
+          "Precious Achiuwa"
+        ],
+        "rr": false,
+        "info": {
+          "Precious Achiuwa": "Kings vs Spurs \u00b7 Fri Nov 6 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "Precious Achiuwa": 1700
+        },
+        "units": 0.2,
+        "group": "9"
       },
       {
         "name": "First Look",
@@ -177,6 +207,21 @@
         },
         "units": 0.3,
         "group": "6"
+      },
+      {
+        "name": "Jump Ball",
+        "legs": [
+          "Domantas Sabonis"
+        ],
+        "rr": false,
+        "info": {
+          "Domantas Sabonis": "Kings vs Spurs \u00b7 Fri Nov 6 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "Domantas Sabonis": 1000
+        },
+        "units": 0.3,
+        "group": "9"
       },
       {
         "name": "Lead the Break",
@@ -374,6 +419,15 @@
       ],
       "The Starter": [
         "Donovan Clingan"
+      ],
+      "Center Circle": [
+        "Zach LaVine"
+      ],
+      "First Bucket": [
+        "Precious Achiuwa"
+      ],
+      "Jump Ball": [
+        "Domantas Sabonis"
       ]
     },
     "abets": [
@@ -382,6 +436,7 @@
       "|first basket|Brayden Burries",
       "|first basket|Coby White",
       "|first basket|Daniel Gafford",
+      "|first basket|Domantas Sabonis",
       "|first basket|Donovan Clingan",
       "|first basket|Donovan Mitchell",
       "|first basket|Grayson Allen",
@@ -392,12 +447,14 @@
       "|first basket|Matisse Thybulle",
       "|first basket|Myles Turner",
       "|first basket|Naz Reid",
-      "|first basket|Onyeka Okongwu"
+      "|first basket|Onyeka Okongwu",
+      "|first basket|Precious Achiuwa",
+      "|first basket|Zach LaVine"
     ],
     "slate": "2026-11-06",
     "hits": [],
     "ltd": null,
     "last_modified": "Sat, 07 Nov 2026 02:37:08 GMT",
-    "checked_at": "2026-11-07T02:37:17.622623+00:00"
+    "checked_at": "2026-11-07T02:40:19.162978+00:00"
   }
 }
