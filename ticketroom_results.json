@@ -448,6 +448,20 @@
           "bkey": "|anytime goalscorer|Harry Kane",
           "result": null,
           "pl": null
+        },
+        "Ghosts In": {
+          "legs": [
+            "Kai Havertz"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Kai Havertz": -104
+          },
+          "bkey": "|anytime goalscorer|Kai Havertz",
+          "result": null,
+          "pl": null
         }
       }
     },
@@ -1166,7 +1180,8 @@
           "legs_hit": 1,
           "pl": 2.5
         }
-      }
+      },
+      "2026-11-07": {}
     }
   },
   "recap_sent": "2026-11-07",
