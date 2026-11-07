@@ -462,6 +462,20 @@
           "bkey": "|anytime goalscorer|Kai Havertz",
           "result": null,
           "pl": null
+        },
+        "Full Stake": {
+          "legs": [
+            "Erling Haaland"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 2,
+          "odds": {
+            "Erling Haaland": -135
+          },
+          "bkey": "|anytime goalscorer|Erling Haaland",
+          "result": null,
+          "pl": null
         }
       }
     },

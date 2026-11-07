@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 15:46:28 GMT",
-    "checked_at": "2026-11-07T15:51:13.146472+00:00"
+    "last_modified": "Sat, 07 Nov 2026 16:31:59 GMT",
+    "checked_at": "2026-11-07T16:32:13.087331+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "bcc603db38234a6aa66395342cca769c95ad9290e82de6db0896b3f3c58ff996",
+    "hash": "6cdfc3e10446f5bc1bcdfdb5e40da21b3867a0bbf0cb1ac89fbf31cf83812c21",
     "confirmed": [
       {
         "name": "Bottom Corner",
@@ -25,6 +25,20 @@
         "odds": {
           "Romulo": -106
         }
+      },
+      {
+        "name": "Full Stake",
+        "legs": [
+          "Erling Haaland"
+        ],
+        "rr": false,
+        "info": {
+          "Erling Haaland": "Manchester City vs Nottingham Forest \u00b7 Sat Nov 7 \u00b7 12:30 PM ET"
+        },
+        "odds": {
+          "Erling Haaland": -135
+        },
+        "units": 2
       },
       {
         "name": "Ghosts In",
@@ -50,6 +64,19 @@
         },
         "odds": {
           "Christopher Nkunku": 105
+        }
+      },
+      {
+        "name": "Shoulder of the Last Man",
+        "legs": [
+          "Erling Haaland"
+        ],
+        "rr": false,
+        "info": {
+          "Erling Haaland": "Manchester City vs Nottingham Forest \u00b7 Sat Nov 7 \u00b7 12:30 PM ET"
+        },
+        "odds": {
+          "Erling Haaland": -135
         }
       },
       {
@@ -124,11 +151,18 @@
       ],
       "Ghosts In": [
         "Kai Havertz"
+      ],
+      "Full Stake": [
+        "Erling Haaland"
+      ],
+      "Shoulder of the Last Man": [
+        "Erling Haaland"
       ]
     },
     "abets": [
       "totals||Chicago Fire FC v Columbus Crew: Both teams to score,Minnesota United FC v San Jose Earthquakes: Both teams to score,Nottingham Forest v Manchester City: Nottingham Forest to score,SC Paderborn 07 v Eintracht Frankfurt: Both teams to score",
       "|anytime goalscorer|Christopher Nkunku",
+      "|anytime goalscorer|Erling Haaland",
       "|anytime goalscorer|Fabio Silva",
       "|anytime goalscorer|Harry Kane",
       "|anytime goalscorer|Kai Havertz",
@@ -141,8 +175,8 @@
       "t:SC Paderborn 07 v Eintracht Frankfurt: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 15:46:28 GMT",
-    "checked_at": "2026-11-07T15:51:15.810919+00:00"
+    "last_modified": "Sat, 07 Nov 2026 16:31:59 GMT",
+    "checked_at": "2026-11-07T16:32:20.880198+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -152,8 +186,8 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 15:46:28 GMT",
-    "checked_at": "2026-11-07T15:51:16.085864+00:00"
+    "last_modified": "Sat, 07 Nov 2026 16:31:59 GMT",
+    "checked_at": "2026-11-07T16:32:21.090057+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -163,7 +197,7 @@
     "slate": "2026-11-07",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 15:46:28 GMT",
-    "checked_at": "2026-11-07T15:51:16.161079+00:00"
+    "last_modified": "Sat, 07 Nov 2026 16:31:59 GMT",
+    "checked_at": "2026-11-07T16:32:21.408148+00:00"
   }
 }
