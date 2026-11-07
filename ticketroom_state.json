@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 20:01:40 GMT",
-    "checked_at": "2026-11-07T20:02:11.039316+00:00"
+    "last_modified": "Sat, 07 Nov 2026 20:09:44 GMT",
+    "checked_at": "2026-11-07T20:10:15.443757+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "17dbd2e48bc5f89a53f72d0c9bae6c1b6e2a2b499a9fcf0a44230a1ff6df0e98",
+    "hash": "55f959bb88ce4905251a2105c53f001dbfc889dc87370fb76437ec4b6bef5b67",
     "confirmed": [
       {
         "name": "Back Post",
@@ -53,6 +53,19 @@
         }
       },
       {
+        "name": "Finds the Gap",
+        "legs": [
+          "Robert Lewandowski"
+        ],
+        "rr": false,
+        "info": {
+          "Robert Lewandowski": "Chicago Fire FC vs Columbus Crew \u00b7 Sat Nov 7 \u00b7 4:00 PM ET"
+        },
+        "odds": {
+          "Robert Lewandowski": 115
+        }
+      },
+      {
         "name": "Full Stake",
         "legs": [
           "Erling Haaland"
@@ -65,6 +78,19 @@
           "Erling Haaland": -135
         },
         "units": 2
+      },
+      {
+        "name": "Gets Across",
+        "legs": [
+          "Luis Suarez"
+        ],
+        "rr": false,
+        "info": {
+          "Luis Suarez": "Inter Miami CF vs Charlotte FC \u00b7 Sat Nov 7 \u00b7 4:00 PM ET"
+        },
+        "odds": {
+          "Luis Suarez": -108
+        }
       },
       {
         "name": "Ghosts In",
@@ -269,6 +295,12 @@
       ],
       "Target Man": [
         "Lionel Messi"
+      ],
+      "Finds the Gap": [
+        "Robert Lewandowski"
+      ],
+      "Gets Across": [
+        "Luis Suarez"
       ]
     },
     "abets": [
@@ -285,6 +317,8 @@
       "|anytime goalscorer|Kylian Mbappe",
       "|anytime goalscorer|Lassine Sinayoko",
       "|anytime goalscorer|Lionel Messi",
+      "|anytime goalscorer|Luis Suarez",
+      "|anytime goalscorer|Robert Lewandowski",
       "|anytime goalscorer|Romulo"
     ],
     "slate": "2026-11-07",
@@ -296,8 +330,8 @@
       "t:SC Paderborn 07 v Eintracht Frankfurt: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 20:01:40 GMT",
-    "checked_at": "2026-11-07T20:02:16.976836+00:00"
+    "last_modified": "Sat, 07 Nov 2026 20:09:44 GMT",
+    "checked_at": "2026-11-07T20:10:21.186711+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -307,8 +341,8 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 20:01:40 GMT",
-    "checked_at": "2026-11-07T20:02:17.206349+00:00"
+    "last_modified": "Sat, 07 Nov 2026 20:09:44 GMT",
+    "checked_at": "2026-11-07T20:10:21.526969+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -318,7 +352,7 @@
     "slate": "2026-11-07",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 20:01:40 GMT",
-    "checked_at": "2026-11-07T20:02:17.576119+00:00"
+    "last_modified": "Sat, 07 Nov 2026 20:09:44 GMT",
+    "checked_at": "2026-11-07T20:10:21.705987+00:00"
   }
 }

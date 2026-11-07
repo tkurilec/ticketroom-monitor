@@ -574,6 +574,34 @@
           "bkey": "|anytime goalscorer|Lionel Messi",
           "result": null,
           "pl": null
+        },
+        "Finds the Gap": {
+          "legs": [
+            "Robert Lewandowski"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Robert Lewandowski": 115
+          },
+          "bkey": "|anytime goalscorer|Robert Lewandowski",
+          "result": null,
+          "pl": null
+        },
+        "Gets Across": {
+          "legs": [
+            "Luis Suarez"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Luis Suarez": -108
+          },
+          "bkey": "|anytime goalscorer|Luis Suarez",
+          "result": null,
+          "pl": null
         }
       }
     },
