@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 21:25:22 GMT",
-    "checked_at": "2026-11-07T21:28:11.781311+00:00"
+    "last_modified": "Sat, 07 Nov 2026 21:40:12 GMT",
+    "checked_at": "2026-11-07T21:40:21.148223+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "39729a508ba3ae7d04fede2292b8cb434fe7525be811bb8b511b1b8dd04a1ca1",
@@ -392,6 +392,7 @@
     "slate": "2026-11-07",
     "hits": [
       "a:Christopher Nkunku",
+      "a:Kylian Mbappe",
       "a:Lassine Sinayoko",
       "a:Robert Lewandowski",
       "a:Romulo",
@@ -400,8 +401,8 @@
       "t:SC Paderborn 07 v Eintracht Frankfurt: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 21:25:22 GMT",
-    "checked_at": "2026-11-07T21:28:15.526213+00:00"
+    "last_modified": "Sat, 07 Nov 2026 21:40:12 GMT",
+    "checked_at": "2026-11-07T21:40:24.801548+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -411,8 +412,8 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 21:25:22 GMT",
-    "checked_at": "2026-11-07T21:28:15.731545+00:00"
+    "last_modified": "Sat, 07 Nov 2026 21:40:12 GMT",
+    "checked_at": "2026-11-07T21:40:24.983787+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -422,7 +423,7 @@
     "slate": "2026-11-07",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 21:25:22 GMT",
-    "checked_at": "2026-11-07T21:28:15.879352+00:00"
+    "last_modified": "Sat, 07 Nov 2026 21:40:12 GMT",
+    "checked_at": "2026-11-07T21:40:25.118833+00:00"
   }
 }
