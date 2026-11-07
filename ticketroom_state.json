@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 15:16:29 GMT",
-    "checked_at": "2026-11-07T15:17:12.059874+00:00"
+    "last_modified": "Sat, 07 Nov 2026 15:46:28 GMT",
+    "checked_at": "2026-11-07T15:51:13.146472+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "bcc603db38234a6aa66395342cca769c95ad9290e82de6db0896b3f3c58ff996",
@@ -137,11 +137,12 @@
     "slate": "2026-11-07",
     "hits": [
       "a:Christopher Nkunku",
+      "a:Romulo",
       "t:SC Paderborn 07 v Eintracht Frankfurt: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 15:16:29 GMT",
-    "checked_at": "2026-11-07T15:17:15.704238+00:00"
+    "last_modified": "Sat, 07 Nov 2026 15:46:28 GMT",
+    "checked_at": "2026-11-07T15:51:15.810919+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -151,8 +152,8 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 15:16:29 GMT",
-    "checked_at": "2026-11-07T15:17:15.943653+00:00"
+    "last_modified": "Sat, 07 Nov 2026 15:46:28 GMT",
+    "checked_at": "2026-11-07T15:51:16.085864+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -162,7 +163,7 @@
     "slate": "2026-11-07",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 15:16:29 GMT",
-    "checked_at": "2026-11-07T15:17:16.322389+00:00"
+    "last_modified": "Sat, 07 Nov 2026 15:46:28 GMT",
+    "checked_at": "2026-11-07T15:51:16.161079+00:00"
   }
 }
