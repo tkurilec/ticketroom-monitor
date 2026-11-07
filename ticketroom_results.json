@@ -504,6 +504,20 @@
           "bkey": "|anytime goalscorer|Lassine Sinayoko",
           "result": null,
           "pl": null
+        },
+        "The Poacher": {
+          "legs": [
+            "Kylian Mbappe"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Kylian Mbappe": -210
+          },
+          "bkey": "|anytime goalscorer|Kylian Mbappe",
+          "result": null,
+          "pl": null
         }
       }
     },
