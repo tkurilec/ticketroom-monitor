@@ -560,6 +560,20 @@
           "bkey": "|anytime goalscorer|Ferran Torres",
           "result": null,
           "pl": null
+        },
+        "Target Man": {
+          "legs": [
+            "Lionel Messi"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Lionel Messi": -225
+          },
+          "bkey": "|anytime goalscorer|Lionel Messi",
+          "result": null,
+          "pl": null
         }
       }
     },
