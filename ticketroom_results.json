@@ -518,6 +518,48 @@
           "bkey": "|anytime goalscorer|Kylian Mbappe",
           "result": null,
           "pl": null
+        },
+        "Back Post": {
+          "legs": [
+            "Donyell Malen"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Donyell Malen": -192
+          },
+          "bkey": "|anytime goalscorer|Donyell Malen",
+          "result": null,
+          "pl": null
+        },
+        "Rebound": {
+          "legs": [
+            "Desire Doue"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Desire Doue": -115
+          },
+          "bkey": "|anytime goalscorer|Desire Doue",
+          "result": null,
+          "pl": null
+        },
+        "The Nine": {
+          "legs": [
+            "Ferran Torres"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Ferran Torres": -160
+          },
+          "bkey": "|anytime goalscorer|Ferran Torres",
+          "result": null,
+          "pl": null
         }
       }
     },

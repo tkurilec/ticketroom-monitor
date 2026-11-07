@@ -7,12 +7,25 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 19:06:29 GMT",
-    "checked_at": "2026-11-07T19:07:14.960630+00:00"
+    "last_modified": "Sat, 07 Nov 2026 19:17:02 GMT",
+    "checked_at": "2026-11-07T19:17:12.123832+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "5e615969429c488c510a2fdbbdd7756b8af0fea4312d306fb9cfcc8312d29411",
+    "hash": "2b895ca6e208f31a240c7ece06dc5ec0c9a43eafcd17304e4f936aa2314a3b2c",
     "confirmed": [
+      {
+        "name": "Back Post",
+        "legs": [
+          "Donyell Malen"
+        ],
+        "rr": false,
+        "info": {
+          "Donyell Malen": "AS Roma vs Sassuolo \u00b7 Sat Nov 7 \u00b7 2:45 PM ET"
+        },
+        "odds": {
+          "Donyell Malen": -192
+        }
+      },
       {
         "name": "Bottom Corner",
         "legs": [
@@ -80,6 +93,19 @@
         }
       },
       {
+        "name": "Rebound",
+        "legs": [
+          "Desire Doue"
+        ],
+        "rr": false,
+        "info": {
+          "Desire Doue": "Paris Saint-Germain vs Troyes \u00b7 Sat Nov 7 \u00b7 3:05 PM ET"
+        },
+        "odds": {
+          "Desire Doue": -115
+        }
+      },
+      {
         "name": "Shoulder of the Last Man",
         "legs": [
           "Erling Haaland"
@@ -116,6 +142,19 @@
         },
         "odds": {
           "Fabio Silva": 105
+        }
+      },
+      {
+        "name": "The Nine",
+        "legs": [
+          "Ferran Torres"
+        ],
+        "rr": false,
+        "info": {
+          "Ferran Torres": "Paris Saint-Germain vs Troyes \u00b7 Sat Nov 7 \u00b7 3:05 PM ET"
+        },
+        "odds": {
+          "Ferran Torres": -160
         }
       },
       {
@@ -205,14 +244,26 @@
       ],
       "The Poacher": [
         "Kylian Mbappe"
+      ],
+      "Back Post": [
+        "Donyell Malen"
+      ],
+      "Rebound": [
+        "Desire Doue"
+      ],
+      "The Nine": [
+        "Ferran Torres"
       ]
     },
     "abets": [
       "totals||Chicago Fire FC v Columbus Crew: Both teams to score,Minnesota United FC v San Jose Earthquakes: Both teams to score,Nottingham Forest v Manchester City: Nottingham Forest to score,SC Paderborn 07 v Eintracht Frankfurt: Both teams to score",
       "|anytime goalscorer|Christopher Nkunku",
       "|anytime goalscorer|Deniz Undav",
+      "|anytime goalscorer|Desire Doue",
+      "|anytime goalscorer|Donyell Malen",
       "|anytime goalscorer|Erling Haaland",
       "|anytime goalscorer|Fabio Silva",
+      "|anytime goalscorer|Ferran Torres",
       "|anytime goalscorer|Harry Kane",
       "|anytime goalscorer|Kai Havertz",
       "|anytime goalscorer|Kylian Mbappe",
@@ -227,8 +278,8 @@
       "t:SC Paderborn 07 v Eintracht Frankfurt: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 19:06:29 GMT",
-    "checked_at": "2026-11-07T19:07:19.612999+00:00"
+    "last_modified": "Sat, 07 Nov 2026 19:17:02 GMT",
+    "checked_at": "2026-11-07T19:17:16.844446+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -238,8 +289,8 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 19:06:29 GMT",
-    "checked_at": "2026-11-07T19:07:20.195572+00:00"
+    "last_modified": "Sat, 07 Nov 2026 19:17:02 GMT",
+    "checked_at": "2026-11-07T19:17:17.220378+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -249,7 +300,7 @@
     "slate": "2026-11-07",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 19:06:29 GMT",
-    "checked_at": "2026-11-07T19:07:20.378613+00:00"
+    "last_modified": "Sat, 07 Nov 2026 19:17:02 GMT",
+    "checked_at": "2026-11-07T19:17:17.436028+00:00"
   }
 }
