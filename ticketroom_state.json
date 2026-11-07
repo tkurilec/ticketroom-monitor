@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 02:37:08 GMT",
-    "checked_at": "2026-11-07T02:40:14.990559+00:00"
+    "last_modified": "Sat, 07 Nov 2026 04:56:35 GMT",
+    "checked_at": "2026-11-07T05:00:22.217439+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a138dd10c0ca4a53e3fd8cdaa8c8b8866ca6597c021c292b4cae3b5ca2cde05b",
@@ -52,8 +52,8 @@
     "slate": "2026-11-07",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 02:37:08 GMT",
-    "checked_at": "2026-11-07T02:40:15.991428+00:00"
+    "last_modified": "Sat, 07 Nov 2026 04:56:35 GMT",
+    "checked_at": "2026-11-07T05:00:22.748161+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -97,283 +97,12 @@
       "best": 65,
       "settled": true
     },
-    "last_modified": "Sat, 07 Nov 2026 02:37:08 GMT",
-    "checked_at": "2026-11-07T02:40:16.232860+00:00"
+    "last_modified": "Sat, 07 Nov 2026 04:56:35 GMT",
+    "checked_at": "2026-11-07T05:00:22.894045+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "b28b227c3c3ce636733d15ec7ce7b4420c2434c7f671f281b6ecd2767982845f",
-    "confirmed": [
-      {
-        "name": "Center Circle",
-        "legs": [
-          "Zach LaVine"
-        ],
-        "rr": false,
-        "info": {
-          "Zach LaVine": "Kings vs Spurs \u00b7 Fri Nov 6 \u00b7 10:00 PM ET"
-        },
-        "odds": {
-          "Zach LaVine": 1400
-        },
-        "units": 0.2,
-        "group": "9"
-      },
-      {
-        "name": "Early Offense",
-        "legs": [
-          "Myles Turner"
-        ],
-        "rr": false,
-        "info": {
-          "Myles Turner": "Bucks vs Raptors \u00b7 Fri Nov 6 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Myles Turner": 850
-        },
-        "units": 0.3,
-        "group": "6"
-      },
-      {
-        "name": "First Bucket",
-        "legs": [
-          "Precious Achiuwa"
-        ],
-        "rr": false,
-        "info": {
-          "Precious Achiuwa": "Kings vs Spurs \u00b7 Fri Nov 6 \u00b7 10:00 PM ET"
-        },
-        "odds": {
-          "Precious Achiuwa": 1700
-        },
-        "units": 0.2,
-        "group": "9"
-      },
-      {
-        "name": "First Look",
-        "legs": [
-          "Grayson Allen"
-        ],
-        "rr": false,
-        "info": {
-          "Grayson Allen": "Hornets vs Celtics \u00b7 Fri Nov 6 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Grayson Allen": 950
-        },
-        "units": 1,
-        "group": "2"
-      },
-      {
-        "name": "First Touch",
-        "legs": [
-          "Jaxson Hayes"
-        ],
-        "rr": false,
-        "info": {
-          "Jaxson Hayes": "Jazz vs Mavericks \u00b7 Fri Nov 6 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Jaxson Hayes": 900
-        },
-        "units": 0.2,
-        "group": "7"
-      },
-      {
-        "name": "Get on the Board",
-        "legs": [
-          "Naz Reid"
-        ],
-        "rr": false,
-        "info": {
-          "Naz Reid": "Hornets vs Celtics \u00b7 Fri Nov 6 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Naz Reid": 750
-        },
-        "units": 0.3,
-        "group": "2"
-      },
-      {
-        "name": "Ice Breaker",
-        "legs": [
-          "Brayden Burries"
-        ],
-        "rr": false,
-        "info": {
-          "Brayden Burries": "Bucks vs Raptors \u00b7 Fri Nov 6 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Brayden Burries": 1000
-        },
-        "units": 0.3,
-        "group": "6"
-      },
-      {
-        "name": "Jump Ball",
-        "legs": [
-          "Domantas Sabonis"
-        ],
-        "rr": false,
-        "info": {
-          "Domantas Sabonis": "Kings vs Spurs \u00b7 Fri Nov 6 \u00b7 10:00 PM ET"
-        },
-        "odds": {
-          "Domantas Sabonis": 1000
-        },
-        "units": 0.3,
-        "group": "9"
-      },
-      {
-        "name": "Lead the Break",
-        "legs": [
-          "Ace Bailey"
-        ],
-        "rr": false,
-        "info": {
-          "Ace Bailey": "Jazz vs Mavericks \u00b7 Fri Nov 6 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Ace Bailey": 750
-        },
-        "units": 0.2,
-        "group": "7"
-      },
-      {
-        "name": "Off the Tip",
-        "legs": [
-          "Jeremiah Fears"
-        ],
-        "rr": false,
-        "info": {
-          "Jeremiah Fears": "Pelicans vs Timberwolves \u00b7 Fri Nov 6 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Jeremiah Fears": 1000
-        },
-        "units": 0.6,
-        "group": "5"
-      },
-      {
-        "name": "Open Floor",
-        "legs": [
-          "Onyeka Okongwu"
-        ],
-        "rr": false,
-        "info": {
-          "Onyeka Okongwu": "Hawks vs Wizards \u00b7 Fri Nov 6 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Onyeka Okongwu": 1000
-        },
-        "units": 0.3,
-        "group": "1"
-      },
-      {
-        "name": "Opening Set",
-        "legs": [
-          "Matisse Thybulle"
-        ],
-        "rr": false,
-        "info": {
-          "Matisse Thybulle": "Lakers vs Trail Blazers \u00b7 Fri Nov 6 \u00b7 10:00 PM ET"
-        },
-        "odds": {
-          "Matisse Thybulle": 1900
-        },
-        "units": 0.2,
-        "group": "8"
-      },
-      {
-        "name": "Out of the Huddle",
-        "legs": [
-          "Donovan Mitchell"
-        ],
-        "rr": false,
-        "info": {
-          "Donovan Mitchell": "Cavaliers vs 76ers \u00b7 Fri Nov 6 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "Donovan Mitchell": 750
-        },
-        "units": 0.6,
-        "group": "3"
-      },
-      {
-        "name": "Set Play",
-        "legs": [
-          "Coby White"
-        ],
-        "rr": false,
-        "info": {
-          "Coby White": "Hornets vs Celtics \u00b7 Fri Nov 6 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Coby White": 1000
-        },
-        "units": 0.2,
-        "group": "2"
-      },
-      {
-        "name": "The Starter",
-        "legs": [
-          "Donovan Clingan"
-        ],
-        "rr": false,
-        "info": {
-          "Donovan Clingan": "Trail Blazers vs Lakers \u00b7 Fri Nov 6 \u00b7 10:00 PM ET"
-        },
-        "odds": {
-          "Donovan Clingan": 1000
-        },
-        "units": 0.4,
-        "group": "8"
-      },
-      {
-        "name": "Tip-Off Call",
-        "legs": [
-          "Kingston Flemings"
-        ],
-        "rr": false,
-        "info": {
-          "Kingston Flemings": "Hawks vs Wizards \u00b7 Fri Nov 6 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Kingston Flemings": 1100
-        },
-        "units": 0.3,
-        "group": "1"
-      },
-      {
-        "name": "Top of the Key",
-        "legs": [
-          "Ajay Mitchell"
-        ],
-        "rr": false,
-        "info": {
-          "Ajay Mitchell": "Thunder vs Grizzlies \u00b7 Fri Nov 6 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Ajay Mitchell": 800
-        },
-        "units": 0.6,
-        "group": "4"
-      },
-      {
-        "name": "Two Points",
-        "legs": [
-          "Daniel Gafford"
-        ],
-        "rr": false,
-        "info": {
-          "Daniel Gafford": "Mavericks vs Jazz \u00b7 Fri Nov 6 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Daniel Gafford": 950
-        },
-        "units": 0.2,
-        "group": "7"
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "First Look": [
         "Grayson Allen"
@@ -454,7 +183,7 @@
     "slate": "2026-11-06",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 02:37:08 GMT",
-    "checked_at": "2026-11-07T02:40:19.162978+00:00"
+    "last_modified": "Sat, 07 Nov 2026 04:56:35 GMT",
+    "checked_at": "2026-11-07T05:00:23.050660+00:00"
   }
 }
