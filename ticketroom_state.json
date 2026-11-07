@@ -7,83 +7,53 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 00:36:44 GMT",
-    "checked_at": "2026-11-07T00:40:17.163832+00:00"
+    "last_modified": "Sat, 07 Nov 2026 01:17:56 GMT",
+    "checked_at": "2026-11-07T01:18:11.981033+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e72ea098858a39d1af7525efac8764c6c44eb5065ef822fa170baa98a23277f0",
+    "hash": "a138dd10c0ca4a53e3fd8cdaa8c8b8866ca6597c021c292b4cae3b5ca2cde05b",
     "confirmed": [
       {
-        "name": "Main Man",
+        "name": "The Score Sheet",
         "legs": [
-          "Thierno Barry"
-        ],
-        "rr": false,
-        "info": {
-          "Thierno Barry": "Everton vs Coventry City \u00b7 Fri Nov 6 \u00b7 3:00 PM ET"
-        },
-        "odds": {
-          "Thierno Barry": 118
-        },
-        "units": 2
-      },
-      {
-        "name": "Shut the Gate",
-        "legs": [
-          "Everton v Coventry City: Coventry City to score",
-          "Venezia v Udinese: Udinese under 1.5 goals"
+          "Chicago Fire FC v Columbus Crew: Both teams to score",
+          "Minnesota United FC v San Jose Earthquakes: Both teams to score",
+          "Nottingham Forest v Manchester City: Nottingham Forest to score",
+          "SC Paderborn 07 v Eintracht Frankfurt: Both teams to score"
         ],
         "rr": false,
         "market": "",
         "kind": "totals",
         "info": {
-          "Everton v Coventry City: Coventry City to score": "Fri Nov 6 \u00b7 3:00 PM ET",
-          "Venezia v Udinese: Udinese under 1.5 goals": "Fri Nov 6 \u00b7 2:45 PM ET"
+          "Nottingham Forest v Manchester City: Nottingham Forest to score": "Sat Nov 7 \u00b7 12:30 PM ET",
+          "Chicago Fire FC v Columbus Crew: Both teams to score": "Sat Nov 7 \u00b7 4:00 PM ET",
+          "Minnesota United FC v San Jose Earthquakes: Both teams to score": "Sat Nov 7 \u00b7 7:00 PM ET",
+          "SC Paderborn 07 v Eintracht Frankfurt: Both teams to score": "Sat Nov 7 \u00b7 9:30 AM ET"
         },
         "odds": {
-          "Everton v Coventry City: Coventry City to score": -217,
-          "Venezia v Udinese: Udinese under 1.5 goals": -199
-        }
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Thierno Barry"
-        ],
-        "rr": false,
-        "info": {
-          "Thierno Barry": "Everton vs Coventry City \u00b7 Fri Nov 6 \u00b7 3:00 PM ET"
-        },
-        "odds": {
-          "Thierno Barry": 118
+          "Nottingham Forest v Manchester City: Nottingham Forest to score": -250,
+          "Chicago Fire FC v Columbus Crew: Both teams to score": -207,
+          "Minnesota United FC v San Jose Earthquakes: Both teams to score": -213,
+          "SC Paderborn 07 v Eintracht Frankfurt: Both teams to score": -205
         }
       }
     ],
     "announced": {
-      "Shut the Gate": [
-        "Everton v Coventry City: Coventry City to score",
-        "Venezia v Udinese: Udinese under 1.5 goals"
-      ],
-      "Main Man": [
-        "Thierno Barry"
-      ],
-      "Target Man": [
-        "Thierno Barry"
+      "The Score Sheet": [
+        "Chicago Fire FC v Columbus Crew: Both teams to score",
+        "Minnesota United FC v San Jose Earthquakes: Both teams to score",
+        "Nottingham Forest v Manchester City: Nottingham Forest to score",
+        "SC Paderborn 07 v Eintracht Frankfurt: Both teams to score"
       ]
     },
     "abets": [
-      "totals||Everton v Coventry City: Coventry City to score,Venezia v Udinese: Udinese under 1.5 goals",
-      "|anytime goalscorer|Thierno Barry"
+      "totals||Chicago Fire FC v Columbus Crew: Both teams to score,Minnesota United FC v San Jose Earthquakes: Both teams to score,Nottingham Forest v Manchester City: Nottingham Forest to score,SC Paderborn 07 v Eintracht Frankfurt: Both teams to score"
     ],
-    "slate": "2026-11-06",
-    "hits": [
-      "a:Thierno Barry",
-      "t:Everton v Coventry City: Coventry City to score",
-      "t:Venezia v Udinese: Udinese under 1.5 goals"
-    ],
+    "slate": "2026-11-07",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 00:36:44 GMT",
-    "checked_at": "2026-11-07T00:40:18.145236+00:00"
+    "last_modified": "Sat, 07 Nov 2026 01:17:56 GMT",
+    "checked_at": "2026-11-07T01:18:14.164612+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -127,8 +97,8 @@
       "best": 65,
       "settled": true
     },
-    "last_modified": "Sat, 07 Nov 2026 00:36:44 GMT",
-    "checked_at": "2026-11-07T00:40:18.392161+00:00"
+    "last_modified": "Sat, 07 Nov 2026 01:17:56 GMT",
+    "checked_at": "2026-11-07T01:18:14.314759+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "f4cc2d03a2ea2ff8575dd7980cf47ca4de159f70d50def53f15b83fcd99fe2b4",
@@ -389,7 +359,7 @@
     "slate": "2026-11-06",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 07 Nov 2026 00:36:44 GMT",
-    "checked_at": "2026-11-07T00:40:20.684181+00:00"
+    "last_modified": "Sat, 07 Nov 2026 01:17:56 GMT",
+    "checked_at": "2026-11-07T01:18:14.764948+00:00"
   }
 }

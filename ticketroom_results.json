@@ -352,8 +352,9 @@
             "Venezia v Udinese: Udinese under 1.5 goals": -199
           },
           "bkey": "totals||Everton v Coventry City: Coventry City to score,Venezia v Udinese: Udinese under 1.5 goals",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.1949146654933656,
+          "legs_hit": 2
         },
         "Main Man": {
           "legs": [
@@ -366,6 +367,29 @@
             "Thierno Barry": 118
           },
           "bkey": "|anytime goalscorer|Thierno Barry",
+          "result": "won",
+          "pl": 2.3599999999999994,
+          "legs_hit": 1
+        }
+      },
+      "2026-11-07": {
+        "The Score Sheet": {
+          "legs": [
+            "Chicago Fire FC v Columbus Crew: Both teams to score",
+            "Minnesota United FC v San Jose Earthquakes: Both teams to score",
+            "Nottingham Forest v Manchester City: Nottingham Forest to score",
+            "SC Paderborn 07 v Eintracht Frankfurt: Both teams to score"
+          ],
+          "kind": "totals",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Nottingham Forest v Manchester City: Nottingham Forest to score": -250,
+            "Chicago Fire FC v Columbus Crew: Both teams to score": -207,
+            "Minnesota United FC v San Jose Earthquakes: Both teams to score": -213,
+            "SC Paderborn 07 v Eintracht Frankfurt: Both teams to score": -205
+          },
+          "bkey": "totals||Chicago Fire FC v Columbus Crew: Both teams to score,Minnesota United FC v San Jose Earthquakes: Both teams to score,Nottingham Forest v Manchester City: Nottingham Forest to score,SC Paderborn 07 v Eintracht Frankfurt: Both teams to score",
           "result": null,
           "pl": null
         }
