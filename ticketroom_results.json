@@ -1968,6 +1968,34 @@
           "bkey": "|first basket|Donovan Mitchell",
           "result": null,
           "pl": null
+        },
+        "Off the Tip": {
+          "legs": [
+            "Jeremiah Fears"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Jeremiah Fears": 1000
+          },
+          "bkey": "|first basket|Jeremiah Fears",
+          "result": null,
+          "pl": null
+        },
+        "Top of the Key": {
+          "legs": [
+            "Ajay Mitchell"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Ajay Mitchell": 800
+          },
+          "bkey": "|first basket|Ajay Mitchell",
+          "result": null,
+          "pl": null
         }
       }
     }
