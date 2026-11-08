@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 20:06:48 GMT",
-    "checked_at": "2026-11-08T20:07:11.478768+00:00"
+    "last_modified": "Sun, 08 Nov 2026 20:26:54 GMT",
+    "checked_at": "2026-11-08T20:29:11.526481+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "417a531650039bcda94ec15e10a867eff149a2c1917899c88efefec995735a6f",
@@ -140,11 +140,12 @@
       "a:Orri Oskarsson",
       "a:Patrik Schick",
       "t:Crystal Palace v Liverpool: Crystal Palace to score",
-      "t:Sunderland v Chelsea: Sunderland to score"
+      "t:Sunderland v Chelsea: Sunderland to score",
+      "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 20:06:48 GMT",
-    "checked_at": "2026-11-08T20:07:14.596172+00:00"
+    "last_modified": "Sun, 08 Nov 2026 20:26:54 GMT",
+    "checked_at": "2026-11-08T20:29:15.588452+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "4e56d8c74422a0d08d5fe6476c4e6a51acda13e0571b5f4163baf5408978af2c",
@@ -363,8 +364,8 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 20:06:48 GMT",
-    "checked_at": "2026-11-08T20:07:15.406650+00:00"
+    "last_modified": "Sun, 08 Nov 2026 20:26:54 GMT",
+    "checked_at": "2026-11-08T20:29:16.218531+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "6f2e1f12aa3f4a872aa07a0b507fab5f8d2f7bf1bcd698b7607eea24817a8ee3",
@@ -377,11 +378,11 @@
         ],
         "rr": false,
         "info": {
-          "Joel Embiid": "76ers vs Bulls \u00b7 Sun Nov 8 \u00b7 3:30 PM ET \u00b7 +470 \u00b7 0.5u",
+          "Joel Embiid": "76ers vs Bulls \u00b7 Sun Nov 8 \u00b7 3:30 PM ET \u00b7 +480 \u00b7 0.5u",
           "Jaylen Brown": "76ers vs Bulls \u00b7 Sun Nov 8 \u00b7 3:30 PM ET \u00b7 +500 \u00b7 0.5u"
         },
         "odds": {
-          "Joel Embiid": 470,
+          "Joel Embiid": 480,
           "Jaylen Brown": 500
         },
         "market": "first basket",
@@ -401,7 +402,7 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 20:06:48 GMT",
-    "checked_at": "2026-11-08T20:07:17.325521+00:00"
+    "last_modified": "Sun, 08 Nov 2026 20:26:54 GMT",
+    "checked_at": "2026-11-08T20:29:16.754619+00:00"
   }
 }
