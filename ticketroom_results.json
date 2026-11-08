@@ -1508,8 +1508,9 @@
             "Wendell Carter Jr.": 500
           },
           "bkey": "fb2|first basket|Franz Wagner,Wendell Carter Jr.",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
         },
         "First Basket: HOU@PHX": {
           "legs": [
@@ -1524,8 +1525,9 @@
             "Jalen Green": 650
           },
           "bkey": "fb2|first basket|Devin Booker,Jalen Green",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
         },
         "First Basket: SAS@POR": {
           "legs": [
@@ -1540,10 +1542,12 @@
             "De'Aaron Fox": 650
           },
           "bkey": "fb2|first basket|De'Aaron Fox,Victor Wembanyama",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.9,
+          "legs_hit": 1
         }
-      }
+      },
+      "2026-11-08": {}
     }
   },
   "recap_sent": "2026-11-07",

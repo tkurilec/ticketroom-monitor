@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 04:51:39 GMT",
-    "checked_at": "2026-11-08T05:00:19.994156+00:00"
+    "last_modified": "Sun, 08 Nov 2026 11:01:03 GMT",
+    "checked_at": "2026-11-08T11:01:12.132948+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "07f7093b4a1b478b6870d1e5515aca83b056f4437b01750199307af8671894a3",
@@ -52,8 +52,8 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 04:51:39 GMT",
-    "checked_at": "2026-11-08T05:00:21.273496+00:00"
+    "last_modified": "Sun, 08 Nov 2026 11:01:03 GMT",
+    "checked_at": "2026-11-08T11:01:12.614303+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -63,37 +63,18 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 04:51:39 GMT",
-    "checked_at": "2026-11-08T05:00:21.408025+00:00"
+    "last_modified": "Sun, 08 Nov 2026 11:01:03 GMT",
+    "checked_at": "2026-11-08T11:01:12.774234+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "First Basket: ORL@GSW": [
-        "Franz Wagner",
-        "Wendell Carter Jr."
-      ],
-      "First Basket: HOU@PHX": [
-        "Devin Booker",
-        "Jalen Green"
-      ],
-      "First Basket: SAS@POR": [
-        "De'Aaron Fox",
-        "Victor Wembanyama"
-      ]
-    },
-    "abets": [
-      "fb2|first basket|De'Aaron Fox,Victor Wembanyama",
-      "fb2|first basket|Devin Booker,Jalen Green",
-      "fb2|first basket|Franz Wagner,Wendell Carter Jr."
-    ],
-    "slate": "2026-11-07",
-    "hits": [
-      "a:Victor Wembanyama"
-    ],
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-08",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 04:51:39 GMT",
-    "checked_at": "2026-11-08T05:00:21.586512+00:00"
+    "last_modified": "Sun, 08 Nov 2026 11:01:03 GMT",
+    "checked_at": "2026-11-08T11:01:12.860087+00:00"
   }
 }
