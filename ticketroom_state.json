@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 02:36:44 GMT",
-    "checked_at": "2026-11-08T02:37:11.543946+00:00"
+    "last_modified": "Sun, 08 Nov 2026 03:11:51 GMT",
+    "checked_at": "2026-11-08T03:14:13.239334+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "07f7093b4a1b478b6870d1e5515aca83b056f4437b01750199307af8671894a3",
@@ -52,8 +52,8 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 02:36:44 GMT",
-    "checked_at": "2026-11-08T02:37:14.030127+00:00"
+    "last_modified": "Sun, 08 Nov 2026 03:11:51 GMT",
+    "checked_at": "2026-11-08T03:14:14.203627+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -63,8 +63,8 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 02:36:44 GMT",
-    "checked_at": "2026-11-08T02:37:14.227511+00:00"
+    "last_modified": "Sun, 08 Nov 2026 03:11:51 GMT",
+    "checked_at": "2026-11-08T03:14:14.575910+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "0c88da06e66152c8d773726b0bef0c8846b0a7beb53f3ddea108de2d9143d41d",
@@ -115,11 +115,11 @@
         ],
         "rr": false,
         "info": {
-          "Victor Wembanyama": "Spurs vs Trail Blazers \u00b7 Sat Nov 7 \u00b7 10:00 PM ET \u00b7 +280 \u00b7 0.5u",
+          "Victor Wembanyama": "Spurs vs Trail Blazers \u00b7 Sat Nov 7 \u00b7 10:00 PM ET \u00b7 +290 \u00b7 0.5u",
           "De'Aaron Fox": "Spurs vs Trail Blazers \u00b7 Sat Nov 7 \u00b7 10:00 PM ET \u00b7 +650 \u00b7 0.5u"
         },
         "odds": {
-          "Victor Wembanyama": 280,
+          "Victor Wembanyama": 290,
           "De'Aaron Fox": 650
         },
         "market": "first basket",
@@ -147,9 +147,11 @@
       "fb2|first basket|Franz Wagner,Wendell Carter Jr."
     ],
     "slate": "2026-11-07",
-    "hits": [],
+    "hits": [
+      "a:Victor Wembanyama"
+    ],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 02:36:44 GMT",
-    "checked_at": "2026-11-08T02:37:16.796675+00:00"
+    "last_modified": "Sun, 08 Nov 2026 03:11:51 GMT",
+    "checked_at": "2026-11-08T03:14:16.271898+00:00"
   }
 }
