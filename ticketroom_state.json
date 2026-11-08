@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 15:56:24 GMT",
-    "checked_at": "2026-11-08T15:57:11.686400+00:00"
+    "last_modified": "Sun, 08 Nov 2026 16:12:07 GMT",
+    "checked_at": "2026-11-08T16:15:15.524299+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "053940c85a53e39c8da4e602e4f8b18511ec4ef9d46ca3b2f77607f0818f8d73",
@@ -120,12 +120,13 @@
     "slate": "2026-11-08",
     "hits": [
       "a:Alexander Isak",
+      "a:Patrik Schick",
       "t:Crystal Palace v Liverpool: Crystal Palace to score",
       "t:Sunderland v Chelsea: Sunderland to score"
     ],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 15:56:24 GMT",
-    "checked_at": "2026-11-08T15:57:16.848440+00:00"
+    "last_modified": "Sun, 08 Nov 2026 16:12:07 GMT",
+    "checked_at": "2026-11-08T16:15:17.900476+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "0636996f93babf51f1beb327a5b43b7099e5de306674e1b0fe53b75bd961be97",
@@ -189,8 +190,8 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 15:56:24 GMT",
-    "checked_at": "2026-11-08T15:57:17.291330+00:00"
+    "last_modified": "Sun, 08 Nov 2026 16:12:07 GMT",
+    "checked_at": "2026-11-08T16:15:18.245867+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -200,7 +201,7 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 15:56:24 GMT",
-    "checked_at": "2026-11-08T15:57:17.438761+00:00"
+    "last_modified": "Sun, 08 Nov 2026 16:12:07 GMT",
+    "checked_at": "2026-11-08T16:15:18.384898+00:00"
   }
 }
