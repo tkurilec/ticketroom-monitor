@@ -1365,7 +1365,36 @@
           "legs_hit": 0
         }
       },
-      "2026-11-08": {}
+      "2026-11-08": {
+        "Inside the Ten": {
+          "legs": [
+            "Olamide Zaccheaus"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Olamide Zaccheaus": 600
+          },
+          "bkey": "|anytime touchdown|Olamide Zaccheaus",
+          "result": null,
+          "pl": null
+        },
+        "The Checkdown": {
+          "legs": [
+            "Kyle Pitts"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Kyle Pitts": 265
+          },
+          "bkey": "|anytime touchdown|Kyle Pitts",
+          "result": null,
+          "pl": null
+        }
+      }
     },
     "NBA Board": {
       "2026-11-05": {

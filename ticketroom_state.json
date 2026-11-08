@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 13:01:45 GMT",
-    "checked_at": "2026-11-08T13:02:12.381832+00:00"
+    "last_modified": "Sun, 08 Nov 2026 13:12:04 GMT",
+    "checked_at": "2026-11-08T13:12:10.965736+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "1f6fac5f3c7848b007cc145469ce31b490573445146150d73b99933401448074",
@@ -69,19 +69,56 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 13:01:45 GMT",
-    "checked_at": "2026-11-08T13:02:17.957497+00:00"
+    "last_modified": "Sun, 08 Nov 2026 13:12:04 GMT",
+    "checked_at": "2026-11-08T13:12:15.720934+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "92f894a434c26d1d039a8be1245b07afa62cd5ab494487153224d19ac1103767",
+    "confirmed": [
+      {
+        "name": "Inside the Ten",
+        "legs": [
+          "Olamide Zaccheaus"
+        ],
+        "rr": false,
+        "info": {
+          "Olamide Zaccheaus": "Falcons vs Bengals \u00b7 Sun Nov 8 \u00b7 9:30 AM ET"
+        },
+        "odds": {
+          "Olamide Zaccheaus": 600
+        }
+      },
+      {
+        "name": "The Checkdown",
+        "legs": [
+          "Kyle Pitts"
+        ],
+        "rr": false,
+        "info": {
+          "Kyle Pitts": "Falcons vs Bengals \u00b7 Sun Nov 8 \u00b7 9:30 AM ET"
+        },
+        "odds": {
+          "Kyle Pitts": 265
+        }
+      }
+    ],
+    "announced": {
+      "Inside the Ten": [
+        "Olamide Zaccheaus"
+      ],
+      "The Checkdown": [
+        "Kyle Pitts"
+      ]
+    },
+    "abets": [
+      "|anytime touchdown|Kyle Pitts",
+      "|anytime touchdown|Olamide Zaccheaus"
+    ],
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 13:01:45 GMT",
-    "checked_at": "2026-11-08T13:02:18.198424+00:00"
+    "last_modified": "Sun, 08 Nov 2026 13:12:04 GMT",
+    "checked_at": "2026-11-08T13:12:17.576247+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -91,7 +128,7 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 13:01:45 GMT",
-    "checked_at": "2026-11-08T13:02:18.395410+00:00"
+    "last_modified": "Sun, 08 Nov 2026 13:12:05 GMT",
+    "checked_at": "2026-11-08T13:12:17.995533+00:00"
   }
 }
