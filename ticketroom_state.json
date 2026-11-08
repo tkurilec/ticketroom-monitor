@@ -7,492 +7,53 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 01:37:22 GMT",
-    "checked_at": "2026-11-08T01:38:32.849072+00:00"
+    "last_modified": "Sun, 08 Nov 2026 02:36:44 GMT",
+    "checked_at": "2026-11-08T02:37:11.543946+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "9ee307261ab3f535d104c84b160e93d2f07678b91d71ca74487e8812c0ab6df5",
+    "hash": "07f7093b4a1b478b6870d1e5515aca83b056f4437b01750199307af8671894a3",
     "confirmed": [
       {
-        "name": "Back Post",
+        "name": "Back of the Net",
         "legs": [
-          "Donyell Malen"
-        ],
-        "rr": false,
-        "info": {
-          "Donyell Malen": "AS Roma vs Sassuolo \u00b7 Sat Nov 7 \u00b7 2:45 PM ET"
-        },
-        "odds": {
-          "Donyell Malen": -192
-        }
-      },
-      {
-        "name": "Bottom Corner",
-        "legs": [
-          "Romulo"
-        ],
-        "rr": false,
-        "info": {
-          "Romulo": "RB Leipzig vs FC Augsburg \u00b7 Sat Nov 7 \u00b7 9:30 AM ET"
-        },
-        "odds": {
-          "Romulo": -106
-        }
-      },
-      {
-        "name": "Far Post",
-        "legs": [
-          "Lassine Sinayoko"
-        ],
-        "rr": false,
-        "info": {
-          "Lassine Sinayoko": "Paris FC vs AJ Auxerre \u00b7 Sat Nov 7 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "Lassine Sinayoko": 120
-        }
-      },
-      {
-        "name": "Finds the Gap",
-        "legs": [
-          "Robert Lewandowski"
-        ],
-        "rr": false,
-        "info": {
-          "Robert Lewandowski": "Chicago Fire FC vs Columbus Crew \u00b7 Sat Nov 7 \u00b7 4:00 PM ET"
-        },
-        "odds": {
-          "Robert Lewandowski": 115
-        }
-      },
-      {
-        "name": "First Time",
-        "legs": [
-          "Marcus Ingvartsen"
-        ],
-        "rr": false,
-        "info": {
-          "Marcus Ingvartsen": "San Diego FC vs Sporting Kansas City \u00b7 Sat Nov 7 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Marcus Ingvartsen": -118
-        }
-      },
-      {
-        "name": "Full Stake",
-        "legs": [
-          "Erling Haaland"
-        ],
-        "rr": false,
-        "info": {
-          "Erling Haaland": "Manchester City vs Nottingham Forest \u00b7 Sat Nov 7 \u00b7 12:30 PM ET"
-        },
-        "odds": {
-          "Erling Haaland": -135
-        },
-        "units": 2
-      },
-      {
-        "name": "Gets Across",
-        "legs": [
-          "Luis Suarez"
-        ],
-        "rr": false,
-        "info": {
-          "Luis Suarez": "Inter Miami CF vs Charlotte FC \u00b7 Sat Nov 7 \u00b7 4:00 PM ET"
-        },
-        "odds": {
-          "Luis Suarez": -108
-        }
-      },
-      {
-        "name": "Ghosts In",
-        "legs": [
-          "Kai Havertz"
-        ],
-        "rr": false,
-        "info": {
-          "Kai Havertz": "Arsenal vs Hull City \u00b7 Sat Nov 7 \u00b7 10:00 AM ET"
-        },
-        "odds": {
-          "Kai Havertz": -104
-        }
-      },
-      {
-        "name": "In Behind",
-        "legs": [
-          "Vincent Janssen"
-        ],
-        "rr": false,
-        "info": {
-          "Vincent Janssen": "Portland Timbers vs Austin FC \u00b7 Sat Nov 7 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Vincent Janssen": 110
-        }
-      },
-      {
-        "name": "Near Post",
-        "legs": [
-          "Christopher Nkunku"
-        ],
-        "rr": false,
-        "info": {
-          "Christopher Nkunku": "RB Leipzig vs FC Augsburg \u00b7 Sat Nov 7 \u00b7 9:30 AM ET"
-        },
-        "odds": {
-          "Christopher Nkunku": 105
-        }
-      },
-      {
-        "name": "One-Two",
-        "legs": [
-          "Kelvin Yeboah"
-        ],
-        "rr": false,
-        "info": {
-          "Kelvin Yeboah": "Minnesota United FC vs San Jose Earthquakes \u00b7 Sat Nov 7 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Kelvin Yeboah": 108
-        }
-      },
-      {
-        "name": "Penalty Spot",
-        "legs": [
-          "Bruno Damiani"
-        ],
-        "rr": false,
-        "info": {
-          "Bruno Damiani": "Philadelphia Union vs Toronto FC \u00b7 Sat Nov 7 \u00b7 4:00 PM ET"
-        },
-        "odds": {
-          "Bruno Damiani": -100
-        }
-      },
-      {
-        "name": "Poked Home",
-        "legs": [
-          "Rayan Elloumi"
-        ],
-        "rr": false,
-        "info": {
-          "Rayan Elloumi": "Vancouver Whitecaps vs CF Montr\u00e9al \u00b7 Sat Nov 7 \u00b7 4:00 PM ET"
-        },
-        "odds": {
-          "Rayan Elloumi": 120
-        }
-      },
-      {
-        "name": "Rebound",
-        "legs": [
-          "Desire Doue"
-        ],
-        "rr": false,
-        "info": {
-          "Desire Doue": "Paris Saint-Germain vs Troyes \u00b7 Sat Nov 7 \u00b7 3:05 PM ET"
-        },
-        "odds": {
-          "Desire Doue": -115
-        }
-      },
-      {
-        "name": "Rounds the Keeper",
-        "legs": [
-          "Sam Surridge"
-        ],
-        "rr": false,
-        "info": {
-          "Sam Surridge": "Nashville SC vs FC Cincinnati \u00b7 Sat Nov 7 \u00b7 4:00 PM ET"
-        },
-        "odds": {
-          "Sam Surridge": 112
-        }
-      },
-      {
-        "name": "Runs the Channel",
-        "legs": [
-          "Anders Dreyer"
-        ],
-        "rr": false,
-        "info": {
-          "Anders Dreyer": "San Diego FC vs Sporting Kansas City \u00b7 Sat Nov 7 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Anders Dreyer": -115
-        }
-      },
-      {
-        "name": "Shoulder of the Last Man",
-        "legs": [
-          "Erling Haaland"
-        ],
-        "rr": false,
-        "info": {
-          "Erling Haaland": "Manchester City vs Nottingham Forest \u00b7 Sat Nov 7 \u00b7 12:30 PM ET"
-        },
-        "odds": {
-          "Erling Haaland": -135
-        }
-      },
-      {
-        "name": "Side Netting",
-        "legs": [
-          "Antoine Griezmann"
-        ],
-        "rr": false,
-        "info": {
-          "Antoine Griezmann": "Orlando City SC vs New England Revolution \u00b7 Sat Nov 7 \u00b7 4:00 PM ET"
-        },
-        "odds": {
-          "Antoine Griezmann": 110
-        }
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Harry Kane"
-        ],
-        "rr": false,
-        "info": {
-          "Harry Kane": "Bayern Munich vs Mainz \u00b7 Sat Nov 7 \u00b7 9:30 AM ET"
-        },
-        "odds": {
-          "Harry Kane": -197
-        }
-      },
-      {
-        "name": "Smashed Home",
-        "legs": [
-          "Fabio Silva"
-        ],
-        "rr": false,
-        "info": {
-          "Fabio Silva": "Borussia Dortmund vs SV Elversberg \u00b7 Sat Nov 7 \u00b7 9:30 AM ET"
-        },
-        "odds": {
-          "Fabio Silva": 105
-        }
-      },
-      {
-        "name": "Stoops to Conquer",
-        "legs": [
-          "Sergi Solans"
-        ],
-        "rr": false,
-        "info": {
-          "Sergi Solans": "Real Salt Lake vs LA Galaxy \u00b7 Sat Nov 7 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Sergi Solans": 104
-        }
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Lionel Messi"
-        ],
-        "rr": false,
-        "info": {
-          "Lionel Messi": "Inter Miami CF vs Charlotte FC \u00b7 Sat Nov 7 \u00b7 4:00 PM ET"
-        },
-        "odds": {
-          "Lionel Messi": -225
-        }
-      },
-      {
-        "name": "The Nine",
-        "legs": [
-          "Ferran Torres"
-        ],
-        "rr": false,
-        "info": {
-          "Ferran Torres": "Paris Saint-Germain vs Troyes \u00b7 Sat Nov 7 \u00b7 3:05 PM ET"
-        },
-        "odds": {
-          "Ferran Torres": -160
-        }
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Kylian Mbappe"
-        ],
-        "rr": false,
-        "info": {
-          "Kylian Mbappe": "Real Madrid vs Valencia \u00b7 Sat Nov 7 \u00b7 3:00 PM ET"
-        },
-        "odds": {
-          "Kylian Mbappe": -210
-        }
-      },
-      {
-        "name": "The Score Sheet",
-        "legs": [
-          "Chicago Fire FC v Columbus Crew: Both teams to score",
-          "Minnesota United FC v San Jose Earthquakes: Both teams to score",
-          "Nottingham Forest v Manchester City: Nottingham Forest to score",
-          "SC Paderborn 07 v Eintracht Frankfurt: Both teams to score"
+          "Crystal Palace v Liverpool: Crystal Palace to score",
+          "Internazionale v Como: Both teams to score",
+          "Sunderland v Chelsea: Sunderland to score",
+          "TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
         ],
         "rr": false,
         "market": "",
         "kind": "totals",
         "info": {
-          "Nottingham Forest v Manchester City: Nottingham Forest to score": "Sat Nov 7 \u00b7 12:30 PM ET",
-          "Chicago Fire FC v Columbus Crew: Both teams to score": "Sat Nov 7 \u00b7 4:00 PM ET",
-          "Minnesota United FC v San Jose Earthquakes: Both teams to score": "Sat Nov 7 \u00b7 7:00 PM ET",
-          "SC Paderborn 07 v Eintracht Frankfurt: Both teams to score": "Sat Nov 7 \u00b7 9:30 AM ET"
+          "Sunderland v Chelsea: Sunderland to score": "Sun Nov 8 \u00b7 9:00 AM ET",
+          "TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals": "Sun Nov 8 \u00b7 1:30 PM ET",
+          "Internazionale v Como: Both teams to score": "Sun Nov 8 \u00b7 12:00 PM ET",
+          "Crystal Palace v Liverpool: Crystal Palace to score": "Sun Nov 8 \u00b7 9:00 AM ET"
         },
         "odds": {
-          "Nottingham Forest v Manchester City: Nottingham Forest to score": -250,
-          "Chicago Fire FC v Columbus Crew: Both teams to score": -207,
-          "Minnesota United FC v San Jose Earthquakes: Both teams to score": -213,
-          "SC Paderborn 07 v Eintracht Frankfurt: Both teams to score": -205
-        }
-      },
-      {
-        "name": "Through on Goal",
-        "legs": [
-          "Deniz Undav"
-        ],
-        "rr": false,
-        "info": {
-          "Deniz Undav": "VfB Stuttgart vs Werder Bremen \u00b7 Sat Nov 7 \u00b7 12:30 PM ET"
-        },
-        "odds": {
-          "Deniz Undav": -104
+          "Sunderland v Chelsea: Sunderland to score": -265,
+          "TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals": -235,
+          "Internazionale v Como: Both teams to score": -225,
+          "Crystal Palace v Liverpool: Crystal Palace to score": -235
         }
       }
     ],
     "announced": {
-      "The Score Sheet": [
-        "Chicago Fire FC v Columbus Crew: Both teams to score",
-        "Minnesota United FC v San Jose Earthquakes: Both teams to score",
-        "Nottingham Forest v Manchester City: Nottingham Forest to score",
-        "SC Paderborn 07 v Eintracht Frankfurt: Both teams to score"
-      ],
-      "Smashed Home": [
-        "Fabio Silva"
-      ],
-      "Bottom Corner": [
-        "Romulo"
-      ],
-      "Near Post": [
-        "Christopher Nkunku"
-      ],
-      "Six-Yard Box": [
-        "Harry Kane"
-      ],
-      "Ghosts In": [
-        "Kai Havertz"
-      ],
-      "Full Stake": [
-        "Erling Haaland"
-      ],
-      "Shoulder of the Last Man": [
-        "Erling Haaland"
-      ],
-      "Through on Goal": [
-        "Deniz Undav"
-      ],
-      "Far Post": [
-        "Lassine Sinayoko"
-      ],
-      "The Poacher": [
-        "Kylian Mbappe"
-      ],
-      "Back Post": [
-        "Donyell Malen"
-      ],
-      "Rebound": [
-        "Desire Doue"
-      ],
-      "The Nine": [
-        "Ferran Torres"
-      ],
-      "Target Man": [
-        "Lionel Messi"
-      ],
-      "Finds the Gap": [
-        "Robert Lewandowski"
-      ],
-      "Gets Across": [
-        "Luis Suarez"
-      ],
-      "Penalty Spot": [
-        "Bruno Damiani"
-      ],
-      "Poked Home": [
-        "Rayan Elloumi"
-      ],
-      "Rounds the Keeper": [
-        "Sam Surridge"
-      ],
-      "Side Netting": [
-        "Antoine Griezmann"
-      ],
-      "In Behind": [
-        "Vincent Janssen"
-      ],
-      "First Time": [
-        "Marcus Ingvartsen"
-      ],
-      "Runs the Channel": [
-        "Anders Dreyer"
-      ],
-      "Stoops to Conquer": [
-        "Sergi Solans"
-      ],
-      "One-Two": [
-        "Kelvin Yeboah"
+      "Back of the Net": [
+        "Crystal Palace v Liverpool: Crystal Palace to score",
+        "Internazionale v Como: Both teams to score",
+        "Sunderland v Chelsea: Sunderland to score",
+        "TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
       ]
     },
     "abets": [
-      "totals||Chicago Fire FC v Columbus Crew: Both teams to score,Minnesota United FC v San Jose Earthquakes: Both teams to score,Nottingham Forest v Manchester City: Nottingham Forest to score,SC Paderborn 07 v Eintracht Frankfurt: Both teams to score",
-      "|anytime goalscorer|Anders Dreyer",
-      "|anytime goalscorer|Antoine Griezmann",
-      "|anytime goalscorer|Bruno Damiani",
-      "|anytime goalscorer|Christopher Nkunku",
-      "|anytime goalscorer|Deniz Undav",
-      "|anytime goalscorer|Desire Doue",
-      "|anytime goalscorer|Donyell Malen",
-      "|anytime goalscorer|Erling Haaland",
-      "|anytime goalscorer|Fabio Silva",
-      "|anytime goalscorer|Ferran Torres",
-      "|anytime goalscorer|Harry Kane",
-      "|anytime goalscorer|Kai Havertz",
-      "|anytime goalscorer|Kelvin Yeboah",
-      "|anytime goalscorer|Kylian Mbappe",
-      "|anytime goalscorer|Lassine Sinayoko",
-      "|anytime goalscorer|Lionel Messi",
-      "|anytime goalscorer|Luis Suarez",
-      "|anytime goalscorer|Marcus Ingvartsen",
-      "|anytime goalscorer|Rayan Elloumi",
-      "|anytime goalscorer|Robert Lewandowski",
-      "|anytime goalscorer|Romulo",
-      "|anytime goalscorer|Sam Surridge",
-      "|anytime goalscorer|Sergi Solans",
-      "|anytime goalscorer|Vincent Janssen"
+      "totals||Crystal Palace v Liverpool: Crystal Palace to score,Internazionale v Como: Both teams to score,Sunderland v Chelsea: Sunderland to score,TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
-    "slate": "2026-11-07",
-    "hits": [
-      "a:Bruno Damiani",
-      "a:Christopher Nkunku",
-      "a:Kylian Mbappe",
-      "a:Lassine Sinayoko",
-      "a:Luis Suarez",
-      "a:Robert Lewandowski",
-      "a:Romulo",
-      "a:Sam Surridge",
-      "a:Sergi Solans",
-      "t:Chicago Fire FC v Columbus Crew: Both teams to score",
-      "t:Minnesota United FC v San Jose Earthquakes: Both teams to score",
-      "t:Nottingham Forest v Manchester City: Nottingham Forest to score",
-      "t:SC Paderborn 07 v Eintracht Frankfurt: Both teams to score"
-    ],
+    "slate": "2026-11-08",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 01:37:22 GMT",
-    "checked_at": "2026-11-08T01:38:43.589647+00:00"
+    "last_modified": "Sun, 08 Nov 2026 02:36:44 GMT",
+    "checked_at": "2026-11-08T02:37:14.030127+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -502,11 +63,11 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 01:37:22 GMT",
-    "checked_at": "2026-11-08T01:38:43.837374+00:00"
+    "last_modified": "Sun, 08 Nov 2026 02:36:44 GMT",
+    "checked_at": "2026-11-08T02:37:14.227511+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "ebfdb5ab3af15a493078b89f8094269320e3f52953b592ffc8e80088863e3f7f",
+    "hash": "0c88da06e66152c8d773726b0bef0c8846b0a7beb53f3ddea108de2d9143d41d",
     "confirmed": [
       {
         "name": "First Basket: HOU@PHX",
@@ -517,11 +78,11 @@
         "rr": false,
         "info": {
           "Devin Booker": "Suns vs Rockets \u00b7 Sat Nov 7 \u00b7 9:00 PM ET \u00b7 +600 \u00b7 0.5u",
-          "Jalen Green": "Suns vs Rockets \u00b7 Sat Nov 7 \u00b7 9:00 PM ET \u00b7 +650 \u00b7 0.5u"
+          "Jalen Green": "Suns vs Rockets \u00b7 Sat Nov 7 \u00b7 9:00 PM ET \u00b7 +700 \u00b7 0.5u"
         },
         "odds": {
           "Devin Booker": 600,
-          "Jalen Green": 650
+          "Jalen Green": 700
         },
         "market": "first basket",
         "kind": "fb2",
@@ -545,6 +106,25 @@
         "market": "first basket",
         "kind": "fb2",
         "units": 1
+      },
+      {
+        "name": "First Basket: SAS@POR",
+        "legs": [
+          "De'Aaron Fox",
+          "Victor Wembanyama"
+        ],
+        "rr": false,
+        "info": {
+          "Victor Wembanyama": "Spurs vs Trail Blazers \u00b7 Sat Nov 7 \u00b7 10:00 PM ET \u00b7 +280 \u00b7 0.5u",
+          "De'Aaron Fox": "Spurs vs Trail Blazers \u00b7 Sat Nov 7 \u00b7 10:00 PM ET \u00b7 +650 \u00b7 0.5u"
+        },
+        "odds": {
+          "Victor Wembanyama": 280,
+          "De'Aaron Fox": 650
+        },
+        "market": "first basket",
+        "kind": "fb2",
+        "units": 1
       }
     ],
     "announced": {
@@ -555,16 +135,21 @@
       "First Basket: HOU@PHX": [
         "Devin Booker",
         "Jalen Green"
+      ],
+      "First Basket: SAS@POR": [
+        "De'Aaron Fox",
+        "Victor Wembanyama"
       ]
     },
     "abets": [
+      "fb2|first basket|De'Aaron Fox,Victor Wembanyama",
       "fb2|first basket|Devin Booker,Jalen Green",
       "fb2|first basket|Franz Wagner,Wendell Carter Jr."
     ],
     "slate": "2026-11-07",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 01:37:22 GMT",
-    "checked_at": "2026-11-08T01:38:46.115890+00:00"
+    "last_modified": "Sun, 08 Nov 2026 02:36:44 GMT",
+    "checked_at": "2026-11-08T02:37:16.796675+00:00"
   }
 }

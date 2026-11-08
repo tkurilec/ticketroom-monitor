@@ -390,8 +390,9 @@
             "SC Paderborn 07 v Eintracht Frankfurt: Both teams to score": -205
           },
           "bkey": "totals||Chicago Fire FC v Columbus Crew: Both teams to score,Minnesota United FC v San Jose Earthquakes: Both teams to score,Nottingham Forest v Manchester City: Nottingham Forest to score,SC Paderborn 07 v Eintracht Frankfurt: Both teams to score",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 3.5394870143843304,
+          "legs_hit": 4
         },
         "Smashed Home": {
           "legs": [
@@ -404,8 +405,9 @@
             "Fabio Silva": 105
           },
           "bkey": "|anytime goalscorer|Fabio Silva",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Bottom Corner": {
           "legs": [
@@ -418,8 +420,9 @@
             "Romulo": -106
           },
           "bkey": "|anytime goalscorer|Romulo",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.9433962264150944,
+          "legs_hit": 1
         },
         "Near Post": {
           "legs": [
@@ -432,8 +435,9 @@
             "Christopher Nkunku": 105
           },
           "bkey": "|anytime goalscorer|Christopher Nkunku",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.0499999999999998,
+          "legs_hit": 1
         },
         "Six-Yard Box": {
           "legs": [
@@ -446,8 +450,9 @@
             "Harry Kane": -197
           },
           "bkey": "|anytime goalscorer|Harry Kane",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Ghosts In": {
           "legs": [
@@ -460,8 +465,9 @@
             "Kai Havertz": -104
           },
           "bkey": "|anytime goalscorer|Kai Havertz",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Full Stake": {
           "legs": [
@@ -474,8 +480,9 @@
             "Erling Haaland": -135
           },
           "bkey": "|anytime goalscorer|Erling Haaland",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -2,
+          "legs_hit": 0
         },
         "Through on Goal": {
           "legs": [
@@ -488,8 +495,9 @@
             "Deniz Undav": -104
           },
           "bkey": "|anytime goalscorer|Deniz Undav",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Far Post": {
           "legs": [
@@ -502,8 +510,9 @@
             "Lassine Sinayoko": 120
           },
           "bkey": "|anytime goalscorer|Lassine Sinayoko",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.2000000000000002,
+          "legs_hit": 1
         },
         "The Poacher": {
           "legs": [
@@ -516,8 +525,9 @@
             "Kylian Mbappe": -210
           },
           "bkey": "|anytime goalscorer|Kylian Mbappe",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.4761904761904763,
+          "legs_hit": 1
         },
         "Back Post": {
           "legs": [
@@ -530,8 +540,9 @@
             "Donyell Malen": -192
           },
           "bkey": "|anytime goalscorer|Donyell Malen",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Rebound": {
           "legs": [
@@ -544,8 +555,9 @@
             "Desire Doue": -115
           },
           "bkey": "|anytime goalscorer|Desire Doue",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "The Nine": {
           "legs": [
@@ -558,8 +570,9 @@
             "Ferran Torres": -160
           },
           "bkey": "|anytime goalscorer|Ferran Torres",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Target Man": {
           "legs": [
@@ -572,8 +585,9 @@
             "Lionel Messi": -225
           },
           "bkey": "|anytime goalscorer|Lionel Messi",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Finds the Gap": {
           "legs": [
@@ -586,8 +600,9 @@
             "Robert Lewandowski": 115
           },
           "bkey": "|anytime goalscorer|Robert Lewandowski",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.15,
+          "legs_hit": 1
         },
         "Gets Across": {
           "legs": [
@@ -600,8 +615,9 @@
             "Luis Suarez": -108
           },
           "bkey": "|anytime goalscorer|Luis Suarez",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.925925925925926,
+          "legs_hit": 1
         },
         "Penalty Spot": {
           "legs": [
@@ -614,8 +630,9 @@
             "Bruno Damiani": -100
           },
           "bkey": "|anytime goalscorer|Bruno Damiani",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.0,
+          "legs_hit": 1
         },
         "Poked Home": {
           "legs": [
@@ -628,8 +645,9 @@
             "Rayan Elloumi": 120
           },
           "bkey": "|anytime goalscorer|Rayan Elloumi",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Rounds the Keeper": {
           "legs": [
@@ -642,8 +660,9 @@
             "Sam Surridge": 112
           },
           "bkey": "|anytime goalscorer|Sam Surridge",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.12,
+          "legs_hit": 1
         },
         "Side Netting": {
           "legs": [
@@ -656,8 +675,9 @@
             "Antoine Griezmann": 110
           },
           "bkey": "|anytime goalscorer|Antoine Griezmann",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "In Behind": {
           "legs": [
@@ -670,8 +690,9 @@
             "Vincent Janssen": 110
           },
           "bkey": "|anytime goalscorer|Vincent Janssen",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "First Time": {
           "legs": [
@@ -684,8 +705,9 @@
             "Marcus Ingvartsen": -118
           },
           "bkey": "|anytime goalscorer|Marcus Ingvartsen",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Runs the Channel": {
           "legs": [
@@ -698,8 +720,9 @@
             "Anders Dreyer": -115
           },
           "bkey": "|anytime goalscorer|Anders Dreyer",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Stoops to Conquer": {
           "legs": [
@@ -712,8 +735,9 @@
             "Sergi Solans": 104
           },
           "bkey": "|anytime goalscorer|Sergi Solans",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.04,
+          "legs_hit": 1
         },
         "One-Two": {
           "legs": [
@@ -726,6 +750,29 @@
             "Kelvin Yeboah": 108
           },
           "bkey": "|anytime goalscorer|Kelvin Yeboah",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        }
+      },
+      "2026-11-08": {
+        "Back of the Net": {
+          "legs": [
+            "Crystal Palace v Liverpool: Crystal Palace to score",
+            "Internazionale v Como: Both teams to score",
+            "Sunderland v Chelsea: Sunderland to score",
+            "TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
+          ],
+          "kind": "totals",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Sunderland v Chelsea: Sunderland to score": -265,
+            "TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals": -235,
+            "Internazionale v Como: Both teams to score": -225,
+            "Crystal Palace v Liverpool: Crystal Palace to score": -235
+          },
+          "bkey": "totals||Crystal Palace v Liverpool: Crystal Palace to score,Internazionale v Como: Both teams to score,Sunderland v Chelsea: Sunderland to score,TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals",
           "result": null,
           "pl": null
         }
@@ -1477,6 +1524,22 @@
             "Jalen Green": 650
           },
           "bkey": "fb2|first basket|Devin Booker,Jalen Green",
+          "result": null,
+          "pl": null
+        },
+        "First Basket: SAS@POR": {
+          "legs": [
+            "De'Aaron Fox",
+            "Victor Wembanyama"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Victor Wembanyama": 280,
+            "De'Aaron Fox": 650
+          },
+          "bkey": "fb2|first basket|De'Aaron Fox,Victor Wembanyama",
           "result": null,
           "pl": null
         }
