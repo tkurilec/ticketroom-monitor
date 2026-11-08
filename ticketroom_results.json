@@ -1435,6 +1435,62 @@
           "bkey": "|anytime touchdown|Mitchell Tinsley",
           "result": null,
           "pl": null
+        },
+        "Red Zone Target": {
+          "legs": [
+            "J.K. Dobbins"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "J.K. Dobbins": 265
+          },
+          "bkey": "|anytime touchdown|J.K. Dobbins",
+          "result": null,
+          "pl": null
+        },
+        "Short Yardage": {
+          "legs": [
+            "Tyler Warren"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Tyler Warren": 206
+          },
+          "bkey": "|anytime touchdown|Tyler Warren",
+          "result": null,
+          "pl": null
+        },
+        "The Sneak": {
+          "legs": [
+            "Kevin Coleman Jr."
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Kevin Coleman Jr.": 850
+          },
+          "bkey": "|anytime touchdown|Kevin Coleman Jr.",
+          "result": null,
+          "pl": null
+        },
+        "The Workhorse": {
+          "legs": [
+            "Amon-Ra St. Brown"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Amon-Ra St. Brown": -111
+          },
+          "bkey": "|anytime touchdown|Amon-Ra St. Brown",
+          "result": null,
+          "pl": null
         }
       }
     },

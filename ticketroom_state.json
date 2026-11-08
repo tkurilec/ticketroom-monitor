@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 16:12:07 GMT",
-    "checked_at": "2026-11-08T16:15:15.524299+00:00"
+    "last_modified": "Sun, 08 Nov 2026 16:41:32 GMT",
+    "checked_at": "2026-11-08T16:45:15.482671+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "053940c85a53e39c8da4e602e4f8b18511ec4ef9d46ca3b2f77607f0818f8d73",
@@ -120,16 +120,17 @@
     "slate": "2026-11-08",
     "hits": [
       "a:Alexander Isak",
+      "a:Orri Oskarsson",
       "a:Patrik Schick",
       "t:Crystal Palace v Liverpool: Crystal Palace to score",
       "t:Sunderland v Chelsea: Sunderland to score"
     ],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 16:12:07 GMT",
-    "checked_at": "2026-11-08T16:15:17.900476+00:00"
+    "last_modified": "Sun, 08 Nov 2026 16:41:32 GMT",
+    "checked_at": "2026-11-08T16:45:18.654225+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "0636996f93babf51f1beb327a5b43b7099e5de306674e1b0fe53b75bd961be97",
+    "hash": "ce8cbc258321800fcc3db7ac9a92e8344f46136631a566b5768835c57d5b9617",
     "confirmed": [
       {
         "name": "Hurry Up",
@@ -158,6 +159,32 @@
         }
       },
       {
+        "name": "Red Zone Target",
+        "legs": [
+          "J.K. Dobbins"
+        ],
+        "rr": false,
+        "info": {
+          "J.K. Dobbins": "Broncos vs Panthers \u00b7 Sun Nov 8 \u00b7 1:00 PM ET"
+        },
+        "odds": {
+          "J.K. Dobbins": 265
+        }
+      },
+      {
+        "name": "Short Yardage",
+        "legs": [
+          "Tyler Warren"
+        ],
+        "rr": false,
+        "info": {
+          "Tyler Warren": "Colts vs Cowboys \u00b7 Sun Nov 8 \u00b7 1:00 PM ET"
+        },
+        "odds": {
+          "Tyler Warren": 206
+        }
+      },
+      {
         "name": "The Checkdown",
         "legs": [
           "Kyle Pitts"
@@ -168,6 +195,32 @@
         },
         "odds": {
           "Kyle Pitts": 265
+        }
+      },
+      {
+        "name": "The Sneak",
+        "legs": [
+          "Kevin Coleman Jr."
+        ],
+        "rr": false,
+        "info": {
+          "Kevin Coleman Jr.": "Dolphins vs Lions \u00b7 Sun Nov 8 \u00b7 1:00 PM ET"
+        },
+        "odds": {
+          "Kevin Coleman Jr.": 850
+        }
+      },
+      {
+        "name": "The Workhorse",
+        "legs": [
+          "Amon-Ra St. Brown"
+        ],
+        "rr": false,
+        "info": {
+          "Amon-Ra St. Brown": "Lions vs Dolphins \u00b7 Sun Nov 8 \u00b7 1:00 PM ET"
+        },
+        "odds": {
+          "Amon-Ra St. Brown": -111
         }
       }
     ],
@@ -180,18 +233,34 @@
       ],
       "Hurry Up": [
         "Mitchell Tinsley"
+      ],
+      "Red Zone Target": [
+        "J.K. Dobbins"
+      ],
+      "Short Yardage": [
+        "Tyler Warren"
+      ],
+      "The Sneak": [
+        "Kevin Coleman Jr."
+      ],
+      "The Workhorse": [
+        "Amon-Ra St. Brown"
       ]
     },
     "abets": [
+      "|anytime touchdown|Amon-Ra St. Brown",
+      "|anytime touchdown|J.K. Dobbins",
+      "|anytime touchdown|Kevin Coleman Jr.",
       "|anytime touchdown|Kyle Pitts",
       "|anytime touchdown|Mitchell Tinsley",
-      "|anytime touchdown|Olamide Zaccheaus"
+      "|anytime touchdown|Olamide Zaccheaus",
+      "|anytime touchdown|Tyler Warren"
     ],
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 16:12:07 GMT",
-    "checked_at": "2026-11-08T16:15:18.245867+00:00"
+    "last_modified": "Sun, 08 Nov 2026 16:41:32 GMT",
+    "checked_at": "2026-11-08T16:45:20.772840+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -201,7 +270,7 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 16:12:07 GMT",
-    "checked_at": "2026-11-08T16:15:18.384898+00:00"
+    "last_modified": "Sun, 08 Nov 2026 16:41:32 GMT",
+    "checked_at": "2026-11-08T16:45:21.091877+00:00"
   }
 }
