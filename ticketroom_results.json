@@ -1533,6 +1533,20 @@
           "bkey": "|anytime touchdown|Kyren Williams",
           "result": null,
           "pl": null
+        },
+        "Move the Chains": {
+          "legs": [
+            "Xavier Hutchinson"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Xavier Hutchinson": 575
+          },
+          "bkey": "|anytime touchdown|Xavier Hutchinson",
+          "result": null,
+          "pl": null
         }
       }
     },
