@@ -1491,6 +1491,20 @@
           "bkey": "|anytime touchdown|Amon-Ra St. Brown",
           "result": null,
           "pl": null
+        },
+        "Two Minute Drill": {
+          "legs": [
+            "Jonathan Taylor"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jonathan Taylor": -135
+          },
+          "bkey": "|anytime touchdown|Jonathan Taylor",
+          "result": null,
+          "pl": null
         }
       }
     },

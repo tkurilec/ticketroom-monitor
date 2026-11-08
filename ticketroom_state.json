@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 16:41:32 GMT",
-    "checked_at": "2026-11-08T16:45:15.482671+00:00"
+    "last_modified": "Sun, 08 Nov 2026 17:12:02 GMT",
+    "checked_at": "2026-11-08T17:12:12.209425+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "053940c85a53e39c8da4e602e4f8b18511ec4ef9d46ca3b2f77607f0818f8d73",
@@ -126,11 +126,11 @@
       "t:Sunderland v Chelsea: Sunderland to score"
     ],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 16:41:32 GMT",
-    "checked_at": "2026-11-08T16:45:18.654225+00:00"
+    "last_modified": "Sun, 08 Nov 2026 17:12:02 GMT",
+    "checked_at": "2026-11-08T17:12:15.352261+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "ce8cbc258321800fcc3db7ac9a92e8344f46136631a566b5768835c57d5b9617",
+    "hash": "2a13ab1dfa259d0fe64fd6480d7962d0efc200c1b05d2d868edec08e3d8f4980",
     "confirmed": [
       {
         "name": "Hurry Up",
@@ -222,6 +222,19 @@
         "odds": {
           "Amon-Ra St. Brown": -111
         }
+      },
+      {
+        "name": "Two Minute Drill",
+        "legs": [
+          "Jonathan Taylor"
+        ],
+        "rr": false,
+        "info": {
+          "Jonathan Taylor": "Colts vs Cowboys \u00b7 Sun Nov 8 \u00b7 1:00 PM ET"
+        },
+        "odds": {
+          "Jonathan Taylor": -135
+        }
       }
     ],
     "announced": {
@@ -245,11 +258,15 @@
       ],
       "The Workhorse": [
         "Amon-Ra St. Brown"
+      ],
+      "Two Minute Drill": [
+        "Jonathan Taylor"
       ]
     },
     "abets": [
       "|anytime touchdown|Amon-Ra St. Brown",
       "|anytime touchdown|J.K. Dobbins",
+      "|anytime touchdown|Jonathan Taylor",
       "|anytime touchdown|Kevin Coleman Jr.",
       "|anytime touchdown|Kyle Pitts",
       "|anytime touchdown|Mitchell Tinsley",
@@ -259,8 +276,8 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 16:41:32 GMT",
-    "checked_at": "2026-11-08T16:45:20.772840+00:00"
+    "last_modified": "Sun, 08 Nov 2026 17:12:02 GMT",
+    "checked_at": "2026-11-08T17:12:17.034623+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -270,7 +287,7 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 16:41:32 GMT",
-    "checked_at": "2026-11-08T16:45:21.091877+00:00"
+    "last_modified": "Sun, 08 Nov 2026 17:12:02 GMT",
+    "checked_at": "2026-11-08T17:12:17.243339+00:00"
   }
 }
