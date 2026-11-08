@@ -803,6 +803,20 @@
           "bkey": "|anytime goalscorer|Patrik Schick",
           "result": null,
           "pl": null
+        },
+        "Go-To Man": {
+          "legs": [
+            "Orri Oskarsson"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 2,
+          "odds": {
+            "Orri Oskarsson": 120
+          },
+          "bkey": "|anytime goalscorer|Orri Oskarsson",
+          "result": null,
+          "pl": null
         }
       }
     },
