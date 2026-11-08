@@ -789,6 +789,20 @@
           "bkey": "|anytime goalscorer|Alexander Isak",
           "result": null,
           "pl": null
+        },
+        "Target Man": {
+          "legs": [
+            "Patrik Schick"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Patrik Schick": -117
+          },
+          "bkey": "|anytime goalscorer|Patrik Schick",
+          "result": null,
+          "pl": null
         }
       }
     },

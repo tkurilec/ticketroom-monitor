@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 13:12:04 GMT",
-    "checked_at": "2026-11-08T13:15:15.335563+00:00"
+    "last_modified": "Sun, 08 Nov 2026 13:51:58 GMT",
+    "checked_at": "2026-11-08T13:52:12.947412+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "1f6fac5f3c7848b007cc145469ce31b490573445146150d73b99933401448074",
+    "hash": "632e652b67852d428353cc15a37d0777ac9d2b4480fd270b42e3ddfffc427972",
     "confirmed": [
       {
         "name": "Back of the Net",
@@ -49,6 +49,19 @@
         "odds": {
           "Alexander Isak": 110
         }
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Patrik Schick"
+        ],
+        "rr": false,
+        "info": {
+          "Patrik Schick": "Bayer Leverkusen vs FC Cologne \u00b7 Sun Nov 8 \u00b7 9:30 AM ET"
+        },
+        "odds": {
+          "Patrik Schick": -117
+        }
       }
     ],
     "announced": {
@@ -60,17 +73,21 @@
       ],
       "First Time": [
         "Alexander Isak"
+      ],
+      "Target Man": [
+        "Patrik Schick"
       ]
     },
     "abets": [
       "totals||Crystal Palace v Liverpool: Crystal Palace to score,Internazionale v Como: Both teams to score,Sunderland v Chelsea: Sunderland to score,TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals",
-      "|anytime goalscorer|Alexander Isak"
+      "|anytime goalscorer|Alexander Isak",
+      "|anytime goalscorer|Patrik Schick"
     ],
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 13:12:04 GMT",
-    "checked_at": "2026-11-08T13:15:19.789448+00:00"
+    "last_modified": "Sun, 08 Nov 2026 13:51:58 GMT",
+    "checked_at": "2026-11-08T13:52:18.025586+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "0636996f93babf51f1beb327a5b43b7099e5de306674e1b0fe53b75bd961be97",
@@ -134,8 +151,8 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 13:12:05 GMT",
-    "checked_at": "2026-11-08T13:15:21.720637+00:00"
+    "last_modified": "Sun, 08 Nov 2026 13:51:58 GMT",
+    "checked_at": "2026-11-08T13:52:18.366741+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -145,7 +162,7 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 13:12:04 GMT",
-    "checked_at": "2026-11-08T13:15:22.016623+00:00"
+    "last_modified": "Sun, 08 Nov 2026 13:51:58 GMT",
+    "checked_at": "2026-11-08T13:52:18.551628+00:00"
   }
 }
