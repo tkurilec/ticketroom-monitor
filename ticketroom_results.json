@@ -817,6 +817,20 @@
           "bkey": "|anytime goalscorer|Orri Oskarsson",
           "result": null,
           "pl": null
+        },
+        "The Poacher": {
+          "legs": [
+            "Raphinha"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Raphinha": -105
+          },
+          "bkey": "|anytime goalscorer|Raphinha",
+          "result": null,
+          "pl": null
         }
       }
     },

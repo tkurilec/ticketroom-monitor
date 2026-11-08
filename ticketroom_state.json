@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 17:36:49 GMT",
-    "checked_at": "2026-11-08T17:37:11.493527+00:00"
+    "last_modified": "Sun, 08 Nov 2026 19:01:42 GMT",
+    "checked_at": "2026-11-08T19:02:12.100582+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "053940c85a53e39c8da4e602e4f8b18511ec4ef9d46ca3b2f77607f0818f8d73",
+    "hash": "417a531650039bcda94ec15e10a867eff149a2c1917899c88efefec995735a6f",
     "confirmed": [
       {
         "name": "Back of the Net",
@@ -89,6 +89,19 @@
         "odds": {
           "Patrik Schick": -117
         }
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Raphinha"
+        ],
+        "rr": false,
+        "info": {
+          "Raphinha": "Barcelona vs Atl\u00e9tico Madrid \u00b7 Sun Nov 8 \u00b7 3:00 PM ET"
+        },
+        "odds": {
+          "Raphinha": -105
+        }
       }
     ],
     "announced": {
@@ -109,13 +122,17 @@
       ],
       "Near Post": [
         "Orri Oskarsson"
+      ],
+      "The Poacher": [
+        "Raphinha"
       ]
     },
     "abets": [
       "totals||Crystal Palace v Liverpool: Crystal Palace to score,Internazionale v Como: Both teams to score,Sunderland v Chelsea: Sunderland to score,TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals",
       "|anytime goalscorer|Alexander Isak",
       "|anytime goalscorer|Orri Oskarsson",
-      "|anytime goalscorer|Patrik Schick"
+      "|anytime goalscorer|Patrik Schick",
+      "|anytime goalscorer|Raphinha"
     ],
     "slate": "2026-11-08",
     "hits": [
@@ -126,8 +143,8 @@
       "t:Sunderland v Chelsea: Sunderland to score"
     ],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 17:36:49 GMT",
-    "checked_at": "2026-11-08T17:37:14.535325+00:00"
+    "last_modified": "Sun, 08 Nov 2026 19:01:42 GMT",
+    "checked_at": "2026-11-08T19:02:18.558600+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "ba6d07d543d313de2efec99657931e8c8354577aa3428507133e02091bc5c89b",
@@ -293,8 +310,8 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 17:36:49 GMT",
-    "checked_at": "2026-11-08T17:37:16.542451+00:00"
+    "last_modified": "Sun, 08 Nov 2026 19:01:42 GMT",
+    "checked_at": "2026-11-08T19:02:20.177986+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -304,7 +321,7 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 17:36:49 GMT",
-    "checked_at": "2026-11-08T17:37:16.763191+00:00"
+    "last_modified": "Sun, 08 Nov 2026 19:01:42 GMT",
+    "checked_at": "2026-11-08T19:02:20.538018+00:00"
   }
 }
