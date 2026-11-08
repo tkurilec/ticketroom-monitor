@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 19:41:54 GMT",
-    "checked_at": "2026-11-08T19:42:11.810292+00:00"
+    "last_modified": "Sun, 08 Nov 2026 19:46:58 GMT",
+    "checked_at": "2026-11-08T19:50:14.809804+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "417a531650039bcda94ec15e10a867eff149a2c1917899c88efefec995735a6f",
@@ -143,11 +143,11 @@
       "t:Sunderland v Chelsea: Sunderland to score"
     ],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 19:41:54 GMT",
-    "checked_at": "2026-11-08T19:42:13.862875+00:00"
+    "last_modified": "Sun, 08 Nov 2026 19:46:58 GMT",
+    "checked_at": "2026-11-08T19:50:17.842453+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "15ac60fa8e8e3b16bec4b49f49d81dfb91db45770072bcfd78128fda0be25e68",
+    "hash": "4e56d8c74422a0d08d5fe6476c4e6a51acda13e0571b5f4163baf5408978af2c",
     "confirmed": [
       {
         "name": "Audible",
@@ -160,6 +160,19 @@
         },
         "odds": {
           "Kyren Williams": -155
+        }
+      },
+      {
+        "name": "Goal Line Back",
+        "legs": [
+          "Ashton Jeanty"
+        ],
+        "rr": false,
+        "info": {
+          "Ashton Jeanty": "Raiders vs 49ers \u00b7 Sun Nov 8 \u00b7 4:05 PM ET"
+        },
+        "odds": {
+          "Ashton Jeanty": 160
         }
       },
       {
@@ -200,6 +213,21 @@
         "odds": {
           "Xavier Hutchinson": 575
         }
+      },
+      {
+        "name": "Pop the Cork",
+        "legs": [
+          "Christian McCaffrey"
+        ],
+        "rr": false,
+        "info": {
+          "Christian McCaffrey": "49ers vs Raiders \u00b7 Sun Nov 8 \u00b7 4:05 PM ET"
+        },
+        "odds": {
+          "Christian McCaffrey": 305
+        },
+        "market": "first touchdown scorer",
+        "kind": "ftd"
       },
       {
         "name": "Red Zone Target",
@@ -310,10 +338,18 @@
       ],
       "Move the Chains": [
         "Xavier Hutchinson"
+      ],
+      "Goal Line Back": [
+        "Ashton Jeanty"
+      ],
+      "Pop the Cork": [
+        "Christian McCaffrey"
       ]
     },
     "abets": [
+      "ftd|first touchdown scorer|Christian McCaffrey",
       "|anytime touchdown|Amon-Ra St. Brown",
+      "|anytime touchdown|Ashton Jeanty",
       "|anytime touchdown|J.K. Dobbins",
       "|anytime touchdown|Jonathan Taylor",
       "|anytime touchdown|Kevin Coleman Jr.",
@@ -327,8 +363,8 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 19:41:54 GMT",
-    "checked_at": "2026-11-08T19:42:16.061550+00:00"
+    "last_modified": "Sun, 08 Nov 2026 19:46:58 GMT",
+    "checked_at": "2026-11-08T19:50:20.859384+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -338,7 +374,7 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 19:41:54 GMT",
-    "checked_at": "2026-11-08T19:42:16.343593+00:00"
+    "last_modified": "Sun, 08 Nov 2026 19:46:58 GMT",
+    "checked_at": "2026-11-08T19:50:21.043404+00:00"
   }
 }

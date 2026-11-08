@@ -1547,6 +1547,34 @@
           "bkey": "|anytime touchdown|Xavier Hutchinson",
           "result": null,
           "pl": null
+        },
+        "Goal Line Back": {
+          "legs": [
+            "Ashton Jeanty"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Ashton Jeanty": 160
+          },
+          "bkey": "|anytime touchdown|Ashton Jeanty",
+          "result": null,
+          "pl": null
+        },
+        "Pop the Cork": {
+          "legs": [
+            "Christian McCaffrey"
+          ],
+          "kind": "ftd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Christian McCaffrey": 305
+          },
+          "bkey": "ftd|first touchdown scorer|Christian McCaffrey",
+          "result": null,
+          "pl": null
         }
       }
     },
