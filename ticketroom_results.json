@@ -1772,7 +1772,24 @@
           "legs_hit": 1
         }
       },
-      "2026-11-08": {}
+      "2026-11-08": {
+        "First Basket: PHI@CHI": {
+          "legs": [
+            "Jaylen Brown",
+            "Joel Embiid"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Joel Embiid": 470,
+            "Jaylen Brown": 500
+          },
+          "bkey": "fb2|first basket|Jaylen Brown,Joel Embiid",
+          "result": null,
+          "pl": null
+        }
+      }
     }
   },
   "recap_sent": "2026-11-08",
