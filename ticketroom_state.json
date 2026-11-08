@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 17:12:02 GMT",
-    "checked_at": "2026-11-08T17:12:12.209425+00:00"
+    "last_modified": "Sun, 08 Nov 2026 17:36:49 GMT",
+    "checked_at": "2026-11-08T17:37:11.493527+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "053940c85a53e39c8da4e602e4f8b18511ec4ef9d46ca3b2f77607f0818f8d73",
@@ -126,12 +126,25 @@
       "t:Sunderland v Chelsea: Sunderland to score"
     ],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 17:12:02 GMT",
-    "checked_at": "2026-11-08T17:12:15.352261+00:00"
+    "last_modified": "Sun, 08 Nov 2026 17:36:49 GMT",
+    "checked_at": "2026-11-08T17:37:14.535325+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "2a13ab1dfa259d0fe64fd6480d7962d0efc200c1b05d2d868edec08e3d8f4980",
+    "hash": "ba6d07d543d313de2efec99657931e8c8354577aa3428507133e02091bc5c89b",
     "confirmed": [
+      {
+        "name": "Audible",
+        "legs": [
+          "Kyren Williams"
+        ],
+        "rr": false,
+        "info": {
+          "Kyren Williams": "Rams vs Commanders \u00b7 Sun Nov 8 \u00b7 1:00 PM ET"
+        },
+        "odds": {
+          "Kyren Williams": -155
+        }
+      },
       {
         "name": "Hurry Up",
         "legs": [
@@ -261,6 +274,9 @@
       ],
       "Two Minute Drill": [
         "Jonathan Taylor"
+      ],
+      "Audible": [
+        "Kyren Williams"
       ]
     },
     "abets": [
@@ -269,6 +285,7 @@
       "|anytime touchdown|Jonathan Taylor",
       "|anytime touchdown|Kevin Coleman Jr.",
       "|anytime touchdown|Kyle Pitts",
+      "|anytime touchdown|Kyren Williams",
       "|anytime touchdown|Mitchell Tinsley",
       "|anytime touchdown|Olamide Zaccheaus",
       "|anytime touchdown|Tyler Warren"
@@ -276,8 +293,8 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 17:12:02 GMT",
-    "checked_at": "2026-11-08T17:12:17.034623+00:00"
+    "last_modified": "Sun, 08 Nov 2026 17:36:49 GMT",
+    "checked_at": "2026-11-08T17:37:16.542451+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -287,7 +304,7 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 17:12:02 GMT",
-    "checked_at": "2026-11-08T17:12:17.243339+00:00"
+    "last_modified": "Sun, 08 Nov 2026 17:36:49 GMT",
+    "checked_at": "2026-11-08T17:37:16.763191+00:00"
   }
 }

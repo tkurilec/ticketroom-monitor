@@ -1505,6 +1505,20 @@
           "bkey": "|anytime touchdown|Jonathan Taylor",
           "result": null,
           "pl": null
+        },
+        "Audible": {
+          "legs": [
+            "Kyren Williams"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Kyren Williams": -155
+          },
+          "bkey": "|anytime touchdown|Kyren Williams",
+          "result": null,
+          "pl": null
         }
       }
     },
