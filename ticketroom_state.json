@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 22:37:01 GMT",
-    "checked_at": "2026-11-08T22:37:11.933975+00:00"
+    "last_modified": "Sun, 08 Nov 2026 23:11:25 GMT",
+    "checked_at": "2026-11-08T23:13:03.343066+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "417a531650039bcda94ec15e10a867eff149a2c1917899c88efefec995735a6f",
@@ -144,8 +144,8 @@
       "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 22:37:01 GMT",
-    "checked_at": "2026-11-08T22:37:14.607766+00:00"
+    "last_modified": "Sun, 08 Nov 2026 23:11:25 GMT",
+    "checked_at": "2026-11-08T23:13:05.574701+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "4e56d8c74422a0d08d5fe6476c4e6a51acda13e0571b5f4163baf5408978af2c",
@@ -367,8 +367,8 @@
       "ftd:Christian McCaffrey"
     ],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 22:37:01 GMT",
-    "checked_at": "2026-11-08T22:37:15.429939+00:00"
+    "last_modified": "Sun, 08 Nov 2026 23:11:25 GMT",
+    "checked_at": "2026-11-08T23:13:06.500254+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "de5c18b9ccb7e3181cd84288e4dc31a453eedc5a580726426bdfa4eaf9eeeeab",
@@ -427,9 +427,11 @@
       "fb2|first basket|Jaylen Brown,Joel Embiid"
     ],
     "slate": "2026-11-08",
-    "hits": [],
+    "hits": [
+      "a:Austin Reaves"
+    ],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 22:37:01 GMT",
-    "checked_at": "2026-11-08T22:37:16.988500+00:00"
+    "last_modified": "Sun, 08 Nov 2026 23:11:25 GMT",
+    "checked_at": "2026-11-08T23:13:07.411832+00:00"
   }
 }
