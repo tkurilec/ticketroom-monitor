@@ -1393,6 +1393,20 @@
           "bkey": "|anytime touchdown|Kyle Pitts",
           "result": null,
           "pl": null
+        },
+        "Hurry Up": {
+          "legs": [
+            "Mitchell Tinsley"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Mitchell Tinsley": 1200
+          },
+          "bkey": "|anytime touchdown|Mitchell Tinsley",
+          "result": null,
+          "pl": null
         }
       }
     },
