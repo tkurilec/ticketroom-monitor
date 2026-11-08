@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 21:31:41 GMT",
-    "checked_at": "2026-11-08T21:35:16.719715+00:00"
+    "last_modified": "Sun, 08 Nov 2026 22:37:01 GMT",
+    "checked_at": "2026-11-08T22:37:11.933975+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "417a531650039bcda94ec15e10a867eff149a2c1917899c88efefec995735a6f",
@@ -144,8 +144,8 @@
       "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 21:31:41 GMT",
-    "checked_at": "2026-11-08T21:35:18.979677+00:00"
+    "last_modified": "Sun, 08 Nov 2026 22:37:01 GMT",
+    "checked_at": "2026-11-08T22:37:14.607766+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "4e56d8c74422a0d08d5fe6476c4e6a51acda13e0571b5f4163baf5408978af2c",
@@ -367,12 +367,31 @@
       "ftd:Christian McCaffrey"
     ],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 21:31:41 GMT",
-    "checked_at": "2026-11-08T21:35:21.065053+00:00"
+    "last_modified": "Sun, 08 Nov 2026 22:37:01 GMT",
+    "checked_at": "2026-11-08T22:37:15.429939+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "6f2e1f12aa3f4a872aa07a0b507fab5f8d2f7bf1bcd698b7607eea24817a8ee3",
+    "hash": "de5c18b9ccb7e3181cd84288e4dc31a453eedc5a580726426bdfa4eaf9eeeeab",
     "confirmed": [
+      {
+        "name": "First Basket: LAL@DET",
+        "legs": [
+          "Austin Reaves",
+          "Walker Kessler"
+        ],
+        "rr": false,
+        "info": {
+          "Walker Kessler": "Lakers vs Pistons \u00b7 Sun Nov 8 \u00b7 6:00 PM ET \u00b7 +600 \u00b7 0.5u",
+          "Austin Reaves": "Lakers vs Pistons \u00b7 Sun Nov 8 \u00b7 6:00 PM ET \u00b7 +500 \u00b7 0.5u"
+        },
+        "odds": {
+          "Walker Kessler": 600,
+          "Austin Reaves": 500
+        },
+        "market": "first basket",
+        "kind": "fb2",
+        "units": 1
+      },
       {
         "name": "First Basket: PHI@CHI",
         "legs": [
@@ -397,15 +416,20 @@
       "First Basket: PHI@CHI": [
         "Jaylen Brown",
         "Joel Embiid"
+      ],
+      "First Basket: LAL@DET": [
+        "Austin Reaves",
+        "Walker Kessler"
       ]
     },
     "abets": [
+      "fb2|first basket|Austin Reaves,Walker Kessler",
       "fb2|first basket|Jaylen Brown,Joel Embiid"
     ],
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 21:31:41 GMT",
-    "checked_at": "2026-11-08T21:35:21.338935+00:00"
+    "last_modified": "Sun, 08 Nov 2026 22:37:01 GMT",
+    "checked_at": "2026-11-08T22:37:16.988500+00:00"
   }
 }
