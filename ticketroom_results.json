@@ -1463,6 +1463,22 @@
           "bkey": "fb2|first basket|Franz Wagner,Wendell Carter Jr.",
           "result": null,
           "pl": null
+        },
+        "First Basket: HOU@PHX": {
+          "legs": [
+            "Devin Booker",
+            "Jalen Green"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Devin Booker": 600,
+            "Jalen Green": 650
+          },
+          "bkey": "fb2|first basket|Devin Booker,Jalen Green",
+          "result": null,
+          "pl": null
         }
       }
     }

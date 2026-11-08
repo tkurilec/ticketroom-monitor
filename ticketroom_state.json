@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 01:27:12 GMT",
-    "checked_at": "2026-11-08T01:29:10.152423+00:00"
+    "last_modified": "Sun, 08 Nov 2026 01:37:22 GMT",
+    "checked_at": "2026-11-08T01:38:32.849072+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "9ee307261ab3f535d104c84b160e93d2f07678b91d71ca74487e8812c0ab6df5",
@@ -491,8 +491,8 @@
       "t:SC Paderborn 07 v Eintracht Frankfurt: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 01:27:12 GMT",
-    "checked_at": "2026-11-08T01:29:13.750487+00:00"
+    "last_modified": "Sun, 08 Nov 2026 01:37:22 GMT",
+    "checked_at": "2026-11-08T01:38:43.589647+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -502,12 +502,31 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 01:27:12 GMT",
-    "checked_at": "2026-11-08T01:29:13.940455+00:00"
+    "last_modified": "Sun, 08 Nov 2026 01:37:22 GMT",
+    "checked_at": "2026-11-08T01:38:43.837374+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "98d138e04a67a2a18cc3de8900caac6497f2596e8cdf04ac2a9cfe134705ecea",
+    "hash": "ebfdb5ab3af15a493078b89f8094269320e3f52953b592ffc8e80088863e3f7f",
     "confirmed": [
+      {
+        "name": "First Basket: HOU@PHX",
+        "legs": [
+          "Devin Booker",
+          "Jalen Green"
+        ],
+        "rr": false,
+        "info": {
+          "Devin Booker": "Suns vs Rockets \u00b7 Sat Nov 7 \u00b7 9:00 PM ET \u00b7 +600 \u00b7 0.5u",
+          "Jalen Green": "Suns vs Rockets \u00b7 Sat Nov 7 \u00b7 9:00 PM ET \u00b7 +650 \u00b7 0.5u"
+        },
+        "odds": {
+          "Devin Booker": 600,
+          "Jalen Green": 650
+        },
+        "market": "first basket",
+        "kind": "fb2",
+        "units": 1
+      },
       {
         "name": "First Basket: ORL@GSW",
         "legs": [
@@ -532,15 +551,20 @@
       "First Basket: ORL@GSW": [
         "Franz Wagner",
         "Wendell Carter Jr."
+      ],
+      "First Basket: HOU@PHX": [
+        "Devin Booker",
+        "Jalen Green"
       ]
     },
     "abets": [
+      "fb2|first basket|Devin Booker,Jalen Green",
       "fb2|first basket|Franz Wagner,Wendell Carter Jr."
     ],
     "slate": "2026-11-07",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 01:27:12 GMT",
-    "checked_at": "2026-11-08T01:29:14.346472+00:00"
+    "last_modified": "Sun, 08 Nov 2026 01:37:22 GMT",
+    "checked_at": "2026-11-08T01:38:46.115890+00:00"
   }
 }
