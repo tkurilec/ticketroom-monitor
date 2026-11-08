@@ -34,6 +34,14 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Refresh state
+        # The checkout can be seconds stale when two dispatches land close
+        # together (cron-job.org double-fired 8s apart on 2026-11-08 and the
+        # duplicate run re-posted a CASHED ping before its stale ledger knew
+        # about the hit). Pull the newest state right before the monitor runs
+        # so the dedupe ledgers are current even if another run just pushed.
+        run: git pull --rebase origin main
+
       - name: Run monitor
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
