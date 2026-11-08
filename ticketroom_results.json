@@ -775,6 +775,20 @@
           "bkey": "totals||Crystal Palace v Liverpool: Crystal Palace to score,Internazionale v Como: Both teams to score,Sunderland v Chelsea: Sunderland to score,TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals",
           "result": null,
           "pl": null
+        },
+        "First Time": {
+          "legs": [
+            "Alexander Isak"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Alexander Isak": 110
+          },
+          "bkey": "|anytime goalscorer|Alexander Isak",
+          "result": null,
+          "pl": null
         }
       }
     },

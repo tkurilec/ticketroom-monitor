@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 11:01:03 GMT",
-    "checked_at": "2026-11-08T11:01:12.132948+00:00"
+    "last_modified": "Sun, 08 Nov 2026 13:01:45 GMT",
+    "checked_at": "2026-11-08T13:02:12.381832+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "07f7093b4a1b478b6870d1e5515aca83b056f4437b01750199307af8671894a3",
+    "hash": "1f6fac5f3c7848b007cc145469ce31b490573445146150d73b99933401448074",
     "confirmed": [
       {
         "name": "Back of the Net",
@@ -36,6 +36,19 @@
           "Internazionale v Como: Both teams to score": -225,
           "Crystal Palace v Liverpool: Crystal Palace to score": -235
         }
+      },
+      {
+        "name": "First Time",
+        "legs": [
+          "Alexander Isak"
+        ],
+        "rr": false,
+        "info": {
+          "Alexander Isak": "Liverpool vs Crystal Palace \u00b7 Sun Nov 8 \u00b7 9:00 AM ET"
+        },
+        "odds": {
+          "Alexander Isak": 110
+        }
       }
     ],
     "announced": {
@@ -44,16 +57,20 @@
         "Internazionale v Como: Both teams to score",
         "Sunderland v Chelsea: Sunderland to score",
         "TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
+      ],
+      "First Time": [
+        "Alexander Isak"
       ]
     },
     "abets": [
-      "totals||Crystal Palace v Liverpool: Crystal Palace to score,Internazionale v Como: Both teams to score,Sunderland v Chelsea: Sunderland to score,TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
+      "totals||Crystal Palace v Liverpool: Crystal Palace to score,Internazionale v Como: Both teams to score,Sunderland v Chelsea: Sunderland to score,TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals",
+      "|anytime goalscorer|Alexander Isak"
     ],
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 11:01:03 GMT",
-    "checked_at": "2026-11-08T11:01:12.614303+00:00"
+    "last_modified": "Sun, 08 Nov 2026 13:01:45 GMT",
+    "checked_at": "2026-11-08T13:02:17.957497+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -63,8 +80,8 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 11:01:03 GMT",
-    "checked_at": "2026-11-08T11:01:12.774234+00:00"
+    "last_modified": "Sun, 08 Nov 2026 13:01:45 GMT",
+    "checked_at": "2026-11-08T13:02:18.198424+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -74,7 +91,7 @@
     "slate": "2026-11-08",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 11:01:03 GMT",
-    "checked_at": "2026-11-08T11:01:12.860087+00:00"
+    "last_modified": "Sun, 08 Nov 2026 13:01:45 GMT",
+    "checked_at": "2026-11-08T13:02:18.395410+00:00"
   }
 }
