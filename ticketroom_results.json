@@ -1829,8 +1829,9 @@
             "Jaylen Brown": 500
           },
           "bkey": "fb2|first basket|Jaylen Brown,Joel Embiid",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
         },
         "First Basket: LAL@DET": {
           "legs": [
@@ -1845,8 +1846,9 @@
             "Austin Reaves": 500
           },
           "bkey": "fb2|first basket|Austin Reaves,Walker Kessler",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 2.0,
+          "legs_hit": 1
         },
         "First Basket: BOS@MIL": {
           "legs": [
@@ -1861,8 +1863,9 @@
             "Jayson Tatum": 440
           },
           "bkey": "fb2|first basket|Jayson Tatum,Paul George",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
         },
         "First Basket: MIA@SAC": {
           "legs": [
@@ -1877,8 +1880,9 @@
             "Giannis Antetokounmpo": 320
           },
           "bkey": "fb2|first basket|Bam Adebayo,Giannis Antetokounmpo",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
         },
         "First Basket: NOP@LAC": {
           "legs": [
@@ -1893,10 +1897,12 @@
             "Darius Garland": 600
           },
           "bkey": "fb2|first basket|Brook Lopez,Darius Garland",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
         }
-      }
+      },
+      "2026-11-09": {}
     }
   },
   "recap_sent": "2026-11-08",

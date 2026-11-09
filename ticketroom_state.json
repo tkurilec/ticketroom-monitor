@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 06:17:43 GMT",
-    "checked_at": "2026-11-09T06:18:12.781923+00:00"
+    "last_modified": "Mon, 09 Nov 2026 11:01:06 GMT",
+    "checked_at": "2026-11-09T11:01:22.167320+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -53,8 +53,8 @@
       "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 06:17:43 GMT",
-    "checked_at": "2026-11-09T06:18:13.039783+00:00"
+    "last_modified": "Mon, 09 Nov 2026 11:01:06 GMT",
+    "checked_at": "2026-11-09T11:01:22.290414+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -64,47 +64,18 @@
     "slate": "2026-11-09",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 06:17:43 GMT",
-    "checked_at": "2026-11-09T06:18:13.287810+00:00"
+    "last_modified": "Mon, 09 Nov 2026 11:01:06 GMT",
+    "checked_at": "2026-11-09T11:01:22.562353+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "First Basket: PHI@CHI": [
-        "Jaylen Brown",
-        "Joel Embiid"
-      ],
-      "First Basket: LAL@DET": [
-        "Austin Reaves",
-        "Walker Kessler"
-      ],
-      "First Basket: BOS@MIL": [
-        "Jayson Tatum",
-        "Paul George"
-      ],
-      "First Basket: MIA@SAC": [
-        "Bam Adebayo",
-        "Giannis Antetokounmpo"
-      ],
-      "First Basket: NOP@LAC": [
-        "Brook Lopez",
-        "Darius Garland"
-      ]
-    },
-    "abets": [
-      "fb2|first basket|Austin Reaves,Walker Kessler",
-      "fb2|first basket|Bam Adebayo,Giannis Antetokounmpo",
-      "fb2|first basket|Brook Lopez,Darius Garland",
-      "fb2|first basket|Jaylen Brown,Joel Embiid",
-      "fb2|first basket|Jayson Tatum,Paul George"
-    ],
-    "slate": "2026-11-08",
-    "hits": [
-      "a:Austin Reaves"
-    ],
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-09",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 06:17:43 GMT",
-    "checked_at": "2026-11-09T06:18:13.450824+00:00"
+    "last_modified": "Mon, 09 Nov 2026 11:01:06 GMT",
+    "checked_at": "2026-11-09T11:01:22.640612+00:00"
   }
 }
