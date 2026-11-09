@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 23:36:56 GMT",
-    "checked_at": "2026-11-09T23:38:12.537572+00:00"
+    "last_modified": "Mon, 09 Nov 2026 23:41:47 GMT",
+    "checked_at": "2026-11-09T23:43:12.359960+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -53,8 +53,8 @@
       "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 23:37:43 GMT",
-    "checked_at": "2026-11-09T23:38:12.675613+00:00"
+    "last_modified": "Mon, 09 Nov 2026 23:41:47 GMT",
+    "checked_at": "2026-11-09T23:43:12.632430+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -64,11 +64,11 @@
     "slate": "2026-11-09",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 23:36:56 GMT",
-    "checked_at": "2026-11-09T23:38:12.930973+00:00"
+    "last_modified": "Mon, 09 Nov 2026 23:41:47 GMT",
+    "checked_at": "2026-11-09T23:43:12.770451+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "d0bc0b63d211acc1bd3713b0bfadbd71f41e05734811a0f94835f166c00dede5",
+    "hash": "b1dc2757f2e611d4098a31b30dd85fb52e18cd35aea96803130b0ec3a701ea6e",
     "confirmed": [
       {
         "name": "First Basket: CLE@CHA",
@@ -111,17 +111,17 @@
       {
         "name": "First Basket: WAS@DET",
         "legs": [
-          "Alex Sarr",
+          "AJ Dybantsa",
           "Anthony Davis"
         ],
         "rr": false,
         "info": {
           "Anthony Davis": "Wizards vs Pistons \u00b7 Mon Nov 9 \u00b7 7:00 PM ET \u00b7 +550 \u00b7 0.5u",
-          "Alex Sarr": "Wizards vs Pistons \u00b7 Mon Nov 9 \u00b7 7:00 PM ET \u00b7 +700 \u00b7 0.5u"
+          "AJ Dybantsa": "Wizards vs Pistons \u00b7 Mon Nov 9 \u00b7 7:00 PM ET \u00b7 +900 \u00b7 0.5u"
         },
         "odds": {
           "Anthony Davis": 550,
-          "Alex Sarr": 700
+          "AJ Dybantsa": 900
         },
         "market": "first basket",
         "kind": "fb2",
@@ -134,7 +134,7 @@
         "Jarrett Allen"
       ],
       "First Basket: WAS@DET": [
-        "Alex Sarr",
+        "AJ Dybantsa",
         "Anthony Davis"
       ],
       "First Basket: LAL@ATL": [
@@ -143,6 +143,7 @@
       ]
     },
     "abets": [
+      "fb2|first basket|AJ Dybantsa,Anthony Davis",
       "fb2|first basket|Alex Sarr,Anthony Davis",
       "fb2|first basket|Evan Mobley,Jarrett Allen",
       "fb2|first basket|Luka Doncic,Walker Kessler"
@@ -150,7 +151,7 @@
     "slate": "2026-11-09",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 23:37:31 GMT",
-    "checked_at": "2026-11-09T23:38:14.589049+00:00"
+    "last_modified": "Mon, 09 Nov 2026 23:41:47 GMT",
+    "checked_at": "2026-11-09T23:43:14.635672+00:00"
   }
 }
