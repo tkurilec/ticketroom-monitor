@@ -1923,6 +1923,22 @@
           "bkey": "fb2|first basket|Evan Mobley,Jarrett Allen",
           "result": null,
           "pl": null
+        },
+        "First Basket: WAS@DET": {
+          "legs": [
+            "Alex Sarr",
+            "Anthony Davis"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Anthony Davis": 550,
+            "Alex Sarr": 700
+          },
+          "bkey": "fb2|first basket|Alex Sarr,Anthony Davis",
+          "result": null,
+          "pl": null
         }
       }
     }

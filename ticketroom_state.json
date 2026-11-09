@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 23:12:39 GMT",
-    "checked_at": "2026-11-09T23:13:12.033281+00:00"
+    "last_modified": "Mon, 09 Nov 2026 23:31:29 GMT",
+    "checked_at": "2026-11-09T23:32:17.698057+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -53,8 +53,8 @@
       "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 23:12:39 GMT",
-    "checked_at": "2026-11-09T23:13:12.316046+00:00"
+    "last_modified": "Mon, 09 Nov 2026 23:31:29 GMT",
+    "checked_at": "2026-11-09T23:32:17.932653+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -64,11 +64,11 @@
     "slate": "2026-11-09",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 23:12:39 GMT",
-    "checked_at": "2026-11-09T23:13:12.569277+00:00"
+    "last_modified": "Mon, 09 Nov 2026 23:31:29 GMT",
+    "checked_at": "2026-11-09T23:32:18.266606+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "1fbe6282b69f5046c194244f7a7cb106f5764a4a583b06f4d1f7e82d6d9743a5",
+    "hash": "8208aeeb823a38c22bc26e0fd8f6c676be523cc616a605a2af63925bd1d8679e",
     "confirmed": [
       {
         "name": "First Basket: CLE@CHA",
@@ -88,21 +88,45 @@
         "market": "first basket",
         "kind": "fb2",
         "units": 1
+      },
+      {
+        "name": "First Basket: WAS@DET",
+        "legs": [
+          "Alex Sarr",
+          "Anthony Davis"
+        ],
+        "rr": false,
+        "info": {
+          "Anthony Davis": "Wizards vs Pistons \u00b7 Mon Nov 9 \u00b7 7:00 PM ET \u00b7 +550 \u00b7 0.5u",
+          "Alex Sarr": "Wizards vs Pistons \u00b7 Mon Nov 9 \u00b7 7:00 PM ET \u00b7 +700 \u00b7 0.5u"
+        },
+        "odds": {
+          "Anthony Davis": 550,
+          "Alex Sarr": 700
+        },
+        "market": "first basket",
+        "kind": "fb2",
+        "units": 1
       }
     ],
     "announced": {
       "First Basket: CLE@CHA": [
         "Evan Mobley",
         "Jarrett Allen"
+      ],
+      "First Basket: WAS@DET": [
+        "Alex Sarr",
+        "Anthony Davis"
       ]
     },
     "abets": [
+      "fb2|first basket|Alex Sarr,Anthony Davis",
       "fb2|first basket|Evan Mobley,Jarrett Allen"
     ],
     "slate": "2026-11-09",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 23:12:39 GMT",
-    "checked_at": "2026-11-09T23:13:14.832727+00:00"
+    "last_modified": "Mon, 09 Nov 2026 23:31:29 GMT",
+    "checked_at": "2026-11-09T23:32:20.067560+00:00"
   }
 }
