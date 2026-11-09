@@ -1575,6 +1575,34 @@
           "bkey": "ftd|first touchdown scorer|Christian McCaffrey",
           "result": null,
           "pl": null
+        },
+        "Bell Cow": {
+          "legs": [
+            "Bucky Irving"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Bucky Irving": 105
+          },
+          "bkey": "|anytime touchdown|Bucky Irving",
+          "result": null,
+          "pl": null
+        },
+        "First Read": {
+          "legs": [
+            "Kenny Gainwell"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Kenny Gainwell": 350
+          },
+          "bkey": "|anytime touchdown|Kenny Gainwell",
+          "result": null,
+          "pl": null
         }
       }
     },

@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 23:11:25 GMT",
-    "checked_at": "2026-11-08T23:13:18.649292+00:00"
+    "last_modified": "Mon, 09 Nov 2026 00:02:09 GMT",
+    "checked_at": "2026-11-09T00:05:14.126539+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "417a531650039bcda94ec15e10a867eff149a2c1917899c88efefec995735a6f",
@@ -144,11 +144,11 @@
       "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 23:11:25 GMT",
-    "checked_at": "2026-11-08T23:13:20.607660+00:00"
+    "last_modified": "Mon, 09 Nov 2026 00:02:09 GMT",
+    "checked_at": "2026-11-09T00:05:16.187373+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "4e56d8c74422a0d08d5fe6476c4e6a51acda13e0571b5f4163baf5408978af2c",
+    "hash": "ae1e21896052cd0e7a51bcb1b812fce0196181faaa364a0c7b9529f3dfb3fe49",
     "confirmed": [
       {
         "name": "Audible",
@@ -161,6 +161,32 @@
         },
         "odds": {
           "Kyren Williams": -155
+        }
+      },
+      {
+        "name": "Bell Cow",
+        "legs": [
+          "Bucky Irving"
+        ],
+        "rr": false,
+        "info": {
+          "Bucky Irving": "Buccaneers vs Bears \u00b7 Sun Nov 8 \u00b7 8:20 PM ET"
+        },
+        "odds": {
+          "Bucky Irving": 105
+        }
+      },
+      {
+        "name": "First Read",
+        "legs": [
+          "Kenny Gainwell"
+        ],
+        "rr": false,
+        "info": {
+          "Kenny Gainwell": "Buccaneers vs Bears \u00b7 Sun Nov 8 \u00b7 8:20 PM ET"
+        },
+        "odds": {
+          "Kenny Gainwell": 350
         }
       },
       {
@@ -345,14 +371,22 @@
       ],
       "Pop the Cork": [
         "Christian McCaffrey"
+      ],
+      "Bell Cow": [
+        "Bucky Irving"
+      ],
+      "First Read": [
+        "Kenny Gainwell"
       ]
     },
     "abets": [
       "ftd|first touchdown scorer|Christian McCaffrey",
       "|anytime touchdown|Amon-Ra St. Brown",
       "|anytime touchdown|Ashton Jeanty",
+      "|anytime touchdown|Bucky Irving",
       "|anytime touchdown|J.K. Dobbins",
       "|anytime touchdown|Jonathan Taylor",
+      "|anytime touchdown|Kenny Gainwell",
       "|anytime touchdown|Kevin Coleman Jr.",
       "|anytime touchdown|Kyle Pitts",
       "|anytime touchdown|Kyren Williams",
@@ -367,8 +401,8 @@
       "ftd:Christian McCaffrey"
     ],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 23:11:25 GMT",
-    "checked_at": "2026-11-08T23:13:21.352877+00:00"
+    "last_modified": "Mon, 09 Nov 2026 00:02:09 GMT",
+    "checked_at": "2026-11-09T00:05:18.929268+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "de5c18b9ccb7e3181cd84288e4dc31a453eedc5a580726426bdfa4eaf9eeeeab",
@@ -431,7 +465,7 @@
       "a:Austin Reaves"
     ],
     "ltd": null,
-    "last_modified": "Sun, 08 Nov 2026 23:11:25 GMT",
-    "checked_at": "2026-11-08T23:13:21.897343+00:00"
+    "last_modified": "Mon, 09 Nov 2026 00:02:09 GMT",
+    "checked_at": "2026-11-09T00:05:19.292987+00:00"
   }
 }
