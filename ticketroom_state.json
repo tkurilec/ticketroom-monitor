@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 04:42:00 GMT",
-    "checked_at": "2026-11-09T05:00:20.936270+00:00"
+    "last_modified": "Mon, 09 Nov 2026 06:17:43 GMT",
+    "checked_at": "2026-11-09T06:18:12.781923+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -53,81 +53,19 @@
       "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 04:42:00 GMT",
-    "checked_at": "2026-11-09T05:00:21.118683+00:00"
+    "last_modified": "Mon, 09 Nov 2026 06:17:43 GMT",
+    "checked_at": "2026-11-09T06:18:13.039783+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Inside the Ten": [
-        "Olamide Zaccheaus"
-      ],
-      "The Checkdown": [
-        "Kyle Pitts"
-      ],
-      "Hurry Up": [
-        "Mitchell Tinsley"
-      ],
-      "Red Zone Target": [
-        "J.K. Dobbins"
-      ],
-      "Short Yardage": [
-        "Tyler Warren"
-      ],
-      "The Sneak": [
-        "Kevin Coleman Jr."
-      ],
-      "The Workhorse": [
-        "Amon-Ra St. Brown"
-      ],
-      "Two Minute Drill": [
-        "Jonathan Taylor"
-      ],
-      "Audible": [
-        "Kyren Williams"
-      ],
-      "Move the Chains": [
-        "Xavier Hutchinson"
-      ],
-      "Goal Line Back": [
-        "Ashton Jeanty"
-      ],
-      "Pop the Cork": [
-        "Christian McCaffrey"
-      ],
-      "Bell Cow": [
-        "Bucky Irving"
-      ],
-      "First Read": [
-        "Kenny Gainwell"
-      ]
-    },
-    "abets": [
-      "ftd|first touchdown scorer|Christian McCaffrey",
-      "|anytime touchdown|Amon-Ra St. Brown",
-      "|anytime touchdown|Ashton Jeanty",
-      "|anytime touchdown|Bucky Irving",
-      "|anytime touchdown|J.K. Dobbins",
-      "|anytime touchdown|Jonathan Taylor",
-      "|anytime touchdown|Kenny Gainwell",
-      "|anytime touchdown|Kevin Coleman Jr.",
-      "|anytime touchdown|Kyle Pitts",
-      "|anytime touchdown|Kyren Williams",
-      "|anytime touchdown|Mitchell Tinsley",
-      "|anytime touchdown|Olamide Zaccheaus",
-      "|anytime touchdown|Tyler Warren",
-      "|anytime touchdown|Xavier Hutchinson"
-    ],
-    "slate": "2026-11-08",
-    "hits": [
-      "a:Bucky Irving",
-      "a:Xavier Hutchinson",
-      "ftd:Christian McCaffrey"
-    ],
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-09",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 04:42:00 GMT",
-    "checked_at": "2026-11-09T05:00:21.231956+00:00"
+    "last_modified": "Mon, 09 Nov 2026 06:17:43 GMT",
+    "checked_at": "2026-11-09T06:18:13.287810+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -166,7 +104,7 @@
       "a:Austin Reaves"
     ],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 04:42:00 GMT",
-    "checked_at": "2026-11-09T05:00:21.498695+00:00"
+    "last_modified": "Mon, 09 Nov 2026 06:17:43 GMT",
+    "checked_at": "2026-11-09T06:18:13.450824+00:00"
   }
 }

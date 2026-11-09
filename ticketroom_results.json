@@ -1419,8 +1419,9 @@
             "Olamide Zaccheaus": 600
           },
           "bkey": "|anytime touchdown|Olamide Zaccheaus",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "The Checkdown": {
           "legs": [
@@ -1433,8 +1434,9 @@
             "Kyle Pitts": 265
           },
           "bkey": "|anytime touchdown|Kyle Pitts",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Hurry Up": {
           "legs": [
@@ -1447,8 +1449,9 @@
             "Mitchell Tinsley": 1200
           },
           "bkey": "|anytime touchdown|Mitchell Tinsley",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Red Zone Target": {
           "legs": [
@@ -1461,8 +1464,9 @@
             "J.K. Dobbins": 265
           },
           "bkey": "|anytime touchdown|J.K. Dobbins",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Short Yardage": {
           "legs": [
@@ -1475,8 +1479,9 @@
             "Tyler Warren": 206
           },
           "bkey": "|anytime touchdown|Tyler Warren",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "The Sneak": {
           "legs": [
@@ -1489,8 +1494,9 @@
             "Kevin Coleman Jr.": 850
           },
           "bkey": "|anytime touchdown|Kevin Coleman Jr.",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "The Workhorse": {
           "legs": [
@@ -1503,8 +1509,9 @@
             "Amon-Ra St. Brown": -111
           },
           "bkey": "|anytime touchdown|Amon-Ra St. Brown",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Two Minute Drill": {
           "legs": [
@@ -1517,8 +1524,9 @@
             "Jonathan Taylor": -135
           },
           "bkey": "|anytime touchdown|Jonathan Taylor",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Audible": {
           "legs": [
@@ -1531,8 +1539,9 @@
             "Kyren Williams": -155
           },
           "bkey": "|anytime touchdown|Kyren Williams",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Move the Chains": {
           "legs": [
@@ -1545,8 +1554,9 @@
             "Xavier Hutchinson": 575
           },
           "bkey": "|anytime touchdown|Xavier Hutchinson",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 5.75,
+          "legs_hit": 1
         },
         "Goal Line Back": {
           "legs": [
@@ -1559,8 +1569,9 @@
             "Ashton Jeanty": 160
           },
           "bkey": "|anytime touchdown|Ashton Jeanty",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Pop the Cork": {
           "legs": [
@@ -1573,8 +1584,9 @@
             "Christian McCaffrey": 305
           },
           "bkey": "ftd|first touchdown scorer|Christian McCaffrey",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 3.05,
+          "legs_hit": 1
         },
         "Bell Cow": {
           "legs": [
@@ -1587,8 +1599,9 @@
             "Bucky Irving": 105
           },
           "bkey": "|anytime touchdown|Bucky Irving",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.0499999999999998,
+          "legs_hit": 1
         },
         "First Read": {
           "legs": [
@@ -1601,10 +1614,12 @@
             "Kenny Gainwell": 350
           },
           "bkey": "|anytime touchdown|Kenny Gainwell",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         }
-      }
+      },
+      "2026-11-09": {}
     },
     "NBA Board": {
       "2026-11-05": {
