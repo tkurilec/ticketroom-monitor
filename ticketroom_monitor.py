@@ -528,7 +528,9 @@ GAME_CONFIRM_BOARDS = {"NBA Board"}
 
 def extract_signature(html: str, early_min: int = 0,
                       game_confirm: bool = False,
-                      fb_read: bool = False) -> dict | None:
+                      fb_read: bool = False,
+                      fb_prev: dict | None = None,
+                      fb_prev_slate: str | None = None) -> dict | None:
     """Extract the slate signature from the page's embedded `const D={...}` data.
 
     Per the site owner, tickets are redrafted (price movements, live weather)
@@ -660,11 +662,29 @@ def extract_signature(html: str, early_min: int = 0,
             cands.sort(key=lambda p: -p["p_value"])
             if len(cands) < 2:
                 continue
+            legs = cands[:2]
+            tname = f"First Basket: {legs[0].get('gmatch') or g}"
+            # Once this slate's ledger row exists the card is out and bets
+            # are down, so the row's legs are pinned: a Chance jitter must
+            # not re-draw the ticket (Sarr 9.94% vs Dybantsa 9.98% flipped
+            # leg 2 post-announce and double-posted WAS@DET, 2026-11-09).
+            # A real scratch still re-draws — an out/void/unpriced pinned
+            # leg falls through to the fresh top two above.
+            if fb_prev and str(fb_prev_slate) == str(slate_date):
+                byname = {p["name"]: p for p in ps}
+                kept = [byname[n] for n in (fb_prev.get(tname) or [])
+                        if n in byname
+                        and not byname[n].get("out")
+                        and not byname[n].get("void")
+                        and isinstance(byname[n].get("odds"), (int, float))
+                        and byname[n]["odds"] >= 100]
+                if len(kept) == 2:
+                    legs = kept
             tickets_src.append({
-                "name": f"First Basket: {cands[0].get('gmatch') or g}",
+                "name": tname,
                 "kind": "fb2",
                 "units": 1,
-                "players": cands[:2],
+                "players": legs,
             })
 
     # Display context (date, teams, opponent, game time) — kept OUT of the
@@ -987,6 +1007,17 @@ def record_results(results: dict, board: str, slate: str, confirmed: list,
     for t in confirmed:
         nm = t.get("name")
         if not nm or nm in day:
+            if nm in day:
+                row = day[nm]
+                bk = bet_key(t, board_market)
+                if (row.get("result") is None and row.get("void")
+                        and row.get("bkey") != bk):
+                    # The announced bet lost a leg to a scratch (books
+                    # refund it) and the lane re-drew: the replacement is
+                    # the live bet now, so it takes over the row.
+                    row.update(legs=t["legs"], odds=t.get("odds") or {},
+                               bkey=bk, void=False)
+                    changed = True
             continue
         bk = bet_key(t, board_market)
         if bk in seen_bets:
@@ -1406,9 +1437,18 @@ def check_all() -> None:
             continue
 
         ltd_status = None
+        # The slate's ledger rows hold each fb2 ticket's FIRST-card legs;
+        # extract_signature pins to them so post-announce jitter can't
+        # re-draw a card people already bet.
+        prev_slate = (state.get(url) or {}).get("slate")
+        prev_rows = (((results.get("boards") or {}).get(name) or {})
+                     .get(prev_slate or "") or {})
         sig = extract_signature(html, EARLY_CONFIRM_MIN.get(name, 0),
                                 name in GAME_CONFIRM_BOARDS,
-                                fb_read=(name == "NBA Board"))
+                                fb_read=(name == "NBA Board"),
+                                fb_prev={nm: (r.get("legs") or [])
+                                         for nm, r in prev_rows.items()},
+                                fb_prev_slate=prev_slate)
         if sig is not None:
             # Hash covers only ticket construction (name + legs): hit flips
             # and the rr flag must never re-announce tickets.
