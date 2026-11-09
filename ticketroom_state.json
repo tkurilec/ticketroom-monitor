@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 00:37:04 GMT",
-    "checked_at": "2026-11-09T00:40:17.874283+00:00"
+    "last_modified": "Mon, 09 Nov 2026 01:37:11 GMT",
+    "checked_at": "2026-11-09T01:37:14.192762+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "417a531650039bcda94ec15e10a867eff149a2c1917899c88efefec995735a6f",
@@ -144,8 +144,8 @@
       "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 00:37:04 GMT",
-    "checked_at": "2026-11-09T00:40:22.744277+00:00"
+    "last_modified": "Mon, 09 Nov 2026 01:37:11 GMT",
+    "checked_at": "2026-11-09T01:37:17.027641+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "ae1e21896052cd0e7a51bcb1b812fce0196181faaa364a0c7b9529f3dfb3fe49",
@@ -401,11 +401,11 @@
       "ftd:Christian McCaffrey"
     ],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 00:37:04 GMT",
-    "checked_at": "2026-11-09T00:40:25.050406+00:00"
+    "last_modified": "Mon, 09 Nov 2026 01:37:11 GMT",
+    "checked_at": "2026-11-09T01:37:18.493412+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "4fac68987b20cd971a7018a86354766ff9b3147ba3e28f9069b893adc0c72f5f",
+    "hash": "16daac7815ed214bead37afee53a12cf09c519e3641d7348a142475fba67f75b",
     "confirmed": [
       {
         "name": "First Basket: BOS@MIL",
@@ -415,12 +415,12 @@
         ],
         "rr": false,
         "info": {
-          "Paul George": "Celtics vs Bucks \u00b7 Sun Nov 8 \u00b7 8:00 PM ET \u00b7 +490 \u00b7 0.5u",
-          "Jayson Tatum": "Celtics vs Bucks \u00b7 Sun Nov 8 \u00b7 8:00 PM ET \u00b7 +440 \u00b7 0.5u"
+          "Paul George": "Celtics vs Bucks \u00b7 Sun Nov 8 \u00b7 8:00 PM ET \u00b7 +480 \u00b7 0.5u",
+          "Jayson Tatum": "Celtics vs Bucks \u00b7 Sun Nov 8 \u00b7 8:00 PM ET \u00b7 +450 \u00b7 0.5u"
         },
         "odds": {
-          "Paul George": 490,
-          "Jayson Tatum": 440
+          "Paul George": 480,
+          "Jayson Tatum": 450
         },
         "market": "first basket",
         "kind": "fb2",
@@ -440,6 +440,44 @@
         "odds": {
           "Walker Kessler": 600,
           "Austin Reaves": 500
+        },
+        "market": "first basket",
+        "kind": "fb2",
+        "units": 1
+      },
+      {
+        "name": "First Basket: MIA@SAC",
+        "legs": [
+          "Bam Adebayo",
+          "Giannis Antetokounmpo"
+        ],
+        "rr": false,
+        "info": {
+          "Bam Adebayo": "Heat vs Kings \u00b7 Sun Nov 8 \u00b7 9:00 PM ET \u00b7 +500 \u00b7 0.5u",
+          "Giannis Antetokounmpo": "Heat vs Kings \u00b7 Sun Nov 8 \u00b7 9:00 PM ET \u00b7 +320 \u00b7 0.5u"
+        },
+        "odds": {
+          "Bam Adebayo": 500,
+          "Giannis Antetokounmpo": 320
+        },
+        "market": "first basket",
+        "kind": "fb2",
+        "units": 1
+      },
+      {
+        "name": "First Basket: NOP@LAC",
+        "legs": [
+          "Brook Lopez",
+          "Darius Garland"
+        ],
+        "rr": false,
+        "info": {
+          "Brook Lopez": "Clippers vs Pelicans \u00b7 Sun Nov 8 \u00b7 9:00 PM ET \u00b7 +650 \u00b7 0.5u",
+          "Darius Garland": "Clippers vs Pelicans \u00b7 Sun Nov 8 \u00b7 9:00 PM ET \u00b7 +600 \u00b7 0.5u"
+        },
+        "odds": {
+          "Brook Lopez": 650,
+          "Darius Garland": 600
         },
         "market": "first basket",
         "kind": "fb2",
@@ -477,10 +515,20 @@
       "First Basket: BOS@MIL": [
         "Jayson Tatum",
         "Paul George"
+      ],
+      "First Basket: MIA@SAC": [
+        "Bam Adebayo",
+        "Giannis Antetokounmpo"
+      ],
+      "First Basket: NOP@LAC": [
+        "Brook Lopez",
+        "Darius Garland"
       ]
     },
     "abets": [
       "fb2|first basket|Austin Reaves,Walker Kessler",
+      "fb2|first basket|Bam Adebayo,Giannis Antetokounmpo",
+      "fb2|first basket|Brook Lopez,Darius Garland",
       "fb2|first basket|Jaylen Brown,Joel Embiid",
       "fb2|first basket|Jayson Tatum,Paul George"
     ],
@@ -489,7 +537,7 @@
       "a:Austin Reaves"
     ],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 00:37:04 GMT",
-    "checked_at": "2026-11-09T00:40:27.110999+00:00"
+    "last_modified": "Mon, 09 Nov 2026 01:37:11 GMT",
+    "checked_at": "2026-11-09T01:37:20.653350+00:00"
   }
 }

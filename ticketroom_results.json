@@ -1848,6 +1848,38 @@
           "bkey": "fb2|first basket|Jayson Tatum,Paul George",
           "result": null,
           "pl": null
+        },
+        "First Basket: MIA@SAC": {
+          "legs": [
+            "Bam Adebayo",
+            "Giannis Antetokounmpo"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Bam Adebayo": 500,
+            "Giannis Antetokounmpo": 320
+          },
+          "bkey": "fb2|first basket|Bam Adebayo,Giannis Antetokounmpo",
+          "result": null,
+          "pl": null
+        },
+        "First Basket: NOP@LAC": {
+          "legs": [
+            "Brook Lopez",
+            "Darius Garland"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Brook Lopez": 650,
+            "Darius Garland": 600
+          },
+          "bkey": "fb2|first basket|Brook Lopez,Darius Garland",
+          "result": null,
+          "pl": null
         }
       }
     }
