@@ -1832,6 +1832,22 @@
           "bkey": "fb2|first basket|Austin Reaves,Walker Kessler",
           "result": null,
           "pl": null
+        },
+        "First Basket: BOS@MIL": {
+          "legs": [
+            "Jayson Tatum",
+            "Paul George"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Paul George": 490,
+            "Jayson Tatum": 440
+          },
+          "bkey": "fb2|first basket|Jayson Tatum,Paul George",
+          "result": null,
+          "pl": null
         }
       }
     }
