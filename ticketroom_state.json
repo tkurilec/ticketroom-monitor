@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 11:01:06 GMT",
-    "checked_at": "2026-11-09T11:01:22.167320+00:00"
+    "last_modified": "Mon, 09 Nov 2026 23:12:39 GMT",
+    "checked_at": "2026-11-09T23:13:12.033281+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -53,8 +53,8 @@
       "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 11:01:06 GMT",
-    "checked_at": "2026-11-09T11:01:22.290414+00:00"
+    "last_modified": "Mon, 09 Nov 2026 23:12:39 GMT",
+    "checked_at": "2026-11-09T23:13:12.316046+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -64,18 +64,45 @@
     "slate": "2026-11-09",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 11:01:06 GMT",
-    "checked_at": "2026-11-09T11:01:22.562353+00:00"
+    "last_modified": "Mon, 09 Nov 2026 23:12:39 GMT",
+    "checked_at": "2026-11-09T23:13:12.569277+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "1fbe6282b69f5046c194244f7a7cb106f5764a4a583b06f4d1f7e82d6d9743a5",
+    "confirmed": [
+      {
+        "name": "First Basket: CLE@CHA",
+        "legs": [
+          "Evan Mobley",
+          "Jarrett Allen"
+        ],
+        "rr": false,
+        "info": {
+          "Jarrett Allen": "Cavaliers vs Hornets \u00b7 Mon Nov 9 \u00b7 7:00 PM ET \u00b7 +550 \u00b7 0.5u",
+          "Evan Mobley": "Cavaliers vs Hornets \u00b7 Mon Nov 9 \u00b7 7:00 PM ET \u00b7 +500 \u00b7 0.5u"
+        },
+        "odds": {
+          "Jarrett Allen": 550,
+          "Evan Mobley": 500
+        },
+        "market": "first basket",
+        "kind": "fb2",
+        "units": 1
+      }
+    ],
+    "announced": {
+      "First Basket: CLE@CHA": [
+        "Evan Mobley",
+        "Jarrett Allen"
+      ]
+    },
+    "abets": [
+      "fb2|first basket|Evan Mobley,Jarrett Allen"
+    ],
     "slate": "2026-11-09",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 11:01:06 GMT",
-    "checked_at": "2026-11-09T11:01:22.640612+00:00"
+    "last_modified": "Mon, 09 Nov 2026 23:12:39 GMT",
+    "checked_at": "2026-11-09T23:13:14.832727+00:00"
   }
 }
