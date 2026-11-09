@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 01:37:11 GMT",
-    "checked_at": "2026-11-09T01:37:14.192762+00:00"
+    "last_modified": "Mon, 09 Nov 2026 03:11:34 GMT",
+    "checked_at": "2026-11-09T03:15:16.612733+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "417a531650039bcda94ec15e10a867eff149a2c1917899c88efefec995735a6f",
@@ -144,8 +144,8 @@
       "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 01:37:11 GMT",
-    "checked_at": "2026-11-09T01:37:17.027641+00:00"
+    "last_modified": "Mon, 09 Nov 2026 03:11:34 GMT",
+    "checked_at": "2026-11-09T03:15:21.634715+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "ae1e21896052cd0e7a51bcb1b812fce0196181faaa364a0c7b9529f3dfb3fe49",
@@ -397,12 +397,13 @@
     ],
     "slate": "2026-11-08",
     "hits": [
+      "a:Bucky Irving",
       "a:Xavier Hutchinson",
       "ftd:Christian McCaffrey"
     ],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 01:37:11 GMT",
-    "checked_at": "2026-11-09T01:37:18.493412+00:00"
+    "last_modified": "Mon, 09 Nov 2026 03:12:47 GMT",
+    "checked_at": "2026-11-09T03:15:24.102578+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "16daac7815ed214bead37afee53a12cf09c519e3641d7348a142475fba67f75b",
@@ -537,7 +538,7 @@
       "a:Austin Reaves"
     ],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 01:37:11 GMT",
-    "checked_at": "2026-11-09T01:37:20.653350+00:00"
+    "last_modified": "Mon, 09 Nov 2026 03:11:34 GMT",
+    "checked_at": "2026-11-09T03:15:25.389424+00:00"
   }
 }
