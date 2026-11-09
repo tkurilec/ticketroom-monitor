@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 23:31:29 GMT",
-    "checked_at": "2026-11-09T23:32:17.698057+00:00"
+    "last_modified": "Mon, 09 Nov 2026 23:36:56 GMT",
+    "checked_at": "2026-11-09T23:38:12.537572+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -53,8 +53,8 @@
       "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 23:31:29 GMT",
-    "checked_at": "2026-11-09T23:32:17.932653+00:00"
+    "last_modified": "Mon, 09 Nov 2026 23:37:43 GMT",
+    "checked_at": "2026-11-09T23:38:12.675613+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -64,11 +64,11 @@
     "slate": "2026-11-09",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 23:31:29 GMT",
-    "checked_at": "2026-11-09T23:32:18.266606+00:00"
+    "last_modified": "Mon, 09 Nov 2026 23:36:56 GMT",
+    "checked_at": "2026-11-09T23:38:12.930973+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "8208aeeb823a38c22bc26e0fd8f6c676be523cc616a605a2af63925bd1d8679e",
+    "hash": "d0bc0b63d211acc1bd3713b0bfadbd71f41e05734811a0f94835f166c00dede5",
     "confirmed": [
       {
         "name": "First Basket: CLE@CHA",
@@ -84,6 +84,25 @@
         "odds": {
           "Jarrett Allen": 550,
           "Evan Mobley": 500
+        },
+        "market": "first basket",
+        "kind": "fb2",
+        "units": 1
+      },
+      {
+        "name": "First Basket: LAL@ATL",
+        "legs": [
+          "Luka Doncic",
+          "Walker Kessler"
+        ],
+        "rr": false,
+        "info": {
+          "Luka Doncic": "Lakers vs Hawks \u00b7 Mon Nov 9 \u00b7 7:00 PM ET \u00b7 +360 \u00b7 0.5u",
+          "Walker Kessler": "Lakers vs Hawks \u00b7 Mon Nov 9 \u00b7 7:00 PM ET \u00b7 +600 \u00b7 0.5u"
+        },
+        "odds": {
+          "Luka Doncic": 360,
+          "Walker Kessler": 600
         },
         "market": "first basket",
         "kind": "fb2",
@@ -117,16 +136,21 @@
       "First Basket: WAS@DET": [
         "Alex Sarr",
         "Anthony Davis"
+      ],
+      "First Basket: LAL@ATL": [
+        "Luka Doncic",
+        "Walker Kessler"
       ]
     },
     "abets": [
       "fb2|first basket|Alex Sarr,Anthony Davis",
-      "fb2|first basket|Evan Mobley,Jarrett Allen"
+      "fb2|first basket|Evan Mobley,Jarrett Allen",
+      "fb2|first basket|Luka Doncic,Walker Kessler"
     ],
     "slate": "2026-11-09",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 23:31:29 GMT",
-    "checked_at": "2026-11-09T23:32:20.067560+00:00"
+    "last_modified": "Mon, 09 Nov 2026 23:37:31 GMT",
+    "checked_at": "2026-11-09T23:38:14.589049+00:00"
   }
 }

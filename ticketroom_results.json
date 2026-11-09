@@ -1939,6 +1939,22 @@
           "bkey": "fb2|first basket|Alex Sarr,Anthony Davis",
           "result": null,
           "pl": null
+        },
+        "First Basket: LAL@ATL": {
+          "legs": [
+            "Luka Doncic",
+            "Walker Kessler"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Luka Doncic": 360,
+            "Walker Kessler": 600
+          },
+          "bkey": "fb2|first basket|Luka Doncic,Walker Kessler",
+          "result": null,
+          "pl": null
         }
       }
     }
