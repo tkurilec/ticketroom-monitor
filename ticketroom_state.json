@@ -7,103 +7,12 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 03:11:34 GMT",
-    "checked_at": "2026-11-09T03:15:16.612733+00:00"
+    "last_modified": "Mon, 09 Nov 2026 04:42:00 GMT",
+    "checked_at": "2026-11-09T05:00:20.936270+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "417a531650039bcda94ec15e10a867eff149a2c1917899c88efefec995735a6f",
-    "confirmed": [
-      {
-        "name": "Back of the Net",
-        "legs": [
-          "Crystal Palace v Liverpool: Crystal Palace to score",
-          "Internazionale v Como: Both teams to score",
-          "Sunderland v Chelsea: Sunderland to score",
-          "TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
-        ],
-        "rr": false,
-        "market": "",
-        "kind": "totals",
-        "info": {
-          "Sunderland v Chelsea: Sunderland to score": "Sun Nov 8 \u00b7 9:00 AM ET",
-          "TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals": "Sun Nov 8 \u00b7 1:30 PM ET",
-          "Internazionale v Como: Both teams to score": "Sun Nov 8 \u00b7 12:00 PM ET",
-          "Crystal Palace v Liverpool: Crystal Palace to score": "Sun Nov 8 \u00b7 9:00 AM ET"
-        },
-        "odds": {
-          "Sunderland v Chelsea: Sunderland to score": -265,
-          "TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals": -235,
-          "Internazionale v Como: Both teams to score": -225,
-          "Crystal Palace v Liverpool: Crystal Palace to score": -235
-        }
-      },
-      {
-        "name": "First Time",
-        "legs": [
-          "Alexander Isak"
-        ],
-        "rr": false,
-        "info": {
-          "Alexander Isak": "Liverpool vs Crystal Palace \u00b7 Sun Nov 8 \u00b7 9:00 AM ET"
-        },
-        "odds": {
-          "Alexander Isak": 110
-        }
-      },
-      {
-        "name": "Go-To Man",
-        "legs": [
-          "Orri Oskarsson"
-        ],
-        "rr": false,
-        "info": {
-          "Orri Oskarsson": "Real Sociedad vs Rayo Vallecano \u00b7 Sun Nov 8 \u00b7 10:15 AM ET"
-        },
-        "odds": {
-          "Orri Oskarsson": 120
-        },
-        "units": 2
-      },
-      {
-        "name": "Near Post",
-        "legs": [
-          "Orri Oskarsson"
-        ],
-        "rr": false,
-        "info": {
-          "Orri Oskarsson": "Real Sociedad vs Rayo Vallecano \u00b7 Sun Nov 8 \u00b7 10:15 AM ET"
-        },
-        "odds": {
-          "Orri Oskarsson": 120
-        }
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Patrik Schick"
-        ],
-        "rr": false,
-        "info": {
-          "Patrik Schick": "Bayer Leverkusen vs FC Cologne \u00b7 Sun Nov 8 \u00b7 9:30 AM ET"
-        },
-        "odds": {
-          "Patrik Schick": -117
-        }
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Raphinha"
-        ],
-        "rr": false,
-        "info": {
-          "Raphinha": "Barcelona vs Atl\u00e9tico Madrid \u00b7 Sun Nov 8 \u00b7 3:00 PM ET"
-        },
-        "odds": {
-          "Raphinha": -105
-        }
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Back of the Net": [
         "Crystal Palace v Liverpool: Crystal Palace to score",
@@ -144,197 +53,12 @@
       "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 03:11:34 GMT",
-    "checked_at": "2026-11-09T03:15:21.634715+00:00"
+    "last_modified": "Mon, 09 Nov 2026 04:42:00 GMT",
+    "checked_at": "2026-11-09T05:00:21.118683+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "ae1e21896052cd0e7a51bcb1b812fce0196181faaa364a0c7b9529f3dfb3fe49",
-    "confirmed": [
-      {
-        "name": "Audible",
-        "legs": [
-          "Kyren Williams"
-        ],
-        "rr": false,
-        "info": {
-          "Kyren Williams": "Rams vs Commanders \u00b7 Sun Nov 8 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "Kyren Williams": -155
-        }
-      },
-      {
-        "name": "Bell Cow",
-        "legs": [
-          "Bucky Irving"
-        ],
-        "rr": false,
-        "info": {
-          "Bucky Irving": "Buccaneers vs Bears \u00b7 Sun Nov 8 \u00b7 8:20 PM ET"
-        },
-        "odds": {
-          "Bucky Irving": 105
-        }
-      },
-      {
-        "name": "First Read",
-        "legs": [
-          "Kenny Gainwell"
-        ],
-        "rr": false,
-        "info": {
-          "Kenny Gainwell": "Buccaneers vs Bears \u00b7 Sun Nov 8 \u00b7 8:20 PM ET"
-        },
-        "odds": {
-          "Kenny Gainwell": 350
-        }
-      },
-      {
-        "name": "Goal Line Back",
-        "legs": [
-          "Ashton Jeanty"
-        ],
-        "rr": false,
-        "info": {
-          "Ashton Jeanty": "Raiders vs 49ers \u00b7 Sun Nov 8 \u00b7 4:05 PM ET"
-        },
-        "odds": {
-          "Ashton Jeanty": 160
-        }
-      },
-      {
-        "name": "Hurry Up",
-        "legs": [
-          "Mitchell Tinsley"
-        ],
-        "rr": false,
-        "info": {
-          "Mitchell Tinsley": "Bengals vs Falcons \u00b7 Sun Nov 8 \u00b7 9:30 AM ET"
-        },
-        "odds": {
-          "Mitchell Tinsley": 1200
-        }
-      },
-      {
-        "name": "Inside the Ten",
-        "legs": [
-          "Olamide Zaccheaus"
-        ],
-        "rr": false,
-        "info": {
-          "Olamide Zaccheaus": "Falcons vs Bengals \u00b7 Sun Nov 8 \u00b7 9:30 AM ET"
-        },
-        "odds": {
-          "Olamide Zaccheaus": 600
-        }
-      },
-      {
-        "name": "Move the Chains",
-        "legs": [
-          "Xavier Hutchinson"
-        ],
-        "rr": false,
-        "info": {
-          "Xavier Hutchinson": "Texans vs Chargers \u00b7 Sun Nov 8 \u00b7 4:05 PM ET"
-        },
-        "odds": {
-          "Xavier Hutchinson": 575
-        }
-      },
-      {
-        "name": "Pop the Cork",
-        "legs": [
-          "Christian McCaffrey"
-        ],
-        "rr": false,
-        "info": {
-          "Christian McCaffrey": "49ers vs Raiders \u00b7 Sun Nov 8 \u00b7 4:05 PM ET"
-        },
-        "odds": {
-          "Christian McCaffrey": 305
-        },
-        "market": "first touchdown scorer",
-        "kind": "ftd"
-      },
-      {
-        "name": "Red Zone Target",
-        "legs": [
-          "J.K. Dobbins"
-        ],
-        "rr": false,
-        "info": {
-          "J.K. Dobbins": "Broncos vs Panthers \u00b7 Sun Nov 8 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "J.K. Dobbins": 265
-        }
-      },
-      {
-        "name": "Short Yardage",
-        "legs": [
-          "Tyler Warren"
-        ],
-        "rr": false,
-        "info": {
-          "Tyler Warren": "Colts vs Cowboys \u00b7 Sun Nov 8 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "Tyler Warren": 206
-        }
-      },
-      {
-        "name": "The Checkdown",
-        "legs": [
-          "Kyle Pitts"
-        ],
-        "rr": false,
-        "info": {
-          "Kyle Pitts": "Falcons vs Bengals \u00b7 Sun Nov 8 \u00b7 9:30 AM ET"
-        },
-        "odds": {
-          "Kyle Pitts": 265
-        }
-      },
-      {
-        "name": "The Sneak",
-        "legs": [
-          "Kevin Coleman Jr."
-        ],
-        "rr": false,
-        "info": {
-          "Kevin Coleman Jr.": "Dolphins vs Lions \u00b7 Sun Nov 8 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "Kevin Coleman Jr.": 850
-        }
-      },
-      {
-        "name": "The Workhorse",
-        "legs": [
-          "Amon-Ra St. Brown"
-        ],
-        "rr": false,
-        "info": {
-          "Amon-Ra St. Brown": "Lions vs Dolphins \u00b7 Sun Nov 8 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "Amon-Ra St. Brown": -111
-        }
-      },
-      {
-        "name": "Two Minute Drill",
-        "legs": [
-          "Jonathan Taylor"
-        ],
-        "rr": false,
-        "info": {
-          "Jonathan Taylor": "Colts vs Cowboys \u00b7 Sun Nov 8 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "Jonathan Taylor": -135
-        }
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Inside the Ten": [
         "Olamide Zaccheaus"
@@ -402,108 +126,12 @@
       "ftd:Christian McCaffrey"
     ],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 03:12:47 GMT",
-    "checked_at": "2026-11-09T03:15:24.102578+00:00"
+    "last_modified": "Mon, 09 Nov 2026 04:42:00 GMT",
+    "checked_at": "2026-11-09T05:00:21.231956+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "16daac7815ed214bead37afee53a12cf09c519e3641d7348a142475fba67f75b",
-    "confirmed": [
-      {
-        "name": "First Basket: BOS@MIL",
-        "legs": [
-          "Jayson Tatum",
-          "Paul George"
-        ],
-        "rr": false,
-        "info": {
-          "Paul George": "Celtics vs Bucks \u00b7 Sun Nov 8 \u00b7 8:00 PM ET \u00b7 +480 \u00b7 0.5u",
-          "Jayson Tatum": "Celtics vs Bucks \u00b7 Sun Nov 8 \u00b7 8:00 PM ET \u00b7 +450 \u00b7 0.5u"
-        },
-        "odds": {
-          "Paul George": 480,
-          "Jayson Tatum": 450
-        },
-        "market": "first basket",
-        "kind": "fb2",
-        "units": 1
-      },
-      {
-        "name": "First Basket: LAL@DET",
-        "legs": [
-          "Austin Reaves",
-          "Walker Kessler"
-        ],
-        "rr": false,
-        "info": {
-          "Walker Kessler": "Lakers vs Pistons \u00b7 Sun Nov 8 \u00b7 6:00 PM ET \u00b7 +600 \u00b7 0.5u",
-          "Austin Reaves": "Lakers vs Pistons \u00b7 Sun Nov 8 \u00b7 6:00 PM ET \u00b7 +500 \u00b7 0.5u"
-        },
-        "odds": {
-          "Walker Kessler": 600,
-          "Austin Reaves": 500
-        },
-        "market": "first basket",
-        "kind": "fb2",
-        "units": 1
-      },
-      {
-        "name": "First Basket: MIA@SAC",
-        "legs": [
-          "Bam Adebayo",
-          "Giannis Antetokounmpo"
-        ],
-        "rr": false,
-        "info": {
-          "Bam Adebayo": "Heat vs Kings \u00b7 Sun Nov 8 \u00b7 9:00 PM ET \u00b7 +500 \u00b7 0.5u",
-          "Giannis Antetokounmpo": "Heat vs Kings \u00b7 Sun Nov 8 \u00b7 9:00 PM ET \u00b7 +320 \u00b7 0.5u"
-        },
-        "odds": {
-          "Bam Adebayo": 500,
-          "Giannis Antetokounmpo": 320
-        },
-        "market": "first basket",
-        "kind": "fb2",
-        "units": 1
-      },
-      {
-        "name": "First Basket: NOP@LAC",
-        "legs": [
-          "Brook Lopez",
-          "Darius Garland"
-        ],
-        "rr": false,
-        "info": {
-          "Brook Lopez": "Clippers vs Pelicans \u00b7 Sun Nov 8 \u00b7 9:00 PM ET \u00b7 +650 \u00b7 0.5u",
-          "Darius Garland": "Clippers vs Pelicans \u00b7 Sun Nov 8 \u00b7 9:00 PM ET \u00b7 +600 \u00b7 0.5u"
-        },
-        "odds": {
-          "Brook Lopez": 650,
-          "Darius Garland": 600
-        },
-        "market": "first basket",
-        "kind": "fb2",
-        "units": 1
-      },
-      {
-        "name": "First Basket: PHI@CHI",
-        "legs": [
-          "Jaylen Brown",
-          "Joel Embiid"
-        ],
-        "rr": false,
-        "info": {
-          "Joel Embiid": "76ers vs Bulls \u00b7 Sun Nov 8 \u00b7 3:30 PM ET \u00b7 +480 \u00b7 0.5u",
-          "Jaylen Brown": "76ers vs Bulls \u00b7 Sun Nov 8 \u00b7 3:30 PM ET \u00b7 +500 \u00b7 0.5u"
-        },
-        "odds": {
-          "Joel Embiid": 480,
-          "Jaylen Brown": 500
-        },
-        "market": "first basket",
-        "kind": "fb2",
-        "units": 1
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "First Basket: PHI@CHI": [
         "Jaylen Brown",
@@ -538,7 +166,7 @@
       "a:Austin Reaves"
     ],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 03:11:34 GMT",
-    "checked_at": "2026-11-09T03:15:25.389424+00:00"
+    "last_modified": "Mon, 09 Nov 2026 04:42:00 GMT",
+    "checked_at": "2026-11-09T05:00:21.498695+00:00"
   }
 }
