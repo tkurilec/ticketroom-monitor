@@ -773,8 +773,9 @@
             "Crystal Palace v Liverpool: Crystal Palace to score": -235
           },
           "bkey": "totals||Crystal Palace v Liverpool: Crystal Palace to score,Internazionale v Como: Both teams to score,Sunderland v Chelsea: Sunderland to score,TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 3
         },
         "First Time": {
           "legs": [
@@ -787,8 +788,9 @@
             "Alexander Isak": 110
           },
           "bkey": "|anytime goalscorer|Alexander Isak",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.1,
+          "legs_hit": 1
         },
         "Target Man": {
           "legs": [
@@ -801,8 +803,9 @@
             "Patrik Schick": -117
           },
           "bkey": "|anytime goalscorer|Patrik Schick",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.8547008547008548,
+          "legs_hit": 1
         },
         "Go-To Man": {
           "legs": [
@@ -815,8 +818,9 @@
             "Orri Oskarsson": 120
           },
           "bkey": "|anytime goalscorer|Orri Oskarsson",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 2.4000000000000004,
+          "legs_hit": 1
         },
         "The Poacher": {
           "legs": [
@@ -829,8 +833,9 @@
             "Raphinha": -105
           },
           "bkey": "|anytime goalscorer|Raphinha",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         }
       }
     },
@@ -1905,7 +1910,7 @@
       "2026-11-09": {}
     }
   },
-  "recap_sent": "2026-11-08",
+  "recap_sent": "2026-11-09",
   "daily": {
     "Soccer Board": {
       "2026-11-02": {
@@ -1956,6 +1961,13 @@
         "v": 0,
         "pl": -3.56,
         "unk": 0
+      },
+      "2026-11-08": {
+        "w": 3,
+        "l": 2,
+        "v": 0,
+        "pl": 2.35,
+        "unk": 0
       }
     },
     "NFL Board": {
@@ -1978,6 +1990,13 @@
         "l": 7,
         "v": 0,
         "pl": -7.0,
+        "unk": 0
+      },
+      "2026-11-08": {
+        "w": 3,
+        "l": 11,
+        "v": 0,
+        "pl": -1.15,
         "unk": 0
       }
     },
@@ -2106,6 +2125,13 @@
         "l": 2,
         "v": 0,
         "pl": -1.1,
+        "unk": 0
+      },
+      "2026-11-08": {
+        "w": 1,
+        "l": 4,
+        "v": 0,
+        "pl": -2.0,
         "unk": 0
       }
     }
