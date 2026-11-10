@@ -2084,6 +2084,22 @@
           "bkey": "fb2|first basket|De'Aaron Fox,Victor Wembanyama",
           "result": null,
           "pl": null
+        },
+        "First Basket: DEN@HOU": {
+          "legs": [
+            "Jamal Murray",
+            "Nikola Jokic"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Nikola Jokic": 500,
+            "Jamal Murray": 440
+          },
+          "bkey": "fb2|first basket|Jamal Murray,Nikola Jokic",
+          "result": null,
+          "pl": null
         }
       }
     }
