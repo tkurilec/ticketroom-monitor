@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 10 Nov 2026 03:57:16 GMT",
-    "checked_at": "2026-11-10T04:05:13.407351+00:00"
+    "last_modified": "Tue, 10 Nov 2026 04:22:18 GMT",
+    "checked_at": "2026-11-10T04:29:12.580204+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -53,8 +53,8 @@
       "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Tue, 10 Nov 2026 03:57:23 GMT",
-    "checked_at": "2026-11-10T04:05:13.810990+00:00"
+    "last_modified": "Tue, 10 Nov 2026 04:21:52 GMT",
+    "checked_at": "2026-11-10T04:29:12.862770+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "8d621604cd5c971f35d7ccb68470d4f42fe78a76ede70918a4f32c927aa8e5ea",
@@ -212,10 +212,10 @@
     "ltd": {
       "holding": [],
       "best": 25,
-      "settled": false
+      "settled": true
     },
-    "last_modified": "Tue, 10 Nov 2026 03:57:00 GMT",
-    "checked_at": "2026-11-10T04:05:15.178204+00:00"
+    "last_modified": "Tue, 10 Nov 2026 04:21:52 GMT",
+    "checked_at": "2026-11-10T04:29:13.758187+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "4f64143645334c639d546cae8a67efa25b265d4e85803c1d6048d70c6d822b34",
@@ -353,7 +353,7 @@
       "a:Jarrett Allen"
     ],
     "ltd": null,
-    "last_modified": "Tue, 10 Nov 2026 03:57:01 GMT",
-    "checked_at": "2026-11-10T04:05:16.594839+00:00"
+    "last_modified": "Tue, 10 Nov 2026 04:21:52 GMT",
+    "checked_at": "2026-11-10T04:29:14.917592+00:00"
   }
 }
