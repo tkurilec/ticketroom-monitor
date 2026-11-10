@@ -1624,7 +1624,120 @@
           "legs_hit": 0
         }
       },
-      "2026-11-09": {}
+      "2026-11-09": {
+        "Bell Cow": {
+          "legs": [
+            "Aaron Jones"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Aaron Jones": 267
+          },
+          "bkey": "|anytime touchdown|Aaron Jones",
+          "result": null,
+          "pl": null
+        },
+        "Goal Line Back": {
+          "legs": [
+            "Greg Dortch"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Greg Dortch": 3000
+          },
+          "bkey": "|anytime touchdown|Greg Dortch",
+          "result": null,
+          "pl": null
+        },
+        "King of the End Zone: Khalil Shakir": {
+          "legs": [
+            "Khalil Shakir"
+          ],
+          "kind": "longtd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Khalil Shakir": 310
+          },
+          "bkey": "longtd|longest touchdown scorer|Khalil Shakir",
+          "result": null,
+          "pl": null
+        },
+        "Opening Statement": {
+          "legs": [
+            "Aaron Jones"
+          ],
+          "kind": "ftd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Aaron Jones": 1300
+          },
+          "bkey": "ftd|first touchdown scorer|Aaron Jones",
+          "result": null,
+          "pl": null
+        },
+        "Red Zone Target": {
+          "legs": [
+            "Gavin Bartholomew"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Gavin Bartholomew": 1550
+          },
+          "bkey": "|anytime touchdown|Gavin Bartholomew",
+          "result": null,
+          "pl": null
+        },
+        "Short Yardage": {
+          "legs": [
+            "Keleki Latu"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Keleki Latu": 2663
+          },
+          "bkey": "|anytime touchdown|Keleki Latu",
+          "result": null,
+          "pl": null
+        },
+        "The Checkdown": {
+          "legs": [
+            "Keon Coleman"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Keon Coleman": 425
+          },
+          "bkey": "|anytime touchdown|Keon Coleman",
+          "result": null,
+          "pl": null
+        },
+        "The Workhorse": {
+          "legs": [
+            "James Cook"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "James Cook": -113
+          },
+          "bkey": "|anytime touchdown|James Cook",
+          "result": null,
+          "pl": null
+        }
+      }
     },
     "NBA Board": {
       "2026-11-05": {

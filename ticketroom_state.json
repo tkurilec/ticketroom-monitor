@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 23:46:32 GMT",
-    "checked_at": "2026-11-09T23:47:14.150534+00:00"
+    "last_modified": "Mon, 09 Nov 2026 23:56:52 GMT",
+    "checked_at": "2026-11-10T00:00:23.128288+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -53,19 +53,162 @@
       "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 23:46:34 GMT",
-    "checked_at": "2026-11-09T23:47:14.377822+00:00"
+    "last_modified": "Mon, 09 Nov 2026 23:57:46 GMT",
+    "checked_at": "2026-11-10T00:00:23.467723+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "8d621604cd5c971f35d7ccb68470d4f42fe78a76ede70918a4f32c927aa8e5ea",
+    "confirmed": [
+      {
+        "name": "Bell Cow",
+        "legs": [
+          "Aaron Jones"
+        ],
+        "rr": false,
+        "info": {
+          "Aaron Jones": "Vikings vs Bills \u00b7 Mon Nov 9 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Aaron Jones": 267
+        }
+      },
+      {
+        "name": "Goal Line Back",
+        "legs": [
+          "Greg Dortch"
+        ],
+        "rr": false,
+        "info": {
+          "Greg Dortch": "Bills vs Vikings \u00b7 Mon Nov 9 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Greg Dortch": 3000
+        }
+      },
+      {
+        "name": "King of the End Zone: Khalil Shakir",
+        "legs": [
+          "Khalil Shakir"
+        ],
+        "rr": false,
+        "market": "longest touchdown scorer",
+        "kind": "longtd",
+        "info": {
+          "Khalil Shakir": "Bills vs Vikings \u00b7 Mon Nov 9 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Khalil Shakir": 310
+        }
+      },
+      {
+        "name": "Opening Statement",
+        "legs": [
+          "Aaron Jones"
+        ],
+        "rr": false,
+        "info": {
+          "Aaron Jones": "Vikings vs Bills \u00b7 Mon Nov 9 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Aaron Jones": 1300
+        },
+        "market": "first touchdown scorer",
+        "kind": "ftd"
+      },
+      {
+        "name": "Red Zone Target",
+        "legs": [
+          "Gavin Bartholomew"
+        ],
+        "rr": false,
+        "info": {
+          "Gavin Bartholomew": "Vikings vs Bills \u00b7 Mon Nov 9 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Gavin Bartholomew": 1550
+        }
+      },
+      {
+        "name": "Short Yardage",
+        "legs": [
+          "Keleki Latu"
+        ],
+        "rr": false,
+        "info": {
+          "Keleki Latu": "Bills vs Vikings \u00b7 Mon Nov 9 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Keleki Latu": 2663
+        }
+      },
+      {
+        "name": "The Checkdown",
+        "legs": [
+          "Keon Coleman"
+        ],
+        "rr": false,
+        "info": {
+          "Keon Coleman": "Bills vs Vikings \u00b7 Mon Nov 9 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Keon Coleman": 425
+        }
+      },
+      {
+        "name": "The Workhorse",
+        "legs": [
+          "James Cook"
+        ],
+        "rr": false,
+        "info": {
+          "James Cook": "Bills vs Vikings \u00b7 Mon Nov 9 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "James Cook": -113
+        }
+      }
+    ],
+    "announced": {
+      "Bell Cow": [
+        "Aaron Jones"
+      ],
+      "Goal Line Back": [
+        "Greg Dortch"
+      ],
+      "King of the End Zone: Khalil Shakir": [
+        "Khalil Shakir"
+      ],
+      "Opening Statement": [
+        "Aaron Jones"
+      ],
+      "Red Zone Target": [
+        "Gavin Bartholomew"
+      ],
+      "Short Yardage": [
+        "Keleki Latu"
+      ],
+      "The Checkdown": [
+        "Keon Coleman"
+      ],
+      "The Workhorse": [
+        "James Cook"
+      ]
+    },
+    "abets": [
+      "ftd|first touchdown scorer|Aaron Jones",
+      "longtd|longest touchdown scorer|Khalil Shakir",
+      "|anytime touchdown|Aaron Jones",
+      "|anytime touchdown|Gavin Bartholomew",
+      "|anytime touchdown|Greg Dortch",
+      "|anytime touchdown|James Cook",
+      "|anytime touchdown|Keleki Latu",
+      "|anytime touchdown|Keon Coleman"
+    ],
     "slate": "2026-11-09",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 23:46:32 GMT",
-    "checked_at": "2026-11-09T23:47:14.618814+00:00"
+    "last_modified": "Mon, 09 Nov 2026 23:56:52 GMT",
+    "checked_at": "2026-11-10T00:00:27.080338+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "d0bc0b63d211acc1bd3713b0bfadbd71f41e05734811a0f94835f166c00dede5",
@@ -78,12 +221,12 @@
         ],
         "rr": false,
         "info": {
-          "Jarrett Allen": "Cavaliers vs Hornets \u00b7 Mon Nov 9 \u00b7 7:00 PM ET \u00b7 +550 \u00b7 0.5u",
-          "Evan Mobley": "Cavaliers vs Hornets \u00b7 Mon Nov 9 \u00b7 7:00 PM ET \u00b7 +500 \u00b7 0.5u"
+          "Evan Mobley": "Cavaliers vs Hornets \u00b7 Mon Nov 9 \u00b7 7:00 PM ET \u00b7 +500 \u00b7 0.5u",
+          "Jarrett Allen": "Cavaliers vs Hornets \u00b7 Mon Nov 9 \u00b7 7:00 PM ET \u00b7 +550 \u00b7 0.5u"
         },
         "odds": {
-          "Jarrett Allen": 550,
-          "Evan Mobley": 500
+          "Evan Mobley": 500,
+          "Jarrett Allen": 550
         },
         "market": "first basket",
         "kind": "fb2",
@@ -116,12 +259,12 @@
         ],
         "rr": false,
         "info": {
-          "Anthony Davis": "Wizards vs Pistons \u00b7 Mon Nov 9 \u00b7 7:00 PM ET \u00b7 +600 \u00b7 0.5u",
-          "Alex Sarr": "Wizards vs Pistons \u00b7 Mon Nov 9 \u00b7 7:00 PM ET \u00b7 +750 \u00b7 0.5u"
+          "Alex Sarr": "Wizards vs Pistons \u00b7 Mon Nov 9 \u00b7 7:00 PM ET \u00b7 +700 \u00b7 0.5u",
+          "Anthony Davis": "Wizards vs Pistons \u00b7 Mon Nov 9 \u00b7 7:00 PM ET \u00b7 +550 \u00b7 0.5u"
         },
         "odds": {
-          "Anthony Davis": 600,
-          "Alex Sarr": 750
+          "Alex Sarr": 700,
+          "Anthony Davis": 550
         },
         "market": "first basket",
         "kind": "fb2",
@@ -151,7 +294,7 @@
     "slate": "2026-11-09",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 09 Nov 2026 23:46:34 GMT",
-    "checked_at": "2026-11-09T23:47:15.063290+00:00"
+    "last_modified": "Mon, 09 Nov 2026 23:56:52 GMT",
+    "checked_at": "2026-11-10T00:00:27.487823+00:00"
   }
 }
