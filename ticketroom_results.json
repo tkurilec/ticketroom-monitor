@@ -2068,6 +2068,22 @@
           "bkey": "fb2|first basket|Luka Doncic,Walker Kessler",
           "result": null,
           "pl": null
+        },
+        "First Basket: SAS@PHX": {
+          "legs": [
+            "De'Aaron Fox",
+            "Victor Wembanyama"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Victor Wembanyama": 290,
+            "De'Aaron Fox": 650
+          },
+          "bkey": "fb2|first basket|De'Aaron Fox,Victor Wembanyama",
+          "result": null,
+          "pl": null
         }
       }
     }
