@@ -1636,8 +1636,9 @@
             "Aaron Jones": 267
           },
           "bkey": "|anytime touchdown|Aaron Jones",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Goal Line Back": {
           "legs": [
@@ -1650,8 +1651,9 @@
             "Greg Dortch": 3000
           },
           "bkey": "|anytime touchdown|Greg Dortch",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "King of the End Zone: Khalil Shakir": {
           "legs": [
@@ -1664,8 +1666,8 @@
             "Khalil Shakir": 310
           },
           "bkey": "longtd|longest touchdown scorer|Khalil Shakir",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0
         },
         "Opening Statement": {
           "legs": [
@@ -1678,8 +1680,9 @@
             "Aaron Jones": 1300
           },
           "bkey": "ftd|first touchdown scorer|Aaron Jones",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Red Zone Target": {
           "legs": [
@@ -1692,8 +1695,9 @@
             "Gavin Bartholomew": 1550
           },
           "bkey": "|anytime touchdown|Gavin Bartholomew",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Short Yardage": {
           "legs": [
@@ -1706,8 +1710,9 @@
             "Keleki Latu": 2663
           },
           "bkey": "|anytime touchdown|Keleki Latu",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 26.63,
+          "legs_hit": 1
         },
         "The Checkdown": {
           "legs": [
@@ -1720,8 +1725,9 @@
             "Keon Coleman": 425
           },
           "bkey": "|anytime touchdown|Keon Coleman",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "The Workhorse": {
           "legs": [
@@ -1734,8 +1740,9 @@
             "James Cook": -113
           },
           "bkey": "|anytime touchdown|James Cook",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.8849557522123894,
+          "legs_hit": 1
         }
       }
     },
@@ -2110,7 +2117,7 @@
       "2026-11-10": {}
     }
   },
-  "recap_sent": "2026-11-09",
+  "recap_sent": "2026-11-10",
   "daily": {
     "Soccer Board": {
       "2026-11-02": {
@@ -2197,6 +2204,13 @@
         "l": 11,
         "v": 0,
         "pl": -1.15,
+        "unk": 0
+      },
+      "2026-11-09": {
+        "w": 2,
+        "l": 6,
+        "v": 0,
+        "pl": 21.51,
         "unk": 0
       }
     },
@@ -2332,6 +2346,13 @@
         "l": 4,
         "v": 0,
         "pl": -2.0,
+        "unk": 0
+      },
+      "2026-11-09": {
+        "w": 3,
+        "l": 2,
+        "v": 0,
+        "pl": 4.7,
         "unk": 0
       }
     }
