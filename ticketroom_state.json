@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 10 Nov 2026 01:42:08 GMT",
-    "checked_at": "2026-11-10T01:42:13.885806+00:00"
+    "last_modified": "Tue, 10 Nov 2026 02:04:02 GMT",
+    "checked_at": "2026-11-10T02:12:13.242820+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -53,8 +53,8 @@
       "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Tue, 10 Nov 2026 01:42:08 GMT",
-    "checked_at": "2026-11-10T01:42:14.103352+00:00"
+    "last_modified": "Tue, 10 Nov 2026 02:03:45 GMT",
+    "checked_at": "2026-11-10T02:12:13.511467+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "8d621604cd5c971f35d7ccb68470d4f42fe78a76ede70918a4f32c927aa8e5ea",
@@ -211,8 +211,8 @@
       "best": 0,
       "settled": false
     },
-    "last_modified": "Tue, 10 Nov 2026 01:42:08 GMT",
-    "checked_at": "2026-11-10T01:42:14.957278+00:00"
+    "last_modified": "Tue, 10 Nov 2026 02:03:45 GMT",
+    "checked_at": "2026-11-10T02:12:13.825883+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "4f64143645334c639d546cae8a67efa25b265d4e85803c1d6048d70c6d822b34",
@@ -282,12 +282,12 @@
         ],
         "rr": false,
         "info": {
-          "De'Aaron Fox": "Spurs vs Suns \u00b7 Mon Nov 9 \u00b7 9:00 PM ET \u00b7 +700 \u00b7 0.5u",
-          "Victor Wembanyama": "Spurs vs Suns \u00b7 Mon Nov 9 \u00b7 9:00 PM ET \u00b7 +280 \u00b7 0.5u"
+          "De'Aaron Fox": "Spurs vs Suns \u00b7 Mon Nov 9 \u00b7 9:00 PM ET \u00b7 +650 \u00b7 0.5u",
+          "Victor Wembanyama": "Spurs vs Suns \u00b7 Mon Nov 9 \u00b7 9:00 PM ET \u00b7 +290 \u00b7 0.5u"
         },
         "odds": {
-          "De'Aaron Fox": 700,
-          "Victor Wembanyama": 280
+          "De'Aaron Fox": 650,
+          "Victor Wembanyama": 290
         },
         "market": "first basket",
         "kind": "fb2",
@@ -345,11 +345,12 @@
     ],
     "slate": "2026-11-09",
     "hits": [
+      "a:De'Aaron Fox",
       "a:Jamal Murray",
       "a:Jarrett Allen"
     ],
     "ltd": null,
-    "last_modified": "Tue, 10 Nov 2026 01:42:08 GMT",
-    "checked_at": "2026-11-10T01:42:16.487587+00:00"
+    "last_modified": "Tue, 10 Nov 2026 02:03:45 GMT",
+    "checked_at": "2026-11-10T02:12:14.781613+00:00"
   }
 }
