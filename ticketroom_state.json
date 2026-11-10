@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 10 Nov 2026 04:22:18 GMT",
-    "checked_at": "2026-11-10T04:29:12.580204+00:00"
+    "last_modified": "Tue, 10 Nov 2026 04:36:39 GMT",
+    "checked_at": "2026-11-10T05:00:21.042351+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -53,121 +53,12 @@
       "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Tue, 10 Nov 2026 04:21:52 GMT",
-    "checked_at": "2026-11-10T04:29:12.862770+00:00"
+    "last_modified": "Tue, 10 Nov 2026 04:36:39 GMT",
+    "checked_at": "2026-11-10T05:00:21.490825+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "8d621604cd5c971f35d7ccb68470d4f42fe78a76ede70918a4f32c927aa8e5ea",
-    "confirmed": [
-      {
-        "name": "Bell Cow",
-        "legs": [
-          "Aaron Jones"
-        ],
-        "rr": false,
-        "info": {
-          "Aaron Jones": "Vikings vs Bills \u00b7 Mon Nov 9 \u00b7 8:15 PM ET"
-        },
-        "odds": {
-          "Aaron Jones": 267
-        }
-      },
-      {
-        "name": "Goal Line Back",
-        "legs": [
-          "Greg Dortch"
-        ],
-        "rr": false,
-        "info": {
-          "Greg Dortch": "Bills vs Vikings \u00b7 Mon Nov 9 \u00b7 8:15 PM ET"
-        },
-        "odds": {
-          "Greg Dortch": 3000
-        }
-      },
-      {
-        "name": "King of the End Zone: Khalil Shakir",
-        "legs": [
-          "Khalil Shakir"
-        ],
-        "rr": false,
-        "market": "longest touchdown scorer",
-        "kind": "longtd",
-        "info": {
-          "Khalil Shakir": "Bills vs Vikings \u00b7 Mon Nov 9 \u00b7 8:15 PM ET"
-        },
-        "odds": {
-          "Khalil Shakir": 310
-        }
-      },
-      {
-        "name": "Opening Statement",
-        "legs": [
-          "Aaron Jones"
-        ],
-        "rr": false,
-        "info": {
-          "Aaron Jones": "Vikings vs Bills \u00b7 Mon Nov 9 \u00b7 8:15 PM ET"
-        },
-        "odds": {
-          "Aaron Jones": 1300
-        },
-        "market": "first touchdown scorer",
-        "kind": "ftd"
-      },
-      {
-        "name": "Red Zone Target",
-        "legs": [
-          "Gavin Bartholomew"
-        ],
-        "rr": false,
-        "info": {
-          "Gavin Bartholomew": "Vikings vs Bills \u00b7 Mon Nov 9 \u00b7 8:15 PM ET"
-        },
-        "odds": {
-          "Gavin Bartholomew": 1550
-        }
-      },
-      {
-        "name": "Short Yardage",
-        "legs": [
-          "Keleki Latu"
-        ],
-        "rr": false,
-        "info": {
-          "Keleki Latu": "Bills vs Vikings \u00b7 Mon Nov 9 \u00b7 8:15 PM ET"
-        },
-        "odds": {
-          "Keleki Latu": 2663
-        }
-      },
-      {
-        "name": "The Checkdown",
-        "legs": [
-          "Keon Coleman"
-        ],
-        "rr": false,
-        "info": {
-          "Keon Coleman": "Bills vs Vikings \u00b7 Mon Nov 9 \u00b7 8:15 PM ET"
-        },
-        "odds": {
-          "Keon Coleman": 425
-        }
-      },
-      {
-        "name": "The Workhorse",
-        "legs": [
-          "James Cook"
-        ],
-        "rr": false,
-        "info": {
-          "James Cook": "Bills vs Vikings \u00b7 Mon Nov 9 \u00b7 8:15 PM ET"
-        },
-        "odds": {
-          "James Cook": -113
-        }
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Bell Cow": [
         "Aaron Jones"
@@ -214,108 +105,12 @@
       "best": 25,
       "settled": true
     },
-    "last_modified": "Tue, 10 Nov 2026 04:21:52 GMT",
-    "checked_at": "2026-11-10T04:29:13.758187+00:00"
+    "last_modified": "Tue, 10 Nov 2026 04:36:39 GMT",
+    "checked_at": "2026-11-10T05:00:21.766303+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "4f64143645334c639d546cae8a67efa25b265d4e85803c1d6048d70c6d822b34",
-    "confirmed": [
-      {
-        "name": "First Basket: CLE@CHA",
-        "legs": [
-          "Evan Mobley",
-          "Jarrett Allen"
-        ],
-        "rr": false,
-        "info": {
-          "Evan Mobley": "Cavaliers vs Hornets \u00b7 Mon Nov 9 \u00b7 7:00 PM ET \u00b7 +500 \u00b7 0.5u",
-          "Jarrett Allen": "Cavaliers vs Hornets \u00b7 Mon Nov 9 \u00b7 7:00 PM ET \u00b7 +550 \u00b7 0.5u"
-        },
-        "odds": {
-          "Evan Mobley": 500,
-          "Jarrett Allen": 550
-        },
-        "market": "first basket",
-        "kind": "fb2",
-        "units": 1
-      },
-      {
-        "name": "First Basket: DEN@HOU",
-        "legs": [
-          "Jamal Murray",
-          "Nikola Jokic"
-        ],
-        "rr": false,
-        "info": {
-          "Jamal Murray": "Nuggets vs Rockets \u00b7 Mon Nov 9 \u00b7 8:30 PM ET \u00b7 +460 \u00b7 0.5u",
-          "Nikola Jokic": "Nuggets vs Rockets \u00b7 Mon Nov 9 \u00b7 8:30 PM ET \u00b7 +500 \u00b7 0.5u"
-        },
-        "odds": {
-          "Jamal Murray": 460,
-          "Nikola Jokic": 500
-        },
-        "market": "first basket",
-        "kind": "fb2",
-        "units": 1
-      },
-      {
-        "name": "First Basket: LAL@ATL",
-        "legs": [
-          "Luka Doncic",
-          "Walker Kessler"
-        ],
-        "rr": false,
-        "info": {
-          "Luka Doncic": "Lakers vs Hawks \u00b7 Mon Nov 9 \u00b7 7:00 PM ET \u00b7 +360 \u00b7 0.5u",
-          "Walker Kessler": "Lakers vs Hawks \u00b7 Mon Nov 9 \u00b7 7:00 PM ET \u00b7 +600 \u00b7 0.5u"
-        },
-        "odds": {
-          "Luka Doncic": 360,
-          "Walker Kessler": 600
-        },
-        "market": "first basket",
-        "kind": "fb2",
-        "units": 1
-      },
-      {
-        "name": "First Basket: SAS@PHX",
-        "legs": [
-          "De'Aaron Fox",
-          "Victor Wembanyama"
-        ],
-        "rr": false,
-        "info": {
-          "De'Aaron Fox": "Spurs vs Suns \u00b7 Mon Nov 9 \u00b7 9:00 PM ET \u00b7 +650 \u00b7 0.5u",
-          "Victor Wembanyama": "Spurs vs Suns \u00b7 Mon Nov 9 \u00b7 9:00 PM ET \u00b7 +290 \u00b7 0.5u"
-        },
-        "odds": {
-          "De'Aaron Fox": 650,
-          "Victor Wembanyama": 290
-        },
-        "market": "first basket",
-        "kind": "fb2",
-        "units": 1
-      },
-      {
-        "name": "First Basket: WAS@DET",
-        "legs": [
-          "Alex Sarr",
-          "Anthony Davis"
-        ],
-        "rr": false,
-        "info": {
-          "Alex Sarr": "Wizards vs Pistons \u00b7 Mon Nov 9 \u00b7 7:00 PM ET \u00b7 +750 \u00b7 0.5u",
-          "Anthony Davis": "Wizards vs Pistons \u00b7 Mon Nov 9 \u00b7 7:00 PM ET \u00b7 +550 \u00b7 0.5u"
-        },
-        "odds": {
-          "Alex Sarr": 750,
-          "Anthony Davis": 550
-        },
-        "market": "first basket",
-        "kind": "fb2",
-        "units": 1
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "First Basket: CLE@CHA": [
         "Evan Mobley",
@@ -353,7 +148,7 @@
       "a:Jarrett Allen"
     ],
     "ltd": null,
-    "last_modified": "Tue, 10 Nov 2026 04:21:52 GMT",
-    "checked_at": "2026-11-10T04:29:14.917592+00:00"
+    "last_modified": "Tue, 10 Nov 2026 04:36:39 GMT",
+    "checked_at": "2026-11-10T05:00:22.101032+00:00"
   }
 }
