@@ -2034,8 +2034,9 @@
             "Evan Mobley": 500
           },
           "bkey": "fb2|first basket|Evan Mobley,Jarrett Allen",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 2.25,
+          "legs_hit": 1
         },
         "First Basket: WAS@DET": {
           "legs": [
@@ -2050,8 +2051,9 @@
             "Alex Sarr": 700
           },
           "bkey": "fb2|first basket|Alex Sarr,Anthony Davis",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
         },
         "First Basket: LAL@ATL": {
           "legs": [
@@ -2066,8 +2068,9 @@
             "Walker Kessler": 600
           },
           "bkey": "fb2|first basket|Luka Doncic,Walker Kessler",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
         },
         "First Basket: SAS@PHX": {
           "legs": [
@@ -2082,8 +2085,9 @@
             "De'Aaron Fox": 650
           },
           "bkey": "fb2|first basket|De'Aaron Fox,Victor Wembanyama",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 2.75,
+          "legs_hit": 1
         },
         "First Basket: DEN@HOU": {
           "legs": [
@@ -2098,10 +2102,12 @@
             "Jamal Murray": 440
           },
           "bkey": "fb2|first basket|Jamal Murray,Nikola Jokic",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.7,
+          "legs_hit": 1
         }
-      }
+      },
+      "2026-11-10": {}
     }
   },
   "recap_sent": "2026-11-09",
