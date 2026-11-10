@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 10 Nov 2026 02:04:02 GMT",
-    "checked_at": "2026-11-10T02:12:13.242820+00:00"
+    "last_modified": "Tue, 10 Nov 2026 02:38:10 GMT",
+    "checked_at": "2026-11-10T02:43:13.500131+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -53,8 +53,8 @@
       "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Tue, 10 Nov 2026 02:03:45 GMT",
-    "checked_at": "2026-11-10T02:12:13.511467+00:00"
+    "last_modified": "Tue, 10 Nov 2026 02:38:10 GMT",
+    "checked_at": "2026-11-10T02:43:13.717115+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "8d621604cd5c971f35d7ccb68470d4f42fe78a76ede70918a4f32c927aa8e5ea",
@@ -205,14 +205,16 @@
       "|anytime touchdown|Keon Coleman"
     ],
     "slate": "2026-11-09",
-    "hits": [],
+    "hits": [
+      "a:Keleki Latu"
+    ],
     "ltd": {
       "holding": [],
-      "best": 0,
+      "best": 25,
       "settled": false
     },
-    "last_modified": "Tue, 10 Nov 2026 02:03:45 GMT",
-    "checked_at": "2026-11-10T02:12:13.825883+00:00"
+    "last_modified": "Tue, 10 Nov 2026 02:38:10 GMT",
+    "checked_at": "2026-11-10T02:43:14.826989+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "4f64143645334c639d546cae8a67efa25b265d4e85803c1d6048d70c6d822b34",
@@ -350,7 +352,7 @@
       "a:Jarrett Allen"
     ],
     "ltd": null,
-    "last_modified": "Tue, 10 Nov 2026 02:03:45 GMT",
-    "checked_at": "2026-11-10T02:12:14.781613+00:00"
+    "last_modified": "Tue, 10 Nov 2026 02:39:35 GMT",
+    "checked_at": "2026-11-10T02:43:15.732136+00:00"
   }
 }
