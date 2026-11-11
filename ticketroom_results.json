@@ -2218,6 +2218,22 @@
           "bkey": "fb2|first basket|Evan Mobley,Jarrett Allen",
           "result": null,
           "pl": null
+        },
+        "First Basket: WAS@IND": {
+          "legs": [
+            "AJ Dybantsa",
+            "Anthony Davis"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Anthony Davis": 500,
+            "AJ Dybantsa": 850
+          },
+          "bkey": "fb2|first basket|AJ Dybantsa,Anthony Davis",
+          "result": null,
+          "pl": null
         }
       }
     }

@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 11 Nov 2026 23:31:08 GMT",
-    "checked_at": "2026-11-11T23:31:11.861176+00:00"
+    "last_modified": "Wed, 11 Nov 2026 23:32:22 GMT",
+    "checked_at": "2026-11-11T23:33:13.122370+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -53,8 +53,8 @@
       "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Wed, 11 Nov 2026 23:31:08 GMT",
-    "checked_at": "2026-11-11T23:31:12.067553+00:00"
+    "last_modified": "Wed, 11 Nov 2026 23:32:22 GMT",
+    "checked_at": "2026-11-11T23:33:13.424116+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -64,11 +64,11 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 11 Nov 2026 23:31:08 GMT",
-    "checked_at": "2026-11-11T23:31:12.252051+00:00"
+    "last_modified": "Wed, 11 Nov 2026 23:32:22 GMT",
+    "checked_at": "2026-11-11T23:33:13.678861+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "804a91c7dcd343eb1206818c908104fe95cece785e9c703a197d3844a18a75af",
+    "hash": "061dccffa9dab071d380db7474681e06c18ea6e55510b23f52b16f454836fafd",
     "confirmed": [
       {
         "name": "First Basket: CLE@NYK",
@@ -78,12 +78,31 @@
         ],
         "rr": false,
         "info": {
-          "Jarrett Allen": "Cavaliers vs Knicks \u00b7 Wed Nov 11 \u00b7 7:00 PM ET \u00b7 +650 \u00b7 0.5u",
-          "Evan Mobley": "Cavaliers vs Knicks \u00b7 Wed Nov 11 \u00b7 7:00 PM ET \u00b7 +550 \u00b7 0.5u"
+          "Evan Mobley": "Cavaliers vs Knicks \u00b7 Wed Nov 11 \u00b7 7:00 PM ET \u00b7 +550 \u00b7 0.5u",
+          "Jarrett Allen": "Cavaliers vs Knicks \u00b7 Wed Nov 11 \u00b7 7:00 PM ET \u00b7 +650 \u00b7 0.5u"
         },
         "odds": {
-          "Jarrett Allen": 650,
-          "Evan Mobley": 550
+          "Evan Mobley": 550,
+          "Jarrett Allen": 650
+        },
+        "market": "first basket",
+        "kind": "fb2",
+        "units": 1
+      },
+      {
+        "name": "First Basket: WAS@IND",
+        "legs": [
+          "AJ Dybantsa",
+          "Anthony Davis"
+        ],
+        "rr": false,
+        "info": {
+          "Anthony Davis": "Wizards vs Pacers \u00b7 Wed Nov 11 \u00b7 7:00 PM ET \u00b7 +500 \u00b7 0.5u",
+          "AJ Dybantsa": "Wizards vs Pacers \u00b7 Wed Nov 11 \u00b7 7:00 PM ET \u00b7 +850 \u00b7 0.5u"
+        },
+        "odds": {
+          "Anthony Davis": 500,
+          "AJ Dybantsa": 850
         },
         "market": "first basket",
         "kind": "fb2",
@@ -94,15 +113,20 @@
       "First Basket: CLE@NYK": [
         "Evan Mobley",
         "Jarrett Allen"
+      ],
+      "First Basket: WAS@IND": [
+        "AJ Dybantsa",
+        "Anthony Davis"
       ]
     },
     "abets": [
+      "fb2|first basket|AJ Dybantsa,Anthony Davis",
       "fb2|first basket|Evan Mobley,Jarrett Allen"
     ],
     "slate": "2026-11-11",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 11 Nov 2026 23:31:08 GMT",
-    "checked_at": "2026-11-11T23:31:14.219214+00:00"
+    "last_modified": "Wed, 11 Nov 2026 23:32:22 GMT",
+    "checked_at": "2026-11-11T23:33:15.559801+00:00"
   }
 }
