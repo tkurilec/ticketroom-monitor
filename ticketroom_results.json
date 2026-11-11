@@ -2128,8 +2128,9 @@
             "Karl-Anthony Towns": 500
           },
           "bkey": "fb2|first basket|Jalen Brunson,Karl-Anthony Towns",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
         },
         "First Basket: BOS@PHI": {
           "legs": [
@@ -2144,8 +2145,9 @@
             "Jaylen Brown": 500
           },
           "bkey": "fb2|first basket|Jaylen Brown,Joel Embiid",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
         },
         "First Basket: MIA@UTA": {
           "legs": [
@@ -2160,8 +2162,9 @@
             "Giannis Antetokounmpo": 340
           },
           "bkey": "fb2|first basket|Bam Adebayo,Giannis Antetokounmpo",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
         },
         "First Basket: ORL@SAC": {
           "legs": [
@@ -2176,8 +2179,9 @@
             "Wendell Carter Jr.": 650
           },
           "bkey": "fb2|first basket|Franz Wagner,Wendell Carter Jr.",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
         },
         "First Basket: OKC@POR": {
           "legs": [
@@ -2192,10 +2196,12 @@
             "Donovan Clingan": 950
           },
           "bkey": "fb2|first basket|Damian Lillard,Donovan Clingan",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 2.5,
+          "legs_hit": 1
         }
-      }
+      },
+      "2026-11-11": {}
     }
   },
   "recap_sent": "2026-11-10",

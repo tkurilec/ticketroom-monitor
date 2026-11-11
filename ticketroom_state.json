@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 11 Nov 2026 04:47:00 GMT",
-    "checked_at": "2026-11-11T05:00:20.544750+00:00"
+    "last_modified": "Wed, 11 Nov 2026 11:00:51 GMT",
+    "checked_at": "2026-11-11T11:01:14.548647+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -53,8 +53,8 @@
       "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Wed, 11 Nov 2026 04:47:00 GMT",
-    "checked_at": "2026-11-11T05:00:20.706793+00:00"
+    "last_modified": "Wed, 11 Nov 2026 11:00:51 GMT",
+    "checked_at": "2026-11-11T11:01:14.871387+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -105,47 +105,18 @@
       "best": 25,
       "settled": true
     },
-    "last_modified": "Wed, 11 Nov 2026 04:47:00 GMT",
-    "checked_at": "2026-11-11T05:00:20.865307+00:00"
+    "last_modified": "Wed, 11 Nov 2026 11:00:51 GMT",
+    "checked_at": "2026-11-11T11:01:15.022724+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "First Basket: MIL@NYK": [
-        "Jalen Brunson",
-        "Karl-Anthony Towns"
-      ],
-      "First Basket: BOS@PHI": [
-        "Jaylen Brown",
-        "Joel Embiid"
-      ],
-      "First Basket: MIA@UTA": [
-        "Bam Adebayo",
-        "Giannis Antetokounmpo"
-      ],
-      "First Basket: ORL@SAC": [
-        "Franz Wagner",
-        "Wendell Carter Jr."
-      ],
-      "First Basket: OKC@POR": [
-        "Damian Lillard",
-        "Donovan Clingan"
-      ]
-    },
-    "abets": [
-      "fb2|first basket|Bam Adebayo,Giannis Antetokounmpo",
-      "fb2|first basket|Damian Lillard,Donovan Clingan",
-      "fb2|first basket|Franz Wagner,Wendell Carter Jr.",
-      "fb2|first basket|Jalen Brunson,Karl-Anthony Towns",
-      "fb2|first basket|Jaylen Brown,Joel Embiid"
-    ],
-    "slate": "2026-11-10",
-    "hits": [
-      "a:Damian Lillard"
-    ],
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-11",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 11 Nov 2026 04:47:00 GMT",
-    "checked_at": "2026-11-11T05:00:21.001078+00:00"
+    "last_modified": "Wed, 11 Nov 2026 11:00:51 GMT",
+    "checked_at": "2026-11-11T11:01:15.310373+00:00"
   }
 }
