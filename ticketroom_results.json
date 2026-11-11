@@ -2178,6 +2178,22 @@
           "bkey": "fb2|first basket|Franz Wagner,Wendell Carter Jr.",
           "result": null,
           "pl": null
+        },
+        "First Basket: OKC@POR": {
+          "legs": [
+            "Damian Lillard",
+            "Donovan Clingan"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Damian Lillard": 600,
+            "Donovan Clingan": 950
+          },
+          "bkey": "fb2|first basket|Damian Lillard,Donovan Clingan",
+          "result": null,
+          "pl": null
         }
       }
     }
