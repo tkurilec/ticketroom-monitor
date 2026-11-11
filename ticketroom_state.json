@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 11 Nov 2026 11:00:51 GMT",
-    "checked_at": "2026-11-11T11:01:14.548647+00:00"
+    "last_modified": "Wed, 11 Nov 2026 11:02:24 GMT",
+    "checked_at": "2026-11-11T11:03:12.718995+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -53,60 +53,19 @@
       "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Wed, 11 Nov 2026 11:00:51 GMT",
-    "checked_at": "2026-11-11T11:01:14.871387+00:00"
+    "last_modified": "Wed, 11 Nov 2026 11:02:24 GMT",
+    "checked_at": "2026-11-11T11:03:12.970031+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Bell Cow": [
-        "Aaron Jones"
-      ],
-      "Goal Line Back": [
-        "Greg Dortch"
-      ],
-      "King of the End Zone: Khalil Shakir": [
-        "Khalil Shakir"
-      ],
-      "Opening Statement": [
-        "Aaron Jones"
-      ],
-      "Red Zone Target": [
-        "Gavin Bartholomew"
-      ],
-      "Short Yardage": [
-        "Keleki Latu"
-      ],
-      "The Checkdown": [
-        "Keon Coleman"
-      ],
-      "The Workhorse": [
-        "James Cook"
-      ]
-    },
-    "abets": [
-      "ftd|first touchdown scorer|Aaron Jones",
-      "longtd|longest touchdown scorer|Khalil Shakir",
-      "|anytime touchdown|Aaron Jones",
-      "|anytime touchdown|Gavin Bartholomew",
-      "|anytime touchdown|Greg Dortch",
-      "|anytime touchdown|James Cook",
-      "|anytime touchdown|Keleki Latu",
-      "|anytime touchdown|Keon Coleman"
-    ],
-    "slate": "2026-11-09",
-    "hits": [
-      "a:James Cook",
-      "a:Keleki Latu"
-    ],
-    "ltd": {
-      "holding": [],
-      "best": 25,
-      "settled": true
-    },
-    "last_modified": "Wed, 11 Nov 2026 11:00:51 GMT",
-    "checked_at": "2026-11-11T11:01:15.022724+00:00"
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-12",
+    "hits": [],
+    "ltd": null,
+    "last_modified": "Wed, 11 Nov 2026 11:02:24 GMT",
+    "checked_at": "2026-11-11T11:03:13.270712+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -116,7 +75,7 @@
     "slate": "2026-11-11",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 11 Nov 2026 11:00:51 GMT",
-    "checked_at": "2026-11-11T11:01:15.310373+00:00"
+    "last_modified": "Wed, 11 Nov 2026 11:02:24 GMT",
+    "checked_at": "2026-11-11T11:03:13.533155+00:00"
   }
 }
