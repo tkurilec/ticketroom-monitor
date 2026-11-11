@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 11 Nov 2026 23:32:22 GMT",
-    "checked_at": "2026-11-11T23:33:13.122370+00:00"
+    "last_modified": "Wed, 11 Nov 2026 23:37:01 GMT",
+    "checked_at": "2026-11-11T23:37:13.309509+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -53,8 +53,8 @@
       "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Wed, 11 Nov 2026 23:32:22 GMT",
-    "checked_at": "2026-11-11T23:33:13.424116+00:00"
+    "last_modified": "Wed, 11 Nov 2026 23:37:01 GMT",
+    "checked_at": "2026-11-11T23:37:13.523111+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -64,12 +64,31 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 11 Nov 2026 23:32:22 GMT",
-    "checked_at": "2026-11-11T23:33:13.678861+00:00"
+    "last_modified": "Wed, 11 Nov 2026 23:37:01 GMT",
+    "checked_at": "2026-11-11T23:37:13.679208+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "061dccffa9dab071d380db7474681e06c18ea6e55510b23f52b16f454836fafd",
+    "hash": "ffb8874d89277d00c50b113fb74051030b8098c667d5ccdf1784157fd825da4d",
     "confirmed": [
+      {
+        "name": "First Basket: BOS@TOR",
+        "legs": [
+          "Jakob Poeltl",
+          "RJ Barrett"
+        ],
+        "rr": false,
+        "info": {
+          "Jakob Poeltl": "Raptors vs Celtics \u00b7 Wed Nov 11 \u00b7 7:00 PM ET \u00b7 +800 \u00b7 0.5u",
+          "RJ Barrett": "Raptors vs Celtics \u00b7 Wed Nov 11 \u00b7 7:00 PM ET \u00b7 +470 \u00b7 0.5u"
+        },
+        "odds": {
+          "Jakob Poeltl": 800,
+          "RJ Barrett": 470
+        },
+        "market": "first basket",
+        "kind": "fb2",
+        "units": 1
+      },
       {
         "name": "First Basket: CLE@NYK",
         "legs": [
@@ -97,12 +116,12 @@
         ],
         "rr": false,
         "info": {
-          "Anthony Davis": "Wizards vs Pacers \u00b7 Wed Nov 11 \u00b7 7:00 PM ET \u00b7 +500 \u00b7 0.5u",
-          "AJ Dybantsa": "Wizards vs Pacers \u00b7 Wed Nov 11 \u00b7 7:00 PM ET \u00b7 +850 \u00b7 0.5u"
+          "AJ Dybantsa": "Wizards vs Pacers \u00b7 Wed Nov 11 \u00b7 7:00 PM ET \u00b7 +850 \u00b7 0.5u",
+          "Anthony Davis": "Wizards vs Pacers \u00b7 Wed Nov 11 \u00b7 7:00 PM ET \u00b7 +500 \u00b7 0.5u"
         },
         "odds": {
-          "Anthony Davis": 500,
-          "AJ Dybantsa": 850
+          "AJ Dybantsa": 850,
+          "Anthony Davis": 500
         },
         "market": "first basket",
         "kind": "fb2",
@@ -117,16 +136,21 @@
       "First Basket: WAS@IND": [
         "AJ Dybantsa",
         "Anthony Davis"
+      ],
+      "First Basket: BOS@TOR": [
+        "Jakob Poeltl",
+        "RJ Barrett"
       ]
     },
     "abets": [
       "fb2|first basket|AJ Dybantsa,Anthony Davis",
-      "fb2|first basket|Evan Mobley,Jarrett Allen"
+      "fb2|first basket|Evan Mobley,Jarrett Allen",
+      "fb2|first basket|Jakob Poeltl,RJ Barrett"
     ],
     "slate": "2026-11-11",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 11 Nov 2026 23:32:22 GMT",
-    "checked_at": "2026-11-11T23:33:15.559801+00:00"
+    "last_modified": "Wed, 11 Nov 2026 23:37:01 GMT",
+    "checked_at": "2026-11-11T23:37:15.502512+00:00"
   }
 }

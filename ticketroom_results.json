@@ -2234,6 +2234,22 @@
           "bkey": "fb2|first basket|AJ Dybantsa,Anthony Davis",
           "result": null,
           "pl": null
+        },
+        "First Basket: BOS@TOR": {
+          "legs": [
+            "Jakob Poeltl",
+            "RJ Barrett"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Jakob Poeltl": 800,
+            "RJ Barrett": 470
+          },
+          "bkey": "fb2|first basket|Jakob Poeltl,RJ Barrett",
+          "result": null,
+          "pl": null
         }
       }
     }
