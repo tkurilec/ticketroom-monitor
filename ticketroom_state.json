@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 11 Nov 2026 00:07:24 GMT",
-    "checked_at": "2026-11-11T00:08:17.344928+00:00"
+    "last_modified": "Wed, 11 Nov 2026 00:36:29 GMT",
+    "checked_at": "2026-11-11T00:37:13.566997+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -53,8 +53,8 @@
       "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Wed, 11 Nov 2026 00:07:24 GMT",
-    "checked_at": "2026-11-11T00:08:17.704466+00:00"
+    "last_modified": "Wed, 11 Nov 2026 00:36:29 GMT",
+    "checked_at": "2026-11-11T00:37:13.894532+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -105,12 +105,31 @@
       "best": 25,
       "settled": true
     },
-    "last_modified": "Wed, 11 Nov 2026 00:07:24 GMT",
-    "checked_at": "2026-11-11T00:08:18.040629+00:00"
+    "last_modified": "Wed, 11 Nov 2026 00:36:29 GMT",
+    "checked_at": "2026-11-11T00:37:14.192250+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "2455c075eab0629ac244a371ee560f305b05c020217d5af694b78c9da7d641b4",
+    "hash": "766dc5f713dad9055401ed902beaab7b00580bda0bb8ae5135b26e7749515a9c",
     "confirmed": [
+      {
+        "name": "First Basket: BOS@PHI",
+        "legs": [
+          "Jaylen Brown",
+          "Joel Embiid"
+        ],
+        "rr": false,
+        "info": {
+          "Joel Embiid": "76ers vs Celtics \u00b7 Tue Nov 10 \u00b7 8:00 PM ET \u00b7 +550 \u00b7 0.5u",
+          "Jaylen Brown": "76ers vs Celtics \u00b7 Tue Nov 10 \u00b7 8:00 PM ET \u00b7 +500 \u00b7 0.5u"
+        },
+        "odds": {
+          "Joel Embiid": 550,
+          "Jaylen Brown": 500
+        },
+        "market": "first basket",
+        "kind": "fb2",
+        "units": 1
+      },
       {
         "name": "First Basket: MIL@NYK",
         "legs": [
@@ -135,15 +154,20 @@
       "First Basket: MIL@NYK": [
         "Jalen Brunson",
         "Karl-Anthony Towns"
+      ],
+      "First Basket: BOS@PHI": [
+        "Jaylen Brown",
+        "Joel Embiid"
       ]
     },
     "abets": [
-      "fb2|first basket|Jalen Brunson,Karl-Anthony Towns"
+      "fb2|first basket|Jalen Brunson,Karl-Anthony Towns",
+      "fb2|first basket|Jaylen Brown,Joel Embiid"
     ],
     "slate": "2026-11-10",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 11 Nov 2026 00:07:24 GMT",
-    "checked_at": "2026-11-11T00:08:20.217071+00:00"
+    "last_modified": "Wed, 11 Nov 2026 00:36:29 GMT",
+    "checked_at": "2026-11-11T00:37:16.490107+00:00"
   }
 }
