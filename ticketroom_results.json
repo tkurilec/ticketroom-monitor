@@ -2202,7 +2202,24 @@
           "legs_hit": 1
         }
       },
-      "2026-11-11": {}
+      "2026-11-11": {
+        "First Basket: CLE@NYK": {
+          "legs": [
+            "Evan Mobley",
+            "Jarrett Allen"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Jarrett Allen": 650,
+            "Evan Mobley": 550
+          },
+          "bkey": "fb2|first basket|Evan Mobley,Jarrett Allen",
+          "result": null,
+          "pl": null
+        }
+      }
     }
   },
   "recap_sent": "2026-11-11",
