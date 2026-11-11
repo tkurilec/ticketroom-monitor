@@ -2114,7 +2114,24 @@
           "legs_hit": 1
         }
       },
-      "2026-11-10": {}
+      "2026-11-10": {
+        "First Basket: MIL@NYK": {
+          "legs": [
+            "Jalen Brunson",
+            "Karl-Anthony Towns"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Jalen Brunson": 390,
+            "Karl-Anthony Towns": 500
+          },
+          "bkey": "fb2|first basket|Jalen Brunson,Karl-Anthony Towns",
+          "result": null,
+          "pl": null
+        }
+      }
     }
   },
   "recap_sent": "2026-11-10",

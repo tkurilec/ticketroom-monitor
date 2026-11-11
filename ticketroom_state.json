@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 10 Nov 2026 11:02:03 GMT",
-    "checked_at": "2026-11-10T11:02:13.627474+00:00"
+    "last_modified": "Wed, 11 Nov 2026 00:07:24 GMT",
+    "checked_at": "2026-11-11T00:08:17.344928+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -53,8 +53,8 @@
       "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Tue, 10 Nov 2026 11:02:03 GMT",
-    "checked_at": "2026-11-10T11:02:14.075009+00:00"
+    "last_modified": "Wed, 11 Nov 2026 00:07:24 GMT",
+    "checked_at": "2026-11-11T00:08:17.704466+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -105,18 +105,45 @@
       "best": 25,
       "settled": true
     },
-    "last_modified": "Tue, 10 Nov 2026 11:02:03 GMT",
-    "checked_at": "2026-11-10T11:02:14.361915+00:00"
+    "last_modified": "Wed, 11 Nov 2026 00:07:24 GMT",
+    "checked_at": "2026-11-11T00:08:18.040629+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "2455c075eab0629ac244a371ee560f305b05c020217d5af694b78c9da7d641b4",
+    "confirmed": [
+      {
+        "name": "First Basket: MIL@NYK",
+        "legs": [
+          "Jalen Brunson",
+          "Karl-Anthony Towns"
+        ],
+        "rr": false,
+        "info": {
+          "Jalen Brunson": "Knicks vs Bucks \u00b7 Tue Nov 10 \u00b7 7:30 PM ET \u00b7 +390 \u00b7 0.5u",
+          "Karl-Anthony Towns": "Knicks vs Bucks \u00b7 Tue Nov 10 \u00b7 7:30 PM ET \u00b7 +500 \u00b7 0.5u"
+        },
+        "odds": {
+          "Jalen Brunson": 390,
+          "Karl-Anthony Towns": 500
+        },
+        "market": "first basket",
+        "kind": "fb2",
+        "units": 1
+      }
+    ],
+    "announced": {
+      "First Basket: MIL@NYK": [
+        "Jalen Brunson",
+        "Karl-Anthony Towns"
+      ]
+    },
+    "abets": [
+      "fb2|first basket|Jalen Brunson,Karl-Anthony Towns"
+    ],
     "slate": "2026-11-10",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 10 Nov 2026 11:02:03 GMT",
-    "checked_at": "2026-11-10T11:02:14.583603+00:00"
+    "last_modified": "Wed, 11 Nov 2026 00:07:24 GMT",
+    "checked_at": "2026-11-11T00:08:20.217071+00:00"
   }
 }
