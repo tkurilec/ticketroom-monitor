@@ -2146,6 +2146,22 @@
           "bkey": "fb2|first basket|Jaylen Brown,Joel Embiid",
           "result": null,
           "pl": null
+        },
+        "First Basket: MIA@UTA": {
+          "legs": [
+            "Bam Adebayo",
+            "Giannis Antetokounmpo"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Bam Adebayo": 500,
+            "Giannis Antetokounmpo": 340
+          },
+          "bkey": "fb2|first basket|Bam Adebayo,Giannis Antetokounmpo",
+          "result": null,
+          "pl": null
         }
       }
     }
