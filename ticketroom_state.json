@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 11 Nov 2026 01:36:39 GMT",
-    "checked_at": "2026-11-11T01:37:15.456509+00:00"
+    "last_modified": "Wed, 11 Nov 2026 02:36:55 GMT",
+    "checked_at": "2026-11-11T02:37:12.989809+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -53,8 +53,8 @@
       "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Wed, 11 Nov 2026 01:36:39 GMT",
-    "checked_at": "2026-11-11T01:37:16.334310+00:00"
+    "last_modified": "Wed, 11 Nov 2026 02:36:56 GMT",
+    "checked_at": "2026-11-11T02:37:13.178070+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -105,11 +105,11 @@
       "best": 25,
       "settled": true
     },
-    "last_modified": "Wed, 11 Nov 2026 01:36:39 GMT",
-    "checked_at": "2026-11-11T01:37:16.727881+00:00"
+    "last_modified": "Wed, 11 Nov 2026 02:36:55 GMT",
+    "checked_at": "2026-11-11T02:37:13.342114+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "7cf507f34e6cca1710617364b90bdc4ad2f94959d7a1acb81accc4681f0ba8f2",
+    "hash": "d971f18cf47e9f6a123ae9d61ef5f47ed7be4be69d4f52bd71ebc73347c0aec4",
     "confirmed": [
       {
         "name": "First Basket: BOS@PHI",
@@ -139,11 +139,11 @@
         "rr": false,
         "info": {
           "Bam Adebayo": "Heat vs Jazz \u00b7 Tue Nov 10 \u00b7 9:00 PM ET \u00b7 +500 \u00b7 0.5u",
-          "Giannis Antetokounmpo": "Heat vs Jazz \u00b7 Tue Nov 10 \u00b7 9:00 PM ET \u00b7 +340 \u00b7 0.5u"
+          "Giannis Antetokounmpo": "Heat vs Jazz \u00b7 Tue Nov 10 \u00b7 9:00 PM ET \u00b7 +350 \u00b7 0.5u"
         },
         "odds": {
           "Bam Adebayo": 500,
-          "Giannis Antetokounmpo": 340
+          "Giannis Antetokounmpo": 350
         },
         "market": "first basket",
         "kind": "fb2",
@@ -167,6 +167,25 @@
         "market": "first basket",
         "kind": "fb2",
         "units": 1
+      },
+      {
+        "name": "First Basket: ORL@SAC",
+        "legs": [
+          "Franz Wagner",
+          "Wendell Carter Jr."
+        ],
+        "rr": false,
+        "info": {
+          "Franz Wagner": "Magic vs Kings \u00b7 Tue Nov 10 \u00b7 10:00 PM ET \u00b7 +460 \u00b7 0.5u",
+          "Wendell Carter Jr.": "Magic vs Kings \u00b7 Tue Nov 10 \u00b7 10:00 PM ET \u00b7 +650 \u00b7 0.5u"
+        },
+        "odds": {
+          "Franz Wagner": 460,
+          "Wendell Carter Jr.": 650
+        },
+        "market": "first basket",
+        "kind": "fb2",
+        "units": 1
       }
     ],
     "announced": {
@@ -181,17 +200,22 @@
       "First Basket: MIA@UTA": [
         "Bam Adebayo",
         "Giannis Antetokounmpo"
+      ],
+      "First Basket: ORL@SAC": [
+        "Franz Wagner",
+        "Wendell Carter Jr."
       ]
     },
     "abets": [
       "fb2|first basket|Bam Adebayo,Giannis Antetokounmpo",
+      "fb2|first basket|Franz Wagner,Wendell Carter Jr.",
       "fb2|first basket|Jalen Brunson,Karl-Anthony Towns",
       "fb2|first basket|Jaylen Brown,Joel Embiid"
     ],
     "slate": "2026-11-10",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 11 Nov 2026 01:36:39 GMT",
-    "checked_at": "2026-11-11T01:37:19.242740+00:00"
+    "last_modified": "Wed, 11 Nov 2026 02:36:56 GMT",
+    "checked_at": "2026-11-11T02:37:15.168315+00:00"
   }
 }

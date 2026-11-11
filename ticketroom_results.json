@@ -2162,6 +2162,22 @@
           "bkey": "fb2|first basket|Bam Adebayo,Giannis Antetokounmpo",
           "result": null,
           "pl": null
+        },
+        "First Basket: ORL@SAC": {
+          "legs": [
+            "Franz Wagner",
+            "Wendell Carter Jr."
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Franz Wagner": 460,
+            "Wendell Carter Jr.": 650
+          },
+          "bkey": "fb2|first basket|Franz Wagner,Wendell Carter Jr.",
+          "result": null,
+          "pl": null
         }
       }
     }
