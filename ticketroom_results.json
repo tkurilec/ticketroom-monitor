@@ -2336,7 +2336,50 @@
           "legs_hit": 0
         }
       },
-      "2026-11-12": {}
+      "2026-11-12": {
+        "Early Offense": {
+          "legs": [
+            "John Collins"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "John Collins": 750
+          },
+          "bkey": "|first basket|John Collins",
+          "result": null,
+          "pl": null
+        },
+        "Off the Tip": {
+          "legs": [
+            "Anthony Davis"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.4,
+          "odds": {
+            "Anthony Davis": 500
+          },
+          "bkey": "|first basket|Anthony Davis",
+          "result": null,
+          "pl": null
+        },
+        "Top of the Key": {
+          "legs": [
+            "Collin Murray-Boyles"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Collin Murray-Boyles": 1400
+          },
+          "bkey": "|first basket|Collin Murray-Boyles",
+          "result": null,
+          "pl": null
+        }
+      }
     }
   },
   "recap_sent": "2026-11-12",

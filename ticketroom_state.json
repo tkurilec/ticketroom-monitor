@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 21:06:31 GMT",
-    "checked_at": "2026-11-12T21:07:13.075541+00:00"
+    "last_modified": "Thu, 12 Nov 2026 23:37:10 GMT",
+    "checked_at": "2026-11-12T23:37:13.015880+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "74ae463a027fe2a628ef8e1475810029274530f171bc9ef29c800ad3e9efeea6",
@@ -74,8 +74,8 @@
       "a:Harry Kane"
     ],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 21:06:31 GMT",
-    "checked_at": "2026-11-12T21:07:15.723302+00:00"
+    "last_modified": "Thu, 12 Nov 2026 23:37:10 GMT",
+    "checked_at": "2026-11-12T23:37:14.142352+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -85,18 +85,78 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 21:06:31 GMT",
-    "checked_at": "2026-11-12T21:07:15.929100+00:00"
+    "last_modified": "Thu, 12 Nov 2026 23:37:10 GMT",
+    "checked_at": "2026-11-12T23:37:14.386976+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "9aa2132863ea00fefc68e91ee2ad9123edbe51b1e199844c3a95e3296df178ec",
+    "confirmed": [
+      {
+        "name": "Early Offense",
+        "legs": [
+          "John Collins"
+        ],
+        "rr": false,
+        "info": {
+          "John Collins": "Pistons vs Wizards \u00b7 Thu Nov 12 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "John Collins": 750
+        },
+        "units": 0.2,
+        "group": "2"
+      },
+      {
+        "name": "Off the Tip",
+        "legs": [
+          "Anthony Davis"
+        ],
+        "rr": false,
+        "info": {
+          "Anthony Davis": "Wizards vs Pistons \u00b7 Thu Nov 12 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "Anthony Davis": 500
+        },
+        "units": 0.4,
+        "group": "2"
+      },
+      {
+        "name": "Top of the Key",
+        "legs": [
+          "Collin Murray-Boyles"
+        ],
+        "rr": false,
+        "info": {
+          "Collin Murray-Boyles": "Raptors vs 76ers \u00b7 Thu Nov 12 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "Collin Murray-Boyles": 1400
+        },
+        "units": 0.6,
+        "group": "1"
+      }
+    ],
+    "announced": {
+      "Early Offense": [
+        "John Collins"
+      ],
+      "Off the Tip": [
+        "Anthony Davis"
+      ],
+      "Top of the Key": [
+        "Collin Murray-Boyles"
+      ]
+    },
+    "abets": [
+      "|first basket|Anthony Davis",
+      "|first basket|Collin Murray-Boyles",
+      "|first basket|John Collins"
+    ],
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 21:06:31 GMT",
-    "checked_at": "2026-11-12T21:07:16.084208+00:00"
+    "last_modified": "Thu, 12 Nov 2026 23:37:10 GMT",
+    "checked_at": "2026-11-12T23:37:16.384558+00:00"
   }
 }
