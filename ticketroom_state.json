@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 18:46:50 GMT",
-    "checked_at": "2026-11-12T18:47:15.500545+00:00"
+    "last_modified": "Thu, 12 Nov 2026 21:06:31 GMT",
+    "checked_at": "2026-11-12T21:07:13.075541+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "74ae463a027fe2a628ef8e1475810029274530f171bc9ef29c800ad3e9efeea6",
@@ -70,10 +70,12 @@
       "|anytime goalscorer|Harry Kane"
     ],
     "slate": "2026-11-12",
-    "hits": [],
+    "hits": [
+      "a:Harry Kane"
+    ],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 18:46:50 GMT",
-    "checked_at": "2026-11-12T18:47:17.305515+00:00"
+    "last_modified": "Thu, 12 Nov 2026 21:06:31 GMT",
+    "checked_at": "2026-11-12T21:07:15.723302+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -83,8 +85,8 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 18:46:50 GMT",
-    "checked_at": "2026-11-12T18:47:17.470385+00:00"
+    "last_modified": "Thu, 12 Nov 2026 21:06:31 GMT",
+    "checked_at": "2026-11-12T21:07:15.929100+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -94,7 +96,7 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 18:46:50 GMT",
-    "checked_at": "2026-11-12T18:47:17.604226+00:00"
+    "last_modified": "Thu, 12 Nov 2026 21:06:31 GMT",
+    "checked_at": "2026-11-12T21:07:16.084208+00:00"
   }
 }
