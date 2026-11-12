@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 01:17:57 GMT",
-    "checked_at": "2026-11-12T01:18:15.643282+00:00"
+    "last_modified": "Thu, 12 Nov 2026 01:36:45 GMT",
+    "checked_at": "2026-11-12T01:40:16.975711+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 01:17:57 GMT",
-    "checked_at": "2026-11-12T01:18:15.920789+00:00"
+    "last_modified": "Thu, 12 Nov 2026 01:36:45 GMT",
+    "checked_at": "2026-11-12T01:40:17.154185+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -29,11 +29,11 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 01:17:57 GMT",
-    "checked_at": "2026-11-12T01:18:16.029511+00:00"
+    "last_modified": "Thu, 12 Nov 2026 01:36:45 GMT",
+    "checked_at": "2026-11-12T01:40:17.227432+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "6779f77e988c36d4beb410df1479a7b96e0cf8e7d396bffeb0a57e09f72ab28e",
+    "hash": "f7a7b3d89ae94daf2a50205b85624d9ee836f71bc3058f6a6fc12671cb60cfe4",
     "confirmed": [
       {
         "name": "First Basket: BOS@TOR",
@@ -87,6 +87,25 @@
         "odds": {
           "Ty Jerome": 500,
           "Zach Edey": 700
+        },
+        "market": "first basket",
+        "kind": "fb2",
+        "units": 1
+      },
+      {
+        "name": "First Basket: ORL@UTA",
+        "legs": [
+          "Franz Wagner",
+          "Wendell Carter Jr."
+        ],
+        "rr": false,
+        "info": {
+          "Franz Wagner": "Magic vs Jazz \u00b7 Wed Nov 11 \u00b7 9:00 PM ET \u00b7 +500 \u00b7 0.5u",
+          "Wendell Carter Jr.": "Magic vs Jazz \u00b7 Wed Nov 11 \u00b7 9:00 PM ET \u00b7 +600 \u00b7 0.5u"
+        },
+        "odds": {
+          "Franz Wagner": 500,
+          "Wendell Carter Jr.": 600
         },
         "market": "first basket",
         "kind": "fb2",
@@ -151,12 +170,17 @@
       "First Basket: SAS@CHI": [
         "De'Aaron Fox",
         "Victor Wembanyama"
+      ],
+      "First Basket: ORL@UTA": [
+        "Franz Wagner",
+        "Wendell Carter Jr."
       ]
     },
     "abets": [
       "fb2|first basket|AJ Dybantsa,Anthony Davis",
       "fb2|first basket|De'Aaron Fox,Victor Wembanyama",
       "fb2|first basket|Evan Mobley,Jarrett Allen",
+      "fb2|first basket|Franz Wagner,Wendell Carter Jr.",
       "fb2|first basket|Jakob Poeltl,RJ Barrett",
       "fb2|first basket|Ty Jerome,Zach Edey"
     ],
@@ -165,7 +189,7 @@
       "a:De'Aaron Fox"
     ],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 01:17:57 GMT",
-    "checked_at": "2026-11-12T01:18:16.987513+00:00"
+    "last_modified": "Thu, 12 Nov 2026 01:36:45 GMT",
+    "checked_at": "2026-11-12T01:40:19.186523+00:00"
   }
 }

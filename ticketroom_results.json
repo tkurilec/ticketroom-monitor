@@ -837,7 +837,8 @@
           "pl": -1.0,
           "legs_hit": 0
         }
-      }
+      },
+      "2026-11-12": {}
     },
     "NFL Board": {
       "2026-11-02": {
@@ -2280,6 +2281,22 @@
             "De'Aaron Fox": 500
           },
           "bkey": "fb2|first basket|De'Aaron Fox,Victor Wembanyama",
+          "result": null,
+          "pl": null
+        },
+        "First Basket: ORL@UTA": {
+          "legs": [
+            "Franz Wagner",
+            "Wendell Carter Jr."
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Franz Wagner": 500,
+            "Wendell Carter Jr.": 600
+          },
+          "bkey": "fb2|first basket|Franz Wagner,Wendell Carter Jr.",
           "result": null,
           "pl": null
         }
