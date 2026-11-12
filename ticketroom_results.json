@@ -838,7 +838,36 @@
           "legs_hit": 0
         }
       },
-      "2026-11-12": {}
+      "2026-11-12": {
+        "Nailed On": {
+          "legs": [
+            "Harry Kane"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 2,
+          "odds": {
+            "Harry Kane": -185
+          },
+          "bkey": "|anytime goalscorer|Harry Kane",
+          "result": null,
+          "pl": null
+        },
+        "The Poacher": {
+          "legs": [
+            "Ferran Torres"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Ferran Torres": -115
+          },
+          "bkey": "|anytime goalscorer|Ferran Torres",
+          "result": null,
+          "pl": null
+        }
+      }
     },
     "NFL Board": {
       "2026-11-02": {
