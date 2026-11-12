@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 04:47:16 GMT",
-    "checked_at": "2026-11-12T05:00:24.674684+00:00"
+    "last_modified": "Thu, 12 Nov 2026 11:01:06 GMT",
+    "checked_at": "2026-11-12T11:01:12.694578+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 04:47:16 GMT",
-    "checked_at": "2026-11-12T05:00:24.932336+00:00"
+    "last_modified": "Thu, 12 Nov 2026 11:01:06 GMT",
+    "checked_at": "2026-11-12T11:01:12.927287+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -29,52 +29,18 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 04:47:16 GMT",
-    "checked_at": "2026-11-12T05:00:24.998187+00:00"
+    "last_modified": "Thu, 12 Nov 2026 11:01:06 GMT",
+    "checked_at": "2026-11-12T11:01:13.321369+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "First Basket: CLE@NYK": [
-        "Evan Mobley",
-        "Jarrett Allen"
-      ],
-      "First Basket: WAS@IND": [
-        "AJ Dybantsa",
-        "Anthony Davis"
-      ],
-      "First Basket: BOS@TOR": [
-        "Jakob Poeltl",
-        "RJ Barrett"
-      ],
-      "First Basket: DEN@MEM": [
-        "Ty Jerome",
-        "Zach Edey"
-      ],
-      "First Basket: SAS@CHI": [
-        "De'Aaron Fox",
-        "Victor Wembanyama"
-      ],
-      "First Basket: ORL@UTA": [
-        "Franz Wagner",
-        "Wendell Carter Jr."
-      ]
-    },
-    "abets": [
-      "fb2|first basket|AJ Dybantsa,Anthony Davis",
-      "fb2|first basket|De'Aaron Fox,Victor Wembanyama",
-      "fb2|first basket|Evan Mobley,Jarrett Allen",
-      "fb2|first basket|Franz Wagner,Wendell Carter Jr.",
-      "fb2|first basket|Jakob Poeltl,RJ Barrett",
-      "fb2|first basket|Ty Jerome,Zach Edey"
-    ],
-    "slate": "2026-11-11",
-    "hits": [
-      "a:De'Aaron Fox"
-    ],
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-12",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 04:47:16 GMT",
-    "checked_at": "2026-11-12T05:00:25.063115+00:00"
+    "last_modified": "Thu, 12 Nov 2026 11:01:06 GMT",
+    "checked_at": "2026-11-12T11:01:13.509407+00:00"
   }
 }
