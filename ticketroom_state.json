@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 01:36:45 GMT",
-    "checked_at": "2026-11-12T01:40:16.975711+00:00"
+    "last_modified": "Thu, 12 Nov 2026 04:47:16 GMT",
+    "checked_at": "2026-11-12T05:00:24.674684+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 01:36:45 GMT",
-    "checked_at": "2026-11-12T01:40:17.154185+00:00"
+    "last_modified": "Thu, 12 Nov 2026 04:47:16 GMT",
+    "checked_at": "2026-11-12T05:00:24.932336+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -29,127 +29,12 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 01:36:45 GMT",
-    "checked_at": "2026-11-12T01:40:17.227432+00:00"
+    "last_modified": "Thu, 12 Nov 2026 04:47:16 GMT",
+    "checked_at": "2026-11-12T05:00:24.998187+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "f7a7b3d89ae94daf2a50205b85624d9ee836f71bc3058f6a6fc12671cb60cfe4",
-    "confirmed": [
-      {
-        "name": "First Basket: BOS@TOR",
-        "legs": [
-          "Jakob Poeltl",
-          "RJ Barrett"
-        ],
-        "rr": false,
-        "info": {
-          "Jakob Poeltl": "Raptors vs Celtics \u00b7 Wed Nov 11 \u00b7 7:00 PM ET \u00b7 +800 \u00b7 0.5u",
-          "RJ Barrett": "Raptors vs Celtics \u00b7 Wed Nov 11 \u00b7 7:00 PM ET \u00b7 +450 \u00b7 0.5u"
-        },
-        "odds": {
-          "Jakob Poeltl": 800,
-          "RJ Barrett": 450
-        },
-        "market": "first basket",
-        "kind": "fb2",
-        "units": 1
-      },
-      {
-        "name": "First Basket: CLE@NYK",
-        "legs": [
-          "Evan Mobley",
-          "Jarrett Allen"
-        ],
-        "rr": false,
-        "info": {
-          "Evan Mobley": "Cavaliers vs Knicks \u00b7 Wed Nov 11 \u00b7 7:00 PM ET \u00b7 +600 \u00b7 0.5u",
-          "Jarrett Allen": "Cavaliers vs Knicks \u00b7 Wed Nov 11 \u00b7 7:00 PM ET \u00b7 +600 \u00b7 0.5u"
-        },
-        "odds": {
-          "Evan Mobley": 600,
-          "Jarrett Allen": 600
-        },
-        "market": "first basket",
-        "kind": "fb2",
-        "units": 1
-      },
-      {
-        "name": "First Basket: DEN@MEM",
-        "legs": [
-          "Ty Jerome",
-          "Zach Edey"
-        ],
-        "rr": false,
-        "info": {
-          "Ty Jerome": "Grizzlies vs Nuggets \u00b7 Wed Nov 11 \u00b7 8:00 PM ET \u00b7 +500 \u00b7 0.5u",
-          "Zach Edey": "Grizzlies vs Nuggets \u00b7 Wed Nov 11 \u00b7 8:00 PM ET \u00b7 +700 \u00b7 0.5u"
-        },
-        "odds": {
-          "Ty Jerome": 500,
-          "Zach Edey": 700
-        },
-        "market": "first basket",
-        "kind": "fb2",
-        "units": 1
-      },
-      {
-        "name": "First Basket: ORL@UTA",
-        "legs": [
-          "Franz Wagner",
-          "Wendell Carter Jr."
-        ],
-        "rr": false,
-        "info": {
-          "Franz Wagner": "Magic vs Jazz \u00b7 Wed Nov 11 \u00b7 9:00 PM ET \u00b7 +500 \u00b7 0.5u",
-          "Wendell Carter Jr.": "Magic vs Jazz \u00b7 Wed Nov 11 \u00b7 9:00 PM ET \u00b7 +600 \u00b7 0.5u"
-        },
-        "odds": {
-          "Franz Wagner": 500,
-          "Wendell Carter Jr.": 600
-        },
-        "market": "first basket",
-        "kind": "fb2",
-        "units": 1
-      },
-      {
-        "name": "First Basket: SAS@CHI",
-        "legs": [
-          "De'Aaron Fox",
-          "Victor Wembanyama"
-        ],
-        "rr": false,
-        "info": {
-          "De'Aaron Fox": "Spurs vs Bulls \u00b7 Wed Nov 11 \u00b7 8:00 PM ET \u00b7 +500 \u00b7 0.5u",
-          "Victor Wembanyama": "Spurs vs Bulls \u00b7 Wed Nov 11 \u00b7 8:00 PM ET \u00b7 +270 \u00b7 0.5u"
-        },
-        "odds": {
-          "De'Aaron Fox": 500,
-          "Victor Wembanyama": 270
-        },
-        "market": "first basket",
-        "kind": "fb2",
-        "units": 1
-      },
-      {
-        "name": "First Basket: WAS@IND",
-        "legs": [
-          "AJ Dybantsa",
-          "Anthony Davis"
-        ],
-        "rr": false,
-        "info": {
-          "AJ Dybantsa": "Wizards vs Pacers \u00b7 Wed Nov 11 \u00b7 7:00 PM ET \u00b7 +800 \u00b7 0.5u",
-          "Anthony Davis": "Wizards vs Pacers \u00b7 Wed Nov 11 \u00b7 7:00 PM ET \u00b7 +490 \u00b7 0.5u"
-        },
-        "odds": {
-          "AJ Dybantsa": 800,
-          "Anthony Davis": 490
-        },
-        "market": "first basket",
-        "kind": "fb2",
-        "units": 1
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "First Basket: CLE@NYK": [
         "Evan Mobley",
@@ -189,7 +74,7 @@
       "a:De'Aaron Fox"
     ],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 01:36:45 GMT",
-    "checked_at": "2026-11-12T01:40:19.186523+00:00"
+    "last_modified": "Thu, 12 Nov 2026 04:47:16 GMT",
+    "checked_at": "2026-11-12T05:00:25.063115+00:00"
   }
 }
