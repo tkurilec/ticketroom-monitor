@@ -42,10 +42,14 @@ KIND_MARKETS = {
     "fb2": "first basket",
 }
 
-# NBA first-basket read (replaces mirroring the site's own NBA tickets,
-# user request 2026-11-07): any game where a team is at least this likely
-# to win the tip becomes one 2-leg ticket — that team's top two players by
-# the research tab's Chance — staked flat 0.5u per leg (1u per game).
+# NBA first-basket read (ran 2026-11-07 → 2026-11-12, user request): any game
+# where a team is at least this likely to win the tip became one 2-leg ticket —
+# that team's top two players by the research tab's Chance — staked flat 0.5u
+# per leg (1u per game). RETIRED 2026-11-12 (user request): the lane mirrors
+# the site's own pushed tickets again — the owner's edge-gated, self-sized
+# first-basket singles, which his 5-season backtest grades at +15.8% ROI vs
+# −3.6% for the ungated read. Revive by passing fb_read=(name == "NBA Board")
+# at the extract_signature call site; settled fb2 ledger rows still stand.
 FB_TIP_MIN = 0.60
 
 # gambly.com/chat?q=<text> opens Gambly Chat with the text pre-typed (verified
@@ -1439,13 +1443,14 @@ def check_all() -> None:
         ltd_status = None
         # The slate's ledger rows hold each fb2 ticket's FIRST-card legs;
         # extract_signature pins to them so post-announce jitter can't
-        # re-draw a card people already bet.
+        # re-draw a card people already bet. (fb_read retired 2026-11-12 —
+        # NBA mirrors the site's own tickets again; see FB_TIP_MIN note.)
         prev_slate = (state.get(url) or {}).get("slate")
         prev_rows = (((results.get("boards") or {}).get(name) or {})
                      .get(prev_slate or "") or {})
         sig = extract_signature(html, EARLY_CONFIRM_MIN.get(name, 0),
                                 name in GAME_CONFIRM_BOARDS,
-                                fb_read=(name == "NBA Board"),
+                                fb_read=False,
                                 fb_prev={nm: (r.get("legs") or [])
                                          for nm, r in prev_rows.items()},
                                 fb_prev_slate=prev_slate)
