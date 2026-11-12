@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 00:37:22 GMT",
-    "checked_at": "2026-11-12T00:38:16.794053+00:00"
+    "last_modified": "Thu, 12 Nov 2026 01:07:41 GMT",
+    "checked_at": "2026-11-12T01:12:12.216317+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -53,8 +53,8 @@
       "t:TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 00:37:22 GMT",
-    "checked_at": "2026-11-12T00:38:17.146283+00:00"
+    "last_modified": "Thu, 12 Nov 2026 01:07:41 GMT",
+    "checked_at": "2026-11-12T01:12:12.535028+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -64,8 +64,8 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 00:37:22 GMT",
-    "checked_at": "2026-11-12T00:38:17.569043+00:00"
+    "last_modified": "Thu, 12 Nov 2026 01:07:41 GMT",
+    "checked_at": "2026-11-12T01:12:12.928135+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "6779f77e988c36d4beb410df1479a7b96e0cf8e7d396bffeb0a57e09f72ab28e",
@@ -116,11 +116,11 @@
         ],
         "rr": false,
         "info": {
-          "Ty Jerome": "Grizzlies vs Nuggets \u00b7 Wed Nov 11 \u00b7 8:00 PM ET \u00b7 +490 \u00b7 0.5u",
+          "Ty Jerome": "Grizzlies vs Nuggets \u00b7 Wed Nov 11 \u00b7 8:00 PM ET \u00b7 +500 \u00b7 0.5u",
           "Zach Edey": "Grizzlies vs Nuggets \u00b7 Wed Nov 11 \u00b7 8:00 PM ET \u00b7 +700 \u00b7 0.5u"
         },
         "odds": {
-          "Ty Jerome": 490,
+          "Ty Jerome": 500,
           "Zach Edey": 700
         },
         "market": "first basket",
@@ -135,12 +135,12 @@
         ],
         "rr": false,
         "info": {
-          "Victor Wembanyama": "Spurs vs Bulls \u00b7 Wed Nov 11 \u00b7 8:00 PM ET \u00b7 +280 \u00b7 0.5u",
-          "De'Aaron Fox": "Spurs vs Bulls \u00b7 Wed Nov 11 \u00b7 8:00 PM ET \u00b7 +500 \u00b7 0.5u"
+          "De'Aaron Fox": "Spurs vs Bulls \u00b7 Wed Nov 11 \u00b7 8:00 PM ET \u00b7 +500 \u00b7 0.5u",
+          "Victor Wembanyama": "Spurs vs Bulls \u00b7 Wed Nov 11 \u00b7 8:00 PM ET \u00b7 +270 \u00b7 0.5u"
         },
         "odds": {
-          "Victor Wembanyama": 280,
-          "De'Aaron Fox": 500
+          "De'Aaron Fox": 500,
+          "Victor Wembanyama": 270
         },
         "market": "first basket",
         "kind": "fb2",
@@ -196,9 +196,11 @@
       "fb2|first basket|Ty Jerome,Zach Edey"
     ],
     "slate": "2026-11-11",
-    "hits": [],
+    "hits": [
+      "a:De'Aaron Fox"
+    ],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 00:37:22 GMT",
-    "checked_at": "2026-11-12T00:38:22.644398+00:00"
+    "last_modified": "Thu, 12 Nov 2026 01:07:41 GMT",
+    "checked_at": "2026-11-12T01:12:14.711346+00:00"
   }
 }
