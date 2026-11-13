@@ -1792,18 +1792,18 @@
         },
         "Goal Line Back": {
           "legs": [
-            "Thomas Fidone II"
+            "Chris Manhertz"
           ],
           "kind": "",
           "rr": false,
           "units": null,
           "odds": {
-            "Thomas Fidone II": 2897
+            "Chris Manhertz": 3000
           },
-          "bkey": "|anytime touchdown|Thomas Fidone II",
+          "bkey": "|anytime touchdown|Chris Manhertz",
           "result": null,
           "pl": null,
-          "void": true
+          "void": false
         },
         "King of the End Zone: Malik Nabers": {
           "legs": [
