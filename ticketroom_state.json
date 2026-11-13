@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 23:57:54 GMT",
-    "checked_at": "2026-11-13T00:00:23.267148+00:00"
+    "last_modified": "Fri, 13 Nov 2026 00:07:51 GMT",
+    "checked_at": "2026-11-13T00:08:13.819915+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "74ae463a027fe2a628ef8e1475810029274530f171bc9ef29c800ad3e9efeea6",
@@ -74,11 +74,11 @@
       "a:Harry Kane"
     ],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 23:57:54 GMT",
-    "checked_at": "2026-11-13T00:00:23.961707+00:00"
+    "last_modified": "Fri, 13 Nov 2026 00:07:51 GMT",
+    "checked_at": "2026-11-13T00:08:14.578226+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e3e0939e12f6f4eacf702d669e5ba48b61d2a137d0c01d1ba13a8948db1f23f6",
+    "hash": "913d1dc0aa98c190c1b527b3eaac0bcb2903878d43138550810472cbe0f70aeb",
     "confirmed": [
       {
         "name": "Bell Cow",
@@ -96,14 +96,14 @@
       {
         "name": "Goal Line Back",
         "legs": [
-          "Thomas Fidone II"
+          "Chris Manhertz"
         ],
         "rr": false,
         "info": {
-          "Thomas Fidone II": "Giants vs Commanders \u00b7 Thu Nov 12 \u00b7 8:15 PM ET"
+          "Chris Manhertz": "Giants vs Commanders \u00b7 Thu Nov 12 \u00b7 8:15 PM ET"
         },
         "odds": {
-          "Thomas Fidone II": 2897
+          "Chris Manhertz": 3000
         }
       },
       {
@@ -181,7 +181,7 @@
         "Darnell Mooney"
       ],
       "Goal Line Back": [
-        "Thomas Fidone II"
+        "Chris Manhertz"
       ],
       "King of the End Zone: Malik Nabers": [
         "Malik Nabers"
@@ -203,6 +203,7 @@
       "ftd|first touchdown scorer|Isaiah Likely",
       "longtd|longest touchdown scorer|Malik Nabers",
       "|anytime touchdown|Charlie Jones",
+      "|anytime touchdown|Chris Manhertz",
       "|anytime touchdown|Darnell Mooney",
       "|anytime touchdown|Devin Singletary",
       "|anytime touchdown|Jalin Hyatt",
@@ -211,8 +212,8 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 23:57:54 GMT",
-    "checked_at": "2026-11-13T00:00:26.068369+00:00"
+    "last_modified": "Fri, 13 Nov 2026 00:07:51 GMT",
+    "checked_at": "2026-11-13T00:08:16.762387+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "9aa2132863ea00fefc68e91ee2ad9123edbe51b1e199844c3a95e3296df178ec",
@@ -282,7 +283,7 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 23:57:54 GMT",
-    "checked_at": "2026-11-13T00:00:26.204784+00:00"
+    "last_modified": "Fri, 13 Nov 2026 00:07:51 GMT",
+    "checked_at": "2026-11-13T00:08:17.064929+00:00"
   }
 }

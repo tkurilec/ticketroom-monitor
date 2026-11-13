@@ -1802,7 +1802,8 @@
           },
           "bkey": "|anytime touchdown|Thomas Fidone II",
           "result": null,
-          "pl": null
+          "pl": null,
+          "void": true
         },
         "King of the End Zone: Malik Nabers": {
           "legs": [
