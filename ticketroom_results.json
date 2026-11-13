@@ -1790,8 +1790,9 @@
             "Darnell Mooney": 750
           },
           "bkey": "|anytime touchdown|Darnell Mooney",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Goal Line Back": {
           "legs": [
@@ -1804,9 +1805,10 @@
             "Chris Manhertz": 3000
           },
           "bkey": "|anytime touchdown|Chris Manhertz",
-          "result": null,
-          "pl": null,
-          "void": false
+          "result": "lost",
+          "pl": -1.0,
+          "void": false,
+          "legs_hit": 0
         },
         "King of the End Zone: Malik Nabers": {
           "legs": [
@@ -1819,8 +1821,8 @@
             "Malik Nabers": 163
           },
           "bkey": "longtd|longest touchdown scorer|Malik Nabers",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0
         },
         "Out of the Gate": {
           "legs": [
@@ -1833,8 +1835,9 @@
             "Isaiah Likely": 1000
           },
           "bkey": "ftd|first touchdown scorer|Isaiah Likely",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Red Zone Target": {
           "legs": [
@@ -1847,8 +1850,9 @@
             "Charlie Jones": 1800
           },
           "bkey": "|anytime touchdown|Charlie Jones",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Short Yardage": {
           "legs": [
@@ -1861,8 +1865,9 @@
             "Jalin Hyatt": 2084
           },
           "bkey": "|anytime touchdown|Jalin Hyatt",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "The Workhorse": {
           "legs": [
@@ -1875,8 +1880,9 @@
             "Devin Singletary": 267
           },
           "bkey": "|anytime touchdown|Devin Singletary",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         }
       }
     },
@@ -2519,7 +2525,7 @@
       "2026-11-13": {}
     }
   },
-  "recap_sent": "2026-11-12",
+  "recap_sent": "2026-11-13",
   "daily": {
     "Soccer Board": {
       "2026-11-02": {
@@ -2577,6 +2583,13 @@
         "v": 0,
         "pl": 2.35,
         "unk": 0
+      },
+      "2026-11-12": {
+        "w": 1,
+        "l": 1,
+        "v": 0,
+        "pl": 0.08,
+        "unk": 0
       }
     },
     "NFL Board": {
@@ -2613,6 +2626,13 @@
         "l": 6,
         "v": 0,
         "pl": 21.51,
+        "unk": 0
+      },
+      "2026-11-12": {
+        "w": 0,
+        "l": 7,
+        "v": 0,
+        "pl": -7.0,
         "unk": 0
       }
     },
@@ -2769,6 +2789,13 @@
         "l": 5,
         "v": 0,
         "pl": -3.0,
+        "unk": 0
+      },
+      "2026-11-12": {
+        "w": 0,
+        "l": 5,
+        "v": 0,
+        "pl": -2.4,
         "unk": 0
       }
     }
