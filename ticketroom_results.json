@@ -2565,6 +2565,48 @@
           "bkey": "|first basket|Myles Turner",
           "result": null,
           "pl": null
+        },
+        "Brick Wall": {
+          "legs": [
+            "Jalen Brunson"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jalen Brunson": -136
+          },
+          "bkey": "downtown|under 2.5 threes|Jalen Brunson",
+          "result": null,
+          "pl": null
+        },
+        "Pallet of Bricks": {
+          "legs": [
+            "Karl-Anthony Towns"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Karl-Anthony Towns": -132
+          },
+          "bkey": "downtown|under 1.5 threes|Karl-Anthony Towns",
+          "result": null,
+          "pl": null
+        },
+        "Rim Rattler": {
+          "legs": [
+            "Landry Shamet"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Landry Shamet": 122
+          },
+          "bkey": "downtown|under 1.5 threes|Landry Shamet",
+          "result": null,
+          "pl": null
         }
       }
     }
