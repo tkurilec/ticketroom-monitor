@@ -7,75 +7,19 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 00:32:49 GMT",
-    "checked_at": "2026-11-13T00:33:11.429077+00:00"
+    "last_modified": "Fri, 13 Nov 2026 01:17:04 GMT",
+    "checked_at": "2026-11-13T01:17:12.423043+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "74ae463a027fe2a628ef8e1475810029274530f171bc9ef29c800ad3e9efeea6",
-    "confirmed": [
-      {
-        "name": "Nailed On",
-        "legs": [
-          "Harry Kane"
-        ],
-        "rr": false,
-        "info": {
-          "Harry Kane": "England vs Croatia \u00b7 Thu Nov 12 \u00b7 2:45 PM ET"
-        },
-        "odds": {
-          "Harry Kane": -185
-        },
-        "units": 2
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Harry Kane"
-        ],
-        "rr": false,
-        "info": {
-          "Harry Kane": "England vs Croatia \u00b7 Thu Nov 12 \u00b7 2:45 PM ET"
-        },
-        "odds": {
-          "Harry Kane": -185
-        }
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Ferran Torres"
-        ],
-        "rr": false,
-        "info": {
-          "Ferran Torres": "Spain vs Czechia \u00b7 Thu Nov 12 \u00b7 2:45 PM ET"
-        },
-        "odds": {
-          "Ferran Torres": -115
-        }
-      }
-    ],
-    "announced": {
-      "Nailed On": [
-        "Harry Kane"
-      ],
-      "Target Man": [
-        "Harry Kane"
-      ],
-      "The Poacher": [
-        "Ferran Torres"
-      ]
-    },
-    "abets": [
-      "|anytime goalscorer|Ferran Torres",
-      "|anytime goalscorer|Harry Kane"
-    ],
-    "slate": "2026-11-12",
-    "hits": [
-      "a:Harry Kane"
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-13",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 00:32:49 GMT",
-    "checked_at": "2026-11-13T00:33:12.109346+00:00"
+    "last_modified": "Fri, 13 Nov 2026 01:17:04 GMT",
+    "checked_at": "2026-11-13T01:17:12.788620+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "913d1dc0aa98c190c1b527b3eaac0bcb2903878d43138550810472cbe0f70aeb",
@@ -212,8 +156,8 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 00:32:49 GMT",
-    "checked_at": "2026-11-13T00:33:12.524587+00:00"
+    "last_modified": "Fri, 13 Nov 2026 01:17:04 GMT",
+    "checked_at": "2026-11-13T01:17:13.682273+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "24cfca9bf8cebb961880013402d22cc47378ed39ec42d0b9c2c9dadbb935d94e",
@@ -302,7 +246,7 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 00:32:49 GMT",
-    "checked_at": "2026-11-13T00:33:15.138242+00:00"
+    "last_modified": "Fri, 13 Nov 2026 01:17:04 GMT",
+    "checked_at": "2026-11-13T01:17:14.132059+00:00"
   }
 }

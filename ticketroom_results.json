@@ -850,8 +850,9 @@
             "Harry Kane": -185
           },
           "bkey": "|anytime goalscorer|Harry Kane",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.0810810810810811,
+          "legs_hit": 1
         },
         "The Poacher": {
           "legs": [
@@ -864,10 +865,12 @@
             "Ferran Torres": -115
           },
           "bkey": "|anytime goalscorer|Ferran Torres",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         }
-      }
+      },
+      "2026-11-13": {}
     },
     "NFL Board": {
       "2026-11-02": {
