@@ -2537,7 +2537,36 @@
           "legs_hit": 0
         }
       },
-      "2026-11-13": {}
+      "2026-11-13": {
+        "Early Offense": {
+          "legs": [
+            "Kelly Oubre Jr."
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Kelly Oubre Jr.": 1400
+          },
+          "bkey": "|first basket|Kelly Oubre Jr.",
+          "result": null,
+          "pl": null
+        },
+        "Off the Tip": {
+          "legs": [
+            "Myles Turner"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Myles Turner": 1100
+          },
+          "bkey": "|first basket|Myles Turner",
+          "result": null,
+          "pl": null
+        }
+      }
     }
   },
   "recap_sent": "2026-11-13",

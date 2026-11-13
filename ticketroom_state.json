@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 18:52:18 GMT",
-    "checked_at": "2026-11-13T18:53:11.662791+00:00"
+    "last_modified": "Fri, 13 Nov 2026 23:36:52 GMT",
+    "checked_at": "2026-11-13T23:40:17.890224+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8537d879851192a37032b19b2659777efadc84536a364145f19453a45490dd17",
@@ -55,8 +55,8 @@
     "slate": "2026-11-13",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 18:52:18 GMT",
-    "checked_at": "2026-11-13T18:53:13.495222+00:00"
+    "last_modified": "Fri, 13 Nov 2026 23:36:52 GMT",
+    "checked_at": "2026-11-13T23:40:18.341893+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -97,18 +97,59 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 18:52:18 GMT",
-    "checked_at": "2026-11-13T18:53:13.874050+00:00"
+    "last_modified": "Fri, 13 Nov 2026 23:36:52 GMT",
+    "checked_at": "2026-11-13T23:40:18.481851+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "5fc57c019b74adc8091f212e5b45659512e783e7dea5f0aeb9687336f4b5837b",
+    "confirmed": [
+      {
+        "name": "Early Offense",
+        "legs": [
+          "Kelly Oubre Jr."
+        ],
+        "rr": false,
+        "info": {
+          "Kelly Oubre Jr.": "Pacers vs Knicks \u00b7 Fri Nov 13 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "Kelly Oubre Jr.": 1400
+        },
+        "units": 0.6,
+        "group": "2"
+      },
+      {
+        "name": "Off the Tip",
+        "legs": [
+          "Myles Turner"
+        ],
+        "rr": false,
+        "info": {
+          "Myles Turner": "Bucks vs Magic \u00b7 Fri Nov 13 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "Myles Turner": 1100
+        },
+        "units": 0.6,
+        "group": "1"
+      }
+    ],
+    "announced": {
+      "Early Offense": [
+        "Kelly Oubre Jr."
+      ],
+      "Off the Tip": [
+        "Myles Turner"
+      ]
+    },
+    "abets": [
+      "|first basket|Kelly Oubre Jr.",
+      "|first basket|Myles Turner"
+    ],
     "slate": "2026-11-13",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 18:52:18 GMT",
-    "checked_at": "2026-11-13T18:53:14.084068+00:00"
+    "last_modified": "Fri, 13 Nov 2026 23:36:52 GMT",
+    "checked_at": "2026-11-13T23:40:20.321211+00:00"
   }
 }
