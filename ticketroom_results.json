@@ -2451,8 +2451,9 @@
             "John Collins": 750
           },
           "bkey": "|first basket|John Collins",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.2,
+          "legs_hit": 0
         },
         "Off the Tip": {
           "legs": [
@@ -2465,8 +2466,9 @@
             "Anthony Davis": 500
           },
           "bkey": "|first basket|Anthony Davis",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.4,
+          "legs_hit": 0
         },
         "Top of the Key": {
           "legs": [
@@ -2479,8 +2481,9 @@
             "Collin Murray-Boyles": 1400
           },
           "bkey": "|first basket|Collin Murray-Boyles",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Ice Breaker": {
           "legs": [
@@ -2493,8 +2496,9 @@
             "Kyrie Irving": 1100
           },
           "bkey": "|first basket|Kyrie Irving",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Lead the Break": {
           "legs": [
@@ -2507,10 +2511,12 @@
             "Oso Ighodaro": 950
           },
           "bkey": "|first basket|Oso Ighodaro",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         }
-      }
+      },
+      "2026-11-13": {}
     }
   },
   "recap_sent": "2026-11-12",

@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 04:37:11 GMT",
-    "checked_at": "2026-11-13T05:00:28.624194+00:00"
+    "last_modified": "Fri, 13 Nov 2026 11:02:10 GMT",
+    "checked_at": "2026-11-13T11:02:12.767861+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-13",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 04:37:11 GMT",
-    "checked_at": "2026-11-13T05:00:28.761236+00:00"
+    "last_modified": "Fri, 13 Nov 2026 11:02:10 GMT",
+    "checked_at": "2026-11-13T11:02:13.138738+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -60,40 +60,18 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 04:37:11 GMT",
-    "checked_at": "2026-11-13T05:00:28.812112+00:00"
+    "last_modified": "Fri, 13 Nov 2026 11:02:10 GMT",
+    "checked_at": "2026-11-13T11:02:13.279270+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Early Offense": [
-        "John Collins"
-      ],
-      "Off the Tip": [
-        "Anthony Davis"
-      ],
-      "Top of the Key": [
-        "Collin Murray-Boyles"
-      ],
-      "Ice Breaker": [
-        "Kyrie Irving"
-      ],
-      "Lead the Break": [
-        "Oso Ighodaro"
-      ]
-    },
-    "abets": [
-      "|first basket|Anthony Davis",
-      "|first basket|Collin Murray-Boyles",
-      "|first basket|John Collins",
-      "|first basket|Kyrie Irving",
-      "|first basket|Oso Ighodaro"
-    ],
-    "slate": "2026-11-12",
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-13",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 04:37:11 GMT",
-    "checked_at": "2026-11-13T05:00:28.883079+00:00"
+    "last_modified": "Fri, 13 Nov 2026 11:02:10 GMT",
+    "checked_at": "2026-11-13T11:02:13.516762+00:00"
   }
 }
