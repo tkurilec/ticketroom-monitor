@@ -1775,7 +1775,106 @@
           "legs_hit": 1
         }
       },
-      "2026-11-12": {}
+      "2026-11-12": {
+        "Bell Cow": {
+          "legs": [
+            "Darnell Mooney"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Darnell Mooney": 750
+          },
+          "bkey": "|anytime touchdown|Darnell Mooney",
+          "result": null,
+          "pl": null
+        },
+        "Goal Line Back": {
+          "legs": [
+            "Thomas Fidone II"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Thomas Fidone II": 2897
+          },
+          "bkey": "|anytime touchdown|Thomas Fidone II",
+          "result": null,
+          "pl": null
+        },
+        "King of the End Zone: Malik Nabers": {
+          "legs": [
+            "Malik Nabers"
+          ],
+          "kind": "longtd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Malik Nabers": 163
+          },
+          "bkey": "longtd|longest touchdown scorer|Malik Nabers",
+          "result": null,
+          "pl": null
+        },
+        "Out of the Gate": {
+          "legs": [
+            "Isaiah Likely"
+          ],
+          "kind": "ftd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Isaiah Likely": 1000
+          },
+          "bkey": "ftd|first touchdown scorer|Isaiah Likely",
+          "result": null,
+          "pl": null
+        },
+        "Red Zone Target": {
+          "legs": [
+            "Charlie Jones"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Charlie Jones": 1800
+          },
+          "bkey": "|anytime touchdown|Charlie Jones",
+          "result": null,
+          "pl": null
+        },
+        "Short Yardage": {
+          "legs": [
+            "Jalin Hyatt"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jalin Hyatt": 2084
+          },
+          "bkey": "|anytime touchdown|Jalin Hyatt",
+          "result": null,
+          "pl": null
+        },
+        "The Workhorse": {
+          "legs": [
+            "Devin Singletary"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Devin Singletary": 267
+          },
+          "bkey": "|anytime touchdown|Devin Singletary",
+          "result": null,
+          "pl": null
+        }
+      }
     },
     "NBA Board": {
       "2026-11-05": {

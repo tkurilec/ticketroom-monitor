@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 23:37:10 GMT",
-    "checked_at": "2026-11-12T23:37:13.015880+00:00"
+    "last_modified": "Thu, 12 Nov 2026 23:57:54 GMT",
+    "checked_at": "2026-11-13T00:00:23.267148+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "74ae463a027fe2a628ef8e1475810029274530f171bc9ef29c800ad3e9efeea6",
@@ -74,19 +74,145 @@
       "a:Harry Kane"
     ],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 23:37:10 GMT",
-    "checked_at": "2026-11-12T23:37:14.142352+00:00"
+    "last_modified": "Thu, 12 Nov 2026 23:57:54 GMT",
+    "checked_at": "2026-11-13T00:00:23.961707+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "e3e0939e12f6f4eacf702d669e5ba48b61d2a137d0c01d1ba13a8948db1f23f6",
+    "confirmed": [
+      {
+        "name": "Bell Cow",
+        "legs": [
+          "Darnell Mooney"
+        ],
+        "rr": false,
+        "info": {
+          "Darnell Mooney": "Giants vs Commanders \u00b7 Thu Nov 12 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Darnell Mooney": 750
+        }
+      },
+      {
+        "name": "Goal Line Back",
+        "legs": [
+          "Thomas Fidone II"
+        ],
+        "rr": false,
+        "info": {
+          "Thomas Fidone II": "Giants vs Commanders \u00b7 Thu Nov 12 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Thomas Fidone II": 2897
+        }
+      },
+      {
+        "name": "King of the End Zone: Malik Nabers",
+        "legs": [
+          "Malik Nabers"
+        ],
+        "rr": false,
+        "market": "longest touchdown scorer",
+        "kind": "longtd",
+        "info": {
+          "Malik Nabers": "Giants vs Commanders \u00b7 Thu Nov 12 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Malik Nabers": 163
+        }
+      },
+      {
+        "name": "Out of the Gate",
+        "legs": [
+          "Isaiah Likely"
+        ],
+        "rr": false,
+        "info": {
+          "Isaiah Likely": "Giants vs Commanders \u00b7 Thu Nov 12 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Isaiah Likely": 1000
+        },
+        "market": "first touchdown scorer",
+        "kind": "ftd"
+      },
+      {
+        "name": "Red Zone Target",
+        "legs": [
+          "Charlie Jones"
+        ],
+        "rr": false,
+        "info": {
+          "Charlie Jones": "Giants vs Commanders \u00b7 Thu Nov 12 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Charlie Jones": 1800
+        }
+      },
+      {
+        "name": "Short Yardage",
+        "legs": [
+          "Jalin Hyatt"
+        ],
+        "rr": false,
+        "info": {
+          "Jalin Hyatt": "Giants vs Commanders \u00b7 Thu Nov 12 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Jalin Hyatt": 2084
+        }
+      },
+      {
+        "name": "The Workhorse",
+        "legs": [
+          "Devin Singletary"
+        ],
+        "rr": false,
+        "info": {
+          "Devin Singletary": "Giants vs Commanders \u00b7 Thu Nov 12 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Devin Singletary": 267
+        }
+      }
+    ],
+    "announced": {
+      "Bell Cow": [
+        "Darnell Mooney"
+      ],
+      "Goal Line Back": [
+        "Thomas Fidone II"
+      ],
+      "King of the End Zone: Malik Nabers": [
+        "Malik Nabers"
+      ],
+      "Out of the Gate": [
+        "Isaiah Likely"
+      ],
+      "Red Zone Target": [
+        "Charlie Jones"
+      ],
+      "Short Yardage": [
+        "Jalin Hyatt"
+      ],
+      "The Workhorse": [
+        "Devin Singletary"
+      ]
+    },
+    "abets": [
+      "ftd|first touchdown scorer|Isaiah Likely",
+      "longtd|longest touchdown scorer|Malik Nabers",
+      "|anytime touchdown|Charlie Jones",
+      "|anytime touchdown|Darnell Mooney",
+      "|anytime touchdown|Devin Singletary",
+      "|anytime touchdown|Jalin Hyatt",
+      "|anytime touchdown|Thomas Fidone II"
+    ],
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 23:37:10 GMT",
-    "checked_at": "2026-11-12T23:37:14.386976+00:00"
+    "last_modified": "Thu, 12 Nov 2026 23:57:54 GMT",
+    "checked_at": "2026-11-13T00:00:26.068369+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "9aa2132863ea00fefc68e91ee2ad9123edbe51b1e199844c3a95e3296df178ec",
@@ -156,7 +282,7 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 12 Nov 2026 23:37:10 GMT",
-    "checked_at": "2026-11-12T23:37:16.384558+00:00"
+    "last_modified": "Thu, 12 Nov 2026 23:57:54 GMT",
+    "checked_at": "2026-11-13T00:00:26.204784+00:00"
   }
 }
