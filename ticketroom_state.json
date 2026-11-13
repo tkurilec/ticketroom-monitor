@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 23:47:00 GMT",
-    "checked_at": "2026-11-13T23:47:12.651936+00:00"
+    "last_modified": "Fri, 13 Nov 2026 23:52:19 GMT",
+    "checked_at": "2026-11-13T23:53:13.003163+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8537d879851192a37032b19b2659777efadc84536a364145f19453a45490dd17",
@@ -55,8 +55,8 @@
     "slate": "2026-11-13",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 23:47:00 GMT",
-    "checked_at": "2026-11-13T23:47:13.039825+00:00"
+    "last_modified": "Fri, 13 Nov 2026 23:52:19 GMT",
+    "checked_at": "2026-11-13T23:53:13.441687+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -97,25 +97,40 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 23:47:00 GMT",
-    "checked_at": "2026-11-13T23:47:13.192055+00:00"
+    "last_modified": "Fri, 13 Nov 2026 23:52:19 GMT",
+    "checked_at": "2026-11-13T23:53:13.670301+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "efd3fd3d2265cf7959cedb2eae0b1cb3136afebaee4b5d21dfe7da69b3da258f",
+    "hash": "8811f700c8e14e2da094d804a690bc76eb08e038083c857b7088378ee90a3ad3",
     "confirmed": [
       {
         "name": "Brick Wall",
         "legs": [
-          "Karl-Anthony Towns"
+          "Anthony Black"
         ],
         "rr": false,
         "market": "under 1.5 threes",
         "kind": "downtown",
         "info": {
-          "Karl-Anthony Towns": "Knicks vs Pacers \u00b7 Fri Nov 13 \u00b7 7:00 PM ET"
+          "Anthony Black": "Magic vs Bucks \u00b7 Fri Nov 13 \u00b7 7:00 PM ET"
         },
         "odds": {
-          "Karl-Anthony Towns": -132
+          "Anthony Black": -104
+        }
+      },
+      {
+        "name": "Clank",
+        "legs": [
+          "Jalen Brunson"
+        ],
+        "rr": false,
+        "market": "under 2.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Jalen Brunson": "Knicks vs Pacers \u00b7 Fri Nov 13 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "Jalen Brunson": -136
         }
       },
       {
@@ -132,6 +147,36 @@
         },
         "units": 0.6,
         "group": "2"
+      },
+      {
+        "name": "Grout Line",
+        "legs": [
+          "Landry Shamet"
+        ],
+        "rr": false,
+        "market": "under 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Landry Shamet": "Knicks vs Pacers \u00b7 Fri Nov 13 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "Landry Shamet": 122
+        }
+      },
+      {
+        "name": "Iron Out",
+        "legs": [
+          "Karl-Anthony Towns"
+        ],
+        "rr": false,
+        "market": "under 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Karl-Anthony Towns": "Knicks vs Pacers \u00b7 Fri Nov 13 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "Karl-Anthony Towns": -132
+        }
       },
       {
         "name": "Off the Tip",
@@ -151,31 +196,46 @@
       {
         "name": "Pallet of Bricks",
         "legs": [
-          "Jalen Brunson"
-        ],
-        "rr": false,
-        "market": "under 2.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Jalen Brunson": "Knicks vs Pacers \u00b7 Fri Nov 13 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Jalen Brunson": -136
-        }
-      },
-      {
-        "name": "Rim Rattler",
-        "legs": [
-          "Landry Shamet"
+          "Kyle Kuzma"
         ],
         "rr": false,
         "market": "under 1.5 threes",
         "kind": "downtown",
         "info": {
-          "Landry Shamet": "Knicks vs Pacers \u00b7 Fri Nov 13 \u00b7 7:00 PM ET"
+          "Kyle Kuzma": "Bucks vs Magic \u00b7 Fri Nov 13 \u00b7 7:00 PM ET"
         },
         "odds": {
-          "Landry Shamet": 122
+          "Kyle Kuzma": -140
+        }
+      },
+      {
+        "name": "Rim Rattler",
+        "legs": [
+          "Tyler Herro"
+        ],
+        "rr": false,
+        "market": "under 2.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Tyler Herro": "Bucks vs Magic \u00b7 Fri Nov 13 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "Tyler Herro": -111
+        }
+      },
+      {
+        "name": "The Masonry",
+        "legs": [
+          "Desmond Bane"
+        ],
+        "rr": false,
+        "market": "under 3.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Desmond Bane": "Magic vs Bucks \u00b7 Fri Nov 13 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "Desmond Bane": -132
         }
       }
     ],
@@ -187,26 +247,42 @@
         "Myles Turner"
       ],
       "Brick Wall": [
-        "Karl-Anthony Towns"
+        "Anthony Black"
       ],
       "Pallet of Bricks": [
-        "Jalen Brunson"
+        "Kyle Kuzma"
       ],
       "Rim Rattler": [
+        "Tyler Herro"
+      ],
+      "Clank": [
+        "Jalen Brunson"
+      ],
+      "Grout Line": [
         "Landry Shamet"
+      ],
+      "Iron Out": [
+        "Karl-Anthony Towns"
+      ],
+      "The Masonry": [
+        "Desmond Bane"
       ]
     },
     "abets": [
+      "downtown|under 1.5 threes|Anthony Black",
       "downtown|under 1.5 threes|Karl-Anthony Towns",
+      "downtown|under 1.5 threes|Kyle Kuzma",
       "downtown|under 1.5 threes|Landry Shamet",
       "downtown|under 2.5 threes|Jalen Brunson",
+      "downtown|under 2.5 threes|Tyler Herro",
+      "downtown|under 3.5 threes|Desmond Bane",
       "|first basket|Kelly Oubre Jr.",
       "|first basket|Myles Turner"
     ],
     "slate": "2026-11-13",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 23:47:00 GMT",
-    "checked_at": "2026-11-13T23:47:13.359789+00:00"
+    "last_modified": "Fri, 13 Nov 2026 23:52:19 GMT",
+    "checked_at": "2026-11-13T23:53:15.543894+00:00"
   }
 }
