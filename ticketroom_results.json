@@ -2478,6 +2478,20 @@
           "bkey": "|first basket|Collin Murray-Boyles",
           "result": null,
           "pl": null
+        },
+        "Ice Breaker": {
+          "legs": [
+            "Kyrie Irving"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Kyrie Irving": 1100
+          },
+          "bkey": "|first basket|Kyrie Irving",
+          "result": null,
+          "pl": null
         }
       }
     }

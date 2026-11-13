@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 00:07:51 GMT",
-    "checked_at": "2026-11-13T00:08:13.819915+00:00"
+    "last_modified": "Fri, 13 Nov 2026 00:32:49 GMT",
+    "checked_at": "2026-11-13T00:33:11.429077+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "74ae463a027fe2a628ef8e1475810029274530f171bc9ef29c800ad3e9efeea6",
@@ -74,8 +74,8 @@
       "a:Harry Kane"
     ],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 00:07:51 GMT",
-    "checked_at": "2026-11-13T00:08:14.578226+00:00"
+    "last_modified": "Fri, 13 Nov 2026 00:32:49 GMT",
+    "checked_at": "2026-11-13T00:33:12.109346+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "913d1dc0aa98c190c1b527b3eaac0bcb2903878d43138550810472cbe0f70aeb",
@@ -212,11 +212,11 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 00:07:51 GMT",
-    "checked_at": "2026-11-13T00:08:16.762387+00:00"
+    "last_modified": "Fri, 13 Nov 2026 00:32:49 GMT",
+    "checked_at": "2026-11-13T00:33:12.524587+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "9aa2132863ea00fefc68e91ee2ad9123edbe51b1e199844c3a95e3296df178ec",
+    "hash": "24cfca9bf8cebb961880013402d22cc47378ed39ec42d0b9c2c9dadbb935d94e",
     "confirmed": [
       {
         "name": "Early Offense",
@@ -232,6 +232,21 @@
         },
         "units": 0.2,
         "group": "2"
+      },
+      {
+        "name": "Ice Breaker",
+        "legs": [
+          "Kyrie Irving"
+        ],
+        "rr": false,
+        "info": {
+          "Kyrie Irving": "Mavericks vs Timberwolves \u00b7 Thu Nov 12 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Kyrie Irving": 1100
+        },
+        "units": 0.6,
+        "group": "3"
       },
       {
         "name": "Off the Tip",
@@ -273,17 +288,21 @@
       ],
       "Top of the Key": [
         "Collin Murray-Boyles"
+      ],
+      "Ice Breaker": [
+        "Kyrie Irving"
       ]
     },
     "abets": [
       "|first basket|Anthony Davis",
       "|first basket|Collin Murray-Boyles",
-      "|first basket|John Collins"
+      "|first basket|John Collins",
+      "|first basket|Kyrie Irving"
     ],
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 00:07:51 GMT",
-    "checked_at": "2026-11-13T00:08:17.064929+00:00"
+    "last_modified": "Fri, 13 Nov 2026 00:32:49 GMT",
+    "checked_at": "2026-11-13T00:33:15.138242+00:00"
   }
 }
