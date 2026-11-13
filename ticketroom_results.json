@@ -2495,6 +2495,20 @@
           "bkey": "|first basket|Kyrie Irving",
           "result": null,
           "pl": null
+        },
+        "Lead the Break": {
+          "legs": [
+            "Oso Ighodaro"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Oso Ighodaro": 950
+          },
+          "bkey": "|first basket|Oso Ighodaro",
+          "result": null,
+          "pl": null
         }
       }
     }
