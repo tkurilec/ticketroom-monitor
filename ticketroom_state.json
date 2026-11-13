@@ -7,19 +7,56 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 11:02:10 GMT",
-    "checked_at": "2026-11-13T11:02:12.767861+00:00"
+    "last_modified": "Fri, 13 Nov 2026 18:52:18 GMT",
+    "checked_at": "2026-11-13T18:53:11.662791+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "8537d879851192a37032b19b2659777efadc84536a364145f19453a45490dd17",
+    "confirmed": [
+      {
+        "name": "Both Barrels",
+        "legs": [
+          "Kai Havertz"
+        ],
+        "rr": false,
+        "info": {
+          "Kai Havertz": "Germany vs Serbia \u00b7 Fri Nov 13 \u00b7 2:45 PM ET"
+        },
+        "odds": {
+          "Kai Havertz": -120
+        },
+        "units": 2
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Kai Havertz"
+        ],
+        "rr": false,
+        "info": {
+          "Kai Havertz": "Germany vs Serbia \u00b7 Fri Nov 13 \u00b7 2:45 PM ET"
+        },
+        "odds": {
+          "Kai Havertz": -120
+        }
+      }
+    ],
+    "announced": {
+      "Both Barrels": [
+        "Kai Havertz"
+      ],
+      "Target Man": [
+        "Kai Havertz"
+      ]
+    },
+    "abets": [
+      "|anytime goalscorer|Kai Havertz"
+    ],
     "slate": "2026-11-13",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 11:02:10 GMT",
-    "checked_at": "2026-11-13T11:02:13.138738+00:00"
+    "last_modified": "Fri, 13 Nov 2026 18:52:18 GMT",
+    "checked_at": "2026-11-13T18:53:13.495222+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -60,8 +97,8 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 11:02:10 GMT",
-    "checked_at": "2026-11-13T11:02:13.279270+00:00"
+    "last_modified": "Fri, 13 Nov 2026 18:52:18 GMT",
+    "checked_at": "2026-11-13T18:53:13.874050+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -71,7 +108,7 @@
     "slate": "2026-11-13",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 11:02:10 GMT",
-    "checked_at": "2026-11-13T11:02:13.516762+00:00"
+    "last_modified": "Fri, 13 Nov 2026 18:52:18 GMT",
+    "checked_at": "2026-11-13T18:53:14.084068+00:00"
   }
 }
