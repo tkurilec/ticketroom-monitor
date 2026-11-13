@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 23:42:18 GMT",
-    "checked_at": "2026-11-13T23:43:12.544214+00:00"
+    "last_modified": "Fri, 13 Nov 2026 23:47:00 GMT",
+    "checked_at": "2026-11-13T23:47:12.651936+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8537d879851192a37032b19b2659777efadc84536a364145f19453a45490dd17",
@@ -55,8 +55,8 @@
     "slate": "2026-11-13",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 23:42:18 GMT",
-    "checked_at": "2026-11-13T23:43:12.870173+00:00"
+    "last_modified": "Fri, 13 Nov 2026 23:47:00 GMT",
+    "checked_at": "2026-11-13T23:47:13.039825+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -97,25 +97,25 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 23:42:18 GMT",
-    "checked_at": "2026-11-13T23:43:13.144314+00:00"
+    "last_modified": "Fri, 13 Nov 2026 23:47:00 GMT",
+    "checked_at": "2026-11-13T23:47:13.192055+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "bc85af0da2db11b3b9e23af0b61222a88d16149df7775761aa4fdf5c75777f45",
+    "hash": "efd3fd3d2265cf7959cedb2eae0b1cb3136afebaee4b5d21dfe7da69b3da258f",
     "confirmed": [
       {
         "name": "Brick Wall",
         "legs": [
-          "Jalen Brunson"
+          "Karl-Anthony Towns"
         ],
         "rr": false,
-        "market": "under 2.5 threes",
+        "market": "under 1.5 threes",
         "kind": "downtown",
         "info": {
-          "Jalen Brunson": "Knicks vs Pacers \u00b7 Fri Nov 13 \u00b7 7:00 PM ET"
+          "Karl-Anthony Towns": "Knicks vs Pacers \u00b7 Fri Nov 13 \u00b7 7:00 PM ET"
         },
         "odds": {
-          "Jalen Brunson": -136
+          "Karl-Anthony Towns": -132
         }
       },
       {
@@ -151,16 +151,16 @@
       {
         "name": "Pallet of Bricks",
         "legs": [
-          "Karl-Anthony Towns"
+          "Jalen Brunson"
         ],
         "rr": false,
-        "market": "under 1.5 threes",
+        "market": "under 2.5 threes",
         "kind": "downtown",
         "info": {
-          "Karl-Anthony Towns": "Knicks vs Pacers \u00b7 Fri Nov 13 \u00b7 7:00 PM ET"
+          "Jalen Brunson": "Knicks vs Pacers \u00b7 Fri Nov 13 \u00b7 7:00 PM ET"
         },
         "odds": {
-          "Karl-Anthony Towns": -132
+          "Jalen Brunson": -136
         }
       },
       {
@@ -187,10 +187,10 @@
         "Myles Turner"
       ],
       "Brick Wall": [
-        "Jalen Brunson"
+        "Karl-Anthony Towns"
       ],
       "Pallet of Bricks": [
-        "Karl-Anthony Towns"
+        "Jalen Brunson"
       ],
       "Rim Rattler": [
         "Landry Shamet"
@@ -206,7 +206,7 @@
     "slate": "2026-11-13",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 23:42:18 GMT",
-    "checked_at": "2026-11-13T23:43:16.153611+00:00"
+    "last_modified": "Fri, 13 Nov 2026 23:47:00 GMT",
+    "checked_at": "2026-11-13T23:47:13.359789+00:00"
   }
 }
