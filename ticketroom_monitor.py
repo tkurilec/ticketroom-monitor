@@ -33,9 +33,11 @@ PAGES = {
 # Some ticket kinds are a different market than their board's default prop:
 # NFL's "Opening Drive" (kind ftd) is FIRST TD scorer. (Soccer's "brace" kind
 # is NOT a 2-goal market — it's the 2-unit pick-of-the-day lane, default prop.)
-# NBA "Downtown" threes-made singles: paused 2026-10-27 (the site kept
-# pulling the picks right around tip). Set True to resume.
-DOWNTOWN_ENABLED = False
+# NBA "Downtown" threes singles: paused 2026-10-27 (the site kept pulling
+# the picks right around tip at the then tip−30 clock), resumed 2026-11-13
+# (user request; the clock has been tip−20 since, and picks now carry a
+# side O/U — unders are graded side-aware, see the dt sections below).
+DOWNTOWN_ENABLED = True
 
 KIND_MARKETS = {
     "ftd": "first touchdown scorer",
@@ -396,7 +398,8 @@ def token_line(tok: str, board: str) -> str:
     if scope == "ftd":
         return f"🏁 **{nm}** scored the FIRST TD!"
     if scope == "dt":
-        return f"🎯 **{nm}** cleared his threes line!"
+        # Side-neutral: an over cleared its line, an under survived it.
+        return f"🎯 **{nm}** — threes pick cashed!"
     if scope == "t":
         return f"🧤 **{nm}** — hit!"
     emoji, verb = HIT_STYLE.get(board, ("🎯", "hit"))
@@ -821,12 +824,11 @@ def extract_signature(html: str, early_min: int = 0,
                                        for leg in tot_raw
                                        if leg.get("odds") is not None}})
 
-    # meta.dt is the NBA "Downtown" threes-made section (added 2026-10-26):
-    # independent singles, each player over a line of made threes. The line
-    # rides in the market so the card and Gambly link are self-describing.
-    # PAUSED per the user 2026-10-27: the site keeps pulling Downtown picks
-    # right around tip, so announcing them burns people on withdrawn bets.
-    # Flip DOWNTOWN_ENABLED to True to resume cards + hit pings.
+    # meta.dt is the NBA "Downtown" threes section (added 2026-10-26, resumed
+    # 2026-11-13): independent singles, each player over OR under a line of
+    # made threes — picks carry side "O"/"U" since the 2026-10-28 rework. The
+    # side + line ride in the market so the card and Gambly link are
+    # self-describing, and the odds ride into the ledger for grading.
     dt_picks = ((meta.get("dt") or {}).get("picks") or []) if DOWNTOWN_ENABLED else []
     for p in dt_picks:
         nm = p.get("name")
@@ -838,13 +840,17 @@ def extract_signature(html: str, early_min: int = 0,
         if not launched:
             continue
         line = p.get("line")
+        side = "under" if str(p.get("side")).upper() == "U" else "over"
         confirmed.append({
             "name": p.get("tname") or f"Downtown: {nm}",
             "legs": [nm],
             "rr": False,
-            "market": f"over {line} threes" if line is not None else "made threes",
+            "market": (f"{side} {line} threes" if line is not None
+                       else "made threes"),
             "kind": "downtown",
             "info": {nm: leg_info(p)},
+            "odds": ({nm: p["odds"]}
+                     if isinstance(p.get("odds"), (int, float)) else {}),
         })
 
     # meta.longtd is "King of the End Zone" (announced since 2026-10-26):
@@ -911,14 +917,26 @@ def extract_signature(html: str, early_min: int = 0,
                 hits.add(f"a:{nm}")
     # Downtown picks: the site bakes made-threes from nba.com each build into
     # "made" (live counter) with "kmin" the threshold; res == "w" only lands
-    # at settle, so the live counter is the real-time trigger.
+    # at settle. SIDE-AWARE (the 2026-10-27 pause note): an OVER cashes live
+    # the moment made >= kmin, but an UNDER clearing kmin has LOST — an under
+    # can only cash once its game is final with made still below kmin (or the
+    # site's own res == "w"), never from the live counter mid-game.
+    final_games = ({str(g) for g, v in (meta.get("gs") or {}).items()
+                    if str(v).lower() in ("final", "post")}
+                   | {str(g) for g in (meta.get("finals") or [])})
     for p in dt_picks:
         if not p.get("name"):
             continue
         made, kmin = p.get("made"), p.get("kmin")
-        cleared = (isinstance(made, (int, float))
-                   and isinstance(kmin, (int, float)) and made >= kmin)
-        if cleared or p.get("res") == "w":
+        counted = (isinstance(made, (int, float))
+                   and isinstance(kmin, (int, float)))
+        if str(p.get("side")).upper() == "U":
+            won = (p.get("res") == "w"
+                   or (counted and made < kmin
+                       and str(p.get("game")) in final_games))
+        else:
+            won = (p.get("res") == "w" or (counted and made >= kmin))
+        if won:
             hits.add(f"dt:{p['name']}")
     return {"confirmed": confirmed, "hits": sorted(hits),
             "tot_raw": tot_raw, "espn": meta.get("espn") or {},
