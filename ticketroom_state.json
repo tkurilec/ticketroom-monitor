@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 02:06:45 GMT",
-    "checked_at": "2026-11-14T02:10:21.994189+00:00"
+    "last_modified": "Sat, 14 Nov 2026 02:31:10 GMT",
+    "checked_at": "2026-11-14T02:31:12.268878+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-14",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 02:06:45 GMT",
-    "checked_at": "2026-11-14T02:10:22.223967+00:00"
+    "last_modified": "Sat, 14 Nov 2026 02:31:10 GMT",
+    "checked_at": "2026-11-14T02:31:12.494425+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -60,8 +60,8 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 02:06:45 GMT",
-    "checked_at": "2026-11-14T02:10:22.351223+00:00"
+    "last_modified": "Sat, 14 Nov 2026 02:31:10 GMT",
+    "checked_at": "2026-11-14T02:31:12.753771+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "3477701214f5f0e92be6b2d87a520b79a8b3ec8ccc5104ac2184339938fc61b4",
@@ -438,9 +438,13 @@
       "|first basket|Onyeka Okongwu"
     ],
     "slate": "2026-11-13",
-    "hits": [],
+    "hits": [
+      "dt:Anthony Black",
+      "dt:Kyle Kuzma",
+      "dt:Tyler Herro"
+    ],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 02:06:45 GMT",
-    "checked_at": "2026-11-14T02:10:24.622636+00:00"
+    "last_modified": "Sat, 14 Nov 2026 02:31:10 GMT",
+    "checked_at": "2026-11-14T02:31:14.149114+00:00"
   }
 }
