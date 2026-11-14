@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 04:37:40 GMT",
-    "checked_at": "2026-11-14T05:00:21.310410+00:00"
+    "last_modified": "Sat, 14 Nov 2026 11:00:56 GMT",
+    "checked_at": "2026-11-14T11:01:13.400119+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-14",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 04:37:40 GMT",
-    "checked_at": "2026-11-14T05:00:21.711219+00:00"
+    "last_modified": "Sat, 14 Nov 2026 11:00:56 GMT",
+    "checked_at": "2026-11-14T11:01:13.628531+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -60,122 +60,18 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 04:37:40 GMT",
-    "checked_at": "2026-11-14T05:00:21.879365+00:00"
+    "last_modified": "Sat, 14 Nov 2026 11:00:56 GMT",
+    "checked_at": "2026-11-14T11:01:13.822537+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Early Offense": [
-        "Kelly Oubre Jr."
-      ],
-      "Off the Tip": [
-        "Myles Turner"
-      ],
-      "Brick Wall": [
-        "Anthony Black"
-      ],
-      "Pallet of Bricks": [
-        "Kyle Kuzma"
-      ],
-      "Rim Rattler": [
-        "Tyler Herro"
-      ],
-      "Clank": [
-        "Jalen Brunson"
-      ],
-      "Grout Line": [
-        "Landry Shamet"
-      ],
-      "Iron Out": [
-        "Karl-Anthony Towns"
-      ],
-      "The Masonry": [
-        "Desmond Bane"
-      ],
-      "Back Iron": [
-        "Matas Buzelis"
-      ],
-      "Building Code": [
-        "Jalen Smith"
-      ],
-      "Cinder Block": [
-        "Norman Powell"
-      ],
-      "Ice Breaker": [
-        "Karlo Matkovic"
-      ],
-      "Lead the Break": [
-        "Onyeka Okongwu"
-      ],
-      "Bricklayer": [
-        "Cedric Coward"
-      ],
-      "First Touch": [
-        "Bam Adebayo"
-      ],
-      "Load-Bearing Wall": [
-        "Donovan Mitchell"
-      ],
-      "Under Construction": [
-        "Ty Jerome"
-      ],
-      "Red Clay": [
-        "Josh Green"
-      ],
-      "Two Points": [
-        "Draymond Green"
-      ],
-      "The Starter": [
-        "Zach LaVine"
-      ],
-      "Front Rim": [
-        "Alex Caruso"
-      ],
-      "Mortar Mix": [
-        "Shai Gilgeous-Alexander"
-      ]
-    },
-    "abets": [
-      "downtown|under 1.5 threes|Alex Caruso",
-      "downtown|under 1.5 threes|Anthony Black",
-      "downtown|under 1.5 threes|Cedric Coward",
-      "downtown|under 1.5 threes|Jalen Smith",
-      "downtown|under 1.5 threes|Jaylen Wells",
-      "downtown|under 1.5 threes|Josh Green",
-      "downtown|under 1.5 threes|Karl-Anthony Towns",
-      "downtown|under 1.5 threes|Kyle Kuzma",
-      "downtown|under 1.5 threes|Landry Shamet",
-      "downtown|under 1.5 threes|Matas Buzelis",
-      "downtown|under 2.5 threes|Donovan Mitchell",
-      "downtown|under 2.5 threes|Jalen Brunson",
-      "downtown|under 2.5 threes|Norman Powell",
-      "downtown|under 2.5 threes|Shai Gilgeous-Alexander",
-      "downtown|under 2.5 threes|Ty Jerome",
-      "downtown|under 2.5 threes|Tyler Herro",
-      "downtown|under 3.5 threes|Desmond Bane",
-      "|first basket|Bam Adebayo",
-      "|first basket|Draymond Green",
-      "|first basket|Karlo Matkovic",
-      "|first basket|Kelly Oubre Jr.",
-      "|first basket|Myles Turner",
-      "|first basket|Onyeka Okongwu",
-      "|first basket|Zach LaVine"
-    ],
-    "slate": "2026-11-13",
-    "hits": [
-      "dt:Anthony Black",
-      "dt:Cedric Coward",
-      "dt:Jalen Smith",
-      "dt:Josh Green",
-      "dt:Kyle Kuzma",
-      "dt:Landry Shamet",
-      "dt:Ty Jerome",
-      "dt:Tyler Herro"
-    ],
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-14",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 04:37:40 GMT",
-    "checked_at": "2026-11-14T05:00:22.032519+00:00"
+    "last_modified": "Sat, 14 Nov 2026 11:00:56 GMT",
+    "checked_at": "2026-11-14T11:01:14.017849+00:00"
   }
 }

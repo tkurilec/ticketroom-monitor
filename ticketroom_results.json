@@ -2551,8 +2551,9 @@
             "Kelly Oubre Jr.": 1400
           },
           "bkey": "|first basket|Kelly Oubre Jr.",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Off the Tip": {
           "legs": [
@@ -2565,8 +2566,9 @@
             "Myles Turner": 1100
           },
           "bkey": "|first basket|Myles Turner",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Brick Wall": {
           "legs": [
@@ -2579,8 +2581,9 @@
             "Jalen Brunson": -136
           },
           "bkey": "downtown|under 2.5 threes|Jalen Brunson",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Pallet of Bricks": {
           "legs": [
@@ -2593,8 +2596,9 @@
             "Karl-Anthony Towns": -132
           },
           "bkey": "downtown|under 1.5 threes|Karl-Anthony Towns",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Rim Rattler": {
           "legs": [
@@ -2607,8 +2611,9 @@
             "Landry Shamet": 122
           },
           "bkey": "downtown|under 1.5 threes|Landry Shamet",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.2199999999999998,
+          "legs_hit": 1
         },
         "The Masonry": {
           "legs": [
@@ -2621,8 +2626,9 @@
             "Desmond Bane": -132
           },
           "bkey": "downtown|under 3.5 threes|Desmond Bane",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Back Iron": {
           "legs": [
@@ -2635,8 +2641,9 @@
             "Matas Buzelis": 144
           },
           "bkey": "downtown|under 1.5 threes|Matas Buzelis",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Building Code": {
           "legs": [
@@ -2649,8 +2656,9 @@
             "Jalen Smith": 116
           },
           "bkey": "downtown|under 1.5 threes|Jalen Smith",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.1600000000000001,
+          "legs_hit": 1
         },
         "Cinder Block": {
           "legs": [
@@ -2663,8 +2671,9 @@
             "Norman Powell": -111
           },
           "bkey": "downtown|under 2.5 threes|Norman Powell",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Ice Breaker": {
           "legs": [
@@ -2677,9 +2686,10 @@
             "Karlo Matkovic": 1000
           },
           "bkey": "|first basket|Karlo Matkovic",
-          "result": null,
-          "pl": null,
-          "void": false
+          "result": "lost",
+          "pl": -0.6,
+          "void": false,
+          "legs_hit": 0
         },
         "Lead the Break": {
           "legs": [
@@ -2692,8 +2702,9 @@
             "Onyeka Okongwu": 800
           },
           "bkey": "|first basket|Onyeka Okongwu",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Bricklayer": {
           "legs": [
@@ -2706,8 +2717,9 @@
             "Jaylen Wells": 124
           },
           "bkey": "downtown|under 1.5 threes|Jaylen Wells",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "First Touch": {
           "legs": [
@@ -2720,8 +2732,9 @@
             "Bam Adebayo": 650
           },
           "bkey": "|first basket|Bam Adebayo",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Load-Bearing Wall": {
           "legs": [
@@ -2734,8 +2747,9 @@
             "Donovan Mitchell": 104
           },
           "bkey": "downtown|under 2.5 threes|Donovan Mitchell",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Under Construction": {
           "legs": [
@@ -2748,8 +2762,9 @@
             "Ty Jerome": -106
           },
           "bkey": "downtown|under 2.5 threes|Ty Jerome",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.9433962264150944,
+          "legs_hit": 1
         },
         "Red Clay": {
           "legs": [
@@ -2762,8 +2777,9 @@
             "Josh Green": -265
           },
           "bkey": "downtown|under 1.5 threes|Josh Green",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.37735849056603765,
+          "legs_hit": 1
         },
         "Two Points": {
           "legs": [
@@ -2776,8 +2792,9 @@
             "Draymond Green": 1400
           },
           "bkey": "|first basket|Draymond Green",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "The Starter": {
           "legs": [
@@ -2790,8 +2807,9 @@
             "Zach LaVine": 1300
           },
           "bkey": "|first basket|Zach LaVine",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Front Rim": {
           "legs": [
@@ -2804,8 +2822,9 @@
             "Alex Caruso": -158
           },
           "bkey": "downtown|under 1.5 threes|Alex Caruso",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Mortar Mix": {
           "legs": [
@@ -2818,10 +2837,12 @@
             "Shai Gilgeous-Alexander": -156
           },
           "bkey": "downtown|under 2.5 threes|Shai Gilgeous-Alexander",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         }
-      }
+      },
+      "2026-11-14": {}
     }
   },
   "recap_sent": "2026-11-13",
