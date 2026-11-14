@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 01:19:44 GMT",
-    "checked_at": "2026-11-14T01:20:16.158681+00:00"
+    "last_modified": "Sat, 14 Nov 2026 02:06:45 GMT",
+    "checked_at": "2026-11-14T02:10:21.994189+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-14",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 01:19:44 GMT",
-    "checked_at": "2026-11-14T01:20:16.276804+00:00"
+    "last_modified": "Sat, 14 Nov 2026 02:06:45 GMT",
+    "checked_at": "2026-11-14T02:10:22.223967+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -60,11 +60,11 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 01:19:44 GMT",
-    "checked_at": "2026-11-14T01:20:16.524903+00:00"
+    "last_modified": "Sat, 14 Nov 2026 02:06:45 GMT",
+    "checked_at": "2026-11-14T02:10:22.351223+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "39baddf419a83f7e9ee647225c30106b03b810f72811b9ad228890fc8537a628",
+    "hash": "3477701214f5f0e92be6b2d87a520b79a8b3ec8ccc5104ac2184339938fc61b4",
     "confirmed": [
       {
         "name": "Back Iron",
@@ -322,6 +322,21 @@
         }
       },
       {
+        "name": "Two Points",
+        "legs": [
+          "Draymond Green"
+        ],
+        "rr": false,
+        "info": {
+          "Draymond Green": "Warriors vs Spurs \u00b7 Fri Nov 13 \u00b7 9:30 PM ET"
+        },
+        "odds": {
+          "Draymond Green": 1400
+        },
+        "units": 0.6,
+        "group": "7"
+      },
+      {
         "name": "Under Construction",
         "legs": [
           "Ty Jerome"
@@ -394,6 +409,9 @@
       ],
       "Red Clay": [
         "Josh Green"
+      ],
+      "Two Points": [
+        "Draymond Green"
       ]
     },
     "abets": [
@@ -413,6 +431,7 @@
       "downtown|under 2.5 threes|Tyler Herro",
       "downtown|under 3.5 threes|Desmond Bane",
       "|first basket|Bam Adebayo",
+      "|first basket|Draymond Green",
       "|first basket|Karlo Matkovic",
       "|first basket|Kelly Oubre Jr.",
       "|first basket|Myles Turner",
@@ -421,7 +440,7 @@
     "slate": "2026-11-13",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 01:19:44 GMT",
-    "checked_at": "2026-11-14T01:20:16.909453+00:00"
+    "last_modified": "Sat, 14 Nov 2026 02:06:45 GMT",
+    "checked_at": "2026-11-14T02:10:24.622636+00:00"
   }
 }

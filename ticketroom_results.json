@@ -2764,6 +2764,20 @@
           "bkey": "downtown|under 1.5 threes|Josh Green",
           "result": null,
           "pl": null
+        },
+        "Two Points": {
+          "legs": [
+            "Draymond Green"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Draymond Green": 1400
+          },
+          "bkey": "|first basket|Draymond Green",
+          "result": null,
+          "pl": null
         }
       }
     }
