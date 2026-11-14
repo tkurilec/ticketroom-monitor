@@ -2679,7 +2679,7 @@
           "bkey": "|first basket|Karlo Matkovic",
           "result": null,
           "pl": null,
-          "void": true
+          "void": false
         },
         "Lead the Break": {
           "legs": [

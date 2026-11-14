@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 04:12:52 GMT",
-    "checked_at": "2026-11-14T04:13:15.709107+00:00"
+    "last_modified": "Sat, 14 Nov 2026 04:37:40 GMT",
+    "checked_at": "2026-11-14T05:00:21.310410+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-14",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 04:12:52 GMT",
-    "checked_at": "2026-11-14T04:13:16.030629+00:00"
+    "last_modified": "Sat, 14 Nov 2026 04:37:40 GMT",
+    "checked_at": "2026-11-14T05:00:21.711219+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -60,343 +60,12 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 04:12:52 GMT",
-    "checked_at": "2026-11-14T04:13:16.221129+00:00"
+    "last_modified": "Sat, 14 Nov 2026 04:37:40 GMT",
+    "checked_at": "2026-11-14T05:00:21.879365+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "3213d6f12259364969342e55488c3506b0f6f23f93e04d9b4689a0e5541bab6f",
-    "confirmed": [
-      {
-        "name": "Back Iron",
-        "legs": [
-          "Matas Buzelis"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Matas Buzelis": "Bulls vs Hawks \u00b7 Fri Nov 13 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Matas Buzelis": 144
-        }
-      },
-      {
-        "name": "Brick Wall",
-        "legs": [
-          "Anthony Black"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Anthony Black": "Magic vs Bucks \u00b7 Fri Nov 13 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Anthony Black": -104
-        }
-      },
-      {
-        "name": "Bricklayer",
-        "legs": [
-          "Cedric Coward"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Cedric Coward": "Grizzlies vs Pelicans \u00b7 Fri Nov 13 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Cedric Coward": 108
-        }
-      },
-      {
-        "name": "Building Code",
-        "legs": [
-          "Jalen Smith"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Jalen Smith": "Bulls vs Hawks \u00b7 Fri Nov 13 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Jalen Smith": 116
-        }
-      },
-      {
-        "name": "Cinder Block",
-        "legs": [
-          "Norman Powell"
-        ],
-        "rr": false,
-        "market": "under 2.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Norman Powell": "Bulls vs Hawks \u00b7 Fri Nov 13 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Norman Powell": -111
-        }
-      },
-      {
-        "name": "Clank",
-        "legs": [
-          "Jalen Brunson"
-        ],
-        "rr": false,
-        "market": "under 2.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Jalen Brunson": "Knicks vs Pacers \u00b7 Fri Nov 13 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Jalen Brunson": -136
-        }
-      },
-      {
-        "name": "Early Offense",
-        "legs": [
-          "Kelly Oubre Jr."
-        ],
-        "rr": false,
-        "info": {
-          "Kelly Oubre Jr.": "Pacers vs Knicks \u00b7 Fri Nov 13 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Kelly Oubre Jr.": 1400
-        },
-        "units": 0.6,
-        "group": "2"
-      },
-      {
-        "name": "First Touch",
-        "legs": [
-          "Bam Adebayo"
-        ],
-        "rr": false,
-        "info": {
-          "Bam Adebayo": "Heat vs Cavaliers \u00b7 Fri Nov 13 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Bam Adebayo": 650
-        },
-        "units": 0.6,
-        "group": "5"
-      },
-      {
-        "name": "Front Rim",
-        "legs": [
-          "Alex Caruso"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Alex Caruso": "Thunder vs Clippers \u00b7 Fri Nov 13 \u00b7 10:30 PM ET"
-        },
-        "odds": {
-          "Alex Caruso": -158
-        }
-      },
-      {
-        "name": "Grout Line",
-        "legs": [
-          "Landry Shamet"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Landry Shamet": "Knicks vs Pacers \u00b7 Fri Nov 13 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Landry Shamet": 122
-        }
-      },
-      {
-        "name": "Iron Out",
-        "legs": [
-          "Karl-Anthony Towns"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Karl-Anthony Towns": "Knicks vs Pacers \u00b7 Fri Nov 13 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Karl-Anthony Towns": -132
-        }
-      },
-      {
-        "name": "Lead the Break",
-        "legs": [
-          "Onyeka Okongwu"
-        ],
-        "rr": false,
-        "info": {
-          "Onyeka Okongwu": "Hawks vs Bulls \u00b7 Fri Nov 13 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Onyeka Okongwu": 800
-        },
-        "units": 0.6,
-        "group": "4"
-      },
-      {
-        "name": "Load-Bearing Wall",
-        "legs": [
-          "Donovan Mitchell"
-        ],
-        "rr": false,
-        "market": "under 2.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Donovan Mitchell": "Cavaliers vs Heat \u00b7 Fri Nov 13 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Donovan Mitchell": 104
-        }
-      },
-      {
-        "name": "Mortar Mix",
-        "legs": [
-          "Shai Gilgeous-Alexander"
-        ],
-        "rr": false,
-        "market": "under 2.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Shai Gilgeous-Alexander": "Thunder vs Clippers \u00b7 Fri Nov 13 \u00b7 10:30 PM ET"
-        },
-        "odds": {
-          "Shai Gilgeous-Alexander": -156
-        }
-      },
-      {
-        "name": "Off the Tip",
-        "legs": [
-          "Myles Turner"
-        ],
-        "rr": false,
-        "info": {
-          "Myles Turner": "Bucks vs Magic \u00b7 Fri Nov 13 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Myles Turner": 1100
-        },
-        "units": 0.6,
-        "group": "1"
-      },
-      {
-        "name": "Pallet of Bricks",
-        "legs": [
-          "Kyle Kuzma"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Kyle Kuzma": "Bucks vs Magic \u00b7 Fri Nov 13 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Kyle Kuzma": -140
-        }
-      },
-      {
-        "name": "Red Clay",
-        "legs": [
-          "Josh Green"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Josh Green": "Jazz vs Rockets \u00b7 Fri Nov 13 \u00b7 8:30 PM ET"
-        },
-        "odds": {
-          "Josh Green": -265
-        }
-      },
-      {
-        "name": "Rim Rattler",
-        "legs": [
-          "Tyler Herro"
-        ],
-        "rr": false,
-        "market": "under 2.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Tyler Herro": "Bucks vs Magic \u00b7 Fri Nov 13 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Tyler Herro": -111
-        }
-      },
-      {
-        "name": "The Masonry",
-        "legs": [
-          "Desmond Bane"
-        ],
-        "rr": false,
-        "market": "under 3.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Desmond Bane": "Magic vs Bucks \u00b7 Fri Nov 13 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Desmond Bane": -132
-        }
-      },
-      {
-        "name": "The Starter",
-        "legs": [
-          "Zach LaVine"
-        ],
-        "rr": false,
-        "info": {
-          "Zach LaVine": "Kings vs Trail Blazers \u00b7 Fri Nov 13 \u00b7 10:00 PM ET"
-        },
-        "odds": {
-          "Zach LaVine": 1300
-        },
-        "units": 0.6,
-        "group": "8"
-      },
-      {
-        "name": "Two Points",
-        "legs": [
-          "Draymond Green"
-        ],
-        "rr": false,
-        "info": {
-          "Draymond Green": "Warriors vs Spurs \u00b7 Fri Nov 13 \u00b7 9:30 PM ET"
-        },
-        "odds": {
-          "Draymond Green": 1400
-        },
-        "units": 0.6,
-        "group": "7"
-      },
-      {
-        "name": "Under Construction",
-        "legs": [
-          "Ty Jerome"
-        ],
-        "rr": false,
-        "market": "under 2.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Ty Jerome": "Grizzlies vs Pelicans \u00b7 Fri Nov 13 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Ty Jerome": -106
-        }
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Early Offense": [
         "Kelly Oubre Jr."
@@ -506,7 +175,7 @@
       "dt:Tyler Herro"
     ],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 04:12:52 GMT",
-    "checked_at": "2026-11-14T04:13:18.151418+00:00"
+    "last_modified": "Sat, 14 Nov 2026 04:37:40 GMT",
+    "checked_at": "2026-11-14T05:00:22.032519+00:00"
   }
 }
