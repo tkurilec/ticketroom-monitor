@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 01:06:09 GMT",
-    "checked_at": "2026-11-14T01:06:12.450131+00:00"
+    "last_modified": "Sat, 14 Nov 2026 01:14:48 GMT",
+    "checked_at": "2026-11-14T01:15:15.995533+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8537d879851192a37032b19b2659777efadc84536a364145f19453a45490dd17",
@@ -55,8 +55,8 @@
     "slate": "2026-11-13",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 01:06:09 GMT",
-    "checked_at": "2026-11-14T01:06:13.143996+00:00"
+    "last_modified": "Sat, 14 Nov 2026 01:14:48 GMT",
+    "checked_at": "2026-11-14T01:15:16.305790+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -97,11 +97,11 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 01:06:09 GMT",
-    "checked_at": "2026-11-14T01:06:13.306247+00:00"
+    "last_modified": "Sat, 14 Nov 2026 01:14:48 GMT",
+    "checked_at": "2026-11-14T01:15:16.833623+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "6100f5f4f906cdc1ccdb1990827a5c883797ac7c9bd1f28345515b1a1fe3a521",
+    "hash": "39baddf419a83f7e9ee647225c30106b03b810f72811b9ad228890fc8537a628",
     "confirmed": [
       {
         "name": "Back Iron",
@@ -237,21 +237,6 @@
         "odds": {
           "Landry Shamet": 122
         }
-      },
-      {
-        "name": "Ice Breaker",
-        "legs": [
-          "Karlo Matkovic"
-        ],
-        "rr": false,
-        "info": {
-          "Karlo Matkovic": "Pelicans vs Grizzlies \u00b7 Fri Nov 13 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Karlo Matkovic": 1000
-        },
-        "units": 0.6,
-        "group": "3"
       },
       {
         "name": "Iron Out",
@@ -473,7 +458,7 @@
     "slate": "2026-11-13",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 01:06:09 GMT",
-    "checked_at": "2026-11-14T01:06:13.832187+00:00"
+    "last_modified": "Sat, 14 Nov 2026 01:14:48 GMT",
+    "checked_at": "2026-11-14T01:15:17.587789+00:00"
   }
 }
