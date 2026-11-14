@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 00:56:21 GMT",
-    "checked_at": "2026-11-14T00:57:12.128995+00:00"
+    "last_modified": "Sat, 14 Nov 2026 01:04:07 GMT",
+    "checked_at": "2026-11-14T01:04:12.847589+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8537d879851192a37032b19b2659777efadc84536a364145f19453a45490dd17",
@@ -55,8 +55,8 @@
     "slate": "2026-11-13",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 00:56:21 GMT",
-    "checked_at": "2026-11-14T00:57:12.694761+00:00"
+    "last_modified": "Sat, 14 Nov 2026 01:04:07 GMT",
+    "checked_at": "2026-11-14T01:04:13.157900+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -97,11 +97,11 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 00:56:21 GMT",
-    "checked_at": "2026-11-14T00:57:12.866592+00:00"
+    "last_modified": "Sat, 14 Nov 2026 01:04:07 GMT",
+    "checked_at": "2026-11-14T01:04:13.392520+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "31e47a571f926c7ed5dcc747373d3a945f6e0b180a80e7a3d225dbea13aadd89",
+    "hash": "f2d960eb2bcda7f46f40ac8e7064a67e389332c27810d21ef45791fa413fd33a",
     "confirmed": [
       {
         "name": "Back Iron",
@@ -284,6 +284,21 @@
         "group": "4"
       },
       {
+        "name": "Load-Bearing Wall",
+        "legs": [
+          "Josh Green"
+        ],
+        "rr": false,
+        "market": "under 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Josh Green": "Jazz vs Rockets \u00b7 Fri Nov 13 \u00b7 8:30 PM ET"
+        },
+        "odds": {
+          "Josh Green": -265
+        }
+      },
+      {
         "name": "Off the Tip",
         "legs": [
           "Myles Turner"
@@ -409,7 +424,7 @@
         "Bam Adebayo"
       ],
       "Load-Bearing Wall": [
-        "Donovan Mitchell"
+        "Josh Green"
       ],
       "Under Construction": [
         "Jalen Smith"
@@ -420,6 +435,7 @@
       "downtown|under 1.5 threes|Cedric Coward",
       "downtown|under 1.5 threes|Jalen Smith",
       "downtown|under 1.5 threes|Jaylen Wells",
+      "downtown|under 1.5 threes|Josh Green",
       "downtown|under 1.5 threes|Karl-Anthony Towns",
       "downtown|under 1.5 threes|Kyle Kuzma",
       "downtown|under 1.5 threes|Landry Shamet",
@@ -439,7 +455,7 @@
     "slate": "2026-11-13",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 00:56:21 GMT",
-    "checked_at": "2026-11-14T00:57:13.598384+00:00"
+    "last_modified": "Sat, 14 Nov 2026 01:04:07 GMT",
+    "checked_at": "2026-11-14T01:04:15.087576+00:00"
   }
 }
