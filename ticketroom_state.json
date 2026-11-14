@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 11:00:56 GMT",
-    "checked_at": "2026-11-14T11:01:13.400119+00:00"
+    "last_modified": "Sat, 14 Nov 2026 11:07:02 GMT",
+    "checked_at": "2026-11-14T11:07:13.653078+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,50 +18,19 @@
     "slate": "2026-11-14",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 11:00:56 GMT",
-    "checked_at": "2026-11-14T11:01:13.628531+00:00"
+    "last_modified": "Sat, 14 Nov 2026 11:07:02 GMT",
+    "checked_at": "2026-11-14T11:07:13.978275+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Bell Cow": [
-        "Darnell Mooney"
-      ],
-      "Goal Line Back": [
-        "Chris Manhertz"
-      ],
-      "King of the End Zone: Malik Nabers": [
-        "Malik Nabers"
-      ],
-      "Out of the Gate": [
-        "Isaiah Likely"
-      ],
-      "Red Zone Target": [
-        "Charlie Jones"
-      ],
-      "Short Yardage": [
-        "Jalin Hyatt"
-      ],
-      "The Workhorse": [
-        "Devin Singletary"
-      ]
-    },
-    "abets": [
-      "ftd|first touchdown scorer|Isaiah Likely",
-      "longtd|longest touchdown scorer|Malik Nabers",
-      "|anytime touchdown|Charlie Jones",
-      "|anytime touchdown|Chris Manhertz",
-      "|anytime touchdown|Darnell Mooney",
-      "|anytime touchdown|Devin Singletary",
-      "|anytime touchdown|Jalin Hyatt",
-      "|anytime touchdown|Thomas Fidone II"
-    ],
-    "slate": "2026-11-12",
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 11:00:56 GMT",
-    "checked_at": "2026-11-14T11:01:13.822537+00:00"
+    "last_modified": "Sat, 14 Nov 2026 11:07:02 GMT",
+    "checked_at": "2026-11-14T11:07:14.154358+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -71,7 +40,7 @@
     "slate": "2026-11-14",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 11:00:56 GMT",
-    "checked_at": "2026-11-14T11:01:14.017849+00:00"
+    "last_modified": "Sat, 14 Nov 2026 11:07:02 GMT",
+    "checked_at": "2026-11-14T11:07:14.408913+00:00"
   }
 }
