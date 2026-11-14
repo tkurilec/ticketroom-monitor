@@ -1,3138 +1,3153 @@
 {
- "boards": {
-  "Soccer Board": {
-   "2026-11-02": {
-    "The Net Count": {
-     "legs": [
-      "Atalanta v Parma: Atalanta over 1.5 goals",
-      "Sassuolo v Fiorentina: Both teams to score"
-     ],
-     "kind": "totals",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Sassuolo v Fiorentina: Both teams to score": -210,
-      "Atalanta v Parma: Atalanta over 1.5 goals": -200
-     },
-     "bkey": "totals||Atalanta v Parma: Atalanta over 1.5 goals,Sassuolo v Fiorentina: Both teams to score",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 1
+  "boards": {
+    "Soccer Board": {
+      "2026-11-02": {
+        "The Net Count": {
+          "legs": [
+            "Atalanta v Parma: Atalanta over 1.5 goals",
+            "Sassuolo v Fiorentina: Both teams to score"
+          ],
+          "kind": "totals",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Sassuolo v Fiorentina: Both teams to score": -210,
+            "Atalanta v Parma: Atalanta over 1.5 goals": -200
+          },
+          "bkey": "totals||Atalanta v Parma: Atalanta over 1.5 goals,Sassuolo v Fiorentina: Both teams to score",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 1
+        },
+        "Target Man": {
+          "legs": [
+            "Nikola Krstovic"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 2,
+          "odds": {
+            "Nikola Krstovic": 110
+          },
+          "bkey": "|anytime goalscorer|Nikola Krstovic",
+          "result": "lost",
+          "pl": -2,
+          "legs_hit": 0
+        }
+      },
+      "2026-11-01": {
+        "Back Post": {
+          "legs": [
+            "Anastasios Douvikas"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Anastasios Douvikas": -122
+          },
+          "bkey": "|anytime goalscorer|Anastasios Douvikas",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Big Game Player": {
+          "legs": [
+            "Lionel Messi"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 2,
+          "odds": {
+            "Lionel Messi": -118
+          },
+          "bkey": "|anytime goalscorer|Lionel Messi",
+          "result": "won",
+          "pl": 1.694915254237288,
+          "legs_hit": 1
+        },
+        "Far Post": {
+          "legs": [
+            "Hany Mukhtar"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Hany Mukhtar": 116
+          },
+          "bkey": "|anytime goalscorer|Hany Mukhtar",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "First Time": {
+          "legs": [
+            "Younes Ebnoutalib"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Younes Ebnoutalib": -102
+          },
+          "bkey": "|anytime goalscorer|Younes Ebnoutalib",
+          "result": "won",
+          "pl": 0.9803921568627452,
+          "legs_hit": 1
+        },
+        "Gets Across": {
+          "legs": [
+            "Nicolas Paz Martinez"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Nicolas Paz Martinez": 110
+          },
+          "bkey": "|anytime goalscorer|Nicolas Paz Martinez",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Six-Yard Box": {
+          "legs": [
+            "Sam Surridge"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Sam Surridge": -125
+          },
+          "bkey": "|anytime goalscorer|Sam Surridge",
+          "result": "won",
+          "pl": 0.8,
+          "legs_hit": 1
+        },
+        "Target Man": {
+          "legs": [
+            "Kylian Mbappe"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Kylian Mbappe": -310
+          },
+          "bkey": "|anytime goalscorer|Kylian Mbappe",
+          "result": "won",
+          "pl": 0.32258064516129026,
+          "legs_hit": 1
+        },
+        "The Nine": {
+          "legs": [
+            "Brian White"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Brian White": -100
+          },
+          "bkey": "|anytime goalscorer|Brian White",
+          "result": "won",
+          "pl": 1.0,
+          "legs_hit": 1
+        },
+        "The Ninety": {
+          "legs": [
+            "Eintracht Frankfurt v Hamburg SV: Hamburg SV under 1.5 goals",
+            "Getafe v Sevilla: Sevilla to score",
+            "Lazio v Cagliari: Lazio under 2.5 goals",
+            "Portland Timbers v Houston Dynamo FC: Houston Dynamo FC under 1.5 goals"
+          ],
+          "kind": "totals",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Eintracht Frankfurt v Hamburg SV: Hamburg SV under 1.5 goals": -251,
+            "Getafe v Sevilla: Sevilla to score": -270,
+            "Lazio v Cagliari: Lazio under 2.5 goals": -230,
+            "Portland Timbers v Houston Dynamo FC: Houston Dynamo FC under 1.5 goals": -376
+          },
+          "bkey": "totals||Eintracht Frankfurt v Hamburg SV: Hamburg SV under 1.5 goals,Getafe v Sevilla: Sevilla to score,Lazio v Cagliari: Lazio under 2.5 goals,Portland Timbers v Houston Dynamo FC: Houston Dynamo FC under 1.5 goals",
+          "result": "won",
+          "pl": 2.4807799329969664,
+          "legs_hit": 4
+        }
+      },
+      "2026-11-03": {
+        "Final Tally": {
+          "legs": [
+            "Manchester United v AS Roma: Both teams to score",
+            "Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals"
+          ],
+          "kind": "totals",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Manchester United v AS Roma: Both teams to score": -199,
+            "Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals": -183
+          },
+          "bkey": "totals||Manchester United v AS Roma: Both teams to score,Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals",
+          "result": "won",
+          "pl": 1.323557679105912,
+          "legs_hit": 2
+        },
+        "First Time": {
+          "legs": [
+            "Donyell Malen"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 2,
+          "odds": {
+            "Donyell Malen": 115
+          },
+          "bkey": "|anytime goalscorer|Donyell Malen",
+          "result": "won",
+          "pl": 2.3,
+          "legs_hit": 1
+        },
+        "Near Post": {
+          "legs": [
+            "Harry Kane"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Harry Kane": -100
+          },
+          "bkey": "|anytime goalscorer|Harry Kane",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Target Man": {
+          "legs": [
+            "Raphinha"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Raphinha": -165
+          },
+          "bkey": "|anytime goalscorer|Raphinha",
+          "result": "won",
+          "pl": 0.606060606060606,
+          "legs_hit": 1
+        },
+        "The Poacher": {
+          "legs": [
+            "Lamine Yamal Nasraqui Ebana"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Lamine Yamal Nasraqui Ebana": -120
+          },
+          "bkey": "|anytime goalscorer|Lamine Yamal Nasraqui Ebana",
+          "result": "won",
+          "pl": 0.8333333333333335,
+          "legs_hit": 1
+        }
+      },
+      "2026-11-04": {
+        "Ninety Minutes": {
+          "legs": [
+            "Lens v Como: Both teams to score",
+            "RB Leipzig v Manchester City: Both teams to score"
+          ],
+          "kind": "totals",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "RB Leipzig v Manchester City: Both teams to score": -229,
+            "Lens v Como: Both teams to score": -186
+          },
+          "bkey": "totals||Lens v Como: Both teams to score,RB Leipzig v Manchester City: Both teams to score",
+          "result": "won",
+          "pl": 1.209090482227544,
+          "legs_hit": 2
+        },
+        "Go-To Man": {
+          "legs": [
+            "Erling Haaland"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 2,
+          "odds": {
+            "Erling Haaland": -185
+          },
+          "bkey": "|anytime goalscorer|Erling Haaland",
+          "result": "won",
+          "pl": 1.0810810810810811,
+          "legs_hit": 1
+        },
+        "The Poacher": {
+          "legs": [
+            "Sehrou Guirassy"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Sehrou Guirassy": -102
+          },
+          "bkey": "|anytime goalscorer|Sehrou Guirassy",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        }
+      },
+      "2026-11-05": {
+        "The Poacher": {
+          "legs": [
+            "Jean-Philippe Mateta"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jean-Philippe Mateta": -105
+          },
+          "bkey": "|anytime goalscorer|Jean-Philippe Mateta",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Heavy Boot": {
+          "legs": [
+            "Patrik Schick"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 2,
+          "odds": {
+            "Patrik Schick": -145
+          },
+          "bkey": "|anytime goalscorer|Patrik Schick",
+          "result": "lost",
+          "pl": -2,
+          "legs_hit": 0
+        }
+      },
+      "2026-11-06": {
+        "Shut the Gate": {
+          "legs": [
+            "Everton v Coventry City: Coventry City to score",
+            "Venezia v Udinese: Udinese under 1.5 goals"
+          ],
+          "kind": "totals",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Everton v Coventry City: Coventry City to score": -217,
+            "Venezia v Udinese: Udinese under 1.5 goals": -199
+          },
+          "bkey": "totals||Everton v Coventry City: Coventry City to score,Venezia v Udinese: Udinese under 1.5 goals",
+          "result": "won",
+          "pl": 1.1949146654933656,
+          "legs_hit": 2
+        },
+        "Main Man": {
+          "legs": [
+            "Thierno Barry"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 2,
+          "odds": {
+            "Thierno Barry": 118
+          },
+          "bkey": "|anytime goalscorer|Thierno Barry",
+          "result": "won",
+          "pl": 2.3599999999999994,
+          "legs_hit": 1
+        }
+      },
+      "2026-11-07": {
+        "The Score Sheet": {
+          "legs": [
+            "Chicago Fire FC v Columbus Crew: Both teams to score",
+            "Minnesota United FC v San Jose Earthquakes: Both teams to score",
+            "Nottingham Forest v Manchester City: Nottingham Forest to score",
+            "SC Paderborn 07 v Eintracht Frankfurt: Both teams to score"
+          ],
+          "kind": "totals",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Nottingham Forest v Manchester City: Nottingham Forest to score": -250,
+            "Chicago Fire FC v Columbus Crew: Both teams to score": -207,
+            "Minnesota United FC v San Jose Earthquakes: Both teams to score": -213,
+            "SC Paderborn 07 v Eintracht Frankfurt: Both teams to score": -205
+          },
+          "bkey": "totals||Chicago Fire FC v Columbus Crew: Both teams to score,Minnesota United FC v San Jose Earthquakes: Both teams to score,Nottingham Forest v Manchester City: Nottingham Forest to score,SC Paderborn 07 v Eintracht Frankfurt: Both teams to score",
+          "result": "won",
+          "pl": 3.5394870143843304,
+          "legs_hit": 4
+        },
+        "Smashed Home": {
+          "legs": [
+            "Fabio Silva"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Fabio Silva": 105
+          },
+          "bkey": "|anytime goalscorer|Fabio Silva",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Bottom Corner": {
+          "legs": [
+            "Romulo"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Romulo": -106
+          },
+          "bkey": "|anytime goalscorer|Romulo",
+          "result": "won",
+          "pl": 0.9433962264150944,
+          "legs_hit": 1
+        },
+        "Near Post": {
+          "legs": [
+            "Christopher Nkunku"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Christopher Nkunku": 105
+          },
+          "bkey": "|anytime goalscorer|Christopher Nkunku",
+          "result": "won",
+          "pl": 1.0499999999999998,
+          "legs_hit": 1
+        },
+        "Six-Yard Box": {
+          "legs": [
+            "Harry Kane"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Harry Kane": -197
+          },
+          "bkey": "|anytime goalscorer|Harry Kane",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Ghosts In": {
+          "legs": [
+            "Kai Havertz"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Kai Havertz": -104
+          },
+          "bkey": "|anytime goalscorer|Kai Havertz",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Full Stake": {
+          "legs": [
+            "Erling Haaland"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 2,
+          "odds": {
+            "Erling Haaland": -135
+          },
+          "bkey": "|anytime goalscorer|Erling Haaland",
+          "result": "lost",
+          "pl": -2,
+          "legs_hit": 0
+        },
+        "Through on Goal": {
+          "legs": [
+            "Deniz Undav"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Deniz Undav": -104
+          },
+          "bkey": "|anytime goalscorer|Deniz Undav",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Far Post": {
+          "legs": [
+            "Lassine Sinayoko"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Lassine Sinayoko": 120
+          },
+          "bkey": "|anytime goalscorer|Lassine Sinayoko",
+          "result": "won",
+          "pl": 1.2000000000000002,
+          "legs_hit": 1
+        },
+        "The Poacher": {
+          "legs": [
+            "Kylian Mbappe"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Kylian Mbappe": -210
+          },
+          "bkey": "|anytime goalscorer|Kylian Mbappe",
+          "result": "won",
+          "pl": 0.4761904761904763,
+          "legs_hit": 1
+        },
+        "Back Post": {
+          "legs": [
+            "Donyell Malen"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Donyell Malen": -192
+          },
+          "bkey": "|anytime goalscorer|Donyell Malen",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Rebound": {
+          "legs": [
+            "Desire Doue"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Desire Doue": -115
+          },
+          "bkey": "|anytime goalscorer|Desire Doue",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "The Nine": {
+          "legs": [
+            "Ferran Torres"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Ferran Torres": -160
+          },
+          "bkey": "|anytime goalscorer|Ferran Torres",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Target Man": {
+          "legs": [
+            "Lionel Messi"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Lionel Messi": -225
+          },
+          "bkey": "|anytime goalscorer|Lionel Messi",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Finds the Gap": {
+          "legs": [
+            "Robert Lewandowski"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Robert Lewandowski": 115
+          },
+          "bkey": "|anytime goalscorer|Robert Lewandowski",
+          "result": "won",
+          "pl": 1.15,
+          "legs_hit": 1
+        },
+        "Gets Across": {
+          "legs": [
+            "Luis Suarez"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Luis Suarez": -108
+          },
+          "bkey": "|anytime goalscorer|Luis Suarez",
+          "result": "won",
+          "pl": 0.925925925925926,
+          "legs_hit": 1
+        },
+        "Penalty Spot": {
+          "legs": [
+            "Bruno Damiani"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Bruno Damiani": -100
+          },
+          "bkey": "|anytime goalscorer|Bruno Damiani",
+          "result": "won",
+          "pl": 1.0,
+          "legs_hit": 1
+        },
+        "Poked Home": {
+          "legs": [
+            "Rayan Elloumi"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Rayan Elloumi": 120
+          },
+          "bkey": "|anytime goalscorer|Rayan Elloumi",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Rounds the Keeper": {
+          "legs": [
+            "Sam Surridge"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Sam Surridge": 112
+          },
+          "bkey": "|anytime goalscorer|Sam Surridge",
+          "result": "won",
+          "pl": 1.12,
+          "legs_hit": 1
+        },
+        "Side Netting": {
+          "legs": [
+            "Antoine Griezmann"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Antoine Griezmann": 110
+          },
+          "bkey": "|anytime goalscorer|Antoine Griezmann",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "In Behind": {
+          "legs": [
+            "Vincent Janssen"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Vincent Janssen": 110
+          },
+          "bkey": "|anytime goalscorer|Vincent Janssen",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "First Time": {
+          "legs": [
+            "Marcus Ingvartsen"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Marcus Ingvartsen": -118
+          },
+          "bkey": "|anytime goalscorer|Marcus Ingvartsen",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Runs the Channel": {
+          "legs": [
+            "Anders Dreyer"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Anders Dreyer": -115
+          },
+          "bkey": "|anytime goalscorer|Anders Dreyer",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Stoops to Conquer": {
+          "legs": [
+            "Sergi Solans"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Sergi Solans": 104
+          },
+          "bkey": "|anytime goalscorer|Sergi Solans",
+          "result": "won",
+          "pl": 1.04,
+          "legs_hit": 1
+        },
+        "One-Two": {
+          "legs": [
+            "Kelvin Yeboah"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Kelvin Yeboah": 108
+          },
+          "bkey": "|anytime goalscorer|Kelvin Yeboah",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        }
+      },
+      "2026-11-08": {
+        "Back of the Net": {
+          "legs": [
+            "Crystal Palace v Liverpool: Crystal Palace to score",
+            "Internazionale v Como: Both teams to score",
+            "Sunderland v Chelsea: Sunderland to score",
+            "TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
+          ],
+          "kind": "totals",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Sunderland v Chelsea: Sunderland to score": -265,
+            "TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals": -235,
+            "Internazionale v Como: Both teams to score": -225,
+            "Crystal Palace v Liverpool: Crystal Palace to score": -235
+          },
+          "bkey": "totals||Crystal Palace v Liverpool: Crystal Palace to score,Internazionale v Como: Both teams to score,Sunderland v Chelsea: Sunderland to score,TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 3
+        },
+        "First Time": {
+          "legs": [
+            "Alexander Isak"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Alexander Isak": 110
+          },
+          "bkey": "|anytime goalscorer|Alexander Isak",
+          "result": "won",
+          "pl": 1.1,
+          "legs_hit": 1
+        },
+        "Target Man": {
+          "legs": [
+            "Patrik Schick"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Patrik Schick": -117
+          },
+          "bkey": "|anytime goalscorer|Patrik Schick",
+          "result": "won",
+          "pl": 0.8547008547008548,
+          "legs_hit": 1
+        },
+        "Go-To Man": {
+          "legs": [
+            "Orri Oskarsson"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 2,
+          "odds": {
+            "Orri Oskarsson": 120
+          },
+          "bkey": "|anytime goalscorer|Orri Oskarsson",
+          "result": "won",
+          "pl": 2.4000000000000004,
+          "legs_hit": 1
+        },
+        "The Poacher": {
+          "legs": [
+            "Raphinha"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Raphinha": -105
+          },
+          "bkey": "|anytime goalscorer|Raphinha",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        }
+      },
+      "2026-11-12": {
+        "Nailed On": {
+          "legs": [
+            "Harry Kane"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 2,
+          "odds": {
+            "Harry Kane": -185
+          },
+          "bkey": "|anytime goalscorer|Harry Kane",
+          "result": "won",
+          "pl": 1.0810810810810811,
+          "legs_hit": 1
+        },
+        "The Poacher": {
+          "legs": [
+            "Ferran Torres"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Ferran Torres": -115
+          },
+          "bkey": "|anytime goalscorer|Ferran Torres",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        }
+      },
+      "2026-11-13": {
+        "Both Barrels": {
+          "legs": [
+            "Kai Havertz"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 2,
+          "odds": {
+            "Kai Havertz": -120
+          },
+          "bkey": "|anytime goalscorer|Kai Havertz",
+          "result": "lost",
+          "pl": -2,
+          "legs_hit": 0
+        }
+      },
+      "2026-11-14": {
+        "Full Stake": {
+          "legs": [
+            "Goncalo Ramos"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 2,
+          "odds": {
+            "Goncalo Ramos": 100
+          },
+          "bkey": "|anytime goalscorer|Goncalo Ramos",
+          "result": null,
+          "pl": null
+        }
+      }
     },
-    "Target Man": {
-     "legs": [
-      "Nikola Krstovic"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": 2,
-     "odds": {
-      "Nikola Krstovic": 110
-     },
-     "bkey": "|anytime goalscorer|Nikola Krstovic",
-     "result": "lost",
-     "pl": -2,
-     "legs_hit": 0
+    "NFL Board": {
+      "2026-11-02": {
+        "Bell Cow": {
+          "legs": [
+            "Jadarian Price"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jadarian Price": 330
+          },
+          "bkey": "|anytime touchdown|Jadarian Price",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Goal Line Back": {
+          "legs": [
+            "Nick Kallerup"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Nick Kallerup": 2800
+          },
+          "bkey": "|anytime touchdown|Nick Kallerup",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Red Zone Target": {
+          "legs": [
+            "Jahdae Walker"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jahdae Walker": 1941
+          },
+          "bkey": "|anytime touchdown|Jahdae Walker",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Strike First": {
+          "legs": [
+            "Jaxon Smith-Njigba"
+          ],
+          "kind": "ftd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jaxon Smith-Njigba": 562
+          },
+          "bkey": "ftd|first touchdown scorer|Jaxon Smith-Njigba",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "The Workhorse": {
+          "legs": [
+            "Emanuel Wilson"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Emanuel Wilson": 350
+          },
+          "bkey": "|anytime touchdown|Emanuel Wilson",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "King of the End Zone: Jaxon Smith-Njigba": {
+          "legs": [
+            "Jaxon Smith-Njigba"
+          ],
+          "kind": "longtd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jaxon Smith-Njigba": -110
+          },
+          "bkey": "longtd|longest touchdown scorer|Jaxon Smith-Njigba",
+          "result": "won",
+          "pl": 0.9090909090909092
+        }
+      },
+      "2026-11-01": {
+        "Audible": {
+          "legs": [
+            "Jameson Williams"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jameson Williams": 215
+          },
+          "bkey": "|anytime touchdown|Jameson Williams",
+          "result": "won",
+          "pl": 2.15,
+          "legs_hit": 1
+        },
+        "Back Shoulder": {
+          "legs": [
+            "Mason Taylor"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Mason Taylor": 375
+          },
+          "bkey": "|anytime touchdown|Mason Taylor",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Bell Cow": {
+          "legs": [
+            "Kyren Williams"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Kyren Williams": -130
+          },
+          "bkey": "|anytime touchdown|Kyren Williams",
+          "result": "won",
+          "pl": 0.7692307692307692,
+          "legs_hit": 1
+        },
+        "First Read": {
+          "legs": [
+            "Aaron Jones"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Aaron Jones": 247
+          },
+          "bkey": "|anytime touchdown|Aaron Jones",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "First on the Board": {
+          "legs": [
+            "Derrick Henry"
+          ],
+          "kind": "ftd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Derrick Henry": 475
+          },
+          "bkey": "ftd|first touchdown scorer|Derrick Henry",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Goal Line Back": {
+          "legs": [
+            "Bhayshul Tuten"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Bhayshul Tuten": -110
+          },
+          "bkey": "|anytime touchdown|Bhayshul Tuten",
+          "result": "won",
+          "pl": 0.9090909090909092,
+          "legs_hit": 1
+        },
+        "Hard Count": {
+          "legs": [
+            "Jakobi Meyers"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jakobi Meyers": 231
+          },
+          "bkey": "|anytime touchdown|Jakobi Meyers",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Hurry Up": {
+          "legs": [
+            "Chris Rodriguez Jr."
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Chris Rodriguez Jr.": 295
+          },
+          "bkey": "|anytime touchdown|Chris Rodriguez Jr.",
+          "result": "won",
+          "pl": 2.95,
+          "legs_hit": 1
+        },
+        "Inside the Ten": {
+          "legs": [
+            "Sam LaPorta"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Sam LaPorta": 230
+          },
+          "bkey": "|anytime touchdown|Sam LaPorta",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Jump Ball": {
+          "legs": [
+            "Reggie Virgil"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Reggie Virgil": 1500
+          },
+          "bkey": "|anytime touchdown|Reggie Virgil",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Move the Chains": {
+          "legs": [
+            "Jeremiyah Love"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jeremiyah Love": 151
+          },
+          "bkey": "|anytime touchdown|Jeremiyah Love",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Post Corner": {
+          "legs": [
+            "Tyler Allgeier"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Tyler Allgeier": 347
+          },
+          "bkey": "|anytime touchdown|Tyler Allgeier",
+          "result": "won",
+          "pl": 3.4700000000000006,
+          "legs_hit": 1
+        },
+        "Quick Slant": {
+          "legs": [
+            "Rico Dowdle"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Rico Dowdle": 295
+          },
+          "bkey": "|anytime touchdown|Rico Dowdle",
+          "result": "won",
+          "pl": 2.95,
+          "legs_hit": 1
+        },
+        "Red Zone Target": {
+          "legs": [
+            "Amon-Ra St. Brown"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Amon-Ra St. Brown": 130
+          },
+          "bkey": "|anytime touchdown|Amon-Ra St. Brown",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Screen Pass": {
+          "legs": [
+            "Kevin Coleman Jr."
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Kevin Coleman Jr.": 1400
+          },
+          "bkey": "|anytime touchdown|Kevin Coleman Jr.",
+          "result": "won",
+          "pl": 14.0,
+          "legs_hit": 1
+        },
+        "Seam Route": {
+          "legs": [
+            "Bam Knight"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Bam Knight": 325
+          },
+          "bkey": "|anytime touchdown|Bam Knight",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Short Yardage": {
+          "legs": [
+            "Ashton Jeanty"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Ashton Jeanty": -105
+          },
+          "bkey": "|anytime touchdown|Ashton Jeanty",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Spin Move": {
+          "legs": [
+            "Josh Cuevas"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Josh Cuevas": 950
+          },
+          "bkey": "|anytime touchdown|Josh Cuevas",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Stiff Arm": {
+          "legs": [
+            "Mitchell Tinsley"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {},
+          "bkey": "|anytime touchdown|Mitchell Tinsley",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "The Checkdown": {
+          "legs": [
+            "Jonathan Taylor"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jonathan Taylor": -100
+          },
+          "bkey": "|anytime touchdown|Jonathan Taylor",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "The Sneak": {
+          "legs": [
+            "Omarion Hampton"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Omarion Hampton": 205
+          },
+          "bkey": "|anytime touchdown|Omarion Hampton",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "The Workhorse": {
+          "legs": [
+            "James Cook"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "James Cook": -155
+          },
+          "bkey": "|anytime touchdown|James Cook",
+          "result": "won",
+          "pl": 0.6451612903225805,
+          "legs_hit": 1
+        },
+        "Toe Tap": {
+          "legs": [
+            "Jauan Jennings"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jauan Jennings": 600
+          },
+          "bkey": "|anytime touchdown|Jauan Jennings",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Two Minute Drill": {
+          "legs": [
+            "J.K. Dobbins"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "J.K. Dobbins": 205
+          },
+          "bkey": "|anytime touchdown|J.K. Dobbins",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Wheel Route": {
+          "legs": [
+            "Keon Coleman"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Keon Coleman": 340
+          },
+          "bkey": "|anytime touchdown|Keon Coleman",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        }
+      },
+      "2026-11-05": {
+        "Short Yardage": {
+          "legs": [
+            "Josh Cuevas"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Josh Cuevas": 1949
+          },
+          "bkey": "|anytime touchdown|Josh Cuevas",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Six Before Anyone": {
+          "legs": [
+            "Derrick Henry"
+          ],
+          "kind": "ftd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Derrick Henry": 596
+          },
+          "bkey": "ftd|first touchdown scorer|Derrick Henry",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Bell Cow": {
+          "legs": [
+            "Brian Thomas Jr."
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Brian Thomas Jr.": 550
+          },
+          "bkey": "|anytime touchdown|Brian Thomas Jr.",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Goal Line Back": {
+          "legs": [
+            "Travis Hunter"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Travis Hunter": 700
+          },
+          "bkey": "|anytime touchdown|Travis Hunter",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "King of the End Zone: Zay Flowers": {
+          "legs": [
+            "Zay Flowers"
+          ],
+          "kind": "longtd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Zay Flowers": 325
+          },
+          "bkey": "longtd|longest touchdown scorer|Zay Flowers",
+          "result": "lost",
+          "pl": -1.0
+        },
+        "Red Zone Target": {
+          "legs": [
+            "Tanner Koziol"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Tanner Koziol": 2200
+          },
+          "bkey": "|anytime touchdown|Tanner Koziol",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "The Workhorse": {
+          "legs": [
+            "Jakobi Meyers"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jakobi Meyers": 300
+          },
+          "bkey": "|anytime touchdown|Jakobi Meyers",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        }
+      },
+      "2026-11-08": {
+        "Inside the Ten": {
+          "legs": [
+            "Olamide Zaccheaus"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Olamide Zaccheaus": 600
+          },
+          "bkey": "|anytime touchdown|Olamide Zaccheaus",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "The Checkdown": {
+          "legs": [
+            "Kyle Pitts"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Kyle Pitts": 265
+          },
+          "bkey": "|anytime touchdown|Kyle Pitts",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Hurry Up": {
+          "legs": [
+            "Mitchell Tinsley"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Mitchell Tinsley": 1200
+          },
+          "bkey": "|anytime touchdown|Mitchell Tinsley",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Red Zone Target": {
+          "legs": [
+            "J.K. Dobbins"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "J.K. Dobbins": 265
+          },
+          "bkey": "|anytime touchdown|J.K. Dobbins",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Short Yardage": {
+          "legs": [
+            "Tyler Warren"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Tyler Warren": 206
+          },
+          "bkey": "|anytime touchdown|Tyler Warren",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "The Sneak": {
+          "legs": [
+            "Kevin Coleman Jr."
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Kevin Coleman Jr.": 850
+          },
+          "bkey": "|anytime touchdown|Kevin Coleman Jr.",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "The Workhorse": {
+          "legs": [
+            "Amon-Ra St. Brown"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Amon-Ra St. Brown": -111
+          },
+          "bkey": "|anytime touchdown|Amon-Ra St. Brown",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Two Minute Drill": {
+          "legs": [
+            "Jonathan Taylor"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jonathan Taylor": -135
+          },
+          "bkey": "|anytime touchdown|Jonathan Taylor",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Audible": {
+          "legs": [
+            "Kyren Williams"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Kyren Williams": -155
+          },
+          "bkey": "|anytime touchdown|Kyren Williams",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Move the Chains": {
+          "legs": [
+            "Xavier Hutchinson"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Xavier Hutchinson": 575
+          },
+          "bkey": "|anytime touchdown|Xavier Hutchinson",
+          "result": "won",
+          "pl": 5.75,
+          "legs_hit": 1
+        },
+        "Goal Line Back": {
+          "legs": [
+            "Ashton Jeanty"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Ashton Jeanty": 160
+          },
+          "bkey": "|anytime touchdown|Ashton Jeanty",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Pop the Cork": {
+          "legs": [
+            "Christian McCaffrey"
+          ],
+          "kind": "ftd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Christian McCaffrey": 305
+          },
+          "bkey": "ftd|first touchdown scorer|Christian McCaffrey",
+          "result": "won",
+          "pl": 3.05,
+          "legs_hit": 1
+        },
+        "Bell Cow": {
+          "legs": [
+            "Bucky Irving"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Bucky Irving": 105
+          },
+          "bkey": "|anytime touchdown|Bucky Irving",
+          "result": "won",
+          "pl": 1.0499999999999998,
+          "legs_hit": 1
+        },
+        "First Read": {
+          "legs": [
+            "Kenny Gainwell"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Kenny Gainwell": 350
+          },
+          "bkey": "|anytime touchdown|Kenny Gainwell",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        }
+      },
+      "2026-11-09": {
+        "Bell Cow": {
+          "legs": [
+            "Aaron Jones"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Aaron Jones": 267
+          },
+          "bkey": "|anytime touchdown|Aaron Jones",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Goal Line Back": {
+          "legs": [
+            "Greg Dortch"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Greg Dortch": 3000
+          },
+          "bkey": "|anytime touchdown|Greg Dortch",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "King of the End Zone: Khalil Shakir": {
+          "legs": [
+            "Khalil Shakir"
+          ],
+          "kind": "longtd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Khalil Shakir": 310
+          },
+          "bkey": "longtd|longest touchdown scorer|Khalil Shakir",
+          "result": "lost",
+          "pl": -1.0
+        },
+        "Opening Statement": {
+          "legs": [
+            "Aaron Jones"
+          ],
+          "kind": "ftd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Aaron Jones": 1300
+          },
+          "bkey": "ftd|first touchdown scorer|Aaron Jones",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Red Zone Target": {
+          "legs": [
+            "Gavin Bartholomew"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Gavin Bartholomew": 1550
+          },
+          "bkey": "|anytime touchdown|Gavin Bartholomew",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Short Yardage": {
+          "legs": [
+            "Keleki Latu"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Keleki Latu": 2663
+          },
+          "bkey": "|anytime touchdown|Keleki Latu",
+          "result": "won",
+          "pl": 26.63,
+          "legs_hit": 1
+        },
+        "The Checkdown": {
+          "legs": [
+            "Keon Coleman"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Keon Coleman": 425
+          },
+          "bkey": "|anytime touchdown|Keon Coleman",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "The Workhorse": {
+          "legs": [
+            "James Cook"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "James Cook": -113
+          },
+          "bkey": "|anytime touchdown|James Cook",
+          "result": "won",
+          "pl": 0.8849557522123894,
+          "legs_hit": 1
+        }
+      },
+      "2026-11-12": {
+        "Bell Cow": {
+          "legs": [
+            "Darnell Mooney"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Darnell Mooney": 750
+          },
+          "bkey": "|anytime touchdown|Darnell Mooney",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Goal Line Back": {
+          "legs": [
+            "Chris Manhertz"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Chris Manhertz": 3000
+          },
+          "bkey": "|anytime touchdown|Chris Manhertz",
+          "result": "lost",
+          "pl": -1.0,
+          "void": false,
+          "legs_hit": 0
+        },
+        "King of the End Zone: Malik Nabers": {
+          "legs": [
+            "Malik Nabers"
+          ],
+          "kind": "longtd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Malik Nabers": 163
+          },
+          "bkey": "longtd|longest touchdown scorer|Malik Nabers",
+          "result": "lost",
+          "pl": -1.0
+        },
+        "Out of the Gate": {
+          "legs": [
+            "Isaiah Likely"
+          ],
+          "kind": "ftd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Isaiah Likely": 1000
+          },
+          "bkey": "ftd|first touchdown scorer|Isaiah Likely",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Red Zone Target": {
+          "legs": [
+            "Charlie Jones"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Charlie Jones": 1800
+          },
+          "bkey": "|anytime touchdown|Charlie Jones",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Short Yardage": {
+          "legs": [
+            "Jalin Hyatt"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jalin Hyatt": 2084
+          },
+          "bkey": "|anytime touchdown|Jalin Hyatt",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "The Workhorse": {
+          "legs": [
+            "Devin Singletary"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Devin Singletary": 267
+          },
+          "bkey": "|anytime touchdown|Devin Singletary",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        }
+      },
+      "2026-11-15": {}
+    },
+    "NBA Board": {
+      "2026-11-05": {
+        "First Basket: ORL@PHX": {
+          "legs": [
+            "Franz Wagner",
+            "Wendell Carter Jr."
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Franz Wagner": 500,
+            "Wendell Carter Jr.": 600
+          },
+          "bkey": "fb2|first basket|Franz Wagner,Wendell Carter Jr.",
+          "result": "won",
+          "legs_hit": 1,
+          "pl": 2.0
+        },
+        "First Basket: MIA@GSW": {
+          "legs": [
+            "Bam Adebayo",
+            "Giannis Antetokounmpo"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Bam Adebayo": 500,
+            "Giannis Antetokounmpo": 330
+          },
+          "bkey": "fb2|first basket|Bam Adebayo,Giannis Antetokounmpo",
+          "result": "lost",
+          "legs_hit": 0,
+          "pl": -1.0
+        }
+      },
+      "2026-11-06": {
+        "First Basket: WAS@ATL": {
+          "legs": [
+            "AJ Dybantsa",
+            "Deandre Ayton"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "AJ Dybantsa": 650,
+            "Deandre Ayton": 800
+          },
+          "bkey": "fb2|first basket|AJ Dybantsa,Deandre Ayton",
+          "result": "lost",
+          "legs_hit": 0,
+          "pl": -1.0
+        },
+        "First Basket: OKC@MEM": {
+          "legs": [
+            "Ty Jerome",
+            "Zach Edey"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Ty Jerome": 500,
+            "Zach Edey": 600
+          },
+          "bkey": "fb2|first basket|Ty Jerome,Zach Edey",
+          "result": "lost",
+          "legs_hit": 0,
+          "pl": -1.0
+        },
+        "First Basket: MIN@NOP": {
+          "legs": [
+            "Jonathan Kuminga",
+            "LaMelo Ball"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "LaMelo Ball": 500,
+            "Jonathan Kuminga": 700
+          },
+          "bkey": "fb2|first basket|Jonathan Kuminga,LaMelo Ball",
+          "result": "lost",
+          "legs_hit": 0,
+          "pl": -1.0
+        },
+        "First Basket: TOR@MIL": {
+          "legs": [
+            "Jakob Poeltl",
+            "RJ Barrett"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Jakob Poeltl": 600,
+            "RJ Barrett": 600
+          },
+          "bkey": "fb2|first basket|Jakob Poeltl,RJ Barrett",
+          "result": "lost",
+          "legs_hit": 0,
+          "pl": -1.0
+        },
+        "First Basket: UTA@DAL": {
+          "legs": [
+            "Ace Bailey",
+            "Lauri Markkanen"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Ace Bailey": 800,
+            "Lauri Markkanen": 600
+          },
+          "bkey": "fb2|first basket|Ace Bailey,Lauri Markkanen",
+          "result": "won",
+          "legs_hit": 1,
+          "pl": 2.5
+        },
+        "First Basket: SAS@SAC": {
+          "legs": [
+            "De'Aaron Fox",
+            "Victor Wembanyama"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Victor Wembanyama": 240,
+            "De'Aaron Fox": 600
+          },
+          "bkey": "fb2|first basket|De'Aaron Fox,Victor Wembanyama",
+          "result": "won",
+          "legs_hit": 1,
+          "pl": 2.5
+        }
+      },
+      "2026-11-07": {
+        "First Basket: ORL@GSW": {
+          "legs": [
+            "Franz Wagner",
+            "Wendell Carter Jr."
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Franz Wagner": 480,
+            "Wendell Carter Jr.": 500
+          },
+          "bkey": "fb2|first basket|Franz Wagner,Wendell Carter Jr.",
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
+        },
+        "First Basket: HOU@PHX": {
+          "legs": [
+            "Devin Booker",
+            "Jalen Green"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Devin Booker": 600,
+            "Jalen Green": 650
+          },
+          "bkey": "fb2|first basket|Devin Booker,Jalen Green",
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
+        },
+        "First Basket: SAS@POR": {
+          "legs": [
+            "De'Aaron Fox",
+            "Victor Wembanyama"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Victor Wembanyama": 280,
+            "De'Aaron Fox": 650
+          },
+          "bkey": "fb2|first basket|De'Aaron Fox,Victor Wembanyama",
+          "result": "won",
+          "pl": 0.9,
+          "legs_hit": 1
+        }
+      },
+      "2026-11-08": {
+        "First Basket: PHI@CHI": {
+          "legs": [
+            "Jaylen Brown",
+            "Joel Embiid"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Joel Embiid": 470,
+            "Jaylen Brown": 500
+          },
+          "bkey": "fb2|first basket|Jaylen Brown,Joel Embiid",
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
+        },
+        "First Basket: LAL@DET": {
+          "legs": [
+            "Austin Reaves",
+            "Walker Kessler"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Walker Kessler": 600,
+            "Austin Reaves": 500
+          },
+          "bkey": "fb2|first basket|Austin Reaves,Walker Kessler",
+          "result": "won",
+          "pl": 2.0,
+          "legs_hit": 1
+        },
+        "First Basket: BOS@MIL": {
+          "legs": [
+            "Jayson Tatum",
+            "Paul George"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Paul George": 490,
+            "Jayson Tatum": 440
+          },
+          "bkey": "fb2|first basket|Jayson Tatum,Paul George",
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
+        },
+        "First Basket: MIA@SAC": {
+          "legs": [
+            "Bam Adebayo",
+            "Giannis Antetokounmpo"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Bam Adebayo": 500,
+            "Giannis Antetokounmpo": 320
+          },
+          "bkey": "fb2|first basket|Bam Adebayo,Giannis Antetokounmpo",
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
+        },
+        "First Basket: NOP@LAC": {
+          "legs": [
+            "Brook Lopez",
+            "Darius Garland"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Brook Lopez": 650,
+            "Darius Garland": 600
+          },
+          "bkey": "fb2|first basket|Brook Lopez,Darius Garland",
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
+        }
+      },
+      "2026-11-09": {
+        "First Basket: CLE@CHA": {
+          "legs": [
+            "Evan Mobley",
+            "Jarrett Allen"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Jarrett Allen": 550,
+            "Evan Mobley": 500
+          },
+          "bkey": "fb2|first basket|Evan Mobley,Jarrett Allen",
+          "result": "won",
+          "pl": 2.25,
+          "legs_hit": 1
+        },
+        "First Basket: WAS@DET": {
+          "legs": [
+            "Alex Sarr",
+            "Anthony Davis"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Anthony Davis": 550,
+            "Alex Sarr": 700
+          },
+          "bkey": "fb2|first basket|Alex Sarr,Anthony Davis",
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
+        },
+        "First Basket: LAL@ATL": {
+          "legs": [
+            "Luka Doncic",
+            "Walker Kessler"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Luka Doncic": 360,
+            "Walker Kessler": 600
+          },
+          "bkey": "fb2|first basket|Luka Doncic,Walker Kessler",
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
+        },
+        "First Basket: SAS@PHX": {
+          "legs": [
+            "De'Aaron Fox",
+            "Victor Wembanyama"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Victor Wembanyama": 290,
+            "De'Aaron Fox": 650
+          },
+          "bkey": "fb2|first basket|De'Aaron Fox,Victor Wembanyama",
+          "result": "won",
+          "pl": 2.75,
+          "legs_hit": 1
+        },
+        "First Basket: DEN@HOU": {
+          "legs": [
+            "Jamal Murray",
+            "Nikola Jokic"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Nikola Jokic": 500,
+            "Jamal Murray": 440
+          },
+          "bkey": "fb2|first basket|Jamal Murray,Nikola Jokic",
+          "result": "won",
+          "pl": 1.7,
+          "legs_hit": 1
+        }
+      },
+      "2026-11-10": {
+        "First Basket: MIL@NYK": {
+          "legs": [
+            "Jalen Brunson",
+            "Karl-Anthony Towns"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Jalen Brunson": 390,
+            "Karl-Anthony Towns": 500
+          },
+          "bkey": "fb2|first basket|Jalen Brunson,Karl-Anthony Towns",
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
+        },
+        "First Basket: BOS@PHI": {
+          "legs": [
+            "Jaylen Brown",
+            "Joel Embiid"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Joel Embiid": 550,
+            "Jaylen Brown": 500
+          },
+          "bkey": "fb2|first basket|Jaylen Brown,Joel Embiid",
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
+        },
+        "First Basket: MIA@UTA": {
+          "legs": [
+            "Bam Adebayo",
+            "Giannis Antetokounmpo"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Bam Adebayo": 500,
+            "Giannis Antetokounmpo": 340
+          },
+          "bkey": "fb2|first basket|Bam Adebayo,Giannis Antetokounmpo",
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
+        },
+        "First Basket: ORL@SAC": {
+          "legs": [
+            "Franz Wagner",
+            "Wendell Carter Jr."
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Franz Wagner": 460,
+            "Wendell Carter Jr.": 650
+          },
+          "bkey": "fb2|first basket|Franz Wagner,Wendell Carter Jr.",
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
+        },
+        "First Basket: OKC@POR": {
+          "legs": [
+            "Damian Lillard",
+            "Donovan Clingan"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Damian Lillard": 600,
+            "Donovan Clingan": 950
+          },
+          "bkey": "fb2|first basket|Damian Lillard,Donovan Clingan",
+          "result": "won",
+          "pl": 2.5,
+          "legs_hit": 1
+        }
+      },
+      "2026-11-11": {
+        "First Basket: CLE@NYK": {
+          "legs": [
+            "Evan Mobley",
+            "Jarrett Allen"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Jarrett Allen": 650,
+            "Evan Mobley": 550
+          },
+          "bkey": "fb2|first basket|Evan Mobley,Jarrett Allen",
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
+        },
+        "First Basket: WAS@IND": {
+          "legs": [
+            "AJ Dybantsa",
+            "Anthony Davis"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Anthony Davis": 500,
+            "AJ Dybantsa": 850
+          },
+          "bkey": "fb2|first basket|AJ Dybantsa,Anthony Davis",
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
+        },
+        "First Basket: BOS@TOR": {
+          "legs": [
+            "Jakob Poeltl",
+            "RJ Barrett"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Jakob Poeltl": 800,
+            "RJ Barrett": 470
+          },
+          "bkey": "fb2|first basket|Jakob Poeltl,RJ Barrett",
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
+        },
+        "First Basket: DEN@MEM": {
+          "legs": [
+            "Ty Jerome",
+            "Zach Edey"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Ty Jerome": 490,
+            "Zach Edey": 700
+          },
+          "bkey": "fb2|first basket|Ty Jerome,Zach Edey",
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
+        },
+        "First Basket: SAS@CHI": {
+          "legs": [
+            "De'Aaron Fox",
+            "Victor Wembanyama"
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Victor Wembanyama": 280,
+            "De'Aaron Fox": 500
+          },
+          "bkey": "fb2|first basket|De'Aaron Fox,Victor Wembanyama",
+          "result": "won",
+          "pl": 2.0,
+          "legs_hit": 1
+        },
+        "First Basket: ORL@UTA": {
+          "legs": [
+            "Franz Wagner",
+            "Wendell Carter Jr."
+          ],
+          "kind": "fb2",
+          "rr": false,
+          "units": 1,
+          "odds": {
+            "Franz Wagner": 500,
+            "Wendell Carter Jr.": 600
+          },
+          "bkey": "fb2|first basket|Franz Wagner,Wendell Carter Jr.",
+          "result": "lost",
+          "pl": -1,
+          "legs_hit": 0
+        }
+      },
+      "2026-11-12": {
+        "Early Offense": {
+          "legs": [
+            "John Collins"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "John Collins": 750
+          },
+          "bkey": "|first basket|John Collins",
+          "result": "lost",
+          "pl": -0.2,
+          "legs_hit": 0
+        },
+        "Off the Tip": {
+          "legs": [
+            "Anthony Davis"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.4,
+          "odds": {
+            "Anthony Davis": 500
+          },
+          "bkey": "|first basket|Anthony Davis",
+          "result": "lost",
+          "pl": -0.4,
+          "legs_hit": 0
+        },
+        "Top of the Key": {
+          "legs": [
+            "Collin Murray-Boyles"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Collin Murray-Boyles": 1400
+          },
+          "bkey": "|first basket|Collin Murray-Boyles",
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
+        },
+        "Ice Breaker": {
+          "legs": [
+            "Kyrie Irving"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Kyrie Irving": 1100
+          },
+          "bkey": "|first basket|Kyrie Irving",
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
+        },
+        "Lead the Break": {
+          "legs": [
+            "Oso Ighodaro"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Oso Ighodaro": 950
+          },
+          "bkey": "|first basket|Oso Ighodaro",
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
+        }
+      },
+      "2026-11-13": {
+        "Early Offense": {
+          "legs": [
+            "Kelly Oubre Jr."
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Kelly Oubre Jr.": 1400
+          },
+          "bkey": "|first basket|Kelly Oubre Jr.",
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
+        },
+        "Off the Tip": {
+          "legs": [
+            "Myles Turner"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Myles Turner": 1100
+          },
+          "bkey": "|first basket|Myles Turner",
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
+        },
+        "Brick Wall": {
+          "legs": [
+            "Jalen Brunson"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jalen Brunson": -136
+          },
+          "bkey": "downtown|under 2.5 threes|Jalen Brunson",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Pallet of Bricks": {
+          "legs": [
+            "Karl-Anthony Towns"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Karl-Anthony Towns": -132
+          },
+          "bkey": "downtown|under 1.5 threes|Karl-Anthony Towns",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Rim Rattler": {
+          "legs": [
+            "Landry Shamet"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Landry Shamet": 122
+          },
+          "bkey": "downtown|under 1.5 threes|Landry Shamet",
+          "result": "won",
+          "pl": 1.2199999999999998,
+          "legs_hit": 1
+        },
+        "The Masonry": {
+          "legs": [
+            "Desmond Bane"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Desmond Bane": -132
+          },
+          "bkey": "downtown|under 3.5 threes|Desmond Bane",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Back Iron": {
+          "legs": [
+            "Matas Buzelis"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Matas Buzelis": 144
+          },
+          "bkey": "downtown|under 1.5 threes|Matas Buzelis",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Building Code": {
+          "legs": [
+            "Jalen Smith"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jalen Smith": 116
+          },
+          "bkey": "downtown|under 1.5 threes|Jalen Smith",
+          "result": "won",
+          "pl": 1.1600000000000001,
+          "legs_hit": 1
+        },
+        "Cinder Block": {
+          "legs": [
+            "Norman Powell"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Norman Powell": -111
+          },
+          "bkey": "downtown|under 2.5 threes|Norman Powell",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Ice Breaker": {
+          "legs": [
+            "Karlo Matkovic"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Karlo Matkovic": 1000
+          },
+          "bkey": "|first basket|Karlo Matkovic",
+          "result": "lost",
+          "pl": -0.6,
+          "void": false,
+          "legs_hit": 0
+        },
+        "Lead the Break": {
+          "legs": [
+            "Onyeka Okongwu"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Onyeka Okongwu": 800
+          },
+          "bkey": "|first basket|Onyeka Okongwu",
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
+        },
+        "Bricklayer": {
+          "legs": [
+            "Jaylen Wells"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jaylen Wells": 124
+          },
+          "bkey": "downtown|under 1.5 threes|Jaylen Wells",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "First Touch": {
+          "legs": [
+            "Bam Adebayo"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Bam Adebayo": 650
+          },
+          "bkey": "|first basket|Bam Adebayo",
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
+        },
+        "Load-Bearing Wall": {
+          "legs": [
+            "Donovan Mitchell"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Donovan Mitchell": 104
+          },
+          "bkey": "downtown|under 2.5 threes|Donovan Mitchell",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        },
+        "Under Construction": {
+          "legs": [
+            "Ty Jerome"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Ty Jerome": -106
+          },
+          "bkey": "downtown|under 2.5 threes|Ty Jerome",
+          "result": "won",
+          "pl": 0.9433962264150944,
+          "legs_hit": 1
+        },
+        "Red Clay": {
+          "legs": [
+            "Josh Green"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Josh Green": -265
+          },
+          "bkey": "downtown|under 1.5 threes|Josh Green",
+          "result": "won",
+          "pl": 0.37735849056603765,
+          "legs_hit": 1
+        },
+        "Two Points": {
+          "legs": [
+            "Draymond Green"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Draymond Green": 1400
+          },
+          "bkey": "|first basket|Draymond Green",
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
+        },
+        "The Starter": {
+          "legs": [
+            "Zach LaVine"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Zach LaVine": 1300
+          },
+          "bkey": "|first basket|Zach LaVine",
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
+        },
+        "Front Rim": {
+          "legs": [
+            "Alex Caruso"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Alex Caruso": -158
+          },
+          "bkey": "downtown|under 1.5 threes|Alex Caruso",
+          "result": "won",
+          "pl": 0.6329113924050633,
+          "legs_hit": 1
+        },
+        "Mortar Mix": {
+          "legs": [
+            "Shai Gilgeous-Alexander"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Shai Gilgeous-Alexander": -156
+          },
+          "bkey": "downtown|under 2.5 threes|Shai Gilgeous-Alexander",
+          "result": "won",
+          "pl": 0.6410256410256411,
+          "legs_hit": 1
+        }
+      },
+      "2026-11-14": {}
     }
-   },
-   "2026-11-01": {
-    "Back Post": {
-     "legs": [
-      "Anastasios Douvikas"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Anastasios Douvikas": -122
-     },
-     "bkey": "|anytime goalscorer|Anastasios Douvikas",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Big Game Player": {
-     "legs": [
-      "Lionel Messi"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": 2,
-     "odds": {
-      "Lionel Messi": -118
-     },
-     "bkey": "|anytime goalscorer|Lionel Messi",
-     "result": "won",
-     "pl": 1.694915254237288,
-     "legs_hit": 1
-    },
-    "Far Post": {
-     "legs": [
-      "Hany Mukhtar"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Hany Mukhtar": 116
-     },
-     "bkey": "|anytime goalscorer|Hany Mukhtar",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "First Time": {
-     "legs": [
-      "Younes Ebnoutalib"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Younes Ebnoutalib": -102
-     },
-     "bkey": "|anytime goalscorer|Younes Ebnoutalib",
-     "result": "won",
-     "pl": 0.9803921568627452,
-     "legs_hit": 1
-    },
-    "Gets Across": {
-     "legs": [
-      "Nicolas Paz Martinez"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Nicolas Paz Martinez": 110
-     },
-     "bkey": "|anytime goalscorer|Nicolas Paz Martinez",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Six-Yard Box": {
-     "legs": [
-      "Sam Surridge"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Sam Surridge": -125
-     },
-     "bkey": "|anytime goalscorer|Sam Surridge",
-     "result": "won",
-     "pl": 0.8,
-     "legs_hit": 1
-    },
-    "Target Man": {
-     "legs": [
-      "Kylian Mbappe"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Kylian Mbappe": -310
-     },
-     "bkey": "|anytime goalscorer|Kylian Mbappe",
-     "result": "won",
-     "pl": 0.32258064516129026,
-     "legs_hit": 1
-    },
-    "The Nine": {
-     "legs": [
-      "Brian White"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Brian White": -100
-     },
-     "bkey": "|anytime goalscorer|Brian White",
-     "result": "won",
-     "pl": 1.0,
-     "legs_hit": 1
-    },
-    "The Ninety": {
-     "legs": [
-      "Eintracht Frankfurt v Hamburg SV: Hamburg SV under 1.5 goals",
-      "Getafe v Sevilla: Sevilla to score",
-      "Lazio v Cagliari: Lazio under 2.5 goals",
-      "Portland Timbers v Houston Dynamo FC: Houston Dynamo FC under 1.5 goals"
-     ],
-     "kind": "totals",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Eintracht Frankfurt v Hamburg SV: Hamburg SV under 1.5 goals": -251,
-      "Getafe v Sevilla: Sevilla to score": -270,
-      "Lazio v Cagliari: Lazio under 2.5 goals": -230,
-      "Portland Timbers v Houston Dynamo FC: Houston Dynamo FC under 1.5 goals": -376
-     },
-     "bkey": "totals||Eintracht Frankfurt v Hamburg SV: Hamburg SV under 1.5 goals,Getafe v Sevilla: Sevilla to score,Lazio v Cagliari: Lazio under 2.5 goals,Portland Timbers v Houston Dynamo FC: Houston Dynamo FC under 1.5 goals",
-     "result": "won",
-     "pl": 2.4807799329969664,
-     "legs_hit": 4
-    }
-   },
-   "2026-11-03": {
-    "Final Tally": {
-     "legs": [
-      "Manchester United v AS Roma: Both teams to score",
-      "Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals"
-     ],
-     "kind": "totals",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Manchester United v AS Roma: Both teams to score": -199,
-      "Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals": -183
-     },
-     "bkey": "totals||Manchester United v AS Roma: Both teams to score,Villarreal v Paris Saint-Germain: Villarreal under 1.5 goals",
-     "result": "won",
-     "pl": 1.323557679105912,
-     "legs_hit": 2
-    },
-    "First Time": {
-     "legs": [
-      "Donyell Malen"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": 2,
-     "odds": {
-      "Donyell Malen": 115
-     },
-     "bkey": "|anytime goalscorer|Donyell Malen",
-     "result": "won",
-     "pl": 2.3,
-     "legs_hit": 1
-    },
-    "Near Post": {
-     "legs": [
-      "Harry Kane"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Harry Kane": -100
-     },
-     "bkey": "|anytime goalscorer|Harry Kane",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Target Man": {
-     "legs": [
-      "Raphinha"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Raphinha": -165
-     },
-     "bkey": "|anytime goalscorer|Raphinha",
-     "result": "won",
-     "pl": 0.606060606060606,
-     "legs_hit": 1
-    },
-    "The Poacher": {
-     "legs": [
-      "Lamine Yamal Nasraqui Ebana"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Lamine Yamal Nasraqui Ebana": -120
-     },
-     "bkey": "|anytime goalscorer|Lamine Yamal Nasraqui Ebana",
-     "result": "won",
-     "pl": 0.8333333333333335,
-     "legs_hit": 1
-    }
-   },
-   "2026-11-04": {
-    "Ninety Minutes": {
-     "legs": [
-      "Lens v Como: Both teams to score",
-      "RB Leipzig v Manchester City: Both teams to score"
-     ],
-     "kind": "totals",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "RB Leipzig v Manchester City: Both teams to score": -229,
-      "Lens v Como: Both teams to score": -186
-     },
-     "bkey": "totals||Lens v Como: Both teams to score,RB Leipzig v Manchester City: Both teams to score",
-     "result": "won",
-     "pl": 1.209090482227544,
-     "legs_hit": 2
-    },
-    "Go-To Man": {
-     "legs": [
-      "Erling Haaland"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": 2,
-     "odds": {
-      "Erling Haaland": -185
-     },
-     "bkey": "|anytime goalscorer|Erling Haaland",
-     "result": "won",
-     "pl": 1.0810810810810811,
-     "legs_hit": 1
-    },
-    "The Poacher": {
-     "legs": [
-      "Sehrou Guirassy"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Sehrou Guirassy": -102
-     },
-     "bkey": "|anytime goalscorer|Sehrou Guirassy",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    }
-   },
-   "2026-11-05": {
-    "The Poacher": {
-     "legs": [
-      "Jean-Philippe Mateta"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Jean-Philippe Mateta": -105
-     },
-     "bkey": "|anytime goalscorer|Jean-Philippe Mateta",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Heavy Boot": {
-     "legs": [
-      "Patrik Schick"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": 2,
-     "odds": {
-      "Patrik Schick": -145
-     },
-     "bkey": "|anytime goalscorer|Patrik Schick",
-     "result": "lost",
-     "pl": -2,
-     "legs_hit": 0
-    }
-   },
-   "2026-11-06": {
-    "Shut the Gate": {
-     "legs": [
-      "Everton v Coventry City: Coventry City to score",
-      "Venezia v Udinese: Udinese under 1.5 goals"
-     ],
-     "kind": "totals",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Everton v Coventry City: Coventry City to score": -217,
-      "Venezia v Udinese: Udinese under 1.5 goals": -199
-     },
-     "bkey": "totals||Everton v Coventry City: Coventry City to score,Venezia v Udinese: Udinese under 1.5 goals",
-     "result": "won",
-     "pl": 1.1949146654933656,
-     "legs_hit": 2
-    },
-    "Main Man": {
-     "legs": [
-      "Thierno Barry"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": 2,
-     "odds": {
-      "Thierno Barry": 118
-     },
-     "bkey": "|anytime goalscorer|Thierno Barry",
-     "result": "won",
-     "pl": 2.3599999999999994,
-     "legs_hit": 1
-    }
-   },
-   "2026-11-07": {
-    "The Score Sheet": {
-     "legs": [
-      "Chicago Fire FC v Columbus Crew: Both teams to score",
-      "Minnesota United FC v San Jose Earthquakes: Both teams to score",
-      "Nottingham Forest v Manchester City: Nottingham Forest to score",
-      "SC Paderborn 07 v Eintracht Frankfurt: Both teams to score"
-     ],
-     "kind": "totals",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Nottingham Forest v Manchester City: Nottingham Forest to score": -250,
-      "Chicago Fire FC v Columbus Crew: Both teams to score": -207,
-      "Minnesota United FC v San Jose Earthquakes: Both teams to score": -213,
-      "SC Paderborn 07 v Eintracht Frankfurt: Both teams to score": -205
-     },
-     "bkey": "totals||Chicago Fire FC v Columbus Crew: Both teams to score,Minnesota United FC v San Jose Earthquakes: Both teams to score,Nottingham Forest v Manchester City: Nottingham Forest to score,SC Paderborn 07 v Eintracht Frankfurt: Both teams to score",
-     "result": "won",
-     "pl": 3.5394870143843304,
-     "legs_hit": 4
-    },
-    "Smashed Home": {
-     "legs": [
-      "Fabio Silva"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Fabio Silva": 105
-     },
-     "bkey": "|anytime goalscorer|Fabio Silva",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Bottom Corner": {
-     "legs": [
-      "Romulo"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Romulo": -106
-     },
-     "bkey": "|anytime goalscorer|Romulo",
-     "result": "won",
-     "pl": 0.9433962264150944,
-     "legs_hit": 1
-    },
-    "Near Post": {
-     "legs": [
-      "Christopher Nkunku"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Christopher Nkunku": 105
-     },
-     "bkey": "|anytime goalscorer|Christopher Nkunku",
-     "result": "won",
-     "pl": 1.0499999999999998,
-     "legs_hit": 1
-    },
-    "Six-Yard Box": {
-     "legs": [
-      "Harry Kane"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Harry Kane": -197
-     },
-     "bkey": "|anytime goalscorer|Harry Kane",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Ghosts In": {
-     "legs": [
-      "Kai Havertz"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Kai Havertz": -104
-     },
-     "bkey": "|anytime goalscorer|Kai Havertz",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Full Stake": {
-     "legs": [
-      "Erling Haaland"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": 2,
-     "odds": {
-      "Erling Haaland": -135
-     },
-     "bkey": "|anytime goalscorer|Erling Haaland",
-     "result": "lost",
-     "pl": -2,
-     "legs_hit": 0
-    },
-    "Through on Goal": {
-     "legs": [
-      "Deniz Undav"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Deniz Undav": -104
-     },
-     "bkey": "|anytime goalscorer|Deniz Undav",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Far Post": {
-     "legs": [
-      "Lassine Sinayoko"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Lassine Sinayoko": 120
-     },
-     "bkey": "|anytime goalscorer|Lassine Sinayoko",
-     "result": "won",
-     "pl": 1.2000000000000002,
-     "legs_hit": 1
-    },
-    "The Poacher": {
-     "legs": [
-      "Kylian Mbappe"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Kylian Mbappe": -210
-     },
-     "bkey": "|anytime goalscorer|Kylian Mbappe",
-     "result": "won",
-     "pl": 0.4761904761904763,
-     "legs_hit": 1
-    },
-    "Back Post": {
-     "legs": [
-      "Donyell Malen"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Donyell Malen": -192
-     },
-     "bkey": "|anytime goalscorer|Donyell Malen",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Rebound": {
-     "legs": [
-      "Desire Doue"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Desire Doue": -115
-     },
-     "bkey": "|anytime goalscorer|Desire Doue",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "The Nine": {
-     "legs": [
-      "Ferran Torres"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Ferran Torres": -160
-     },
-     "bkey": "|anytime goalscorer|Ferran Torres",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Target Man": {
-     "legs": [
-      "Lionel Messi"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Lionel Messi": -225
-     },
-     "bkey": "|anytime goalscorer|Lionel Messi",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Finds the Gap": {
-     "legs": [
-      "Robert Lewandowski"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Robert Lewandowski": 115
-     },
-     "bkey": "|anytime goalscorer|Robert Lewandowski",
-     "result": "won",
-     "pl": 1.15,
-     "legs_hit": 1
-    },
-    "Gets Across": {
-     "legs": [
-      "Luis Suarez"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Luis Suarez": -108
-     },
-     "bkey": "|anytime goalscorer|Luis Suarez",
-     "result": "won",
-     "pl": 0.925925925925926,
-     "legs_hit": 1
-    },
-    "Penalty Spot": {
-     "legs": [
-      "Bruno Damiani"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Bruno Damiani": -100
-     },
-     "bkey": "|anytime goalscorer|Bruno Damiani",
-     "result": "won",
-     "pl": 1.0,
-     "legs_hit": 1
-    },
-    "Poked Home": {
-     "legs": [
-      "Rayan Elloumi"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Rayan Elloumi": 120
-     },
-     "bkey": "|anytime goalscorer|Rayan Elloumi",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Rounds the Keeper": {
-     "legs": [
-      "Sam Surridge"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Sam Surridge": 112
-     },
-     "bkey": "|anytime goalscorer|Sam Surridge",
-     "result": "won",
-     "pl": 1.12,
-     "legs_hit": 1
-    },
-    "Side Netting": {
-     "legs": [
-      "Antoine Griezmann"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Antoine Griezmann": 110
-     },
-     "bkey": "|anytime goalscorer|Antoine Griezmann",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "In Behind": {
-     "legs": [
-      "Vincent Janssen"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Vincent Janssen": 110
-     },
-     "bkey": "|anytime goalscorer|Vincent Janssen",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "First Time": {
-     "legs": [
-      "Marcus Ingvartsen"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Marcus Ingvartsen": -118
-     },
-     "bkey": "|anytime goalscorer|Marcus Ingvartsen",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Runs the Channel": {
-     "legs": [
-      "Anders Dreyer"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Anders Dreyer": -115
-     },
-     "bkey": "|anytime goalscorer|Anders Dreyer",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Stoops to Conquer": {
-     "legs": [
-      "Sergi Solans"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Sergi Solans": 104
-     },
-     "bkey": "|anytime goalscorer|Sergi Solans",
-     "result": "won",
-     "pl": 1.04,
-     "legs_hit": 1
-    },
-    "One-Two": {
-     "legs": [
-      "Kelvin Yeboah"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Kelvin Yeboah": 108
-     },
-     "bkey": "|anytime goalscorer|Kelvin Yeboah",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    }
-   },
-   "2026-11-08": {
-    "Back of the Net": {
-     "legs": [
-      "Crystal Palace v Liverpool: Crystal Palace to score",
-      "Internazionale v Como: Both teams to score",
-      "Sunderland v Chelsea: Sunderland to score",
-      "TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals"
-     ],
-     "kind": "totals",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Sunderland v Chelsea: Sunderland to score": -265,
-      "TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals": -235,
-      "Internazionale v Como: Both teams to score": -225,
-      "Crystal Palace v Liverpool: Crystal Palace to score": -235
-     },
-     "bkey": "totals||Crystal Palace v Liverpool: Crystal Palace to score,Internazionale v Como: Both teams to score,Sunderland v Chelsea: Sunderland to score,TSG Hoffenheim v Schalke 04: Schalke 04 under 1.5 goals",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 3
-    },
-    "First Time": {
-     "legs": [
-      "Alexander Isak"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Alexander Isak": 110
-     },
-     "bkey": "|anytime goalscorer|Alexander Isak",
-     "result": "won",
-     "pl": 1.1,
-     "legs_hit": 1
-    },
-    "Target Man": {
-     "legs": [
-      "Patrik Schick"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Patrik Schick": -117
-     },
-     "bkey": "|anytime goalscorer|Patrik Schick",
-     "result": "won",
-     "pl": 0.8547008547008548,
-     "legs_hit": 1
-    },
-    "Go-To Man": {
-     "legs": [
-      "Orri Oskarsson"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": 2,
-     "odds": {
-      "Orri Oskarsson": 120
-     },
-     "bkey": "|anytime goalscorer|Orri Oskarsson",
-     "result": "won",
-     "pl": 2.4000000000000004,
-     "legs_hit": 1
-    },
-    "The Poacher": {
-     "legs": [
-      "Raphinha"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Raphinha": -105
-     },
-     "bkey": "|anytime goalscorer|Raphinha",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    }
-   },
-   "2026-11-12": {
-    "Nailed On": {
-     "legs": [
-      "Harry Kane"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": 2,
-     "odds": {
-      "Harry Kane": -185
-     },
-     "bkey": "|anytime goalscorer|Harry Kane",
-     "result": "won",
-     "pl": 1.0810810810810811,
-     "legs_hit": 1
-    },
-    "The Poacher": {
-     "legs": [
-      "Ferran Torres"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Ferran Torres": -115
-     },
-     "bkey": "|anytime goalscorer|Ferran Torres",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    }
-   },
-   "2026-11-13": {
-    "Both Barrels": {
-     "legs": [
-      "Kai Havertz"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": 2,
-     "odds": {
-      "Kai Havertz": -120
-     },
-     "bkey": "|anytime goalscorer|Kai Havertz",
-     "result": "lost",
-     "pl": -2,
-     "legs_hit": 0
-    }
-   },
-   "2026-11-14": {}
   },
-  "NFL Board": {
-   "2026-11-02": {
-    "Bell Cow": {
-     "legs": [
-      "Jadarian Price"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Jadarian Price": 330
-     },
-     "bkey": "|anytime touchdown|Jadarian Price",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
+  "recap_sent": "2026-11-14",
+  "daily": {
+    "Soccer Board": {
+      "2026-11-02": {
+        "w": 0,
+        "l": 2,
+        "v": 0,
+        "pl": -3.0,
+        "unk": 0
+      },
+      "2026-11-01": {
+        "w": 6,
+        "l": 3,
+        "v": 0,
+        "pl": 4.28,
+        "unk": 0
+      },
+      "2026-11-03": {
+        "w": 4,
+        "l": 1,
+        "v": 0,
+        "pl": 4.06,
+        "unk": 0
+      },
+      "2026-11-04": {
+        "w": 2,
+        "l": 1,
+        "v": 0,
+        "pl": 1.29,
+        "unk": 0
+      },
+      "2026-11-05": {
+        "w": 0,
+        "l": 2,
+        "v": 0,
+        "pl": -3.0,
+        "unk": 0
+      },
+      "2026-11-06": {
+        "w": 2,
+        "l": 0,
+        "v": 0,
+        "pl": 3.55,
+        "unk": 0
+      },
+      "2026-11-07": {
+        "w": 10,
+        "l": 15,
+        "v": 0,
+        "pl": -3.56,
+        "unk": 0
+      },
+      "2026-11-08": {
+        "w": 3,
+        "l": 2,
+        "v": 0,
+        "pl": 2.35,
+        "unk": 0
+      },
+      "2026-11-12": {
+        "w": 1,
+        "l": 1,
+        "v": 0,
+        "pl": 0.08,
+        "unk": 0
+      },
+      "2026-11-13": {
+        "w": 0,
+        "l": 1,
+        "v": 0,
+        "pl": -2.0,
+        "unk": 0
+      }
     },
-    "Goal Line Back": {
-     "legs": [
-      "Nick Kallerup"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Nick Kallerup": 2800
-     },
-     "bkey": "|anytime touchdown|Nick Kallerup",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
+    "NFL Board": {
+      "2026-11-02": {
+        "w": 1,
+        "l": 5,
+        "v": 0,
+        "pl": -4.09,
+        "unk": 0
+      },
+      "2026-11-01": {
+        "w": 8,
+        "l": 17,
+        "v": 0,
+        "pl": 10.84,
+        "unk": 0
+      },
+      "2026-11-05": {
+        "w": 0,
+        "l": 7,
+        "v": 0,
+        "pl": -7.0,
+        "unk": 0
+      },
+      "2026-11-08": {
+        "w": 3,
+        "l": 11,
+        "v": 0,
+        "pl": -1.15,
+        "unk": 0
+      },
+      "2026-11-09": {
+        "w": 2,
+        "l": 6,
+        "v": 0,
+        "pl": 21.51,
+        "unk": 0
+      },
+      "2026-11-12": {
+        "w": 0,
+        "l": 7,
+        "v": 0,
+        "pl": -7.0,
+        "unk": 0
+      }
     },
-    "Red Zone Target": {
-     "legs": [
-      "Jahdae Walker"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Jahdae Walker": 1941
-     },
-     "bkey": "|anytime touchdown|Jahdae Walker",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Strike First": {
-     "legs": [
-      "Jaxon Smith-Njigba"
-     ],
-     "kind": "ftd",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Jaxon Smith-Njigba": 562
-     },
-     "bkey": "ftd|first touchdown scorer|Jaxon Smith-Njigba",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "The Workhorse": {
-     "legs": [
-      "Emanuel Wilson"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Emanuel Wilson": 350
-     },
-     "bkey": "|anytime touchdown|Emanuel Wilson",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "King of the End Zone: Jaxon Smith-Njigba": {
-     "legs": [
-      "Jaxon Smith-Njigba"
-     ],
-     "kind": "longtd",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Jaxon Smith-Njigba": -110
-     },
-     "bkey": "longtd|longest touchdown scorer|Jaxon Smith-Njigba",
-     "result": "won",
-     "pl": 0.9090909090909092
+    "NBA Board": {
+      "2026-10-20": {
+        "w": 0,
+        "l": 2,
+        "v": 0,
+        "pl": -2.0,
+        "unk": 0
+      },
+      "2026-10-21": {
+        "w": 3,
+        "l": 4,
+        "v": 0,
+        "pl": 2.35,
+        "unk": 0
+      },
+      "2026-10-22": {
+        "w": 1,
+        "l": 0,
+        "v": 0,
+        "pl": 2.5,
+        "unk": 0
+      },
+      "2026-10-23": {
+        "w": 3,
+        "l": 8,
+        "v": 0,
+        "pl": -1.3,
+        "unk": 0
+      },
+      "2026-10-24": {
+        "w": 3,
+        "l": 1,
+        "v": 0,
+        "pl": 3.8,
+        "unk": 0
+      },
+      "2026-10-25": {
+        "w": 0,
+        "l": 2,
+        "v": 0,
+        "pl": -2.0,
+        "unk": 0
+      },
+      "2026-10-26": {
+        "w": 3,
+        "l": 4,
+        "v": 0,
+        "pl": 2.0,
+        "unk": 0
+      },
+      "2026-10-27": {
+        "w": 2,
+        "l": 1,
+        "v": 0,
+        "pl": 1.85,
+        "unk": 0
+      },
+      "2026-10-28": {
+        "w": 3,
+        "l": 4,
+        "v": 0,
+        "pl": 4.5,
+        "unk": 0
+      },
+      "2026-10-29": {
+        "w": 2,
+        "l": 0,
+        "v": 0,
+        "pl": 3.95,
+        "unk": 0
+      },
+      "2026-10-30": {
+        "w": 4,
+        "l": 4,
+        "v": 0,
+        "pl": 3.25,
+        "unk": 0
+      },
+      "2026-10-31": {
+        "w": 1,
+        "l": 3,
+        "v": 0,
+        "pl": -0.75,
+        "unk": 0
+      },
+      "2026-11-01": {
+        "w": 1,
+        "l": 2,
+        "v": 0,
+        "pl": 1.25,
+        "unk": 0
+      },
+      "2026-11-02": {
+        "w": 4,
+        "l": 4,
+        "v": 0,
+        "pl": 3.65,
+        "unk": 0
+      },
+      "2026-11-04": {
+        "w": 5,
+        "l": 5,
+        "v": 0,
+        "pl": 3.7,
+        "unk": 0
+      },
+      "2026-11-05": {
+        "w": 1,
+        "l": 1,
+        "v": 0,
+        "pl": 1.0,
+        "unk": 0
+      },
+      "2026-11-06": {
+        "w": 2,
+        "l": 4,
+        "v": 0,
+        "pl": 1.0,
+        "unk": 0
+      },
+      "2026-11-07": {
+        "w": 1,
+        "l": 2,
+        "v": 0,
+        "pl": -1.1,
+        "unk": 0
+      },
+      "2026-11-08": {
+        "w": 1,
+        "l": 4,
+        "v": 0,
+        "pl": -2.0,
+        "unk": 0
+      },
+      "2026-11-09": {
+        "w": 3,
+        "l": 2,
+        "v": 0,
+        "pl": 4.7,
+        "unk": 0
+      },
+      "2026-11-10": {
+        "w": 1,
+        "l": 4,
+        "v": 0,
+        "pl": -1.5,
+        "unk": 0
+      },
+      "2026-11-11": {
+        "w": 1,
+        "l": 5,
+        "v": 0,
+        "pl": -3.0,
+        "unk": 0
+      },
+      "2026-11-12": {
+        "w": 0,
+        "l": 5,
+        "v": 0,
+        "pl": -2.4,
+        "unk": 0
+      },
+      "2026-11-13": {
+        "w": 6,
+        "l": 14,
+        "v": 0,
+        "pl": -6.23,
+        "unk": 0
+      }
     }
-   },
-   "2026-11-01": {
-    "Audible": {
-     "legs": [
-      "Jameson Williams"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Jameson Williams": 215
-     },
-     "bkey": "|anytime touchdown|Jameson Williams",
-     "result": "won",
-     "pl": 2.15,
-     "legs_hit": 1
-    },
-    "Back Shoulder": {
-     "legs": [
-      "Mason Taylor"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Mason Taylor": 375
-     },
-     "bkey": "|anytime touchdown|Mason Taylor",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Bell Cow": {
-     "legs": [
-      "Kyren Williams"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Kyren Williams": -130
-     },
-     "bkey": "|anytime touchdown|Kyren Williams",
-     "result": "won",
-     "pl": 0.7692307692307692,
-     "legs_hit": 1
-    },
-    "First Read": {
-     "legs": [
-      "Aaron Jones"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Aaron Jones": 247
-     },
-     "bkey": "|anytime touchdown|Aaron Jones",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "First on the Board": {
-     "legs": [
-      "Derrick Henry"
-     ],
-     "kind": "ftd",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Derrick Henry": 475
-     },
-     "bkey": "ftd|first touchdown scorer|Derrick Henry",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Goal Line Back": {
-     "legs": [
-      "Bhayshul Tuten"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Bhayshul Tuten": -110
-     },
-     "bkey": "|anytime touchdown|Bhayshul Tuten",
-     "result": "won",
-     "pl": 0.9090909090909092,
-     "legs_hit": 1
-    },
-    "Hard Count": {
-     "legs": [
-      "Jakobi Meyers"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Jakobi Meyers": 231
-     },
-     "bkey": "|anytime touchdown|Jakobi Meyers",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Hurry Up": {
-     "legs": [
-      "Chris Rodriguez Jr."
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Chris Rodriguez Jr.": 295
-     },
-     "bkey": "|anytime touchdown|Chris Rodriguez Jr.",
-     "result": "won",
-     "pl": 2.95,
-     "legs_hit": 1
-    },
-    "Inside the Ten": {
-     "legs": [
-      "Sam LaPorta"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Sam LaPorta": 230
-     },
-     "bkey": "|anytime touchdown|Sam LaPorta",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Jump Ball": {
-     "legs": [
-      "Reggie Virgil"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Reggie Virgil": 1500
-     },
-     "bkey": "|anytime touchdown|Reggie Virgil",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Move the Chains": {
-     "legs": [
-      "Jeremiyah Love"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Jeremiyah Love": 151
-     },
-     "bkey": "|anytime touchdown|Jeremiyah Love",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Post Corner": {
-     "legs": [
-      "Tyler Allgeier"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Tyler Allgeier": 347
-     },
-     "bkey": "|anytime touchdown|Tyler Allgeier",
-     "result": "won",
-     "pl": 3.4700000000000006,
-     "legs_hit": 1
-    },
-    "Quick Slant": {
-     "legs": [
-      "Rico Dowdle"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Rico Dowdle": 295
-     },
-     "bkey": "|anytime touchdown|Rico Dowdle",
-     "result": "won",
-     "pl": 2.95,
-     "legs_hit": 1
-    },
-    "Red Zone Target": {
-     "legs": [
-      "Amon-Ra St. Brown"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Amon-Ra St. Brown": 130
-     },
-     "bkey": "|anytime touchdown|Amon-Ra St. Brown",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Screen Pass": {
-     "legs": [
-      "Kevin Coleman Jr."
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Kevin Coleman Jr.": 1400
-     },
-     "bkey": "|anytime touchdown|Kevin Coleman Jr.",
-     "result": "won",
-     "pl": 14.0,
-     "legs_hit": 1
-    },
-    "Seam Route": {
-     "legs": [
-      "Bam Knight"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Bam Knight": 325
-     },
-     "bkey": "|anytime touchdown|Bam Knight",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Short Yardage": {
-     "legs": [
-      "Ashton Jeanty"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Ashton Jeanty": -105
-     },
-     "bkey": "|anytime touchdown|Ashton Jeanty",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Spin Move": {
-     "legs": [
-      "Josh Cuevas"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Josh Cuevas": 950
-     },
-     "bkey": "|anytime touchdown|Josh Cuevas",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Stiff Arm": {
-     "legs": [
-      "Mitchell Tinsley"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {},
-     "bkey": "|anytime touchdown|Mitchell Tinsley",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "The Checkdown": {
-     "legs": [
-      "Jonathan Taylor"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Jonathan Taylor": -100
-     },
-     "bkey": "|anytime touchdown|Jonathan Taylor",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "The Sneak": {
-     "legs": [
-      "Omarion Hampton"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Omarion Hampton": 205
-     },
-     "bkey": "|anytime touchdown|Omarion Hampton",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "The Workhorse": {
-     "legs": [
-      "James Cook"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "James Cook": -155
-     },
-     "bkey": "|anytime touchdown|James Cook",
-     "result": "won",
-     "pl": 0.6451612903225805,
-     "legs_hit": 1
-    },
-    "Toe Tap": {
-     "legs": [
-      "Jauan Jennings"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Jauan Jennings": 600
-     },
-     "bkey": "|anytime touchdown|Jauan Jennings",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Two Minute Drill": {
-     "legs": [
-      "J.K. Dobbins"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "J.K. Dobbins": 205
-     },
-     "bkey": "|anytime touchdown|J.K. Dobbins",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Wheel Route": {
-     "legs": [
-      "Keon Coleman"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Keon Coleman": 340
-     },
-     "bkey": "|anytime touchdown|Keon Coleman",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    }
-   },
-   "2026-11-05": {
-    "Short Yardage": {
-     "legs": [
-      "Josh Cuevas"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Josh Cuevas": 1949
-     },
-     "bkey": "|anytime touchdown|Josh Cuevas",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Six Before Anyone": {
-     "legs": [
-      "Derrick Henry"
-     ],
-     "kind": "ftd",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Derrick Henry": 596
-     },
-     "bkey": "ftd|first touchdown scorer|Derrick Henry",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Bell Cow": {
-     "legs": [
-      "Brian Thomas Jr."
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Brian Thomas Jr.": 550
-     },
-     "bkey": "|anytime touchdown|Brian Thomas Jr.",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Goal Line Back": {
-     "legs": [
-      "Travis Hunter"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Travis Hunter": 700
-     },
-     "bkey": "|anytime touchdown|Travis Hunter",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "King of the End Zone: Zay Flowers": {
-     "legs": [
-      "Zay Flowers"
-     ],
-     "kind": "longtd",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Zay Flowers": 325
-     },
-     "bkey": "longtd|longest touchdown scorer|Zay Flowers",
-     "result": "lost",
-     "pl": -1.0
-    },
-    "Red Zone Target": {
-     "legs": [
-      "Tanner Koziol"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Tanner Koziol": 2200
-     },
-     "bkey": "|anytime touchdown|Tanner Koziol",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "The Workhorse": {
-     "legs": [
-      "Jakobi Meyers"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Jakobi Meyers": 300
-     },
-     "bkey": "|anytime touchdown|Jakobi Meyers",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    }
-   },
-   "2026-11-08": {
-    "Inside the Ten": {
-     "legs": [
-      "Olamide Zaccheaus"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Olamide Zaccheaus": 600
-     },
-     "bkey": "|anytime touchdown|Olamide Zaccheaus",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "The Checkdown": {
-     "legs": [
-      "Kyle Pitts"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Kyle Pitts": 265
-     },
-     "bkey": "|anytime touchdown|Kyle Pitts",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Hurry Up": {
-     "legs": [
-      "Mitchell Tinsley"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Mitchell Tinsley": 1200
-     },
-     "bkey": "|anytime touchdown|Mitchell Tinsley",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Red Zone Target": {
-     "legs": [
-      "J.K. Dobbins"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "J.K. Dobbins": 265
-     },
-     "bkey": "|anytime touchdown|J.K. Dobbins",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Short Yardage": {
-     "legs": [
-      "Tyler Warren"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Tyler Warren": 206
-     },
-     "bkey": "|anytime touchdown|Tyler Warren",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "The Sneak": {
-     "legs": [
-      "Kevin Coleman Jr."
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Kevin Coleman Jr.": 850
-     },
-     "bkey": "|anytime touchdown|Kevin Coleman Jr.",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "The Workhorse": {
-     "legs": [
-      "Amon-Ra St. Brown"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Amon-Ra St. Brown": -111
-     },
-     "bkey": "|anytime touchdown|Amon-Ra St. Brown",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Two Minute Drill": {
-     "legs": [
-      "Jonathan Taylor"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Jonathan Taylor": -135
-     },
-     "bkey": "|anytime touchdown|Jonathan Taylor",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Audible": {
-     "legs": [
-      "Kyren Williams"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Kyren Williams": -155
-     },
-     "bkey": "|anytime touchdown|Kyren Williams",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Move the Chains": {
-     "legs": [
-      "Xavier Hutchinson"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Xavier Hutchinson": 575
-     },
-     "bkey": "|anytime touchdown|Xavier Hutchinson",
-     "result": "won",
-     "pl": 5.75,
-     "legs_hit": 1
-    },
-    "Goal Line Back": {
-     "legs": [
-      "Ashton Jeanty"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Ashton Jeanty": 160
-     },
-     "bkey": "|anytime touchdown|Ashton Jeanty",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Pop the Cork": {
-     "legs": [
-      "Christian McCaffrey"
-     ],
-     "kind": "ftd",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Christian McCaffrey": 305
-     },
-     "bkey": "ftd|first touchdown scorer|Christian McCaffrey",
-     "result": "won",
-     "pl": 3.05,
-     "legs_hit": 1
-    },
-    "Bell Cow": {
-     "legs": [
-      "Bucky Irving"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Bucky Irving": 105
-     },
-     "bkey": "|anytime touchdown|Bucky Irving",
-     "result": "won",
-     "pl": 1.0499999999999998,
-     "legs_hit": 1
-    },
-    "First Read": {
-     "legs": [
-      "Kenny Gainwell"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Kenny Gainwell": 350
-     },
-     "bkey": "|anytime touchdown|Kenny Gainwell",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    }
-   },
-   "2026-11-09": {
-    "Bell Cow": {
-     "legs": [
-      "Aaron Jones"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Aaron Jones": 267
-     },
-     "bkey": "|anytime touchdown|Aaron Jones",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Goal Line Back": {
-     "legs": [
-      "Greg Dortch"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Greg Dortch": 3000
-     },
-     "bkey": "|anytime touchdown|Greg Dortch",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "King of the End Zone: Khalil Shakir": {
-     "legs": [
-      "Khalil Shakir"
-     ],
-     "kind": "longtd",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Khalil Shakir": 310
-     },
-     "bkey": "longtd|longest touchdown scorer|Khalil Shakir",
-     "result": "lost",
-     "pl": -1.0
-    },
-    "Opening Statement": {
-     "legs": [
-      "Aaron Jones"
-     ],
-     "kind": "ftd",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Aaron Jones": 1300
-     },
-     "bkey": "ftd|first touchdown scorer|Aaron Jones",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Red Zone Target": {
-     "legs": [
-      "Gavin Bartholomew"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Gavin Bartholomew": 1550
-     },
-     "bkey": "|anytime touchdown|Gavin Bartholomew",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Short Yardage": {
-     "legs": [
-      "Keleki Latu"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Keleki Latu": 2663
-     },
-     "bkey": "|anytime touchdown|Keleki Latu",
-     "result": "won",
-     "pl": 26.63,
-     "legs_hit": 1
-    },
-    "The Checkdown": {
-     "legs": [
-      "Keon Coleman"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Keon Coleman": 425
-     },
-     "bkey": "|anytime touchdown|Keon Coleman",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "The Workhorse": {
-     "legs": [
-      "James Cook"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "James Cook": -113
-     },
-     "bkey": "|anytime touchdown|James Cook",
-     "result": "won",
-     "pl": 0.8849557522123894,
-     "legs_hit": 1
-    }
-   },
-   "2026-11-12": {
-    "Bell Cow": {
-     "legs": [
-      "Darnell Mooney"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Darnell Mooney": 750
-     },
-     "bkey": "|anytime touchdown|Darnell Mooney",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Goal Line Back": {
-     "legs": [
-      "Chris Manhertz"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Chris Manhertz": 3000
-     },
-     "bkey": "|anytime touchdown|Chris Manhertz",
-     "result": "lost",
-     "pl": -1.0,
-     "void": false,
-     "legs_hit": 0
-    },
-    "King of the End Zone: Malik Nabers": {
-     "legs": [
-      "Malik Nabers"
-     ],
-     "kind": "longtd",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Malik Nabers": 163
-     },
-     "bkey": "longtd|longest touchdown scorer|Malik Nabers",
-     "result": "lost",
-     "pl": -1.0
-    },
-    "Out of the Gate": {
-     "legs": [
-      "Isaiah Likely"
-     ],
-     "kind": "ftd",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Isaiah Likely": 1000
-     },
-     "bkey": "ftd|first touchdown scorer|Isaiah Likely",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Red Zone Target": {
-     "legs": [
-      "Charlie Jones"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Charlie Jones": 1800
-     },
-     "bkey": "|anytime touchdown|Charlie Jones",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Short Yardage": {
-     "legs": [
-      "Jalin Hyatt"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Jalin Hyatt": 2084
-     },
-     "bkey": "|anytime touchdown|Jalin Hyatt",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "The Workhorse": {
-     "legs": [
-      "Devin Singletary"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Devin Singletary": 267
-     },
-     "bkey": "|anytime touchdown|Devin Singletary",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    }
-   },
-   "2026-11-15": {}
-  },
-  "NBA Board": {
-   "2026-11-05": {
-    "First Basket: ORL@PHX": {
-     "legs": [
-      "Franz Wagner",
-      "Wendell Carter Jr."
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Franz Wagner": 500,
-      "Wendell Carter Jr.": 600
-     },
-     "bkey": "fb2|first basket|Franz Wagner,Wendell Carter Jr.",
-     "result": "won",
-     "legs_hit": 1,
-     "pl": 2.0
-    },
-    "First Basket: MIA@GSW": {
-     "legs": [
-      "Bam Adebayo",
-      "Giannis Antetokounmpo"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Bam Adebayo": 500,
-      "Giannis Antetokounmpo": 330
-     },
-     "bkey": "fb2|first basket|Bam Adebayo,Giannis Antetokounmpo",
-     "result": "lost",
-     "legs_hit": 0,
-     "pl": -1.0
-    }
-   },
-   "2026-11-06": {
-    "First Basket: WAS@ATL": {
-     "legs": [
-      "AJ Dybantsa",
-      "Deandre Ayton"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "AJ Dybantsa": 650,
-      "Deandre Ayton": 800
-     },
-     "bkey": "fb2|first basket|AJ Dybantsa,Deandre Ayton",
-     "result": "lost",
-     "legs_hit": 0,
-     "pl": -1.0
-    },
-    "First Basket: OKC@MEM": {
-     "legs": [
-      "Ty Jerome",
-      "Zach Edey"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Ty Jerome": 500,
-      "Zach Edey": 600
-     },
-     "bkey": "fb2|first basket|Ty Jerome,Zach Edey",
-     "result": "lost",
-     "legs_hit": 0,
-     "pl": -1.0
-    },
-    "First Basket: MIN@NOP": {
-     "legs": [
-      "Jonathan Kuminga",
-      "LaMelo Ball"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "LaMelo Ball": 500,
-      "Jonathan Kuminga": 700
-     },
-     "bkey": "fb2|first basket|Jonathan Kuminga,LaMelo Ball",
-     "result": "lost",
-     "legs_hit": 0,
-     "pl": -1.0
-    },
-    "First Basket: TOR@MIL": {
-     "legs": [
-      "Jakob Poeltl",
-      "RJ Barrett"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Jakob Poeltl": 600,
-      "RJ Barrett": 600
-     },
-     "bkey": "fb2|first basket|Jakob Poeltl,RJ Barrett",
-     "result": "lost",
-     "legs_hit": 0,
-     "pl": -1.0
-    },
-    "First Basket: UTA@DAL": {
-     "legs": [
-      "Ace Bailey",
-      "Lauri Markkanen"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Ace Bailey": 800,
-      "Lauri Markkanen": 600
-     },
-     "bkey": "fb2|first basket|Ace Bailey,Lauri Markkanen",
-     "result": "won",
-     "legs_hit": 1,
-     "pl": 2.5
-    },
-    "First Basket: SAS@SAC": {
-     "legs": [
-      "De'Aaron Fox",
-      "Victor Wembanyama"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Victor Wembanyama": 240,
-      "De'Aaron Fox": 600
-     },
-     "bkey": "fb2|first basket|De'Aaron Fox,Victor Wembanyama",
-     "result": "won",
-     "legs_hit": 1,
-     "pl": 2.5
-    }
-   },
-   "2026-11-07": {
-    "First Basket: ORL@GSW": {
-     "legs": [
-      "Franz Wagner",
-      "Wendell Carter Jr."
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Franz Wagner": 480,
-      "Wendell Carter Jr.": 500
-     },
-     "bkey": "fb2|first basket|Franz Wagner,Wendell Carter Jr.",
-     "result": "lost",
-     "pl": -1,
-     "legs_hit": 0
-    },
-    "First Basket: HOU@PHX": {
-     "legs": [
-      "Devin Booker",
-      "Jalen Green"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Devin Booker": 600,
-      "Jalen Green": 650
-     },
-     "bkey": "fb2|first basket|Devin Booker,Jalen Green",
-     "result": "lost",
-     "pl": -1,
-     "legs_hit": 0
-    },
-    "First Basket: SAS@POR": {
-     "legs": [
-      "De'Aaron Fox",
-      "Victor Wembanyama"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Victor Wembanyama": 280,
-      "De'Aaron Fox": 650
-     },
-     "bkey": "fb2|first basket|De'Aaron Fox,Victor Wembanyama",
-     "result": "won",
-     "pl": 0.9,
-     "legs_hit": 1
-    }
-   },
-   "2026-11-08": {
-    "First Basket: PHI@CHI": {
-     "legs": [
-      "Jaylen Brown",
-      "Joel Embiid"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Joel Embiid": 470,
-      "Jaylen Brown": 500
-     },
-     "bkey": "fb2|first basket|Jaylen Brown,Joel Embiid",
-     "result": "lost",
-     "pl": -1,
-     "legs_hit": 0
-    },
-    "First Basket: LAL@DET": {
-     "legs": [
-      "Austin Reaves",
-      "Walker Kessler"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Walker Kessler": 600,
-      "Austin Reaves": 500
-     },
-     "bkey": "fb2|first basket|Austin Reaves,Walker Kessler",
-     "result": "won",
-     "pl": 2.0,
-     "legs_hit": 1
-    },
-    "First Basket: BOS@MIL": {
-     "legs": [
-      "Jayson Tatum",
-      "Paul George"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Paul George": 490,
-      "Jayson Tatum": 440
-     },
-     "bkey": "fb2|first basket|Jayson Tatum,Paul George",
-     "result": "lost",
-     "pl": -1,
-     "legs_hit": 0
-    },
-    "First Basket: MIA@SAC": {
-     "legs": [
-      "Bam Adebayo",
-      "Giannis Antetokounmpo"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Bam Adebayo": 500,
-      "Giannis Antetokounmpo": 320
-     },
-     "bkey": "fb2|first basket|Bam Adebayo,Giannis Antetokounmpo",
-     "result": "lost",
-     "pl": -1,
-     "legs_hit": 0
-    },
-    "First Basket: NOP@LAC": {
-     "legs": [
-      "Brook Lopez",
-      "Darius Garland"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Brook Lopez": 650,
-      "Darius Garland": 600
-     },
-     "bkey": "fb2|first basket|Brook Lopez,Darius Garland",
-     "result": "lost",
-     "pl": -1,
-     "legs_hit": 0
-    }
-   },
-   "2026-11-09": {
-    "First Basket: CLE@CHA": {
-     "legs": [
-      "Evan Mobley",
-      "Jarrett Allen"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Jarrett Allen": 550,
-      "Evan Mobley": 500
-     },
-     "bkey": "fb2|first basket|Evan Mobley,Jarrett Allen",
-     "result": "won",
-     "pl": 2.25,
-     "legs_hit": 1
-    },
-    "First Basket: WAS@DET": {
-     "legs": [
-      "Alex Sarr",
-      "Anthony Davis"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Anthony Davis": 550,
-      "Alex Sarr": 700
-     },
-     "bkey": "fb2|first basket|Alex Sarr,Anthony Davis",
-     "result": "lost",
-     "pl": -1,
-     "legs_hit": 0
-    },
-    "First Basket: LAL@ATL": {
-     "legs": [
-      "Luka Doncic",
-      "Walker Kessler"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Luka Doncic": 360,
-      "Walker Kessler": 600
-     },
-     "bkey": "fb2|first basket|Luka Doncic,Walker Kessler",
-     "result": "lost",
-     "pl": -1,
-     "legs_hit": 0
-    },
-    "First Basket: SAS@PHX": {
-     "legs": [
-      "De'Aaron Fox",
-      "Victor Wembanyama"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Victor Wembanyama": 290,
-      "De'Aaron Fox": 650
-     },
-     "bkey": "fb2|first basket|De'Aaron Fox,Victor Wembanyama",
-     "result": "won",
-     "pl": 2.75,
-     "legs_hit": 1
-    },
-    "First Basket: DEN@HOU": {
-     "legs": [
-      "Jamal Murray",
-      "Nikola Jokic"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Nikola Jokic": 500,
-      "Jamal Murray": 440
-     },
-     "bkey": "fb2|first basket|Jamal Murray,Nikola Jokic",
-     "result": "won",
-     "pl": 1.7,
-     "legs_hit": 1
-    }
-   },
-   "2026-11-10": {
-    "First Basket: MIL@NYK": {
-     "legs": [
-      "Jalen Brunson",
-      "Karl-Anthony Towns"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Jalen Brunson": 390,
-      "Karl-Anthony Towns": 500
-     },
-     "bkey": "fb2|first basket|Jalen Brunson,Karl-Anthony Towns",
-     "result": "lost",
-     "pl": -1,
-     "legs_hit": 0
-    },
-    "First Basket: BOS@PHI": {
-     "legs": [
-      "Jaylen Brown",
-      "Joel Embiid"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Joel Embiid": 550,
-      "Jaylen Brown": 500
-     },
-     "bkey": "fb2|first basket|Jaylen Brown,Joel Embiid",
-     "result": "lost",
-     "pl": -1,
-     "legs_hit": 0
-    },
-    "First Basket: MIA@UTA": {
-     "legs": [
-      "Bam Adebayo",
-      "Giannis Antetokounmpo"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Bam Adebayo": 500,
-      "Giannis Antetokounmpo": 340
-     },
-     "bkey": "fb2|first basket|Bam Adebayo,Giannis Antetokounmpo",
-     "result": "lost",
-     "pl": -1,
-     "legs_hit": 0
-    },
-    "First Basket: ORL@SAC": {
-     "legs": [
-      "Franz Wagner",
-      "Wendell Carter Jr."
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Franz Wagner": 460,
-      "Wendell Carter Jr.": 650
-     },
-     "bkey": "fb2|first basket|Franz Wagner,Wendell Carter Jr.",
-     "result": "lost",
-     "pl": -1,
-     "legs_hit": 0
-    },
-    "First Basket: OKC@POR": {
-     "legs": [
-      "Damian Lillard",
-      "Donovan Clingan"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Damian Lillard": 600,
-      "Donovan Clingan": 950
-     },
-     "bkey": "fb2|first basket|Damian Lillard,Donovan Clingan",
-     "result": "won",
-     "pl": 2.5,
-     "legs_hit": 1
-    }
-   },
-   "2026-11-11": {
-    "First Basket: CLE@NYK": {
-     "legs": [
-      "Evan Mobley",
-      "Jarrett Allen"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Jarrett Allen": 650,
-      "Evan Mobley": 550
-     },
-     "bkey": "fb2|first basket|Evan Mobley,Jarrett Allen",
-     "result": "lost",
-     "pl": -1,
-     "legs_hit": 0
-    },
-    "First Basket: WAS@IND": {
-     "legs": [
-      "AJ Dybantsa",
-      "Anthony Davis"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Anthony Davis": 500,
-      "AJ Dybantsa": 850
-     },
-     "bkey": "fb2|first basket|AJ Dybantsa,Anthony Davis",
-     "result": "lost",
-     "pl": -1,
-     "legs_hit": 0
-    },
-    "First Basket: BOS@TOR": {
-     "legs": [
-      "Jakob Poeltl",
-      "RJ Barrett"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Jakob Poeltl": 800,
-      "RJ Barrett": 470
-     },
-     "bkey": "fb2|first basket|Jakob Poeltl,RJ Barrett",
-     "result": "lost",
-     "pl": -1,
-     "legs_hit": 0
-    },
-    "First Basket: DEN@MEM": {
-     "legs": [
-      "Ty Jerome",
-      "Zach Edey"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Ty Jerome": 490,
-      "Zach Edey": 700
-     },
-     "bkey": "fb2|first basket|Ty Jerome,Zach Edey",
-     "result": "lost",
-     "pl": -1,
-     "legs_hit": 0
-    },
-    "First Basket: SAS@CHI": {
-     "legs": [
-      "De'Aaron Fox",
-      "Victor Wembanyama"
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Victor Wembanyama": 280,
-      "De'Aaron Fox": 500
-     },
-     "bkey": "fb2|first basket|De'Aaron Fox,Victor Wembanyama",
-     "result": "won",
-     "pl": 2.0,
-     "legs_hit": 1
-    },
-    "First Basket: ORL@UTA": {
-     "legs": [
-      "Franz Wagner",
-      "Wendell Carter Jr."
-     ],
-     "kind": "fb2",
-     "rr": false,
-     "units": 1,
-     "odds": {
-      "Franz Wagner": 500,
-      "Wendell Carter Jr.": 600
-     },
-     "bkey": "fb2|first basket|Franz Wagner,Wendell Carter Jr.",
-     "result": "lost",
-     "pl": -1,
-     "legs_hit": 0
-    }
-   },
-   "2026-11-12": {
-    "Early Offense": {
-     "legs": [
-      "John Collins"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": 0.2,
-     "odds": {
-      "John Collins": 750
-     },
-     "bkey": "|first basket|John Collins",
-     "result": "lost",
-     "pl": -0.2,
-     "legs_hit": 0
-    },
-    "Off the Tip": {
-     "legs": [
-      "Anthony Davis"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": 0.4,
-     "odds": {
-      "Anthony Davis": 500
-     },
-     "bkey": "|first basket|Anthony Davis",
-     "result": "lost",
-     "pl": -0.4,
-     "legs_hit": 0
-    },
-    "Top of the Key": {
-     "legs": [
-      "Collin Murray-Boyles"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": 0.6,
-     "odds": {
-      "Collin Murray-Boyles": 1400
-     },
-     "bkey": "|first basket|Collin Murray-Boyles",
-     "result": "lost",
-     "pl": -0.6,
-     "legs_hit": 0
-    },
-    "Ice Breaker": {
-     "legs": [
-      "Kyrie Irving"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": 0.6,
-     "odds": {
-      "Kyrie Irving": 1100
-     },
-     "bkey": "|first basket|Kyrie Irving",
-     "result": "lost",
-     "pl": -0.6,
-     "legs_hit": 0
-    },
-    "Lead the Break": {
-     "legs": [
-      "Oso Ighodaro"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": 0.6,
-     "odds": {
-      "Oso Ighodaro": 950
-     },
-     "bkey": "|first basket|Oso Ighodaro",
-     "result": "lost",
-     "pl": -0.6,
-     "legs_hit": 0
-    }
-   },
-   "2026-11-13": {
-    "Early Offense": {
-     "legs": [
-      "Kelly Oubre Jr."
-     ],
-     "kind": "",
-     "rr": false,
-     "units": 0.6,
-     "odds": {
-      "Kelly Oubre Jr.": 1400
-     },
-     "bkey": "|first basket|Kelly Oubre Jr.",
-     "result": "lost",
-     "pl": -0.6,
-     "legs_hit": 0
-    },
-    "Off the Tip": {
-     "legs": [
-      "Myles Turner"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": 0.6,
-     "odds": {
-      "Myles Turner": 1100
-     },
-     "bkey": "|first basket|Myles Turner",
-     "result": "lost",
-     "pl": -0.6,
-     "legs_hit": 0
-    },
-    "Brick Wall": {
-     "legs": [
-      "Jalen Brunson"
-     ],
-     "kind": "downtown",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Jalen Brunson": -136
-     },
-     "bkey": "downtown|under 2.5 threes|Jalen Brunson",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Pallet of Bricks": {
-     "legs": [
-      "Karl-Anthony Towns"
-     ],
-     "kind": "downtown",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Karl-Anthony Towns": -132
-     },
-     "bkey": "downtown|under 1.5 threes|Karl-Anthony Towns",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Rim Rattler": {
-     "legs": [
-      "Landry Shamet"
-     ],
-     "kind": "downtown",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Landry Shamet": 122
-     },
-     "bkey": "downtown|under 1.5 threes|Landry Shamet",
-     "result": "won",
-     "pl": 1.2199999999999998,
-     "legs_hit": 1
-    },
-    "The Masonry": {
-     "legs": [
-      "Desmond Bane"
-     ],
-     "kind": "downtown",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Desmond Bane": -132
-     },
-     "bkey": "downtown|under 3.5 threes|Desmond Bane",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Back Iron": {
-     "legs": [
-      "Matas Buzelis"
-     ],
-     "kind": "downtown",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Matas Buzelis": 144
-     },
-     "bkey": "downtown|under 1.5 threes|Matas Buzelis",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Building Code": {
-     "legs": [
-      "Jalen Smith"
-     ],
-     "kind": "downtown",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Jalen Smith": 116
-     },
-     "bkey": "downtown|under 1.5 threes|Jalen Smith",
-     "result": "won",
-     "pl": 1.1600000000000001,
-     "legs_hit": 1
-    },
-    "Cinder Block": {
-     "legs": [
-      "Norman Powell"
-     ],
-     "kind": "downtown",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Norman Powell": -111
-     },
-     "bkey": "downtown|under 2.5 threes|Norman Powell",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Ice Breaker": {
-     "legs": [
-      "Karlo Matkovic"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": 0.6,
-     "odds": {
-      "Karlo Matkovic": 1000
-     },
-     "bkey": "|first basket|Karlo Matkovic",
-     "result": "lost",
-     "pl": -0.6,
-     "void": false,
-     "legs_hit": 0
-    },
-    "Lead the Break": {
-     "legs": [
-      "Onyeka Okongwu"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": 0.6,
-     "odds": {
-      "Onyeka Okongwu": 800
-     },
-     "bkey": "|first basket|Onyeka Okongwu",
-     "result": "lost",
-     "pl": -0.6,
-     "legs_hit": 0
-    },
-    "Bricklayer": {
-     "legs": [
-      "Jaylen Wells"
-     ],
-     "kind": "downtown",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Jaylen Wells": 124
-     },
-     "bkey": "downtown|under 1.5 threes|Jaylen Wells",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "First Touch": {
-     "legs": [
-      "Bam Adebayo"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": 0.6,
-     "odds": {
-      "Bam Adebayo": 650
-     },
-     "bkey": "|first basket|Bam Adebayo",
-     "result": "lost",
-     "pl": -0.6,
-     "legs_hit": 0
-    },
-    "Load-Bearing Wall": {
-     "legs": [
-      "Donovan Mitchell"
-     ],
-     "kind": "downtown",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Donovan Mitchell": 104
-     },
-     "bkey": "downtown|under 2.5 threes|Donovan Mitchell",
-     "result": "lost",
-     "pl": -1.0,
-     "legs_hit": 0
-    },
-    "Under Construction": {
-     "legs": [
-      "Ty Jerome"
-     ],
-     "kind": "downtown",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Ty Jerome": -106
-     },
-     "bkey": "downtown|under 2.5 threes|Ty Jerome",
-     "result": "won",
-     "pl": 0.9433962264150944,
-     "legs_hit": 1
-    },
-    "Red Clay": {
-     "legs": [
-      "Josh Green"
-     ],
-     "kind": "downtown",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Josh Green": -265
-     },
-     "bkey": "downtown|under 1.5 threes|Josh Green",
-     "result": "won",
-     "pl": 0.37735849056603765,
-     "legs_hit": 1
-    },
-    "Two Points": {
-     "legs": [
-      "Draymond Green"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": 0.6,
-     "odds": {
-      "Draymond Green": 1400
-     },
-     "bkey": "|first basket|Draymond Green",
-     "result": "lost",
-     "pl": -0.6,
-     "legs_hit": 0
-    },
-    "The Starter": {
-     "legs": [
-      "Zach LaVine"
-     ],
-     "kind": "",
-     "rr": false,
-     "units": 0.6,
-     "odds": {
-      "Zach LaVine": 1300
-     },
-     "bkey": "|first basket|Zach LaVine",
-     "result": "lost",
-     "pl": -0.6,
-     "legs_hit": 0
-    },
-    "Front Rim": {
-     "legs": [
-      "Alex Caruso"
-     ],
-     "kind": "downtown",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Alex Caruso": -158
-     },
-     "bkey": "downtown|under 1.5 threes|Alex Caruso",
-     "result": "won",
-     "pl": 0.6329113924050633,
-     "legs_hit": 1
-    },
-    "Mortar Mix": {
-     "legs": [
-      "Shai Gilgeous-Alexander"
-     ],
-     "kind": "downtown",
-     "rr": false,
-     "units": null,
-     "odds": {
-      "Shai Gilgeous-Alexander": -156
-     },
-     "bkey": "downtown|under 2.5 threes|Shai Gilgeous-Alexander",
-     "result": "won",
-     "pl": 0.6410256410256411,
-     "legs_hit": 1
-    }
-   },
-   "2026-11-14": {}
   }
- },
- "recap_sent": "2026-11-14",
- "daily": {
-  "Soccer Board": {
-   "2026-11-02": {
-    "w": 0,
-    "l": 2,
-    "v": 0,
-    "pl": -3.0,
-    "unk": 0
-   },
-   "2026-11-01": {
-    "w": 6,
-    "l": 3,
-    "v": 0,
-    "pl": 4.28,
-    "unk": 0
-   },
-   "2026-11-03": {
-    "w": 4,
-    "l": 1,
-    "v": 0,
-    "pl": 4.06,
-    "unk": 0
-   },
-   "2026-11-04": {
-    "w": 2,
-    "l": 1,
-    "v": 0,
-    "pl": 1.29,
-    "unk": 0
-   },
-   "2026-11-05": {
-    "w": 0,
-    "l": 2,
-    "v": 0,
-    "pl": -3.0,
-    "unk": 0
-   },
-   "2026-11-06": {
-    "w": 2,
-    "l": 0,
-    "v": 0,
-    "pl": 3.55,
-    "unk": 0
-   },
-   "2026-11-07": {
-    "w": 10,
-    "l": 15,
-    "v": 0,
-    "pl": -3.56,
-    "unk": 0
-   },
-   "2026-11-08": {
-    "w": 3,
-    "l": 2,
-    "v": 0,
-    "pl": 2.35,
-    "unk": 0
-   },
-   "2026-11-12": {
-    "w": 1,
-    "l": 1,
-    "v": 0,
-    "pl": 0.08,
-    "unk": 0
-   },
-   "2026-11-13": {
-    "w": 0,
-    "l": 1,
-    "v": 0,
-    "pl": -2.0,
-    "unk": 0
-   }
-  },
-  "NFL Board": {
-   "2026-11-02": {
-    "w": 1,
-    "l": 5,
-    "v": 0,
-    "pl": -4.09,
-    "unk": 0
-   },
-   "2026-11-01": {
-    "w": 8,
-    "l": 17,
-    "v": 0,
-    "pl": 10.84,
-    "unk": 0
-   },
-   "2026-11-05": {
-    "w": 0,
-    "l": 7,
-    "v": 0,
-    "pl": -7.0,
-    "unk": 0
-   },
-   "2026-11-08": {
-    "w": 3,
-    "l": 11,
-    "v": 0,
-    "pl": -1.15,
-    "unk": 0
-   },
-   "2026-11-09": {
-    "w": 2,
-    "l": 6,
-    "v": 0,
-    "pl": 21.51,
-    "unk": 0
-   },
-   "2026-11-12": {
-    "w": 0,
-    "l": 7,
-    "v": 0,
-    "pl": -7.0,
-    "unk": 0
-   }
-  },
-  "NBA Board": {
-   "2026-10-20": {
-    "w": 0,
-    "l": 2,
-    "v": 0,
-    "pl": -2.0,
-    "unk": 0
-   },
-   "2026-10-21": {
-    "w": 3,
-    "l": 4,
-    "v": 0,
-    "pl": 2.35,
-    "unk": 0
-   },
-   "2026-10-22": {
-    "w": 1,
-    "l": 0,
-    "v": 0,
-    "pl": 2.5,
-    "unk": 0
-   },
-   "2026-10-23": {
-    "w": 3,
-    "l": 8,
-    "v": 0,
-    "pl": -1.3,
-    "unk": 0
-   },
-   "2026-10-24": {
-    "w": 3,
-    "l": 1,
-    "v": 0,
-    "pl": 3.8,
-    "unk": 0
-   },
-   "2026-10-25": {
-    "w": 0,
-    "l": 2,
-    "v": 0,
-    "pl": -2.0,
-    "unk": 0
-   },
-   "2026-10-26": {
-    "w": 3,
-    "l": 4,
-    "v": 0,
-    "pl": 2.0,
-    "unk": 0
-   },
-   "2026-10-27": {
-    "w": 2,
-    "l": 1,
-    "v": 0,
-    "pl": 1.85,
-    "unk": 0
-   },
-   "2026-10-28": {
-    "w": 3,
-    "l": 4,
-    "v": 0,
-    "pl": 4.5,
-    "unk": 0
-   },
-   "2026-10-29": {
-    "w": 2,
-    "l": 0,
-    "v": 0,
-    "pl": 3.95,
-    "unk": 0
-   },
-   "2026-10-30": {
-    "w": 4,
-    "l": 4,
-    "v": 0,
-    "pl": 3.25,
-    "unk": 0
-   },
-   "2026-10-31": {
-    "w": 1,
-    "l": 3,
-    "v": 0,
-    "pl": -0.75,
-    "unk": 0
-   },
-   "2026-11-01": {
-    "w": 1,
-    "l": 2,
-    "v": 0,
-    "pl": 1.25,
-    "unk": 0
-   },
-   "2026-11-02": {
-    "w": 4,
-    "l": 4,
-    "v": 0,
-    "pl": 3.65,
-    "unk": 0
-   },
-   "2026-11-04": {
-    "w": 5,
-    "l": 5,
-    "v": 0,
-    "pl": 3.7,
-    "unk": 0
-   },
-   "2026-11-05": {
-    "w": 1,
-    "l": 1,
-    "v": 0,
-    "pl": 1.0,
-    "unk": 0
-   },
-   "2026-11-06": {
-    "w": 2,
-    "l": 4,
-    "v": 0,
-    "pl": 1.0,
-    "unk": 0
-   },
-   "2026-11-07": {
-    "w": 1,
-    "l": 2,
-    "v": 0,
-    "pl": -1.1,
-    "unk": 0
-   },
-   "2026-11-08": {
-    "w": 1,
-    "l": 4,
-    "v": 0,
-    "pl": -2.0,
-    "unk": 0
-   },
-   "2026-11-09": {
-    "w": 3,
-    "l": 2,
-    "v": 0,
-    "pl": 4.7,
-    "unk": 0
-   },
-   "2026-11-10": {
-    "w": 1,
-    "l": 4,
-    "v": 0,
-    "pl": -1.5,
-    "unk": 0
-   },
-   "2026-11-11": {
-    "w": 1,
-    "l": 5,
-    "v": 0,
-    "pl": -3.0,
-    "unk": 0
-   },
-   "2026-11-12": {
-    "w": 0,
-    "l": 5,
-    "v": 0,
-    "pl": -2.4,
-    "unk": 0
-   },
-   "2026-11-13": {
-    "w": 6,
-    "l": 14,
-    "v": 0,
-    "pl": -6.23,
-    "unk": 0
-   }
-  }
- }
 }
