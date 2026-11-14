@@ -882,10 +882,12 @@
             "Kai Havertz": -120
           },
           "bkey": "|anytime goalscorer|Kai Havertz",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -2,
+          "legs_hit": 0
         }
-      }
+      },
+      "2026-11-14": {}
     },
     "NFL Board": {
       "2026-11-02": {
