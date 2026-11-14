@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 02:46:57 GMT",
-    "checked_at": "2026-11-14T02:47:15.027403+00:00"
+    "last_modified": "Sat, 14 Nov 2026 03:07:30 GMT",
+    "checked_at": "2026-11-14T03:08:12.436417+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-14",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 02:46:57 GMT",
-    "checked_at": "2026-11-14T02:47:15.234151+00:00"
+    "last_modified": "Sat, 14 Nov 2026 03:07:30 GMT",
+    "checked_at": "2026-11-14T03:08:12.588727+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -60,11 +60,11 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 02:46:57 GMT",
-    "checked_at": "2026-11-14T02:47:15.403181+00:00"
+    "last_modified": "Sat, 14 Nov 2026 03:07:30 GMT",
+    "checked_at": "2026-11-14T03:08:12.738518+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "14608c1cd177bae43aaa1da2a4a45758dd055ebf945f569991b0b92bfaed8871",
+    "hash": "3213d6f12259364969342e55488c3506b0f6f23f93e04d9b4689a0e5541bab6f",
     "confirmed": [
       {
         "name": "Back Iron",
@@ -187,6 +187,21 @@
         "group": "5"
       },
       {
+        "name": "Front Rim",
+        "legs": [
+          "Alex Caruso"
+        ],
+        "rr": false,
+        "market": "under 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Alex Caruso": "Thunder vs Clippers \u00b7 Fri Nov 13 \u00b7 10:30 PM ET"
+        },
+        "odds": {
+          "Alex Caruso": -158
+        }
+      },
+      {
         "name": "Grout Line",
         "legs": [
           "Landry Shamet"
@@ -244,6 +259,21 @@
         },
         "odds": {
           "Donovan Mitchell": 104
+        }
+      },
+      {
+        "name": "Mortar Mix",
+        "legs": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "rr": false,
+        "market": "under 2.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Shai Gilgeous-Alexander": "Thunder vs Clippers \u00b7 Fri Nov 13 \u00b7 10:30 PM ET"
+        },
+        "odds": {
+          "Shai Gilgeous-Alexander": -156
         }
       },
       {
@@ -430,9 +460,16 @@
       ],
       "The Starter": [
         "Zach LaVine"
+      ],
+      "Front Rim": [
+        "Alex Caruso"
+      ],
+      "Mortar Mix": [
+        "Shai Gilgeous-Alexander"
       ]
     },
     "abets": [
+      "downtown|under 1.5 threes|Alex Caruso",
       "downtown|under 1.5 threes|Anthony Black",
       "downtown|under 1.5 threes|Cedric Coward",
       "downtown|under 1.5 threes|Jalen Smith",
@@ -445,6 +482,7 @@
       "downtown|under 2.5 threes|Donovan Mitchell",
       "downtown|under 2.5 threes|Jalen Brunson",
       "downtown|under 2.5 threes|Norman Powell",
+      "downtown|under 2.5 threes|Shai Gilgeous-Alexander",
       "downtown|under 2.5 threes|Ty Jerome",
       "downtown|under 2.5 threes|Tyler Herro",
       "downtown|under 3.5 threes|Desmond Bane",
@@ -464,7 +502,7 @@
       "dt:Tyler Herro"
     ],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 02:46:57 GMT",
-    "checked_at": "2026-11-14T02:47:16.707501+00:00"
+    "last_modified": "Sat, 14 Nov 2026 03:07:30 GMT",
+    "checked_at": "2026-11-14T03:08:14.906045+00:00"
   }
 }

@@ -2792,6 +2792,34 @@
           "bkey": "|first basket|Zach LaVine",
           "result": null,
           "pl": null
+        },
+        "Front Rim": {
+          "legs": [
+            "Alex Caruso"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Alex Caruso": -158
+          },
+          "bkey": "downtown|under 1.5 threes|Alex Caruso",
+          "result": null,
+          "pl": null
+        },
+        "Mortar Mix": {
+          "legs": [
+            "Shai Gilgeous-Alexander"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Shai Gilgeous-Alexander": -156
+          },
+          "bkey": "downtown|under 2.5 threes|Shai Gilgeous-Alexander",
+          "result": null,
+          "pl": null
         }
       }
     }
