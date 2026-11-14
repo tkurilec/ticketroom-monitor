@@ -281,6 +281,67 @@ def fetch_nba_first_baskets(leg_names: set, date_yyyymmdd: str | None = None) ->
     return found
 
 
+def fetch_nba_threes(specs: list, date_yyyymmdd: str | None = None) -> set:
+    """Grade Downtown threes picks from ESPN box scores — the AUTHORITY.
+
+    The site bakes a made-threes counter from nba.com into each build, but
+    it over-counted OKC@LAC on 2026-11-13 (Caruso 1-of-6 and SGA 2-of-4 both
+    graded as line-clears, two under WINNERS recapped as losses), and the
+    site's own res flags settle from that same counter — so neither is
+    trusted for grading. specs: [{"name", "side", "line"}] parsed from the
+    slate's announced ledger rows. An over cashes the moment the live box
+    shows made > line; an under only once its game is FINAL with made still
+    below the line. Returns the board names that have WON."""
+    if not specs:
+        return set()
+    date = date_yyyymmdd or _et_date("%Y%m%d")
+    want = {}
+    for s in specs:
+        want.setdefault(_norm_name(s["name"]), []).append(s)
+    found = set()
+    try:
+        sb = requests.get(
+            "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard",
+            params={"dates": date}, timeout=30).json()
+        for e in sb.get("events") or []:
+            st = ((e.get("status") or {}).get("type") or {}).get("state")
+            if st not in ("in", "post"):
+                continue
+            final = st == "post"
+            summ = requests.get(
+                "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/summary",
+                params={"event": e.get("id")}, timeout=30).json()
+            for team in (summ.get("boxscore") or {}).get("players") or []:
+                for grp in team.get("statistics") or []:
+                    keys = [str(k) for k in (grp.get("keys")
+                                             or grp.get("names") or [])]
+                    idx = next((i for i, k in enumerate(keys)
+                                if "threePoint" in k or k.upper() == "3PT"),
+                               None)
+                    if idx is None:
+                        continue
+                    for ath in grp.get("athletes") or []:
+                        nm = _norm_name(((ath.get("athlete") or {})
+                                         .get("displayName")) or "")
+                        stv = ath.get("stats") or []
+                        if not nm or len(stv) <= idx \
+                                or "-" not in str(stv[idx]):
+                            continue
+                        made = int(str(stv[idx]).split("-")[0])
+                        for nn, ss in want.items():
+                            if nn not in nm and nm not in nn:
+                                continue
+                            for s in ss:
+                                if s["side"] == "U":
+                                    if final and made < s["line"]:
+                                        found.add(s["name"])
+                                elif made > s["line"]:
+                                    found.add(s["name"])
+    except Exception as exc:
+        print(f"WARNING: ESPN threes check failed: {exc}")
+    return found
+
+
 def fetch_soccer_live_hits(player_names: set, tot_raw: list,
                            espn_map: dict) -> set:
     """Live soccer hits from ESPN, one summary fetch per match:
@@ -915,29 +976,11 @@ def extract_signature(html: str, early_min: int = 0,
                     hits.add(f"ftd:{nm}")
             elif p.get("hr"):
                 hits.add(f"a:{nm}")
-    # Downtown picks: the site bakes made-threes from nba.com each build into
-    # "made" (live counter) with "kmin" the threshold; res == "w" only lands
-    # at settle. SIDE-AWARE (the 2026-10-27 pause note): an OVER cashes live
-    # the moment made >= kmin, but an UNDER clearing kmin has LOST — an under
-    # can only cash once its game is final with made still below kmin (or the
-    # site's own res == "w"), never from the live counter mid-game.
-    final_games = ({str(g) for g, v in (meta.get("gs") or {}).items()
-                    if str(v).lower() in ("final", "post")}
-                   | {str(g) for g in (meta.get("finals") or [])})
-    for p in dt_picks:
-        if not p.get("name"):
-            continue
-        made, kmin = p.get("made"), p.get("kmin")
-        counted = (isinstance(made, (int, float))
-                   and isinstance(kmin, (int, float)))
-        if str(p.get("side")).upper() == "U":
-            won = (p.get("res") == "w"
-                   or (counted and made < kmin
-                       and str(p.get("game")) in final_games))
-        else:
-            won = (p.get("res") == "w" or (counted and made >= kmin))
-        if won:
-            hits.add(f"dt:{p['name']}")
+    # Downtown hit tokens do NOT come from the board: the site's baked
+    # made-threes counter over-counted OKC@LAC on 2026-11-13 (two under
+    # winners recapped as losses) and its res flags settle from the same
+    # counter. check_all grades the slate's announced downtown rows from
+    # ESPN box scores instead (fetch_nba_threes).
     return {"confirmed": confirmed, "hits": sorted(hits),
             "tot_raw": tot_raw, "espn": meta.get("espn") or {},
             "longtd": longtd_raw, "outs": outs,
@@ -1590,6 +1633,29 @@ def check_all() -> None:
                 results_changed |= record_results(
                     results, name, slate, confirmed, MARKETS.get(name, ""),
                     set((sig.get("outs") or []) if sig else []))
+
+        # Downtown threes grade from ESPN box scores, never the board's own
+        # counter (it over-counted OKC@LAC 2026-11-13 and recapped two under
+        # winners as losses). Driven by the slate's LEDGER rows — not the
+        # live board — so late games that finish after the board goes stale
+        # at midnight still token before the roll-settle. Runs only while an
+        # announced downtown row is still ungraded.
+        if name == "NBA Board" and hits is not None and slate:
+            specs = []
+            for row in (((results.get("boards") or {}).get(name) or {})
+                        .get(slate) or {}).values():
+                if row.get("kind") != "downtown" or row.get("result") is not None:
+                    continue
+                mm = re.match(r"downtown\|(under|over) ([\d.]+) threes\|",
+                              row.get("bkey") or "")
+                if mm and row.get("legs"):
+                    specs.append({"name": row["legs"][0],
+                                  "side": "U" if mm.group(1) == "under" else "O",
+                                  "line": float(mm.group(2))})
+            if specs:
+                won = fetch_nba_threes(specs, slate.replace("-", ""))
+                if won:
+                    hits = sorted(set(hits) | {f"dt:{nm}" for nm in won})
 
         # Mid-game hit alerts. "hits" missing from prev means this is the
         # feature's first run — baseline silently so a live slate doesn't
