@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 18:51:46 GMT",
-    "checked_at": "2026-11-14T18:52:12.840643+00:00"
+    "last_modified": "Sat, 14 Nov 2026 23:36:35 GMT",
+    "checked_at": "2026-11-14T23:37:12.202559+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a0e3d6ed1b0206c05a2cedc728cc73f28b8502479f6a0982e48d3d1f89b13ac2",
@@ -55,8 +55,8 @@
     "slate": "2026-11-14",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 18:51:46 GMT",
-    "checked_at": "2026-11-14T18:52:14.804919+00:00"
+    "last_modified": "Sat, 14 Nov 2026 23:36:35 GMT",
+    "checked_at": "2026-11-14T23:37:12.971065+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -66,18 +66,40 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 18:51:46 GMT",
-    "checked_at": "2026-11-14T18:52:14.971662+00:00"
+    "last_modified": "Sat, 14 Nov 2026 23:36:35 GMT",
+    "checked_at": "2026-11-14T23:37:13.355235+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "b639a7c0cf6d58f6e9f2d92cc6590306378775d22ba791fdd40e4d94440eb524",
+    "confirmed": [
+      {
+        "name": "Bricklayer",
+        "legs": [
+          "Nikola Jokic"
+        ],
+        "rr": false,
+        "market": "under 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Nikola Jokic": "Nuggets vs Pelicans \u00b7 Sat Nov 14 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "Nikola Jokic": -140
+        }
+      }
+    ],
+    "announced": {
+      "Bricklayer": [
+        "Nikola Jokic"
+      ]
+    },
+    "abets": [
+      "downtown|under 1.5 threes|Nikola Jokic"
+    ],
     "slate": "2026-11-14",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 18:51:46 GMT",
-    "checked_at": "2026-11-14T18:52:15.146698+00:00"
+    "last_modified": "Sat, 14 Nov 2026 23:36:35 GMT",
+    "checked_at": "2026-11-14T23:37:15.383151+00:00"
   }
 }
