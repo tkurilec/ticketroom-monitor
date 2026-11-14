@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 23:52:19 GMT",
-    "checked_at": "2026-11-13T23:53:13.003163+00:00"
+    "last_modified": "Sat, 14 Nov 2026 00:36:59 GMT",
+    "checked_at": "2026-11-14T00:37:16.305277+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8537d879851192a37032b19b2659777efadc84536a364145f19453a45490dd17",
@@ -55,8 +55,8 @@
     "slate": "2026-11-13",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 23:52:19 GMT",
-    "checked_at": "2026-11-13T23:53:13.441687+00:00"
+    "last_modified": "Sat, 14 Nov 2026 00:36:59 GMT",
+    "checked_at": "2026-11-14T00:37:16.631368+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -97,12 +97,27 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 23:52:19 GMT",
-    "checked_at": "2026-11-13T23:53:13.670301+00:00"
+    "last_modified": "Sat, 14 Nov 2026 00:36:59 GMT",
+    "checked_at": "2026-11-14T00:37:16.771560+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "8811f700c8e14e2da094d804a690bc76eb08e038083c857b7088378ee90a3ad3",
+    "hash": "51c2cdf51f09ac110b0e6b6314754305dad217451c248bacfe2ebe0f34deadcd",
     "confirmed": [
+      {
+        "name": "Back Iron",
+        "legs": [
+          "Matas Buzelis"
+        ],
+        "rr": false,
+        "market": "under 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Matas Buzelis": "Bulls vs Hawks \u00b7 Fri Nov 13 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Matas Buzelis": 144
+        }
+      },
       {
         "name": "Brick Wall",
         "legs": [
@@ -116,6 +131,36 @@
         },
         "odds": {
           "Anthony Black": -104
+        }
+      },
+      {
+        "name": "Building Code",
+        "legs": [
+          "Jalen Smith"
+        ],
+        "rr": false,
+        "market": "under 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Jalen Smith": "Bulls vs Hawks \u00b7 Fri Nov 13 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Jalen Smith": 116
+        }
+      },
+      {
+        "name": "Cinder Block",
+        "legs": [
+          "Norman Powell"
+        ],
+        "rr": false,
+        "market": "under 2.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Norman Powell": "Bulls vs Hawks \u00b7 Fri Nov 13 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Norman Powell": -111
         }
       },
       {
@@ -164,6 +209,21 @@
         }
       },
       {
+        "name": "Ice Breaker",
+        "legs": [
+          "Karlo Matkovic"
+        ],
+        "rr": false,
+        "info": {
+          "Karlo Matkovic": "Pelicans vs Grizzlies \u00b7 Fri Nov 13 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Karlo Matkovic": 1000
+        },
+        "units": 0.6,
+        "group": "3"
+      },
+      {
         "name": "Iron Out",
         "legs": [
           "Karl-Anthony Towns"
@@ -177,6 +237,21 @@
         "odds": {
           "Karl-Anthony Towns": -132
         }
+      },
+      {
+        "name": "Lead the Break",
+        "legs": [
+          "Onyeka Okongwu"
+        ],
+        "rr": false,
+        "info": {
+          "Onyeka Okongwu": "Hawks vs Bulls \u00b7 Fri Nov 13 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Onyeka Okongwu": 800
+        },
+        "units": 0.6,
+        "group": "4"
       },
       {
         "name": "Off the Tip",
@@ -266,23 +341,43 @@
       ],
       "The Masonry": [
         "Desmond Bane"
+      ],
+      "Back Iron": [
+        "Matas Buzelis"
+      ],
+      "Building Code": [
+        "Jalen Smith"
+      ],
+      "Cinder Block": [
+        "Norman Powell"
+      ],
+      "Ice Breaker": [
+        "Karlo Matkovic"
+      ],
+      "Lead the Break": [
+        "Onyeka Okongwu"
       ]
     },
     "abets": [
       "downtown|under 1.5 threes|Anthony Black",
+      "downtown|under 1.5 threes|Jalen Smith",
       "downtown|under 1.5 threes|Karl-Anthony Towns",
       "downtown|under 1.5 threes|Kyle Kuzma",
       "downtown|under 1.5 threes|Landry Shamet",
+      "downtown|under 1.5 threes|Matas Buzelis",
       "downtown|under 2.5 threes|Jalen Brunson",
+      "downtown|under 2.5 threes|Norman Powell",
       "downtown|under 2.5 threes|Tyler Herro",
       "downtown|under 3.5 threes|Desmond Bane",
+      "|first basket|Karlo Matkovic",
       "|first basket|Kelly Oubre Jr.",
-      "|first basket|Myles Turner"
+      "|first basket|Myles Turner",
+      "|first basket|Onyeka Okongwu"
     ],
     "slate": "2026-11-13",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 13 Nov 2026 23:52:19 GMT",
-    "checked_at": "2026-11-13T23:53:15.543894+00:00"
+    "last_modified": "Sat, 14 Nov 2026 00:36:59 GMT",
+    "checked_at": "2026-11-14T00:37:18.373719+00:00"
   }
 }
