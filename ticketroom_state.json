@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Sat, 14 Nov 2026 00:36:59 GMT",
-    "checked_at": "2026-11-14T00:37:16.305277+00:00"
+    "checked_at": "2026-11-14T00:40:16.487392+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8537d879851192a37032b19b2659777efadc84536a364145f19453a45490dd17",
@@ -56,7 +56,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Sat, 14 Nov 2026 00:36:59 GMT",
-    "checked_at": "2026-11-14T00:37:16.631368+00:00"
+    "checked_at": "2026-11-14T00:40:16.693611+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -98,10 +98,10 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Sat, 14 Nov 2026 00:36:59 GMT",
-    "checked_at": "2026-11-14T00:37:16.771560+00:00"
+    "checked_at": "2026-11-14T00:40:16.777936+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "51c2cdf51f09ac110b0e6b6314754305dad217451c248bacfe2ebe0f34deadcd",
+    "hash": "f387341a759b31af30afb6ff99e1423544770a43d0a76aa43cd3ac6b0f6c3cd8",
     "confirmed": [
       {
         "name": "Back Iron",
@@ -131,6 +131,21 @@
         },
         "odds": {
           "Anthony Black": -104
+        }
+      },
+      {
+        "name": "Bricklayer",
+        "legs": [
+          "Jaylen Wells"
+        ],
+        "rr": false,
+        "market": "under 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Jaylen Wells": "Grizzlies vs Pelicans \u00b7 Fri Nov 13 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Jaylen Wells": 124
         }
       },
       {
@@ -194,6 +209,21 @@
         "group": "2"
       },
       {
+        "name": "First Touch",
+        "legs": [
+          "Bam Adebayo"
+        ],
+        "rr": false,
+        "info": {
+          "Bam Adebayo": "Heat vs Cavaliers \u00b7 Fri Nov 13 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Bam Adebayo": 650
+        },
+        "units": 0.6,
+        "group": "5"
+      },
+      {
         "name": "Grout Line",
         "legs": [
           "Landry Shamet"
@@ -254,6 +284,21 @@
         "group": "4"
       },
       {
+        "name": "Load-Bearing Wall",
+        "legs": [
+          "Donovan Mitchell"
+        ],
+        "rr": false,
+        "market": "under 2.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Donovan Mitchell": "Cavaliers vs Heat \u00b7 Fri Nov 13 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Donovan Mitchell": 104
+        }
+      },
+      {
         "name": "Off the Tip",
         "legs": [
           "Myles Turner"
@@ -312,6 +357,21 @@
         "odds": {
           "Desmond Bane": -132
         }
+      },
+      {
+        "name": "Under Construction",
+        "legs": [
+          "Ty Jerome"
+        ],
+        "rr": false,
+        "market": "under 2.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Ty Jerome": "Grizzlies vs Pelicans \u00b7 Fri Nov 13 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Ty Jerome": -106
+        }
       }
     ],
     "announced": {
@@ -356,19 +416,35 @@
       ],
       "Lead the Break": [
         "Onyeka Okongwu"
+      ],
+      "Bricklayer": [
+        "Jaylen Wells"
+      ],
+      "First Touch": [
+        "Bam Adebayo"
+      ],
+      "Load-Bearing Wall": [
+        "Donovan Mitchell"
+      ],
+      "Under Construction": [
+        "Ty Jerome"
       ]
     },
     "abets": [
       "downtown|under 1.5 threes|Anthony Black",
       "downtown|under 1.5 threes|Jalen Smith",
+      "downtown|under 1.5 threes|Jaylen Wells",
       "downtown|under 1.5 threes|Karl-Anthony Towns",
       "downtown|under 1.5 threes|Kyle Kuzma",
       "downtown|under 1.5 threes|Landry Shamet",
       "downtown|under 1.5 threes|Matas Buzelis",
+      "downtown|under 2.5 threes|Donovan Mitchell",
       "downtown|under 2.5 threes|Jalen Brunson",
       "downtown|under 2.5 threes|Norman Powell",
+      "downtown|under 2.5 threes|Ty Jerome",
       "downtown|under 2.5 threes|Tyler Herro",
       "downtown|under 3.5 threes|Desmond Bane",
+      "|first basket|Bam Adebayo",
       "|first basket|Karlo Matkovic",
       "|first basket|Kelly Oubre Jr.",
       "|first basket|Myles Turner",
@@ -378,6 +454,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Sat, 14 Nov 2026 00:36:59 GMT",
-    "checked_at": "2026-11-14T00:37:18.373719+00:00"
+    "checked_at": "2026-11-14T00:40:18.490758+00:00"
   }
 }

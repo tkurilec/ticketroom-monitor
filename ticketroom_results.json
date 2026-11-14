@@ -2691,6 +2691,62 @@
           "bkey": "|first basket|Onyeka Okongwu",
           "result": null,
           "pl": null
+        },
+        "Bricklayer": {
+          "legs": [
+            "Jaylen Wells"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jaylen Wells": 124
+          },
+          "bkey": "downtown|under 1.5 threes|Jaylen Wells",
+          "result": null,
+          "pl": null
+        },
+        "First Touch": {
+          "legs": [
+            "Bam Adebayo"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Bam Adebayo": 650
+          },
+          "bkey": "|first basket|Bam Adebayo",
+          "result": null,
+          "pl": null
+        },
+        "Load-Bearing Wall": {
+          "legs": [
+            "Donovan Mitchell"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Donovan Mitchell": 104
+          },
+          "bkey": "downtown|under 2.5 threes|Donovan Mitchell",
+          "result": null,
+          "pl": null
+        },
+        "Under Construction": {
+          "legs": [
+            "Ty Jerome"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Ty Jerome": -106
+          },
+          "bkey": "downtown|under 2.5 threes|Ty Jerome",
+          "result": null,
+          "pl": null
         }
       }
     }
