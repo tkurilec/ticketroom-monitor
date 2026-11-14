@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 02:31:10 GMT",
-    "checked_at": "2026-11-14T02:31:12.268878+00:00"
+    "last_modified": "Sat, 14 Nov 2026 02:36:57 GMT",
+    "checked_at": "2026-11-14T02:40:23.302091+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-14",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 02:31:10 GMT",
-    "checked_at": "2026-11-14T02:31:12.494425+00:00"
+    "last_modified": "Sat, 14 Nov 2026 02:36:57 GMT",
+    "checked_at": "2026-11-14T02:40:23.857725+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -60,11 +60,11 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 02:31:10 GMT",
-    "checked_at": "2026-11-14T02:31:12.753771+00:00"
+    "last_modified": "Sat, 14 Nov 2026 02:36:57 GMT",
+    "checked_at": "2026-11-14T02:40:23.991746+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "3477701214f5f0e92be6b2d87a520b79a8b3ec8ccc5104ac2184339938fc61b4",
+    "hash": "14608c1cd177bae43aaa1da2a4a45758dd055ebf945f569991b0b92bfaed8871",
     "confirmed": [
       {
         "name": "Back Iron",
@@ -322,6 +322,21 @@
         }
       },
       {
+        "name": "The Starter",
+        "legs": [
+          "Zach LaVine"
+        ],
+        "rr": false,
+        "info": {
+          "Zach LaVine": "Kings vs Trail Blazers \u00b7 Fri Nov 13 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "Zach LaVine": 1300
+        },
+        "units": 0.6,
+        "group": "8"
+      },
+      {
         "name": "Two Points",
         "legs": [
           "Draymond Green"
@@ -412,6 +427,9 @@
       ],
       "Two Points": [
         "Draymond Green"
+      ],
+      "The Starter": [
+        "Zach LaVine"
       ]
     },
     "abets": [
@@ -435,7 +453,8 @@
       "|first basket|Karlo Matkovic",
       "|first basket|Kelly Oubre Jr.",
       "|first basket|Myles Turner",
-      "|first basket|Onyeka Okongwu"
+      "|first basket|Onyeka Okongwu",
+      "|first basket|Zach LaVine"
     ],
     "slate": "2026-11-13",
     "hits": [
@@ -444,7 +463,7 @@
       "dt:Tyler Herro"
     ],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 02:31:10 GMT",
-    "checked_at": "2026-11-14T02:31:14.149114+00:00"
+    "last_modified": "Sat, 14 Nov 2026 02:36:57 GMT",
+    "checked_at": "2026-11-14T02:40:26.040988+00:00"
   }
 }
