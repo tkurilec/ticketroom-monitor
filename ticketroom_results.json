@@ -2747,6 +2747,20 @@
           "bkey": "downtown|under 2.5 threes|Ty Jerome",
           "result": null,
           "pl": null
+        },
+        "Red Clay": {
+          "legs": [
+            "Josh Green"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Josh Green": -265
+          },
+          "bkey": "downtown|under 1.5 threes|Josh Green",
+          "result": null,
+          "pl": null
         }
       }
     }

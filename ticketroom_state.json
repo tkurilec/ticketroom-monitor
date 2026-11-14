@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 01:04:07 GMT",
-    "checked_at": "2026-11-14T01:04:12.847589+00:00"
+    "last_modified": "Sat, 14 Nov 2026 01:06:09 GMT",
+    "checked_at": "2026-11-14T01:06:12.450131+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8537d879851192a37032b19b2659777efadc84536a364145f19453a45490dd17",
@@ -55,8 +55,8 @@
     "slate": "2026-11-13",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 01:04:07 GMT",
-    "checked_at": "2026-11-14T01:04:13.157900+00:00"
+    "last_modified": "Sat, 14 Nov 2026 01:06:09 GMT",
+    "checked_at": "2026-11-14T01:06:13.143996+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -97,25 +97,25 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 01:04:07 GMT",
-    "checked_at": "2026-11-14T01:04:13.392520+00:00"
+    "last_modified": "Sat, 14 Nov 2026 01:06:09 GMT",
+    "checked_at": "2026-11-14T01:06:13.306247+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "f2d960eb2bcda7f46f40ac8e7064a67e389332c27810d21ef45791fa413fd33a",
+    "hash": "6100f5f4f906cdc1ccdb1990827a5c883797ac7c9bd1f28345515b1a1fe3a521",
     "confirmed": [
       {
         "name": "Back Iron",
         "legs": [
-          "Donovan Mitchell"
+          "Matas Buzelis"
         ],
         "rr": false,
-        "market": "under 2.5 threes",
+        "market": "under 1.5 threes",
         "kind": "downtown",
         "info": {
-          "Donovan Mitchell": "Cavaliers vs Heat \u00b7 Fri Nov 13 \u00b7 8:00 PM ET"
+          "Matas Buzelis": "Bulls vs Hawks \u00b7 Fri Nov 13 \u00b7 8:00 PM ET"
         },
         "odds": {
-          "Donovan Mitchell": 104
+          "Matas Buzelis": 144
         }
       },
       {
@@ -151,6 +151,21 @@
       {
         "name": "Building Code",
         "legs": [
+          "Jalen Smith"
+        ],
+        "rr": false,
+        "market": "under 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Jalen Smith": "Bulls vs Hawks \u00b7 Fri Nov 13 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Jalen Smith": 116
+        }
+      },
+      {
+        "name": "Cinder Block",
+        "legs": [
           "Norman Powell"
         ],
         "rr": false,
@@ -161,21 +176,6 @@
         },
         "odds": {
           "Norman Powell": -111
-        }
-      },
-      {
-        "name": "Cinder Block",
-        "legs": [
-          "Matas Buzelis"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Matas Buzelis": "Bulls vs Hawks \u00b7 Fri Nov 13 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Matas Buzelis": 144
         }
       },
       {
@@ -286,16 +286,16 @@
       {
         "name": "Load-Bearing Wall",
         "legs": [
-          "Josh Green"
+          "Donovan Mitchell"
         ],
         "rr": false,
-        "market": "under 1.5 threes",
+        "market": "under 2.5 threes",
         "kind": "downtown",
         "info": {
-          "Josh Green": "Jazz vs Rockets \u00b7 Fri Nov 13 \u00b7 8:30 PM ET"
+          "Donovan Mitchell": "Cavaliers vs Heat \u00b7 Fri Nov 13 \u00b7 8:00 PM ET"
         },
         "odds": {
-          "Josh Green": -265
+          "Donovan Mitchell": 104
         }
       },
       {
@@ -326,6 +326,21 @@
         },
         "odds": {
           "Kyle Kuzma": -140
+        }
+      },
+      {
+        "name": "Red Clay",
+        "legs": [
+          "Josh Green"
+        ],
+        "rr": false,
+        "market": "under 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Josh Green": "Jazz vs Rockets \u00b7 Fri Nov 13 \u00b7 8:30 PM ET"
+        },
+        "odds": {
+          "Josh Green": -265
         }
       },
       {
@@ -361,16 +376,16 @@
       {
         "name": "Under Construction",
         "legs": [
-          "Jalen Smith"
+          "Ty Jerome"
         ],
         "rr": false,
-        "market": "under 1.5 threes",
+        "market": "under 2.5 threes",
         "kind": "downtown",
         "info": {
-          "Jalen Smith": "Bulls vs Hawks \u00b7 Fri Nov 13 \u00b7 8:00 PM ET"
+          "Ty Jerome": "Grizzlies vs Pelicans \u00b7 Fri Nov 13 \u00b7 8:00 PM ET"
         },
         "odds": {
-          "Jalen Smith": 116
+          "Ty Jerome": -106
         }
       }
     ],
@@ -403,13 +418,13 @@
         "Desmond Bane"
       ],
       "Back Iron": [
-        "Donovan Mitchell"
+        "Matas Buzelis"
       ],
       "Building Code": [
-        "Norman Powell"
+        "Jalen Smith"
       ],
       "Cinder Block": [
-        "Matas Buzelis"
+        "Norman Powell"
       ],
       "Ice Breaker": [
         "Karlo Matkovic"
@@ -424,10 +439,13 @@
         "Bam Adebayo"
       ],
       "Load-Bearing Wall": [
-        "Josh Green"
+        "Donovan Mitchell"
       ],
       "Under Construction": [
-        "Jalen Smith"
+        "Ty Jerome"
+      ],
+      "Red Clay": [
+        "Josh Green"
       ]
     },
     "abets": [
@@ -455,7 +473,7 @@
     "slate": "2026-11-13",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 01:04:07 GMT",
-    "checked_at": "2026-11-14T01:04:15.087576+00:00"
+    "last_modified": "Sat, 14 Nov 2026 01:06:09 GMT",
+    "checked_at": "2026-11-14T01:06:13.832187+00:00"
   }
 }
