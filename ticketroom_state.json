@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 03:07:30 GMT",
-    "checked_at": "2026-11-14T03:08:12.436417+00:00"
+    "last_modified": "Sat, 14 Nov 2026 03:42:10 GMT",
+    "checked_at": "2026-11-14T03:42:12.137247+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-14",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 03:07:30 GMT",
-    "checked_at": "2026-11-14T03:08:12.588727+00:00"
+    "last_modified": "Sat, 14 Nov 2026 03:42:10 GMT",
+    "checked_at": "2026-11-14T03:42:12.490516+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -60,8 +60,8 @@
     "slate": "2026-11-12",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 03:07:30 GMT",
-    "checked_at": "2026-11-14T03:08:12.738518+00:00"
+    "last_modified": "Sat, 14 Nov 2026 03:42:10 GMT",
+    "checked_at": "2026-11-14T03:42:13.003847+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "3213d6f12259364969342e55488c3506b0f6f23f93e04d9b4689a0e5541bab6f",
@@ -497,12 +497,14 @@
     "slate": "2026-11-13",
     "hits": [
       "dt:Anthony Black",
+      "dt:Cedric Coward",
       "dt:Kyle Kuzma",
       "dt:Landry Shamet",
+      "dt:Ty Jerome",
       "dt:Tyler Herro"
     ],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 03:07:30 GMT",
-    "checked_at": "2026-11-14T03:08:14.906045+00:00"
+    "last_modified": "Sat, 14 Nov 2026 03:42:10 GMT",
+    "checked_at": "2026-11-14T03:42:16.417155+00:00"
   }
 }
