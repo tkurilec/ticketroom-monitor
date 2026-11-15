@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 18:47:04 GMT",
-    "checked_at": "2026-11-15T18:47:14.114263+00:00"
+    "last_modified": "Sun, 15 Nov 2026 19:01:40 GMT",
+    "checked_at": "2026-11-15T19:06:15.791199+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f4686dd2100cbe604bdd4945ddb8af8e668fee7fc42a6a8661995c8aa4e808fc",
@@ -72,8 +72,8 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 18:47:04 GMT",
-    "checked_at": "2026-11-15T18:47:16.543303+00:00"
+    "last_modified": "Sun, 15 Nov 2026 19:01:40 GMT",
+    "checked_at": "2026-11-15T19:06:16.883628+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "3f609ca965296478271c5bc44d2fa32c8c9e16ae902f1980a7b039cb67c12351",
@@ -257,11 +257,12 @@
     ],
     "slate": "2026-11-15",
     "hits": [
+      "a:Aaron Jones",
       "a:Amon-Ra St. Brown"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 18:47:05 GMT",
-    "checked_at": "2026-11-15T18:47:18.064967+00:00"
+    "last_modified": "Sun, 15 Nov 2026 19:01:40 GMT",
+    "checked_at": "2026-11-15T19:06:18.632598+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "659bc6baf11fba2d264857f82093e8ba31317868a6e13fc50135ac076452f44b",
@@ -316,7 +317,7 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 18:47:05 GMT",
-    "checked_at": "2026-11-15T18:47:18.751671+00:00"
+    "last_modified": "Sun, 15 Nov 2026 19:01:40 GMT",
+    "checked_at": "2026-11-15T19:06:19.302082+00:00"
   }
 }
