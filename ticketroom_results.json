@@ -3412,6 +3412,34 @@
           "bkey": "|first basket|Moussa Diabate",
           "result": null,
           "pl": null
+        },
+        "Cornerstone": {
+          "legs": [
+            "Stephon Castle"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Stephon Castle": -108
+          },
+          "bkey": "downtown|under 1.5 threes|Stephon Castle",
+          "result": null,
+          "pl": null
+        },
+        "First Touch": {
+          "legs": [
+            "Mo Bamba"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Mo Bamba": 1500
+          },
+          "bkey": "|first basket|Mo Bamba",
+          "result": null,
+          "pl": null
         }
       }
     }

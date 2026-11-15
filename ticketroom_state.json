@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 21:32:42 GMT",
-    "checked_at": "2026-11-15T21:33:11.125094+00:00"
+    "last_modified": "Sun, 15 Nov 2026 21:37:02 GMT",
+    "checked_at": "2026-11-15T21:40:17.822007+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f4686dd2100cbe604bdd4945ddb8af8e668fee7fc42a6a8661995c8aa4e808fc",
@@ -74,8 +74,8 @@
       "a:Bradley Barcola"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 21:32:42 GMT",
-    "checked_at": "2026-11-15T21:33:12.356234+00:00"
+    "last_modified": "Sun, 15 Nov 2026 21:37:02 GMT",
+    "checked_at": "2026-11-15T21:40:18.273609+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "4ad7b0a9d26dad97c0808581cf1cab34d096824208b6a380c1686f485af140be",
@@ -333,11 +333,11 @@
       "a:James Cook"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 21:32:42 GMT",
-    "checked_at": "2026-11-15T21:33:13.908426+00:00"
+    "last_modified": "Sun, 15 Nov 2026 21:37:02 GMT",
+    "checked_at": "2026-11-15T21:40:19.123757+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "94fd15c41b3f59aba267b1c0027fda6fb0f108c0ff93960c4b83270b6b0da96f",
+    "hash": "7f38b0b1d5ce3df23699cdb7f434f7886b5283a0e6fbec051d9273fc47a78672",
     "confirmed": [
       {
         "name": "Brick by Brick",
@@ -353,6 +353,36 @@
         "odds": {
           "Miles Bridges": 100
         }
+      },
+      {
+        "name": "Cornerstone",
+        "legs": [
+          "Stephon Castle"
+        ],
+        "rr": false,
+        "market": "under 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Stephon Castle": "Spurs vs Jazz \u00b7 Sun Nov 15 \u00b7 5:00 PM ET"
+        },
+        "odds": {
+          "Stephon Castle": -108
+        }
+      },
+      {
+        "name": "First Touch",
+        "legs": [
+          "Mo Bamba"
+        ],
+        "rr": false,
+        "info": {
+          "Mo Bamba": "Jazz vs Spurs \u00b7 Sun Nov 15 \u00b7 5:00 PM ET"
+        },
+        "odds": {
+          "Mo Bamba": 1500
+        },
+        "units": 0.6,
+        "group": "4"
       },
       {
         "name": "Front Rim",
@@ -448,14 +478,22 @@
       ],
       "Lead the Break": [
         "Moussa Diabate"
+      ],
+      "Cornerstone": [
+        "Stephon Castle"
+      ],
+      "First Touch": [
+        "Mo Bamba"
       ]
     },
     "abets": [
       "downtown|under 1.5 threes|Kelly Oubre Jr.",
       "downtown|under 1.5 threes|Miles Bridges",
       "downtown|under 1.5 threes|Pascal Siakam",
+      "downtown|under 1.5 threes|Stephon Castle",
       "downtown|under 2.5 threes|Aaron Nesmith",
       "downtown|under 4.5 threes|Luka Doncic",
+      "|first basket|Mo Bamba",
       "|first basket|Moussa Diabate",
       "|first basket|Oso Ighodaro"
     ],
@@ -465,7 +503,7 @@
       "dt:Pascal Siakam"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 21:32:42 GMT",
-    "checked_at": "2026-11-15T21:33:14.917427+00:00"
+    "last_modified": "Sun, 15 Nov 2026 21:37:02 GMT",
+    "checked_at": "2026-11-15T21:40:20.963256+00:00"
   }
 }
