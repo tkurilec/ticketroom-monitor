@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 20:36:59 GMT",
-    "checked_at": "2026-11-15T20:40:15.991893+00:00"
+    "last_modified": "Sun, 15 Nov 2026 20:51:54 GMT",
+    "checked_at": "2026-11-15T20:53:12.114297+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f4686dd2100cbe604bdd4945ddb8af8e668fee7fc42a6a8661995c8aa4e808fc",
@@ -72,8 +72,8 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 20:36:59 GMT",
-    "checked_at": "2026-11-15T20:40:16.949956+00:00"
+    "last_modified": "Sun, 15 Nov 2026 20:51:54 GMT",
+    "checked_at": "2026-11-15T20:53:12.407523+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "4ad7b0a9d26dad97c0808581cf1cab34d096824208b6a380c1686f485af140be",
@@ -326,11 +326,12 @@
     "slate": "2026-11-15",
     "hits": [
       "a:Aaron Jones",
-      "a:Amon-Ra St. Brown"
+      "a:Amon-Ra St. Brown",
+      "a:James Cook"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 20:36:59 GMT",
-    "checked_at": "2026-11-15T20:40:17.565121+00:00"
+    "last_modified": "Sun, 15 Nov 2026 20:51:54 GMT",
+    "checked_at": "2026-11-15T20:53:14.027860+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "343463cbb010a17865893344f48d84827da82b510db9613442b3af4605030707",
@@ -442,7 +443,7 @@
       "dt:Pascal Siakam"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 20:36:59 GMT",
-    "checked_at": "2026-11-15T20:40:19.505751+00:00"
+    "last_modified": "Sun, 15 Nov 2026 20:51:54 GMT",
+    "checked_at": "2026-11-15T20:53:14.290244+00:00"
   }
 }
