@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 01:16:52 GMT",
-    "checked_at": "2026-11-15T01:17:13.797971+00:00"
+    "last_modified": "Sun, 15 Nov 2026 02:31:12 GMT",
+    "checked_at": "2026-11-15T02:36:13.029333+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 01:16:52 GMT",
-    "checked_at": "2026-11-15T01:17:13.968266+00:00"
+    "last_modified": "Sun, 15 Nov 2026 02:31:12 GMT",
+    "checked_at": "2026-11-15T02:36:13.463466+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -29,8 +29,8 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 01:16:52 GMT",
-    "checked_at": "2026-11-15T01:17:14.114572+00:00"
+    "last_modified": "Sun, 15 Nov 2026 02:31:12 GMT",
+    "checked_at": "2026-11-15T02:36:13.726973+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "9d65d5ca11ce4ae12db2b965206fdaf1b555d1815b86e2606ddace6b7d451871",
@@ -345,9 +345,11 @@
       "|first basket|Zach Collins"
     ],
     "slate": "2026-11-14",
-    "hits": [],
+    "hits": [
+      "dt:Nikola Jokic"
+    ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 01:16:52 GMT",
-    "checked_at": "2026-11-15T01:17:14.791541+00:00"
+    "last_modified": "Sun, 15 Nov 2026 02:31:12 GMT",
+    "checked_at": "2026-11-15T02:36:16.125080+00:00"
   }
 }
