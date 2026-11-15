@@ -2928,6 +2928,34 @@
           "bkey": "downtown|under 1.5 threes|Tyrese Proctor",
           "result": null,
           "pl": null
+        },
+        "First Touch": {
+          "legs": [
+            "Davion Mitchell"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Davion Mitchell": 1300
+          },
+          "bkey": "|first basket|Davion Mitchell",
+          "result": null,
+          "pl": null
+        },
+        "Lead the Break": {
+          "legs": [
+            "Klay Thompson"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Klay Thompson": 1000
+          },
+          "bkey": "|first basket|Klay Thompson",
+          "result": null,
+          "pl": null
         }
       }
     }

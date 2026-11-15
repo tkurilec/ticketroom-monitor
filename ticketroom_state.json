@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 00:21:26 GMT",
-    "checked_at": "2026-11-15T00:22:11.259627+00:00"
+    "last_modified": "Sun, 15 Nov 2026 00:36:35 GMT",
+    "checked_at": "2026-11-15T00:37:11.351342+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a0e3d6ed1b0206c05a2cedc728cc73f28b8502479f6a0982e48d3d1f89b13ac2",
@@ -55,8 +55,8 @@
     "slate": "2026-11-14",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 00:21:26 GMT",
-    "checked_at": "2026-11-15T00:22:12.052126+00:00"
+    "last_modified": "Sun, 15 Nov 2026 00:36:35 GMT",
+    "checked_at": "2026-11-15T00:37:11.945095+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -66,11 +66,11 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 00:21:26 GMT",
-    "checked_at": "2026-11-15T00:22:12.318205+00:00"
+    "last_modified": "Sun, 15 Nov 2026 00:36:35 GMT",
+    "checked_at": "2026-11-15T00:37:12.102885+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "90de7b469dafe1fec6dd8caa2c7d9ff1e83c4db228ea40516999e477dccbc5d5",
+    "hash": "afb1c39ac24a77dc1577e716a018fbc6bd0a8947b15012fb3b13372ea73f05cc",
     "confirmed": [
       {
         "name": "Bricklayer",
@@ -118,6 +118,21 @@
         "group": "2"
       },
       {
+        "name": "First Touch",
+        "legs": [
+          "Davion Mitchell"
+        ],
+        "rr": false,
+        "info": {
+          "Davion Mitchell": "Heat vs Pistons \u00b7 Sat Nov 14 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Davion Mitchell": 1300
+        },
+        "units": 0.3,
+        "group": "3"
+      },
+      {
         "name": "Ice Breaker",
         "legs": [
           "Mario Hezonja"
@@ -131,6 +146,21 @@
         },
         "units": 0.3,
         "group": "2"
+      },
+      {
+        "name": "Lead the Break",
+        "legs": [
+          "Klay Thompson"
+        ],
+        "rr": false,
+        "info": {
+          "Klay Thompson": "Heat vs Pistons \u00b7 Sat Nov 14 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Klay Thompson": 1000
+        },
+        "units": 0.3,
+        "group": "3"
       },
       {
         "name": "Under Construction",
@@ -163,19 +193,27 @@
       ],
       "Under Construction": [
         "Jaylon Tyson"
+      ],
+      "First Touch": [
+        "Davion Mitchell"
+      ],
+      "Lead the Break": [
+        "Klay Thompson"
       ]
     },
     "abets": [
       "downtown|under 1.5 threes|Nikola Jokic",
       "downtown|under 1.5 threes|Tyrese Proctor",
       "downtown|under 2.5 threes|Jaylon Tyson",
+      "|first basket|Davion Mitchell",
+      "|first basket|Klay Thompson",
       "|first basket|Mario Hezonja",
       "|first basket|Thomas Bryant"
     ],
     "slate": "2026-11-14",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 00:21:26 GMT",
-    "checked_at": "2026-11-15T00:22:13.133094+00:00"
+    "last_modified": "Sun, 15 Nov 2026 00:36:35 GMT",
+    "checked_at": "2026-11-15T00:37:14.369297+00:00"
   }
 }
