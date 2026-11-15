@@ -3440,6 +3440,34 @@
           "bkey": "|first basket|Mo Bamba",
           "result": null,
           "pl": null
+        },
+        "Rebar": {
+          "legs": [
+            "Jalen Brunson"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jalen Brunson": -138
+          },
+          "bkey": "downtown|under 2.5 threes|Jalen Brunson",
+          "result": null,
+          "pl": null
+        },
+        "Wet Cement": {
+          "legs": [
+            "Karl-Anthony Towns"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Karl-Anthony Towns": -128
+          },
+          "bkey": "downtown|under 1.5 threes|Karl-Anthony Towns",
+          "result": null,
+          "pl": null
         }
       }
     }
