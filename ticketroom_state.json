@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 14:51:36 GMT",
-    "checked_at": "2026-11-15T14:52:17.091564+00:00"
+    "last_modified": "Sun, 15 Nov 2026 16:31:18 GMT",
+    "checked_at": "2026-11-15T16:32:12.712534+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,11 +18,11 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 14:51:36 GMT",
-    "checked_at": "2026-11-15T14:52:17.333904+00:00"
+    "last_modified": "Sun, 15 Nov 2026 16:31:18 GMT",
+    "checked_at": "2026-11-15T16:32:12.983353+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "0993c7b3d7ee771be278122e800e8740940ddc6d636ca6c25490cb13e72b4e3b",
+    "hash": "1e5363f0c3aa7eaeddb0fb8872724fbb53cbd11da68cba574e0b8e5b84c20c00",
     "confirmed": [
       {
         "name": "Bell Cow",
@@ -36,23 +36,59 @@
         "odds": {
           "Amon-Ra St. Brown": -113
         }
+      },
+      {
+        "name": "Early Strike",
+        "legs": [
+          "Jonathan Taylor"
+        ],
+        "rr": false,
+        "info": {
+          "Jonathan Taylor": "Colts vs Dolphins \u00b7 Sun Nov 15 \u00b7 1:00 PM ET"
+        },
+        "odds": {
+          "Jonathan Taylor": 400
+        },
+        "market": "first touchdown scorer",
+        "kind": "ftd"
+      },
+      {
+        "name": "Short Yardage",
+        "legs": [
+          "Jonathan Taylor"
+        ],
+        "rr": false,
+        "info": {
+          "Jonathan Taylor": "Colts vs Dolphins \u00b7 Sun Nov 15 \u00b7 1:00 PM ET"
+        },
+        "odds": {
+          "Jonathan Taylor": -110
+        }
       }
     ],
     "announced": {
       "Bell Cow": [
         "Amon-Ra St. Brown"
+      ],
+      "Early Strike": [
+        "Jonathan Taylor"
+      ],
+      "Short Yardage": [
+        "Jonathan Taylor"
       ]
     },
     "abets": [
-      "|anytime touchdown|Amon-Ra St. Brown"
+      "ftd|first touchdown scorer|Jonathan Taylor",
+      "|anytime touchdown|Amon-Ra St. Brown",
+      "|anytime touchdown|Jonathan Taylor"
     ],
     "slate": "2026-11-15",
     "hits": [
       "a:Amon-Ra St. Brown"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 14:51:36 GMT",
-    "checked_at": "2026-11-15T14:52:18.187718+00:00"
+    "last_modified": "Sun, 15 Nov 2026 16:31:18 GMT",
+    "checked_at": "2026-11-15T16:32:15.343422+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -62,7 +98,7 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 14:51:36 GMT",
-    "checked_at": "2026-11-15T14:52:18.341552+00:00"
+    "last_modified": "Sun, 15 Nov 2026 16:31:18 GMT",
+    "checked_at": "2026-11-15T16:32:15.632379+00:00"
   }
 }

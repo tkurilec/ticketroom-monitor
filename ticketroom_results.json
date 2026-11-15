@@ -1933,6 +1933,34 @@
           "bkey": "|anytime touchdown|Amon-Ra St. Brown",
           "result": null,
           "pl": null
+        },
+        "Early Strike": {
+          "legs": [
+            "Jonathan Taylor"
+          ],
+          "kind": "ftd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jonathan Taylor": 400
+          },
+          "bkey": "ftd|first touchdown scorer|Jonathan Taylor",
+          "result": null,
+          "pl": null
+        },
+        "Short Yardage": {
+          "legs": [
+            "Jonathan Taylor"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jonathan Taylor": -110
+          },
+          "bkey": "|anytime touchdown|Jonathan Taylor",
+          "result": null,
+          "pl": null
         }
       }
     },
