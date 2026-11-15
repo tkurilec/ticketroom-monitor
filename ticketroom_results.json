@@ -2088,6 +2088,34 @@
           "bkey": "|anytime touchdown|Brian Thomas Jr.",
           "result": null,
           "pl": null
+        },
+        "Hard Count": {
+          "legs": [
+            "Tre Tucker"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Tre Tucker": 475
+          },
+          "bkey": "|anytime touchdown|Tre Tucker",
+          "result": null,
+          "pl": null
+        },
+        "The Sneak": {
+          "legs": [
+            "Trey McBride"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Trey McBride": 270
+          },
+          "bkey": "|anytime touchdown|Trey McBride",
+          "result": null,
+          "pl": null
         }
       }
     },

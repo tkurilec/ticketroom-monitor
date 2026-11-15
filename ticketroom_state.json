@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 19:01:40 GMT",
-    "checked_at": "2026-11-15T19:06:15.791199+00:00"
+    "last_modified": "Sun, 15 Nov 2026 19:46:20 GMT",
+    "checked_at": "2026-11-15T19:50:21.593599+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f4686dd2100cbe604bdd4945ddb8af8e668fee7fc42a6a8661995c8aa4e808fc",
@@ -72,11 +72,11 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 19:01:40 GMT",
-    "checked_at": "2026-11-15T19:06:16.883628+00:00"
+    "last_modified": "Sun, 15 Nov 2026 19:46:20 GMT",
+    "checked_at": "2026-11-15T19:50:21.821271+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "3f609ca965296478271c5bc44d2fa32c8c9e16ae902f1980a7b039cb67c12351",
+    "hash": "830d93ecfbcfb49440be30e676db668257b7854b59fd2b280563ef547d8cc50b",
     "confirmed": [
       {
         "name": "Audible",
@@ -133,6 +133,19 @@
         }
       },
       {
+        "name": "Hard Count",
+        "legs": [
+          "Tre Tucker"
+        ],
+        "rr": false,
+        "info": {
+          "Tre Tucker": "Raiders vs Seahawks \u00b7 Sun Nov 15 \u00b7 4:05 PM ET"
+        },
+        "odds": {
+          "Tre Tucker": 475
+        }
+      },
+      {
         "name": "Hurry Up",
         "legs": [
           "Dawson Knox"
@@ -182,6 +195,19 @@
         },
         "odds": {
           "Jakobi Meyers": 227
+        }
+      },
+      {
+        "name": "The Sneak",
+        "legs": [
+          "Trey McBride"
+        ],
+        "rr": false,
+        "info": {
+          "Trey McBride": "Cardinals vs Rams \u00b7 Sun Nov 15 \u00b7 4:05 PM ET"
+        },
+        "odds": {
+          "Trey McBride": 270
         }
       },
       {
@@ -241,6 +267,12 @@
       ],
       "Two Minute Drill": [
         "Brian Thomas Jr."
+      ],
+      "Hard Count": [
+        "Tre Tucker"
+      ],
+      "The Sneak": [
+        "Trey McBride"
       ]
     },
     "abets": [
@@ -253,7 +285,9 @@
       "|anytime touchdown|Dawson Knox",
       "|anytime touchdown|Jakobi Meyers",
       "|anytime touchdown|James Cook",
-      "|anytime touchdown|Jonathan Taylor"
+      "|anytime touchdown|Jonathan Taylor",
+      "|anytime touchdown|Tre Tucker",
+      "|anytime touchdown|Trey McBride"
     ],
     "slate": "2026-11-15",
     "hits": [
@@ -261,8 +295,8 @@
       "a:Amon-Ra St. Brown"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 19:01:40 GMT",
-    "checked_at": "2026-11-15T19:06:18.632598+00:00"
+    "last_modified": "Sun, 15 Nov 2026 19:46:20 GMT",
+    "checked_at": "2026-11-15T19:50:23.528858+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "659bc6baf11fba2d264857f82093e8ba31317868a6e13fc50135ac076452f44b",
@@ -317,7 +351,7 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 19:01:40 GMT",
-    "checked_at": "2026-11-15T19:06:19.302082+00:00"
+    "last_modified": "Sun, 15 Nov 2026 19:46:20 GMT",
+    "checked_at": "2026-11-15T19:50:23.739315+00:00"
   }
 }
