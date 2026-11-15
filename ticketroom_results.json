@@ -1919,7 +1919,22 @@
           "legs_hit": 0
         }
       },
-      "2026-11-15": {}
+      "2026-11-15": {
+        "Bell Cow": {
+          "legs": [
+            "Amon-Ra St. Brown"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Amon-Ra St. Brown": -113
+          },
+          "bkey": "|anytime touchdown|Amon-Ra St. Brown",
+          "result": null,
+          "pl": null
+        }
+      }
     },
     "NBA Board": {
       "2026-11-05": {
