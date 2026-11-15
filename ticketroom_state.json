@@ -7,19 +7,73 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 17:46:18 GMT",
-    "checked_at": "2026-11-15T17:47:16.572826+00:00"
+    "last_modified": "Sun, 15 Nov 2026 18:47:04 GMT",
+    "checked_at": "2026-11-15T18:47:14.114263+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "f4686dd2100cbe604bdd4945ddb8af8e668fee7fc42a6a8661995c8aa4e808fc",
+    "confirmed": [
+      {
+        "name": "Main Man",
+        "legs": [
+          "Kylian Mbappe"
+        ],
+        "rr": false,
+        "info": {
+          "Kylian Mbappe": "France vs T\u00fcrkiye \u00b7 Sun Nov 15 \u00b7 2:45 PM ET"
+        },
+        "odds": {
+          "Kylian Mbappe": -240
+        },
+        "units": 2
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Kylian Mbappe"
+        ],
+        "rr": false,
+        "info": {
+          "Kylian Mbappe": "France vs T\u00fcrkiye \u00b7 Sun Nov 15 \u00b7 2:45 PM ET"
+        },
+        "odds": {
+          "Kylian Mbappe": -240
+        }
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Bradley Barcola"
+        ],
+        "rr": false,
+        "info": {
+          "Bradley Barcola": "France vs T\u00fcrkiye \u00b7 Sun Nov 15 \u00b7 2:45 PM ET"
+        },
+        "odds": {
+          "Bradley Barcola": 115
+        }
+      }
+    ],
+    "announced": {
+      "Main Man": [
+        "Kylian Mbappe"
+      ],
+      "Target Man": [
+        "Kylian Mbappe"
+      ],
+      "The Poacher": [
+        "Bradley Barcola"
+      ]
+    },
+    "abets": [
+      "|anytime goalscorer|Bradley Barcola",
+      "|anytime goalscorer|Kylian Mbappe"
+    ],
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 17:46:18 GMT",
-    "checked_at": "2026-11-15T17:47:16.663426+00:00"
+    "last_modified": "Sun, 15 Nov 2026 18:47:04 GMT",
+    "checked_at": "2026-11-15T18:47:16.543303+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "3f609ca965296478271c5bc44d2fa32c8c9e16ae902f1980a7b039cb67c12351",
@@ -206,8 +260,8 @@
       "a:Amon-Ra St. Brown"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 17:46:18 GMT",
-    "checked_at": "2026-11-15T17:47:16.814805+00:00"
+    "last_modified": "Sun, 15 Nov 2026 18:47:05 GMT",
+    "checked_at": "2026-11-15T18:47:18.064967+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "659bc6baf11fba2d264857f82093e8ba31317868a6e13fc50135ac076452f44b",
@@ -262,7 +316,7 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 17:46:18 GMT",
-    "checked_at": "2026-11-15T17:47:17.011347+00:00"
+    "last_modified": "Sun, 15 Nov 2026 18:47:05 GMT",
+    "checked_at": "2026-11-15T18:47:18.751671+00:00"
   }
 }

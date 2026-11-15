@@ -904,7 +904,36 @@
           "legs_hit": 0
         }
       },
-      "2026-11-15": {}
+      "2026-11-15": {
+        "Main Man": {
+          "legs": [
+            "Kylian Mbappe"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 2,
+          "odds": {
+            "Kylian Mbappe": -240
+          },
+          "bkey": "|anytime goalscorer|Kylian Mbappe",
+          "result": null,
+          "pl": null
+        },
+        "The Poacher": {
+          "legs": [
+            "Bradley Barcola"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Bradley Barcola": 115
+          },
+          "bkey": "|anytime goalscorer|Bradley Barcola",
+          "result": null,
+          "pl": null
+        }
+      }
     },
     "NFL Board": {
       "2026-11-02": {
