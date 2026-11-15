@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 23:36:35 GMT",
-    "checked_at": "2026-11-14T23:37:12.202559+00:00"
+    "last_modified": "Sun, 15 Nov 2026 00:06:26 GMT",
+    "checked_at": "2026-11-15T00:10:15.591521+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a0e3d6ed1b0206c05a2cedc728cc73f28b8502479f6a0982e48d3d1f89b13ac2",
@@ -55,8 +55,8 @@
     "slate": "2026-11-14",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 23:36:35 GMT",
-    "checked_at": "2026-11-14T23:37:12.971065+00:00"
+    "last_modified": "Sun, 15 Nov 2026 00:06:26 GMT",
+    "checked_at": "2026-11-15T00:10:16.103989+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -66,11 +66,11 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 23:36:35 GMT",
-    "checked_at": "2026-11-14T23:37:13.355235+00:00"
+    "last_modified": "Sun, 15 Nov 2026 00:06:26 GMT",
+    "checked_at": "2026-11-15T00:10:16.266766+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "b639a7c0cf6d58f6e9f2d92cc6590306378775d22ba791fdd40e4d94440eb524",
+    "hash": "32f9515b2710c03fe652f8154f4291d9be9dd5ee9900fa5fe80987bc1e40ad65",
     "confirmed": [
       {
         "name": "Bricklayer",
@@ -86,20 +86,96 @@
         "odds": {
           "Nikola Jokic": -140
         }
+      },
+      {
+        "name": "Building Code",
+        "legs": [
+          "Jaylon Tyson"
+        ],
+        "rr": false,
+        "market": "under 2.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Jaylon Tyson": "Cavaliers vs Mavericks \u00b7 Sat Nov 14 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Jaylon Tyson": -115
+        }
+      },
+      {
+        "name": "Early Offense",
+        "legs": [
+          "Thomas Bryant"
+        ],
+        "rr": false,
+        "info": {
+          "Thomas Bryant": "Cavaliers vs Mavericks \u00b7 Sat Nov 14 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Thomas Bryant": 1000
+        },
+        "units": 0.3,
+        "group": "2"
+      },
+      {
+        "name": "Ice Breaker",
+        "legs": [
+          "Mario Hezonja"
+        ],
+        "rr": false,
+        "info": {
+          "Mario Hezonja": "Cavaliers vs Mavericks \u00b7 Sat Nov 14 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Mario Hezonja": 1000
+        },
+        "units": 0.3,
+        "group": "2"
+      },
+      {
+        "name": "Under Construction",
+        "legs": [
+          "Tyrese Proctor"
+        ],
+        "rr": false,
+        "market": "under 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Tyrese Proctor": "Cavaliers vs Mavericks \u00b7 Sat Nov 14 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Tyrese Proctor": -112
+        }
       }
     ],
     "announced": {
       "Bricklayer": [
         "Nikola Jokic"
+      ],
+      "Building Code": [
+        "Jaylon Tyson"
+      ],
+      "Early Offense": [
+        "Thomas Bryant"
+      ],
+      "Ice Breaker": [
+        "Mario Hezonja"
+      ],
+      "Under Construction": [
+        "Tyrese Proctor"
       ]
     },
     "abets": [
-      "downtown|under 1.5 threes|Nikola Jokic"
+      "downtown|under 1.5 threes|Nikola Jokic",
+      "downtown|under 1.5 threes|Tyrese Proctor",
+      "downtown|under 2.5 threes|Jaylon Tyson",
+      "|first basket|Mario Hezonja",
+      "|first basket|Thomas Bryant"
     ],
     "slate": "2026-11-14",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 14 Nov 2026 23:36:35 GMT",
-    "checked_at": "2026-11-14T23:37:15.383151+00:00"
+    "last_modified": "Sun, 15 Nov 2026 00:06:26 GMT",
+    "checked_at": "2026-11-15T00:10:17.904489+00:00"
   }
 }
