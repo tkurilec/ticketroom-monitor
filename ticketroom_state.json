@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 13:12:01 GMT",
-    "checked_at": "2026-11-15T13:15:14.779185+00:00"
+    "last_modified": "Sun, 15 Nov 2026 14:51:36 GMT",
+    "checked_at": "2026-11-15T14:52:17.091564+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 13:12:01 GMT",
-    "checked_at": "2026-11-15T13:15:14.893450+00:00"
+    "last_modified": "Sun, 15 Nov 2026 14:51:36 GMT",
+    "checked_at": "2026-11-15T14:52:17.333904+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "0993c7b3d7ee771be278122e800e8740940ddc6d636ca6c25490cb13e72b4e3b",
@@ -47,10 +47,12 @@
       "|anytime touchdown|Amon-Ra St. Brown"
     ],
     "slate": "2026-11-15",
-    "hits": [],
+    "hits": [
+      "a:Amon-Ra St. Brown"
+    ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 13:12:01 GMT",
-    "checked_at": "2026-11-15T13:15:16.632501+00:00"
+    "last_modified": "Sun, 15 Nov 2026 14:51:36 GMT",
+    "checked_at": "2026-11-15T14:52:18.187718+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -60,7 +62,7 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 13:12:01 GMT",
-    "checked_at": "2026-11-15T13:15:16.726127+00:00"
+    "last_modified": "Sun, 15 Nov 2026 14:51:36 GMT",
+    "checked_at": "2026-11-15T14:52:18.341552+00:00"
   }
 }
