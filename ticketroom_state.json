@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 17:41:37 GMT",
-    "checked_at": "2026-11-15T17:42:21.602203+00:00"
+    "last_modified": "Sun, 15 Nov 2026 17:45:33 GMT",
+    "checked_at": "2026-11-15T17:46:12.199754+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 17:41:37 GMT",
-    "checked_at": "2026-11-15T17:42:21.837147+00:00"
+    "last_modified": "Sun, 15 Nov 2026 17:45:33 GMT",
+    "checked_at": "2026-11-15T17:46:12.417516+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "3f609ca965296478271c5bc44d2fa32c8c9e16ae902f1980a7b039cb67c12351",
@@ -206,29 +206,14 @@
       "a:Amon-Ra St. Brown"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 17:41:37 GMT",
-    "checked_at": "2026-11-15T17:42:22.139137+00:00"
+    "last_modified": "Sun, 15 Nov 2026 17:45:33 GMT",
+    "checked_at": "2026-11-15T17:46:12.772155+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "8e7bf287fb2f95913ebc603a627c46d178ca4a65857648992d60f47e585fa6fd",
+    "hash": "dcc7fcc3850e302f2b5ffb303086f1ca5da53df1b404d1b281ea4aa148f342d4",
     "confirmed": [
       {
         "name": "Brick by Brick",
-        "legs": [
-          "Aaron Nesmith"
-        ],
-        "rr": false,
-        "market": "under 2.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Aaron Nesmith": "Pacers vs 76ers \u00b7 Sun Nov 15 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "Aaron Nesmith": -210
-        }
-      },
-      {
-        "name": "Front Rim",
         "legs": [
           "Kelly Oubre Jr."
         ],
@@ -240,6 +225,21 @@
         },
         "odds": {
           "Kelly Oubre Jr.": -138
+        }
+      },
+      {
+        "name": "Front Rim",
+        "legs": [
+          "Aaron Nesmith"
+        ],
+        "rr": false,
+        "market": "under 2.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Aaron Nesmith": "Pacers vs 76ers \u00b7 Sun Nov 15 \u00b7 1:00 PM ET"
+        },
+        "odds": {
+          "Aaron Nesmith": -210
         }
       },
       {
@@ -260,13 +260,13 @@
     ],
     "announced": {
       "Front Rim": [
-        "Kelly Oubre Jr."
+        "Aaron Nesmith"
       ],
       "Mortar Mix": [
         "Pascal Siakam"
       ],
       "Brick by Brick": [
-        "Aaron Nesmith"
+        "Kelly Oubre Jr."
       ]
     },
     "abets": [
@@ -277,7 +277,7 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 17:41:37 GMT",
-    "checked_at": "2026-11-15T17:42:23.874771+00:00"
+    "last_modified": "Sun, 15 Nov 2026 17:45:33 GMT",
+    "checked_at": "2026-11-15T17:46:13.069823+00:00"
   }
 }
