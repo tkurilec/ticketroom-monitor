@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 20:06:52 GMT",
-    "checked_at": "2026-11-15T20:10:19.160614+00:00"
+    "last_modified": "Sun, 15 Nov 2026 20:26:56 GMT",
+    "checked_at": "2026-11-15T20:30:18.888567+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f4686dd2100cbe604bdd4945ddb8af8e668fee7fc42a6a8661995c8aa4e808fc",
@@ -72,8 +72,8 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 20:06:52 GMT",
-    "checked_at": "2026-11-15T20:10:19.948621+00:00"
+    "last_modified": "Sun, 15 Nov 2026 20:26:56 GMT",
+    "checked_at": "2026-11-15T20:30:19.449006+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "4ad7b0a9d26dad97c0808581cf1cab34d096824208b6a380c1686f485af140be",
@@ -329,8 +329,8 @@
       "a:Amon-Ra St. Brown"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 20:06:52 GMT",
-    "checked_at": "2026-11-15T20:10:25.312297+00:00"
+    "last_modified": "Sun, 15 Nov 2026 20:26:56 GMT",
+    "checked_at": "2026-11-15T20:30:20.567050+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "659bc6baf11fba2d264857f82093e8ba31317868a6e13fc50135ac076452f44b",
@@ -383,9 +383,12 @@
       "downtown|under 2.5 threes|Aaron Nesmith"
     ],
     "slate": "2026-11-15",
-    "hits": [],
+    "hits": [
+      "dt:Aaron Nesmith",
+      "dt:Pascal Siakam"
+    ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 20:06:52 GMT",
-    "checked_at": "2026-11-15T20:10:25.686206+00:00"
+    "last_modified": "Sun, 15 Nov 2026 20:26:56 GMT",
+    "checked_at": "2026-11-15T20:30:21.767237+00:00"
   }
 }
