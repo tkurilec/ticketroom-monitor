@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Sun, 15 Nov 2026 23:12:28 GMT",
-    "checked_at": "2026-11-15T23:14:11.500326+00:00"
+    "checked_at": "2026-11-15T23:15:16.617693+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f4686dd2100cbe604bdd4945ddb8af8e668fee7fc42a6a8661995c8aa4e808fc",
@@ -75,7 +75,7 @@
     ],
     "ltd": null,
     "last_modified": "Sun, 15 Nov 2026 23:12:28 GMT",
-    "checked_at": "2026-11-15T23:14:12.204606+00:00"
+    "checked_at": "2026-11-15T23:15:17.036950+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "4ad7b0a9d26dad97c0808581cf1cab34d096824208b6a380c1686f485af140be",
@@ -330,11 +330,12 @@
       "a:Aaron Jones",
       "a:Amon-Ra St. Brown",
       "a:Bhayshul Tuten",
-      "a:James Cook"
+      "a:James Cook",
+      "a:Kaelon Black"
     ],
     "ltd": null,
     "last_modified": "Sun, 15 Nov 2026 23:12:28 GMT",
-    "checked_at": "2026-11-15T23:14:13.264023+00:00"
+    "checked_at": "2026-11-15T23:15:19.002139+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "f663d4c9119fdb82c76408508a561eacc7cc2d888da0de06822b835941626582",
@@ -619,6 +620,6 @@
     ],
     "ltd": null,
     "last_modified": "Sun, 15 Nov 2026 23:12:28 GMT",
-    "checked_at": "2026-11-15T23:14:14.372149+00:00"
+    "checked_at": "2026-11-15T23:15:20.243843+00:00"
   }
 }
