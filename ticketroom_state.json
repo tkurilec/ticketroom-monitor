@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 04:31:24 GMT",
-    "checked_at": "2026-11-15T05:00:21.460550+00:00"
+    "last_modified": "Sun, 15 Nov 2026 11:00:56 GMT",
+    "checked_at": "2026-11-15T11:01:15.238213+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 04:31:24 GMT",
-    "checked_at": "2026-11-15T05:00:21.667479+00:00"
+    "last_modified": "Sun, 15 Nov 2026 11:00:56 GMT",
+    "checked_at": "2026-11-15T11:01:16.004090+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -29,88 +29,18 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 04:31:24 GMT",
-    "checked_at": "2026-11-15T05:00:22.108398+00:00"
+    "last_modified": "Sun, 15 Nov 2026 11:00:56 GMT",
+    "checked_at": "2026-11-15T11:01:16.194894+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Bricklayer": [
-        "Nikola Jokic"
-      ],
-      "Building Code": [
-        "Tyrese Proctor"
-      ],
-      "Early Offense": [
-        "Thomas Bryant"
-      ],
-      "Ice Breaker": [
-        "Mario Hezonja"
-      ],
-      "Under Construction": [
-        "Jaylon Tyson"
-      ],
-      "First Touch": [
-        "Davion Mitchell"
-      ],
-      "Lead the Break": [
-        "Klay Thompson"
-      ],
-      "Back Iron": [
-        "Duncan Robinson"
-      ],
-      "Brick by Brick": [
-        "Julius Randle"
-      ],
-      "Cinder Block": [
-        "Cade Cunningham"
-      ],
-      "Front Rim": [
-        "Cedric Coward"
-      ],
-      "Load-Bearing Wall": [
-        "LaMelo Ball"
-      ],
-      "Mortar Mix": [
-        "Jaden McDaniels"
-      ],
-      "Red Clay": [
-        "Terrence Shannon Jr."
-      ],
-      "The Starter": [
-        "Day'Ron Sharpe"
-      ],
-      "Two Points": [
-        "Zach Collins"
-      ]
-    },
-    "abets": [
-      "downtown|under 1.5 threes|Cedric Coward",
-      "downtown|under 1.5 threes|Jaden McDaniels",
-      "downtown|under 1.5 threes|Julius Randle",
-      "downtown|under 1.5 threes|Nikola Jokic",
-      "downtown|under 1.5 threes|Terrence Shannon Jr.",
-      "downtown|under 1.5 threes|Tyrese Proctor",
-      "downtown|under 2.5 threes|Cade Cunningham",
-      "downtown|under 2.5 threes|Jaylon Tyson",
-      "downtown|under 3.5 threes|Duncan Robinson",
-      "downtown|under 3.5 threes|LaMelo Ball",
-      "|first basket|Davion Mitchell",
-      "|first basket|Day'Ron Sharpe",
-      "|first basket|Klay Thompson",
-      "|first basket|Mario Hezonja",
-      "|first basket|Thomas Bryant",
-      "|first basket|Zach Collins"
-    ],
-    "slate": "2026-11-14",
-    "hits": [
-      "dt:Duncan Robinson",
-      "dt:Nikola Jokic",
-      "dt:Terrence Shannon Jr."
-    ],
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-15",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 04:31:24 GMT",
-    "checked_at": "2026-11-15T05:00:22.800113+00:00"
+    "last_modified": "Sun, 15 Nov 2026 11:00:56 GMT",
+    "checked_at": "2026-11-15T11:01:16.445646+00:00"
   }
 }
