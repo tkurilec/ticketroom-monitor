@@ -3525,6 +3525,62 @@
           "bkey": "|first basket|Anthony Davis",
           "result": null,
           "pl": null
+        },
+        "Brick Oven": {
+          "legs": [
+            "Bogdan Bogdanovic"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Bogdan Bogdanovic": -172
+          },
+          "bkey": "downtown|under 1.5 threes|Bogdan Bogdanovic",
+          "result": null,
+          "pl": null
+        },
+        "Clay Pit": {
+          "legs": [
+            "Kevin Durant"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Kevin Durant": 100
+          },
+          "bkey": "downtown|under 1.5 threes|Kevin Durant",
+          "result": null,
+          "pl": null
+        },
+        "Stonewall": {
+          "legs": [
+            "Tari Eason"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Tari Eason": -156
+          },
+          "bkey": "downtown|under 1.5 threes|Tari Eason",
+          "result": null,
+          "pl": null
+        },
+        "Trowel Work": {
+          "legs": [
+            "Reed Sheppard"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Reed Sheppard": -106
+          },
+          "bkey": "downtown|under 2.5 threes|Reed Sheppard",
+          "result": null,
+          "pl": null
         }
       }
     }
