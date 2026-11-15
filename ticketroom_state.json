@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 00:06:26 GMT",
-    "checked_at": "2026-11-15T00:10:15.591521+00:00"
+    "last_modified": "Sun, 15 Nov 2026 00:21:26 GMT",
+    "checked_at": "2026-11-15T00:22:11.259627+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a0e3d6ed1b0206c05a2cedc728cc73f28b8502479f6a0982e48d3d1f89b13ac2",
@@ -55,8 +55,8 @@
     "slate": "2026-11-14",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 00:06:26 GMT",
-    "checked_at": "2026-11-15T00:10:16.103989+00:00"
+    "last_modified": "Sun, 15 Nov 2026 00:21:26 GMT",
+    "checked_at": "2026-11-15T00:22:12.052126+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -66,11 +66,11 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 00:06:26 GMT",
-    "checked_at": "2026-11-15T00:10:16.266766+00:00"
+    "last_modified": "Sun, 15 Nov 2026 00:21:26 GMT",
+    "checked_at": "2026-11-15T00:22:12.318205+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "32f9515b2710c03fe652f8154f4291d9be9dd5ee9900fa5fe80987bc1e40ad65",
+    "hash": "90de7b469dafe1fec6dd8caa2c7d9ff1e83c4db228ea40516999e477dccbc5d5",
     "confirmed": [
       {
         "name": "Bricklayer",
@@ -90,16 +90,16 @@
       {
         "name": "Building Code",
         "legs": [
-          "Jaylon Tyson"
+          "Tyrese Proctor"
         ],
         "rr": false,
-        "market": "under 2.5 threes",
+        "market": "under 1.5 threes",
         "kind": "downtown",
         "info": {
-          "Jaylon Tyson": "Cavaliers vs Mavericks \u00b7 Sat Nov 14 \u00b7 7:30 PM ET"
+          "Tyrese Proctor": "Cavaliers vs Mavericks \u00b7 Sat Nov 14 \u00b7 7:30 PM ET"
         },
         "odds": {
-          "Jaylon Tyson": -115
+          "Tyrese Proctor": -112
         }
       },
       {
@@ -135,16 +135,16 @@
       {
         "name": "Under Construction",
         "legs": [
-          "Tyrese Proctor"
+          "Jaylon Tyson"
         ],
         "rr": false,
-        "market": "under 1.5 threes",
+        "market": "under 2.5 threes",
         "kind": "downtown",
         "info": {
-          "Tyrese Proctor": "Cavaliers vs Mavericks \u00b7 Sat Nov 14 \u00b7 7:30 PM ET"
+          "Jaylon Tyson": "Cavaliers vs Mavericks \u00b7 Sat Nov 14 \u00b7 7:30 PM ET"
         },
         "odds": {
-          "Tyrese Proctor": -112
+          "Jaylon Tyson": -113
         }
       }
     ],
@@ -153,7 +153,7 @@
         "Nikola Jokic"
       ],
       "Building Code": [
-        "Jaylon Tyson"
+        "Tyrese Proctor"
       ],
       "Early Offense": [
         "Thomas Bryant"
@@ -162,7 +162,7 @@
         "Mario Hezonja"
       ],
       "Under Construction": [
-        "Tyrese Proctor"
+        "Jaylon Tyson"
       ]
     },
     "abets": [
@@ -175,7 +175,7 @@
     "slate": "2026-11-14",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 00:06:26 GMT",
-    "checked_at": "2026-11-15T00:10:17.904489+00:00"
+    "last_modified": "Sun, 15 Nov 2026 00:21:26 GMT",
+    "checked_at": "2026-11-15T00:22:13.133094+00:00"
   }
 }
