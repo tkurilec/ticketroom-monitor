@@ -3496,6 +3496,20 @@
           "bkey": "downtown|under 1.5 threes|P.J. Washington Jr.",
           "result": null,
           "pl": null
+        },
+        "Two Points": {
+          "legs": [
+            "Scottie Barnes"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Scottie Barnes": 800
+          },
+          "bkey": "|first basket|Scottie Barnes",
+          "result": null,
+          "pl": null
         }
       }
     }

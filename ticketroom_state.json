@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 22:37:18 GMT",
-    "checked_at": "2026-11-15T22:40:15.979369+00:00"
+    "last_modified": "Sun, 15 Nov 2026 22:42:28 GMT",
+    "checked_at": "2026-11-15T22:43:11.896306+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f4686dd2100cbe604bdd4945ddb8af8e668fee7fc42a6a8661995c8aa4e808fc",
@@ -74,8 +74,8 @@
       "a:Bradley Barcola"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 22:37:18 GMT",
-    "checked_at": "2026-11-15T22:40:16.504796+00:00"
+    "last_modified": "Sun, 15 Nov 2026 22:42:28 GMT",
+    "checked_at": "2026-11-15T22:43:12.701546+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "4ad7b0a9d26dad97c0808581cf1cab34d096824208b6a380c1686f485af140be",
@@ -333,11 +333,11 @@
       "a:James Cook"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 22:37:18 GMT",
-    "checked_at": "2026-11-15T22:40:18.131095+00:00"
+    "last_modified": "Sun, 15 Nov 2026 22:42:28 GMT",
+    "checked_at": "2026-11-15T22:43:14.494243+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "d8d71f6a420142d145116630ea5077129164aeee5d7a9cf66895b940158d4c0d",
+    "hash": "f663d4c9119fdb82c76408508a561eacc7cc2d888da0de06822b835941626582",
     "confirmed": [
       {
         "name": "Brick by Brick",
@@ -402,16 +402,16 @@
       {
         "name": "Hard Hat Zone",
         "legs": [
-          "Cooper Flagg"
+          "Zaccharie Risacher"
         ],
         "rr": false,
         "market": "under 1.5 threes",
         "kind": "downtown",
         "info": {
-          "Cooper Flagg": "Mavericks vs Celtics \u00b7 Sun Nov 15 \u00b7 6:00 PM ET"
+          "Zaccharie Risacher": "Mavericks vs Celtics \u00b7 Sun Nov 15 \u00b7 6:00 PM ET"
         },
         "odds": {
-          "Cooper Flagg": -146
+          "Zaccharie Risacher": -174
         }
       },
       {
@@ -501,8 +501,23 @@
           "P.J. Washington Jr.": "Mavericks vs Celtics \u00b7 Sun Nov 15 \u00b7 6:00 PM ET"
         },
         "odds": {
-          "P.J. Washington Jr.": 122
+          "P.J. Washington Jr.": 124
         }
+      },
+      {
+        "name": "Two Points",
+        "legs": [
+          "Scottie Barnes"
+        ],
+        "rr": false,
+        "info": {
+          "Scottie Barnes": "Raptors vs Knicks \u00b7 Sun Nov 15 \u00b7 6:00 PM ET"
+        },
+        "odds": {
+          "Scottie Barnes": 800
+        },
+        "units": 0.6,
+        "group": "5"
       },
       {
         "name": "Wet Cement",
@@ -517,6 +532,21 @@
         },
         "odds": {
           "Karl-Anthony Towns": -128
+        }
+      },
+      {
+        "name": "Wheelbarrow",
+        "legs": [
+          "Cooper Flagg"
+        ],
+        "rr": false,
+        "market": "under 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Cooper Flagg": "Mavericks vs Celtics \u00b7 Sun Nov 15 \u00b7 6:00 PM ET"
+        },
+        "odds": {
+          "Cooper Flagg": -146
         }
       }
     ],
@@ -552,10 +582,16 @@
         "Karl-Anthony Towns"
       ],
       "Hard Hat Zone": [
-        "Cooper Flagg"
+        "Zaccharie Risacher"
       ],
       "The Kiln": [
         "P.J. Washington Jr."
+      ],
+      "Two Points": [
+        "Scottie Barnes"
+      ],
+      "Wheelbarrow": [
+        "Cooper Flagg"
       ]
     },
     "abets": [
@@ -566,12 +602,14 @@
       "downtown|under 1.5 threes|P.J. Washington Jr.",
       "downtown|under 1.5 threes|Pascal Siakam",
       "downtown|under 1.5 threes|Stephon Castle",
+      "downtown|under 1.5 threes|Zaccharie Risacher",
       "downtown|under 2.5 threes|Aaron Nesmith",
       "downtown|under 2.5 threes|Jalen Brunson",
       "downtown|under 4.5 threes|Luka Doncic",
       "|first basket|Mo Bamba",
       "|first basket|Moussa Diabate",
-      "|first basket|Oso Ighodaro"
+      "|first basket|Oso Ighodaro",
+      "|first basket|Scottie Barnes"
     ],
     "slate": "2026-11-15",
     "hits": [
@@ -579,7 +617,7 @@
       "dt:Pascal Siakam"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 22:37:18 GMT",
-    "checked_at": "2026-11-15T22:40:21.947317+00:00"
+    "last_modified": "Sun, 15 Nov 2026 22:42:28 GMT",
+    "checked_at": "2026-11-15T22:43:17.443567+00:00"
   }
 }
