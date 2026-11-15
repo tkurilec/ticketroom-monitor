@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Sun, 15 Nov 2026 22:37:18 GMT",
-    "checked_at": "2026-11-15T22:38:13.767809+00:00"
+    "checked_at": "2026-11-15T22:40:15.979369+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f4686dd2100cbe604bdd4945ddb8af8e668fee7fc42a6a8661995c8aa4e808fc",
@@ -75,7 +75,7 @@
     ],
     "ltd": null,
     "last_modified": "Sun, 15 Nov 2026 22:37:18 GMT",
-    "checked_at": "2026-11-15T22:38:14.314083+00:00"
+    "checked_at": "2026-11-15T22:40:16.504796+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "4ad7b0a9d26dad97c0808581cf1cab34d096824208b6a380c1686f485af140be",
@@ -334,10 +334,10 @@
     ],
     "ltd": null,
     "last_modified": "Sun, 15 Nov 2026 22:37:18 GMT",
-    "checked_at": "2026-11-15T22:38:15.413311+00:00"
+    "checked_at": "2026-11-15T22:40:18.131095+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "155d742631e15b784b7bf96742658923ccb6169c88b112eaa56b4cee2701b389",
+    "hash": "d8d71f6a420142d145116630ea5077129164aeee5d7a9cf66895b940158d4c0d",
     "confirmed": [
       {
         "name": "Brick by Brick",
@@ -397,6 +397,21 @@
         },
         "odds": {
           "Aaron Nesmith": -210
+        }
+      },
+      {
+        "name": "Hard Hat Zone",
+        "legs": [
+          "Cooper Flagg"
+        ],
+        "rr": false,
+        "market": "under 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Cooper Flagg": "Mavericks vs Celtics \u00b7 Sun Nov 15 \u00b7 6:00 PM ET"
+        },
+        "odds": {
+          "Cooper Flagg": -146
         }
       },
       {
@@ -475,6 +490,21 @@
         }
       },
       {
+        "name": "The Kiln",
+        "legs": [
+          "P.J. Washington Jr."
+        ],
+        "rr": false,
+        "market": "under 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "P.J. Washington Jr.": "Mavericks vs Celtics \u00b7 Sun Nov 15 \u00b7 6:00 PM ET"
+        },
+        "odds": {
+          "P.J. Washington Jr.": 122
+        }
+      },
+      {
         "name": "Wet Cement",
         "legs": [
           "Karl-Anthony Towns"
@@ -520,12 +550,20 @@
       ],
       "Wet Cement": [
         "Karl-Anthony Towns"
+      ],
+      "Hard Hat Zone": [
+        "Cooper Flagg"
+      ],
+      "The Kiln": [
+        "P.J. Washington Jr."
       ]
     },
     "abets": [
+      "downtown|under 1.5 threes|Cooper Flagg",
       "downtown|under 1.5 threes|Karl-Anthony Towns",
       "downtown|under 1.5 threes|Kelly Oubre Jr.",
       "downtown|under 1.5 threes|Miles Bridges",
+      "downtown|under 1.5 threes|P.J. Washington Jr.",
       "downtown|under 1.5 threes|Pascal Siakam",
       "downtown|under 1.5 threes|Stephon Castle",
       "downtown|under 2.5 threes|Aaron Nesmith",
@@ -542,6 +580,6 @@
     ],
     "ltd": null,
     "last_modified": "Sun, 15 Nov 2026 22:37:18 GMT",
-    "checked_at": "2026-11-15T22:38:17.675827+00:00"
+    "checked_at": "2026-11-15T22:40:21.947317+00:00"
   }
 }

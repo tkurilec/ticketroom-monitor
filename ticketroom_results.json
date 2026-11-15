@@ -3468,6 +3468,34 @@
           "bkey": "downtown|under 1.5 threes|Karl-Anthony Towns",
           "result": null,
           "pl": null
+        },
+        "Hard Hat Zone": {
+          "legs": [
+            "Cooper Flagg"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Cooper Flagg": -146
+          },
+          "bkey": "downtown|under 1.5 threes|Cooper Flagg",
+          "result": null,
+          "pl": null
+        },
+        "The Kiln": {
+          "legs": [
+            "P.J. Washington Jr."
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "P.J. Washington Jr.": 122
+          },
+          "bkey": "downtown|under 1.5 threes|P.J. Washington Jr.",
+          "result": null,
+          "pl": null
         }
       }
     }
