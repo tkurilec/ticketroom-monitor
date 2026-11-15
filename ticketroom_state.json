@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 23:36:49 GMT",
-    "checked_at": "2026-11-15T23:40:16.319818+00:00"
+    "last_modified": "Sun, 15 Nov 2026 23:47:04 GMT",
+    "checked_at": "2026-11-15T23:47:14.072551+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f4686dd2100cbe604bdd4945ddb8af8e668fee7fc42a6a8661995c8aa4e808fc",
@@ -74,8 +74,8 @@
       "a:Bradley Barcola"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 23:36:49 GMT",
-    "checked_at": "2026-11-15T23:40:16.912251+00:00"
+    "last_modified": "Sun, 15 Nov 2026 23:47:04 GMT",
+    "checked_at": "2026-11-15T23:47:14.680551+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "4ad7b0a9d26dad97c0808581cf1cab34d096824208b6a380c1686f485af140be",
@@ -334,25 +334,25 @@
       "a:Kaelon Black"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 23:36:49 GMT",
-    "checked_at": "2026-11-15T23:40:17.696347+00:00"
+    "last_modified": "Sun, 15 Nov 2026 23:47:04 GMT",
+    "checked_at": "2026-11-15T23:47:15.979814+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "d7069050e6e86aecbc0e481f3115783f4024eac29e65e4a2235178e0b449d590",
+    "hash": "12c18a767f6405d29ca807fada9782aa48f0d4d49fb20a4cacf83980fadcbeec",
     "confirmed": [
       {
         "name": "Brick Oven",
         "legs": [
-          "Bogdan Bogdanovic"
+          "Kevin Durant"
         ],
         "rr": false,
         "market": "under 1.5 threes",
         "kind": "downtown",
         "info": {
-          "Bogdan Bogdanovic": "Rockets vs Wizards \u00b7 Sun Nov 15 \u00b7 7:00 PM ET"
+          "Kevin Durant": "Rockets vs Wizards \u00b7 Sun Nov 15 \u00b7 7:00 PM ET"
         },
         "odds": {
-          "Bogdan Bogdanovic": -172
+          "Kevin Durant": -102
         }
       },
       {
@@ -368,21 +368,6 @@
         },
         "odds": {
           "Miles Bridges": 100
-        }
-      },
-      {
-        "name": "Clay Pit",
-        "legs": [
-          "Kevin Durant"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Kevin Durant": "Rockets vs Wizards \u00b7 Sun Nov 15 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Kevin Durant": 100
         }
       },
       {
@@ -506,21 +491,6 @@
         }
       },
       {
-        "name": "Stonewall",
-        "legs": [
-          "Tari Eason"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Tari Eason": "Rockets vs Wizards \u00b7 Sun Nov 15 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Tari Eason": -156
-        }
-      },
-      {
         "name": "The Foundation",
         "legs": [
           "Luka Doncic"
@@ -568,16 +538,16 @@
       {
         "name": "Trowel Work",
         "legs": [
-          "Reed Sheppard"
+          "Tari Eason"
         ],
         "rr": false,
-        "market": "under 2.5 threes",
+        "market": "under 1.5 threes",
         "kind": "downtown",
         "info": {
-          "Reed Sheppard": "Rockets vs Wizards \u00b7 Sun Nov 15 \u00b7 7:00 PM ET"
+          "Tari Eason": "Rockets vs Wizards \u00b7 Sun Nov 15 \u00b7 7:00 PM ET"
         },
         "odds": {
-          "Reed Sheppard": -106
+          "Tari Eason": -156
         }
       },
       {
@@ -673,7 +643,7 @@
         "Anthony Davis"
       ],
       "Brick Oven": [
-        "Bogdan Bogdanovic"
+        "Kevin Durant"
       ],
       "Clay Pit": [
         "Kevin Durant"
@@ -682,7 +652,7 @@
         "Tari Eason"
       ],
       "Trowel Work": [
-        "Reed Sheppard"
+        "Tari Eason"
       ]
     },
     "abets": [
@@ -714,7 +684,7 @@
       "dt:Pascal Siakam"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 23:36:49 GMT",
-    "checked_at": "2026-11-15T23:40:20.067946+00:00"
+    "last_modified": "Sun, 15 Nov 2026 23:47:04 GMT",
+    "checked_at": "2026-11-15T23:47:17.188880+00:00"
   }
 }
