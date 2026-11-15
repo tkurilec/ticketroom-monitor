@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 19:46:20 GMT",
-    "checked_at": "2026-11-15T19:50:21.593599+00:00"
+    "last_modified": "Sun, 15 Nov 2026 20:06:52 GMT",
+    "checked_at": "2026-11-15T20:10:19.160614+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f4686dd2100cbe604bdd4945ddb8af8e668fee7fc42a6a8661995c8aa4e808fc",
@@ -72,11 +72,11 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 19:46:20 GMT",
-    "checked_at": "2026-11-15T19:50:21.821271+00:00"
+    "last_modified": "Sun, 15 Nov 2026 20:06:52 GMT",
+    "checked_at": "2026-11-15T20:10:19.948621+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "830d93ecfbcfb49440be30e676db668257b7854b59fd2b280563ef547d8cc50b",
+    "hash": "4ad7b0a9d26dad97c0808581cf1cab34d096824208b6a380c1686f485af140be",
     "confirmed": [
       {
         "name": "Audible",
@@ -118,6 +118,19 @@
         },
         "market": "first touchdown scorer",
         "kind": "ftd"
+      },
+      {
+        "name": "First Read",
+        "legs": [
+          "Kaelon Black"
+        ],
+        "rr": false,
+        "info": {
+          "Kaelon Black": "49ers vs Cowboys \u00b7 Sun Nov 15 \u00b7 4:25 PM ET"
+        },
+        "odds": {
+          "Kaelon Black": 300
+        }
       },
       {
         "name": "Goal Line Back",
@@ -169,6 +182,19 @@
         },
         "odds": {
           "Aaron Jones": 240
+        }
+      },
+      {
+        "name": "Move the Chains",
+        "legs": [
+          "Keenan Allen"
+        ],
+        "rr": false,
+        "info": {
+          "Keenan Allen": "49ers vs Cowboys \u00b7 Sun Nov 15 \u00b7 4:25 PM ET"
+        },
+        "odds": {
+          "Keenan Allen": 350
         }
       },
       {
@@ -273,6 +299,12 @@
       ],
       "The Sneak": [
         "Trey McBride"
+      ],
+      "First Read": [
+        "Kaelon Black"
+      ],
+      "Move the Chains": [
+        "Keenan Allen"
       ]
     },
     "abets": [
@@ -286,6 +318,8 @@
       "|anytime touchdown|Jakobi Meyers",
       "|anytime touchdown|James Cook",
       "|anytime touchdown|Jonathan Taylor",
+      "|anytime touchdown|Kaelon Black",
+      "|anytime touchdown|Keenan Allen",
       "|anytime touchdown|Tre Tucker",
       "|anytime touchdown|Trey McBride"
     ],
@@ -295,8 +329,8 @@
       "a:Amon-Ra St. Brown"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 19:46:20 GMT",
-    "checked_at": "2026-11-15T19:50:23.528858+00:00"
+    "last_modified": "Sun, 15 Nov 2026 20:06:52 GMT",
+    "checked_at": "2026-11-15T20:10:25.312297+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "659bc6baf11fba2d264857f82093e8ba31317868a6e13fc50135ac076452f44b",
@@ -351,7 +385,7 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 19:46:20 GMT",
-    "checked_at": "2026-11-15T19:50:23.739315+00:00"
+    "last_modified": "Sun, 15 Nov 2026 20:06:52 GMT",
+    "checked_at": "2026-11-15T20:10:25.686206+00:00"
   }
 }

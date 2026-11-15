@@ -2116,6 +2116,34 @@
           "bkey": "|anytime touchdown|Trey McBride",
           "result": null,
           "pl": null
+        },
+        "First Read": {
+          "legs": [
+            "Kaelon Black"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Kaelon Black": 300
+          },
+          "bkey": "|anytime touchdown|Kaelon Black",
+          "result": null,
+          "pl": null
+        },
+        "Move the Chains": {
+          "legs": [
+            "Keenan Allen"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Keenan Allen": 350
+          },
+          "bkey": "|anytime touchdown|Keenan Allen",
+          "result": null,
+          "pl": null
         }
       }
     },
