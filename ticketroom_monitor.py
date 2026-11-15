@@ -895,9 +895,13 @@ def extract_signature(html: str, early_min: int = 0,
         nm = p.get("name")
         if not nm:
             continue
-        launched = (p.get("status") == "confirmed" or p.get("locked")
-                    or str(p.get("game")) in started_games
-                    or ticket_clock_ok([p]))
+        # Site confirm ONLY — no clock backstop and no game-started launch.
+        # Projected downtown picks are provisional: the owner wholesale-swaps
+        # players AND reshuffles ticket names right up to his confirm
+        # (2026-11-15: tip-20 posted 4 HOU@WAS picks, 2 of which never
+        # existed once he confirmed). Unlike first basket, a threes bet
+        # doesn't die at tip, so waiting for the confirm costs nothing.
+        launched = p.get("status") == "confirmed" or bool(p.get("locked"))
         if not launched:
             continue
         line = p.get("line")
@@ -1071,20 +1075,31 @@ def record_results(results: dict, board: str, slate: str, confirmed: list,
     seen_bets = {r.get("bkey"): r for r in day.values()}
     for t in confirmed:
         nm = t.get("name")
-        if not nm or nm in day:
-            if nm in day:
-                row = day[nm]
-                bk = bet_key(t, board_market)
-                if (row.get("result") is None and row.get("void")
-                        and row.get("bkey") != bk):
-                    # The announced bet lost a leg to a scratch (books
-                    # refund it) and the lane re-drew: the replacement is
-                    # the live bet now, so it takes over the row.
-                    row.update(legs=t["legs"], odds=t.get("odds") or {},
-                               bkey=bk, void=False)
-                    changed = True
+        if not nm:
             continue
         bk = bet_key(t, board_market)
+        if nm in day:
+            row = day[nm]
+            if (row.get("result") is None and row.get("void")
+                    and row.get("bkey") != bk):
+                # The announced bet lost a leg to a scratch (books
+                # refund it) and the lane re-drew: the replacement is
+                # the live bet now, so it takes over the row.
+                row.update(legs=t["legs"], odds=t.get("odds") or {},
+                           bkey=bk, void=False)
+                changed = True
+                continue
+            if (t.get("kind") != "downtown" or row.get("bkey") == bk
+                    or bk in seen_bets):
+                continue
+            # Downtown ticket names are cosmetic and the site reassigns
+            # them between builds ("Brick by Brick" moved from Nesmith to
+            # Bridges, 2026-11-15): same name, different bet, old row
+            # still live — both bets are real, so the newcomer logs under
+            # an aliased name instead of being swallowed.
+            nm = f"{nm} ({t['legs'][0]})"
+            if nm in day:
+                continue
         if bk in seen_bets:
             # Same bet under another name (e.g. a board single that is also
             # the pick of the day): one row only, but adopt the duplicate's
