@@ -3398,6 +3398,20 @@
           "bkey": "downtown|under 4.5 threes|Luka Doncic",
           "result": null,
           "pl": null
+        },
+        "Lead the Break": {
+          "legs": [
+            "Moussa Diabate"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Moussa Diabate": 1400
+          },
+          "bkey": "|first basket|Moussa Diabate",
+          "result": null,
+          "pl": null
         }
       }
     }

@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 20:51:54 GMT",
-    "checked_at": "2026-11-15T20:53:12.114297+00:00"
+    "last_modified": "Sun, 15 Nov 2026 21:06:47 GMT",
+    "checked_at": "2026-11-15T21:07:17.348388+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f4686dd2100cbe604bdd4945ddb8af8e668fee7fc42a6a8661995c8aa4e808fc",
@@ -72,8 +72,8 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 20:51:54 GMT",
-    "checked_at": "2026-11-15T20:53:12.407523+00:00"
+    "last_modified": "Sun, 15 Nov 2026 21:06:47 GMT",
+    "checked_at": "2026-11-15T21:07:17.951320+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "4ad7b0a9d26dad97c0808581cf1cab34d096824208b6a380c1686f485af140be",
@@ -330,11 +330,11 @@
       "a:James Cook"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 20:51:54 GMT",
-    "checked_at": "2026-11-15T20:53:14.027860+00:00"
+    "last_modified": "Sun, 15 Nov 2026 21:06:47 GMT",
+    "checked_at": "2026-11-15T21:07:19.008169+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "343463cbb010a17865893344f48d84827da82b510db9613442b3af4605030707",
+    "hash": "94fd15c41b3f59aba267b1c0027fda6fb0f108c0ff93960c4b83270b6b0da96f",
     "confirmed": [
       {
         "name": "Brick by Brick",
@@ -382,6 +382,21 @@
         "group": "2"
       },
       {
+        "name": "Lead the Break",
+        "legs": [
+          "Moussa Diabate"
+        ],
+        "rr": false,
+        "info": {
+          "Moussa Diabate": "Hornets vs Clippers \u00b7 Sun Nov 15 \u00b7 4:30 PM ET"
+        },
+        "odds": {
+          "Moussa Diabate": 1400
+        },
+        "units": 0.6,
+        "group": "3"
+      },
+      {
         "name": "Mortar Mix",
         "legs": [
           "Pascal Siakam"
@@ -427,6 +442,9 @@
       ],
       "The Foundation": [
         "Luka Doncic"
+      ],
+      "Lead the Break": [
+        "Moussa Diabate"
       ]
     },
     "abets": [
@@ -435,6 +453,7 @@
       "downtown|under 1.5 threes|Pascal Siakam",
       "downtown|under 2.5 threes|Aaron Nesmith",
       "downtown|under 4.5 threes|Luka Doncic",
+      "|first basket|Moussa Diabate",
       "|first basket|Oso Ighodaro"
     ],
     "slate": "2026-11-15",
@@ -443,7 +462,7 @@
       "dt:Pascal Siakam"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 20:51:54 GMT",
-    "checked_at": "2026-11-15T20:53:14.290244+00:00"
+    "last_modified": "Sun, 15 Nov 2026 21:06:47 GMT",
+    "checked_at": "2026-11-15T21:07:20.899191+00:00"
   }
 }
