@@ -899,10 +899,12 @@
             "Goncalo Ramos": 100
           },
           "bkey": "|anytime goalscorer|Goncalo Ramos",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -2,
+          "legs_hit": 0
         }
-      }
+      },
+      "2026-11-15": {}
     },
     "NFL Board": {
       "2026-11-02": {

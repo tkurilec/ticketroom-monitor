@@ -7,56 +7,19 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 00:56:47 GMT",
-    "checked_at": "2026-11-15T00:57:19.896494+00:00"
+    "last_modified": "Sun, 15 Nov 2026 01:16:52 GMT",
+    "checked_at": "2026-11-15T01:17:13.797971+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "a0e3d6ed1b0206c05a2cedc728cc73f28b8502479f6a0982e48d3d1f89b13ac2",
-    "confirmed": [
-      {
-        "name": "Full Stake",
-        "legs": [
-          "Goncalo Ramos"
-        ],
-        "rr": false,
-        "info": {
-          "Goncalo Ramos": "Portugal vs Denmark \u00b7 Sat Nov 14 \u00b7 2:45 PM ET"
-        },
-        "odds": {
-          "Goncalo Ramos": 100
-        },
-        "units": 2
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Goncalo Ramos"
-        ],
-        "rr": false,
-        "info": {
-          "Goncalo Ramos": "Portugal vs Denmark \u00b7 Sat Nov 14 \u00b7 2:45 PM ET"
-        },
-        "odds": {
-          "Goncalo Ramos": 100
-        }
-      }
-    ],
-    "announced": {
-      "Full Stake": [
-        "Goncalo Ramos"
-      ],
-      "Target Man": [
-        "Goncalo Ramos"
-      ]
-    },
-    "abets": [
-      "|anytime goalscorer|Goncalo Ramos"
-    ],
-    "slate": "2026-11-14",
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 00:56:47 GMT",
-    "checked_at": "2026-11-15T00:57:20.320729+00:00"
+    "last_modified": "Sun, 15 Nov 2026 01:16:52 GMT",
+    "checked_at": "2026-11-15T01:17:13.968266+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -66,8 +29,8 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 00:56:47 GMT",
-    "checked_at": "2026-11-15T00:57:20.493208+00:00"
+    "last_modified": "Sun, 15 Nov 2026 01:16:52 GMT",
+    "checked_at": "2026-11-15T01:17:14.114572+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "9d65d5ca11ce4ae12db2b965206fdaf1b555d1815b86e2606ddace6b7d451871",
@@ -384,7 +347,7 @@
     "slate": "2026-11-14",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 00:56:47 GMT",
-    "checked_at": "2026-11-15T00:57:20.991240+00:00"
+    "last_modified": "Sun, 15 Nov 2026 01:16:52 GMT",
+    "checked_at": "2026-11-15T01:17:14.791541+00:00"
   }
 }
