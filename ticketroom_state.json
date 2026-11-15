@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 23:12:28 GMT",
-    "checked_at": "2026-11-15T23:15:16.617693+00:00"
+    "last_modified": "Sun, 15 Nov 2026 23:36:49 GMT",
+    "checked_at": "2026-11-15T23:37:15.301668+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f4686dd2100cbe604bdd4945ddb8af8e668fee7fc42a6a8661995c8aa4e808fc",
@@ -74,8 +74,8 @@
       "a:Bradley Barcola"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 23:12:28 GMT",
-    "checked_at": "2026-11-15T23:15:17.036950+00:00"
+    "last_modified": "Sun, 15 Nov 2026 23:36:49 GMT",
+    "checked_at": "2026-11-15T23:37:15.779655+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "4ad7b0a9d26dad97c0808581cf1cab34d096824208b6a380c1686f485af140be",
@@ -334,11 +334,11 @@
       "a:Kaelon Black"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 23:12:28 GMT",
-    "checked_at": "2026-11-15T23:15:19.002139+00:00"
+    "last_modified": "Sun, 15 Nov 2026 23:36:49 GMT",
+    "checked_at": "2026-11-15T23:37:16.517951+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "f663d4c9119fdb82c76408508a561eacc7cc2d888da0de06822b835941626582",
+    "hash": "d9ff03ef186e2c94d478edf142de3b60afcfdd8bd5da9de913607dc9615e6f77",
     "confirmed": [
       {
         "name": "Brick by Brick",
@@ -506,6 +506,21 @@
         }
       },
       {
+        "name": "The Starter",
+        "legs": [
+          "Anthony Davis"
+        ],
+        "rr": false,
+        "info": {
+          "Anthony Davis": "Wizards vs Rockets \u00b7 Sun Nov 15 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "Anthony Davis": 600
+        },
+        "units": 0.6,
+        "group": "7"
+      },
+      {
         "name": "Two Points",
         "legs": [
           "Scottie Barnes"
@@ -593,6 +608,9 @@
       ],
       "Wheelbarrow": [
         "Cooper Flagg"
+      ],
+      "The Starter": [
+        "Anthony Davis"
       ]
     },
     "abets": [
@@ -607,6 +625,7 @@
       "downtown|under 2.5 threes|Aaron Nesmith",
       "downtown|under 2.5 threes|Jalen Brunson",
       "downtown|under 4.5 threes|Luka Doncic",
+      "|first basket|Anthony Davis",
       "|first basket|Mo Bamba",
       "|first basket|Moussa Diabate",
       "|first basket|Oso Ighodaro",
@@ -619,7 +638,7 @@
       "dt:Pascal Siakam"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 23:12:28 GMT",
-    "checked_at": "2026-11-15T23:15:20.243843+00:00"
+    "last_modified": "Sun, 15 Nov 2026 23:36:49 GMT",
+    "checked_at": "2026-11-15T23:37:18.538392+00:00"
   }
 }
