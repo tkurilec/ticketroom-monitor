@@ -2956,6 +2956,132 @@
           "bkey": "|first basket|Klay Thompson",
           "result": null,
           "pl": null
+        },
+        "Back Iron": {
+          "legs": [
+            "Duncan Robinson"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Duncan Robinson": -128
+          },
+          "bkey": "downtown|under 3.5 threes|Duncan Robinson",
+          "result": null,
+          "pl": null
+        },
+        "Brick by Brick": {
+          "legs": [
+            "Cedric Coward"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Cedric Coward": 122
+          },
+          "bkey": "downtown|under 1.5 threes|Cedric Coward",
+          "result": null,
+          "pl": null
+        },
+        "Cinder Block": {
+          "legs": [
+            "Cade Cunningham"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Cade Cunningham": -138
+          },
+          "bkey": "downtown|under 2.5 threes|Cade Cunningham",
+          "result": null,
+          "pl": null
+        },
+        "Front Rim": {
+          "legs": [
+            "Julius Randle"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Julius Randle": -128
+          },
+          "bkey": "downtown|under 1.5 threes|Julius Randle",
+          "result": null,
+          "pl": null
+        },
+        "Load-Bearing Wall": {
+          "legs": [
+            "LaMelo Ball"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "LaMelo Ball": -104
+          },
+          "bkey": "downtown|under 3.5 threes|LaMelo Ball",
+          "result": null,
+          "pl": null
+        },
+        "Mortar Mix": {
+          "legs": [
+            "Jaden McDaniels"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jaden McDaniels": -132
+          },
+          "bkey": "downtown|under 1.5 threes|Jaden McDaniels",
+          "result": null,
+          "pl": null
+        },
+        "Red Clay": {
+          "legs": [
+            "Terrence Shannon Jr."
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Terrence Shannon Jr.": -166
+          },
+          "bkey": "downtown|under 1.5 threes|Terrence Shannon Jr.",
+          "result": null,
+          "pl": null
+        },
+        "The Starter": {
+          "legs": [
+            "Day'Ron Sharpe"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Day'Ron Sharpe": 1300
+          },
+          "bkey": "|first basket|Day'Ron Sharpe",
+          "result": null,
+          "pl": null
+        },
+        "Two Points": {
+          "legs": [
+            "Zach Collins"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Zach Collins": 1000
+          },
+          "bkey": "|first basket|Zach Collins",
+          "result": null,
+          "pl": null
         }
       }
     }
