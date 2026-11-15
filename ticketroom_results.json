@@ -3243,7 +3243,36 @@
           "legs_hit": 0
         }
       },
-      "2026-11-15": {}
+      "2026-11-15": {
+        "Front Rim": {
+          "legs": [
+            "Kelly Oubre Jr."
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Kelly Oubre Jr.": -138
+          },
+          "bkey": "downtown|under 1.5 threes|Kelly Oubre Jr.",
+          "result": null,
+          "pl": null
+        },
+        "Mortar Mix": {
+          "legs": [
+            "Pascal Siakam"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Pascal Siakam": -106
+          },
+          "bkey": "downtown|under 1.5 threes|Pascal Siakam",
+          "result": null,
+          "pl": null
+        }
+      }
     }
   },
   "recap_sent": "2026-11-15",

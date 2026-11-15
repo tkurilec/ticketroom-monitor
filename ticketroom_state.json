@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 16:41:37 GMT",
-    "checked_at": "2026-11-15T16:45:20.404390+00:00"
+    "last_modified": "Sun, 15 Nov 2026 17:36:28 GMT",
+    "checked_at": "2026-11-15T17:40:18.123874+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 16:41:37 GMT",
-    "checked_at": "2026-11-15T16:45:20.781910+00:00"
+    "last_modified": "Sun, 15 Nov 2026 17:36:28 GMT",
+    "checked_at": "2026-11-15T17:40:18.232795+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "3f609ca965296478271c5bc44d2fa32c8c9e16ae902f1980a7b039cb67c12351",
@@ -206,18 +206,59 @@
       "a:Amon-Ra St. Brown"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 16:41:37 GMT",
-    "checked_at": "2026-11-15T16:45:22.702982+00:00"
+    "last_modified": "Sun, 15 Nov 2026 17:36:28 GMT",
+    "checked_at": "2026-11-15T17:40:18.663954+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "0412300747f524cf8147289c2582efa7f01416d6b4b888ea83218790a834fd86",
+    "confirmed": [
+      {
+        "name": "Front Rim",
+        "legs": [
+          "Kelly Oubre Jr."
+        ],
+        "rr": false,
+        "market": "under 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Kelly Oubre Jr.": "Pacers vs 76ers \u00b7 Sun Nov 15 \u00b7 1:00 PM ET"
+        },
+        "odds": {
+          "Kelly Oubre Jr.": -138
+        }
+      },
+      {
+        "name": "Mortar Mix",
+        "legs": [
+          "Pascal Siakam"
+        ],
+        "rr": false,
+        "market": "under 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Pascal Siakam": "Pacers vs 76ers \u00b7 Sun Nov 15 \u00b7 1:00 PM ET"
+        },
+        "odds": {
+          "Pascal Siakam": -106
+        }
+      }
+    ],
+    "announced": {
+      "Front Rim": [
+        "Kelly Oubre Jr."
+      ],
+      "Mortar Mix": [
+        "Pascal Siakam"
+      ]
+    },
+    "abets": [
+      "downtown|under 1.5 threes|Kelly Oubre Jr.",
+      "downtown|under 1.5 threes|Pascal Siakam"
+    ],
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 16:41:37 GMT",
-    "checked_at": "2026-11-15T16:45:22.854614+00:00"
+    "last_modified": "Sun, 15 Nov 2026 17:36:28 GMT",
+    "checked_at": "2026-11-15T17:40:20.332039+00:00"
   }
 }
