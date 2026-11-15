@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 03:36:26 GMT",
-    "checked_at": "2026-11-15T03:46:12.817304+00:00"
+    "last_modified": "Sun, 15 Nov 2026 04:31:24 GMT",
+    "checked_at": "2026-11-15T05:00:21.460550+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 03:36:26 GMT",
-    "checked_at": "2026-11-15T03:46:13.001647+00:00"
+    "last_modified": "Sun, 15 Nov 2026 04:31:24 GMT",
+    "checked_at": "2026-11-15T05:00:21.667479+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -29,253 +29,12 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 03:36:26 GMT",
-    "checked_at": "2026-11-15T03:46:13.329810+00:00"
+    "last_modified": "Sun, 15 Nov 2026 04:31:24 GMT",
+    "checked_at": "2026-11-15T05:00:22.108398+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "9d65d5ca11ce4ae12db2b965206fdaf1b555d1815b86e2606ddace6b7d451871",
-    "confirmed": [
-      {
-        "name": "Back Iron",
-        "legs": [
-          "Duncan Robinson"
-        ],
-        "rr": false,
-        "market": "under 3.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Duncan Robinson": "Pistons vs Heat \u00b7 Sat Nov 14 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Duncan Robinson": -128
-        }
-      },
-      {
-        "name": "Brick by Brick",
-        "legs": [
-          "Julius Randle"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Julius Randle": "Nets vs Grizzlies \u00b7 Sat Nov 14 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Julius Randle": -132
-        }
-      },
-      {
-        "name": "Bricklayer",
-        "legs": [
-          "Nikola Jokic"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Nikola Jokic": "Nuggets vs Pelicans \u00b7 Sat Nov 14 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Nikola Jokic": -140
-        }
-      },
-      {
-        "name": "Building Code",
-        "legs": [
-          "Tyrese Proctor"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Tyrese Proctor": "Cavaliers vs Mavericks \u00b7 Sat Nov 14 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "Tyrese Proctor": -112
-        }
-      },
-      {
-        "name": "Cinder Block",
-        "legs": [
-          "Cade Cunningham"
-        ],
-        "rr": false,
-        "market": "under 2.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Cade Cunningham": "Pistons vs Heat \u00b7 Sat Nov 14 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Cade Cunningham": -138
-        }
-      },
-      {
-        "name": "Early Offense",
-        "legs": [
-          "Thomas Bryant"
-        ],
-        "rr": false,
-        "info": {
-          "Thomas Bryant": "Cavaliers vs Mavericks \u00b7 Sat Nov 14 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "Thomas Bryant": 1000
-        },
-        "units": 0.3,
-        "group": "2"
-      },
-      {
-        "name": "First Touch",
-        "legs": [
-          "Davion Mitchell"
-        ],
-        "rr": false,
-        "info": {
-          "Davion Mitchell": "Heat vs Pistons \u00b7 Sat Nov 14 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Davion Mitchell": 1300
-        },
-        "units": 0.3,
-        "group": "3"
-      },
-      {
-        "name": "Front Rim",
-        "legs": [
-          "Cedric Coward"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Cedric Coward": "Grizzlies vs Nets \u00b7 Sat Nov 14 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Cedric Coward": 122
-        }
-      },
-      {
-        "name": "Ice Breaker",
-        "legs": [
-          "Mario Hezonja"
-        ],
-        "rr": false,
-        "info": {
-          "Mario Hezonja": "Cavaliers vs Mavericks \u00b7 Sat Nov 14 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "Mario Hezonja": 1000
-        },
-        "units": 0.3,
-        "group": "2"
-      },
-      {
-        "name": "Lead the Break",
-        "legs": [
-          "Klay Thompson"
-        ],
-        "rr": false,
-        "info": {
-          "Klay Thompson": "Heat vs Pistons \u00b7 Sat Nov 14 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Klay Thompson": 1000
-        },
-        "units": 0.3,
-        "group": "3"
-      },
-      {
-        "name": "Load-Bearing Wall",
-        "legs": [
-          "LaMelo Ball"
-        ],
-        "rr": false,
-        "market": "under 3.5 threes",
-        "kind": "downtown",
-        "info": {
-          "LaMelo Ball": "Timberwolves vs Bulls \u00b7 Sat Nov 14 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "LaMelo Ball": -104
-        }
-      },
-      {
-        "name": "Mortar Mix",
-        "legs": [
-          "Jaden McDaniels"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Jaden McDaniels": "Timberwolves vs Bulls \u00b7 Sat Nov 14 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Jaden McDaniels": -132
-        }
-      },
-      {
-        "name": "Red Clay",
-        "legs": [
-          "Terrence Shannon Jr."
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Terrence Shannon Jr.": "Timberwolves vs Bulls \u00b7 Sat Nov 14 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Terrence Shannon Jr.": -166
-        }
-      },
-      {
-        "name": "The Starter",
-        "legs": [
-          "Day'Ron Sharpe"
-        ],
-        "rr": false,
-        "info": {
-          "Day'Ron Sharpe": "Nets vs Grizzlies \u00b7 Sat Nov 14 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Day'Ron Sharpe": 1300
-        },
-        "units": 0.6,
-        "group": "5"
-      },
-      {
-        "name": "Two Points",
-        "legs": [
-          "Zach Collins"
-        ],
-        "rr": false,
-        "info": {
-          "Zach Collins": "Bulls vs Timberwolves \u00b7 Sat Nov 14 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Zach Collins": 1000
-        },
-        "units": 0.6,
-        "group": "4"
-      },
-      {
-        "name": "Under Construction",
-        "legs": [
-          "Jaylon Tyson"
-        ],
-        "rr": false,
-        "market": "under 2.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Jaylon Tyson": "Cavaliers vs Mavericks \u00b7 Sat Nov 14 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "Jaylon Tyson": -113
-        }
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Bricklayer": [
         "Nikola Jokic"
@@ -351,7 +110,7 @@
       "dt:Terrence Shannon Jr."
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 03:36:26 GMT",
-    "checked_at": "2026-11-15T03:46:15.388605+00:00"
+    "last_modified": "Sun, 15 Nov 2026 04:31:24 GMT",
+    "checked_at": "2026-11-15T05:00:22.800113+00:00"
   }
 }
