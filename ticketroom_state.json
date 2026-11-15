@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 16:31:18 GMT",
-    "checked_at": "2026-11-15T16:32:12.712534+00:00"
+    "last_modified": "Sun, 15 Nov 2026 16:41:37 GMT",
+    "checked_at": "2026-11-15T16:45:20.404390+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,12 +18,25 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 16:31:18 GMT",
-    "checked_at": "2026-11-15T16:32:12.983353+00:00"
+    "last_modified": "Sun, 15 Nov 2026 16:41:37 GMT",
+    "checked_at": "2026-11-15T16:45:20.781910+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "1e5363f0c3aa7eaeddb0fb8872724fbb53cbd11da68cba574e0b8e5b84c20c00",
+    "hash": "3f609ca965296478271c5bc44d2fa32c8c9e16ae902f1980a7b039cb67c12351",
     "confirmed": [
+      {
+        "name": "Audible",
+        "legs": [
+          "Adonai Mitchell"
+        ],
+        "rr": false,
+        "info": {
+          "Adonai Mitchell": "Jets vs Bills \u00b7 Sun Nov 15 \u00b7 1:00 PM ET"
+        },
+        "odds": {
+          "Adonai Mitchell": 410
+        }
+      },
       {
         "name": "Bell Cow",
         "legs": [
@@ -53,6 +66,45 @@
         "kind": "ftd"
       },
       {
+        "name": "Goal Line Back",
+        "legs": [
+          "Bhayshul Tuten"
+        ],
+        "rr": false,
+        "info": {
+          "Bhayshul Tuten": "Jaguars vs Titans \u00b7 Sun Nov 15 \u00b7 1:00 PM ET"
+        },
+        "odds": {
+          "Bhayshul Tuten": -125
+        }
+      },
+      {
+        "name": "Hurry Up",
+        "legs": [
+          "Dawson Knox"
+        ],
+        "rr": false,
+        "info": {
+          "Dawson Knox": "Bills vs Jets \u00b7 Sun Nov 15 \u00b7 1:00 PM ET"
+        },
+        "odds": {
+          "Dawson Knox": 500
+        }
+      },
+      {
+        "name": "Inside the Ten",
+        "legs": [
+          "Aaron Jones"
+        ],
+        "rr": false,
+        "info": {
+          "Aaron Jones": "Vikings vs Packers \u00b7 Sun Nov 15 \u00b7 1:00 PM ET"
+        },
+        "odds": {
+          "Aaron Jones": 240
+        }
+      },
+      {
         "name": "Short Yardage",
         "legs": [
           "Jonathan Taylor"
@@ -63,6 +115,45 @@
         },
         "odds": {
           "Jonathan Taylor": -110
+        }
+      },
+      {
+        "name": "The Checkdown",
+        "legs": [
+          "Jakobi Meyers"
+        ],
+        "rr": false,
+        "info": {
+          "Jakobi Meyers": "Jaguars vs Titans \u00b7 Sun Nov 15 \u00b7 1:00 PM ET"
+        },
+        "odds": {
+          "Jakobi Meyers": 227
+        }
+      },
+      {
+        "name": "The Workhorse",
+        "legs": [
+          "James Cook"
+        ],
+        "rr": false,
+        "info": {
+          "James Cook": "Bills vs Jets \u00b7 Sun Nov 15 \u00b7 1:00 PM ET"
+        },
+        "odds": {
+          "James Cook": -160
+        }
+      },
+      {
+        "name": "Two Minute Drill",
+        "legs": [
+          "Brian Thomas Jr."
+        ],
+        "rr": false,
+        "info": {
+          "Brian Thomas Jr.": "Jaguars vs Titans \u00b7 Sun Nov 15 \u00b7 1:00 PM ET"
+        },
+        "odds": {
+          "Brian Thomas Jr.": 490
         }
       }
     ],
@@ -75,11 +166,39 @@
       ],
       "Short Yardage": [
         "Jonathan Taylor"
+      ],
+      "Audible": [
+        "Adonai Mitchell"
+      ],
+      "Goal Line Back": [
+        "Bhayshul Tuten"
+      ],
+      "Hurry Up": [
+        "Dawson Knox"
+      ],
+      "Inside the Ten": [
+        "Aaron Jones"
+      ],
+      "The Checkdown": [
+        "Jakobi Meyers"
+      ],
+      "The Workhorse": [
+        "James Cook"
+      ],
+      "Two Minute Drill": [
+        "Brian Thomas Jr."
       ]
     },
     "abets": [
       "ftd|first touchdown scorer|Jonathan Taylor",
+      "|anytime touchdown|Aaron Jones",
+      "|anytime touchdown|Adonai Mitchell",
       "|anytime touchdown|Amon-Ra St. Brown",
+      "|anytime touchdown|Bhayshul Tuten",
+      "|anytime touchdown|Brian Thomas Jr.",
+      "|anytime touchdown|Dawson Knox",
+      "|anytime touchdown|Jakobi Meyers",
+      "|anytime touchdown|James Cook",
       "|anytime touchdown|Jonathan Taylor"
     ],
     "slate": "2026-11-15",
@@ -87,8 +206,8 @@
       "a:Amon-Ra St. Brown"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 16:31:18 GMT",
-    "checked_at": "2026-11-15T16:32:15.343422+00:00"
+    "last_modified": "Sun, 15 Nov 2026 16:41:37 GMT",
+    "checked_at": "2026-11-15T16:45:22.702982+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -98,7 +217,7 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 16:31:18 GMT",
-    "checked_at": "2026-11-15T16:32:15.632379+00:00"
+    "last_modified": "Sun, 15 Nov 2026 16:41:37 GMT",
+    "checked_at": "2026-11-15T16:45:22.854614+00:00"
   }
 }

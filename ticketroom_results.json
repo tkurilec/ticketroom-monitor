@@ -1961,6 +1961,104 @@
           "bkey": "|anytime touchdown|Jonathan Taylor",
           "result": null,
           "pl": null
+        },
+        "Audible": {
+          "legs": [
+            "Adonai Mitchell"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Adonai Mitchell": 410
+          },
+          "bkey": "|anytime touchdown|Adonai Mitchell",
+          "result": null,
+          "pl": null
+        },
+        "Goal Line Back": {
+          "legs": [
+            "Bhayshul Tuten"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Bhayshul Tuten": -125
+          },
+          "bkey": "|anytime touchdown|Bhayshul Tuten",
+          "result": null,
+          "pl": null
+        },
+        "Hurry Up": {
+          "legs": [
+            "Dawson Knox"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Dawson Knox": 500
+          },
+          "bkey": "|anytime touchdown|Dawson Knox",
+          "result": null,
+          "pl": null
+        },
+        "Inside the Ten": {
+          "legs": [
+            "Aaron Jones"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Aaron Jones": 240
+          },
+          "bkey": "|anytime touchdown|Aaron Jones",
+          "result": null,
+          "pl": null
+        },
+        "The Checkdown": {
+          "legs": [
+            "Jakobi Meyers"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jakobi Meyers": 227
+          },
+          "bkey": "|anytime touchdown|Jakobi Meyers",
+          "result": null,
+          "pl": null
+        },
+        "The Workhorse": {
+          "legs": [
+            "James Cook"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "James Cook": -160
+          },
+          "bkey": "|anytime touchdown|James Cook",
+          "result": null,
+          "pl": null
+        },
+        "Two Minute Drill": {
+          "legs": [
+            "Brian Thomas Jr."
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Brian Thomas Jr.": 490
+          },
+          "bkey": "|anytime touchdown|Brian Thomas Jr.",
+          "result": null,
+          "pl": null
         }
       }
     },
