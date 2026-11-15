@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 20:26:56 GMT",
-    "checked_at": "2026-11-15T20:30:18.888567+00:00"
+    "last_modified": "Sun, 15 Nov 2026 20:36:59 GMT",
+    "checked_at": "2026-11-15T20:40:15.991893+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f4686dd2100cbe604bdd4945ddb8af8e668fee7fc42a6a8661995c8aa4e808fc",
@@ -72,8 +72,8 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 20:26:56 GMT",
-    "checked_at": "2026-11-15T20:30:19.449006+00:00"
+    "last_modified": "Sun, 15 Nov 2026 20:36:59 GMT",
+    "checked_at": "2026-11-15T20:40:16.949956+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "4ad7b0a9d26dad97c0808581cf1cab34d096824208b6a380c1686f485af140be",
@@ -329,12 +329,27 @@
       "a:Amon-Ra St. Brown"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 20:26:56 GMT",
-    "checked_at": "2026-11-15T20:30:20.567050+00:00"
+    "last_modified": "Sun, 15 Nov 2026 20:36:59 GMT",
+    "checked_at": "2026-11-15T20:40:17.565121+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "659bc6baf11fba2d264857f82093e8ba31317868a6e13fc50135ac076452f44b",
+    "hash": "343463cbb010a17865893344f48d84827da82b510db9613442b3af4605030707",
     "confirmed": [
+      {
+        "name": "Brick by Brick",
+        "legs": [
+          "Miles Bridges"
+        ],
+        "rr": false,
+        "market": "under 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Miles Bridges": "Suns vs Lakers \u00b7 Sun Nov 15 \u00b7 4:00 PM ET"
+        },
+        "odds": {
+          "Miles Bridges": 100
+        }
+      },
       {
         "name": "Front Rim",
         "legs": [
@@ -351,6 +366,21 @@
         }
       },
       {
+        "name": "Ice Breaker",
+        "legs": [
+          "Oso Ighodaro"
+        ],
+        "rr": false,
+        "info": {
+          "Oso Ighodaro": "Suns vs Lakers \u00b7 Sun Nov 15 \u00b7 4:00 PM ET"
+        },
+        "odds": {
+          "Oso Ighodaro": 1400
+        },
+        "units": 0.6,
+        "group": "2"
+      },
+      {
         "name": "Mortar Mix",
         "legs": [
           "Pascal Siakam"
@@ -364,6 +394,21 @@
         "odds": {
           "Pascal Siakam": -113
         }
+      },
+      {
+        "name": "The Foundation",
+        "legs": [
+          "Luka Doncic"
+        ],
+        "rr": false,
+        "market": "under 4.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Luka Doncic": "Lakers vs Suns \u00b7 Sun Nov 15 \u00b7 4:00 PM ET"
+        },
+        "odds": {
+          "Luka Doncic": -111
+        }
       }
     ],
     "announced": {
@@ -374,13 +419,22 @@
         "Pascal Siakam"
       ],
       "Brick by Brick": [
-        "Kelly Oubre Jr."
+        "Miles Bridges"
+      ],
+      "Ice Breaker": [
+        "Oso Ighodaro"
+      ],
+      "The Foundation": [
+        "Luka Doncic"
       ]
     },
     "abets": [
       "downtown|under 1.5 threes|Kelly Oubre Jr.",
+      "downtown|under 1.5 threes|Miles Bridges",
       "downtown|under 1.5 threes|Pascal Siakam",
-      "downtown|under 2.5 threes|Aaron Nesmith"
+      "downtown|under 2.5 threes|Aaron Nesmith",
+      "downtown|under 4.5 threes|Luka Doncic",
+      "|first basket|Oso Ighodaro"
     ],
     "slate": "2026-11-15",
     "hits": [
@@ -388,7 +442,7 @@
       "dt:Pascal Siakam"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 20:26:56 GMT",
-    "checked_at": "2026-11-15T20:30:21.767237+00:00"
+    "last_modified": "Sun, 15 Nov 2026 20:36:59 GMT",
+    "checked_at": "2026-11-15T20:40:19.505751+00:00"
   }
 }
