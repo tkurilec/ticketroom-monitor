@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 00:36:35 GMT",
-    "checked_at": "2026-11-15T00:40:17.601872+00:00"
+    "last_modified": "Sun, 15 Nov 2026 00:56:47 GMT",
+    "checked_at": "2026-11-15T00:57:19.896494+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a0e3d6ed1b0206c05a2cedc728cc73f28b8502479f6a0982e48d3d1f89b13ac2",
@@ -55,8 +55,8 @@
     "slate": "2026-11-14",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 00:36:35 GMT",
-    "checked_at": "2026-11-15T00:40:17.980685+00:00"
+    "last_modified": "Sun, 15 Nov 2026 00:56:47 GMT",
+    "checked_at": "2026-11-15T00:57:20.320729+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -66,11 +66,11 @@
     "slate": "2026-11-15",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 00:36:35 GMT",
-    "checked_at": "2026-11-15T00:40:18.165764+00:00"
+    "last_modified": "Sun, 15 Nov 2026 00:56:47 GMT",
+    "checked_at": "2026-11-15T00:57:20.493208+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "a03a671d7e58220731bbce9239d0226860333d3054799f6b2c460f97b86bf3be",
+    "hash": "9d65d5ca11ce4ae12db2b965206fdaf1b555d1815b86e2606ddace6b7d451871",
     "confirmed": [
       {
         "name": "Back Iron",
@@ -90,16 +90,16 @@
       {
         "name": "Brick by Brick",
         "legs": [
-          "Cedric Coward"
+          "Julius Randle"
         ],
         "rr": false,
         "market": "under 1.5 threes",
         "kind": "downtown",
         "info": {
-          "Cedric Coward": "Grizzlies vs Nets \u00b7 Sat Nov 14 \u00b7 8:00 PM ET"
+          "Julius Randle": "Nets vs Grizzlies \u00b7 Sat Nov 14 \u00b7 8:00 PM ET"
         },
         "odds": {
-          "Cedric Coward": 122
+          "Julius Randle": -132
         }
       },
       {
@@ -180,16 +180,16 @@
       {
         "name": "Front Rim",
         "legs": [
-          "Julius Randle"
+          "Cedric Coward"
         ],
         "rr": false,
         "market": "under 1.5 threes",
         "kind": "downtown",
         "info": {
-          "Julius Randle": "Nets vs Grizzlies \u00b7 Sat Nov 14 \u00b7 8:00 PM ET"
+          "Cedric Coward": "Grizzlies vs Nets \u00b7 Sat Nov 14 \u00b7 8:00 PM ET"
         },
         "odds": {
-          "Julius Randle": -128
+          "Cedric Coward": 122
         }
       },
       {
@@ -339,13 +339,13 @@
         "Duncan Robinson"
       ],
       "Brick by Brick": [
-        "Cedric Coward"
+        "Julius Randle"
       ],
       "Cinder Block": [
         "Cade Cunningham"
       ],
       "Front Rim": [
-        "Julius Randle"
+        "Cedric Coward"
       ],
       "Load-Bearing Wall": [
         "LaMelo Ball"
@@ -384,7 +384,7 @@
     "slate": "2026-11-14",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 00:36:35 GMT",
-    "checked_at": "2026-11-15T00:40:20.098942+00:00"
+    "last_modified": "Sun, 15 Nov 2026 00:56:47 GMT",
+    "checked_at": "2026-11-15T00:57:20.991240+00:00"
   }
 }
