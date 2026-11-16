@@ -3373,8 +3373,9 @@
             "Pascal Siakam": -113
           },
           "bkey": "downtown|under 1.5 threes|Pascal Siakam",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.8849557522123894,
+          "legs_hit": 1
         },
         "Ice Breaker": {
           "legs": [
@@ -3387,8 +3388,9 @@
             "Oso Ighodaro": 1400
           },
           "bkey": "|first basket|Oso Ighodaro",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "The Foundation": {
           "legs": [
@@ -3401,8 +3403,9 @@
             "Luka Doncic": -111
           },
           "bkey": "downtown|under 4.5 threes|Luka Doncic",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Lead the Break": {
           "legs": [
@@ -3415,8 +3418,9 @@
             "Moussa Diabate": 1400
           },
           "bkey": "|first basket|Moussa Diabate",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Cornerstone": {
           "legs": [
@@ -3429,8 +3433,9 @@
             "Stephon Castle": -108
           },
           "bkey": "downtown|under 1.5 threes|Stephon Castle",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.925925925925926,
+          "legs_hit": 1
         },
         "First Touch": {
           "legs": [
@@ -3443,8 +3448,9 @@
             "Mo Bamba": 1500
           },
           "bkey": "|first basket|Mo Bamba",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Rebar": {
           "legs": [
@@ -3457,8 +3463,9 @@
             "Jalen Brunson": -138
           },
           "bkey": "downtown|under 2.5 threes|Jalen Brunson",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Wet Cement": {
           "legs": [
@@ -3471,8 +3478,9 @@
             "Karl-Anthony Towns": -128
           },
           "bkey": "downtown|under 1.5 threes|Karl-Anthony Towns",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "The Kiln": {
           "legs": [
@@ -3485,8 +3493,9 @@
             "P.J. Washington Jr.": 124
           },
           "bkey": "downtown|under 1.5 threes|P.J. Washington Jr.",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.2400000000000002,
+          "legs_hit": 1
         },
         "Two Points": {
           "legs": [
@@ -3499,8 +3508,9 @@
             "Scottie Barnes": 800
           },
           "bkey": "|first basket|Scottie Barnes",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 4.8,
+          "legs_hit": 1
         },
         "The Starter": {
           "legs": [
@@ -3513,8 +3523,9 @@
             "Anthony Davis": 600
           },
           "bkey": "|first basket|Anthony Davis",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Brick Oven": {
           "legs": [
@@ -3527,8 +3538,9 @@
             "Kevin Durant": -102
           },
           "bkey": "downtown|under 1.5 threes|Kevin Durant",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Trowel Work": {
           "legs": [
@@ -3541,8 +3553,9 @@
             "Tari Eason": -156
           },
           "bkey": "downtown|under 1.5 threes|Tari Eason",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Front Rim (Kelly Oubre Jr.)": {
           "legs": [
@@ -3570,8 +3583,9 @@
             "Aaron Nesmith": -210
           },
           "bkey": "downtown|under 2.5 threes|Aaron Nesmith",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.4761904761904763,
+          "legs_hit": 1
         },
         "Wheelbarrow": {
           "legs": [
@@ -3584,8 +3598,9 @@
             "Cooper Flagg": -146
           },
           "bkey": "downtown|under 1.5 threes|Cooper Flagg",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Brick by Brick": {
           "legs": [
@@ -3598,8 +3613,9 @@
             "Miles Bridges": 100
           },
           "bkey": "downtown|under 1.5 threes|Miles Bridges",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Hard Hat Zone": {
           "legs": [
@@ -3612,8 +3628,9 @@
             "Zaccharie Risacher": -174
           },
           "bkey": "downtown|under 1.5 threes|Zaccharie Risacher",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.5747126436781609,
+          "legs_hit": 1
         },
         "Clay Pit": {
           "legs": [
@@ -3626,8 +3643,9 @@
             "Kyle Kuzma": -115
           },
           "bkey": "downtown|under 1.5 threes|Kyle Kuzma",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Opening Set": {
           "legs": [
@@ -3640,8 +3658,9 @@
             "Myles Turner": 1000
           },
           "bkey": "|first basket|Myles Turner",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Stonewall": {
           "legs": [
@@ -3654,8 +3673,9 @@
             "Tyler Herro": -104
           },
           "bkey": "downtown|under 2.5 threes|Tyler Herro",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.9615384615384617,
+          "legs_hit": 1
         },
         "Breeze Block": {
           "legs": [
@@ -3668,8 +3688,9 @@
             "Nickeil Alexander-Walker": -102
           },
           "bkey": "downtown|under 3.5 threes|Nickeil Alexander-Walker",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.9803921568627452,
+          "legs_hit": 1
         },
         "First Bucket": {
           "legs": [
@@ -3682,8 +3703,9 @@
             "Brayden Burries": 950
           },
           "bkey": "|first basket|Brayden Burries",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "Jump Ball": {
           "legs": [
@@ -3696,8 +3718,9 @@
             "Collin Murray-Boyles": 1100
           },
           "bkey": "|first basket|Collin Murray-Boyles",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "Brick Wall": {
           "legs": [
@@ -3710,8 +3733,9 @@
             "Bennett Stirtz": 172
           },
           "bkey": "downtown|over 1.5 threes|Bennett Stirtz",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "The Masonry": {
           "legs": [
@@ -3724,8 +3748,9 @@
             "Alex Sarr": 220
           },
           "bkey": "downtown|over 1.5 threes|Alex Sarr",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 2.2,
+          "legs_hit": 1
         },
         "Wet Cement (Bogdan Bogdanovic)": {
           "legs": [
@@ -3738,10 +3763,12 @@
             "Bogdan Bogdanovic": -186
           },
           "bkey": "downtown|under 1.5 threes|Bogdan Bogdanovic",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         }
-      }
+      },
+      "2026-11-16": {}
     }
   },
   "recap_sent": "2026-11-15",

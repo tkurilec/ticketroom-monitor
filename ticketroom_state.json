@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 05:22:00 GMT",
-    "checked_at": "2026-11-16T05:22:12.099135+00:00"
+    "last_modified": "Mon, 16 Nov 2026 11:01:48 GMT",
+    "checked_at": "2026-11-16T11:02:12.988019+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-16",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 05:22:00 GMT",
-    "checked_at": "2026-11-16T05:22:12.180602+00:00"
+    "last_modified": "Mon, 16 Nov 2026 11:01:48 GMT",
+    "checked_at": "2026-11-16T11:02:13.200601+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -29,144 +29,18 @@
     "slate": "2026-11-16",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 05:22:00 GMT",
-    "checked_at": "2026-11-16T05:22:12.249933+00:00"
+    "last_modified": "Mon, 16 Nov 2026 11:01:48 GMT",
+    "checked_at": "2026-11-16T11:02:13.915335+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Front Rim": [
-        "Aaron Nesmith"
-      ],
-      "Mortar Mix": [
-        "Pascal Siakam"
-      ],
-      "Brick by Brick": [
-        "Miles Bridges"
-      ],
-      "Ice Breaker": [
-        "Oso Ighodaro"
-      ],
-      "The Foundation": [
-        "Luka Doncic"
-      ],
-      "Lead the Break": [
-        "Brook Lopez"
-      ],
-      "Cornerstone": [
-        "Stephon Castle"
-      ],
-      "First Touch": [
-        "Coby White"
-      ],
-      "Rebar": [
-        "Jalen Brunson"
-      ],
-      "Wet Cement": [
-        "Bogdan Bogdanovic"
-      ],
-      "Hard Hat Zone": [
-        "Zaccharie Risacher"
-      ],
-      "The Kiln": [
-        "P.J. Washington Jr."
-      ],
-      "Two Points": [
-        "Moussa Diabate"
-      ],
-      "Wheelbarrow": [
-        "Cooper Flagg"
-      ],
-      "The Starter": [
-        "Mo Bamba"
-      ],
-      "Brick Oven": [
-        "Kevin Durant"
-      ],
-      "Clay Pit": [
-        "Kyle Kuzma"
-      ],
-      "Stonewall": [
-        "Tyler Herro"
-      ],
-      "Trowel Work": [
-        "Tari Eason"
-      ],
-      "Opening Set": [
-        "Scottie Barnes"
-      ],
-      "Breeze Block": [
-        "Nickeil Alexander-Walker"
-      ],
-      "Center Circle": [
-        "Myles Turner"
-      ],
-      "First Bucket": [
-        "Brayden Burries"
-      ],
-      "Jump Ball": [
-        "Collin Murray-Boyles"
-      ],
-      "Brick Wall": [
-        "Bennett Stirtz"
-      ],
-      "The Masonry": [
-        "Alex Sarr"
-      ],
-      "Blueprint": [
-        "Alex Sarr"
-      ],
-      "Topping Out": [
-        "Bennett Stirtz"
-      ]
-    },
-    "abets": [
-      "downtown|over 1.5 threes|Alex Sarr",
-      "downtown|over 1.5 threes|Bennett Stirtz",
-      "downtown|under 1.5 threes|Bogdan Bogdanovic",
-      "downtown|under 1.5 threes|Cooper Flagg",
-      "downtown|under 1.5 threes|Karl-Anthony Towns",
-      "downtown|under 1.5 threes|Kelly Oubre Jr.",
-      "downtown|under 1.5 threes|Kevin Durant",
-      "downtown|under 1.5 threes|Kyle Kuzma",
-      "downtown|under 1.5 threes|Miles Bridges",
-      "downtown|under 1.5 threes|P.J. Washington Jr.",
-      "downtown|under 1.5 threes|Pascal Siakam",
-      "downtown|under 1.5 threes|Stephon Castle",
-      "downtown|under 1.5 threes|Tari Eason",
-      "downtown|under 1.5 threes|Zaccharie Risacher",
-      "downtown|under 2.5 threes|Aaron Nesmith",
-      "downtown|under 2.5 threes|Jalen Brunson",
-      "downtown|under 2.5 threes|Reed Sheppard",
-      "downtown|under 2.5 threes|Tyler Herro",
-      "downtown|under 3.5 threes|Nickeil Alexander-Walker",
-      "downtown|under 4.5 threes|Luka Doncic",
-      "|first basket|Anthony Davis",
-      "|first basket|Brayden Burries",
-      "|first basket|Brook Lopez",
-      "|first basket|Coby White",
-      "|first basket|Collin Murray-Boyles",
-      "|first basket|Mo Bamba",
-      "|first basket|Moussa Diabate",
-      "|first basket|Myles Turner",
-      "|first basket|Oso Ighodaro",
-      "|first basket|Scottie Barnes"
-    ],
-    "slate": "2026-11-15",
-    "hits": [
-      "a:Scottie Barnes",
-      "dt:Aaron Nesmith",
-      "dt:Alex Sarr",
-      "dt:Nickeil Alexander-Walker",
-      "dt:P.J. Washington Jr.",
-      "dt:Pascal Siakam",
-      "dt:Stephon Castle",
-      "dt:Tyler Herro",
-      "dt:Zaccharie Risacher"
-    ],
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-16",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 05:22:00 GMT",
-    "checked_at": "2026-11-16T05:22:13.164976+00:00"
+    "last_modified": "Mon, 16 Nov 2026 11:01:48 GMT",
+    "checked_at": "2026-11-16T11:02:14.244681+00:00"
   }
 }
