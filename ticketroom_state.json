@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 23:47:04 GMT",
-    "checked_at": "2026-11-15T23:47:14.072551+00:00"
+    "last_modified": "Mon, 16 Nov 2026 00:01:42 GMT",
+    "checked_at": "2026-11-16T00:02:12.667968+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f4686dd2100cbe604bdd4945ddb8af8e668fee7fc42a6a8661995c8aa4e808fc",
@@ -74,11 +74,11 @@
       "a:Bradley Barcola"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 23:47:04 GMT",
-    "checked_at": "2026-11-15T23:47:14.680551+00:00"
+    "last_modified": "Mon, 16 Nov 2026 00:01:42 GMT",
+    "checked_at": "2026-11-16T00:02:13.357149+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "4ad7b0a9d26dad97c0808581cf1cab34d096824208b6a380c1686f485af140be",
+    "hash": "9058932b6fa7d58043dc92b4c5651cf6774fc1d7f73e704d4949cb3985293586",
     "confirmed": [
       {
         "name": "Audible",
@@ -200,6 +200,19 @@
         }
       },
       {
+        "name": "Red Zone Target",
+        "legs": [
+          "Chase Brown"
+        ],
+        "rr": false,
+        "info": {
+          "Chase Brown": "Bengals vs Steelers \u00b7 Sun Nov 15 \u00b7 8:20 PM ET"
+        },
+        "odds": {
+          "Chase Brown": -105
+        }
+      },
+      {
         "name": "Short Yardage",
         "legs": [
           "Jonathan Taylor"
@@ -307,6 +320,9 @@
       ],
       "Move the Chains": [
         "Keenan Allen"
+      ],
+      "Red Zone Target": [
+        "Chase Brown"
       ]
     },
     "abets": [
@@ -316,6 +332,7 @@
       "|anytime touchdown|Amon-Ra St. Brown",
       "|anytime touchdown|Bhayshul Tuten",
       "|anytime touchdown|Brian Thomas Jr.",
+      "|anytime touchdown|Chase Brown",
       "|anytime touchdown|Dawson Knox",
       "|anytime touchdown|Jakobi Meyers",
       "|anytime touchdown|James Cook",
@@ -334,8 +351,8 @@
       "a:Kaelon Black"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 23:47:04 GMT",
-    "checked_at": "2026-11-15T23:47:15.979814+00:00"
+    "last_modified": "Mon, 16 Nov 2026 00:01:42 GMT",
+    "checked_at": "2026-11-16T00:02:16.305938+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "12c18a767f6405d29ca807fada9782aa48f0d4d49fb20a4cacf83980fadcbeec",
@@ -684,7 +701,7 @@
       "dt:Pascal Siakam"
     ],
     "ltd": null,
-    "last_modified": "Sun, 15 Nov 2026 23:47:04 GMT",
-    "checked_at": "2026-11-15T23:47:17.188880+00:00"
+    "last_modified": "Mon, 16 Nov 2026 00:01:42 GMT",
+    "checked_at": "2026-11-16T00:02:17.407115+00:00"
   }
 }

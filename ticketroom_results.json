@@ -2144,6 +2144,20 @@
           "bkey": "|anytime touchdown|Keenan Allen",
           "result": null,
           "pl": null
+        },
+        "Red Zone Target": {
+          "legs": [
+            "Chase Brown"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Chase Brown": -105
+          },
+          "bkey": "|anytime touchdown|Chase Brown",
+          "result": null,
+          "pl": null
         }
       }
     },
