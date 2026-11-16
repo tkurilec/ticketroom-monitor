@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 03:03:52 GMT",
-    "checked_at": "2026-11-16T03:26:12.362414+00:00"
+    "last_modified": "Mon, 16 Nov 2026 03:50:03 GMT",
+    "checked_at": "2026-11-16T03:50:15.512363+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-16",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 03:03:52 GMT",
-    "checked_at": "2026-11-16T03:26:12.503243+00:00"
+    "last_modified": "Mon, 16 Nov 2026 03:50:03 GMT",
+    "checked_at": "2026-11-16T03:50:15.627622+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "9058932b6fa7d58043dc92b4c5651cf6774fc1d7f73e704d4949cb3985293586",
@@ -296,25 +296,25 @@
       "a:Kaelon Black"
     ],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 03:03:52 GMT",
-    "checked_at": "2026-11-16T03:26:15.742250+00:00"
+    "last_modified": "Mon, 16 Nov 2026 03:50:03 GMT",
+    "checked_at": "2026-11-16T03:50:17.178672+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "b03040e53abb231f48d2f7b9f32b2a64db3afc199b12696f1da3a9a9f0e44bc9",
+    "hash": "0568092f19055d4719b9d048bc6beb89fb99e8f40eabf412422b8f523f5c0dc0",
     "confirmed": [
       {
-        "name": "Brick Wall",
+        "name": "Blueprint",
         "legs": [
-          "Bennett Stirtz"
+          "Alex Sarr"
         ],
         "rr": false,
         "market": "over 1.5 threes",
         "kind": "downtown",
         "info": {
-          "Bennett Stirtz": "Thunder vs Kings \u00b7 Sun Nov 15 \u00b7 9:00 PM ET"
+          "Alex Sarr": "Wizards vs Rockets \u00b7 Sun Nov 15 \u00b7 7:00 PM ET"
         },
         "odds": {
-          "Bennett Stirtz": 172
+          "Alex Sarr": 220
         }
       },
       {
@@ -423,21 +423,6 @@
         "group": "5"
       },
       {
-        "name": "The Masonry",
-        "legs": [
-          "Alex Sarr"
-        ],
-        "rr": false,
-        "market": "over 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Alex Sarr": "Wizards vs Rockets \u00b7 Sun Nov 15 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Alex Sarr": 220
-        }
-      },
-      {
         "name": "The Starter",
         "legs": [
           "Mo Bamba"
@@ -451,6 +436,21 @@
         },
         "units": 0.6,
         "group": "4"
+      },
+      {
+        "name": "Topping Out",
+        "legs": [
+          "Bennett Stirtz"
+        ],
+        "rr": false,
+        "market": "over 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Bennett Stirtz": "Thunder vs Kings \u00b7 Sun Nov 15 \u00b7 9:00 PM ET"
+        },
+        "odds": {
+          "Bennett Stirtz": 172
+        }
       },
       {
         "name": "Two Points",
@@ -561,6 +561,12 @@
       ],
       "The Masonry": [
         "Alex Sarr"
+      ],
+      "Blueprint": [
+        "Alex Sarr"
+      ],
+      "Topping Out": [
+        "Bennett Stirtz"
       ]
     },
     "abets": [
@@ -608,7 +614,7 @@
       "dt:Zaccharie Risacher"
     ],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 03:03:52 GMT",
-    "checked_at": "2026-11-16T03:26:18.948018+00:00"
+    "last_modified": "Mon, 16 Nov 2026 03:50:03 GMT",
+    "checked_at": "2026-11-16T03:50:18.924489+00:00"
   }
 }
