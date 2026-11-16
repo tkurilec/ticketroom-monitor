@@ -3682,6 +3682,20 @@
           "bkey": "|first basket|Collin Murray-Boyles",
           "result": null,
           "pl": null
+        },
+        "Brick Wall": {
+          "legs": [
+            "Bennett Stirtz"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Bennett Stirtz": 172
+          },
+          "bkey": "downtown|over 1.5 threes|Bennett Stirtz",
+          "result": null,
+          "pl": null
         }
       }
     }

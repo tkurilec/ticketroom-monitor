@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 01:42:13 GMT",
-    "checked_at": "2026-11-16T01:45:18.125202+00:00"
+    "last_modified": "Mon, 16 Nov 2026 01:52:47 GMT",
+    "checked_at": "2026-11-16T01:53:19.640297+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-16",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 01:42:13 GMT",
-    "checked_at": "2026-11-16T01:45:18.400284+00:00"
+    "last_modified": "Mon, 16 Nov 2026 01:52:47 GMT",
+    "checked_at": "2026-11-16T01:53:19.774682+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "9058932b6fa7d58043dc92b4c5651cf6774fc1d7f73e704d4949cb3985293586",
@@ -295,11 +295,11 @@
       "a:Kaelon Black"
     ],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 01:42:13 GMT",
-    "checked_at": "2026-11-16T01:45:26.852539+00:00"
+    "last_modified": "Mon, 16 Nov 2026 01:52:47 GMT",
+    "checked_at": "2026-11-16T01:53:20.400733+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "4d8028c2a82f889df90e04c6c6345428f5feb7b3a7afe2b526ff8d866241823a",
+    "hash": "0c589a6ec5943c20d65a7c6cf5dda41057f362ea706d912378fdeb85051ccce1",
     "confirmed": [
       {
         "name": "Breeze Block",
@@ -329,6 +329,21 @@
         },
         "odds": {
           "Kevin Durant": -102
+        }
+      },
+      {
+        "name": "Brick Wall",
+        "legs": [
+          "Bennett Stirtz"
+        ],
+        "rr": false,
+        "market": "over 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Bennett Stirtz": "Thunder vs Kings \u00b7 Sun Nov 15 \u00b7 9:00 PM ET"
+        },
+        "odds": {
+          "Bennett Stirtz": 172
         }
       },
       {
@@ -734,9 +749,13 @@
       ],
       "Jump Ball": [
         "Collin Murray-Boyles"
+      ],
+      "Brick Wall": [
+        "Bennett Stirtz"
       ]
     },
     "abets": [
+      "downtown|over 1.5 threes|Bennett Stirtz",
       "downtown|under 1.5 threes|Bogdan Bogdanovic",
       "downtown|under 1.5 threes|Cooper Flagg",
       "downtown|under 1.5 threes|Karl-Anthony Towns",
@@ -776,7 +795,7 @@
       "dt:Zaccharie Risacher"
     ],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 01:45:18 GMT",
-    "checked_at": "2026-11-16T01:45:30.309009+00:00"
+    "last_modified": "Mon, 16 Nov 2026 01:52:47 GMT",
+    "checked_at": "2026-11-16T01:53:25.611657+00:00"
   }
 }
