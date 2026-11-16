@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 01:00:46 GMT",
-    "checked_at": "2026-11-16T01:01:14.800962+00:00"
+    "last_modified": "Mon, 16 Nov 2026 01:06:52 GMT",
+    "checked_at": "2026-11-16T01:09:13.678371+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f4686dd2100cbe604bdd4945ddb8af8e668fee7fc42a6a8661995c8aa4e808fc",
@@ -74,8 +74,8 @@
       "a:Bradley Barcola"
     ],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 01:00:46 GMT",
-    "checked_at": "2026-11-16T01:01:15.424088+00:00"
+    "last_modified": "Mon, 16 Nov 2026 01:06:52 GMT",
+    "checked_at": "2026-11-16T01:09:14.598153+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "9058932b6fa7d58043dc92b4c5651cf6774fc1d7f73e704d4949cb3985293586",
@@ -351,8 +351,8 @@
       "a:Kaelon Black"
     ],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 01:00:46 GMT",
-    "checked_at": "2026-11-16T01:01:16.216649+00:00"
+    "last_modified": "Mon, 16 Nov 2026 01:06:52 GMT",
+    "checked_at": "2026-11-16T01:09:15.633960+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "adbdf5259c874238d1a35d519a0057e0e89849770bdecd6f8b21fded873c8378",
@@ -754,11 +754,13 @@
     "hits": [
       "a:Scottie Barnes",
       "dt:Aaron Nesmith",
+      "dt:P.J. Washington Jr.",
       "dt:Pascal Siakam",
-      "dt:Stephon Castle"
+      "dt:Stephon Castle",
+      "dt:Zaccharie Risacher"
     ],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 01:00:46 GMT",
-    "checked_at": "2026-11-16T01:01:18.935845+00:00"
+    "last_modified": "Mon, 16 Nov 2026 01:06:52 GMT",
+    "checked_at": "2026-11-16T01:09:17.428438+00:00"
   }
 }
