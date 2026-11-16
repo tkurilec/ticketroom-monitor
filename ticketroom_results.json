@@ -916,8 +916,9 @@
             "Kylian Mbappe": -240
           },
           "bkey": "|anytime goalscorer|Kylian Mbappe",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -2,
+          "legs_hit": 0
         },
         "The Poacher": {
           "legs": [
@@ -930,10 +931,12 @@
             "Bradley Barcola": 115
           },
           "bkey": "|anytime goalscorer|Bradley Barcola",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.15,
+          "legs_hit": 1
         }
-      }
+      },
+      "2026-11-16": {}
     },
     "NFL Board": {
       "2026-11-02": {
