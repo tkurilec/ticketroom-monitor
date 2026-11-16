@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 01:21:59 GMT",
-    "checked_at": "2026-11-16T01:22:12.918642+00:00"
+    "last_modified": "Mon, 16 Nov 2026 01:42:13 GMT",
+    "checked_at": "2026-11-16T01:45:18.125202+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-16",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 01:21:59 GMT",
-    "checked_at": "2026-11-16T01:22:13.190286+00:00"
+    "last_modified": "Mon, 16 Nov 2026 01:42:13 GMT",
+    "checked_at": "2026-11-16T01:45:18.400284+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "9058932b6fa7d58043dc92b4c5651cf6774fc1d7f73e704d4949cb3985293586",
@@ -295,11 +295,11 @@
       "a:Kaelon Black"
     ],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 01:21:59 GMT",
-    "checked_at": "2026-11-16T01:22:15.142384+00:00"
+    "last_modified": "Mon, 16 Nov 2026 01:42:13 GMT",
+    "checked_at": "2026-11-16T01:45:26.852539+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "adbdf5259c874238d1a35d519a0057e0e89849770bdecd6f8b21fded873c8378",
+    "hash": "4d8028c2a82f889df90e04c6c6345428f5feb7b3a7afe2b526ff8d866241823a",
     "confirmed": [
       {
         "name": "Breeze Block",
@@ -347,6 +347,21 @@
         }
       },
       {
+        "name": "Center Circle",
+        "legs": [
+          "Myles Turner"
+        ],
+        "rr": false,
+        "info": {
+          "Myles Turner": "Bucks vs Hawks \u00b7 Sun Nov 15 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Myles Turner": 900
+        },
+        "units": 0.3,
+        "group": "8"
+      },
+      {
         "name": "Clay Pit",
         "legs": [
           "Kyle Kuzma"
@@ -377,19 +392,34 @@
         }
       },
       {
-        "name": "First Touch",
+        "name": "First Bucket",
         "legs": [
-          "Scottie Barnes"
+          "Brayden Burries"
         ],
         "rr": false,
         "info": {
-          "Scottie Barnes": "Raptors vs Knicks \u00b7 Sun Nov 15 \u00b7 6:00 PM ET"
+          "Brayden Burries": "Bucks vs Hawks \u00b7 Sun Nov 15 \u00b7 8:00 PM ET"
         },
         "odds": {
-          "Scottie Barnes": 800
+          "Brayden Burries": 950
         },
         "units": 0.3,
-        "group": "5"
+        "group": "8"
+      },
+      {
+        "name": "First Touch",
+        "legs": [
+          "Coby White"
+        ],
+        "rr": false,
+        "info": {
+          "Coby White": "Hornets vs Clippers \u00b7 Sun Nov 15 \u00b7 4:30 PM ET"
+        },
+        "odds": {
+          "Coby White": 1200
+        },
+        "units": 0.2,
+        "group": "3"
       },
       {
         "name": "Front Rim",
@@ -437,19 +467,34 @@
         "group": "2"
       },
       {
-        "name": "Lead the Break",
+        "name": "Jump Ball",
         "legs": [
-          "Mo Bamba"
+          "Collin Murray-Boyles"
         ],
         "rr": false,
         "info": {
-          "Mo Bamba": "Jazz vs Spurs \u00b7 Sun Nov 15 \u00b7 5:00 PM ET"
+          "Collin Murray-Boyles": "Raptors vs Knicks \u00b7 Sun Nov 15 \u00b7 6:00 PM ET"
         },
         "odds": {
-          "Mo Bamba": 1400
+          "Collin Murray-Boyles": 1100
         },
-        "units": 0.6,
-        "group": "4"
+        "units": 0.3,
+        "group": "5"
+      },
+      {
+        "name": "Lead the Break",
+        "legs": [
+          "Brook Lopez"
+        ],
+        "rr": false,
+        "info": {
+          "Brook Lopez": "Clippers vs Hornets \u00b7 Sun Nov 15 \u00b7 4:30 PM ET"
+        },
+        "odds": {
+          "Brook Lopez": 650
+        },
+        "units": 0.3,
+        "group": "3"
       },
       {
         "name": "Mortar Mix",
@@ -465,6 +510,21 @@
         "odds": {
           "Pascal Siakam": -113
         }
+      },
+      {
+        "name": "Opening Set",
+        "legs": [
+          "Scottie Barnes"
+        ],
+        "rr": false,
+        "info": {
+          "Scottie Barnes": "Raptors vs Knicks \u00b7 Sun Nov 15 \u00b7 6:00 PM ET"
+        },
+        "odds": {
+          "Scottie Barnes": 800
+        },
+        "units": 0.3,
+        "group": "5"
       },
       {
         "name": "Rebar",
@@ -529,17 +589,17 @@
       {
         "name": "The Starter",
         "legs": [
-          "Myles Turner"
+          "Mo Bamba"
         ],
         "rr": false,
         "info": {
-          "Myles Turner": "Bucks vs Hawks \u00b7 Sun Nov 15 \u00b7 8:00 PM ET"
+          "Mo Bamba": "Jazz vs Spurs \u00b7 Sun Nov 15 \u00b7 5:00 PM ET"
         },
         "odds": {
-          "Myles Turner": 1000
+          "Mo Bamba": 1500
         },
         "units": 0.6,
-        "group": "8"
+        "group": "4"
       },
       {
         "name": "Trowel Work",
@@ -559,17 +619,17 @@
       {
         "name": "Two Points",
         "legs": [
-          "Collin Murray-Boyles"
+          "Moussa Diabate"
         ],
         "rr": false,
         "info": {
-          "Collin Murray-Boyles": "Raptors vs Knicks \u00b7 Sun Nov 15 \u00b7 6:00 PM ET"
+          "Moussa Diabate": "Hornets vs Clippers \u00b7 Sun Nov 15 \u00b7 4:30 PM ET"
         },
         "odds": {
-          "Collin Murray-Boyles": 1100
+          "Moussa Diabate": 1300
         },
-        "units": 0.3,
-        "group": "5"
+        "units": 0.2,
+        "group": "3"
       },
       {
         "name": "Wet Cement",
@@ -619,13 +679,13 @@
         "Luka Doncic"
       ],
       "Lead the Break": [
-        "Mo Bamba"
+        "Brook Lopez"
       ],
       "Cornerstone": [
         "Stephon Castle"
       ],
       "First Touch": [
-        "Scottie Barnes"
+        "Coby White"
       ],
       "Rebar": [
         "Jalen Brunson"
@@ -640,13 +700,13 @@
         "P.J. Washington Jr."
       ],
       "Two Points": [
-        "Collin Murray-Boyles"
+        "Moussa Diabate"
       ],
       "Wheelbarrow": [
         "Cooper Flagg"
       ],
       "The Starter": [
-        "Myles Turner"
+        "Mo Bamba"
       ],
       "Brick Oven": [
         "Kevin Durant"
@@ -661,10 +721,19 @@
         "Tari Eason"
       ],
       "Opening Set": [
-        "Myles Turner"
+        "Scottie Barnes"
       ],
       "Breeze Block": [
         "Nickeil Alexander-Walker"
+      ],
+      "Center Circle": [
+        "Myles Turner"
+      ],
+      "First Bucket": [
+        "Brayden Burries"
+      ],
+      "Jump Ball": [
+        "Collin Murray-Boyles"
       ]
     },
     "abets": [
@@ -687,6 +756,9 @@
       "downtown|under 3.5 threes|Nickeil Alexander-Walker",
       "downtown|under 4.5 threes|Luka Doncic",
       "|first basket|Anthony Davis",
+      "|first basket|Brayden Burries",
+      "|first basket|Brook Lopez",
+      "|first basket|Coby White",
       "|first basket|Collin Murray-Boyles",
       "|first basket|Mo Bamba",
       "|first basket|Moussa Diabate",
@@ -704,7 +776,7 @@
       "dt:Zaccharie Risacher"
     ],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 01:21:59 GMT",
-    "checked_at": "2026-11-16T01:22:17.666441+00:00"
+    "last_modified": "Mon, 16 Nov 2026 01:45:18 GMT",
+    "checked_at": "2026-11-16T01:45:30.309009+00:00"
   }
 }

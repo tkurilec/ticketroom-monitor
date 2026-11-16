@@ -3654,6 +3654,34 @@
           "bkey": "downtown|under 3.5 threes|Nickeil Alexander-Walker",
           "result": null,
           "pl": null
+        },
+        "First Bucket": {
+          "legs": [
+            "Brayden Burries"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Brayden Burries": 950
+          },
+          "bkey": "|first basket|Brayden Burries",
+          "result": null,
+          "pl": null
+        },
+        "Jump Ball": {
+          "legs": [
+            "Collin Murray-Boyles"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Collin Murray-Boyles": 1100
+          },
+          "bkey": "|first basket|Collin Murray-Boyles",
+          "result": null,
+          "pl": null
         }
       }
     }
