@@ -3595,6 +3595,48 @@
           "bkey": "downtown|under 1.5 threes|Zaccharie Risacher",
           "result": null,
           "pl": null
+        },
+        "Clay Pit": {
+          "legs": [
+            "Kyle Kuzma"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Kyle Kuzma": -115
+          },
+          "bkey": "downtown|under 1.5 threes|Kyle Kuzma",
+          "result": null,
+          "pl": null
+        },
+        "Opening Set": {
+          "legs": [
+            "Myles Turner"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Myles Turner": 1000
+          },
+          "bkey": "|first basket|Myles Turner",
+          "result": null,
+          "pl": null
+        },
+        "Stonewall": {
+          "legs": [
+            "Tyler Herro"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Tyler Herro": -104
+          },
+          "bkey": "downtown|under 2.5 threes|Tyler Herro",
+          "result": null,
+          "pl": null
         }
       }
     }

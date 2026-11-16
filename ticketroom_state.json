@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 00:21:27 GMT",
-    "checked_at": "2026-11-16T00:22:12.303519+00:00"
+    "last_modified": "Mon, 16 Nov 2026 00:37:03 GMT",
+    "checked_at": "2026-11-16T00:37:12.769593+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f4686dd2100cbe604bdd4945ddb8af8e668fee7fc42a6a8661995c8aa4e808fc",
@@ -74,8 +74,8 @@
       "a:Bradley Barcola"
     ],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 00:21:27 GMT",
-    "checked_at": "2026-11-16T00:22:13.269883+00:00"
+    "last_modified": "Mon, 16 Nov 2026 00:37:03 GMT",
+    "checked_at": "2026-11-16T00:37:14.061049+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "9058932b6fa7d58043dc92b4c5651cf6774fc1d7f73e704d4949cb3985293586",
@@ -351,11 +351,11 @@
       "a:Kaelon Black"
     ],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 00:21:27 GMT",
-    "checked_at": "2026-11-16T00:22:15.790548+00:00"
+    "last_modified": "Mon, 16 Nov 2026 00:37:03 GMT",
+    "checked_at": "2026-11-16T00:37:15.785747+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "12c18a767f6405d29ca807fada9782aa48f0d4d49fb20a4cacf83980fadcbeec",
+    "hash": "51ada1684ee3974ee21eb98058e9ef5027aa618aa02f3756a9490f1fb1633f74",
     "confirmed": [
       {
         "name": "Brick Oven",
@@ -385,6 +385,21 @@
         },
         "odds": {
           "Miles Bridges": 100
+        }
+      },
+      {
+        "name": "Clay Pit",
+        "legs": [
+          "Kyle Kuzma"
+        ],
+        "rr": false,
+        "market": "under 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Kyle Kuzma": "Bucks vs Hawks \u00b7 Sun Nov 15 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Kyle Kuzma": -115
         }
       },
       {
@@ -493,6 +508,21 @@
         }
       },
       {
+        "name": "Opening Set",
+        "legs": [
+          "Myles Turner"
+        ],
+        "rr": false,
+        "info": {
+          "Myles Turner": "Bucks vs Hawks \u00b7 Sun Nov 15 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Myles Turner": 1000
+        },
+        "units": 0.6,
+        "group": "8"
+      },
+      {
         "name": "Rebar",
         "legs": [
           "Jalen Brunson"
@@ -505,6 +535,21 @@
         },
         "odds": {
           "Jalen Brunson": -138
+        }
+      },
+      {
+        "name": "Stonewall",
+        "legs": [
+          "Tyler Herro"
+        ],
+        "rr": false,
+        "market": "under 2.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Tyler Herro": "Bucks vs Hawks \u00b7 Sun Nov 15 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Tyler Herro": -104
         }
       },
       {
@@ -663,13 +708,16 @@
         "Kevin Durant"
       ],
       "Clay Pit": [
-        "Kevin Durant"
+        "Kyle Kuzma"
       ],
       "Stonewall": [
-        "Tari Eason"
+        "Tyler Herro"
       ],
       "Trowel Work": [
         "Tari Eason"
+      ],
+      "Opening Set": [
+        "Myles Turner"
       ]
     },
     "abets": [
@@ -678,6 +726,7 @@
       "downtown|under 1.5 threes|Karl-Anthony Towns",
       "downtown|under 1.5 threes|Kelly Oubre Jr.",
       "downtown|under 1.5 threes|Kevin Durant",
+      "downtown|under 1.5 threes|Kyle Kuzma",
       "downtown|under 1.5 threes|Miles Bridges",
       "downtown|under 1.5 threes|P.J. Washington Jr.",
       "downtown|under 1.5 threes|Pascal Siakam",
@@ -687,10 +736,12 @@
       "downtown|under 2.5 threes|Aaron Nesmith",
       "downtown|under 2.5 threes|Jalen Brunson",
       "downtown|under 2.5 threes|Reed Sheppard",
+      "downtown|under 2.5 threes|Tyler Herro",
       "downtown|under 4.5 threes|Luka Doncic",
       "|first basket|Anthony Davis",
       "|first basket|Mo Bamba",
       "|first basket|Moussa Diabate",
+      "|first basket|Myles Turner",
       "|first basket|Oso Ighodaro",
       "|first basket|Scottie Barnes"
     ],
@@ -702,7 +753,7 @@
       "dt:Stephon Castle"
     ],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 00:21:27 GMT",
-    "checked_at": "2026-11-16T00:22:18.493049+00:00"
+    "last_modified": "Mon, 16 Nov 2026 00:37:03 GMT",
+    "checked_at": "2026-11-16T00:37:19.507306+00:00"
   }
 }
