@@ -931,10 +931,10 @@
       "Bradley Barcola": 115
      },
      "bkey": "|anytime goalscorer|Bradley Barcola",
-     "result": "lost",
-     "pl": -1.0,
+     "result": "won",
+     "pl": 1.15,
      "legs_hit": 1,
-     "note": "site counter credited Barcola for France's 49' own goal (Topcu OG); ESPN shows no Barcola goal - corrected to loss"
+     "note": "Barcola subbed off; Kroupi (his sub) scored 80' - book counts the sub as the same player, ticket cashes"
     }
    },
    "2026-11-16": {}
@@ -3853,10 +3853,10 @@
     "unk": 0
    },
    "2026-11-15": {
-    "w": 0,
-    "l": 2,
+    "w": 1,
+    "l": 1,
     "v": 0,
-    "pl": -3.0,
+    "pl": -0.85,
     "unk": 0
    }
   },
