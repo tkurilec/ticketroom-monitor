@@ -3696,6 +3696,34 @@
           "bkey": "downtown|over 1.5 threes|Bennett Stirtz",
           "result": null,
           "pl": null
+        },
+        "The Masonry": {
+          "legs": [
+            "Alex Sarr"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Alex Sarr": 220
+          },
+          "bkey": "downtown|over 1.5 threes|Alex Sarr",
+          "result": null,
+          "pl": null
+        },
+        "Wet Cement (Bogdan Bogdanovic)": {
+          "legs": [
+            "Bogdan Bogdanovic"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Bogdan Bogdanovic": -186
+          },
+          "bkey": "downtown|under 1.5 threes|Bogdan Bogdanovic",
+          "result": null,
+          "pl": null
         }
       }
     }

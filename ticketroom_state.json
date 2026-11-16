@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 02:12:02 GMT",
-    "checked_at": "2026-11-16T02:26:14.654862+00:00"
+    "last_modified": "Mon, 16 Nov 2026 03:03:52 GMT",
+    "checked_at": "2026-11-16T03:04:28.454562+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-16",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 02:12:02 GMT",
-    "checked_at": "2026-11-16T02:26:14.962120+00:00"
+    "last_modified": "Mon, 16 Nov 2026 03:03:52 GMT",
+    "checked_at": "2026-11-16T03:04:28.725028+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "9058932b6fa7d58043dc92b4c5651cf6774fc1d7f73e704d4949cb3985293586",
@@ -296,42 +296,12 @@
       "a:Kaelon Black"
     ],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 02:12:02 GMT",
-    "checked_at": "2026-11-16T02:26:17.624890+00:00"
+    "last_modified": "Mon, 16 Nov 2026 03:03:52 GMT",
+    "checked_at": "2026-11-16T03:04:29.892889+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "0c589a6ec5943c20d65a7c6cf5dda41057f362ea706d912378fdeb85051ccce1",
+    "hash": "b03040e53abb231f48d2f7b9f32b2a64db3afc199b12696f1da3a9a9f0e44bc9",
     "confirmed": [
-      {
-        "name": "Breeze Block",
-        "legs": [
-          "Nickeil Alexander-Walker"
-        ],
-        "rr": false,
-        "market": "under 3.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Nickeil Alexander-Walker": "Hawks vs Bucks \u00b7 Sun Nov 15 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Nickeil Alexander-Walker": -102
-        }
-      },
-      {
-        "name": "Brick Oven",
-        "legs": [
-          "Kevin Durant"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Kevin Durant": "Rockets vs Wizards \u00b7 Sun Nov 15 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Kevin Durant": -102
-        }
-      },
       {
         "name": "Brick Wall",
         "legs": [
@@ -348,21 +318,6 @@
         }
       },
       {
-        "name": "Brick by Brick",
-        "legs": [
-          "Miles Bridges"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Miles Bridges": "Suns vs Lakers \u00b7 Sun Nov 15 \u00b7 4:00 PM ET"
-        },
-        "odds": {
-          "Miles Bridges": 100
-        }
-      },
-      {
         "name": "Center Circle",
         "legs": [
           "Myles Turner"
@@ -376,36 +331,6 @@
         },
         "units": 0.3,
         "group": "8"
-      },
-      {
-        "name": "Clay Pit",
-        "legs": [
-          "Kyle Kuzma"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Kyle Kuzma": "Bucks vs Hawks \u00b7 Sun Nov 15 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Kyle Kuzma": -115
-        }
-      },
-      {
-        "name": "Cornerstone",
-        "legs": [
-          "Stephon Castle"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Stephon Castle": "Spurs vs Jazz \u00b7 Sun Nov 15 \u00b7 5:00 PM ET"
-        },
-        "odds": {
-          "Stephon Castle": -108
-        }
       },
       {
         "name": "First Bucket",
@@ -436,36 +361,6 @@
         },
         "units": 0.2,
         "group": "3"
-      },
-      {
-        "name": "Front Rim",
-        "legs": [
-          "Aaron Nesmith"
-        ],
-        "rr": false,
-        "market": "under 2.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Aaron Nesmith": "Pacers vs 76ers \u00b7 Sun Nov 15 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "Aaron Nesmith": -210
-        }
-      },
-      {
-        "name": "Hard Hat Zone",
-        "legs": [
-          "Zaccharie Risacher"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Zaccharie Risacher": "Mavericks vs Celtics \u00b7 Sun Nov 15 \u00b7 6:00 PM ET"
-        },
-        "odds": {
-          "Zaccharie Risacher": -174
-        }
       },
       {
         "name": "Ice Breaker",
@@ -513,21 +408,6 @@
         "group": "3"
       },
       {
-        "name": "Mortar Mix",
-        "legs": [
-          "Pascal Siakam"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Pascal Siakam": "Pacers vs 76ers \u00b7 Sun Nov 15 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "Pascal Siakam": -113
-        }
-      },
-      {
         "name": "Opening Set",
         "legs": [
           "Scottie Barnes"
@@ -543,63 +423,18 @@
         "group": "5"
       },
       {
-        "name": "Rebar",
+        "name": "The Masonry",
         "legs": [
-          "Jalen Brunson"
+          "Alex Sarr"
         ],
         "rr": false,
-        "market": "under 2.5 threes",
+        "market": "over 1.5 threes",
         "kind": "downtown",
         "info": {
-          "Jalen Brunson": "Knicks vs Raptors \u00b7 Sun Nov 15 \u00b7 6:00 PM ET"
+          "Alex Sarr": "Wizards vs Rockets \u00b7 Sun Nov 15 \u00b7 7:00 PM ET"
         },
         "odds": {
-          "Jalen Brunson": -138
-        }
-      },
-      {
-        "name": "Stonewall",
-        "legs": [
-          "Tyler Herro"
-        ],
-        "rr": false,
-        "market": "under 2.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Tyler Herro": "Bucks vs Hawks \u00b7 Sun Nov 15 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Tyler Herro": -104
-        }
-      },
-      {
-        "name": "The Foundation",
-        "legs": [
-          "Luka Doncic"
-        ],
-        "rr": false,
-        "market": "under 4.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Luka Doncic": "Lakers vs Suns \u00b7 Sun Nov 15 \u00b7 4:00 PM ET"
-        },
-        "odds": {
-          "Luka Doncic": -111
-        }
-      },
-      {
-        "name": "The Kiln",
-        "legs": [
-          "P.J. Washington Jr."
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "P.J. Washington Jr.": "Mavericks vs Celtics \u00b7 Sun Nov 15 \u00b7 6:00 PM ET"
-        },
-        "odds": {
-          "P.J. Washington Jr.": 124
+          "Alex Sarr": 220
         }
       },
       {
@@ -616,21 +451,6 @@
         },
         "units": 0.6,
         "group": "4"
-      },
-      {
-        "name": "Trowel Work",
-        "legs": [
-          "Tari Eason"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Tari Eason": "Rockets vs Wizards \u00b7 Sun Nov 15 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Tari Eason": -156
-        }
       },
       {
         "name": "Two Points",
@@ -650,31 +470,16 @@
       {
         "name": "Wet Cement",
         "legs": [
-          "Karl-Anthony Towns"
+          "Bogdan Bogdanovic"
         ],
         "rr": false,
         "market": "under 1.5 threes",
         "kind": "downtown",
         "info": {
-          "Karl-Anthony Towns": "Knicks vs Raptors \u00b7 Sun Nov 15 \u00b7 6:00 PM ET"
+          "Bogdan Bogdanovic": "Rockets vs Wizards \u00b7 Sun Nov 15 \u00b7 7:00 PM ET"
         },
         "odds": {
-          "Karl-Anthony Towns": -128
-        }
-      },
-      {
-        "name": "Wheelbarrow",
-        "legs": [
-          "Cooper Flagg"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Cooper Flagg": "Mavericks vs Celtics \u00b7 Sun Nov 15 \u00b7 6:00 PM ET"
-        },
-        "odds": {
-          "Cooper Flagg": -146
+          "Bogdan Bogdanovic": -186
         }
       }
     ],
@@ -707,7 +512,7 @@
         "Jalen Brunson"
       ],
       "Wet Cement": [
-        "Karl-Anthony Towns"
+        "Bogdan Bogdanovic"
       ],
       "Hard Hat Zone": [
         "Zaccharie Risacher"
@@ -753,9 +558,13 @@
       ],
       "Brick Wall": [
         "Bennett Stirtz"
+      ],
+      "The Masonry": [
+        "Alex Sarr"
       ]
     },
     "abets": [
+      "downtown|over 1.5 threes|Alex Sarr",
       "downtown|over 1.5 threes|Bennett Stirtz",
       "downtown|under 1.5 threes|Bogdan Bogdanovic",
       "downtown|under 1.5 threes|Cooper Flagg",
@@ -790,13 +599,14 @@
     "hits": [
       "a:Scottie Barnes",
       "dt:Aaron Nesmith",
+      "dt:Alex Sarr",
       "dt:P.J. Washington Jr.",
       "dt:Pascal Siakam",
       "dt:Stephon Castle",
       "dt:Zaccharie Risacher"
     ],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 02:12:02 GMT",
-    "checked_at": "2026-11-16T02:26:20.948519+00:00"
+    "last_modified": "Mon, 16 Nov 2026 03:03:52 GMT",
+    "checked_at": "2026-11-16T03:04:33.005069+00:00"
   }
 }
