@@ -1963,8 +1963,9 @@
             "Amon-Ra St. Brown": -113
           },
           "bkey": "|anytime touchdown|Amon-Ra St. Brown",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.8849557522123894,
+          "legs_hit": 1
         },
         "Early Strike": {
           "legs": [
@@ -1977,8 +1978,9 @@
             "Jonathan Taylor": 400
           },
           "bkey": "ftd|first touchdown scorer|Jonathan Taylor",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Short Yardage": {
           "legs": [
@@ -1991,8 +1993,9 @@
             "Jonathan Taylor": -110
           },
           "bkey": "|anytime touchdown|Jonathan Taylor",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Audible": {
           "legs": [
@@ -2005,8 +2008,9 @@
             "Adonai Mitchell": 410
           },
           "bkey": "|anytime touchdown|Adonai Mitchell",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Goal Line Back": {
           "legs": [
@@ -2019,8 +2023,9 @@
             "Bhayshul Tuten": -125
           },
           "bkey": "|anytime touchdown|Bhayshul Tuten",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.8,
+          "legs_hit": 1
         },
         "Hurry Up": {
           "legs": [
@@ -2033,8 +2038,9 @@
             "Dawson Knox": 500
           },
           "bkey": "|anytime touchdown|Dawson Knox",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Inside the Ten": {
           "legs": [
@@ -2047,8 +2053,9 @@
             "Aaron Jones": 240
           },
           "bkey": "|anytime touchdown|Aaron Jones",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 2.4,
+          "legs_hit": 1
         },
         "The Checkdown": {
           "legs": [
@@ -2061,8 +2068,9 @@
             "Jakobi Meyers": 227
           },
           "bkey": "|anytime touchdown|Jakobi Meyers",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "The Workhorse": {
           "legs": [
@@ -2075,8 +2083,9 @@
             "James Cook": -160
           },
           "bkey": "|anytime touchdown|James Cook",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.625,
+          "legs_hit": 1
         },
         "Two Minute Drill": {
           "legs": [
@@ -2089,8 +2098,9 @@
             "Brian Thomas Jr.": 490
           },
           "bkey": "|anytime touchdown|Brian Thomas Jr.",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Hard Count": {
           "legs": [
@@ -2103,8 +2113,9 @@
             "Tre Tucker": 475
           },
           "bkey": "|anytime touchdown|Tre Tucker",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "The Sneak": {
           "legs": [
@@ -2117,8 +2128,9 @@
             "Trey McBride": 270
           },
           "bkey": "|anytime touchdown|Trey McBride",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "First Read": {
           "legs": [
@@ -2131,8 +2143,9 @@
             "Kaelon Black": 300
           },
           "bkey": "|anytime touchdown|Kaelon Black",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 3.0,
+          "legs_hit": 1
         },
         "Move the Chains": {
           "legs": [
@@ -2145,8 +2158,9 @@
             "Keenan Allen": 350
           },
           "bkey": "|anytime touchdown|Keenan Allen",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Red Zone Target": {
           "legs": [
@@ -2159,10 +2173,12 @@
             "Chase Brown": -105
           },
           "bkey": "|anytime touchdown|Chase Brown",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.9523809523809523,
+          "legs_hit": 1
         }
-      }
+      },
+      "2026-11-16": {}
     },
     "NBA Board": {
       "2026-11-05": {

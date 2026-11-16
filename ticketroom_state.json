@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 04:51:54 GMT",
-    "checked_at": "2026-11-16T05:00:21.547562+00:00"
+    "last_modified": "Mon, 16 Nov 2026 05:22:00 GMT",
+    "checked_at": "2026-11-16T05:22:12.099135+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,88 +18,19 @@
     "slate": "2026-11-16",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 04:51:54 GMT",
-    "checked_at": "2026-11-16T05:00:21.724544+00:00"
+    "last_modified": "Mon, 16 Nov 2026 05:22:00 GMT",
+    "checked_at": "2026-11-16T05:22:12.180602+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Bell Cow": [
-        "Amon-Ra St. Brown"
-      ],
-      "Early Strike": [
-        "Jonathan Taylor"
-      ],
-      "Short Yardage": [
-        "Jonathan Taylor"
-      ],
-      "Audible": [
-        "Adonai Mitchell"
-      ],
-      "Goal Line Back": [
-        "Bhayshul Tuten"
-      ],
-      "Hurry Up": [
-        "Dawson Knox"
-      ],
-      "Inside the Ten": [
-        "Aaron Jones"
-      ],
-      "The Checkdown": [
-        "Jakobi Meyers"
-      ],
-      "The Workhorse": [
-        "James Cook"
-      ],
-      "Two Minute Drill": [
-        "Brian Thomas Jr."
-      ],
-      "Hard Count": [
-        "Tre Tucker"
-      ],
-      "The Sneak": [
-        "Trey McBride"
-      ],
-      "First Read": [
-        "Kaelon Black"
-      ],
-      "Move the Chains": [
-        "Keenan Allen"
-      ],
-      "Red Zone Target": [
-        "Chase Brown"
-      ]
-    },
-    "abets": [
-      "ftd|first touchdown scorer|Jonathan Taylor",
-      "|anytime touchdown|Aaron Jones",
-      "|anytime touchdown|Adonai Mitchell",
-      "|anytime touchdown|Amon-Ra St. Brown",
-      "|anytime touchdown|Bhayshul Tuten",
-      "|anytime touchdown|Brian Thomas Jr.",
-      "|anytime touchdown|Chase Brown",
-      "|anytime touchdown|Dawson Knox",
-      "|anytime touchdown|Jakobi Meyers",
-      "|anytime touchdown|James Cook",
-      "|anytime touchdown|Jonathan Taylor",
-      "|anytime touchdown|Kaelon Black",
-      "|anytime touchdown|Keenan Allen",
-      "|anytime touchdown|Tre Tucker",
-      "|anytime touchdown|Trey McBride"
-    ],
-    "slate": "2026-11-15",
-    "hits": [
-      "a:Aaron Jones",
-      "a:Amon-Ra St. Brown",
-      "a:Bhayshul Tuten",
-      "a:Chase Brown",
-      "a:James Cook",
-      "a:Kaelon Black"
-    ],
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-16",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 04:51:54 GMT",
-    "checked_at": "2026-11-16T05:00:22.014178+00:00"
+    "last_modified": "Mon, 16 Nov 2026 05:22:00 GMT",
+    "checked_at": "2026-11-16T05:22:12.249933+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -235,7 +166,7 @@
       "dt:Zaccharie Risacher"
     ],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 04:51:54 GMT",
-    "checked_at": "2026-11-16T05:00:22.843216+00:00"
+    "last_modified": "Mon, 16 Nov 2026 05:22:00 GMT",
+    "checked_at": "2026-11-16T05:22:13.164976+00:00"
   }
 }
