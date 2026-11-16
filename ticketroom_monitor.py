@@ -641,6 +641,9 @@ def extract_signature(html: str, early_min: int = 0,
                      if str(v).lower() in ("live", "in", "inprogress",
                                            "halftime", "ht", "final", "post")}
     started_games |= {str(g) for g in (meta.get("finals") or [])}
+    final_games = {str(g) for g, v in (meta.get("gs") or {}).items()
+                   if str(v).lower() in ("final", "post")}
+    final_games |= {str(g) for g in (meta.get("finals") or [])}
 
     # Kickoff clock: legs carry their game time in ET ("8:15 PM ET",
     # "12:45 PM"), which is unambiguous across boards — unlike meta.ko, whose
@@ -904,6 +907,18 @@ def extract_signature(html: str, early_min: int = 0,
         launched = p.get("status") == "confirmed" or bool(p.get("locked"))
         if not launched:
             continue
+        # Post-hoc insert guard: the overnight 2026-11-16 03:03Z rebuild
+        # ADDED "confirmed", pre-graded picks for a game that had already
+        # ended (Sarr O1.5 res=win, Bogdanovic U1.5 res=loss, HOU@WAS
+        # final since ~02:30Z). A pick first seen with its game final was
+        # never bettable — skip it unless the player is already in a
+        # ledger row this slate (then it's just a finished pick riding
+        # the board, which must keep flowing for the announced map).
+        if str(p.get("game")) in final_games:
+            prev_legs = {l for legs in (fb_prev or {}).values()
+                         for l in (legs or [])}
+            if nm not in prev_legs:
+                continue
         line = p.get("line")
         side = "under" if str(p.get("side")).upper() == "U" else "over"
         confirmed.append({
