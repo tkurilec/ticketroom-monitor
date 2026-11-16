@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 00:37:03 GMT",
-    "checked_at": "2026-11-16T00:37:12.769593+00:00"
+    "last_modified": "Mon, 16 Nov 2026 00:49:55 GMT",
+    "checked_at": "2026-11-16T00:50:17.301299+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f4686dd2100cbe604bdd4945ddb8af8e668fee7fc42a6a8661995c8aa4e808fc",
@@ -74,8 +74,8 @@
       "a:Bradley Barcola"
     ],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 00:37:03 GMT",
-    "checked_at": "2026-11-16T00:37:14.061049+00:00"
+    "last_modified": "Mon, 16 Nov 2026 00:49:55 GMT",
+    "checked_at": "2026-11-16T00:50:18.096560+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "9058932b6fa7d58043dc92b4c5651cf6774fc1d7f73e704d4949cb3985293586",
@@ -351,12 +351,27 @@
       "a:Kaelon Black"
     ],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 00:37:03 GMT",
-    "checked_at": "2026-11-16T00:37:15.785747+00:00"
+    "last_modified": "Mon, 16 Nov 2026 00:49:55 GMT",
+    "checked_at": "2026-11-16T00:50:19.630806+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "51ada1684ee3974ee21eb98058e9ef5027aa618aa02f3756a9490f1fb1633f74",
+    "hash": "131c89a5a9302fa0642d2c80659558e76724518e084dd44937698079a8bbe360",
     "confirmed": [
+      {
+        "name": "Breeze Block",
+        "legs": [
+          "Nickeil Alexander-Walker"
+        ],
+        "rr": false,
+        "market": "under 3.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Nickeil Alexander-Walker": "Hawks vs Bucks \u00b7 Sun Nov 15 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Nickeil Alexander-Walker": -102
+        }
+      },
       {
         "name": "Brick Oven",
         "legs": [
@@ -718,6 +733,9 @@
       ],
       "Opening Set": [
         "Myles Turner"
+      ],
+      "Breeze Block": [
+        "Nickeil Alexander-Walker"
       ]
     },
     "abets": [
@@ -737,6 +755,7 @@
       "downtown|under 2.5 threes|Jalen Brunson",
       "downtown|under 2.5 threes|Reed Sheppard",
       "downtown|under 2.5 threes|Tyler Herro",
+      "downtown|under 3.5 threes|Nickeil Alexander-Walker",
       "downtown|under 4.5 threes|Luka Doncic",
       "|first basket|Anthony Davis",
       "|first basket|Mo Bamba",
@@ -753,7 +772,7 @@
       "dt:Stephon Castle"
     ],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 00:37:03 GMT",
-    "checked_at": "2026-11-16T00:37:19.507306+00:00"
+    "last_modified": "Mon, 16 Nov 2026 00:49:55 GMT",
+    "checked_at": "2026-11-16T00:50:22.603608+00:00"
   }
 }
