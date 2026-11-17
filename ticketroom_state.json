@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 01:43:04 GMT",
-    "checked_at": "2026-11-17T01:52:13.413905+00:00"
+    "last_modified": "Tue, 17 Nov 2026 02:21:41 GMT",
+    "checked_at": "2026-11-17T02:22:12.827969+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-16",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 01:52:03 GMT",
-    "checked_at": "2026-11-17T01:52:13.532467+00:00"
+    "last_modified": "Tue, 17 Nov 2026 02:21:41 GMT",
+    "checked_at": "2026-11-17T02:22:13.087330+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "acbf99ba79139f30ce57395967ba683997304c55c761d926553d8e21408bdb04",
@@ -93,8 +93,8 @@
       "best": 22,
       "settled": false
     },
-    "last_modified": "Tue, 17 Nov 2026 01:46:57 GMT",
-    "checked_at": "2026-11-17T01:52:13.908341+00:00"
+    "last_modified": "Tue, 17 Nov 2026 02:21:41 GMT",
+    "checked_at": "2026-11-17T02:22:13.450595+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "c22db397f60e56900ec9a1d596c5a023a54fb1216d372ec11a5f6f703bdcc922",
@@ -181,9 +181,11 @@
       "|first basket|Oso Ighodaro"
     ],
     "slate": "2026-11-16",
-    "hits": [],
+    "hits": [
+      "dt:Bobby Portis Jr."
+    ],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 01:52:03 GMT",
-    "checked_at": "2026-11-17T01:52:17.649208+00:00"
+    "last_modified": "Tue, 17 Nov 2026 02:21:41 GMT",
+    "checked_at": "2026-11-17T02:22:15.071186+00:00"
   }
 }
