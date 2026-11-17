@@ -3796,7 +3796,22 @@
           "legs_hit": 0
         }
       },
-      "2026-11-16": {}
+      "2026-11-16": {
+        "Ribbon Cutting": {
+          "legs": [
+            "Bobby Portis Jr."
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Bobby Portis Jr.": 200
+          },
+          "bkey": "downtown|over 1.5 threes|Bobby Portis Jr.",
+          "result": null,
+          "pl": null
+        }
+      }
     }
   },
   "recap_sent": "2026-11-16",
