@@ -7,19 +7,73 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 05:27:12 GMT",
-    "checked_at": "2026-11-17T05:28:11.942492+00:00"
+    "last_modified": "Tue, 17 Nov 2026 10:22:16 GMT",
+    "checked_at": "2026-11-17T19:30:20.932274+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "67883dd30c128e03916762ee13c3a0eefa56c0f12f188a6bface75d72bd7f0fb",
+    "confirmed": [
+      {
+        "name": "Go-To Man",
+        "legs": [
+          "Erling Haaland"
+        ],
+        "rr": false,
+        "info": {
+          "Erling Haaland": "Norway vs Denmark \u00b7 Tue Nov 17 \u00b7 2:45 PM ET"
+        },
+        "odds": {
+          "Erling Haaland": -125
+        },
+        "units": 2
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Erling Haaland"
+        ],
+        "rr": false,
+        "info": {
+          "Erling Haaland": "Norway vs Denmark \u00b7 Tue Nov 17 \u00b7 2:45 PM ET"
+        },
+        "odds": {
+          "Erling Haaland": -125
+        }
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Robert Lewandowski"
+        ],
+        "rr": false,
+        "info": {
+          "Robert Lewandowski": "Poland vs Sweden \u00b7 Tue Nov 17 \u00b7 2:45 PM ET"
+        },
+        "odds": {
+          "Robert Lewandowski": -120
+        }
+      }
+    ],
+    "announced": {
+      "Go-To Man": [
+        "Erling Haaland"
+      ],
+      "Target Man": [
+        "Erling Haaland"
+      ],
+      "The Poacher": [
+        "Robert Lewandowski"
+      ]
+    },
+    "abets": [
+      "|anytime goalscorer|Erling Haaland",
+      "|anytime goalscorer|Robert Lewandowski"
+    ],
     "slate": "2026-11-17",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 05:27:12 GMT",
-    "checked_at": "2026-11-17T05:28:12.156180+00:00"
+    "last_modified": "Tue, 17 Nov 2026 10:22:16 GMT",
+    "checked_at": "2026-11-17T19:30:22.818484+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -53,8 +107,8 @@
       "best": 22,
       "settled": false
     },
-    "last_modified": "Tue, 17 Nov 2026 05:27:12 GMT",
-    "checked_at": "2026-11-17T05:28:12.497328+00:00"
+    "last_modified": "Tue, 17 Nov 2026 10:22:16 GMT",
+    "checked_at": "2026-11-17T19:30:22.903474+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -84,7 +138,7 @@
       "dt:Bobby Portis Jr."
     ],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 05:27:12 GMT",
-    "checked_at": "2026-11-17T05:28:13.900940+00:00"
+    "last_modified": "Tue, 17 Nov 2026 10:22:16 GMT",
+    "checked_at": "2026-11-17T19:30:23.210880+00:00"
   }
 }
