@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 02:21:41 GMT",
-    "checked_at": "2026-11-17T02:22:12.827969+00:00"
+    "last_modified": "Tue, 17 Nov 2026 02:27:26 GMT",
+    "checked_at": "2026-11-17T02:31:11.299191+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-16",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 02:21:41 GMT",
-    "checked_at": "2026-11-17T02:22:13.087330+00:00"
+    "last_modified": "Tue, 17 Nov 2026 02:27:27 GMT",
+    "checked_at": "2026-11-17T02:31:11.588476+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "acbf99ba79139f30ce57395967ba683997304c55c761d926553d8e21408bdb04",
@@ -87,14 +87,16 @@
       "|anytime touchdown|Omarion Hampton"
     ],
     "slate": "2026-11-16",
-    "hits": [],
+    "hits": [
+      "a:Omarion Hampton"
+    ],
     "ltd": {
       "holding": [],
       "best": 22,
       "settled": false
     },
-    "last_modified": "Tue, 17 Nov 2026 02:21:41 GMT",
-    "checked_at": "2026-11-17T02:22:13.450595+00:00"
+    "last_modified": "Tue, 17 Nov 2026 02:27:26 GMT",
+    "checked_at": "2026-11-17T02:31:12.738128+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "c22db397f60e56900ec9a1d596c5a023a54fb1216d372ec11a5f6f703bdcc922",
@@ -185,7 +187,7 @@
       "dt:Bobby Portis Jr."
     ],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 02:21:41 GMT",
-    "checked_at": "2026-11-17T02:22:15.071186+00:00"
+    "last_modified": "Tue, 17 Nov 2026 02:27:26 GMT",
+    "checked_at": "2026-11-17T02:31:14.545259+00:00"
   }
 }
