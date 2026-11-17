@@ -3810,6 +3810,34 @@
           "bkey": "downtown|over 1.5 threes|Bobby Portis Jr.",
           "result": null,
           "pl": null
+        },
+        "First Touch": {
+          "legs": [
+            "Nolan Traore"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Nolan Traore": 1300
+          },
+          "bkey": "|first basket|Nolan Traore",
+          "result": null,
+          "pl": null
+        },
+        "Lead the Break": {
+          "legs": [
+            "Day'Ron Sharpe"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Day'Ron Sharpe": 1100
+          },
+          "bkey": "|first basket|Day'Ron Sharpe",
+          "result": null,
+          "pl": null
         }
       }
     }
