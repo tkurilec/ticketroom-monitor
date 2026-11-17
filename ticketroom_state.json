@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Tue, 17 Nov 2026 00:25:12 GMT",
-    "checked_at": "2026-11-17T00:26:14.697271+00:00"
+    "checked_at": "2026-11-17T00:27:15.276874+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -19,7 +19,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Tue, 17 Nov 2026 00:25:12 GMT",
-    "checked_at": "2026-11-17T00:26:14.990409+00:00"
+    "checked_at": "2026-11-17T00:27:15.448146+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "62981927cf5ca77bafb47503f5fbf3c2c70e0ea8ebdc2f43c1bfd65f2cef60fb",
@@ -104,42 +104,12 @@
     "slate": "2026-11-16",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 00:25:12 GMT",
-    "checked_at": "2026-11-17T00:26:15.345303+00:00"
+    "last_modified": "Tue, 17 Nov 2026 00:20:14 GMT",
+    "checked_at": "2026-11-17T00:27:15.682336+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "59a193d96f7bf3f75ab9736c637ceb4442c54a971fbd713b97e10cf71c594ccc",
+    "hash": "c1540633442bc4cef873bb87b7926f82ebb8349f438646f7b713ff3eecdaf222",
     "confirmed": [
-      {
-        "name": "First Touch",
-        "legs": [
-          "Nolan Traore"
-        ],
-        "rr": false,
-        "info": {
-          "Nolan Traore": "Nets vs 76ers \u00b7 Mon Nov 16 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "Nolan Traore": 1300
-        },
-        "units": 0.3,
-        "group": "4"
-      },
-      {
-        "name": "Lead the Break",
-        "legs": [
-          "Day'Ron Sharpe"
-        ],
-        "rr": false,
-        "info": {
-          "Day'Ron Sharpe": "Nets vs 76ers \u00b7 Mon Nov 16 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "Day'Ron Sharpe": 1100
-        },
-        "units": 0.3,
-        "group": "4"
-      },
       {
         "name": "Ribbon Cutting",
         "legs": [
@@ -175,7 +145,7 @@
     "slate": "2026-11-16",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 00:25:12 GMT",
-    "checked_at": "2026-11-17T00:26:17.540379+00:00"
+    "last_modified": "Tue, 17 Nov 2026 00:20:14 GMT",
+    "checked_at": "2026-11-17T00:27:16.150614+00:00"
   }
 }
