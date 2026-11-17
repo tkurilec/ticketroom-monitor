@@ -2179,7 +2179,64 @@
           "legs_hit": 1
         }
       },
-      "2026-11-16": {}
+      "2026-11-16": {
+        "Bell Cow": {
+          "legs": [
+            "LaJohntay Wester"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "LaJohntay Wester": 1850
+          },
+          "bkey": "|anytime touchdown|LaJohntay Wester",
+          "result": null,
+          "pl": null
+        },
+        "Kickoff Call": {
+          "legs": [
+            "Derrick Henry"
+          ],
+          "kind": "ftd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Derrick Henry": 332
+          },
+          "bkey": "ftd|first touchdown scorer|Derrick Henry",
+          "result": null,
+          "pl": null
+        },
+        "King of the End Zone: Zay Flowers": {
+          "legs": [
+            "Zay Flowers"
+          ],
+          "kind": "longtd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Zay Flowers": 160
+          },
+          "bkey": "longtd|longest touchdown scorer|Zay Flowers",
+          "result": null,
+          "pl": null
+        },
+        "The Workhorse": {
+          "legs": [
+            "Omarion Hampton"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Omarion Hampton": 300
+          },
+          "bkey": "|anytime touchdown|Omarion Hampton",
+          "result": null,
+          "pl": null
+        }
+      }
     },
     "NBA Board": {
       "2026-11-05": {

@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 11:01:48 GMT",
-    "checked_at": "2026-11-16T11:02:12.988019+00:00"
+    "last_modified": "Mon, 16 Nov 2026 23:46:15 GMT",
+    "checked_at": "2026-11-17T00:00:23.318797+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,19 +18,94 @@
     "slate": "2026-11-16",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 11:01:48 GMT",
-    "checked_at": "2026-11-16T11:02:13.200601+00:00"
+    "last_modified": "Mon, 16 Nov 2026 23:46:15 GMT",
+    "checked_at": "2026-11-17T00:00:23.496837+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "62981927cf5ca77bafb47503f5fbf3c2c70e0ea8ebdc2f43c1bfd65f2cef60fb",
+    "confirmed": [
+      {
+        "name": "Bell Cow",
+        "legs": [
+          "LaJohntay Wester"
+        ],
+        "rr": false,
+        "info": {
+          "LaJohntay Wester": "Ravens vs Chargers \u00b7 Mon Nov 16 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "LaJohntay Wester": 1850
+        }
+      },
+      {
+        "name": "Kickoff Call",
+        "legs": [
+          "Derrick Henry"
+        ],
+        "rr": false,
+        "info": {
+          "Derrick Henry": "Ravens vs Chargers \u00b7 Mon Nov 16 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Derrick Henry": 332
+        },
+        "market": "first touchdown scorer",
+        "kind": "ftd"
+      },
+      {
+        "name": "King of the End Zone: Zay Flowers",
+        "legs": [
+          "Zay Flowers"
+        ],
+        "rr": false,
+        "market": "longest touchdown scorer",
+        "kind": "longtd",
+        "info": {
+          "Zay Flowers": "Ravens vs Chargers \u00b7 Mon Nov 16 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Zay Flowers": 160
+        }
+      },
+      {
+        "name": "The Workhorse",
+        "legs": [
+          "Omarion Hampton"
+        ],
+        "rr": false,
+        "info": {
+          "Omarion Hampton": "Chargers vs Ravens \u00b7 Mon Nov 16 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Omarion Hampton": 300
+        }
+      }
+    ],
+    "announced": {
+      "Bell Cow": [
+        "LaJohntay Wester"
+      ],
+      "Kickoff Call": [
+        "Derrick Henry"
+      ],
+      "King of the End Zone: Zay Flowers": [
+        "Zay Flowers"
+      ],
+      "The Workhorse": [
+        "Omarion Hampton"
+      ]
+    },
+    "abets": [
+      "ftd|first touchdown scorer|Derrick Henry",
+      "longtd|longest touchdown scorer|Zay Flowers",
+      "|anytime touchdown|LaJohntay Wester",
+      "|anytime touchdown|Omarion Hampton"
+    ],
     "slate": "2026-11-16",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 11:01:48 GMT",
-    "checked_at": "2026-11-16T11:02:13.915335+00:00"
+    "last_modified": "Mon, 16 Nov 2026 23:46:15 GMT",
+    "checked_at": "2026-11-17T00:00:25.559830+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -40,7 +115,7 @@
     "slate": "2026-11-16",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 16 Nov 2026 11:01:48 GMT",
-    "checked_at": "2026-11-16T11:02:14.244681+00:00"
+    "last_modified": "Mon, 16 Nov 2026 23:46:15 GMT",
+    "checked_at": "2026-11-17T00:00:25.669739+00:00"
   }
 }
