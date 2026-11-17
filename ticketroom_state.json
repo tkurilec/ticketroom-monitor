@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 01:21:57 GMT",
-    "checked_at": "2026-11-17T01:24:22.737060+00:00"
+    "last_modified": "Tue, 17 Nov 2026 01:30:59 GMT",
+    "checked_at": "2026-11-17T01:31:11.134130+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,11 +18,11 @@
     "slate": "2026-11-16",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 01:21:57 GMT",
-    "checked_at": "2026-11-17T01:24:22.991292+00:00"
+    "last_modified": "Tue, 17 Nov 2026 01:30:59 GMT",
+    "checked_at": "2026-11-17T01:31:11.421426+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "62981927cf5ca77bafb47503f5fbf3c2c70e0ea8ebdc2f43c1bfd65f2cef60fb",
+    "hash": "acbf99ba79139f30ce57395967ba683997304c55c761d926553d8e21408bdb04",
     "confirmed": [
       {
         "name": "Bell Cow",
@@ -51,21 +51,6 @@
         },
         "market": "first touchdown scorer",
         "kind": "ftd"
-      },
-      {
-        "name": "King of the End Zone: Zay Flowers",
-        "legs": [
-          "Zay Flowers"
-        ],
-        "rr": false,
-        "market": "longest touchdown scorer",
-        "kind": "longtd",
-        "info": {
-          "Zay Flowers": "Ravens vs Chargers \u00b7 Mon Nov 16 \u00b7 8:15 PM ET"
-        },
-        "odds": {
-          "Zay Flowers": 160
-        }
       },
       {
         "name": "The Workhorse",
@@ -108,8 +93,8 @@
       "best": 22,
       "settled": false
     },
-    "last_modified": "Tue, 17 Nov 2026 01:16:01 GMT",
-    "checked_at": "2026-11-17T01:24:23.494210+00:00"
+    "last_modified": "Tue, 17 Nov 2026 01:30:59 GMT",
+    "checked_at": "2026-11-17T01:31:11.990663+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "59a193d96f7bf3f75ab9736c637ceb4442c54a971fbd713b97e10cf71c594ccc",
@@ -179,7 +164,7 @@
     "slate": "2026-11-16",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 01:21:57 GMT",
-    "checked_at": "2026-11-17T01:24:24.468808+00:00"
+    "last_modified": "Tue, 17 Nov 2026 01:30:59 GMT",
+    "checked_at": "2026-11-17T01:31:14.275987+00:00"
   }
 }
