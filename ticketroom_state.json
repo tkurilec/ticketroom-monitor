@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 00:25:12 GMT",
-    "checked_at": "2026-11-17T00:28:12.434391+00:00"
+    "last_modified": "Tue, 17 Nov 2026 01:16:00 GMT",
+    "checked_at": "2026-11-17T01:17:12.616833+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-16",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 00:15:44 GMT",
-    "checked_at": "2026-11-17T00:28:12.632584+00:00"
+    "last_modified": "Tue, 17 Nov 2026 01:16:00 GMT",
+    "checked_at": "2026-11-17T01:17:12.779460+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "62981927cf5ca77bafb47503f5fbf3c2c70e0ea8ebdc2f43c1bfd65f2cef60fb",
@@ -103,9 +103,13 @@
     ],
     "slate": "2026-11-16",
     "hits": [],
-    "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 00:20:14 GMT",
-    "checked_at": "2026-11-17T00:28:12.882764+00:00"
+    "ltd": {
+      "holding": [],
+      "best": 0,
+      "settled": false
+    },
+    "last_modified": "Tue, 17 Nov 2026 01:16:01 GMT",
+    "checked_at": "2026-11-17T01:17:13.534643+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "59a193d96f7bf3f75ab9736c637ceb4442c54a971fbd713b97e10cf71c594ccc",
@@ -175,7 +179,7 @@
     "slate": "2026-11-16",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 00:25:12 GMT",
-    "checked_at": "2026-11-17T00:28:13.895163+00:00"
+    "last_modified": "Tue, 17 Nov 2026 01:16:00 GMT",
+    "checked_at": "2026-11-17T01:17:15.336460+00:00"
   }
 }
