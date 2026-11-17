@@ -3838,6 +3838,20 @@
           "bkey": "|first basket|Day'Ron Sharpe",
           "result": null,
           "pl": null
+        },
+        "Two Points": {
+          "legs": [
+            "Oso Ighodaro"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Oso Ighodaro": 1500
+          },
+          "bkey": "|first basket|Oso Ighodaro",
+          "result": null,
+          "pl": null
         }
       }
     }
