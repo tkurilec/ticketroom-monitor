@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 02:27:26 GMT",
-    "checked_at": "2026-11-17T02:31:11.299191+00:00"
+    "last_modified": "Tue, 17 Nov 2026 04:58:48 GMT",
+    "checked_at": "2026-11-17T05:00:21.614448+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,54 +18,12 @@
     "slate": "2026-11-16",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 02:27:27 GMT",
-    "checked_at": "2026-11-17T02:31:11.588476+00:00"
+    "last_modified": "Tue, 17 Nov 2026 04:53:11 GMT",
+    "checked_at": "2026-11-17T05:00:21.783910+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "acbf99ba79139f30ce57395967ba683997304c55c761d926553d8e21408bdb04",
-    "confirmed": [
-      {
-        "name": "Bell Cow",
-        "legs": [
-          "LaJohntay Wester"
-        ],
-        "rr": false,
-        "info": {
-          "LaJohntay Wester": "Ravens vs Chargers \u00b7 Mon Nov 16 \u00b7 8:15 PM ET"
-        },
-        "odds": {
-          "LaJohntay Wester": 1850
-        }
-      },
-      {
-        "name": "Kickoff Call",
-        "legs": [
-          "Derrick Henry"
-        ],
-        "rr": false,
-        "info": {
-          "Derrick Henry": "Ravens vs Chargers \u00b7 Mon Nov 16 \u00b7 8:15 PM ET"
-        },
-        "odds": {
-          "Derrick Henry": 332
-        },
-        "market": "first touchdown scorer",
-        "kind": "ftd"
-      },
-      {
-        "name": "The Workhorse",
-        "legs": [
-          "Omarion Hampton"
-        ],
-        "rr": false,
-        "info": {
-          "Omarion Hampton": "Chargers vs Ravens \u00b7 Mon Nov 16 \u00b7 8:15 PM ET"
-        },
-        "odds": {
-          "Omarion Hampton": 300
-        }
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Bell Cow": [
         "LaJohntay Wester"
@@ -95,73 +53,12 @@
       "best": 22,
       "settled": false
     },
-    "last_modified": "Tue, 17 Nov 2026 02:27:26 GMT",
-    "checked_at": "2026-11-17T02:31:12.738128+00:00"
+    "last_modified": "Tue, 17 Nov 2026 04:58:49 GMT",
+    "checked_at": "2026-11-17T05:00:22.141455+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "c22db397f60e56900ec9a1d596c5a023a54fb1216d372ec11a5f6f703bdcc922",
-    "confirmed": [
-      {
-        "name": "First Touch",
-        "legs": [
-          "Nolan Traore"
-        ],
-        "rr": false,
-        "info": {
-          "Nolan Traore": "Nets vs 76ers \u00b7 Mon Nov 16 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "Nolan Traore": 1300
-        },
-        "units": 0.3,
-        "group": "4"
-      },
-      {
-        "name": "Lead the Break",
-        "legs": [
-          "Day'Ron Sharpe"
-        ],
-        "rr": false,
-        "info": {
-          "Day'Ron Sharpe": "Nets vs 76ers \u00b7 Mon Nov 16 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "Day'Ron Sharpe": 1100
-        },
-        "units": 0.3,
-        "group": "4"
-      },
-      {
-        "name": "Ribbon Cutting",
-        "legs": [
-          "Bobby Portis Jr."
-        ],
-        "rr": false,
-        "market": "over 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Bobby Portis Jr.": "Heat vs Rockets \u00b7 Mon Nov 16 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "Bobby Portis Jr.": 200
-        }
-      },
-      {
-        "name": "Two Points",
-        "legs": [
-          "Oso Ighodaro"
-        ],
-        "rr": false,
-        "info": {
-          "Oso Ighodaro": "Suns vs Nuggets \u00b7 Mon Nov 16 \u00b7 9:00 PM ET"
-        },
-        "odds": {
-          "Oso Ighodaro": 1500
-        },
-        "units": 0.6,
-        "group": "8"
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Ribbon Cutting": [
         "Bobby Portis Jr."
@@ -187,7 +84,7 @@
       "dt:Bobby Portis Jr."
     ],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 02:27:26 GMT",
-    "checked_at": "2026-11-17T02:31:14.545259+00:00"
+    "last_modified": "Tue, 17 Nov 2026 04:58:48 GMT",
+    "checked_at": "2026-11-17T05:00:23.117351+00:00"
   }
 }
