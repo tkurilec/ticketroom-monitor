@@ -7,19 +7,19 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 04:58:48 GMT",
-    "checked_at": "2026-11-17T05:00:21.614448+00:00"
+    "last_modified": "Tue, 17 Nov 2026 05:27:12 GMT",
+    "checked_at": "2026-11-17T05:28:11.942492+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "announced": {},
     "abets": [],
-    "slate": "2026-11-16",
+    "slate": "2026-11-17",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 04:53:11 GMT",
-    "checked_at": "2026-11-17T05:00:21.783910+00:00"
+    "last_modified": "Tue, 17 Nov 2026 05:27:12 GMT",
+    "checked_at": "2026-11-17T05:28:12.156180+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -53,8 +53,8 @@
       "best": 22,
       "settled": false
     },
-    "last_modified": "Tue, 17 Nov 2026 04:58:49 GMT",
-    "checked_at": "2026-11-17T05:00:22.141455+00:00"
+    "last_modified": "Tue, 17 Nov 2026 05:27:12 GMT",
+    "checked_at": "2026-11-17T05:28:12.497328+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -84,7 +84,7 @@
       "dt:Bobby Portis Jr."
     ],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 04:58:48 GMT",
-    "checked_at": "2026-11-17T05:00:23.117351+00:00"
+    "last_modified": "Tue, 17 Nov 2026 05:27:12 GMT",
+    "checked_at": "2026-11-17T05:28:13.900940+00:00"
   }
 }
