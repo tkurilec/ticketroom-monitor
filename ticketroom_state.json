@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 10:22:16 GMT",
-    "checked_at": "2026-11-17T19:30:20.932274+00:00"
+    "last_modified": "Tue, 17 Nov 2026 10:22:17 GMT",
+    "checked_at": "2026-11-17T20:19:11.930991+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "67883dd30c128e03916762ee13c3a0eefa56c0f12f188a6bface75d72bd7f0fb",
@@ -70,10 +70,12 @@
       "|anytime goalscorer|Robert Lewandowski"
     ],
     "slate": "2026-11-17",
-    "hits": [],
+    "hits": [
+      "a:Erling Haaland"
+    ],
     "ltd": null,
     "last_modified": "Tue, 17 Nov 2026 10:22:16 GMT",
-    "checked_at": "2026-11-17T19:30:22.818484+00:00"
+    "checked_at": "2026-11-17T20:19:12.998605+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -108,7 +110,7 @@
       "settled": false
     },
     "last_modified": "Tue, 17 Nov 2026 10:22:16 GMT",
-    "checked_at": "2026-11-17T19:30:22.903474+00:00"
+    "checked_at": "2026-11-17T20:19:13.205769+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -138,7 +140,7 @@
       "dt:Bobby Portis Jr."
     ],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 10:22:16 GMT",
-    "checked_at": "2026-11-17T19:30:23.210880+00:00"
+    "last_modified": "Tue, 17 Nov 2026 10:22:17 GMT",
+    "checked_at": "2026-11-17T20:19:13.553934+00:00"
   }
 }
