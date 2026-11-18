@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 18 Nov 2026 03:41:05 GMT",
-    "checked_at": "2026-11-18T03:41:12.984650+00:00"
+    "last_modified": "Wed, 18 Nov 2026 03:51:09 GMT",
+    "checked_at": "2026-11-18T03:52:12.972715+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a9795de08d9eff830f02edd3f68c8a101d5293255b36aba4cdeda2e8ac8a2127",
@@ -61,8 +61,8 @@
       "a:Erling Haaland"
     ],
     "ltd": null,
-    "last_modified": "Wed, 18 Nov 2026 03:41:05 GMT",
-    "checked_at": "2026-11-18T03:41:13.744588+00:00"
+    "last_modified": "Wed, 18 Nov 2026 03:51:09 GMT",
+    "checked_at": "2026-11-18T03:52:13.281877+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -96,11 +96,11 @@
       "best": 22,
       "settled": false
     },
-    "last_modified": "Wed, 18 Nov 2026 03:41:05 GMT",
-    "checked_at": "2026-11-18T03:41:13.833422+00:00"
+    "last_modified": "Wed, 18 Nov 2026 03:51:09 GMT",
+    "checked_at": "2026-11-18T03:52:13.409065+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "d021055952ded47a1d7a0e6b5a8dc7001a8892a11a19c0fac1d79f867b0c68ad",
+    "hash": "18071fd7f7890884de507f7b688db2c9a8dc3fcdd0c921f49b789b98cc17f3c9",
     "confirmed": [
       {
         "name": "First Touch",
@@ -131,6 +131,21 @@
         "odds": {
           "Damian Lillard": -122
         }
+      },
+      {
+        "name": "Two Points",
+        "legs": [
+          "Grant Williams"
+        ],
+        "rr": false,
+        "info": {
+          "Grant Williams": "Hornets vs Lakers \u00b7 Tue Nov 17 \u00b7 11:00 PM ET"
+        },
+        "odds": {
+          "Grant Williams": 1700
+        },
+        "units": 0.6,
+        "group": "5"
       }
     ],
     "announced": {
@@ -141,18 +156,19 @@
         "Mo Bamba"
       ],
       "Two Points": [
-        "Sandro Mamukelashvili"
+        "Grant Williams"
       ]
     },
     "abets": [
       "downtown|under 3.5 threes|Damian Lillard",
+      "|first basket|Grant Williams",
       "|first basket|Mo Bamba",
       "|first basket|Sandro Mamukelashvili"
     ],
     "slate": "2026-11-17",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 18 Nov 2026 03:41:05 GMT",
-    "checked_at": "2026-11-18T03:41:14.570871+00:00"
+    "last_modified": "Wed, 18 Nov 2026 03:51:09 GMT",
+    "checked_at": "2026-11-18T03:52:15.914470+00:00"
   }
 }
