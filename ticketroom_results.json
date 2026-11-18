@@ -3955,6 +3955,20 @@
           "bkey": "|first basket|Tyrese Proctor",
           "result": null,
           "pl": null
+        },
+        "The Starter": {
+          "legs": [
+            "Klay Thompson"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Klay Thompson": 900
+          },
+          "bkey": "|first basket|Klay Thompson",
+          "result": null,
+          "pl": null
         }
       }
     }
