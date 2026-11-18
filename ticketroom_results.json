@@ -3919,6 +3919,20 @@
           "bkey": "|first basket|Mo Bamba",
           "result": null,
           "pl": null
+        },
+        "Two Points": {
+          "legs": [
+            "Sandro Mamukelashvili"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Sandro Mamukelashvili": 850
+          },
+          "bkey": "|first basket|Sandro Mamukelashvili",
+          "result": null,
+          "pl": null
         }
       }
     }
