@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 18 Nov 2026 11:01:26 GMT",
-    "checked_at": "2026-11-18T11:02:11.179771+00:00"
+    "last_modified": "Wed, 18 Nov 2026 11:06:53 GMT",
+    "checked_at": "2026-11-18T11:07:13.643980+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -33,43 +33,19 @@
       "a:Erling Haaland"
     ],
     "ltd": null,
-    "last_modified": "Wed, 18 Nov 2026 11:01:26 GMT",
-    "checked_at": "2026-11-18T11:02:11.348500+00:00"
+    "last_modified": "Wed, 18 Nov 2026 11:06:53 GMT",
+    "checked_at": "2026-11-18T11:07:14.099982+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Bell Cow": [
-        "LaJohntay Wester"
-      ],
-      "Kickoff Call": [
-        "Derrick Henry"
-      ],
-      "King of the End Zone: Zay Flowers": [
-        "Zay Flowers"
-      ],
-      "The Workhorse": [
-        "Omarion Hampton"
-      ]
-    },
-    "abets": [
-      "ftd|first touchdown scorer|Derrick Henry",
-      "longtd|longest touchdown scorer|Zay Flowers",
-      "|anytime touchdown|LaJohntay Wester",
-      "|anytime touchdown|Omarion Hampton"
-    ],
-    "slate": "2026-11-16",
-    "hits": [
-      "a:Omarion Hampton"
-    ],
-    "ltd": {
-      "holding": [],
-      "best": 22,
-      "settled": false
-    },
-    "last_modified": "Wed, 18 Nov 2026 11:01:26 GMT",
-    "checked_at": "2026-11-18T11:02:11.458786+00:00"
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-19",
+    "hits": [],
+    "ltd": null,
+    "last_modified": "Wed, 18 Nov 2026 11:06:53 GMT",
+    "checked_at": "2026-11-18T11:07:14.555480+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -79,7 +55,7 @@
     "slate": "2026-11-18",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 18 Nov 2026 11:01:26 GMT",
-    "checked_at": "2026-11-18T11:02:11.592836+00:00"
+    "last_modified": "Wed, 18 Nov 2026 11:06:53 GMT",
+    "checked_at": "2026-11-18T11:07:14.886748+00:00"
   }
 }
