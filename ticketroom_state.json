@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 18 Nov 2026 11:06:53 GMT",
-    "checked_at": "2026-11-18T11:07:13.643980+00:00"
+    "last_modified": "Wed, 18 Nov 2026 23:30:57 GMT",
+    "checked_at": "2026-11-18T23:31:13.856283+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -33,8 +33,8 @@
       "a:Erling Haaland"
     ],
     "ltd": null,
-    "last_modified": "Wed, 18 Nov 2026 11:06:53 GMT",
-    "checked_at": "2026-11-18T11:07:14.099982+00:00"
+    "last_modified": "Wed, 18 Nov 2026 23:30:57 GMT",
+    "checked_at": "2026-11-18T23:31:14.195593+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -44,18 +44,40 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 18 Nov 2026 11:06:53 GMT",
-    "checked_at": "2026-11-18T11:07:14.555480+00:00"
+    "last_modified": "Wed, 18 Nov 2026 23:30:57 GMT",
+    "checked_at": "2026-11-18T23:31:14.390002+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "3116369a71cb6427a10349ad5fb1f93f9403cbe59790ed2d87155474387b6497",
+    "confirmed": [
+      {
+        "name": "Two Points",
+        "legs": [
+          "Tyrese Proctor"
+        ],
+        "rr": false,
+        "info": {
+          "Tyrese Proctor": "Cavaliers vs Grizzlies \u00b7 Wed Nov 18 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "Tyrese Proctor": 1000
+        },
+        "units": 0.6,
+        "group": "2"
+      }
+    ],
+    "announced": {
+      "Two Points": [
+        "Tyrese Proctor"
+      ]
+    },
+    "abets": [
+      "|first basket|Tyrese Proctor"
+    ],
     "slate": "2026-11-18",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 18 Nov 2026 11:06:53 GMT",
-    "checked_at": "2026-11-18T11:07:14.886748+00:00"
+    "last_modified": "Wed, 18 Nov 2026 23:30:57 GMT",
+    "checked_at": "2026-11-18T23:31:16.528324+00:00"
   }
 }

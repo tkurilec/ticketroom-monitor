@@ -3941,7 +3941,22 @@
           "legs_hit": 0
         }
       },
-      "2026-11-18": {}
+      "2026-11-18": {
+        "Two Points": {
+          "legs": [
+            "Tyrese Proctor"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Tyrese Proctor": 1000
+          },
+          "bkey": "|first basket|Tyrese Proctor",
+          "result": null,
+          "pl": null
+        }
+      }
     }
   },
   "recap_sent": "2026-11-18",
