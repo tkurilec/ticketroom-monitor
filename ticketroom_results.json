@@ -3905,6 +3905,20 @@
           "bkey": "downtown|under 3.5 threes|Damian Lillard",
           "result": null,
           "pl": null
+        },
+        "First Touch": {
+          "legs": [
+            "Mo Bamba"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Mo Bamba": 1200
+          },
+          "bkey": "|first basket|Mo Bamba",
+          "result": null,
+          "pl": null
         }
       }
     }
