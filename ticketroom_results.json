@@ -3969,6 +3969,20 @@
           "bkey": "|first basket|Klay Thompson",
           "result": null,
           "pl": null
+        },
+        "Floor Plan": {
+          "legs": [
+            "Sam Merrill"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Sam Merrill": 100
+          },
+          "bkey": "downtown|over 1.5 threes|Sam Merrill",
+          "result": null,
+          "pl": null
         }
       }
     }

@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 18 Nov 2026 23:40:16 GMT",
-    "checked_at": "2026-11-18T23:40:25.236923+00:00"
+    "last_modified": "Wed, 18 Nov 2026 23:50:52 GMT",
+    "checked_at": "2026-11-18T23:51:15.883306+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -33,8 +33,8 @@
       "a:Erling Haaland"
     ],
     "ltd": null,
-    "last_modified": "Wed, 18 Nov 2026 23:40:16 GMT",
-    "checked_at": "2026-11-18T23:40:25.310385+00:00"
+    "last_modified": "Wed, 18 Nov 2026 23:50:52 GMT",
+    "checked_at": "2026-11-18T23:51:16.157114+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -44,12 +44,27 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 18 Nov 2026 23:40:16 GMT",
-    "checked_at": "2026-11-18T23:40:25.375450+00:00"
+    "last_modified": "Wed, 18 Nov 2026 23:50:52 GMT",
+    "checked_at": "2026-11-18T23:51:16.529053+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "39c126640249ae574f52e3487e6f90f22890fcb9f9028e2508b3ec452d215155",
+    "hash": "9df6a86abb4e78e6b7057b159fa6dd55bcd04a599e037864b2e9852ec1036085",
     "confirmed": [
+      {
+        "name": "Floor Plan",
+        "legs": [
+          "Sam Merrill"
+        ],
+        "rr": false,
+        "market": "over 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Sam Merrill": "Cavaliers vs Grizzlies \u00b7 Wed Nov 18 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "Sam Merrill": 100
+        }
+      },
       {
         "name": "The Starter",
         "legs": [
@@ -87,16 +102,20 @@
       ],
       "The Starter": [
         "Klay Thompson"
+      ],
+      "Floor Plan": [
+        "Sam Merrill"
       ]
     },
     "abets": [
+      "downtown|over 1.5 threes|Sam Merrill",
       "|first basket|Klay Thompson",
       "|first basket|Tyrese Proctor"
     ],
     "slate": "2026-11-18",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 18 Nov 2026 23:40:16 GMT",
-    "checked_at": "2026-11-18T23:40:26.836572+00:00"
+    "last_modified": "Wed, 18 Nov 2026 23:50:52 GMT",
+    "checked_at": "2026-11-18T23:51:18.577260+00:00"
   }
 }
