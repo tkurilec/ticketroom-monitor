@@ -3890,6 +3890,22 @@
           "pl": -0.6,
           "legs_hit": 0
         }
+      },
+      "2026-11-17": {
+        "The Masonry": {
+          "legs": [
+            "Damian Lillard"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Damian Lillard": -122
+          },
+          "bkey": "downtown|under 3.5 threes|Damian Lillard",
+          "result": null,
+          "pl": null
+        }
       }
     }
   },

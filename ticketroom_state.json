@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 23:42:10 GMT",
-    "checked_at": "2026-11-17T23:42:13.592586+00:00"
+    "last_modified": "Wed, 18 Nov 2026 00:54:51 GMT",
+    "checked_at": "2026-11-18T00:55:15.365238+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a9795de08d9eff830f02edd3f68c8a101d5293255b36aba4cdeda2e8ac8a2127",
@@ -61,8 +61,8 @@
       "a:Erling Haaland"
     ],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 23:42:10 GMT",
-    "checked_at": "2026-11-17T23:42:14.024296+00:00"
+    "last_modified": "Wed, 18 Nov 2026 00:54:51 GMT",
+    "checked_at": "2026-11-18T00:55:15.695004+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -96,18 +96,40 @@
       "best": 22,
       "settled": false
     },
-    "last_modified": "Tue, 17 Nov 2026 23:42:10 GMT",
-    "checked_at": "2026-11-17T23:42:14.202961+00:00"
+    "last_modified": "Wed, 18 Nov 2026 00:54:51 GMT",
+    "checked_at": "2026-11-18T00:55:15.840410+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "a2784f799e8239d608f4185fdc27166fb8f7134ec740ba80234e1406a170e700",
+    "confirmed": [
+      {
+        "name": "The Masonry",
+        "legs": [
+          "Damian Lillard"
+        ],
+        "rr": false,
+        "market": "under 3.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Damian Lillard": "Trail Blazers vs Timberwolves \u00b7 Tue Nov 17 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Damian Lillard": -122
+        }
+      }
+    ],
+    "announced": {
+      "The Masonry": [
+        "Damian Lillard"
+      ]
+    },
+    "abets": [
+      "downtown|under 3.5 threes|Damian Lillard"
+    ],
     "slate": "2026-11-17",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 17 Nov 2026 23:42:10 GMT",
-    "checked_at": "2026-11-17T23:42:14.354586+00:00"
+    "last_modified": "Wed, 18 Nov 2026 00:54:51 GMT",
+    "checked_at": "2026-11-18T00:55:17.535475+00:00"
   }
 }
