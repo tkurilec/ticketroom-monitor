@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 18 Nov 2026 03:40:11 GMT",
-    "checked_at": "2026-11-18T03:40:15.918188+00:00"
+    "last_modified": "Wed, 18 Nov 2026 03:41:05 GMT",
+    "checked_at": "2026-11-18T03:41:12.984650+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a9795de08d9eff830f02edd3f68c8a101d5293255b36aba4cdeda2e8ac8a2127",
@@ -61,8 +61,8 @@
       "a:Erling Haaland"
     ],
     "ltd": null,
-    "last_modified": "Wed, 18 Nov 2026 03:40:11 GMT",
-    "checked_at": "2026-11-18T03:40:16.713048+00:00"
+    "last_modified": "Wed, 18 Nov 2026 03:41:05 GMT",
+    "checked_at": "2026-11-18T03:41:13.744588+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -96,11 +96,11 @@
       "best": 22,
       "settled": false
     },
-    "last_modified": "Wed, 18 Nov 2026 03:40:11 GMT",
-    "checked_at": "2026-11-18T03:40:16.988758+00:00"
+    "last_modified": "Wed, 18 Nov 2026 03:41:05 GMT",
+    "checked_at": "2026-11-18T03:41:13.833422+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "a9c93a9ab2324b72eef450ed9443ef02affa43b4fb03dd8a6389b04ab768ab2a",
+    "hash": "d021055952ded47a1d7a0e6b5a8dc7001a8892a11a19c0fac1d79f867b0c68ad",
     "confirmed": [
       {
         "name": "First Touch",
@@ -131,21 +131,6 @@
         "odds": {
           "Damian Lillard": -122
         }
-      },
-      {
-        "name": "Two Points",
-        "legs": [
-          "Sandro Mamukelashvili"
-        ],
-        "rr": false,
-        "info": {
-          "Sandro Mamukelashvili": "Lakers vs Hornets \u00b7 Tue Nov 17 \u00b7 11:00 PM ET"
-        },
-        "odds": {
-          "Sandro Mamukelashvili": 850
-        },
-        "units": 0.6,
-        "group": "5"
       }
     ],
     "announced": {
@@ -167,7 +152,7 @@
     "slate": "2026-11-17",
     "hits": [],
     "ltd": null,
-    "last_modified": "Wed, 18 Nov 2026 03:40:11 GMT",
-    "checked_at": "2026-11-18T03:40:19.505373+00:00"
+    "last_modified": "Wed, 18 Nov 2026 03:41:05 GMT",
+    "checked_at": "2026-11-18T03:41:14.570871+00:00"
   }
 }
