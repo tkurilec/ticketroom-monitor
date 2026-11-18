@@ -950,8 +950,9 @@
             "Erling Haaland": -125
           },
           "bkey": "|anytime goalscorer|Erling Haaland",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.6,
+          "legs_hit": 1
         },
         "The Poacher": {
           "legs": [
@@ -964,8 +965,9 @@
             "Robert Lewandowski": -120
           },
           "bkey": "|anytime goalscorer|Robert Lewandowski",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         }
       }
     },
@@ -2269,7 +2271,8 @@
           "pl": 3.0,
           "legs_hit": 1
         }
-      }
+      },
+      "2026-11-19": {}
     },
     "NBA Board": {
       "2026-11-05": {
@@ -3941,7 +3944,7 @@
       "2026-11-18": {}
     }
   },
-  "recap_sent": "2026-11-17",
+  "recap_sent": "2026-11-18",
   "daily": {
     "Soccer Board": {
       "2026-11-02": {
@@ -4026,6 +4029,13 @@
         "l": 1,
         "v": 0,
         "pl": -0.85,
+        "unk": 0
+      },
+      "2026-11-17": {
+        "w": 1,
+        "l": 1,
+        "v": 0,
+        "pl": 0.6,
         "unk": 0
       }
     },
@@ -4275,6 +4285,13 @@
         "l": 3,
         "v": 0,
         "pl": 0.8,
+        "unk": 0
+      },
+      "2026-11-17": {
+        "w": 0,
+        "l": 3,
+        "v": 0,
+        "pl": -2.2,
         "unk": 0
       }
     }
