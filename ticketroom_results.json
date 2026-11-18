@@ -3903,8 +3903,9 @@
             "Damian Lillard": -122
           },
           "bkey": "downtown|under 3.5 threes|Damian Lillard",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "First Touch": {
           "legs": [
@@ -3917,8 +3918,9 @@
             "Mo Bamba": 1200
           },
           "bkey": "|first basket|Mo Bamba",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Two Points": {
           "legs": [
@@ -3931,10 +3933,12 @@
             "Sandro Mamukelashvili": 850
           },
           "bkey": "|first basket|Sandro Mamukelashvili",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         }
-      }
+      },
+      "2026-11-18": {}
     }
   },
   "recap_sent": "2026-11-17",
