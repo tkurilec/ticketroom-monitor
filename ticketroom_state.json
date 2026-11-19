@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Thu, 19 Nov 2026 00:17:14 GMT",
-    "checked_at": "2026-11-19T00:18:11.564556+00:00"
+    "checked_at": "2026-11-19T00:20:20.493307+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a3ec49b0ebf8b9eb98a5eb797865cd8ea0ffe29d7320ee963f8976683cd27f7c",
@@ -45,7 +45,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Thu, 19 Nov 2026 00:17:14 GMT",
-    "checked_at": "2026-11-19T00:18:12.059864+00:00"
+    "checked_at": "2026-11-19T00:20:20.875389+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -56,7 +56,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Thu, 19 Nov 2026 00:17:14 GMT",
-    "checked_at": "2026-11-19T00:18:12.384951+00:00"
+    "checked_at": "2026-11-19T00:20:21.022257+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "39c126640249ae574f52e3487e6f90f22890fcb9f9028e2508b3ec452d215155",
@@ -113,9 +113,11 @@
       "|first basket|Tyrese Proctor"
     ],
     "slate": "2026-11-18",
-    "hits": [],
+    "hits": [
+      "a:Klay Thompson"
+    ],
     "ltd": null,
     "last_modified": "Thu, 19 Nov 2026 00:17:14 GMT",
-    "checked_at": "2026-11-19T00:18:13.672324+00:00"
+    "checked_at": "2026-11-19T00:20:21.947575+00:00"
   }
 }
