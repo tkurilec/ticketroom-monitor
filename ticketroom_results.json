@@ -3983,6 +3983,20 @@
           "bkey": "downtown|over 1.5 threes|Sam Merrill",
           "result": null,
           "pl": null
+        },
+        "Builder Grade": {
+          "legs": [
+            "Bobby Portis Jr."
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Bobby Portis Jr.": 150
+          },
+          "bkey": "downtown|over 1.5 threes|Bobby Portis Jr.",
+          "result": null,
+          "pl": null
         }
       }
     }
