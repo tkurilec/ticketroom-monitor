@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 04:57:17 GMT",
-    "checked_at": "2026-11-19T05:00:24.191845+00:00"
+    "last_modified": "Thu, 19 Nov 2026 11:02:03 GMT",
+    "checked_at": "2026-11-19T11:02:14.180328+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a3ec49b0ebf8b9eb98a5eb797865cd8ea0ffe29d7320ee963f8976683cd27f7c",
@@ -44,8 +44,8 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 04:57:17 GMT",
-    "checked_at": "2026-11-19T05:00:24.478916+00:00"
+    "last_modified": "Thu, 19 Nov 2026 11:02:03 GMT",
+    "checked_at": "2026-11-19T11:02:14.442207+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -55,49 +55,18 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 04:57:17 GMT",
-    "checked_at": "2026-11-19T05:00:24.546142+00:00"
+    "last_modified": "Thu, 19 Nov 2026 11:02:03 GMT",
+    "checked_at": "2026-11-19T11:02:14.573411+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Two Points": [
-        "Tyrese Proctor"
-      ],
-      "The Starter": [
-        "Klay Thompson"
-      ],
-      "Floor Plan": [
-        "Sam Merrill"
-      ],
-      "Builder Grade": [
-        "Bobby Portis Jr."
-      ],
-      "Jump Ball": [
-        "Mo Bamba"
-      ],
-      "Opening Set": [
-        "Aday Mara"
-      ]
-    },
-    "abets": [
-      "downtown|over 1.5 threes|Bobby Portis Jr.",
-      "downtown|over 1.5 threes|Sam Merrill",
-      "|first basket|Aday Mara",
-      "|first basket|Daniss Jenkins",
-      "|first basket|Jeremiah Fears",
-      "|first basket|Klay Thompson",
-      "|first basket|Mo Bamba",
-      "|first basket|Tyrese Proctor"
-    ],
-    "slate": "2026-11-18",
-    "hits": [
-      "a:Aday Mara",
-      "a:Klay Thompson"
-    ],
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-19",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 04:57:17 GMT",
-    "checked_at": "2026-11-19T05:00:25.567980+00:00"
+    "last_modified": "Thu, 19 Nov 2026 11:02:03 GMT",
+    "checked_at": "2026-11-19T11:02:14.750403+00:00"
   }
 }

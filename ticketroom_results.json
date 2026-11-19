@@ -2150,42 +2150,6 @@
       "2026-11-19": {}
     },
     "NBA Board": {
-      "2026-11-05": {
-        "First Basket: ORL@PHX": {
-          "legs": [
-            "Franz Wagner",
-            "Wendell Carter Jr."
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "Franz Wagner": 500,
-            "Wendell Carter Jr.": 600
-          },
-          "bkey": "fb2|first basket|Franz Wagner,Wendell Carter Jr.",
-          "result": "won",
-          "legs_hit": 1,
-          "pl": 2.0
-        },
-        "First Basket: MIA@GSW": {
-          "legs": [
-            "Bam Adebayo",
-            "Giannis Antetokounmpo"
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "Bam Adebayo": 500,
-            "Giannis Antetokounmpo": 330
-          },
-          "bkey": "fb2|first basket|Bam Adebayo,Giannis Antetokounmpo",
-          "result": "lost",
-          "legs_hit": 0,
-          "pl": -1.0
-        }
-      },
       "2026-11-06": {
         "First Basket: WAS@ATL": {
           "legs": [
@@ -3828,8 +3792,9 @@
             "Tyrese Proctor": 1000
           },
           "bkey": "|first basket|Tyrese Proctor",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "The Starter": {
           "legs": [
@@ -3842,8 +3807,9 @@
             "Klay Thompson": 900
           },
           "bkey": "|first basket|Klay Thompson",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 5.3999999999999995,
+          "legs_hit": 1
         },
         "Floor Plan": {
           "legs": [
@@ -3856,8 +3822,9 @@
             "Sam Merrill": 100
           },
           "bkey": "downtown|over 1.5 threes|Sam Merrill",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Builder Grade": {
           "legs": [
@@ -3870,8 +3837,9 @@
             "Bobby Portis Jr.": 150
           },
           "bkey": "downtown|over 1.5 threes|Bobby Portis Jr.",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Jump Ball": {
           "legs": [
@@ -3884,8 +3852,9 @@
             "Jeremiah Fears": 950
           },
           "bkey": "|first basket|Jeremiah Fears",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "Opening Set": {
           "legs": [
@@ -3898,10 +3867,12 @@
             "Daniss Jenkins": 900
           },
           "bkey": "|first basket|Daniss Jenkins",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         }
-      }
+      },
+      "2026-11-19": {}
     }
   },
   "recap_sent": "2026-11-18",
