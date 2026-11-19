@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 02:46:51 GMT",
-    "checked_at": "2026-11-19T02:47:13.112434+00:00"
+    "last_modified": "Thu, 19 Nov 2026 04:57:17 GMT",
+    "checked_at": "2026-11-19T05:00:24.191845+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a3ec49b0ebf8b9eb98a5eb797865cd8ea0ffe29d7320ee963f8976683cd27f7c",
@@ -44,8 +44,8 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 02:46:51 GMT",
-    "checked_at": "2026-11-19T02:47:14.416534+00:00"
+    "last_modified": "Thu, 19 Nov 2026 04:57:17 GMT",
+    "checked_at": "2026-11-19T05:00:24.478916+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -55,103 +55,12 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 02:46:51 GMT",
-    "checked_at": "2026-11-19T02:47:14.760957+00:00"
+    "last_modified": "Thu, 19 Nov 2026 04:57:17 GMT",
+    "checked_at": "2026-11-19T05:00:24.546142+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "ae42f684b0672d988c8d9f98a6b1887c4d084f3203f010b33764851efb10c165",
-    "confirmed": [
-      {
-        "name": "Builder Grade",
-        "legs": [
-          "Bobby Portis Jr."
-        ],
-        "rr": false,
-        "market": "over 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Bobby Portis Jr.": "Heat vs Bucks \u00b7 Wed Nov 18 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Bobby Portis Jr.": 150
-        }
-      },
-      {
-        "name": "Floor Plan",
-        "legs": [
-          "Sam Merrill"
-        ],
-        "rr": false,
-        "market": "over 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Sam Merrill": "Cavaliers vs Grizzlies \u00b7 Wed Nov 18 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Sam Merrill": 100
-        }
-      },
-      {
-        "name": "Jump Ball",
-        "legs": [
-          "Mo Bamba"
-        ],
-        "rr": false,
-        "info": {
-          "Mo Bamba": "Jazz vs Lakers \u00b7 Wed Nov 18 \u00b7 10:00 PM ET"
-        },
-        "odds": {
-          "Mo Bamba": 1200
-        },
-        "units": 0.6,
-        "group": "12"
-      },
-      {
-        "name": "Opening Set",
-        "legs": [
-          "Aday Mara"
-        ],
-        "rr": false,
-        "info": {
-          "Aday Mara": "Thunder vs Hawks \u00b7 Wed Nov 18 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Aday Mara": 1000
-        },
-        "units": 0.6,
-        "group": "8"
-      },
-      {
-        "name": "The Starter",
-        "legs": [
-          "Klay Thompson"
-        ],
-        "rr": false,
-        "info": {
-          "Klay Thompson": "Heat vs Bucks \u00b7 Wed Nov 18 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Klay Thompson": 900
-        },
-        "units": 0.6,
-        "group": "4"
-      },
-      {
-        "name": "Two Points",
-        "legs": [
-          "Tyrese Proctor"
-        ],
-        "rr": false,
-        "info": {
-          "Tyrese Proctor": "Cavaliers vs Grizzlies \u00b7 Wed Nov 18 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Tyrese Proctor": 1000
-        },
-        "units": 0.6,
-        "group": "2"
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Two Points": [
         "Tyrese Proctor"
@@ -188,7 +97,7 @@
       "a:Klay Thompson"
     ],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 02:46:51 GMT",
-    "checked_at": "2026-11-19T02:47:19.093738+00:00"
+    "last_modified": "Thu, 19 Nov 2026 04:57:17 GMT",
+    "checked_at": "2026-11-19T05:00:25.567980+00:00"
   }
 }
