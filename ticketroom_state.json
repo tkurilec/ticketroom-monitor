@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 00:17:14 GMT",
-    "checked_at": "2026-11-19T00:20:20.493307+00:00"
+    "last_modified": "Thu, 19 Nov 2026 00:26:53 GMT",
+    "checked_at": "2026-11-19T00:27:20.727936+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a3ec49b0ebf8b9eb98a5eb797865cd8ea0ffe29d7320ee963f8976683cd27f7c",
@@ -44,8 +44,8 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 00:17:14 GMT",
-    "checked_at": "2026-11-19T00:20:20.875389+00:00"
+    "last_modified": "Thu, 19 Nov 2026 00:26:53 GMT",
+    "checked_at": "2026-11-19T00:27:21.309506+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -55,12 +55,42 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 00:17:14 GMT",
-    "checked_at": "2026-11-19T00:20:21.022257+00:00"
+    "last_modified": "Thu, 19 Nov 2026 00:26:53 GMT",
+    "checked_at": "2026-11-19T00:27:21.481547+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "39c126640249ae574f52e3487e6f90f22890fcb9f9028e2508b3ec452d215155",
+    "hash": "7dc68736dae392075ef476e193f5f4ed807f54db3d4c0d577bc4b44299b5c294",
     "confirmed": [
+      {
+        "name": "Builder Grade",
+        "legs": [
+          "Bobby Portis Jr."
+        ],
+        "rr": false,
+        "market": "over 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Bobby Portis Jr.": "Heat vs Bucks \u00b7 Wed Nov 18 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "Bobby Portis Jr.": 150
+        }
+      },
+      {
+        "name": "Floor Plan",
+        "legs": [
+          "Sam Merrill"
+        ],
+        "rr": false,
+        "market": "over 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Sam Merrill": "Cavaliers vs Grizzlies \u00b7 Wed Nov 18 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "Sam Merrill": 100
+        }
+      },
       {
         "name": "The Starter",
         "legs": [
@@ -117,7 +147,7 @@
       "a:Klay Thompson"
     ],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 00:17:14 GMT",
-    "checked_at": "2026-11-19T00:20:21.947575+00:00"
+    "last_modified": "Thu, 19 Nov 2026 00:26:53 GMT",
+    "checked_at": "2026-11-19T00:27:23.000628+00:00"
   }
 }
