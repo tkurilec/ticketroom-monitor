@@ -2161,7 +2161,50 @@
           "legs_hit": 1
         }
       },
-      "2026-11-19": {}
+      "2026-11-19": {
+        "Bell Cow": {
+          "legs": [
+            "Nick Westbrook-Ikhine"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Nick Westbrook-Ikhine": 2690
+          },
+          "bkey": "|anytime touchdown|Nick Westbrook-Ikhine",
+          "result": null,
+          "pl": null
+        },
+        "Goal Line Back": {
+          "legs": [
+            "Pharaoh Brown"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Pharaoh Brown": 3500
+          },
+          "bkey": "|anytime touchdown|Pharaoh Brown",
+          "result": null,
+          "pl": null
+        },
+        "Ice Breaker": {
+          "legs": [
+            "Jonathan Taylor"
+          ],
+          "kind": "ftd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jonathan Taylor": 681
+          },
+          "bkey": "ftd|first touchdown scorer|Jonathan Taylor",
+          "result": null,
+          "pl": null
+        }
+      }
     },
     "NBA Board": {
       "2026-11-06": {

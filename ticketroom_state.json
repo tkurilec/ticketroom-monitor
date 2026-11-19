@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 23:42:01 GMT",
-    "checked_at": "2026-11-19T23:42:14.554886+00:00"
+    "last_modified": "Thu, 19 Nov 2026 23:56:54 GMT",
+    "checked_at": "2026-11-19T23:57:22.345350+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8cc5b1d8e77cf6bdbdbb7cbe988c645d993fc049da967f5c07ea55d71fe7dd03",
@@ -78,19 +78,75 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 23:42:01 GMT",
-    "checked_at": "2026-11-19T23:42:16.477918+00:00"
+    "last_modified": "Thu, 19 Nov 2026 23:56:54 GMT",
+    "checked_at": "2026-11-19T23:57:22.926658+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "2b222ab6d829c3617f53de724b9ed0e8c736c1ed32ea72adfe364d5907c9fcb7",
+    "confirmed": [
+      {
+        "name": "Bell Cow",
+        "legs": [
+          "Nick Westbrook-Ikhine"
+        ],
+        "rr": false,
+        "info": {
+          "Nick Westbrook-Ikhine": "Colts vs Texans \u00b7 Thu Nov 19 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Nick Westbrook-Ikhine": 2690
+        }
+      },
+      {
+        "name": "Goal Line Back",
+        "legs": [
+          "Pharaoh Brown"
+        ],
+        "rr": false,
+        "info": {
+          "Pharaoh Brown": "Colts vs Texans \u00b7 Thu Nov 19 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Pharaoh Brown": 3500
+        }
+      },
+      {
+        "name": "Ice Breaker",
+        "legs": [
+          "Jonathan Taylor"
+        ],
+        "rr": false,
+        "info": {
+          "Jonathan Taylor": "Colts vs Texans \u00b7 Thu Nov 19 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Jonathan Taylor": 681
+        },
+        "market": "first touchdown scorer",
+        "kind": "ftd"
+      }
+    ],
+    "announced": {
+      "Bell Cow": [
+        "Nick Westbrook-Ikhine"
+      ],
+      "Goal Line Back": [
+        "Pharaoh Brown"
+      ],
+      "Ice Breaker": [
+        "Jonathan Taylor"
+      ]
+    },
+    "abets": [
+      "ftd|first touchdown scorer|Jonathan Taylor",
+      "|anytime touchdown|Nick Westbrook-Ikhine",
+      "|anytime touchdown|Pharaoh Brown"
+    ],
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 23:42:01 GMT",
-    "checked_at": "2026-11-19T23:42:16.673771+00:00"
+    "last_modified": "Thu, 19 Nov 2026 23:56:54 GMT",
+    "checked_at": "2026-11-19T23:57:24.477898+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -100,7 +156,7 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 23:42:01 GMT",
-    "checked_at": "2026-11-19T23:42:17.026452+00:00"
+    "last_modified": "Thu, 19 Nov 2026 23:56:54 GMT",
+    "checked_at": "2026-11-19T23:57:24.638559+00:00"
   }
 }
