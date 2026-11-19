@@ -3872,6 +3872,34 @@
           "bkey": "downtown|over 1.5 threes|Bobby Portis Jr.",
           "result": null,
           "pl": null
+        },
+        "Jump Ball": {
+          "legs": [
+            "Jeremiah Fears"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Jeremiah Fears": 950
+          },
+          "bkey": "|first basket|Jeremiah Fears",
+          "result": null,
+          "pl": null
+        },
+        "Opening Set": {
+          "legs": [
+            "Daniss Jenkins"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Daniss Jenkins": 900
+          },
+          "bkey": "|first basket|Daniss Jenkins",
+          "result": null,
+          "pl": null
         }
       }
     }
