@@ -7,34 +7,45 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 00:01:10 GMT",
-    "checked_at": "2026-11-19T00:01:14.083302+00:00"
+    "last_modified": "Thu, 19 Nov 2026 00:10:50 GMT",
+    "checked_at": "2026-11-19T00:11:13.054220+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "a3ec49b0ebf8b9eb98a5eb797865cd8ea0ffe29d7320ee963f8976683cd27f7c",
+    "confirmed": [
+      {
+        "name": "The Net Count",
+        "legs": [
+          "Orlando City SC v FC Cincinnati: Orlando City SC over 1.5 goals",
+          "Seattle Sounders FC v Real Salt Lake: Both teams to score"
+        ],
+        "rr": false,
+        "market": "",
+        "kind": "totals",
+        "info": {
+          "Seattle Sounders FC v Real Salt Lake: Both teams to score": "Thu Nov 19 \u00b7 10:00 PM ET",
+          "Orlando City SC v FC Cincinnati: Orlando City SC over 1.5 goals": "Thu Nov 19 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Seattle Sounders FC v Real Salt Lake: Both teams to score": -200,
+          "Orlando City SC v FC Cincinnati: Orlando City SC over 1.5 goals": -160
+        }
+      }
+    ],
     "announced": {
-      "Go-To Man": [
-        "Erling Haaland"
-      ],
-      "Target Man": [
-        "Erling Haaland"
-      ],
-      "The Poacher": [
-        "Robert Lewandowski"
+      "The Net Count": [
+        "Orlando City SC v FC Cincinnati: Orlando City SC over 1.5 goals",
+        "Seattle Sounders FC v Real Salt Lake: Both teams to score"
       ]
     },
     "abets": [
-      "|anytime goalscorer|Erling Haaland",
-      "|anytime goalscorer|Robert Lewandowski"
+      "totals||Orlando City SC v FC Cincinnati: Orlando City SC over 1.5 goals,Seattle Sounders FC v Real Salt Lake: Both teams to score"
     ],
-    "slate": "2026-11-17",
-    "hits": [
-      "a:Erling Haaland"
-    ],
+    "slate": "2026-11-19",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 00:01:10 GMT",
-    "checked_at": "2026-11-19T00:01:14.250561+00:00"
+    "last_modified": "Thu, 19 Nov 2026 00:10:49 GMT",
+    "checked_at": "2026-11-19T00:11:15.136311+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -44,8 +55,8 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 00:01:10 GMT",
-    "checked_at": "2026-11-19T00:01:14.399899+00:00"
+    "last_modified": "Thu, 19 Nov 2026 00:10:50 GMT",
+    "checked_at": "2026-11-19T00:11:15.284477+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "7dc68736dae392075ef476e193f5f4ed807f54db3d4c0d577bc4b44299b5c294",
@@ -134,7 +145,7 @@
     "slate": "2026-11-18",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 00:01:10 GMT",
-    "checked_at": "2026-11-19T00:01:16.107512+00:00"
+    "last_modified": "Thu, 19 Nov 2026 00:10:49 GMT",
+    "checked_at": "2026-11-19T00:11:15.738233+00:00"
   }
 }
