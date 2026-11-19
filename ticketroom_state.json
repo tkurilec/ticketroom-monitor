@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 01:11:29 GMT",
-    "checked_at": "2026-11-19T01:12:11.630163+00:00"
+    "last_modified": "Thu, 19 Nov 2026 02:46:51 GMT",
+    "checked_at": "2026-11-19T02:47:13.112434+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a3ec49b0ebf8b9eb98a5eb797865cd8ea0ffe29d7320ee963f8976683cd27f7c",
@@ -44,8 +44,8 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 01:11:29 GMT",
-    "checked_at": "2026-11-19T01:12:12.219320+00:00"
+    "last_modified": "Thu, 19 Nov 2026 02:46:51 GMT",
+    "checked_at": "2026-11-19T02:47:14.416534+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -55,11 +55,11 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 01:11:29 GMT",
-    "checked_at": "2026-11-19T01:12:12.522635+00:00"
+    "last_modified": "Thu, 19 Nov 2026 02:46:51 GMT",
+    "checked_at": "2026-11-19T02:47:14.760957+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "ec7d8eb9d9942a3a2f02cb53075f9490d22b4cbe825ff849e887b9cb8659ef9f",
+    "hash": "ae42f684b0672d988c8d9f98a6b1887c4d084f3203f010b33764851efb10c165",
     "confirmed": [
       {
         "name": "Builder Grade",
@@ -90,6 +90,21 @@
         "odds": {
           "Sam Merrill": 100
         }
+      },
+      {
+        "name": "Jump Ball",
+        "legs": [
+          "Mo Bamba"
+        ],
+        "rr": false,
+        "info": {
+          "Mo Bamba": "Jazz vs Lakers \u00b7 Wed Nov 18 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "Mo Bamba": 1200
+        },
+        "units": 0.6,
+        "group": "12"
       },
       {
         "name": "Opening Set",
@@ -151,7 +166,7 @@
         "Bobby Portis Jr."
       ],
       "Jump Ball": [
-        "Jeremiah Fears"
+        "Mo Bamba"
       ],
       "Opening Set": [
         "Aday Mara"
@@ -164,6 +179,7 @@
       "|first basket|Daniss Jenkins",
       "|first basket|Jeremiah Fears",
       "|first basket|Klay Thompson",
+      "|first basket|Mo Bamba",
       "|first basket|Tyrese Proctor"
     ],
     "slate": "2026-11-18",
@@ -172,7 +188,7 @@
       "a:Klay Thompson"
     ],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 01:11:29 GMT",
-    "checked_at": "2026-11-19T01:12:15.863239+00:00"
+    "last_modified": "Thu, 19 Nov 2026 02:46:51 GMT",
+    "checked_at": "2026-11-19T02:47:19.093738+00:00"
   }
 }
