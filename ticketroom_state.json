@@ -7,12 +7,39 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 11:02:03 GMT",
-    "checked_at": "2026-11-19T11:02:14.180328+00:00"
+    "last_modified": "Thu, 19 Nov 2026 23:42:01 GMT",
+    "checked_at": "2026-11-19T23:42:14.554886+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "a3ec49b0ebf8b9eb98a5eb797865cd8ea0ffe29d7320ee963f8976683cd27f7c",
+    "hash": "8cc5b1d8e77cf6bdbdbb7cbe988c645d993fc049da967f5c07ea55d71fe7dd03",
     "confirmed": [
+      {
+        "name": "Target Man",
+        "legs": [
+          "Antoine Griezmann"
+        ],
+        "rr": false,
+        "info": {
+          "Antoine Griezmann": "Orlando City SC vs FC Cincinnati \u00b7 Thu Nov 19 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Antoine Griezmann": 112
+        }
+      },
+      {
+        "name": "The Banker",
+        "legs": [
+          "Antoine Griezmann"
+        ],
+        "rr": false,
+        "info": {
+          "Antoine Griezmann": "Orlando City SC vs FC Cincinnati \u00b7 Thu Nov 19 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Antoine Griezmann": 112
+        },
+        "units": 2
+      },
       {
         "name": "The Net Count",
         "legs": [
@@ -36,16 +63,23 @@
       "The Net Count": [
         "Orlando City SC v FC Cincinnati: Orlando City SC over 1.5 goals",
         "Seattle Sounders FC v Real Salt Lake: Both teams to score"
+      ],
+      "Target Man": [
+        "Antoine Griezmann"
+      ],
+      "The Banker": [
+        "Antoine Griezmann"
       ]
     },
     "abets": [
-      "totals||Orlando City SC v FC Cincinnati: Orlando City SC over 1.5 goals,Seattle Sounders FC v Real Salt Lake: Both teams to score"
+      "totals||Orlando City SC v FC Cincinnati: Orlando City SC over 1.5 goals,Seattle Sounders FC v Real Salt Lake: Both teams to score",
+      "|anytime goalscorer|Antoine Griezmann"
     ],
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 11:02:03 GMT",
-    "checked_at": "2026-11-19T11:02:14.442207+00:00"
+    "last_modified": "Thu, 19 Nov 2026 23:42:01 GMT",
+    "checked_at": "2026-11-19T23:42:16.477918+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -55,8 +89,8 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 11:02:03 GMT",
-    "checked_at": "2026-11-19T11:02:14.573411+00:00"
+    "last_modified": "Thu, 19 Nov 2026 23:42:01 GMT",
+    "checked_at": "2026-11-19T23:42:16.673771+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -66,7 +100,7 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 11:02:03 GMT",
-    "checked_at": "2026-11-19T11:02:14.750403+00:00"
+    "last_modified": "Thu, 19 Nov 2026 23:42:01 GMT",
+    "checked_at": "2026-11-19T23:42:17.026452+00:00"
   }
 }
