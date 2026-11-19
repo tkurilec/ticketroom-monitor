@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 00:36:41 GMT",
-    "checked_at": "2026-11-19T00:40:16.748106+00:00"
+    "last_modified": "Thu, 19 Nov 2026 00:46:15 GMT",
+    "checked_at": "2026-11-19T00:47:14.647271+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a3ec49b0ebf8b9eb98a5eb797865cd8ea0ffe29d7320ee963f8976683cd27f7c",
@@ -44,8 +44,8 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 00:36:41 GMT",
-    "checked_at": "2026-11-19T00:40:17.459300+00:00"
+    "last_modified": "Thu, 19 Nov 2026 00:46:15 GMT",
+    "checked_at": "2026-11-19T00:47:15.136888+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -55,11 +55,11 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 00:36:41 GMT",
-    "checked_at": "2026-11-19T00:40:17.620863+00:00"
+    "last_modified": "Thu, 19 Nov 2026 00:46:15 GMT",
+    "checked_at": "2026-11-19T00:47:15.324700+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "ec98d7870874fb4dce2d4c4ac55900e99f6069b2d66bbfc2a0261f74a93d9190",
+    "hash": "ec7d8eb9d9942a3a2f02cb53075f9490d22b4cbe825ff849e887b9cb8659ef9f",
     "confirmed": [
       {
         "name": "Builder Grade",
@@ -92,34 +92,19 @@
         }
       },
       {
-        "name": "Jump Ball",
-        "legs": [
-          "Jeremiah Fears"
-        ],
-        "rr": false,
-        "info": {
-          "Jeremiah Fears": "Pelicans vs Pistons \u00b7 Wed Nov 18 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Jeremiah Fears": 950
-        },
-        "units": 0.3,
-        "group": "7"
-      },
-      {
         "name": "Opening Set",
         "legs": [
-          "Daniss Jenkins"
+          "Aday Mara"
         ],
         "rr": false,
         "info": {
-          "Daniss Jenkins": "Pistons vs Pelicans \u00b7 Wed Nov 18 \u00b7 8:00 PM ET"
+          "Aday Mara": "Thunder vs Hawks \u00b7 Wed Nov 18 \u00b7 8:00 PM ET"
         },
         "odds": {
-          "Daniss Jenkins": 900
+          "Aday Mara": 1000
         },
-        "units": 0.3,
-        "group": "7"
+        "units": 0.6,
+        "group": "8"
       },
       {
         "name": "The Starter",
@@ -169,12 +154,13 @@
         "Jeremiah Fears"
       ],
       "Opening Set": [
-        "Daniss Jenkins"
+        "Aday Mara"
       ]
     },
     "abets": [
       "downtown|over 1.5 threes|Bobby Portis Jr.",
       "downtown|over 1.5 threes|Sam Merrill",
+      "|first basket|Aday Mara",
       "|first basket|Daniss Jenkins",
       "|first basket|Jeremiah Fears",
       "|first basket|Klay Thompson",
@@ -185,7 +171,7 @@
       "a:Klay Thompson"
     ],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 00:36:41 GMT",
-    "checked_at": "2026-11-19T00:40:20.407258+00:00"
+    "last_modified": "Thu, 19 Nov 2026 00:46:15 GMT",
+    "checked_at": "2026-11-19T00:47:17.846505+00:00"
   }
 }
