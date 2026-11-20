@@ -857,6 +857,20 @@
           "bkey": "|anytime goalscorer|Antoine Griezmann",
           "result": null,
           "pl": null
+        },
+        "Six-Yard Box": {
+          "legs": [
+            "Dejan Joveljic"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Dejan Joveljic": 122
+          },
+          "bkey": "|anytime goalscorer|Dejan Joveljic",
+          "result": null,
+          "pl": null
         }
       }
     },

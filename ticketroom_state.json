@@ -7,12 +7,25 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 01:12:14 GMT",
-    "checked_at": "2026-11-20T01:15:19.773279+00:00"
+    "last_modified": "Fri, 20 Nov 2026 02:22:12 GMT",
+    "checked_at": "2026-11-20T02:22:12.595029+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "8cc5b1d8e77cf6bdbdbb7cbe988c645d993fc049da967f5c07ea55d71fe7dd03",
+    "hash": "3923c58199031b7a96a294e04e67fb862972dd9c7e050e253895da733613ee7c",
     "confirmed": [
+      {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Dejan Joveljic"
+        ],
+        "rr": false,
+        "info": {
+          "Dejan Joveljic": "Seattle Sounders FC vs Real Salt Lake \u00b7 Thu Nov 19 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "Dejan Joveljic": 122
+        }
+      },
       {
         "name": "Target Man",
         "legs": [
@@ -69,17 +82,21 @@
       ],
       "The Banker": [
         "Antoine Griezmann"
+      ],
+      "Six-Yard Box": [
+        "Dejan Joveljic"
       ]
     },
     "abets": [
       "totals||Orlando City SC v FC Cincinnati: Orlando City SC over 1.5 goals,Seattle Sounders FC v Real Salt Lake: Both teams to score",
-      "|anytime goalscorer|Antoine Griezmann"
+      "|anytime goalscorer|Antoine Griezmann",
+      "|anytime goalscorer|Dejan Joveljic"
     ],
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 01:12:14 GMT",
-    "checked_at": "2026-11-20T01:15:20.301388+00:00"
+    "last_modified": "Fri, 20 Nov 2026 02:22:12 GMT",
+    "checked_at": "2026-11-20T02:22:14.357623+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "405bc1458a6d11a6da02508ab36b23d280b99ddafe4e5dad408b27aae67b383f",
@@ -162,8 +179,8 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 01:12:14 GMT",
-    "checked_at": "2026-11-20T01:15:20.555400+00:00"
+    "last_modified": "Fri, 20 Nov 2026 02:22:12 GMT",
+    "checked_at": "2026-11-20T02:22:14.979842+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e7c92accffcf488d511b49fbc85438b822c8e02a188be33ad8b160e3dcea5209",
@@ -273,7 +290,7 @@
       "dt:Max Strus"
     ],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 01:12:14 GMT",
-    "checked_at": "2026-11-20T01:15:21.342708+00:00"
+    "last_modified": "Fri, 20 Nov 2026 02:22:12 GMT",
+    "checked_at": "2026-11-20T02:22:16.674624+00:00"
   }
 }
