@@ -2157,8 +2157,9 @@
             "Nick Westbrook-Ikhine": 2690
           },
           "bkey": "|anytime touchdown|Nick Westbrook-Ikhine",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Goal Line Back": {
           "legs": [
@@ -2171,8 +2172,9 @@
             "Pharaoh Brown": 3500
           },
           "bkey": "|anytime touchdown|Pharaoh Brown",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Ice Breaker": {
           "legs": [
@@ -2185,8 +2187,9 @@
             "Jonathan Taylor": 681
           },
           "bkey": "ftd|first touchdown scorer|Jonathan Taylor",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "The Workhorse": {
           "legs": [
@@ -2199,8 +2202,9 @@
             "Nikko Remigio": 2830
           },
           "bkey": "|anytime touchdown|Nikko Remigio",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         }
       }
     },
@@ -3903,7 +3907,7 @@
       "2026-11-20": {}
     }
   },
-  "recap_sent": "2026-11-19",
+  "recap_sent": "2026-11-20",
   "daily": {
     "Soccer Board": {
       "2026-11-02": {
@@ -3996,6 +4000,13 @@
         "v": 0,
         "pl": 0.6,
         "unk": 0
+      },
+      "2026-11-19": {
+        "w": 0,
+        "l": 3,
+        "v": 0,
+        "pl": -4.0,
+        "unk": 0
       }
     },
     "NFL Board": {
@@ -4053,6 +4064,13 @@
         "l": 3,
         "v": 0,
         "pl": 0.0,
+        "unk": 0
+      },
+      "2026-11-19": {
+        "w": 0,
+        "l": 4,
+        "v": 0,
+        "pl": -4.0,
         "unk": 0
       }
     },
@@ -4258,6 +4276,13 @@
         "l": 5,
         "v": 0,
         "pl": 2.2,
+        "unk": 0
+      },
+      "2026-11-19": {
+        "w": 1,
+        "l": 4,
+        "v": 0,
+        "pl": -1.1,
         "unk": 0
       }
     }
