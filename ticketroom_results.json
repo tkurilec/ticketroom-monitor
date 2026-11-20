@@ -3957,6 +3957,62 @@
           "bkey": "|first basket|Brook Lopez",
           "result": null,
           "pl": null
+        },
+        "Center Circle": {
+          "legs": [
+            "Brayden Burries"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Brayden Burries": 1000
+          },
+          "bkey": "|first basket|Brayden Burries",
+          "result": null,
+          "pl": null
+        },
+        "Crane Operator": {
+          "legs": [
+            "Max Strus"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Max Strus": -111
+          },
+          "bkey": "downtown|over 1.5 threes|Max Strus",
+          "result": null,
+          "pl": null
+        },
+        "Jump Ball": {
+          "legs": [
+            "Charles Bassey"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Charles Bassey": 750
+          },
+          "bkey": "|first basket|Charles Bassey",
+          "result": null,
+          "pl": null
+        },
+        "Opening Set": {
+          "legs": [
+            "Max Strus"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "Max Strus": 1800
+          },
+          "bkey": "|first basket|Max Strus",
+          "result": null,
+          "pl": null
         }
       }
     }

@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 00:36:55 GMT",
-    "checked_at": "2026-11-20T00:37:12.091441+00:00"
+    "last_modified": "Fri, 20 Nov 2026 00:46:58 GMT",
+    "checked_at": "2026-11-20T00:47:22.616904+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8cc5b1d8e77cf6bdbdbb7cbe988c645d993fc049da967f5c07ea55d71fe7dd03",
@@ -78,8 +78,8 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 00:36:55 GMT",
-    "checked_at": "2026-11-20T00:37:12.720917+00:00"
+    "last_modified": "Fri, 20 Nov 2026 00:46:58 GMT",
+    "checked_at": "2026-11-20T00:47:22.984031+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "405bc1458a6d11a6da02508ab36b23d280b99ddafe4e5dad408b27aae67b383f",
@@ -162,12 +162,72 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 00:36:55 GMT",
-    "checked_at": "2026-11-20T00:37:13.005212+00:00"
+    "last_modified": "Fri, 20 Nov 2026 00:46:58 GMT",
+    "checked_at": "2026-11-20T00:47:23.094464+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "be689d3fd5b44d009a95889d44c5a517f0dba9da34d0518c0c9b2c29765668d4",
+    "hash": "e7c92accffcf488d511b49fbc85438b822c8e02a188be33ad8b160e3dcea5209",
     "confirmed": [
+      {
+        "name": "Center Circle",
+        "legs": [
+          "Brayden Burries"
+        ],
+        "rr": false,
+        "info": {
+          "Brayden Burries": "Bucks vs Trail Blazers \u00b7 Thu Nov 19 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Brayden Burries": 1000
+        },
+        "units": 0.6,
+        "group": "4"
+      },
+      {
+        "name": "Crane Operator",
+        "legs": [
+          "Max Strus"
+        ],
+        "rr": false,
+        "market": "over 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Max Strus": "Clippers vs Spurs \u00b7 Thu Nov 19 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Max Strus": -111
+        }
+      },
+      {
+        "name": "Jump Ball",
+        "legs": [
+          "Charles Bassey"
+        ],
+        "rr": false,
+        "info": {
+          "Charles Bassey": "Warriors vs Grizzlies \u00b7 Thu Nov 19 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Charles Bassey": 750
+        },
+        "units": 0.6,
+        "group": "3"
+      },
+      {
+        "name": "Opening Set",
+        "legs": [
+          "Max Strus"
+        ],
+        "rr": false,
+        "info": {
+          "Max Strus": "Clippers vs Spurs \u00b7 Thu Nov 19 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Max Strus": 1800
+        },
+        "units": 0.2,
+        "group": "2"
+      },
       {
         "name": "The Starter",
         "legs": [
@@ -187,15 +247,31 @@
     "announced": {
       "The Starter": [
         "Brook Lopez"
+      ],
+      "Center Circle": [
+        "Brayden Burries"
+      ],
+      "Crane Operator": [
+        "Max Strus"
+      ],
+      "Jump Ball": [
+        "Charles Bassey"
+      ],
+      "Opening Set": [
+        "Max Strus"
       ]
     },
     "abets": [
-      "|first basket|Brook Lopez"
+      "downtown|over 1.5 threes|Max Strus",
+      "|first basket|Brayden Burries",
+      "|first basket|Brook Lopez",
+      "|first basket|Charles Bassey",
+      "|first basket|Max Strus"
     ],
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 00:36:55 GMT",
-    "checked_at": "2026-11-20T00:37:14.662474+00:00"
+    "last_modified": "Fri, 20 Nov 2026 00:46:58 GMT",
+    "checked_at": "2026-11-20T00:47:24.444010+00:00"
   }
 }
