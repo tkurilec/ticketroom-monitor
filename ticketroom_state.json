@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 02:22:12 GMT",
-    "checked_at": "2026-11-20T02:22:12.595029+00:00"
+    "last_modified": "Fri, 20 Nov 2026 04:38:04 GMT",
+    "checked_at": "2026-11-20T04:38:12.550461+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "3923c58199031b7a96a294e04e67fb862972dd9c7e050e253895da733613ee7c",
@@ -93,10 +93,12 @@
       "|anytime goalscorer|Dejan Joveljic"
     ],
     "slate": "2026-11-19",
-    "hits": [],
+    "hits": [
+      "t:Seattle Sounders FC v Real Salt Lake: Both teams to score"
+    ],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 02:22:12 GMT",
-    "checked_at": "2026-11-20T02:22:14.357623+00:00"
+    "last_modified": "Fri, 20 Nov 2026 04:38:04 GMT",
+    "checked_at": "2026-11-20T04:38:12.919102+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "405bc1458a6d11a6da02508ab36b23d280b99ddafe4e5dad408b27aae67b383f",
@@ -179,8 +181,8 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 02:22:12 GMT",
-    "checked_at": "2026-11-20T02:22:14.979842+00:00"
+    "last_modified": "Fri, 20 Nov 2026 04:38:04 GMT",
+    "checked_at": "2026-11-20T04:38:13.064171+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e7c92accffcf488d511b49fbc85438b822c8e02a188be33ad8b160e3dcea5209",
@@ -290,7 +292,7 @@
       "dt:Max Strus"
     ],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 02:22:12 GMT",
-    "checked_at": "2026-11-20T02:22:16.674624+00:00"
+    "last_modified": "Fri, 20 Nov 2026 04:38:04 GMT",
+    "checked_at": "2026-11-20T04:38:13.674199+00:00"
   }
 }
