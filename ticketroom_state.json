@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Thu, 19 Nov 2026 23:56:54 GMT",
-    "checked_at": "2026-11-19T23:57:22.345350+00:00"
+    "checked_at": "2026-11-20T00:00:22.518729+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8cc5b1d8e77cf6bdbdbb7cbe988c645d993fc049da967f5c07ea55d71fe7dd03",
@@ -79,10 +79,10 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Thu, 19 Nov 2026 23:56:54 GMT",
-    "checked_at": "2026-11-19T23:57:22.926658+00:00"
+    "checked_at": "2026-11-20T00:00:22.860533+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "2b222ab6d829c3617f53de724b9ed0e8c736c1ed32ea72adfe364d5907c9fcb7",
+    "hash": "405bc1458a6d11a6da02508ab36b23d280b99ddafe4e5dad408b27aae67b383f",
     "confirmed": [
       {
         "name": "Bell Cow",
@@ -124,6 +124,19 @@
         },
         "market": "first touchdown scorer",
         "kind": "ftd"
+      },
+      {
+        "name": "The Workhorse",
+        "legs": [
+          "Nikko Remigio"
+        ],
+        "rr": false,
+        "info": {
+          "Nikko Remigio": "Texans vs Colts \u00b7 Thu Nov 19 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Nikko Remigio": 2830
+        }
       }
     ],
     "announced": {
@@ -135,18 +148,22 @@
       ],
       "Ice Breaker": [
         "Jonathan Taylor"
+      ],
+      "The Workhorse": [
+        "Nikko Remigio"
       ]
     },
     "abets": [
       "ftd|first touchdown scorer|Jonathan Taylor",
       "|anytime touchdown|Nick Westbrook-Ikhine",
+      "|anytime touchdown|Nikko Remigio",
       "|anytime touchdown|Pharaoh Brown"
     ],
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
     "last_modified": "Thu, 19 Nov 2026 23:56:54 GMT",
-    "checked_at": "2026-11-19T23:57:24.477898+00:00"
+    "checked_at": "2026-11-20T00:00:24.455969+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -157,6 +174,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Thu, 19 Nov 2026 23:56:54 GMT",
-    "checked_at": "2026-11-19T23:57:24.638559+00:00"
+    "checked_at": "2026-11-20T00:00:24.652001+00:00"
   }
 }

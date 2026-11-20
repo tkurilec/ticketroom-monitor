@@ -2203,6 +2203,20 @@
           "bkey": "ftd|first touchdown scorer|Jonathan Taylor",
           "result": null,
           "pl": null
+        },
+        "The Workhorse": {
+          "legs": [
+            "Nikko Remigio"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Nikko Remigio": 2830
+          },
+          "bkey": "|anytime touchdown|Nikko Remigio",
+          "result": null,
+          "pl": null
         }
       }
     },
