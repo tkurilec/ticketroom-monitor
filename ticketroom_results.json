@@ -3943,7 +3943,22 @@
           "legs_hit": 0
         }
       },
-      "2026-11-19": {}
+      "2026-11-19": {
+        "The Starter": {
+          "legs": [
+            "Brook Lopez"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Brook Lopez": 1000
+          },
+          "bkey": "|first basket|Brook Lopez",
+          "result": null,
+          "pl": null
+        }
+      }
     }
   },
   "recap_sent": "2026-11-19",

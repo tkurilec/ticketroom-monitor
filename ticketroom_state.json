@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 23:56:54 GMT",
-    "checked_at": "2026-11-20T00:00:22.518729+00:00"
+    "last_modified": "Fri, 20 Nov 2026 00:36:55 GMT",
+    "checked_at": "2026-11-20T00:37:12.091441+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "8cc5b1d8e77cf6bdbdbb7cbe988c645d993fc049da967f5c07ea55d71fe7dd03",
@@ -78,8 +78,8 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 23:56:54 GMT",
-    "checked_at": "2026-11-20T00:00:22.860533+00:00"
+    "last_modified": "Fri, 20 Nov 2026 00:36:55 GMT",
+    "checked_at": "2026-11-20T00:37:12.720917+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "405bc1458a6d11a6da02508ab36b23d280b99ddafe4e5dad408b27aae67b383f",
@@ -162,18 +162,40 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 23:56:54 GMT",
-    "checked_at": "2026-11-20T00:00:24.455969+00:00"
+    "last_modified": "Fri, 20 Nov 2026 00:36:55 GMT",
+    "checked_at": "2026-11-20T00:37:13.005212+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "be689d3fd5b44d009a95889d44c5a517f0dba9da34d0518c0c9b2c29765668d4",
+    "confirmed": [
+      {
+        "name": "The Starter",
+        "legs": [
+          "Brook Lopez"
+        ],
+        "rr": false,
+        "info": {
+          "Brook Lopez": "Clippers vs Spurs \u00b7 Thu Nov 19 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Brook Lopez": 1000
+        },
+        "units": 0.6,
+        "group": "2"
+      }
+    ],
+    "announced": {
+      "The Starter": [
+        "Brook Lopez"
+      ]
+    },
+    "abets": [
+      "|first basket|Brook Lopez"
+    ],
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Thu, 19 Nov 2026 23:56:54 GMT",
-    "checked_at": "2026-11-20T00:00:24.652001+00:00"
+    "last_modified": "Fri, 20 Nov 2026 00:36:55 GMT",
+    "checked_at": "2026-11-20T00:37:14.662474+00:00"
   }
 }
