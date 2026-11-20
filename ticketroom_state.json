@@ -7,19 +7,73 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 11:00:53 GMT",
-    "checked_at": "2026-11-20T11:01:15.326183+00:00"
+    "last_modified": "Fri, 20 Nov 2026 18:46:10 GMT",
+    "checked_at": "2026-11-20T18:46:21.670291+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "cf54ff4240e17ca289812707d3efbeea9497af9ac737e61889b90026534a6400",
+    "confirmed": [
+      {
+        "name": "Target Man",
+        "legs": [
+          "Harry Kane"
+        ],
+        "rr": false,
+        "info": {
+          "Harry Kane": "Bayern Munich vs FC Cologne \u00b7 Fri Nov 20 \u00b7 2:30 PM ET"
+        },
+        "odds": {
+          "Harry Kane": -320
+        }
+      },
+      {
+        "name": "The Banker",
+        "legs": [
+          "Harry Kane"
+        ],
+        "rr": false,
+        "info": {
+          "Harry Kane": "Bayern Munich vs FC Cologne \u00b7 Fri Nov 20 \u00b7 2:30 PM ET"
+        },
+        "odds": {
+          "Harry Kane": -320
+        },
+        "units": 2
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Michael Olise"
+        ],
+        "rr": false,
+        "info": {
+          "Michael Olise": "Bayern Munich vs FC Cologne \u00b7 Fri Nov 20 \u00b7 2:30 PM ET"
+        },
+        "odds": {
+          "Michael Olise": -130
+        }
+      }
+    ],
+    "announced": {
+      "Target Man": [
+        "Harry Kane"
+      ],
+      "The Banker": [
+        "Harry Kane"
+      ],
+      "The Poacher": [
+        "Michael Olise"
+      ]
+    },
+    "abets": [
+      "|anytime goalscorer|Harry Kane",
+      "|anytime goalscorer|Michael Olise"
+    ],
     "slate": "2026-11-20",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 11:00:53 GMT",
-    "checked_at": "2026-11-20T11:01:15.669954+00:00"
+    "last_modified": "Fri, 20 Nov 2026 18:46:10 GMT",
+    "checked_at": "2026-11-20T18:46:23.514761+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -47,8 +101,8 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 11:00:53 GMT",
-    "checked_at": "2026-11-20T11:01:15.850960+00:00"
+    "last_modified": "Fri, 20 Nov 2026 18:46:10 GMT",
+    "checked_at": "2026-11-20T18:46:23.710707+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -58,7 +112,7 @@
     "slate": "2026-11-20",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 11:00:53 GMT",
-    "checked_at": "2026-11-20T11:01:16.041081+00:00"
+    "last_modified": "Fri, 20 Nov 2026 18:46:10 GMT",
+    "checked_at": "2026-11-20T18:46:23.870669+00:00"
   }
 }
