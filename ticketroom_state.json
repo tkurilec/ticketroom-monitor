@@ -7,71 +7,12 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 04:38:04 GMT",
-    "checked_at": "2026-11-20T04:38:12.550461+00:00"
+    "last_modified": "Fri, 20 Nov 2026 04:58:16 GMT",
+    "checked_at": "2026-11-20T05:00:31.920118+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "3923c58199031b7a96a294e04e67fb862972dd9c7e050e253895da733613ee7c",
-    "confirmed": [
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Dejan Joveljic"
-        ],
-        "rr": false,
-        "info": {
-          "Dejan Joveljic": "Seattle Sounders FC vs Real Salt Lake \u00b7 Thu Nov 19 \u00b7 10:00 PM ET"
-        },
-        "odds": {
-          "Dejan Joveljic": 122
-        }
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Antoine Griezmann"
-        ],
-        "rr": false,
-        "info": {
-          "Antoine Griezmann": "Orlando City SC vs FC Cincinnati \u00b7 Thu Nov 19 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "Antoine Griezmann": 112
-        }
-      },
-      {
-        "name": "The Banker",
-        "legs": [
-          "Antoine Griezmann"
-        ],
-        "rr": false,
-        "info": {
-          "Antoine Griezmann": "Orlando City SC vs FC Cincinnati \u00b7 Thu Nov 19 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "Antoine Griezmann": 112
-        },
-        "units": 2
-      },
-      {
-        "name": "The Net Count",
-        "legs": [
-          "Orlando City SC v FC Cincinnati: Orlando City SC over 1.5 goals",
-          "Seattle Sounders FC v Real Salt Lake: Both teams to score"
-        ],
-        "rr": false,
-        "market": "",
-        "kind": "totals",
-        "info": {
-          "Seattle Sounders FC v Real Salt Lake: Both teams to score": "Thu Nov 19 \u00b7 10:00 PM ET",
-          "Orlando City SC v FC Cincinnati: Orlando City SC over 1.5 goals": "Thu Nov 19 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "Seattle Sounders FC v Real Salt Lake: Both teams to score": -200,
-          "Orlando City SC v FC Cincinnati: Orlando City SC over 1.5 goals": -160
-        }
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "The Net Count": [
         "Orlando City SC v FC Cincinnati: Orlando City SC over 1.5 goals",
@@ -97,67 +38,12 @@
       "t:Seattle Sounders FC v Real Salt Lake: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 04:38:04 GMT",
-    "checked_at": "2026-11-20T04:38:12.919102+00:00"
+    "last_modified": "Fri, 20 Nov 2026 04:58:16 GMT",
+    "checked_at": "2026-11-20T05:00:31.999861+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "405bc1458a6d11a6da02508ab36b23d280b99ddafe4e5dad408b27aae67b383f",
-    "confirmed": [
-      {
-        "name": "Bell Cow",
-        "legs": [
-          "Nick Westbrook-Ikhine"
-        ],
-        "rr": false,
-        "info": {
-          "Nick Westbrook-Ikhine": "Colts vs Texans \u00b7 Thu Nov 19 \u00b7 8:15 PM ET"
-        },
-        "odds": {
-          "Nick Westbrook-Ikhine": 2690
-        }
-      },
-      {
-        "name": "Goal Line Back",
-        "legs": [
-          "Pharaoh Brown"
-        ],
-        "rr": false,
-        "info": {
-          "Pharaoh Brown": "Colts vs Texans \u00b7 Thu Nov 19 \u00b7 8:15 PM ET"
-        },
-        "odds": {
-          "Pharaoh Brown": 3500
-        }
-      },
-      {
-        "name": "Ice Breaker",
-        "legs": [
-          "Jonathan Taylor"
-        ],
-        "rr": false,
-        "info": {
-          "Jonathan Taylor": "Colts vs Texans \u00b7 Thu Nov 19 \u00b7 8:15 PM ET"
-        },
-        "odds": {
-          "Jonathan Taylor": 681
-        },
-        "market": "first touchdown scorer",
-        "kind": "ftd"
-      },
-      {
-        "name": "The Workhorse",
-        "legs": [
-          "Nikko Remigio"
-        ],
-        "rr": false,
-        "info": {
-          "Nikko Remigio": "Texans vs Colts \u00b7 Thu Nov 19 \u00b7 8:15 PM ET"
-        },
-        "odds": {
-          "Nikko Remigio": 2830
-        }
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Bell Cow": [
         "Nick Westbrook-Ikhine"
@@ -181,88 +67,12 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 04:38:04 GMT",
-    "checked_at": "2026-11-20T04:38:13.064171+00:00"
+    "last_modified": "Fri, 20 Nov 2026 04:58:16 GMT",
+    "checked_at": "2026-11-20T05:00:32.060122+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e7c92accffcf488d511b49fbc85438b822c8e02a188be33ad8b160e3dcea5209",
-    "confirmed": [
-      {
-        "name": "Center Circle",
-        "legs": [
-          "Brayden Burries"
-        ],
-        "rr": false,
-        "info": {
-          "Brayden Burries": "Bucks vs Trail Blazers \u00b7 Thu Nov 19 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Brayden Burries": 1000
-        },
-        "units": 0.6,
-        "group": "4"
-      },
-      {
-        "name": "Crane Operator",
-        "legs": [
-          "Max Strus"
-        ],
-        "rr": false,
-        "market": "over 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Max Strus": "Clippers vs Spurs \u00b7 Thu Nov 19 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Max Strus": -111
-        }
-      },
-      {
-        "name": "Jump Ball",
-        "legs": [
-          "Charles Bassey"
-        ],
-        "rr": false,
-        "info": {
-          "Charles Bassey": "Warriors vs Grizzlies \u00b7 Thu Nov 19 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Charles Bassey": 750
-        },
-        "units": 0.6,
-        "group": "3"
-      },
-      {
-        "name": "Opening Set",
-        "legs": [
-          "Max Strus"
-        ],
-        "rr": false,
-        "info": {
-          "Max Strus": "Clippers vs Spurs \u00b7 Thu Nov 19 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Max Strus": 1800
-        },
-        "units": 0.2,
-        "group": "2"
-      },
-      {
-        "name": "The Starter",
-        "legs": [
-          "Brook Lopez"
-        ],
-        "rr": false,
-        "info": {
-          "Brook Lopez": "Clippers vs Spurs \u00b7 Thu Nov 19 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Brook Lopez": 1000
-        },
-        "units": 0.6,
-        "group": "2"
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "The Starter": [
         "Brook Lopez"
@@ -292,7 +102,7 @@
       "dt:Max Strus"
     ],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 04:38:04 GMT",
-    "checked_at": "2026-11-20T04:38:13.674199+00:00"
+    "last_modified": "Fri, 20 Nov 2026 04:58:16 GMT",
+    "checked_at": "2026-11-20T05:00:32.348331+00:00"
   }
 }
