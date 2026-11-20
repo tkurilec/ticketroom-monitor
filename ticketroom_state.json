@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 05:31:54 GMT",
-    "checked_at": "2026-11-20T05:32:12.670235+00:00"
+    "last_modified": "Fri, 20 Nov 2026 11:00:53 GMT",
+    "checked_at": "2026-11-20T11:01:15.326183+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -18,8 +18,8 @@
     "slate": "2026-11-20",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 05:31:54 GMT",
-    "checked_at": "2026-11-20T05:32:12.867015+00:00"
+    "last_modified": "Fri, 20 Nov 2026 11:00:53 GMT",
+    "checked_at": "2026-11-20T11:01:15.669954+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -47,42 +47,18 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 05:31:54 GMT",
-    "checked_at": "2026-11-20T05:32:12.996759+00:00"
+    "last_modified": "Fri, 20 Nov 2026 11:00:53 GMT",
+    "checked_at": "2026-11-20T11:01:15.850960+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "The Starter": [
-        "Brook Lopez"
-      ],
-      "Center Circle": [
-        "Brayden Burries"
-      ],
-      "Crane Operator": [
-        "Max Strus"
-      ],
-      "Jump Ball": [
-        "Charles Bassey"
-      ],
-      "Opening Set": [
-        "Max Strus"
-      ]
-    },
-    "abets": [
-      "downtown|over 1.5 threes|Max Strus",
-      "|first basket|Brayden Burries",
-      "|first basket|Brook Lopez",
-      "|first basket|Charles Bassey",
-      "|first basket|Max Strus"
-    ],
-    "slate": "2026-11-19",
-    "hits": [
-      "dt:Max Strus"
-    ],
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-20",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 05:31:54 GMT",
-    "checked_at": "2026-11-20T05:32:13.525132+00:00"
+    "last_modified": "Fri, 20 Nov 2026 11:00:53 GMT",
+    "checked_at": "2026-11-20T11:01:16.041081+00:00"
   }
 }

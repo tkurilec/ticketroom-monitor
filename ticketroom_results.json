@@ -2205,110 +2205,6 @@
       }
     },
     "NBA Board": {
-      "2026-11-06": {
-        "First Basket: WAS@ATL": {
-          "legs": [
-            "AJ Dybantsa",
-            "Deandre Ayton"
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "AJ Dybantsa": 650,
-            "Deandre Ayton": 800
-          },
-          "bkey": "fb2|first basket|AJ Dybantsa,Deandre Ayton",
-          "result": "lost",
-          "legs_hit": 0,
-          "pl": -1.0
-        },
-        "First Basket: OKC@MEM": {
-          "legs": [
-            "Ty Jerome",
-            "Zach Edey"
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "Ty Jerome": 500,
-            "Zach Edey": 600
-          },
-          "bkey": "fb2|first basket|Ty Jerome,Zach Edey",
-          "result": "lost",
-          "legs_hit": 0,
-          "pl": -1.0
-        },
-        "First Basket: MIN@NOP": {
-          "legs": [
-            "Jonathan Kuminga",
-            "LaMelo Ball"
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "LaMelo Ball": 500,
-            "Jonathan Kuminga": 700
-          },
-          "bkey": "fb2|first basket|Jonathan Kuminga,LaMelo Ball",
-          "result": "lost",
-          "legs_hit": 0,
-          "pl": -1.0
-        },
-        "First Basket: TOR@MIL": {
-          "legs": [
-            "Jakob Poeltl",
-            "RJ Barrett"
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "Jakob Poeltl": 600,
-            "RJ Barrett": 600
-          },
-          "bkey": "fb2|first basket|Jakob Poeltl,RJ Barrett",
-          "result": "lost",
-          "legs_hit": 0,
-          "pl": -1.0
-        },
-        "First Basket: UTA@DAL": {
-          "legs": [
-            "Ace Bailey",
-            "Lauri Markkanen"
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "Ace Bailey": 800,
-            "Lauri Markkanen": 600
-          },
-          "bkey": "fb2|first basket|Ace Bailey,Lauri Markkanen",
-          "result": "won",
-          "legs_hit": 1,
-          "pl": 2.5
-        },
-        "First Basket: SAS@SAC": {
-          "legs": [
-            "De'Aaron Fox",
-            "Victor Wembanyama"
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "Victor Wembanyama": 240,
-            "De'Aaron Fox": 600
-          },
-          "bkey": "fb2|first basket|De'Aaron Fox,Victor Wembanyama",
-          "result": "won",
-          "legs_hit": 1,
-          "pl": 2.5
-        }
-      },
       "2026-11-07": {
         "First Basket: ORL@GSW": {
           "legs": [
@@ -3939,8 +3835,9 @@
             "Brook Lopez": 1000
           },
           "bkey": "|first basket|Brook Lopez",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Center Circle": {
           "legs": [
@@ -3953,8 +3850,9 @@
             "Brayden Burries": 1000
           },
           "bkey": "|first basket|Brayden Burries",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Crane Operator": {
           "legs": [
@@ -3967,8 +3865,9 @@
             "Max Strus": -111
           },
           "bkey": "downtown|over 1.5 threes|Max Strus",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.900900900900901,
+          "legs_hit": 1
         },
         "Jump Ball": {
           "legs": [
@@ -3981,8 +3880,9 @@
             "Charles Bassey": 750
           },
           "bkey": "|first basket|Charles Bassey",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Opening Set": {
           "legs": [
@@ -3995,10 +3895,12 @@
             "Max Strus": 1800
           },
           "bkey": "|first basket|Max Strus",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.2,
+          "legs_hit": 0
         }
-      }
+      },
+      "2026-11-20": {}
     }
   },
   "recap_sent": "2026-11-19",
