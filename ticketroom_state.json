@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 19:32:10 GMT",
-    "checked_at": "2026-11-21T19:32:13.786658+00:00"
+    "last_modified": "Sat, 21 Nov 2026 22:39:06 GMT",
+    "checked_at": "2026-11-21T22:39:12.252659+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "72f18d39c0579ab8e0fe2b4d3a0262bbb3c54d51c7063765572e6068566375c8",
+    "hash": "75d45aeea97925baca898781884d81aebf7deb31b5cd96a19927e2a5c8b2a355",
     "confirmed": [
       {
         "name": "Back Post",
@@ -141,6 +141,19 @@
         "odds": {
           "Kylian Mbappe": -270
         }
+      },
+      {
+        "name": "The Poacher",
+        "legs": [
+          "Lionel Messi"
+        ],
+        "rr": false,
+        "info": {
+          "Lionel Messi": "Inter Miami CF vs Columbus Crew \u00b7 Sat Nov 21 \u00b7 6:00 PM ET"
+        },
+        "odds": {
+          "Lionel Messi": -157
+        }
       }
     ],
     "announced": {
@@ -173,6 +186,9 @@
       ],
       "Rebound": [
         "Paris Brunner"
+      ],
+      "The Poacher": [
+        "Lionel Messi"
       ]
     },
     "abets": [
@@ -181,6 +197,7 @@
       "|anytime goalscorer|Donyell Malen",
       "|anytime goalscorer|Erling Haaland",
       "|anytime goalscorer|Kylian Mbappe",
+      "|anytime goalscorer|Lionel Messi",
       "|anytime goalscorer|Paris Brunner",
       "|anytime goalscorer|Patrik Schick",
       "|anytime goalscorer|Romulo"
@@ -193,8 +210,8 @@
       "t:Alav\u00e9s v Deportivo: Deportivo to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 19:32:10 GMT",
-    "checked_at": "2026-11-21T19:32:18.170394+00:00"
+    "last_modified": "Sat, 21 Nov 2026 22:39:06 GMT",
+    "checked_at": "2026-11-21T22:39:17.490497+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -204,8 +221,8 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 19:32:10 GMT",
-    "checked_at": "2026-11-21T19:32:18.382188+00:00"
+    "last_modified": "Sat, 21 Nov 2026 22:39:06 GMT",
+    "checked_at": "2026-11-21T22:39:17.686778+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "bfb1147d686181e0f64d813c0292c7297bc8a00b66524c38196180f6a357fe29",
@@ -277,7 +294,7 @@
       "dt:Kentavious Caldwell-Pope"
     ],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 19:32:10 GMT",
-    "checked_at": "2026-11-21T19:32:19.315620+00:00"
+    "last_modified": "Sat, 21 Nov 2026 22:39:06 GMT",
+    "checked_at": "2026-11-21T22:39:18.195422+00:00"
   }
 }
