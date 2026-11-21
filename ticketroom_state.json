@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 18:46:10 GMT",
-    "checked_at": "2026-11-20T18:46:21.670291+00:00"
+    "last_modified": "Sat, 21 Nov 2026 00:08:13 GMT",
+    "checked_at": "2026-11-21T00:10:18.286690+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "cf54ff4240e17ca289812707d3efbeea9497af9ac737e61889b90026534a6400",
@@ -72,8 +72,8 @@
     "slate": "2026-11-20",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 18:46:10 GMT",
-    "checked_at": "2026-11-20T18:46:23.514761+00:00"
+    "last_modified": "Sat, 21 Nov 2026 00:08:13 GMT",
+    "checked_at": "2026-11-21T00:10:18.760046+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -101,18 +101,59 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 18:46:10 GMT",
-    "checked_at": "2026-11-20T18:46:23.710707+00:00"
+    "last_modified": "Sat, 21 Nov 2026 00:08:13 GMT",
+    "checked_at": "2026-11-21T00:10:18.949894+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "afb8ca18041b4177d185c18fbed950e3ccb298bc9a649d12aa9ccaa4840a0c48",
+    "confirmed": [
+      {
+        "name": "Jump Ball",
+        "legs": [
+          "Jakob Poeltl"
+        ],
+        "rr": false,
+        "info": {
+          "Jakob Poeltl": "Raptors vs Pistons \u00b7 Fri Nov 20 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Jakob Poeltl": 850
+        },
+        "units": 0.3,
+        "group": "2"
+      },
+      {
+        "name": "Opening Set",
+        "legs": [
+          "John Collins"
+        ],
+        "rr": false,
+        "info": {
+          "John Collins": "Pistons vs Raptors \u00b7 Fri Nov 20 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "John Collins": 750
+        },
+        "units": 0.3,
+        "group": "2"
+      }
+    ],
+    "announced": {
+      "Jump Ball": [
+        "Jakob Poeltl"
+      ],
+      "Opening Set": [
+        "John Collins"
+      ]
+    },
+    "abets": [
+      "|first basket|Jakob Poeltl",
+      "|first basket|John Collins"
+    ],
     "slate": "2026-11-20",
     "hits": [],
     "ltd": null,
-    "last_modified": "Fri, 20 Nov 2026 18:46:10 GMT",
-    "checked_at": "2026-11-20T18:46:23.870669+00:00"
+    "last_modified": "Sat, 21 Nov 2026 00:08:13 GMT",
+    "checked_at": "2026-11-21T00:10:20.433524+00:00"
   }
 }

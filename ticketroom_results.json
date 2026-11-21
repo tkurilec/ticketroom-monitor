@@ -3933,7 +3933,36 @@
           "legs_hit": 0
         }
       },
-      "2026-11-20": {}
+      "2026-11-20": {
+        "Jump Ball": {
+          "legs": [
+            "Jakob Poeltl"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Jakob Poeltl": 850
+          },
+          "bkey": "|first basket|Jakob Poeltl",
+          "result": null,
+          "pl": null
+        },
+        "Opening Set": {
+          "legs": [
+            "John Collins"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "John Collins": 750
+          },
+          "bkey": "|first basket|John Collins",
+          "result": null,
+          "pl": null
+        }
+      }
     }
   },
   "recap_sent": "2026-11-20",
