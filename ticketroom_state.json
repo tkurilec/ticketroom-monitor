@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 16:20:57 GMT",
-    "checked_at": "2026-11-21T16:21:12.065797+00:00"
+    "last_modified": "Sat, 21 Nov 2026 17:36:46 GMT",
+    "checked_at": "2026-11-21T17:37:11.538213+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "60cce66f78f4dd5c86d637ae4a540a186f0e8b71294555cf37d4c9b981a91720",
@@ -158,8 +158,8 @@
       "t:Alav\u00e9s v Deportivo: Deportivo to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 16:20:57 GMT",
-    "checked_at": "2026-11-21T16:21:15.111589+00:00"
+    "last_modified": "Sat, 21 Nov 2026 17:36:46 GMT",
+    "checked_at": "2026-11-21T17:37:15.605350+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -169,18 +169,40 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 16:20:57 GMT",
-    "checked_at": "2026-11-21T16:21:15.183242+00:00"
+    "last_modified": "Sat, 21 Nov 2026 17:36:46 GMT",
+    "checked_at": "2026-11-21T17:37:15.821002+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "88b16771dd50349b5d08b916b161697ad193838c5ef30a6fc8063b26bb006d2a",
+    "confirmed": [
+      {
+        "name": "Floor Plan",
+        "legs": [
+          "Kentavious Caldwell-Pope"
+        ],
+        "rr": false,
+        "market": "over 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Kentavious Caldwell-Pope": "76ers vs Bucks \u00b7 Sat Nov 21 \u00b7 1:00 PM ET"
+        },
+        "odds": {
+          "Kentavious Caldwell-Pope": 138
+        }
+      }
+    ],
+    "announced": {
+      "Floor Plan": [
+        "Kentavious Caldwell-Pope"
+      ]
+    },
+    "abets": [
+      "downtown|over 1.5 threes|Kentavious Caldwell-Pope"
+    ],
     "slate": "2026-11-21",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 16:20:57 GMT",
-    "checked_at": "2026-11-21T16:21:15.275795+00:00"
+    "last_modified": "Sat, 21 Nov 2026 17:36:46 GMT",
+    "checked_at": "2026-11-21T17:37:17.492612+00:00"
   }
 }

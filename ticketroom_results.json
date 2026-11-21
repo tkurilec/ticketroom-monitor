@@ -3988,7 +3988,22 @@
           "legs_hit": 0
         }
       },
-      "2026-11-21": {}
+      "2026-11-21": {
+        "Floor Plan": {
+          "legs": [
+            "Kentavious Caldwell-Pope"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Kentavious Caldwell-Pope": 138
+          },
+          "bkey": "downtown|over 1.5 threes|Kentavious Caldwell-Pope",
+          "result": null,
+          "pl": null
+        }
+      }
     }
   },
   "recap_sent": "2026-11-21",
