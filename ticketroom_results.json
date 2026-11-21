@@ -3920,6 +3920,20 @@
           "bkey": "downtown|over 1.5 threes|Obi Toppin",
           "result": null,
           "pl": null
+        },
+        "Groundbreaking": {
+          "legs": [
+            "Saddiq Bey"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Saddiq Bey": 164
+          },
+          "bkey": "downtown|over 2.5 threes|Saddiq Bey",
+          "result": null,
+          "pl": null
         }
       }
     }
