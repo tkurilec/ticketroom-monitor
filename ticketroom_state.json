@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 19:07:04 GMT",
-    "checked_at": "2026-11-21T19:07:10.816899+00:00"
+    "last_modified": "Sat, 21 Nov 2026 19:32:10 GMT",
+    "checked_at": "2026-11-21T19:32:13.786658+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "72f18d39c0579ab8e0fe2b4d3a0262bbb3c54d51c7063765572e6068566375c8",
@@ -193,8 +193,8 @@
       "t:Alav\u00e9s v Deportivo: Deportivo to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 19:07:04 GMT",
-    "checked_at": "2026-11-21T19:07:16.144708+00:00"
+    "last_modified": "Sat, 21 Nov 2026 19:32:10 GMT",
+    "checked_at": "2026-11-21T19:32:18.170394+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -204,8 +204,8 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 19:07:04 GMT",
-    "checked_at": "2026-11-21T19:07:16.423661+00:00"
+    "last_modified": "Sat, 21 Nov 2026 19:32:10 GMT",
+    "checked_at": "2026-11-21T19:32:18.382188+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "bfb1147d686181e0f64d813c0292c7297bc8a00b66524c38196180f6a357fe29",
@@ -273,9 +273,11 @@
       "|first basket|Ryan Rollins"
     ],
     "slate": "2026-11-21",
-    "hits": [],
+    "hits": [
+      "dt:Kentavious Caldwell-Pope"
+    ],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 19:07:04 GMT",
-    "checked_at": "2026-11-21T19:07:17.068422+00:00"
+    "last_modified": "Sat, 21 Nov 2026 19:32:10 GMT",
+    "checked_at": "2026-11-21T19:32:19.315620+00:00"
   }
 }
