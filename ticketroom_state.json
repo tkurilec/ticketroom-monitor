@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 11:05:39 GMT",
-    "checked_at": "2026-11-21T11:06:11.680556+00:00"
+    "last_modified": "Sat, 21 Nov 2026 11:31:50 GMT",
+    "checked_at": "2026-11-21T11:32:16.323094+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "f28d3a9ae3d4de911bb8345b6d23f68ce327926bd9ca7602914182d11fa4a574",
+    "hash": "5342d442f85f4e6f184cfed507ab48709a5a782f8ec588da33788681562942ca",
     "confirmed": [
       {
         "name": "Shut the Gate",
@@ -36,6 +36,19 @@
           "Aston Villa v Sunderland: Sunderland to score": -236,
           "AFC Bournemouth v Nottingham Forest: Nottingham Forest to score": -238
         }
+      },
+      {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Erling Haaland"
+        ],
+        "rr": false,
+        "info": {
+          "Erling Haaland": "Manchester City vs Fulham \u00b7 Sat Nov 21 \u00b7 7:30 AM ET"
+        },
+        "odds": {
+          "Erling Haaland": -178
+        }
       }
     ],
     "announced": {
@@ -44,16 +57,20 @@
         "Alav\u00e9s v Deportivo: Deportivo to score",
         "Aston Villa v Sunderland: Sunderland to score",
         "Schalke 04 v VfB Stuttgart: Both teams to score"
+      ],
+      "Six-Yard Box": [
+        "Erling Haaland"
       ]
     },
     "abets": [
-      "totals||AFC Bournemouth v Nottingham Forest: Nottingham Forest to score,Alav\u00e9s v Deportivo: Deportivo to score,Aston Villa v Sunderland: Sunderland to score,Schalke 04 v VfB Stuttgart: Both teams to score"
+      "totals||AFC Bournemouth v Nottingham Forest: Nottingham Forest to score,Alav\u00e9s v Deportivo: Deportivo to score,Aston Villa v Sunderland: Sunderland to score,Schalke 04 v VfB Stuttgart: Both teams to score",
+      "|anytime goalscorer|Erling Haaland"
     ],
     "slate": "2026-11-21",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 11:05:39 GMT",
-    "checked_at": "2026-11-21T11:06:12.681046+00:00"
+    "last_modified": "Sat, 21 Nov 2026 11:31:50 GMT",
+    "checked_at": "2026-11-21T11:32:19.376171+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -63,8 +80,8 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 11:05:39 GMT",
-    "checked_at": "2026-11-21T11:06:12.894824+00:00"
+    "last_modified": "Sat, 21 Nov 2026 11:31:50 GMT",
+    "checked_at": "2026-11-21T11:32:19.571237+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -74,7 +91,7 @@
     "slate": "2026-11-21",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 11:05:39 GMT",
-    "checked_at": "2026-11-21T11:06:13.242739+00:00"
+    "last_modified": "Sat, 21 Nov 2026 11:31:50 GMT",
+    "checked_at": "2026-11-21T11:32:19.716430+00:00"
   }
 }

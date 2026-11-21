@@ -815,6 +815,20 @@
           "bkey": "totals||AFC Bournemouth v Nottingham Forest: Nottingham Forest to score,Alavés v Deportivo: Deportivo to score,Aston Villa v Sunderland: Sunderland to score,Schalke 04 v VfB Stuttgart: Both teams to score",
           "result": null,
           "pl": null
+        },
+        "Six-Yard Box": {
+          "legs": [
+            "Erling Haaland"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Erling Haaland": -178
+          },
+          "bkey": "|anytime goalscorer|Erling Haaland",
+          "result": null,
+          "pl": null
         }
       }
     },
