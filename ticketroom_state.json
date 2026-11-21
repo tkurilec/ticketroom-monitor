@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 13:44:57 GMT",
-    "checked_at": "2026-11-21T13:45:16.392993+00:00"
+    "last_modified": "Sat, 21 Nov 2026 15:41:09 GMT",
+    "checked_at": "2026-11-21T15:41:12.671027+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "a238a2055ff865f17a10f3b91efc3e58f0fe3879e7ee145b87bcf14e100647c5",
@@ -119,11 +119,12 @@
     ],
     "slate": "2026-11-21",
     "hits": [
+      "a:Patrik Schick",
       "t:Alav\u00e9s v Deportivo: Deportivo to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 13:44:57 GMT",
-    "checked_at": "2026-11-21T13:45:21.868459+00:00"
+    "last_modified": "Sat, 21 Nov 2026 15:41:09 GMT",
+    "checked_at": "2026-11-21T15:41:15.931065+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -133,8 +134,8 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 13:44:57 GMT",
-    "checked_at": "2026-11-21T13:45:22.070363+00:00"
+    "last_modified": "Sat, 21 Nov 2026 15:41:09 GMT",
+    "checked_at": "2026-11-21T15:41:16.123300+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -144,7 +145,7 @@
     "slate": "2026-11-21",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 13:44:57 GMT",
-    "checked_at": "2026-11-21T13:45:22.384348+00:00"
+    "last_modified": "Sat, 21 Nov 2026 15:41:09 GMT",
+    "checked_at": "2026-11-21T15:41:16.313021+00:00"
   }
 }
