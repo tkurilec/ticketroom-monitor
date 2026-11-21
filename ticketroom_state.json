@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Sat, 21 Nov 2026 17:36:46 GMT",
-    "checked_at": "2026-11-21T17:37:11.538213+00:00"
+    "checked_at": "2026-11-21T17:40:23.879486+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "60cce66f78f4dd5c86d637ae4a540a186f0e8b71294555cf37d4c9b981a91720",
@@ -153,13 +153,14 @@
     ],
     "slate": "2026-11-21",
     "hits": [
+      "a:Donyell Malen",
       "a:Patrik Schick",
       "a:Romulo",
       "t:Alav\u00e9s v Deportivo: Deportivo to score"
     ],
     "ltd": null,
     "last_modified": "Sat, 21 Nov 2026 17:36:46 GMT",
-    "checked_at": "2026-11-21T17:37:15.605350+00:00"
+    "checked_at": "2026-11-21T17:40:27.032384+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -170,7 +171,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Sat, 21 Nov 2026 17:36:46 GMT",
-    "checked_at": "2026-11-21T17:37:15.821002+00:00"
+    "checked_at": "2026-11-21T17:40:27.210852+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "88b16771dd50349b5d08b916b161697ad193838c5ef30a6fc8063b26bb006d2a",
@@ -203,6 +204,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Sat, 21 Nov 2026 17:36:46 GMT",
-    "checked_at": "2026-11-21T17:37:17.492612+00:00"
+    "checked_at": "2026-11-21T17:40:27.462337+00:00"
   }
 }
