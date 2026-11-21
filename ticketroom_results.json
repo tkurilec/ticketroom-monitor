@@ -829,6 +829,34 @@
           "bkey": "|anytime goalscorer|Erling Haaland",
           "result": null,
           "pl": null
+        },
+        "Back Post": {
+          "legs": [
+            "Patrik Schick"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Patrik Schick": -175
+          },
+          "bkey": "|anytime goalscorer|Patrik Schick",
+          "result": null,
+          "pl": null
+        },
+        "Header Home": {
+          "legs": [
+            "Romulo"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Romulo": 117
+          },
+          "bkey": "|anytime goalscorer|Romulo",
+          "result": null,
+          "pl": null
         }
       }
     },
