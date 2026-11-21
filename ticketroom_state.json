@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 00:13:53 GMT",
-    "checked_at": "2026-11-21T00:14:17.980587+00:00"
+    "last_modified": "Sat, 21 Nov 2026 00:17:45 GMT",
+    "checked_at": "2026-11-21T00:18:12.198911+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f28d3a9ae3d4de911bb8345b6d23f68ce327926bd9ca7602914182d11fa4a574",
@@ -52,8 +52,8 @@
     "slate": "2026-11-21",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 00:13:53 GMT",
-    "checked_at": "2026-11-21T00:14:18.729424+00:00"
+    "last_modified": "Sat, 21 Nov 2026 00:17:45 GMT",
+    "checked_at": "2026-11-21T00:18:12.865616+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -81,11 +81,11 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 00:13:54 GMT",
-    "checked_at": "2026-11-21T00:14:18.955495+00:00"
+    "last_modified": "Sat, 21 Nov 2026 00:17:45 GMT",
+    "checked_at": "2026-11-21T00:18:12.938758+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "9dab413407e547e33271a5265d8cc5aa01d9f7cce221a3db693c7cc4843bf100",
+    "hash": "68aee303eb230a503bd83d3b572d7f46520dded76095ace947995dc6e323b004",
     "confirmed": [
       {
         "name": "General Contractor",
@@ -101,36 +101,6 @@
         "odds": {
           "Obi Toppin": 172
         }
-      },
-      {
-        "name": "Jump Ball",
-        "legs": [
-          "Jakob Poeltl"
-        ],
-        "rr": false,
-        "info": {
-          "Jakob Poeltl": "Raptors vs Pistons \u00b7 Fri Nov 20 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "Jakob Poeltl": 850
-        },
-        "units": 0.3,
-        "group": "2"
-      },
-      {
-        "name": "Opening Set",
-        "legs": [
-          "John Collins"
-        ],
-        "rr": false,
-        "info": {
-          "John Collins": "Pistons vs Raptors \u00b7 Fri Nov 20 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "John Collins": 750
-        },
-        "units": 0.3,
-        "group": "2"
       }
     ],
     "announced": {
@@ -152,7 +122,7 @@
     "slate": "2026-11-20",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 00:13:53 GMT",
-    "checked_at": "2026-11-21T00:14:19.377229+00:00"
+    "last_modified": "Sat, 21 Nov 2026 00:17:45 GMT",
+    "checked_at": "2026-11-21T00:18:13.204330+00:00"
   }
 }
