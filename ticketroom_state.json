@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 04:59:02 GMT",
-    "checked_at": "2026-11-21T05:00:28.266700+00:00"
+    "last_modified": "Sat, 21 Nov 2026 11:05:39 GMT",
+    "checked_at": "2026-11-21T11:06:11.680556+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f28d3a9ae3d4de911bb8345b6d23f68ce327926bd9ca7602914182d11fa4a574",
@@ -52,77 +52,29 @@
     "slate": "2026-11-21",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 04:59:02 GMT",
-    "checked_at": "2026-11-21T05:00:28.638918+00:00"
+    "last_modified": "Sat, 21 Nov 2026 11:05:39 GMT",
+    "checked_at": "2026-11-21T11:06:12.681046+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Bell Cow": [
-        "Nick Westbrook-Ikhine"
-      ],
-      "Goal Line Back": [
-        "Pharaoh Brown"
-      ],
-      "Ice Breaker": [
-        "Jonathan Taylor"
-      ],
-      "The Workhorse": [
-        "Nikko Remigio"
-      ]
-    },
-    "abets": [
-      "ftd|first touchdown scorer|Jonathan Taylor",
-      "|anytime touchdown|Nick Westbrook-Ikhine",
-      "|anytime touchdown|Nikko Remigio",
-      "|anytime touchdown|Pharaoh Brown"
-    ],
-    "slate": "2026-11-19",
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 04:59:02 GMT",
-    "checked_at": "2026-11-21T05:00:28.707231+00:00"
+    "last_modified": "Sat, 21 Nov 2026 11:05:39 GMT",
+    "checked_at": "2026-11-21T11:06:12.894824+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Jump Ball": [
-        "Keegan Murray"
-      ],
-      "Opening Set": [
-        "Jakob Poeltl"
-      ],
-      "General Contractor": [
-        "Obi Toppin"
-      ],
-      "Groundbreaking": [
-        "Saddiq Bey"
-      ],
-      "Brick and Mortar": [
-        "Reed Sheppard"
-      ],
-      "Floor Plan": [
-        "Ziaire Williams"
-      ]
-    },
-    "abets": [
-      "downtown|over 1.5 threes|Obi Toppin",
-      "downtown|over 1.5 threes|Reed Sheppard",
-      "downtown|over 1.5 threes|Ziaire Williams",
-      "downtown|over 2.5 threes|Saddiq Bey",
-      "|first basket|Jakob Poeltl",
-      "|first basket|John Collins",
-      "|first basket|Keegan Murray"
-    ],
-    "slate": "2026-11-20",
-    "hits": [
-      "dt:Obi Toppin",
-      "dt:Saddiq Bey"
-    ],
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-21",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 04:59:02 GMT",
-    "checked_at": "2026-11-21T05:00:29.149040+00:00"
+    "last_modified": "Sat, 21 Nov 2026 11:05:39 GMT",
+    "checked_at": "2026-11-21T11:06:13.242739+00:00"
   }
 }

@@ -2180,62 +2180,10 @@
           "pl": -1.0,
           "legs_hit": 0
         }
-      }
+      },
+      "2026-11-22": {}
     },
     "NBA Board": {
-      "2026-11-07": {
-        "First Basket: ORL@GSW": {
-          "legs": [
-            "Franz Wagner",
-            "Wendell Carter Jr."
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "Franz Wagner": 480,
-            "Wendell Carter Jr.": 500
-          },
-          "bkey": "fb2|first basket|Franz Wagner,Wendell Carter Jr.",
-          "result": "lost",
-          "pl": -1,
-          "legs_hit": 0
-        },
-        "First Basket: HOU@PHX": {
-          "legs": [
-            "Devin Booker",
-            "Jalen Green"
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "Devin Booker": 600,
-            "Jalen Green": 650
-          },
-          "bkey": "fb2|first basket|Devin Booker,Jalen Green",
-          "result": "lost",
-          "pl": -1,
-          "legs_hit": 0
-        },
-        "First Basket: SAS@POR": {
-          "legs": [
-            "De'Aaron Fox",
-            "Victor Wembanyama"
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "Victor Wembanyama": 280,
-            "De'Aaron Fox": 650
-          },
-          "bkey": "fb2|first basket|De'Aaron Fox,Victor Wembanyama",
-          "result": "won",
-          "pl": 0.9,
-          "legs_hit": 1
-        }
-      },
       "2026-11-08": {
         "First Basket: PHI@CHI": {
           "legs": [
@@ -3890,8 +3838,9 @@
             "Jakob Poeltl": 850
           },
           "bkey": "|first basket|Jakob Poeltl",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "Opening Set": {
           "legs": [
@@ -3904,8 +3853,9 @@
             "John Collins": 750
           },
           "bkey": "|first basket|John Collins",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "General Contractor": {
           "legs": [
@@ -3918,8 +3868,9 @@
             "Obi Toppin": 172
           },
           "bkey": "downtown|over 1.5 threes|Obi Toppin",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.7199999999999998,
+          "legs_hit": 1
         },
         "Groundbreaking": {
           "legs": [
@@ -3932,8 +3883,9 @@
             "Saddiq Bey": 164
           },
           "bkey": "downtown|over 2.5 threes|Saddiq Bey",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.6399999999999997,
+          "legs_hit": 1
         },
         "Brick and Mortar": {
           "legs": [
@@ -3946,8 +3898,9 @@
             "Reed Sheppard": -122
           },
           "bkey": "downtown|over 1.5 threes|Reed Sheppard",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Floor Plan": {
           "legs": [
@@ -3960,10 +3913,12 @@
             "Ziaire Williams": 172
           },
           "bkey": "downtown|over 1.5 threes|Ziaire Williams",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         }
-      }
+      },
+      "2026-11-21": {}
     }
   },
   "recap_sent": "2026-11-20",
