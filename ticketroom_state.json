@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 13:32:00 GMT",
-    "checked_at": "2026-11-21T13:32:18.089867+00:00"
+    "last_modified": "Sat, 21 Nov 2026 13:40:53 GMT",
+    "checked_at": "2026-11-21T13:43:12.476045+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "b6990ebc0dda5b17030ebb17d59b8f9f5397965981480e903845780639a192ab",
@@ -101,10 +101,12 @@
       "|anytime goalscorer|Romulo"
     ],
     "slate": "2026-11-21",
-    "hits": [],
+    "hits": [
+      "t:Alav\u00e9s v Deportivo: Deportivo to score"
+    ],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 13:32:00 GMT",
-    "checked_at": "2026-11-21T13:32:21.184499+00:00"
+    "last_modified": "Sat, 21 Nov 2026 13:40:53 GMT",
+    "checked_at": "2026-11-21T13:43:14.768683+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -114,8 +116,8 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 13:32:00 GMT",
-    "checked_at": "2026-11-21T13:32:21.261990+00:00"
+    "last_modified": "Sat, 21 Nov 2026 13:40:53 GMT",
+    "checked_at": "2026-11-21T13:43:14.921739+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -125,7 +127,7 @@
     "slate": "2026-11-21",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 13:32:00 GMT",
-    "checked_at": "2026-11-21T13:32:21.319108+00:00"
+    "last_modified": "Sat, 21 Nov 2026 13:40:53 GMT",
+    "checked_at": "2026-11-21T13:43:15.086084+00:00"
   }
 }
