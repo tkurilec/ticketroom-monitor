@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 15:41:44 GMT",
-    "checked_at": "2026-11-21T15:43:11.648391+00:00"
+    "last_modified": "Sat, 21 Nov 2026 16:20:57 GMT",
+    "checked_at": "2026-11-21T16:21:12.065797+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "a238a2055ff865f17a10f3b91efc3e58f0fe3879e7ee145b87bcf14e100647c5",
+    "hash": "60cce66f78f4dd5c86d637ae4a540a186f0e8b71294555cf37d4c9b981a91720",
     "confirmed": [
       {
         "name": "Back Post",
@@ -37,6 +37,33 @@
         },
         "odds": {
           "Romulo": 117
+        }
+      },
+      {
+        "name": "Leading Man",
+        "legs": [
+          "Donyell Malen"
+        ],
+        "rr": false,
+        "info": {
+          "Donyell Malen": "AS Roma vs Parma \u00b7 Sat Nov 21 \u00b7 12:00 PM ET"
+        },
+        "odds": {
+          "Donyell Malen": -170
+        },
+        "units": 2
+      },
+      {
+        "name": "Near Post",
+        "legs": [
+          "Donyell Malen"
+        ],
+        "rr": false,
+        "info": {
+          "Donyell Malen": "AS Roma vs Parma \u00b7 Sat Nov 21 \u00b7 12:00 PM ET"
+        },
+        "odds": {
+          "Donyell Malen": -170
         }
       },
       {
@@ -108,11 +135,18 @@
       ],
       "Runs the Channel": [
         "Anastasios Douvikas"
+      ],
+      "Leading Man": [
+        "Donyell Malen"
+      ],
+      "Near Post": [
+        "Donyell Malen"
       ]
     },
     "abets": [
       "totals||AFC Bournemouth v Nottingham Forest: Nottingham Forest to score,Alav\u00e9s v Deportivo: Deportivo to score,Aston Villa v Sunderland: Sunderland to score,Schalke 04 v VfB Stuttgart: Both teams to score",
       "|anytime goalscorer|Anastasios Douvikas",
+      "|anytime goalscorer|Donyell Malen",
       "|anytime goalscorer|Erling Haaland",
       "|anytime goalscorer|Patrik Schick",
       "|anytime goalscorer|Romulo"
@@ -124,8 +158,8 @@
       "t:Alav\u00e9s v Deportivo: Deportivo to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 15:41:45 GMT",
-    "checked_at": "2026-11-21T15:43:14.660903+00:00"
+    "last_modified": "Sat, 21 Nov 2026 16:20:57 GMT",
+    "checked_at": "2026-11-21T16:21:15.111589+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -135,8 +169,8 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 15:41:45 GMT",
-    "checked_at": "2026-11-21T15:43:14.773437+00:00"
+    "last_modified": "Sat, 21 Nov 2026 16:20:57 GMT",
+    "checked_at": "2026-11-21T16:21:15.183242+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -146,7 +180,7 @@
     "slate": "2026-11-21",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 15:41:45 GMT",
-    "checked_at": "2026-11-21T15:43:14.892303+00:00"
+    "last_modified": "Sat, 21 Nov 2026 16:20:57 GMT",
+    "checked_at": "2026-11-21T16:21:15.275795+00:00"
   }
 }

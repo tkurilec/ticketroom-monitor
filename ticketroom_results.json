@@ -871,6 +871,20 @@
           "bkey": "|anytime goalscorer|Anastasios Douvikas",
           "result": null,
           "pl": null
+        },
+        "Leading Man": {
+          "legs": [
+            "Donyell Malen"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 2,
+          "odds": {
+            "Donyell Malen": -170
+          },
+          "bkey": "|anytime goalscorer|Donyell Malen",
+          "result": null,
+          "pl": null
         }
       }
     },
