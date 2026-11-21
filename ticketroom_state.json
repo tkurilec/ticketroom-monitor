@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 00:58:24 GMT",
-    "checked_at": "2026-11-21T00:59:12.796358+00:00"
+    "last_modified": "Sat, 21 Nov 2026 02:14:08 GMT",
+    "checked_at": "2026-11-21T02:16:13.104598+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f28d3a9ae3d4de911bb8345b6d23f68ce327926bd9ca7602914182d11fa4a574",
@@ -52,8 +52,8 @@
     "slate": "2026-11-21",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 00:58:24 GMT",
-    "checked_at": "2026-11-21T00:59:13.534235+00:00"
+    "last_modified": "Sat, 21 Nov 2026 02:14:08 GMT",
+    "checked_at": "2026-11-21T02:16:14.076217+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -81,8 +81,8 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 00:58:24 GMT",
-    "checked_at": "2026-11-21T00:59:13.659723+00:00"
+    "last_modified": "Sat, 21 Nov 2026 02:14:08 GMT",
+    "checked_at": "2026-11-21T02:16:14.383084+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "6f69da65c4d2cba94bda43e362c3d8ce3f2a8b51d5c9f9850a026922128a7417",
@@ -154,9 +154,11 @@
       "|first basket|John Collins"
     ],
     "slate": "2026-11-20",
-    "hits": [],
+    "hits": [
+      "dt:Obi Toppin"
+    ],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 00:58:24 GMT",
-    "checked_at": "2026-11-21T00:59:15.314966+00:00"
+    "last_modified": "Sat, 21 Nov 2026 02:14:08 GMT",
+    "checked_at": "2026-11-21T02:16:15.883104+00:00"
   }
 }
