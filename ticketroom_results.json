@@ -885,6 +885,20 @@
           "bkey": "|anytime goalscorer|Donyell Malen",
           "result": null,
           "pl": null
+        },
+        "Target Man": {
+          "legs": [
+            "Kylian Mbappe"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Kylian Mbappe": -270
+          },
+          "bkey": "|anytime goalscorer|Kylian Mbappe",
+          "result": null,
+          "pl": null
         }
       }
     },

@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 17:56:41 GMT",
-    "checked_at": "2026-11-21T17:57:12.845611+00:00"
+    "last_modified": "Sat, 21 Nov 2026 19:01:39 GMT",
+    "checked_at": "2026-11-21T19:02:11.335623+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "60cce66f78f4dd5c86d637ae4a540a186f0e8b71294555cf37d4c9b981a91720",
+    "hash": "fbbb18873e1567cf79ece0fcb57450664660344d76da163f9e5abd0c01773ce7",
     "confirmed": [
       {
         "name": "Back Post",
@@ -115,6 +115,19 @@
         "odds": {
           "Erling Haaland": -178
         }
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Kylian Mbappe"
+        ],
+        "rr": false,
+        "info": {
+          "Kylian Mbappe": "Real Madrid vs Celta Vigo \u00b7 Sat Nov 21 \u00b7 3:00 PM ET"
+        },
+        "odds": {
+          "Kylian Mbappe": -270
+        }
       }
     ],
     "announced": {
@@ -141,6 +154,9 @@
       ],
       "Near Post": [
         "Donyell Malen"
+      ],
+      "Target Man": [
+        "Kylian Mbappe"
       ]
     },
     "abets": [
@@ -148,6 +164,7 @@
       "|anytime goalscorer|Anastasios Douvikas",
       "|anytime goalscorer|Donyell Malen",
       "|anytime goalscorer|Erling Haaland",
+      "|anytime goalscorer|Kylian Mbappe",
       "|anytime goalscorer|Patrik Schick",
       "|anytime goalscorer|Romulo"
     ],
@@ -159,8 +176,8 @@
       "t:Alav\u00e9s v Deportivo: Deportivo to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 17:56:41 GMT",
-    "checked_at": "2026-11-21T17:57:14.934615+00:00"
+    "last_modified": "Sat, 21 Nov 2026 19:01:39 GMT",
+    "checked_at": "2026-11-21T19:02:17.317913+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -170,8 +187,8 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 17:56:41 GMT",
-    "checked_at": "2026-11-21T17:57:15.101022+00:00"
+    "last_modified": "Sat, 21 Nov 2026 19:01:39 GMT",
+    "checked_at": "2026-11-21T19:02:17.574472+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "bfb1147d686181e0f64d813c0292c7297bc8a00b66524c38196180f6a357fe29",
@@ -241,7 +258,7 @@
     "slate": "2026-11-21",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 17:56:41 GMT",
-    "checked_at": "2026-11-21T17:57:16.587047+00:00"
+    "last_modified": "Sat, 21 Nov 2026 19:01:39 GMT",
+    "checked_at": "2026-11-21T19:02:18.455205+00:00"
   }
 }
