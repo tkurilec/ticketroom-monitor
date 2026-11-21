@@ -3934,6 +3934,20 @@
           "bkey": "downtown|over 2.5 threes|Saddiq Bey",
           "result": null,
           "pl": null
+        },
+        "Brick and Mortar": {
+          "legs": [
+            "Reed Sheppard"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Reed Sheppard": -122
+          },
+          "bkey": "downtown|over 1.5 threes|Reed Sheppard",
+          "result": null,
+          "pl": null
         }
       }
     }

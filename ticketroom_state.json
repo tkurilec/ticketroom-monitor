@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 02:38:45 GMT",
-    "checked_at": "2026-11-21T02:40:28.404701+00:00"
+    "last_modified": "Sat, 21 Nov 2026 02:43:58 GMT",
+    "checked_at": "2026-11-21T02:44:12.357120+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f28d3a9ae3d4de911bb8345b6d23f68ce327926bd9ca7602914182d11fa4a574",
@@ -52,8 +52,8 @@
     "slate": "2026-11-21",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 02:38:45 GMT",
-    "checked_at": "2026-11-21T02:40:29.268446+00:00"
+    "last_modified": "Sat, 21 Nov 2026 02:43:58 GMT",
+    "checked_at": "2026-11-21T02:44:13.277653+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -81,12 +81,27 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 02:38:45 GMT",
-    "checked_at": "2026-11-21T02:40:29.426885+00:00"
+    "last_modified": "Sat, 21 Nov 2026 02:43:58 GMT",
+    "checked_at": "2026-11-21T02:44:13.516828+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "cb2f97cc9fbc3855366ba2d35205c8b97f25cdc79a98e51216e9c470d1b75ecf",
+    "hash": "c4326fd299ce6eac97f5533f25a7d0f3a5d349709ec12837835983fd25eab2c5",
     "confirmed": [
+      {
+        "name": "Brick and Mortar",
+        "legs": [
+          "Reed Sheppard"
+        ],
+        "rr": false,
+        "market": "over 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Reed Sheppard": "Rockets vs Nuggets \u00b7 Fri Nov 20 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "Reed Sheppard": -122
+        }
+      },
       {
         "name": "General Contractor",
         "legs": [
@@ -118,21 +133,6 @@
         }
       },
       {
-        "name": "Jump Ball",
-        "legs": [
-          "Keegan Murray"
-        ],
-        "rr": false,
-        "info": {
-          "Keegan Murray": "Kings vs Lakers \u00b7 Fri Nov 20 \u00b7 10:00 PM ET"
-        },
-        "odds": {
-          "Keegan Murray": 1700
-        },
-        "units": 0.6,
-        "group": "8"
-      },
-      {
         "name": "Opening Set",
         "legs": [
           "Jakob Poeltl"
@@ -160,10 +160,14 @@
       ],
       "Groundbreaking": [
         "Saddiq Bey"
+      ],
+      "Brick and Mortar": [
+        "Reed Sheppard"
       ]
     },
     "abets": [
       "downtown|over 1.5 threes|Obi Toppin",
+      "downtown|over 1.5 threes|Reed Sheppard",
       "downtown|over 2.5 threes|Saddiq Bey",
       "|first basket|Jakob Poeltl",
       "|first basket|John Collins",
@@ -175,7 +179,7 @@
       "dt:Saddiq Bey"
     ],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 02:38:45 GMT",
-    "checked_at": "2026-11-21T02:40:32.801155+00:00"
+    "last_modified": "Sat, 21 Nov 2026 02:43:58 GMT",
+    "checked_at": "2026-11-21T02:44:16.763984+00:00"
   }
 }
