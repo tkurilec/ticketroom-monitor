@@ -3948,6 +3948,20 @@
           "bkey": "downtown|over 1.5 threes|Reed Sheppard",
           "result": null,
           "pl": null
+        },
+        "Floor Plan": {
+          "legs": [
+            "Ziaire Williams"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Ziaire Williams": 172
+          },
+          "bkey": "downtown|over 1.5 threes|Ziaire Williams",
+          "result": null,
+          "pl": null
         }
       }
     }

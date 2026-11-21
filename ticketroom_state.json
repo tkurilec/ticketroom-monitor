@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 02:43:58 GMT",
-    "checked_at": "2026-11-21T02:44:12.357120+00:00"
+    "last_modified": "Sat, 21 Nov 2026 02:54:02 GMT",
+    "checked_at": "2026-11-21T02:54:14.820823+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f28d3a9ae3d4de911bb8345b6d23f68ce327926bd9ca7602914182d11fa4a574",
@@ -52,8 +52,8 @@
     "slate": "2026-11-21",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 02:43:58 GMT",
-    "checked_at": "2026-11-21T02:44:13.277653+00:00"
+    "last_modified": "Sat, 21 Nov 2026 02:54:02 GMT",
+    "checked_at": "2026-11-21T02:54:15.802096+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -81,11 +81,11 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 02:43:58 GMT",
-    "checked_at": "2026-11-21T02:44:13.516828+00:00"
+    "last_modified": "Sat, 21 Nov 2026 02:54:02 GMT",
+    "checked_at": "2026-11-21T02:54:16.052829+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "c4326fd299ce6eac97f5533f25a7d0f3a5d349709ec12837835983fd25eab2c5",
+    "hash": "97f8155e7c8b76130ae408a010414a004143722ecbc35ab42f08a4b404a07aac",
     "confirmed": [
       {
         "name": "Brick and Mortar",
@@ -100,6 +100,21 @@
         },
         "odds": {
           "Reed Sheppard": -122
+        }
+      },
+      {
+        "name": "Floor Plan",
+        "legs": [
+          "Ziaire Williams"
+        ],
+        "rr": false,
+        "market": "over 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Ziaire Williams": "Lakers vs Kings \u00b7 Fri Nov 20 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "Ziaire Williams": 172
         }
       },
       {
@@ -163,11 +178,15 @@
       ],
       "Brick and Mortar": [
         "Reed Sheppard"
+      ],
+      "Floor Plan": [
+        "Ziaire Williams"
       ]
     },
     "abets": [
       "downtown|over 1.5 threes|Obi Toppin",
       "downtown|over 1.5 threes|Reed Sheppard",
+      "downtown|over 1.5 threes|Ziaire Williams",
       "downtown|over 2.5 threes|Saddiq Bey",
       "|first basket|Jakob Poeltl",
       "|first basket|John Collins",
@@ -179,7 +198,7 @@
       "dt:Saddiq Bey"
     ],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 02:43:58 GMT",
-    "checked_at": "2026-11-21T02:44:16.763984+00:00"
+    "last_modified": "Sat, 21 Nov 2026 02:54:02 GMT",
+    "checked_at": "2026-11-21T02:54:19.443937+00:00"
   }
 }
