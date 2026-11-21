@@ -899,6 +899,20 @@
           "bkey": "|anytime goalscorer|Kylian Mbappe",
           "result": null,
           "pl": null
+        },
+        "Rebound": {
+          "legs": [
+            "Paris Brunner"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Paris Brunner": 105
+          },
+          "bkey": "|anytime goalscorer|Paris Brunner",
+          "result": null,
+          "pl": null
         }
       }
     },

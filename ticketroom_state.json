@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 19:01:39 GMT",
-    "checked_at": "2026-11-21T19:02:11.335623+00:00"
+    "last_modified": "Sat, 21 Nov 2026 19:07:04 GMT",
+    "checked_at": "2026-11-21T19:07:10.816899+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "fbbb18873e1567cf79ece0fcb57450664660344d76da163f9e5abd0c01773ce7",
+    "hash": "72f18d39c0579ab8e0fe2b4d3a0262bbb3c54d51c7063765572e6068566375c8",
     "confirmed": [
       {
         "name": "Back Post",
@@ -64,6 +64,19 @@
         },
         "odds": {
           "Donyell Malen": -170
+        }
+      },
+      {
+        "name": "Rebound",
+        "legs": [
+          "Paris Brunner"
+        ],
+        "rr": false,
+        "info": {
+          "Paris Brunner": "AS Monaco vs AJ Auxerre \u00b7 Sat Nov 21 \u00b7 2:45 PM ET"
+        },
+        "odds": {
+          "Paris Brunner": 105
         }
       },
       {
@@ -157,6 +170,9 @@
       ],
       "Target Man": [
         "Kylian Mbappe"
+      ],
+      "Rebound": [
+        "Paris Brunner"
       ]
     },
     "abets": [
@@ -165,6 +181,7 @@
       "|anytime goalscorer|Donyell Malen",
       "|anytime goalscorer|Erling Haaland",
       "|anytime goalscorer|Kylian Mbappe",
+      "|anytime goalscorer|Paris Brunner",
       "|anytime goalscorer|Patrik Schick",
       "|anytime goalscorer|Romulo"
     ],
@@ -176,8 +193,8 @@
       "t:Alav\u00e9s v Deportivo: Deportivo to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 19:01:39 GMT",
-    "checked_at": "2026-11-21T19:02:17.317913+00:00"
+    "last_modified": "Sat, 21 Nov 2026 19:07:04 GMT",
+    "checked_at": "2026-11-21T19:07:16.144708+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -187,8 +204,8 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 19:01:39 GMT",
-    "checked_at": "2026-11-21T19:02:17.574472+00:00"
+    "last_modified": "Sat, 21 Nov 2026 19:07:04 GMT",
+    "checked_at": "2026-11-21T19:07:16.423661+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "bfb1147d686181e0f64d813c0292c7297bc8a00b66524c38196180f6a357fe29",
@@ -258,7 +275,7 @@
     "slate": "2026-11-21",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 19:01:39 GMT",
-    "checked_at": "2026-11-21T19:02:18.455205+00:00"
+    "last_modified": "Sat, 21 Nov 2026 19:07:04 GMT",
+    "checked_at": "2026-11-21T19:07:17.068422+00:00"
   }
 }
