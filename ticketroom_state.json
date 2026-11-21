@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 02:54:02 GMT",
-    "checked_at": "2026-11-21T02:54:14.820823+00:00"
+    "last_modified": "Sat, 21 Nov 2026 04:59:02 GMT",
+    "checked_at": "2026-11-21T05:00:28.266700+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "f28d3a9ae3d4de911bb8345b6d23f68ce327926bd9ca7602914182d11fa4a574",
@@ -52,8 +52,8 @@
     "slate": "2026-11-21",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 02:54:02 GMT",
-    "checked_at": "2026-11-21T02:54:15.802096+00:00"
+    "last_modified": "Sat, 21 Nov 2026 04:59:02 GMT",
+    "checked_at": "2026-11-21T05:00:28.638918+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -81,88 +81,12 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 02:54:02 GMT",
-    "checked_at": "2026-11-21T02:54:16.052829+00:00"
+    "last_modified": "Sat, 21 Nov 2026 04:59:02 GMT",
+    "checked_at": "2026-11-21T05:00:28.707231+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "97f8155e7c8b76130ae408a010414a004143722ecbc35ab42f08a4b404a07aac",
-    "confirmed": [
-      {
-        "name": "Brick and Mortar",
-        "legs": [
-          "Reed Sheppard"
-        ],
-        "rr": false,
-        "market": "over 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Reed Sheppard": "Rockets vs Nuggets \u00b7 Fri Nov 20 \u00b7 10:00 PM ET"
-        },
-        "odds": {
-          "Reed Sheppard": -122
-        }
-      },
-      {
-        "name": "Floor Plan",
-        "legs": [
-          "Ziaire Williams"
-        ],
-        "rr": false,
-        "market": "over 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Ziaire Williams": "Lakers vs Kings \u00b7 Fri Nov 20 \u00b7 10:00 PM ET"
-        },
-        "odds": {
-          "Ziaire Williams": 172
-        }
-      },
-      {
-        "name": "General Contractor",
-        "legs": [
-          "Obi Toppin"
-        ],
-        "rr": false,
-        "market": "over 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Obi Toppin": "Pacers vs Cavaliers \u00b7 Fri Nov 20 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "Obi Toppin": 172
-        }
-      },
-      {
-        "name": "Groundbreaking",
-        "legs": [
-          "Saddiq Bey"
-        ],
-        "rr": false,
-        "market": "over 2.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Saddiq Bey": "Pelicans vs Thunder \u00b7 Fri Nov 20 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Saddiq Bey": 164
-        }
-      },
-      {
-        "name": "Opening Set",
-        "legs": [
-          "Jakob Poeltl"
-        ],
-        "rr": false,
-        "info": {
-          "Jakob Poeltl": "Raptors vs Pistons \u00b7 Fri Nov 20 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "Jakob Poeltl": 850
-        },
-        "units": 0.6,
-        "group": "2"
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Jump Ball": [
         "Keegan Murray"
@@ -198,7 +122,7 @@
       "dt:Saddiq Bey"
     ],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 02:54:02 GMT",
-    "checked_at": "2026-11-21T02:54:19.443937+00:00"
+    "last_modified": "Sat, 21 Nov 2026 04:59:02 GMT",
+    "checked_at": "2026-11-21T05:00:29.149040+00:00"
   }
 }
