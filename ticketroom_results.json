@@ -4002,6 +4002,34 @@
           "bkey": "downtown|over 1.5 threes|Kentavious Caldwell-Pope",
           "result": null,
           "pl": null
+        },
+        "Center Circle": {
+          "legs": [
+            "Kyle Kuzma"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Kyle Kuzma": 1300
+          },
+          "bkey": "|first basket|Kyle Kuzma",
+          "result": null,
+          "pl": null
+        },
+        "Jump Ball": {
+          "legs": [
+            "Ryan Rollins"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Ryan Rollins": 1200
+          },
+          "bkey": "|first basket|Ryan Rollins",
+          "result": null,
+          "pl": null
         }
       }
     }

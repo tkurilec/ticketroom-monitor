@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 17:36:46 GMT",
-    "checked_at": "2026-11-21T17:40:23.879486+00:00"
+    "last_modified": "Sat, 21 Nov 2026 17:56:41 GMT",
+    "checked_at": "2026-11-21T17:57:12.845611+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "60cce66f78f4dd5c86d637ae4a540a186f0e8b71294555cf37d4c9b981a91720",
@@ -159,8 +159,8 @@
       "t:Alav\u00e9s v Deportivo: Deportivo to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 17:36:46 GMT",
-    "checked_at": "2026-11-21T17:40:27.032384+00:00"
+    "last_modified": "Sat, 21 Nov 2026 17:56:41 GMT",
+    "checked_at": "2026-11-21T17:57:14.934615+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -170,12 +170,27 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 17:36:46 GMT",
-    "checked_at": "2026-11-21T17:40:27.210852+00:00"
+    "last_modified": "Sat, 21 Nov 2026 17:56:41 GMT",
+    "checked_at": "2026-11-21T17:57:15.101022+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "88b16771dd50349b5d08b916b161697ad193838c5ef30a6fc8063b26bb006d2a",
+    "hash": "bfb1147d686181e0f64d813c0292c7297bc8a00b66524c38196180f6a357fe29",
     "confirmed": [
+      {
+        "name": "Center Circle",
+        "legs": [
+          "Kyle Kuzma"
+        ],
+        "rr": false,
+        "info": {
+          "Kyle Kuzma": "Bucks vs 76ers \u00b7 Sat Nov 21 \u00b7 1:00 PM ET"
+        },
+        "odds": {
+          "Kyle Kuzma": 1300
+        },
+        "units": 0.3,
+        "group": "1"
+      },
       {
         "name": "Floor Plan",
         "legs": [
@@ -190,20 +205,43 @@
         "odds": {
           "Kentavious Caldwell-Pope": 138
         }
+      },
+      {
+        "name": "Jump Ball",
+        "legs": [
+          "Ryan Rollins"
+        ],
+        "rr": false,
+        "info": {
+          "Ryan Rollins": "Bucks vs 76ers \u00b7 Sat Nov 21 \u00b7 1:00 PM ET"
+        },
+        "odds": {
+          "Ryan Rollins": 1200
+        },
+        "units": 0.3,
+        "group": "1"
       }
     ],
     "announced": {
       "Floor Plan": [
         "Kentavious Caldwell-Pope"
+      ],
+      "Center Circle": [
+        "Kyle Kuzma"
+      ],
+      "Jump Ball": [
+        "Ryan Rollins"
       ]
     },
     "abets": [
-      "downtown|over 1.5 threes|Kentavious Caldwell-Pope"
+      "downtown|over 1.5 threes|Kentavious Caldwell-Pope",
+      "|first basket|Kyle Kuzma",
+      "|first basket|Ryan Rollins"
     ],
     "slate": "2026-11-21",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 17:36:46 GMT",
-    "checked_at": "2026-11-21T17:40:27.462337+00:00"
+    "last_modified": "Sat, 21 Nov 2026 17:56:41 GMT",
+    "checked_at": "2026-11-21T17:57:16.587047+00:00"
   }
 }
