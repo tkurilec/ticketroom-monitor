@@ -7,73 +7,53 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 00:08:13 GMT",
-    "checked_at": "2026-11-21T00:10:18.286690+00:00"
+    "last_modified": "Sat, 21 Nov 2026 00:12:55 GMT",
+    "checked_at": "2026-11-21T00:13:15.723064+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "cf54ff4240e17ca289812707d3efbeea9497af9ac737e61889b90026534a6400",
+    "hash": "f28d3a9ae3d4de911bb8345b6d23f68ce327926bd9ca7602914182d11fa4a574",
     "confirmed": [
       {
-        "name": "Target Man",
+        "name": "Shut the Gate",
         "legs": [
-          "Harry Kane"
+          "AFC Bournemouth v Nottingham Forest: Nottingham Forest to score",
+          "Alav\u00e9s v Deportivo: Deportivo to score",
+          "Aston Villa v Sunderland: Sunderland to score",
+          "Schalke 04 v VfB Stuttgart: Both teams to score"
         ],
         "rr": false,
+        "market": "",
+        "kind": "totals",
         "info": {
-          "Harry Kane": "Bayern Munich vs FC Cologne \u00b7 Fri Nov 20 \u00b7 2:30 PM ET"
+          "Schalke 04 v VfB Stuttgart: Both teams to score": "Sat Nov 21 \u00b7 12:30 PM ET",
+          "Alav\u00e9s v Deportivo: Deportivo to score": "Sat Nov 21 \u00b7 8:00 AM ET",
+          "Aston Villa v Sunderland: Sunderland to score": "Sat Nov 21 \u00b7 10:00 AM ET",
+          "AFC Bournemouth v Nottingham Forest: Nottingham Forest to score": "Sat Nov 21 \u00b7 10:00 AM ET"
         },
         "odds": {
-          "Harry Kane": -320
-        }
-      },
-      {
-        "name": "The Banker",
-        "legs": [
-          "Harry Kane"
-        ],
-        "rr": false,
-        "info": {
-          "Harry Kane": "Bayern Munich vs FC Cologne \u00b7 Fri Nov 20 \u00b7 2:30 PM ET"
-        },
-        "odds": {
-          "Harry Kane": -320
-        },
-        "units": 2
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Michael Olise"
-        ],
-        "rr": false,
-        "info": {
-          "Michael Olise": "Bayern Munich vs FC Cologne \u00b7 Fri Nov 20 \u00b7 2:30 PM ET"
-        },
-        "odds": {
-          "Michael Olise": -130
+          "Schalke 04 v VfB Stuttgart: Both teams to score": -210,
+          "Alav\u00e9s v Deportivo: Deportivo to score": -233,
+          "Aston Villa v Sunderland: Sunderland to score": -236,
+          "AFC Bournemouth v Nottingham Forest: Nottingham Forest to score": -238
         }
       }
     ],
     "announced": {
-      "Target Man": [
-        "Harry Kane"
-      ],
-      "The Banker": [
-        "Harry Kane"
-      ],
-      "The Poacher": [
-        "Michael Olise"
+      "Shut the Gate": [
+        "AFC Bournemouth v Nottingham Forest: Nottingham Forest to score",
+        "Alav\u00e9s v Deportivo: Deportivo to score",
+        "Aston Villa v Sunderland: Sunderland to score",
+        "Schalke 04 v VfB Stuttgart: Both teams to score"
       ]
     },
     "abets": [
-      "|anytime goalscorer|Harry Kane",
-      "|anytime goalscorer|Michael Olise"
+      "totals||AFC Bournemouth v Nottingham Forest: Nottingham Forest to score,Alav\u00e9s v Deportivo: Deportivo to score,Aston Villa v Sunderland: Sunderland to score,Schalke 04 v VfB Stuttgart: Both teams to score"
     ],
-    "slate": "2026-11-20",
+    "slate": "2026-11-21",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 00:08:13 GMT",
-    "checked_at": "2026-11-21T00:10:18.760046+00:00"
+    "last_modified": "Sat, 21 Nov 2026 00:12:55 GMT",
+    "checked_at": "2026-11-21T00:13:17.627253+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -101,41 +81,26 @@
     "slate": "2026-11-19",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 00:08:13 GMT",
-    "checked_at": "2026-11-21T00:10:18.949894+00:00"
+    "last_modified": "Sat, 21 Nov 2026 00:12:55 GMT",
+    "checked_at": "2026-11-21T00:13:17.739228+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "afb8ca18041b4177d185c18fbed950e3ccb298bc9a649d12aa9ccaa4840a0c48",
+    "hash": "68aee303eb230a503bd83d3b572d7f46520dded76095ace947995dc6e323b004",
     "confirmed": [
       {
-        "name": "Jump Ball",
+        "name": "General Contractor",
         "legs": [
-          "Jakob Poeltl"
+          "Obi Toppin"
         ],
         "rr": false,
+        "market": "over 1.5 threes",
+        "kind": "downtown",
         "info": {
-          "Jakob Poeltl": "Raptors vs Pistons \u00b7 Fri Nov 20 \u00b7 7:30 PM ET"
+          "Obi Toppin": "Pacers vs Cavaliers \u00b7 Fri Nov 20 \u00b7 7:30 PM ET"
         },
         "odds": {
-          "Jakob Poeltl": 850
-        },
-        "units": 0.3,
-        "group": "2"
-      },
-      {
-        "name": "Opening Set",
-        "legs": [
-          "John Collins"
-        ],
-        "rr": false,
-        "info": {
-          "John Collins": "Pistons vs Raptors \u00b7 Fri Nov 20 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "John Collins": 750
-        },
-        "units": 0.3,
-        "group": "2"
+          "Obi Toppin": 172
+        }
       }
     ],
     "announced": {
@@ -144,16 +109,20 @@
       ],
       "Opening Set": [
         "John Collins"
+      ],
+      "General Contractor": [
+        "Obi Toppin"
       ]
     },
     "abets": [
+      "downtown|over 1.5 threes|Obi Toppin",
       "|first basket|Jakob Poeltl",
       "|first basket|John Collins"
     ],
     "slate": "2026-11-20",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 00:08:13 GMT",
-    "checked_at": "2026-11-21T00:10:20.433524+00:00"
+    "last_modified": "Sat, 21 Nov 2026 00:12:55 GMT",
+    "checked_at": "2026-11-21T00:13:19.401430+00:00"
   }
 }
