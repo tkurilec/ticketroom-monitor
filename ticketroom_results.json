@@ -2278,93 +2278,6 @@
       "2026-11-22": {}
     },
     "NBA Board": {
-      "2026-11-08": {
-        "First Basket: PHI@CHI": {
-          "legs": [
-            "Jaylen Brown",
-            "Joel Embiid"
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "Joel Embiid": 470,
-            "Jaylen Brown": 500
-          },
-          "bkey": "fb2|first basket|Jaylen Brown,Joel Embiid",
-          "result": "lost",
-          "pl": -1,
-          "legs_hit": 0
-        },
-        "First Basket: LAL@DET": {
-          "legs": [
-            "Austin Reaves",
-            "Walker Kessler"
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "Walker Kessler": 600,
-            "Austin Reaves": 500
-          },
-          "bkey": "fb2|first basket|Austin Reaves,Walker Kessler",
-          "result": "won",
-          "pl": 2.0,
-          "legs_hit": 1
-        },
-        "First Basket: BOS@MIL": {
-          "legs": [
-            "Jayson Tatum",
-            "Paul George"
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "Paul George": 490,
-            "Jayson Tatum": 440
-          },
-          "bkey": "fb2|first basket|Jayson Tatum,Paul George",
-          "result": "lost",
-          "pl": -1,
-          "legs_hit": 0
-        },
-        "First Basket: MIA@SAC": {
-          "legs": [
-            "Bam Adebayo",
-            "Giannis Antetokounmpo"
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "Bam Adebayo": 500,
-            "Giannis Antetokounmpo": 320
-          },
-          "bkey": "fb2|first basket|Bam Adebayo,Giannis Antetokounmpo",
-          "result": "lost",
-          "pl": -1,
-          "legs_hit": 0
-        },
-        "First Basket: NOP@LAC": {
-          "legs": [
-            "Brook Lopez",
-            "Darius Garland"
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "Brook Lopez": 650,
-            "Darius Garland": 600
-          },
-          "bkey": "fb2|first basket|Brook Lopez,Darius Garland",
-          "result": "lost",
-          "pl": -1,
-          "legs_hit": 0
-        }
-      },
       "2026-11-09": {
         "First Basket: CLE@CHA": {
           "legs": [
@@ -4024,8 +3937,9 @@
             "Kentavious Caldwell-Pope": 138
           },
           "bkey": "downtown|over 1.5 threes|Kentavious Caldwell-Pope",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.38,
+          "legs_hit": 1
         },
         "Center Circle": {
           "legs": [
@@ -4038,8 +3952,9 @@
             "Kyle Kuzma": 1300
           },
           "bkey": "|first basket|Kyle Kuzma",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "Jump Ball": {
           "legs": [
@@ -4052,8 +3967,9 @@
             "Ryan Rollins": 1200
           },
           "bkey": "|first basket|Ryan Rollins",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "Brick and Mortar": {
           "legs": [
@@ -4066,8 +3982,9 @@
             "Toumani Camara": 142
           },
           "bkey": "downtown|over 2.5 threes|Toumani Camara",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Clay Pit": {
           "legs": [
@@ -4080,8 +3997,9 @@
             "Jalen Brunson": 128
           },
           "bkey": "downtown|under 2.5 threes|Jalen Brunson",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "First Bucket": {
           "legs": [
@@ -4094,8 +4012,9 @@
             "Brook Lopez": 700
           },
           "bkey": "|first basket|Brook Lopez",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.4,
+          "legs_hit": 0
         },
         "Win the Tip": {
           "legs": [
@@ -4108,8 +4027,9 @@
             "Max Strus": 1200
           },
           "bkey": "|first basket|Max Strus",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.2,
+          "legs_hit": 0
         },
         "Master Builder": {
           "legs": [
@@ -4122,10 +4042,12 @@
             "Payton Pritchard": 152
           },
           "bkey": "downtown|over 3.5 threes|Payton Pritchard",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         }
-      }
+      },
+      "2026-11-22": {}
     }
   },
   "recap_sent": "2026-11-21",

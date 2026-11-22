@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 05:00:15 GMT",
-    "checked_at": "2026-11-22T05:00:30.162515+00:00"
+    "last_modified": "Sun, 22 Nov 2026 11:06:59 GMT",
+    "checked_at": "2026-11-22T11:07:12.534677+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "60a6a3e2c27ea0e7d91cec601d2a06146e97b8d26bd919a283f03bee5b56478a",
@@ -52,8 +52,8 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 05:00:15 GMT",
-    "checked_at": "2026-11-22T05:00:30.977970+00:00"
+    "last_modified": "Sun, 22 Nov 2026 11:06:59 GMT",
+    "checked_at": "2026-11-22T11:07:12.983483+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -63,54 +63,18 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 05:00:15 GMT",
-    "checked_at": "2026-11-22T05:00:31.473422+00:00"
+    "last_modified": "Sun, 22 Nov 2026 11:06:59 GMT",
+    "checked_at": "2026-11-22T11:07:13.145270+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Floor Plan": [
-        "Kentavious Caldwell-Pope"
-      ],
-      "Center Circle": [
-        "Kyle Kuzma"
-      ],
-      "Jump Ball": [
-        "Ryan Rollins"
-      ],
-      "Brick and Mortar": [
-        "Toumani Camara"
-      ],
-      "Clay Pit": [
-        "Jalen Brunson"
-      ],
-      "First Bucket": [
-        "Brook Lopez"
-      ],
-      "Win the Tip": [
-        "Max Strus"
-      ],
-      "Master Builder": [
-        "Payton Pritchard"
-      ]
-    },
-    "abets": [
-      "downtown|over 1.5 threes|Kentavious Caldwell-Pope",
-      "downtown|over 2.5 threes|Toumani Camara",
-      "downtown|over 3.5 threes|Payton Pritchard",
-      "downtown|under 2.5 threes|Jalen Brunson",
-      "|first basket|Brook Lopez",
-      "|first basket|Kyle Kuzma",
-      "|first basket|Max Strus",
-      "|first basket|Ryan Rollins"
-    ],
-    "slate": "2026-11-21",
-    "hits": [
-      "dt:Kentavious Caldwell-Pope"
-    ],
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-22",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 05:00:15 GMT",
-    "checked_at": "2026-11-22T05:00:32.188379+00:00"
+    "last_modified": "Sun, 22 Nov 2026 11:06:59 GMT",
+    "checked_at": "2026-11-22T11:07:13.358736+00:00"
   }
 }
