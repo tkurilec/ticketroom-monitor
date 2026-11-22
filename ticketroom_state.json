@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 22:39:28 GMT",
-    "checked_at": "2026-11-22T22:40:19.513301+00:00"
+    "last_modified": "Sun, 22 Nov 2026 23:19:32 GMT",
+    "checked_at": "2026-11-22T23:23:13.514239+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "dea3ba87230f15f73b8a29eaf8ffc43d009f832a01476b046d1b77cd9ffacecc",
@@ -260,11 +260,12 @@
       "a:Goncalo Ramos",
       "a:Niclas Fullkrug",
       "a:Yassir Zabiri",
-      "t:AC Milan v Frosinone: Both teams to score"
+      "t:AC Milan v Frosinone: Both teams to score",
+      "t:Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 22:39:28 GMT",
-    "checked_at": "2026-11-22T22:40:21.719919+00:00"
+    "last_modified": "Sun, 22 Nov 2026 23:19:32 GMT",
+    "checked_at": "2026-11-22T23:23:16.198983+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "919046561b9ff42d638716c5c617b540fd316f0f1981af2d000612b8b61a6851",
@@ -522,8 +523,8 @@
       "a:Xavier Worthy"
     ],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 22:39:28 GMT",
-    "checked_at": "2026-11-22T22:40:22.679143+00:00"
+    "last_modified": "Sun, 22 Nov 2026 23:19:32 GMT",
+    "checked_at": "2026-11-22T23:23:17.179363+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "3d2730e90544aa746ceb944aa552df61399395492fa790a28676aea1ddfbb66c",
@@ -593,7 +594,7 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 22:39:28 GMT",
-    "checked_at": "2026-11-22T22:40:24.433445+00:00"
+    "last_modified": "Sun, 22 Nov 2026 23:19:32 GMT",
+    "checked_at": "2026-11-22T23:23:17.539273+00:00"
   }
 }
