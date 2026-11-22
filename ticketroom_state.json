@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 16:42:55 GMT",
-    "checked_at": "2026-11-22T16:45:28.323246+00:00"
+    "last_modified": "Sun, 22 Nov 2026 17:18:11 GMT",
+    "checked_at": "2026-11-22T17:22:16.690087+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "c05efa3b0483d8ef49a63b36f18a3f8fbda5f0155a3da5ced0f2bce3e93411ea",
@@ -187,11 +187,12 @@
     ],
     "slate": "2026-11-22",
     "hits": [
+      "a:Goncalo Ramos",
       "a:Yassir Zabiri"
     ],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 16:42:55 GMT",
-    "checked_at": "2026-11-22T16:45:30.447324+00:00"
+    "last_modified": "Sun, 22 Nov 2026 17:18:11 GMT",
+    "checked_at": "2026-11-22T17:22:18.572843+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "02a16cd5e99aa080768aa6fe1d5d31d467865ce65eda795985a88e066033d873",
@@ -427,8 +428,8 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 16:42:55 GMT",
-    "checked_at": "2026-11-22T16:45:33.172910+00:00"
+    "last_modified": "Sun, 22 Nov 2026 17:22:17 GMT",
+    "checked_at": "2026-11-22T17:22:18.778103+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -438,7 +439,7 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 16:42:55 GMT",
-    "checked_at": "2026-11-22T16:45:33.323636+00:00"
+    "last_modified": "Sun, 22 Nov 2026 17:22:17 GMT",
+    "checked_at": "2026-11-22T17:22:18.925043+00:00"
   }
 }
