@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 18:28:32 GMT",
-    "checked_at": "2026-11-22T18:29:12.283059+00:00"
+    "last_modified": "Sun, 22 Nov 2026 18:47:51 GMT",
+    "checked_at": "2026-11-22T18:50:15.609430+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "c05efa3b0483d8ef49a63b36f18a3f8fbda5f0155a3da5ced0f2bce3e93411ea",
@@ -194,8 +194,8 @@
       "t:AC Milan v Frosinone: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 18:28:32 GMT",
-    "checked_at": "2026-11-22T18:29:14.794347+00:00"
+    "last_modified": "Sun, 22 Nov 2026 18:47:51 GMT",
+    "checked_at": "2026-11-22T18:50:17.603973+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "02a16cd5e99aa080768aa6fe1d5d31d467865ce65eda795985a88e066033d873",
@@ -429,10 +429,12 @@
       "|anytime touchdown|Xavier Worthy"
     ],
     "slate": "2026-11-22",
-    "hits": [],
+    "hits": [
+      "a:D'Andre Swift"
+    ],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 18:28:32 GMT",
-    "checked_at": "2026-11-22T18:29:16.041702+00:00"
+    "last_modified": "Sun, 22 Nov 2026 18:47:51 GMT",
+    "checked_at": "2026-11-22T18:50:18.627411+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -442,7 +444,7 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 18:28:32 GMT",
-    "checked_at": "2026-11-22T18:29:16.268779+00:00"
+    "last_modified": "Sun, 22 Nov 2026 18:47:51 GMT",
+    "checked_at": "2026-11-22T18:50:18.825486+00:00"
   }
 }
