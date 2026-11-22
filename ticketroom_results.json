@@ -4072,6 +4072,34 @@
           "bkey": "|first basket|Ryan Rollins",
           "result": null,
           "pl": null
+        },
+        "Brick and Mortar": {
+          "legs": [
+            "Toumani Camara"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Toumani Camara": 142
+          },
+          "bkey": "downtown|over 2.5 threes|Toumani Camara",
+          "result": null,
+          "pl": null
+        },
+        "Clay Pit": {
+          "legs": [
+            "Jalen Brunson"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jalen Brunson": 128
+          },
+          "bkey": "downtown|under 2.5 threes|Jalen Brunson",
+          "result": null,
+          "pl": null
         }
       }
     }

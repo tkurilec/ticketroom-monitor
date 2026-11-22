@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 22:39:06 GMT",
-    "checked_at": "2026-11-21T22:39:12.252659+00:00"
+    "last_modified": "Sun, 22 Nov 2026 00:14:22 GMT",
+    "checked_at": "2026-11-22T00:15:20.667942+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "75d45aeea97925baca898781884d81aebf7deb31b5cd96a19927e2a5c8b2a355",
@@ -210,8 +210,8 @@
       "t:Alav\u00e9s v Deportivo: Deportivo to score"
     ],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 22:39:06 GMT",
-    "checked_at": "2026-11-21T22:39:17.490497+00:00"
+    "last_modified": "Sun, 22 Nov 2026 00:14:22 GMT",
+    "checked_at": "2026-11-22T00:15:23.023903+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -221,12 +221,27 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 22:39:06 GMT",
-    "checked_at": "2026-11-21T22:39:17.686778+00:00"
+    "last_modified": "Sun, 22 Nov 2026 00:14:22 GMT",
+    "checked_at": "2026-11-22T00:15:23.225653+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "bfb1147d686181e0f64d813c0292c7297bc8a00b66524c38196180f6a357fe29",
+    "hash": "c4554043412b16c4c0e29ce1eaf522882aafb76510afb6a66ac7a1f16c4aae4e",
     "confirmed": [
+      {
+        "name": "Brick and Mortar",
+        "legs": [
+          "Toumani Camara"
+        ],
+        "rr": false,
+        "market": "over 2.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Toumani Camara": "Trail Blazers vs Knicks \u00b7 Sat Nov 21 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Toumani Camara": 142
+        }
+      },
       {
         "name": "Center Circle",
         "legs": [
@@ -241,6 +256,21 @@
         },
         "units": 0.3,
         "group": "1"
+      },
+      {
+        "name": "Clay Pit",
+        "legs": [
+          "Jalen Brunson"
+        ],
+        "rr": false,
+        "market": "under 2.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Jalen Brunson": "Knicks vs Trail Blazers \u00b7 Sat Nov 21 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Jalen Brunson": 128
+        }
       },
       {
         "name": "Floor Plan",
@@ -282,10 +312,18 @@
       ],
       "Jump Ball": [
         "Ryan Rollins"
+      ],
+      "Brick and Mortar": [
+        "Toumani Camara"
+      ],
+      "Clay Pit": [
+        "Jalen Brunson"
       ]
     },
     "abets": [
       "downtown|over 1.5 threes|Kentavious Caldwell-Pope",
+      "downtown|over 2.5 threes|Toumani Camara",
+      "downtown|under 2.5 threes|Jalen Brunson",
       "|first basket|Kyle Kuzma",
       "|first basket|Ryan Rollins"
     ],
@@ -294,7 +332,7 @@
       "dt:Kentavious Caldwell-Pope"
     ],
     "ltd": null,
-    "last_modified": "Sat, 21 Nov 2026 22:39:06 GMT",
-    "checked_at": "2026-11-21T22:39:18.195422+00:00"
+    "last_modified": "Sun, 22 Nov 2026 00:14:22 GMT",
+    "checked_at": "2026-11-22T00:15:24.766741+00:00"
   }
 }
