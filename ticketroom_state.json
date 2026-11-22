@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 15:32:59 GMT",
-    "checked_at": "2026-11-22T15:33:17.773745+00:00"
+    "last_modified": "Sun, 22 Nov 2026 15:42:55 GMT",
+    "checked_at": "2026-11-22T15:43:12.313750+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "af3198801ca04e7295ceb8e3f18f94fa5b433bb001cf838a1210c12fd498dc9a",
+    "hash": "23c090ca9b05a40675418c234e31a70548e01beb12440029a0cf04cd453ff434",
     "confirmed": [
       {
         "name": "Far Post",
@@ -101,6 +101,19 @@
           "Vancouver Whitecaps v Real Salt Lake: Real Salt Lake under 1.5 goals": -271,
           "Werder Bremen v Hamburg SV: Werder Bremen under 2.5 goals": -209
         }
+      },
+      {
+        "name": "Through on Goal",
+        "legs": [
+          "Niclas Fullkrug"
+        ],
+        "rr": false,
+        "info": {
+          "Niclas Fullkrug": "Werder Bremen vs Hamburg SV \u00b7 Sun Nov 22 \u00b7 11:30 AM ET"
+        },
+        "odds": {
+          "Niclas Fullkrug": -107
+        }
       }
     ],
     "announced": {
@@ -124,12 +137,16 @@
       ],
       "Low and Hard": [
         "Alexander Isak"
+      ],
+      "Through on Goal": [
+        "Niclas Fullkrug"
       ]
     },
     "abets": [
       "totals||AC Milan v Frosinone: Both teams to score,Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals,Vancouver Whitecaps v Real Salt Lake: Real Salt Lake under 1.5 goals,Werder Bremen v Hamburg SV: Werder Bremen under 2.5 goals",
       "|anytime goalscorer|Alexander Isak",
       "|anytime goalscorer|Lamine Yamal Nasraqui Ebana",
+      "|anytime goalscorer|Niclas Fullkrug",
       "|anytime goalscorer|Orri Oskarsson",
       "|anytime goalscorer|Raphinha",
       "|anytime goalscorer|Yassir Zabiri"
@@ -139,8 +156,8 @@
       "a:Yassir Zabiri"
     ],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 15:32:59 GMT",
-    "checked_at": "2026-11-22T15:33:20.084940+00:00"
+    "last_modified": "Sun, 22 Nov 2026 15:42:55 GMT",
+    "checked_at": "2026-11-22T15:43:15.944095+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -150,8 +167,8 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 15:32:59 GMT",
-    "checked_at": "2026-11-22T15:33:20.148787+00:00"
+    "last_modified": "Sun, 22 Nov 2026 15:42:55 GMT",
+    "checked_at": "2026-11-22T15:43:16.154688+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -161,7 +178,7 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 15:32:59 GMT",
-    "checked_at": "2026-11-22T15:33:20.234475+00:00"
+    "last_modified": "Sun, 22 Nov 2026 15:42:55 GMT",
+    "checked_at": "2026-11-22T15:43:16.473402+00:00"
   }
 }

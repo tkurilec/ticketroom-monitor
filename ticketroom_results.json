@@ -979,6 +979,20 @@
           "bkey": "|anytime goalscorer|Alexander Isak",
           "result": null,
           "pl": null
+        },
+        "Through on Goal": {
+          "legs": [
+            "Niclas Fullkrug"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Niclas Fullkrug": -107
+          },
+          "bkey": "|anytime goalscorer|Niclas Fullkrug",
+          "result": null,
+          "pl": null
         }
       }
     },
