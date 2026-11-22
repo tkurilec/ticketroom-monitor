@@ -2387,7 +2387,190 @@
           "legs_hit": 0
         }
       },
-      "2026-11-22": {}
+      "2026-11-22": {
+        "Audible": {
+          "legs": [
+            "Travis Hunter"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Travis Hunter": 650
+          },
+          "bkey": "|anytime touchdown|Travis Hunter",
+          "result": null,
+          "pl": null
+        },
+        "Bell Cow": {
+          "legs": [
+            "D'Andre Swift"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "D'Andre Swift": -150
+          },
+          "bkey": "|anytime touchdown|D'Andre Swift",
+          "result": null,
+          "pl": null
+        },
+        "First Read": {
+          "legs": [
+            "Sam LaPorta"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Sam LaPorta": 225
+          },
+          "bkey": "|anytime touchdown|Sam LaPorta",
+          "result": null,
+          "pl": null
+        },
+        "Goal Line Back": {
+          "legs": [
+            "Bhayshul Tuten"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Bhayshul Tuten": -111
+          },
+          "bkey": "|anytime touchdown|Bhayshul Tuten",
+          "result": null,
+          "pl": null
+        },
+        "Hard Count": {
+          "legs": [
+            "Greg Dortch"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Greg Dortch": 1500
+          },
+          "bkey": "|anytime touchdown|Greg Dortch",
+          "result": null,
+          "pl": null
+        },
+        "Hurry Up": {
+          "legs": [
+            "Isaac TeSlaa"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Isaac TeSlaa": 475
+          },
+          "bkey": "|anytime touchdown|Isaac TeSlaa",
+          "result": null,
+          "pl": null
+        },
+        "Inside the Ten": {
+          "legs": [
+            "Kenny Gainwell"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Kenny Gainwell": 375
+          },
+          "bkey": "|anytime touchdown|Kenny Gainwell",
+          "result": null,
+          "pl": null
+        },
+        "Move the Chains": {
+          "legs": [
+            "Xavier Worthy"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Xavier Worthy": 360
+          },
+          "bkey": "|anytime touchdown|Xavier Worthy",
+          "result": null,
+          "pl": null
+        },
+        "Short Yardage": {
+          "legs": [
+            "Chris Rodriguez Jr."
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Chris Rodriguez Jr.": 250
+          },
+          "bkey": "|anytime touchdown|Chris Rodriguez Jr.",
+          "result": null,
+          "pl": null
+        },
+        "Strike First": {
+          "legs": [
+            "Jahmyr Gibbs"
+          ],
+          "kind": "ftd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jahmyr Gibbs": 270
+          },
+          "bkey": "ftd|first touchdown scorer|Jahmyr Gibbs",
+          "result": null,
+          "pl": null
+        },
+        "The Checkdown": {
+          "legs": [
+            "Jameson Williams"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jameson Williams": 228
+          },
+          "bkey": "|anytime touchdown|Jameson Williams",
+          "result": null,
+          "pl": null
+        },
+        "The Workhorse": {
+          "legs": [
+            "James Cook"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "James Cook": -186
+          },
+          "bkey": "|anytime touchdown|James Cook",
+          "result": null,
+          "pl": null
+        },
+        "Two Minute Drill": {
+          "legs": [
+            "Brian Thomas Jr."
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Brian Thomas Jr.": 575
+          },
+          "bkey": "|anytime touchdown|Brian Thomas Jr.",
+          "result": null,
+          "pl": null
+        }
+      }
     },
     "NBA Board": {
       "2026-11-09": {
