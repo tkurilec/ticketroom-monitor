@@ -1,55 +1,6 @@
 {
   "boards": {
     "Soccer Board": {
-      "2026-11-04": {
-        "Ninety Minutes": {
-          "legs": [
-            "Lens v Como: Both teams to score",
-            "RB Leipzig v Manchester City: Both teams to score"
-          ],
-          "kind": "totals",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "RB Leipzig v Manchester City: Both teams to score": -229,
-            "Lens v Como: Both teams to score": -186
-          },
-          "bkey": "totals||Lens v Como: Both teams to score,RB Leipzig v Manchester City: Both teams to score",
-          "result": "won",
-          "pl": 1.209090482227544,
-          "legs_hit": 2
-        },
-        "Go-To Man": {
-          "legs": [
-            "Erling Haaland"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 2,
-          "odds": {
-            "Erling Haaland": -185
-          },
-          "bkey": "|anytime goalscorer|Erling Haaland",
-          "result": "won",
-          "pl": 1.0810810810810811,
-          "legs_hit": 1
-        },
-        "The Poacher": {
-          "legs": [
-            "Sehrou Guirassy"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Sehrou Guirassy": -102
-          },
-          "bkey": "|anytime goalscorer|Sehrou Guirassy",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        }
-      },
       "2026-11-05": {
         "The Poacher": {
           "legs": [
@@ -813,8 +764,9 @@
             "AFC Bournemouth v Nottingham Forest: Nottingham Forest to score": -238
           },
           "bkey": "totals||AFC Bournemouth v Nottingham Forest: Nottingham Forest to score,Alavés v Deportivo: Deportivo to score,Aston Villa v Sunderland: Sunderland to score,Schalke 04 v VfB Stuttgart: Both teams to score",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 1
         },
         "Six-Yard Box": {
           "legs": [
@@ -827,8 +779,9 @@
             "Erling Haaland": -178
           },
           "bkey": "|anytime goalscorer|Erling Haaland",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Back Post": {
           "legs": [
@@ -841,8 +794,9 @@
             "Patrik Schick": -175
           },
           "bkey": "|anytime goalscorer|Patrik Schick",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.5714285714285714,
+          "legs_hit": 1
         },
         "Header Home": {
           "legs": [
@@ -855,8 +809,9 @@
             "Romulo": 117
           },
           "bkey": "|anytime goalscorer|Romulo",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.17,
+          "legs_hit": 1
         },
         "Runs the Channel": {
           "legs": [
@@ -869,8 +824,9 @@
             "Anastasios Douvikas": -110
           },
           "bkey": "|anytime goalscorer|Anastasios Douvikas",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Leading Man": {
           "legs": [
@@ -883,8 +839,9 @@
             "Donyell Malen": -170
           },
           "bkey": "|anytime goalscorer|Donyell Malen",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.1764705882352944,
+          "legs_hit": 1
         },
         "Target Man": {
           "legs": [
@@ -897,8 +854,9 @@
             "Kylian Mbappe": -270
           },
           "bkey": "|anytime goalscorer|Kylian Mbappe",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Rebound": {
           "legs": [
@@ -911,8 +869,9 @@
             "Paris Brunner": 105
           },
           "bkey": "|anytime goalscorer|Paris Brunner",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "The Poacher": {
           "legs": [
@@ -925,6 +884,29 @@
             "Lionel Messi": -157
           },
           "bkey": "|anytime goalscorer|Lionel Messi",
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
+        }
+      },
+      "2026-11-22": {
+        "The Score Sheet": {
+          "legs": [
+            "AC Milan v Frosinone: Both teams to score",
+            "Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals",
+            "Vancouver Whitecaps v Real Salt Lake: Real Salt Lake under 1.5 goals",
+            "Werder Bremen v Hamburg SV: Werder Bremen under 2.5 goals"
+          ],
+          "kind": "totals",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "AC Milan v Frosinone: Both teams to score": -235,
+            "Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals": -275,
+            "Vancouver Whitecaps v Real Salt Lake: Real Salt Lake under 1.5 goals": -271,
+            "Werder Bremen v Hamburg SV: Werder Bremen under 2.5 goals": -209
+          },
+          "bkey": "totals||AC Milan v Frosinone: Both teams to score,Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals,Vancouver Whitecaps v Real Salt Lake: Real Salt Lake under 1.5 goals,Werder Bremen v Hamburg SV: Werder Bremen under 2.5 goals",
           "result": null,
           "pl": null
         }

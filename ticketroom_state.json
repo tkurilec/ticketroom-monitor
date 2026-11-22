@@ -7,211 +7,53 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 00:39:35 GMT",
-    "checked_at": "2026-11-22T00:40:18.155011+00:00"
+    "last_modified": "Sun, 22 Nov 2026 01:20:58 GMT",
+    "checked_at": "2026-11-22T01:21:12.168833+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "75d45aeea97925baca898781884d81aebf7deb31b5cd96a19927e2a5c8b2a355",
+    "hash": "60a6a3e2c27ea0e7d91cec601d2a06146e97b8d26bd919a283f03bee5b56478a",
     "confirmed": [
       {
-        "name": "Back Post",
+        "name": "The Score Sheet",
         "legs": [
-          "Patrik Schick"
-        ],
-        "rr": false,
-        "info": {
-          "Patrik Schick": "Bayer Leverkusen vs SC Paderborn 07 \u00b7 Sat Nov 21 \u00b7 9:30 AM ET"
-        },
-        "odds": {
-          "Patrik Schick": -175
-        }
-      },
-      {
-        "name": "Header Home",
-        "legs": [
-          "Romulo"
-        ],
-        "rr": false,
-        "info": {
-          "Romulo": "RB Leipzig vs 1. FC Union Berlin \u00b7 Sat Nov 21 \u00b7 9:30 AM ET"
-        },
-        "odds": {
-          "Romulo": 117
-        }
-      },
-      {
-        "name": "Leading Man",
-        "legs": [
-          "Donyell Malen"
-        ],
-        "rr": false,
-        "info": {
-          "Donyell Malen": "AS Roma vs Parma \u00b7 Sat Nov 21 \u00b7 12:00 PM ET"
-        },
-        "odds": {
-          "Donyell Malen": -170
-        },
-        "units": 2
-      },
-      {
-        "name": "Near Post",
-        "legs": [
-          "Donyell Malen"
-        ],
-        "rr": false,
-        "info": {
-          "Donyell Malen": "AS Roma vs Parma \u00b7 Sat Nov 21 \u00b7 12:00 PM ET"
-        },
-        "odds": {
-          "Donyell Malen": -170
-        }
-      },
-      {
-        "name": "Rebound",
-        "legs": [
-          "Paris Brunner"
-        ],
-        "rr": false,
-        "info": {
-          "Paris Brunner": "AS Monaco vs AJ Auxerre \u00b7 Sat Nov 21 \u00b7 2:45 PM ET"
-        },
-        "odds": {
-          "Paris Brunner": 105
-        }
-      },
-      {
-        "name": "Runs the Channel",
-        "legs": [
-          "Anastasios Douvikas"
-        ],
-        "rr": false,
-        "info": {
-          "Anastasios Douvikas": "Como vs Cagliari \u00b7 Sat Nov 21 \u00b7 9:00 AM ET"
-        },
-        "odds": {
-          "Anastasios Douvikas": -110
-        }
-      },
-      {
-        "name": "Shut the Gate",
-        "legs": [
-          "AFC Bournemouth v Nottingham Forest: Nottingham Forest to score",
-          "Alav\u00e9s v Deportivo: Deportivo to score",
-          "Aston Villa v Sunderland: Sunderland to score",
-          "Schalke 04 v VfB Stuttgart: Both teams to score"
+          "AC Milan v Frosinone: Both teams to score",
+          "Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals",
+          "Vancouver Whitecaps v Real Salt Lake: Real Salt Lake under 1.5 goals",
+          "Werder Bremen v Hamburg SV: Werder Bremen under 2.5 goals"
         ],
         "rr": false,
         "market": "",
         "kind": "totals",
         "info": {
-          "Schalke 04 v VfB Stuttgart: Both teams to score": "Sat Nov 21 \u00b7 12:30 PM ET",
-          "Alav\u00e9s v Deportivo: Deportivo to score": "Sat Nov 21 \u00b7 8:00 AM ET",
-          "Aston Villa v Sunderland: Sunderland to score": "Sat Nov 21 \u00b7 10:00 AM ET",
-          "AFC Bournemouth v Nottingham Forest: Nottingham Forest to score": "Sat Nov 21 \u00b7 10:00 AM ET"
+          "AC Milan v Frosinone: Both teams to score": "Sun Nov 22 \u00b7 12:00 PM ET",
+          "Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals": "Sun Nov 22 \u00b7 4:00 PM ET",
+          "Vancouver Whitecaps v Real Salt Lake: Real Salt Lake under 1.5 goals": "Sun Nov 22 \u00b7 8:30 PM ET",
+          "Werder Bremen v Hamburg SV: Werder Bremen under 2.5 goals": "Sun Nov 22 \u00b7 11:30 AM ET"
         },
         "odds": {
-          "Schalke 04 v VfB Stuttgart: Both teams to score": -210,
-          "Alav\u00e9s v Deportivo: Deportivo to score": -233,
-          "Aston Villa v Sunderland: Sunderland to score": -236,
-          "AFC Bournemouth v Nottingham Forest: Nottingham Forest to score": -238
-        }
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Erling Haaland"
-        ],
-        "rr": false,
-        "info": {
-          "Erling Haaland": "Manchester City vs Fulham \u00b7 Sat Nov 21 \u00b7 7:30 AM ET"
-        },
-        "odds": {
-          "Erling Haaland": -178
-        }
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Kylian Mbappe"
-        ],
-        "rr": false,
-        "info": {
-          "Kylian Mbappe": "Real Madrid vs Celta Vigo \u00b7 Sat Nov 21 \u00b7 3:00 PM ET"
-        },
-        "odds": {
-          "Kylian Mbappe": -270
-        }
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Lionel Messi"
-        ],
-        "rr": false,
-        "info": {
-          "Lionel Messi": "Inter Miami CF vs Columbus Crew \u00b7 Sat Nov 21 \u00b7 6:00 PM ET"
-        },
-        "odds": {
-          "Lionel Messi": -157
+          "AC Milan v Frosinone: Both teams to score": -235,
+          "Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals": -275,
+          "Vancouver Whitecaps v Real Salt Lake: Real Salt Lake under 1.5 goals": -271,
+          "Werder Bremen v Hamburg SV: Werder Bremen under 2.5 goals": -209
         }
       }
     ],
     "announced": {
-      "Shut the Gate": [
-        "AFC Bournemouth v Nottingham Forest: Nottingham Forest to score",
-        "Alav\u00e9s v Deportivo: Deportivo to score",
-        "Aston Villa v Sunderland: Sunderland to score",
-        "Schalke 04 v VfB Stuttgart: Both teams to score"
-      ],
-      "Six-Yard Box": [
-        "Erling Haaland"
-      ],
-      "Back Post": [
-        "Patrik Schick"
-      ],
-      "Header Home": [
-        "Romulo"
-      ],
-      "Runs the Channel": [
-        "Anastasios Douvikas"
-      ],
-      "Leading Man": [
-        "Donyell Malen"
-      ],
-      "Near Post": [
-        "Donyell Malen"
-      ],
-      "Target Man": [
-        "Kylian Mbappe"
-      ],
-      "Rebound": [
-        "Paris Brunner"
-      ],
-      "The Poacher": [
-        "Lionel Messi"
+      "The Score Sheet": [
+        "AC Milan v Frosinone: Both teams to score",
+        "Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals",
+        "Vancouver Whitecaps v Real Salt Lake: Real Salt Lake under 1.5 goals",
+        "Werder Bremen v Hamburg SV: Werder Bremen under 2.5 goals"
       ]
     },
     "abets": [
-      "totals||AFC Bournemouth v Nottingham Forest: Nottingham Forest to score,Alav\u00e9s v Deportivo: Deportivo to score,Aston Villa v Sunderland: Sunderland to score,Schalke 04 v VfB Stuttgart: Both teams to score",
-      "|anytime goalscorer|Anastasios Douvikas",
-      "|anytime goalscorer|Donyell Malen",
-      "|anytime goalscorer|Erling Haaland",
-      "|anytime goalscorer|Kylian Mbappe",
-      "|anytime goalscorer|Lionel Messi",
-      "|anytime goalscorer|Paris Brunner",
-      "|anytime goalscorer|Patrik Schick",
-      "|anytime goalscorer|Romulo"
+      "totals||AC Milan v Frosinone: Both teams to score,Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals,Vancouver Whitecaps v Real Salt Lake: Real Salt Lake under 1.5 goals,Werder Bremen v Hamburg SV: Werder Bremen under 2.5 goals"
     ],
-    "slate": "2026-11-21",
-    "hits": [
-      "a:Donyell Malen",
-      "a:Patrik Schick",
-      "a:Romulo",
-      "t:Alav\u00e9s v Deportivo: Deportivo to score"
-    ],
+    "slate": "2026-11-22",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 00:39:35 GMT",
-    "checked_at": "2026-11-22T00:40:21.870733+00:00"
+    "last_modified": "Sun, 22 Nov 2026 01:20:58 GMT",
+    "checked_at": "2026-11-22T01:21:14.236835+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -221,8 +63,8 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 00:39:35 GMT",
-    "checked_at": "2026-11-22T00:40:22.085802+00:00"
+    "last_modified": "Sun, 22 Nov 2026 01:20:58 GMT",
+    "checked_at": "2026-11-22T01:21:14.693695+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e19568ebd8cb2f28f921ed7949e611d783569afcb6448f9eb0d9dce89545069c",
@@ -370,7 +212,7 @@
       "dt:Kentavious Caldwell-Pope"
     ],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 00:39:35 GMT",
-    "checked_at": "2026-11-22T00:40:23.779357+00:00"
+    "last_modified": "Sun, 22 Nov 2026 01:20:58 GMT",
+    "checked_at": "2026-11-22T01:21:15.427447+00:00"
   }
 }
