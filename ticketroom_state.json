@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 15:22:58 GMT",
-    "checked_at": "2026-11-22T15:23:11.226403+00:00"
+    "last_modified": "Sun, 22 Nov 2026 15:32:59 GMT",
+    "checked_at": "2026-11-22T15:33:17.773745+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "905a5076eb2711b91d88ee7f0f50838cd105f89c2dfbbc6ad79ad9117ce97f66",
+    "hash": "af3198801ca04e7295ceb8e3f18f94fa5b433bb001cf838a1210c12fd498dc9a",
     "confirmed": [
       {
         "name": "Far Post",
@@ -24,6 +24,19 @@
         },
         "odds": {
           "Orri Oskarsson": 120
+        }
+      },
+      {
+        "name": "Low and Hard",
+        "legs": [
+          "Alexander Isak"
+        ],
+        "rr": false,
+        "info": {
+          "Alexander Isak": "Liverpool vs Manchester United \u00b7 Sun Nov 22 \u00b7 11:30 AM ET"
+        },
+        "odds": {
+          "Alexander Isak": -100
         }
       },
       {
@@ -108,10 +121,14 @@
       ],
       "The Nine": [
         "Yassir Zabiri"
+      ],
+      "Low and Hard": [
+        "Alexander Isak"
       ]
     },
     "abets": [
       "totals||AC Milan v Frosinone: Both teams to score,Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals,Vancouver Whitecaps v Real Salt Lake: Real Salt Lake under 1.5 goals,Werder Bremen v Hamburg SV: Werder Bremen under 2.5 goals",
+      "|anytime goalscorer|Alexander Isak",
       "|anytime goalscorer|Lamine Yamal Nasraqui Ebana",
       "|anytime goalscorer|Orri Oskarsson",
       "|anytime goalscorer|Raphinha",
@@ -122,8 +139,8 @@
       "a:Yassir Zabiri"
     ],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 15:22:58 GMT",
-    "checked_at": "2026-11-22T15:23:13.228305+00:00"
+    "last_modified": "Sun, 22 Nov 2026 15:32:59 GMT",
+    "checked_at": "2026-11-22T15:33:20.084940+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -133,8 +150,8 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 15:22:58 GMT",
-    "checked_at": "2026-11-22T15:23:13.329775+00:00"
+    "last_modified": "Sun, 22 Nov 2026 15:32:59 GMT",
+    "checked_at": "2026-11-22T15:33:20.148787+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -144,7 +161,7 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 15:22:58 GMT",
-    "checked_at": "2026-11-22T15:23:13.510905+00:00"
+    "last_modified": "Sun, 22 Nov 2026 15:32:59 GMT",
+    "checked_at": "2026-11-22T15:33:20.234475+00:00"
   }
 }
