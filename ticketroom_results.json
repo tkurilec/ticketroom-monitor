@@ -1035,6 +1035,34 @@
           "bkey": "|anytime goalscorer|Amine Gouiri",
           "result": null,
           "pl": null
+        },
+        "Bottom Corner": {
+          "legs": [
+            "Hany Mukhtar"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Hany Mukhtar": 115
+          },
+          "bkey": "|anytime goalscorer|Hany Mukhtar",
+          "result": null,
+          "pl": null
+        },
+        "The Poacher": {
+          "legs": [
+            "Sam Surridge"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Sam Surridge": -130
+          },
+          "bkey": "|anytime goalscorer|Sam Surridge",
+          "result": null,
+          "pl": null
         }
       }
     },
