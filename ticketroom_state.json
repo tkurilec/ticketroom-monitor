@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 01:20:58 GMT",
-    "checked_at": "2026-11-22T01:21:12.168833+00:00"
+    "last_modified": "Sun, 22 Nov 2026 03:00:23 GMT",
+    "checked_at": "2026-11-22T03:00:32.388017+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "60a6a3e2c27ea0e7d91cec601d2a06146e97b8d26bd919a283f03bee5b56478a",
@@ -52,8 +52,8 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 01:20:58 GMT",
-    "checked_at": "2026-11-22T01:21:14.236835+00:00"
+    "last_modified": "Sun, 22 Nov 2026 03:00:23 GMT",
+    "checked_at": "2026-11-22T03:00:32.994409+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -63,11 +63,11 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 01:20:58 GMT",
-    "checked_at": "2026-11-22T01:21:14.693695+00:00"
+    "last_modified": "Sun, 22 Nov 2026 03:00:23 GMT",
+    "checked_at": "2026-11-22T03:00:33.306330+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e19568ebd8cb2f28f921ed7949e611d783569afcb6448f9eb0d9dce89545069c",
+    "hash": "d723af6442cca547b8c7591adabde58882d9d444948169348c5e0c038fca58a4",
     "confirmed": [
       {
         "name": "Brick and Mortar",
@@ -160,6 +160,21 @@
         "group": "1"
       },
       {
+        "name": "Master Builder",
+        "legs": [
+          "Payton Pritchard"
+        ],
+        "rr": false,
+        "market": "over 3.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Payton Pritchard": "Celtics vs Kings \u00b7 Sat Nov 21 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "Payton Pritchard": 152
+        }
+      },
+      {
         "name": "Win the Tip",
         "legs": [
           "Max Strus"
@@ -196,11 +211,15 @@
       ],
       "Win the Tip": [
         "Max Strus"
+      ],
+      "Master Builder": [
+        "Payton Pritchard"
       ]
     },
     "abets": [
       "downtown|over 1.5 threes|Kentavious Caldwell-Pope",
       "downtown|over 2.5 threes|Toumani Camara",
+      "downtown|over 3.5 threes|Payton Pritchard",
       "downtown|under 2.5 threes|Jalen Brunson",
       "|first basket|Brook Lopez",
       "|first basket|Kyle Kuzma",
@@ -212,7 +231,7 @@
       "dt:Kentavious Caldwell-Pope"
     ],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 01:20:58 GMT",
-    "checked_at": "2026-11-22T01:21:15.427447+00:00"
+    "last_modified": "Sun, 22 Nov 2026 03:00:23 GMT",
+    "checked_at": "2026-11-22T03:00:35.508090+00:00"
   }
 }
