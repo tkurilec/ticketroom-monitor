@@ -4454,6 +4454,20 @@
           "bkey": "downtown|over 1.5 threes|Bobby Portis Jr.",
           "result": null,
           "pl": null
+        },
+        "Win the Tip": {
+          "legs": [
+            "Josh Green"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Josh Green": 1500
+          },
+          "bkey": "|first basket|Josh Green",
+          "result": null,
+          "pl": null
         }
       }
     }

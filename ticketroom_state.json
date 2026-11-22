@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 23:19:32 GMT",
-    "checked_at": "2026-11-22T23:23:13.514239+00:00"
+    "last_modified": "Sun, 22 Nov 2026 23:39:46 GMT",
+    "checked_at": "2026-11-22T23:40:17.168581+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "dea3ba87230f15f73b8a29eaf8ffc43d009f832a01476b046d1b77cd9ffacecc",
@@ -264,8 +264,8 @@
       "t:Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 23:19:32 GMT",
-    "checked_at": "2026-11-22T23:23:16.198983+00:00"
+    "last_modified": "Sun, 22 Nov 2026 23:39:46 GMT",
+    "checked_at": "2026-11-22T23:40:20.295760+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "919046561b9ff42d638716c5c617b540fd316f0f1981af2d000612b8b61a6851",
@@ -523,11 +523,11 @@
       "a:Xavier Worthy"
     ],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 23:19:32 GMT",
-    "checked_at": "2026-11-22T23:23:17.179363+00:00"
+    "last_modified": "Sun, 22 Nov 2026 23:39:46 GMT",
+    "checked_at": "2026-11-22T23:40:22.036652+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "3d2730e90544aa746ceb944aa552df61399395492fa790a28676aea1ddfbb66c",
+    "hash": "054965c022fc75fcb69a9833403b4a80eb8aa3220c7747f9428a93fb938956e6",
     "confirmed": [
       {
         "name": "Center Circle",
@@ -573,6 +573,21 @@
         "odds": {
           "Bobby Portis Jr.": -120
         }
+      },
+      {
+        "name": "Win the Tip",
+        "legs": [
+          "Josh Green"
+        ],
+        "rr": false,
+        "info": {
+          "Josh Green": "Jazz vs Mavericks \u00b7 Sun Nov 22 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "Josh Green": 1500
+        },
+        "units": 0.6,
+        "group": "4"
       }
     ],
     "announced": {
@@ -584,17 +599,21 @@
       ],
       "Framing Crew": [
         "Bobby Portis Jr."
+      ],
+      "Win the Tip": [
+        "Josh Green"
       ]
     },
     "abets": [
       "downtown|over 1.5 threes|Bobby Portis Jr.",
+      "|first basket|Josh Green",
       "|first basket|Klay Thompson",
       "|first basket|Onyeka Okongwu"
     ],
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 23:19:32 GMT",
-    "checked_at": "2026-11-22T23:23:17.539273+00:00"
+    "last_modified": "Sun, 22 Nov 2026 23:39:46 GMT",
+    "checked_at": "2026-11-22T23:40:24.269938+00:00"
   }
 }
