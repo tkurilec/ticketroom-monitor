@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 03:00:23 GMT",
-    "checked_at": "2026-11-22T03:00:32.388017+00:00"
+    "last_modified": "Sun, 22 Nov 2026 05:00:15 GMT",
+    "checked_at": "2026-11-22T05:00:30.162515+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "60a6a3e2c27ea0e7d91cec601d2a06146e97b8d26bd919a283f03bee5b56478a",
@@ -52,8 +52,8 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 03:00:23 GMT",
-    "checked_at": "2026-11-22T03:00:32.994409+00:00"
+    "last_modified": "Sun, 22 Nov 2026 05:00:15 GMT",
+    "checked_at": "2026-11-22T05:00:30.977970+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -63,133 +63,12 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 03:00:23 GMT",
-    "checked_at": "2026-11-22T03:00:33.306330+00:00"
+    "last_modified": "Sun, 22 Nov 2026 05:00:15 GMT",
+    "checked_at": "2026-11-22T05:00:31.473422+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "d723af6442cca547b8c7591adabde58882d9d444948169348c5e0c038fca58a4",
-    "confirmed": [
-      {
-        "name": "Brick and Mortar",
-        "legs": [
-          "Toumani Camara"
-        ],
-        "rr": false,
-        "market": "over 2.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Toumani Camara": "Trail Blazers vs Knicks \u00b7 Sat Nov 21 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "Toumani Camara": 142
-        }
-      },
-      {
-        "name": "Center Circle",
-        "legs": [
-          "Kyle Kuzma"
-        ],
-        "rr": false,
-        "info": {
-          "Kyle Kuzma": "Bucks vs 76ers \u00b7 Sat Nov 21 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "Kyle Kuzma": 1300
-        },
-        "units": 0.3,
-        "group": "1"
-      },
-      {
-        "name": "Clay Pit",
-        "legs": [
-          "Jalen Brunson"
-        ],
-        "rr": false,
-        "market": "under 2.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Jalen Brunson": "Knicks vs Trail Blazers \u00b7 Sat Nov 21 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "Jalen Brunson": 128
-        }
-      },
-      {
-        "name": "First Bucket",
-        "legs": [
-          "Brook Lopez"
-        ],
-        "rr": false,
-        "info": {
-          "Brook Lopez": "Clippers vs Mavericks \u00b7 Sat Nov 21 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Brook Lopez": 700
-        },
-        "units": 0.4,
-        "group": "5"
-      },
-      {
-        "name": "Floor Plan",
-        "legs": [
-          "Kentavious Caldwell-Pope"
-        ],
-        "rr": false,
-        "market": "over 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Kentavious Caldwell-Pope": "76ers vs Bucks \u00b7 Sat Nov 21 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "Kentavious Caldwell-Pope": 138
-        }
-      },
-      {
-        "name": "Jump Ball",
-        "legs": [
-          "Ryan Rollins"
-        ],
-        "rr": false,
-        "info": {
-          "Ryan Rollins": "Bucks vs 76ers \u00b7 Sat Nov 21 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "Ryan Rollins": 1200
-        },
-        "units": 0.3,
-        "group": "1"
-      },
-      {
-        "name": "Master Builder",
-        "legs": [
-          "Payton Pritchard"
-        ],
-        "rr": false,
-        "market": "over 3.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Payton Pritchard": "Celtics vs Kings \u00b7 Sat Nov 21 \u00b7 10:00 PM ET"
-        },
-        "odds": {
-          "Payton Pritchard": 152
-        }
-      },
-      {
-        "name": "Win the Tip",
-        "legs": [
-          "Max Strus"
-        ],
-        "rr": false,
-        "info": {
-          "Max Strus": "Clippers vs Mavericks \u00b7 Sat Nov 21 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Max Strus": 1200
-        },
-        "units": 0.2,
-        "group": "5"
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Floor Plan": [
         "Kentavious Caldwell-Pope"
@@ -231,7 +110,7 @@
       "dt:Kentavious Caldwell-Pope"
     ],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 03:00:23 GMT",
-    "checked_at": "2026-11-22T03:00:35.508090+00:00"
+    "last_modified": "Sun, 22 Nov 2026 05:00:15 GMT",
+    "checked_at": "2026-11-22T05:00:32.188379+00:00"
   }
 }
