@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 15:42:55 GMT",
-    "checked_at": "2026-11-22T15:43:12.313750+00:00"
+    "last_modified": "Sun, 22 Nov 2026 16:12:59 GMT",
+    "checked_at": "2026-11-22T16:13:11.381342+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "23c090ca9b05a40675418c234e31a70548e01beb12440029a0cf04cd453ff434",
+    "hash": "435e4810e2926be579bc9408ef0309e2fb9ed0413c2dbb60725757fc31422d84",
     "confirmed": [
       {
         "name": "Far Post",
@@ -37,6 +37,19 @@
         },
         "odds": {
           "Alexander Isak": -100
+        }
+      },
+      {
+        "name": "Rebound",
+        "legs": [
+          "Goncalo Ramos"
+        ],
+        "rr": false,
+        "info": {
+          "Goncalo Ramos": "AC Milan vs Frosinone \u00b7 Sun Nov 22 \u00b7 12:00 PM ET"
+        },
+        "odds": {
+          "Goncalo Ramos": -106
         }
       },
       {
@@ -140,11 +153,15 @@
       ],
       "Through on Goal": [
         "Niclas Fullkrug"
+      ],
+      "Rebound": [
+        "Goncalo Ramos"
       ]
     },
     "abets": [
       "totals||AC Milan v Frosinone: Both teams to score,Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals,Vancouver Whitecaps v Real Salt Lake: Real Salt Lake under 1.5 goals,Werder Bremen v Hamburg SV: Werder Bremen under 2.5 goals",
       "|anytime goalscorer|Alexander Isak",
+      "|anytime goalscorer|Goncalo Ramos",
       "|anytime goalscorer|Lamine Yamal Nasraqui Ebana",
       "|anytime goalscorer|Niclas Fullkrug",
       "|anytime goalscorer|Orri Oskarsson",
@@ -156,8 +173,8 @@
       "a:Yassir Zabiri"
     ],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 15:42:55 GMT",
-    "checked_at": "2026-11-22T15:43:15.944095+00:00"
+    "last_modified": "Sun, 22 Nov 2026 16:12:59 GMT",
+    "checked_at": "2026-11-22T16:13:15.672939+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -167,8 +184,8 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 15:42:55 GMT",
-    "checked_at": "2026-11-22T15:43:16.154688+00:00"
+    "last_modified": "Sun, 22 Nov 2026 16:12:59 GMT",
+    "checked_at": "2026-11-22T16:13:15.910193+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -178,7 +195,7 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 15:42:55 GMT",
-    "checked_at": "2026-11-22T15:43:16.473402+00:00"
+    "last_modified": "Sun, 22 Nov 2026 16:12:59 GMT",
+    "checked_at": "2026-11-22T16:13:16.119159+00:00"
   }
 }

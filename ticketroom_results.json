@@ -993,6 +993,20 @@
           "bkey": "|anytime goalscorer|Niclas Fullkrug",
           "result": null,
           "pl": null
+        },
+        "Rebound": {
+          "legs": [
+            "Goncalo Ramos"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Goncalo Ramos": -106
+          },
+          "bkey": "|anytime goalscorer|Goncalo Ramos",
+          "result": null,
+          "pl": null
         }
       }
     },
