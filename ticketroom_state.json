@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 00:14:22 GMT",
-    "checked_at": "2026-11-22T00:15:20.667942+00:00"
+    "last_modified": "Sun, 22 Nov 2026 00:39:35 GMT",
+    "checked_at": "2026-11-22T00:40:18.155011+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "75d45aeea97925baca898781884d81aebf7deb31b5cd96a19927e2a5c8b2a355",
@@ -210,8 +210,8 @@
       "t:Alav\u00e9s v Deportivo: Deportivo to score"
     ],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 00:14:22 GMT",
-    "checked_at": "2026-11-22T00:15:23.023903+00:00"
+    "last_modified": "Sun, 22 Nov 2026 00:39:35 GMT",
+    "checked_at": "2026-11-22T00:40:21.870733+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -221,11 +221,11 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 00:14:22 GMT",
-    "checked_at": "2026-11-22T00:15:23.225653+00:00"
+    "last_modified": "Sun, 22 Nov 2026 00:39:35 GMT",
+    "checked_at": "2026-11-22T00:40:22.085802+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "c4554043412b16c4c0e29ce1eaf522882aafb76510afb6a66ac7a1f16c4aae4e",
+    "hash": "e19568ebd8cb2f28f921ed7949e611d783569afcb6448f9eb0d9dce89545069c",
     "confirmed": [
       {
         "name": "Brick and Mortar",
@@ -273,6 +273,21 @@
         }
       },
       {
+        "name": "First Bucket",
+        "legs": [
+          "Brook Lopez"
+        ],
+        "rr": false,
+        "info": {
+          "Brook Lopez": "Clippers vs Mavericks \u00b7 Sat Nov 21 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Brook Lopez": 700
+        },
+        "units": 0.4,
+        "group": "5"
+      },
+      {
         "name": "Floor Plan",
         "legs": [
           "Kentavious Caldwell-Pope"
@@ -301,6 +316,21 @@
         },
         "units": 0.3,
         "group": "1"
+      },
+      {
+        "name": "Win the Tip",
+        "legs": [
+          "Max Strus"
+        ],
+        "rr": false,
+        "info": {
+          "Max Strus": "Clippers vs Mavericks \u00b7 Sat Nov 21 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Max Strus": 1200
+        },
+        "units": 0.2,
+        "group": "5"
       }
     ],
     "announced": {
@@ -318,13 +348,21 @@
       ],
       "Clay Pit": [
         "Jalen Brunson"
+      ],
+      "First Bucket": [
+        "Brook Lopez"
+      ],
+      "Win the Tip": [
+        "Max Strus"
       ]
     },
     "abets": [
       "downtown|over 1.5 threes|Kentavious Caldwell-Pope",
       "downtown|over 2.5 threes|Toumani Camara",
       "downtown|under 2.5 threes|Jalen Brunson",
+      "|first basket|Brook Lopez",
       "|first basket|Kyle Kuzma",
+      "|first basket|Max Strus",
       "|first basket|Ryan Rollins"
     ],
     "slate": "2026-11-21",
@@ -332,7 +370,7 @@
       "dt:Kentavious Caldwell-Pope"
     ],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 00:14:22 GMT",
-    "checked_at": "2026-11-22T00:15:24.766741+00:00"
+    "last_modified": "Sun, 22 Nov 2026 00:39:35 GMT",
+    "checked_at": "2026-11-22T00:40:23.779357+00:00"
   }
 }

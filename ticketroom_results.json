@@ -4100,6 +4100,34 @@
           "bkey": "downtown|under 2.5 threes|Jalen Brunson",
           "result": null,
           "pl": null
+        },
+        "First Bucket": {
+          "legs": [
+            "Brook Lopez"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.4,
+          "odds": {
+            "Brook Lopez": 700
+          },
+          "bkey": "|first basket|Brook Lopez",
+          "result": null,
+          "pl": null
+        },
+        "Win the Tip": {
+          "legs": [
+            "Max Strus"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "Max Strus": 1200
+          },
+          "bkey": "|first basket|Max Strus",
+          "result": null,
+          "pl": null
         }
       }
     }
