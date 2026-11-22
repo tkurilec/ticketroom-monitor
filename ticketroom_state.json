@@ -7,12 +7,25 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 20:28:52 GMT",
-    "checked_at": "2026-11-22T20:29:11.756681+00:00"
+    "last_modified": "Sun, 22 Nov 2026 22:38:47 GMT",
+    "checked_at": "2026-11-22T22:39:11.238516+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e5934dd1fbee0ac060d5df5ae9046f95de06594ecd6968fc95fa642d6b384845",
+    "hash": "dea3ba87230f15f73b8a29eaf8ffc43d009f832a01476b046d1b77cd9ffacecc",
     "confirmed": [
+      {
+        "name": "Back Post",
+        "legs": [
+          "Robert Lewandowski"
+        ],
+        "rr": false,
+        "info": {
+          "Robert Lewandowski": "Chicago Fire FC vs Charlotte FC \u00b7 Sun Nov 22 \u00b7 6:30 PM ET"
+        },
+        "odds": {
+          "Robert Lewandowski": -117
+        }
+      },
       {
         "name": "Bottom Corner",
         "legs": [
@@ -220,6 +233,9 @@
       ],
       "The Poacher": [
         "Sam Surridge"
+      ],
+      "Back Post": [
+        "Robert Lewandowski"
       ]
     },
     "abets": [
@@ -233,6 +249,7 @@
       "|anytime goalscorer|Niclas Fullkrug",
       "|anytime goalscorer|Orri Oskarsson",
       "|anytime goalscorer|Raphinha",
+      "|anytime goalscorer|Robert Lewandowski",
       "|anytime goalscorer|Sam Surridge",
       "|anytime goalscorer|Yassir Zabiri"
     ],
@@ -246,8 +263,8 @@
       "t:AC Milan v Frosinone: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 20:28:51 GMT",
-    "checked_at": "2026-11-22T20:29:15.260093+00:00"
+    "last_modified": "Sun, 22 Nov 2026 22:38:47 GMT",
+    "checked_at": "2026-11-22T22:39:15.898180+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "919046561b9ff42d638716c5c617b540fd316f0f1981af2d000612b8b61a6851",
@@ -505,8 +522,8 @@
       "a:Xavier Worthy"
     ],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 20:28:51 GMT",
-    "checked_at": "2026-11-22T20:29:15.967199+00:00"
+    "last_modified": "Sun, 22 Nov 2026 22:38:47 GMT",
+    "checked_at": "2026-11-22T22:39:17.377343+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "653d5b0b79177c1bc538fb1a85110bc29bf04b9449dc5e8b639d978df82f1543",
@@ -538,7 +555,7 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 20:28:51 GMT",
-    "checked_at": "2026-11-22T20:29:16.442719+00:00"
+    "last_modified": "Sun, 22 Nov 2026 22:38:47 GMT",
+    "checked_at": "2026-11-22T22:39:17.757320+00:00"
   }
 }

@@ -1063,6 +1063,20 @@
           "bkey": "|anytime goalscorer|Sam Surridge",
           "result": null,
           "pl": null
+        },
+        "Back Post": {
+          "legs": [
+            "Robert Lewandowski"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Robert Lewandowski": -117
+          },
+          "bkey": "|anytime goalscorer|Robert Lewandowski",
+          "result": null,
+          "pl": null
         }
       }
     },
