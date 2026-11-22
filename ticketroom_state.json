@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 22:38:47 GMT",
-    "checked_at": "2026-11-22T22:39:11.238516+00:00"
+    "last_modified": "Sun, 22 Nov 2026 22:39:28 GMT",
+    "checked_at": "2026-11-22T22:40:19.513301+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "dea3ba87230f15f73b8a29eaf8ffc43d009f832a01476b046d1b77cd9ffacecc",
@@ -263,8 +263,8 @@
       "t:AC Milan v Frosinone: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 22:38:47 GMT",
-    "checked_at": "2026-11-22T22:39:15.898180+00:00"
+    "last_modified": "Sun, 22 Nov 2026 22:39:28 GMT",
+    "checked_at": "2026-11-22T22:40:21.719919+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "919046561b9ff42d638716c5c617b540fd316f0f1981af2d000612b8b61a6851",
@@ -522,11 +522,11 @@
       "a:Xavier Worthy"
     ],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 22:38:47 GMT",
-    "checked_at": "2026-11-22T22:39:17.377343+00:00"
+    "last_modified": "Sun, 22 Nov 2026 22:39:28 GMT",
+    "checked_at": "2026-11-22T22:40:22.679143+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "653d5b0b79177c1bc538fb1a85110bc29bf04b9449dc5e8b639d978df82f1543",
+    "hash": "3d2730e90544aa746ceb944aa552df61399395492fa790a28676aea1ddfbb66c",
     "confirmed": [
       {
         "name": "Center Circle",
@@ -542,20 +542,58 @@
         },
         "units": 0.6,
         "group": "1"
+      },
+      {
+        "name": "First Bucket",
+        "legs": [
+          "Klay Thompson"
+        ],
+        "rr": false,
+        "info": {
+          "Klay Thompson": "Heat vs Thunder \u00b7 Sun Nov 22 \u00b7 6:00 PM ET"
+        },
+        "odds": {
+          "Klay Thompson": 850
+        },
+        "units": 0.6,
+        "group": "2"
+      },
+      {
+        "name": "Framing Crew",
+        "legs": [
+          "Bobby Portis Jr."
+        ],
+        "rr": false,
+        "market": "over 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Bobby Portis Jr.": "Heat vs Thunder \u00b7 Sun Nov 22 \u00b7 6:00 PM ET"
+        },
+        "odds": {
+          "Bobby Portis Jr.": -120
+        }
       }
     ],
     "announced": {
       "Center Circle": [
         "Onyeka Okongwu"
+      ],
+      "First Bucket": [
+        "Klay Thompson"
+      ],
+      "Framing Crew": [
+        "Bobby Portis Jr."
       ]
     },
     "abets": [
+      "downtown|over 1.5 threes|Bobby Portis Jr.",
+      "|first basket|Klay Thompson",
       "|first basket|Onyeka Okongwu"
     ],
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 22:38:47 GMT",
-    "checked_at": "2026-11-22T22:39:17.757320+00:00"
+    "last_modified": "Sun, 22 Nov 2026 22:39:28 GMT",
+    "checked_at": "2026-11-22T22:40:24.433445+00:00"
   }
 }

@@ -4426,6 +4426,34 @@
           "bkey": "|first basket|Onyeka Okongwu",
           "result": null,
           "pl": null
+        },
+        "First Bucket": {
+          "legs": [
+            "Klay Thompson"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Klay Thompson": 850
+          },
+          "bkey": "|first basket|Klay Thompson",
+          "result": null,
+          "pl": null
+        },
+        "Framing Crew": {
+          "legs": [
+            "Bobby Portis Jr."
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Bobby Portis Jr.": -120
+          },
+          "bkey": "downtown|over 1.5 threes|Bobby Portis Jr.",
+          "result": null,
+          "pl": null
         }
       }
     }
