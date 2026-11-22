@@ -909,6 +909,34 @@
           "bkey": "totals||AC Milan v Frosinone: Both teams to score,Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals,Vancouver Whitecaps v Real Salt Lake: Real Salt Lake under 1.5 goals,Werder Bremen v Hamburg SV: Werder Bremen under 2.5 goals",
           "result": null,
           "pl": null
+        },
+        "Six-Yard Box": {
+          "legs": [
+            "Lamine Yamal Nasraqui Ebana"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Lamine Yamal Nasraqui Ebana": -115
+          },
+          "bkey": "|anytime goalscorer|Lamine Yamal Nasraqui Ebana",
+          "result": null,
+          "pl": null
+        },
+        "Target Man": {
+          "legs": [
+            "Raphinha"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Raphinha": -240
+          },
+          "bkey": "|anytime goalscorer|Raphinha",
+          "result": null,
+          "pl": null
         }
       }
     },

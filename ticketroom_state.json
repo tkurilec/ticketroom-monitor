@@ -7,12 +7,38 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 11:06:59 GMT",
-    "checked_at": "2026-11-22T11:07:12.534677+00:00"
+    "last_modified": "Sun, 22 Nov 2026 12:01:58 GMT",
+    "checked_at": "2026-11-22T12:02:12.413883+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "60a6a3e2c27ea0e7d91cec601d2a06146e97b8d26bd919a283f03bee5b56478a",
+    "hash": "36662ee8d9cfd3a0474aa093c91343a14ff0adcd8a32ab21e50b0451d47ef556",
     "confirmed": [
+      {
+        "name": "Six-Yard Box",
+        "legs": [
+          "Lamine Yamal Nasraqui Ebana"
+        ],
+        "rr": false,
+        "info": {
+          "Lamine Yamal Nasraqui Ebana": "Barcelona vs Villarreal \u00b7 Sun Nov 22 \u00b7 8:00 AM ET"
+        },
+        "odds": {
+          "Lamine Yamal Nasraqui Ebana": -115
+        }
+      },
+      {
+        "name": "Target Man",
+        "legs": [
+          "Raphinha"
+        ],
+        "rr": false,
+        "info": {
+          "Raphinha": "Barcelona vs Villarreal \u00b7 Sun Nov 22 \u00b7 8:00 AM ET"
+        },
+        "odds": {
+          "Raphinha": -240
+        }
+      },
       {
         "name": "The Score Sheet",
         "legs": [
@@ -44,16 +70,24 @@
         "Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals",
         "Vancouver Whitecaps v Real Salt Lake: Real Salt Lake under 1.5 goals",
         "Werder Bremen v Hamburg SV: Werder Bremen under 2.5 goals"
+      ],
+      "Six-Yard Box": [
+        "Lamine Yamal Nasraqui Ebana"
+      ],
+      "Target Man": [
+        "Raphinha"
       ]
     },
     "abets": [
-      "totals||AC Milan v Frosinone: Both teams to score,Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals,Vancouver Whitecaps v Real Salt Lake: Real Salt Lake under 1.5 goals,Werder Bremen v Hamburg SV: Werder Bremen under 2.5 goals"
+      "totals||AC Milan v Frosinone: Both teams to score,Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals,Vancouver Whitecaps v Real Salt Lake: Real Salt Lake under 1.5 goals,Werder Bremen v Hamburg SV: Werder Bremen under 2.5 goals",
+      "|anytime goalscorer|Lamine Yamal Nasraqui Ebana",
+      "|anytime goalscorer|Raphinha"
     ],
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 11:06:59 GMT",
-    "checked_at": "2026-11-22T11:07:12.983483+00:00"
+    "last_modified": "Sun, 22 Nov 2026 12:01:58 GMT",
+    "checked_at": "2026-11-22T12:02:15.877109+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -63,8 +97,8 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 11:06:59 GMT",
-    "checked_at": "2026-11-22T11:07:13.145270+00:00"
+    "last_modified": "Sun, 22 Nov 2026 12:01:58 GMT",
+    "checked_at": "2026-11-22T12:02:16.213052+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -74,7 +108,7 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 11:06:59 GMT",
-    "checked_at": "2026-11-22T11:07:13.358736+00:00"
+    "last_modified": "Sun, 22 Nov 2026 12:01:58 GMT",
+    "checked_at": "2026-11-22T12:02:16.426158+00:00"
   }
 }
