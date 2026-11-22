@@ -2583,6 +2583,20 @@
           "bkey": "|anytime touchdown|Brian Thomas Jr.",
           "result": null,
           "pl": null
+        },
+        "Red Zone Target": {
+          "legs": [
+            "J.K. Dobbins"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "J.K. Dobbins": 250
+          },
+          "bkey": "|anytime touchdown|J.K. Dobbins",
+          "result": null,
+          "pl": null
         }
       }
     },
