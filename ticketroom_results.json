@@ -1021,6 +1021,20 @@
           "bkey": "|anytime goalscorer|Ante Budimir",
           "result": null,
           "pl": null
+        },
+        "Cutback": {
+          "legs": [
+            "Amine Gouiri"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Amine Gouiri": -105
+          },
+          "bkey": "|anytime goalscorer|Amine Gouiri",
+          "result": null,
+          "pl": null
         }
       }
     },
