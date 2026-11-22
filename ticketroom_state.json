@@ -7,12 +7,25 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 12:01:58 GMT",
-    "checked_at": "2026-11-22T12:02:12.413883+00:00"
+    "last_modified": "Sun, 22 Nov 2026 14:22:54 GMT",
+    "checked_at": "2026-11-22T14:23:10.860680+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "36662ee8d9cfd3a0474aa093c91343a14ff0adcd8a32ab21e50b0451d47ef556",
+    "hash": "905a5076eb2711b91d88ee7f0f50838cd105f89c2dfbbc6ad79ad9117ce97f66",
     "confirmed": [
+      {
+        "name": "Far Post",
+        "legs": [
+          "Orri Oskarsson"
+        ],
+        "rr": false,
+        "info": {
+          "Orri Oskarsson": "Real Sociedad vs Racing Santander \u00b7 Sun Nov 22 \u00b7 10:15 AM ET"
+        },
+        "odds": {
+          "Orri Oskarsson": 120
+        }
+      },
       {
         "name": "Six-Yard Box",
         "legs": [
@@ -37,6 +50,19 @@
         },
         "odds": {
           "Raphinha": -240
+        }
+      },
+      {
+        "name": "The Nine",
+        "legs": [
+          "Yassir Zabiri"
+        ],
+        "rr": false,
+        "info": {
+          "Yassir Zabiri": "Racing Santander vs Real Sociedad \u00b7 Sun Nov 22 \u00b7 10:15 AM ET"
+        },
+        "odds": {
+          "Yassir Zabiri": -105
         }
       },
       {
@@ -76,18 +102,26 @@
       ],
       "Target Man": [
         "Raphinha"
+      ],
+      "Far Post": [
+        "Orri Oskarsson"
+      ],
+      "The Nine": [
+        "Yassir Zabiri"
       ]
     },
     "abets": [
       "totals||AC Milan v Frosinone: Both teams to score,Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals,Vancouver Whitecaps v Real Salt Lake: Real Salt Lake under 1.5 goals,Werder Bremen v Hamburg SV: Werder Bremen under 2.5 goals",
       "|anytime goalscorer|Lamine Yamal Nasraqui Ebana",
-      "|anytime goalscorer|Raphinha"
+      "|anytime goalscorer|Orri Oskarsson",
+      "|anytime goalscorer|Raphinha",
+      "|anytime goalscorer|Yassir Zabiri"
     ],
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 12:01:58 GMT",
-    "checked_at": "2026-11-22T12:02:15.877109+00:00"
+    "last_modified": "Sun, 22 Nov 2026 14:22:54 GMT",
+    "checked_at": "2026-11-22T14:23:13.183787+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -97,8 +131,8 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 12:01:58 GMT",
-    "checked_at": "2026-11-22T12:02:16.213052+00:00"
+    "last_modified": "Sun, 22 Nov 2026 14:22:54 GMT",
+    "checked_at": "2026-11-22T14:23:13.317208+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -108,7 +142,7 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 12:01:58 GMT",
-    "checked_at": "2026-11-22T12:02:16.426158+00:00"
+    "last_modified": "Sun, 22 Nov 2026 14:22:54 GMT",
+    "checked_at": "2026-11-22T14:23:13.448918+00:00"
   }
 }

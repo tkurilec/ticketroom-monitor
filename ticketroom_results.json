@@ -937,6 +937,34 @@
           "bkey": "|anytime goalscorer|Raphinha",
           "result": null,
           "pl": null
+        },
+        "Far Post": {
+          "legs": [
+            "Orri Oskarsson"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Orri Oskarsson": 120
+          },
+          "bkey": "|anytime goalscorer|Orri Oskarsson",
+          "result": null,
+          "pl": null
+        },
+        "The Nine": {
+          "legs": [
+            "Yassir Zabiri"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Yassir Zabiri": -105
+          },
+          "bkey": "|anytime goalscorer|Yassir Zabiri",
+          "result": null,
+          "pl": null
         }
       }
     },
