@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 20:08:46 GMT",
-    "checked_at": "2026-11-22T20:11:19.118633+00:00"
+    "last_modified": "Sun, 22 Nov 2026 20:18:58 GMT",
+    "checked_at": "2026-11-22T20:20:16.392426+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "31fd32cb04ea12f93b789f3e00a19d4dd580accf531c8ec29a61a24aec313eb5",
@@ -204,6 +204,7 @@
     ],
     "slate": "2026-11-22",
     "hits": [
+      "a:Amine Gouiri",
       "a:Ante Budimir",
       "a:Goncalo Ramos",
       "a:Niclas Fullkrug",
@@ -211,8 +212,8 @@
       "t:AC Milan v Frosinone: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 20:08:46 GMT",
-    "checked_at": "2026-11-22T20:11:21.099253+00:00"
+    "last_modified": "Sun, 22 Nov 2026 20:18:58 GMT",
+    "checked_at": "2026-11-22T20:20:18.298115+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "919046561b9ff42d638716c5c617b540fd316f0f1981af2d000612b8b61a6851",
@@ -470,8 +471,8 @@
       "a:Xavier Worthy"
     ],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 20:08:46 GMT",
-    "checked_at": "2026-11-22T20:11:21.869118+00:00"
+    "last_modified": "Sun, 22 Nov 2026 20:18:58 GMT",
+    "checked_at": "2026-11-22T20:20:18.892128+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "653d5b0b79177c1bc538fb1a85110bc29bf04b9449dc5e8b639d978df82f1543",
@@ -503,7 +504,7 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 20:08:46 GMT",
-    "checked_at": "2026-11-22T20:11:22.194905+00:00"
+    "last_modified": "Sun, 22 Nov 2026 20:18:58 GMT",
+    "checked_at": "2026-11-22T20:20:19.034477+00:00"
   }
 }
