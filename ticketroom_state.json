@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 03:55:58 GMT",
-    "checked_at": "2026-11-23T03:56:12.480376+00:00"
+    "last_modified": "Mon, 23 Nov 2026 05:00:25 GMT",
+    "checked_at": "2026-11-23T05:00:27.432702+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "0ead9448f187bf46c03b8e4835f8820f0cf9271d3b2c2f2e363dd73465a9e7ce",
@@ -44,210 +44,12 @@
     "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 03:55:58 GMT",
-    "checked_at": "2026-11-23T03:56:14.222350+00:00"
+    "last_modified": "Mon, 23 Nov 2026 05:00:25 GMT",
+    "checked_at": "2026-11-23T05:00:27.923141+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "34fe5830f3f2e1434c45c28973cdddaae67d84bf98c96fb14e237d19bf3b001e",
-    "confirmed": [
-      {
-        "name": "Audible",
-        "legs": [
-          "Travis Hunter"
-        ],
-        "rr": false,
-        "info": {
-          "Travis Hunter": "Jaguars vs Giants \u00b7 Sun Nov 22 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "Travis Hunter": 650
-        }
-      },
-      {
-        "name": "Bell Cow",
-        "legs": [
-          "D'Andre Swift"
-        ],
-        "rr": false,
-        "info": {
-          "D'Andre Swift": "Bears vs Saints \u00b7 Sun Nov 22 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "D'Andre Swift": -150
-        }
-      },
-      {
-        "name": "First Read",
-        "legs": [
-          "Sam LaPorta"
-        ],
-        "rr": false,
-        "info": {
-          "Sam LaPorta": "Lions vs Buccaneers \u00b7 Sun Nov 22 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "Sam LaPorta": 225
-        }
-      },
-      {
-        "name": "Goal Line Back",
-        "legs": [
-          "Bhayshul Tuten"
-        ],
-        "rr": false,
-        "info": {
-          "Bhayshul Tuten": "Jaguars vs Giants \u00b7 Sun Nov 22 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "Bhayshul Tuten": -111
-        }
-      },
-      {
-        "name": "Hard Count",
-        "legs": [
-          "Greg Dortch"
-        ],
-        "rr": false,
-        "info": {
-          "Greg Dortch": "Bills vs Dolphins \u00b7 Sun Nov 22 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "Greg Dortch": 1500
-        }
-      },
-      {
-        "name": "Hurry Up",
-        "legs": [
-          "Isaac TeSlaa"
-        ],
-        "rr": false,
-        "info": {
-          "Isaac TeSlaa": "Lions vs Buccaneers \u00b7 Sun Nov 22 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "Isaac TeSlaa": 475
-        }
-      },
-      {
-        "name": "Inside the Ten",
-        "legs": [
-          "Kenny Gainwell"
-        ],
-        "rr": false,
-        "info": {
-          "Kenny Gainwell": "Buccaneers vs Lions \u00b7 Sun Nov 22 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "Kenny Gainwell": 375
-        }
-      },
-      {
-        "name": "Move the Chains",
-        "legs": [
-          "Xavier Worthy"
-        ],
-        "rr": false,
-        "info": {
-          "Xavier Worthy": "Chiefs vs Cardinals \u00b7 Sun Nov 22 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "Xavier Worthy": 360
-        }
-      },
-      {
-        "name": "Red Zone Target",
-        "legs": [
-          "J.K. Dobbins"
-        ],
-        "rr": false,
-        "info": {
-          "J.K. Dobbins": "Broncos vs Raiders \u00b7 Sun Nov 22 \u00b7 4:25 PM ET"
-        },
-        "odds": {
-          "J.K. Dobbins": 250
-        }
-      },
-      {
-        "name": "Short Yardage",
-        "legs": [
-          "Chris Rodriguez Jr."
-        ],
-        "rr": false,
-        "info": {
-          "Chris Rodriguez Jr.": "Jaguars vs Giants \u00b7 Sun Nov 22 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "Chris Rodriguez Jr.": 250
-        }
-      },
-      {
-        "name": "Strike First",
-        "legs": [
-          "Jahmyr Gibbs"
-        ],
-        "rr": false,
-        "info": {
-          "Jahmyr Gibbs": "Lions vs Buccaneers \u00b7 Sun Nov 22 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "Jahmyr Gibbs": 270
-        },
-        "market": "first touchdown scorer",
-        "kind": "ftd"
-      },
-      {
-        "name": "The Checkdown",
-        "legs": [
-          "Jameson Williams"
-        ],
-        "rr": false,
-        "info": {
-          "Jameson Williams": "Lions vs Buccaneers \u00b7 Sun Nov 22 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "Jameson Williams": 228
-        }
-      },
-      {
-        "name": "The Sneak",
-        "legs": [
-          "Deebo Samuel Sr."
-        ],
-        "rr": false,
-        "info": {
-          "Deebo Samuel Sr.": "49ers vs Vikings \u00b7 Sun Nov 22 \u00b7 8:20 PM ET"
-        },
-        "odds": {
-          "Deebo Samuel Sr.": 350
-        }
-      },
-      {
-        "name": "The Workhorse",
-        "legs": [
-          "James Cook"
-        ],
-        "rr": false,
-        "info": {
-          "James Cook": "Bills vs Dolphins \u00b7 Sun Nov 22 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "James Cook": -186
-        }
-      },
-      {
-        "name": "Two Minute Drill",
-        "legs": [
-          "Brian Thomas Jr."
-        ],
-        "rr": false,
-        "info": {
-          "Brian Thomas Jr.": "Jaguars vs Giants \u00b7 Sun Nov 22 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "Brian Thomas Jr.": 575
-        }
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Audible": [
         "Travis Hunter"
@@ -321,88 +123,12 @@
       "a:Xavier Worthy"
     ],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 03:55:58 GMT",
-    "checked_at": "2026-11-23T03:56:16.536071+00:00"
+    "last_modified": "Mon, 23 Nov 2026 05:00:25 GMT",
+    "checked_at": "2026-11-23T05:00:28.104964+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "ceb424458953afd7d00395707eb36a22bb1352c8143cfb060e6d62e1ef4a012c",
-    "confirmed": [
-      {
-        "name": "Center Circle",
-        "legs": [
-          "Onyeka Okongwu"
-        ],
-        "rr": false,
-        "info": {
-          "Onyeka Okongwu": "Hawks vs Pistons \u00b7 Sun Nov 22 \u00b7 3:30 PM ET"
-        },
-        "odds": {
-          "Onyeka Okongwu": 800
-        },
-        "units": 0.6,
-        "group": "1"
-      },
-      {
-        "name": "First Bucket",
-        "legs": [
-          "Klay Thompson"
-        ],
-        "rr": false,
-        "info": {
-          "Klay Thompson": "Heat vs Thunder \u00b7 Sun Nov 22 \u00b7 6:00 PM ET"
-        },
-        "odds": {
-          "Klay Thompson": 850
-        },
-        "units": 0.6,
-        "group": "2"
-      },
-      {
-        "name": "Framing Crew",
-        "legs": [
-          "Bobby Portis Jr."
-        ],
-        "rr": false,
-        "market": "over 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Bobby Portis Jr.": "Heat vs Thunder \u00b7 Sun Nov 22 \u00b7 6:00 PM ET"
-        },
-        "odds": {
-          "Bobby Portis Jr.": -120
-        }
-      },
-      {
-        "name": "Opening Tip",
-        "legs": [
-          "Charles Bassey"
-        ],
-        "rr": false,
-        "info": {
-          "Charles Bassey": "Warriors vs Celtics \u00b7 Sun Nov 22 \u00b7 8:30 PM ET"
-        },
-        "odds": {
-          "Charles Bassey": 700
-        },
-        "units": 0.6,
-        "group": "7"
-      },
-      {
-        "name": "Win the Tip",
-        "legs": [
-          "Josh Green"
-        ],
-        "rr": false,
-        "info": {
-          "Josh Green": "Jazz vs Mavericks \u00b7 Sun Nov 22 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Josh Green": 1500
-        },
-        "units": 0.6,
-        "group": "4"
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Center Circle": [
         "Onyeka Okongwu"
@@ -430,7 +156,7 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 03:55:58 GMT",
-    "checked_at": "2026-11-23T03:56:18.941940+00:00"
+    "last_modified": "Mon, 23 Nov 2026 05:00:25 GMT",
+    "checked_at": "2026-11-23T05:00:29.237183+00:00"
   }
 }
