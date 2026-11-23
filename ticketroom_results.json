@@ -1,38 +1,6 @@
 {
   "boards": {
     "Soccer Board": {
-      "2026-11-05": {
-        "The Poacher": {
-          "legs": [
-            "Jean-Philippe Mateta"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Jean-Philippe Mateta": -105
-          },
-          "bkey": "|anytime goalscorer|Jean-Philippe Mateta",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "Heavy Boot": {
-          "legs": [
-            "Patrik Schick"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 2,
-          "odds": {
-            "Patrik Schick": -145
-          },
-          "bkey": "|anytime goalscorer|Patrik Schick",
-          "result": "lost",
-          "pl": -2,
-          "legs_hit": 0
-        }
-      },
       "2026-11-06": {
         "Shut the Gate": {
           "legs": [
@@ -907,8 +875,9 @@
             "Werder Bremen v Hamburg SV: Werder Bremen under 2.5 goals": -209
           },
           "bkey": "totals||AC Milan v Frosinone: Both teams to score,Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals,Vancouver Whitecaps v Real Salt Lake: Real Salt Lake under 1.5 goals,Werder Bremen v Hamburg SV: Werder Bremen under 2.5 goals",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 3
         },
         "Six-Yard Box": {
           "legs": [
@@ -921,8 +890,9 @@
             "Lamine Yamal Nasraqui Ebana": -115
           },
           "bkey": "|anytime goalscorer|Lamine Yamal Nasraqui Ebana",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Target Man": {
           "legs": [
@@ -935,8 +905,9 @@
             "Raphinha": -240
           },
           "bkey": "|anytime goalscorer|Raphinha",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Far Post": {
           "legs": [
@@ -949,8 +920,9 @@
             "Orri Oskarsson": 120
           },
           "bkey": "|anytime goalscorer|Orri Oskarsson",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "The Nine": {
           "legs": [
@@ -963,8 +935,9 @@
             "Yassir Zabiri": -105
           },
           "bkey": "|anytime goalscorer|Yassir Zabiri",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.9523809523809523,
+          "legs_hit": 1
         },
         "Low and Hard": {
           "legs": [
@@ -977,8 +950,9 @@
             "Alexander Isak": -100
           },
           "bkey": "|anytime goalscorer|Alexander Isak",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Through on Goal": {
           "legs": [
@@ -991,8 +965,9 @@
             "Niclas Fullkrug": -107
           },
           "bkey": "|anytime goalscorer|Niclas Fullkrug",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.9345794392523366,
+          "legs_hit": 1
         },
         "Rebound": {
           "legs": [
@@ -1005,8 +980,9 @@
             "Goncalo Ramos": -106
           },
           "bkey": "|anytime goalscorer|Goncalo Ramos",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.9433962264150944,
+          "legs_hit": 1
         },
         "First Time": {
           "legs": [
@@ -1019,8 +995,9 @@
             "Ante Budimir": -105
           },
           "bkey": "|anytime goalscorer|Ante Budimir",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.9523809523809523,
+          "legs_hit": 1
         },
         "Cutback": {
           "legs": [
@@ -1033,8 +1010,9 @@
             "Amine Gouiri": -105
           },
           "bkey": "|anytime goalscorer|Amine Gouiri",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.9523809523809523,
+          "legs_hit": 1
         },
         "Bottom Corner": {
           "legs": [
@@ -1047,8 +1025,9 @@
             "Hany Mukhtar": 115
           },
           "bkey": "|anytime goalscorer|Hany Mukhtar",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "The Poacher": {
           "legs": [
@@ -1061,8 +1040,9 @@
             "Sam Surridge": -130
           },
           "bkey": "|anytime goalscorer|Sam Surridge",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Back Post": {
           "legs": [
@@ -1075,8 +1055,9 @@
             "Robert Lewandowski": -117
           },
           "bkey": "|anytime goalscorer|Robert Lewandowski",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.8547008547008548,
+          "legs_hit": 1
         },
         "Danger Man": {
           "legs": [
@@ -1089,6 +1070,25 @@
             "Brian White": -106
           },
           "bkey": "|anytime goalscorer|Brian White",
+          "result": "lost",
+          "pl": -2,
+          "legs_hit": 0
+        }
+      },
+      "2026-11-23": {
+        "Ninety Minutes": {
+          "legs": [
+            "Levante v Elche: Elche under 1.5 goals",
+            "Monza v Fiorentina: Monza under 1.5 goals"
+          ],
+          "kind": "totals",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Monza v Fiorentina: Monza under 1.5 goals": -190,
+            "Levante v Elche: Elche under 1.5 goals": -200
+          },
+          "bkey": "totals||Levante v Elche: Elche under 1.5 goals,Monza v Fiorentina: Monza under 1.5 goals",
           "result": null,
           "pl": null
         }

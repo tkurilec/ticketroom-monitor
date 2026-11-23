@@ -7,301 +7,45 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 03:32:23 GMT",
-    "checked_at": "2026-11-23T03:35:14.983600+00:00"
+    "last_modified": "Mon, 23 Nov 2026 03:55:58 GMT",
+    "checked_at": "2026-11-23T03:56:12.480376+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e25a04be1c4d79761bd959695bf6bad93011f96f0425e5bddf941997edbc5c1c",
+    "hash": "0ead9448f187bf46c03b8e4835f8820f0cf9271d3b2c2f2e363dd73465a9e7ce",
     "confirmed": [
       {
-        "name": "Back Post",
+        "name": "Ninety Minutes",
         "legs": [
-          "Robert Lewandowski"
-        ],
-        "rr": false,
-        "info": {
-          "Robert Lewandowski": "Chicago Fire FC vs Charlotte FC \u00b7 Sun Nov 22 \u00b7 6:30 PM ET"
-        },
-        "odds": {
-          "Robert Lewandowski": -117
-        }
-      },
-      {
-        "name": "Bottom Corner",
-        "legs": [
-          "Hany Mukhtar"
-        ],
-        "rr": false,
-        "info": {
-          "Hany Mukhtar": "Nashville SC vs FC Cincinnati \u00b7 Sun Nov 22 \u00b7 4:00 PM ET"
-        },
-        "odds": {
-          "Hany Mukhtar": 115
-        }
-      },
-      {
-        "name": "Cutback",
-        "legs": [
-          "Amine Gouiri"
-        ],
-        "rr": false,
-        "info": {
-          "Amine Gouiri": "Marseille vs Le Mans \u00b7 Sun Nov 22 \u00b7 2:45 PM ET"
-        },
-        "odds": {
-          "Amine Gouiri": -105
-        }
-      },
-      {
-        "name": "Danger Man",
-        "legs": [
-          "Brian White"
-        ],
-        "rr": false,
-        "info": {
-          "Brian White": "Vancouver Whitecaps vs Real Salt Lake \u00b7 Sun Nov 22 \u00b7 8:30 PM ET"
-        },
-        "odds": {
-          "Brian White": -106
-        },
-        "units": 2
-      },
-      {
-        "name": "Far Post",
-        "legs": [
-          "Orri Oskarsson"
-        ],
-        "rr": false,
-        "info": {
-          "Orri Oskarsson": "Real Sociedad vs Racing Santander \u00b7 Sun Nov 22 \u00b7 10:15 AM ET"
-        },
-        "odds": {
-          "Orri Oskarsson": 120
-        }
-      },
-      {
-        "name": "First Time",
-        "legs": [
-          "Ante Budimir"
-        ],
-        "rr": false,
-        "info": {
-          "Ante Budimir": "Osasuna vs M\u00e1laga \u00b7 Sun Nov 22 \u00b7 12:30 PM ET"
-        },
-        "odds": {
-          "Ante Budimir": -105
-        }
-      },
-      {
-        "name": "Low and Hard",
-        "legs": [
-          "Alexander Isak"
-        ],
-        "rr": false,
-        "info": {
-          "Alexander Isak": "Liverpool vs Manchester United \u00b7 Sun Nov 22 \u00b7 11:30 AM ET"
-        },
-        "odds": {
-          "Alexander Isak": -100
-        }
-      },
-      {
-        "name": "Near Post",
-        "legs": [
-          "Brian White"
-        ],
-        "rr": false,
-        "info": {
-          "Brian White": "Vancouver Whitecaps vs Real Salt Lake \u00b7 Sun Nov 22 \u00b7 8:30 PM ET"
-        },
-        "odds": {
-          "Brian White": -106
-        }
-      },
-      {
-        "name": "Rebound",
-        "legs": [
-          "Goncalo Ramos"
-        ],
-        "rr": false,
-        "info": {
-          "Goncalo Ramos": "AC Milan vs Frosinone \u00b7 Sun Nov 22 \u00b7 12:00 PM ET"
-        },
-        "odds": {
-          "Goncalo Ramos": -106
-        }
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Lamine Yamal Nasraqui Ebana"
-        ],
-        "rr": false,
-        "info": {
-          "Lamine Yamal Nasraqui Ebana": "Barcelona vs Villarreal \u00b7 Sun Nov 22 \u00b7 8:00 AM ET"
-        },
-        "odds": {
-          "Lamine Yamal Nasraqui Ebana": -115
-        }
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Raphinha"
-        ],
-        "rr": false,
-        "info": {
-          "Raphinha": "Barcelona vs Villarreal \u00b7 Sun Nov 22 \u00b7 8:00 AM ET"
-        },
-        "odds": {
-          "Raphinha": -240
-        }
-      },
-      {
-        "name": "The Nine",
-        "legs": [
-          "Yassir Zabiri"
-        ],
-        "rr": false,
-        "info": {
-          "Yassir Zabiri": "Racing Santander vs Real Sociedad \u00b7 Sun Nov 22 \u00b7 10:15 AM ET"
-        },
-        "odds": {
-          "Yassir Zabiri": -105
-        }
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Sam Surridge"
-        ],
-        "rr": false,
-        "info": {
-          "Sam Surridge": "Nashville SC vs FC Cincinnati \u00b7 Sun Nov 22 \u00b7 4:00 PM ET"
-        },
-        "odds": {
-          "Sam Surridge": -130
-        }
-      },
-      {
-        "name": "The Score Sheet",
-        "legs": [
-          "AC Milan v Frosinone: Both teams to score",
-          "Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals",
-          "Vancouver Whitecaps v Real Salt Lake: Real Salt Lake under 1.5 goals",
-          "Werder Bremen v Hamburg SV: Werder Bremen under 2.5 goals"
+          "Levante v Elche: Elche under 1.5 goals",
+          "Monza v Fiorentina: Monza under 1.5 goals"
         ],
         "rr": false,
         "market": "",
         "kind": "totals",
         "info": {
-          "AC Milan v Frosinone: Both teams to score": "Sun Nov 22 \u00b7 12:00 PM ET",
-          "Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals": "Sun Nov 22 \u00b7 4:00 PM ET",
-          "Vancouver Whitecaps v Real Salt Lake: Real Salt Lake under 1.5 goals": "Sun Nov 22 \u00b7 8:30 PM ET",
-          "Werder Bremen v Hamburg SV: Werder Bremen under 2.5 goals": "Sun Nov 22 \u00b7 11:30 AM ET"
+          "Monza v Fiorentina: Monza under 1.5 goals": "Mon Nov 23 \u00b7 2:45 PM ET",
+          "Levante v Elche: Elche under 1.5 goals": "Mon Nov 23 \u00b7 3:00 PM ET"
         },
         "odds": {
-          "AC Milan v Frosinone: Both teams to score": -235,
-          "Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals": -275,
-          "Vancouver Whitecaps v Real Salt Lake: Real Salt Lake under 1.5 goals": -271,
-          "Werder Bremen v Hamburg SV: Werder Bremen under 2.5 goals": -209
-        }
-      },
-      {
-        "name": "Through on Goal",
-        "legs": [
-          "Niclas Fullkrug"
-        ],
-        "rr": false,
-        "info": {
-          "Niclas Fullkrug": "Werder Bremen vs Hamburg SV \u00b7 Sun Nov 22 \u00b7 11:30 AM ET"
-        },
-        "odds": {
-          "Niclas Fullkrug": -107
+          "Monza v Fiorentina: Monza under 1.5 goals": -190,
+          "Levante v Elche: Elche under 1.5 goals": -200
         }
       }
     ],
     "announced": {
-      "The Score Sheet": [
-        "AC Milan v Frosinone: Both teams to score",
-        "Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals",
-        "Vancouver Whitecaps v Real Salt Lake: Real Salt Lake under 1.5 goals",
-        "Werder Bremen v Hamburg SV: Werder Bremen under 2.5 goals"
-      ],
-      "Six-Yard Box": [
-        "Lamine Yamal Nasraqui Ebana"
-      ],
-      "Target Man": [
-        "Raphinha"
-      ],
-      "Far Post": [
-        "Orri Oskarsson"
-      ],
-      "The Nine": [
-        "Yassir Zabiri"
-      ],
-      "Low and Hard": [
-        "Alexander Isak"
-      ],
-      "Through on Goal": [
-        "Niclas Fullkrug"
-      ],
-      "Rebound": [
-        "Goncalo Ramos"
-      ],
-      "First Time": [
-        "Ante Budimir"
-      ],
-      "Cutback": [
-        "Amine Gouiri"
-      ],
-      "Bottom Corner": [
-        "Hany Mukhtar"
-      ],
-      "The Poacher": [
-        "Sam Surridge"
-      ],
-      "Back Post": [
-        "Robert Lewandowski"
-      ],
-      "Danger Man": [
-        "Brian White"
-      ],
-      "Near Post": [
-        "Brian White"
+      "Ninety Minutes": [
+        "Levante v Elche: Elche under 1.5 goals",
+        "Monza v Fiorentina: Monza under 1.5 goals"
       ]
     },
     "abets": [
-      "totals||AC Milan v Frosinone: Both teams to score,Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals,Vancouver Whitecaps v Real Salt Lake: Real Salt Lake under 1.5 goals,Werder Bremen v Hamburg SV: Werder Bremen under 2.5 goals",
-      "|anytime goalscorer|Alexander Isak",
-      "|anytime goalscorer|Amine Gouiri",
-      "|anytime goalscorer|Ante Budimir",
-      "|anytime goalscorer|Brian White",
-      "|anytime goalscorer|Goncalo Ramos",
-      "|anytime goalscorer|Hany Mukhtar",
-      "|anytime goalscorer|Lamine Yamal Nasraqui Ebana",
-      "|anytime goalscorer|Niclas Fullkrug",
-      "|anytime goalscorer|Orri Oskarsson",
-      "|anytime goalscorer|Raphinha",
-      "|anytime goalscorer|Robert Lewandowski",
-      "|anytime goalscorer|Sam Surridge",
-      "|anytime goalscorer|Yassir Zabiri"
+      "totals||Levante v Elche: Elche under 1.5 goals,Monza v Fiorentina: Monza under 1.5 goals"
     ],
-    "slate": "2026-11-22",
-    "hits": [
-      "a:Amine Gouiri",
-      "a:Ante Budimir",
-      "a:Goncalo Ramos",
-      "a:Niclas Fullkrug",
-      "a:Robert Lewandowski",
-      "a:Yassir Zabiri",
-      "t:AC Milan v Frosinone: Both teams to score",
-      "t:Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals",
-      "t:Vancouver Whitecaps v Real Salt Lake: Real Salt Lake under 1.5 goals"
-    ],
+    "slate": "2026-11-23",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 03:32:23 GMT",
-    "checked_at": "2026-11-23T03:35:17.787318+00:00"
+    "last_modified": "Mon, 23 Nov 2026 03:55:58 GMT",
+    "checked_at": "2026-11-23T03:56:14.222350+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "34fe5830f3f2e1434c45c28973cdddaae67d84bf98c96fb14e237d19bf3b001e",
@@ -577,8 +321,8 @@
       "a:Xavier Worthy"
     ],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 03:32:23 GMT",
-    "checked_at": "2026-11-23T03:35:18.694428+00:00"
+    "last_modified": "Mon, 23 Nov 2026 03:55:58 GMT",
+    "checked_at": "2026-11-23T03:56:16.536071+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "ceb424458953afd7d00395707eb36a22bb1352c8143cfb060e6d62e1ef4a012c",
@@ -686,7 +430,7 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 03:32:23 GMT",
-    "checked_at": "2026-11-23T03:35:19.718086+00:00"
+    "last_modified": "Mon, 23 Nov 2026 03:55:58 GMT",
+    "checked_at": "2026-11-23T03:56:18.941940+00:00"
   }
 }
