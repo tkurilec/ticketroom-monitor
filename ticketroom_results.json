@@ -2684,7 +2684,50 @@
           "legs_hit": 0
         }
       },
-      "2026-11-23": {}
+      "2026-11-23": {
+        "Bell Cow": {
+          "legs": [
+            "Mitchell Tinsley"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Mitchell Tinsley": 1400
+          },
+          "bkey": "|anytime touchdown|Mitchell Tinsley",
+          "result": null,
+          "pl": null
+        },
+        "The Opening Act": {
+          "legs": [
+            "Chase Brown"
+          ],
+          "kind": "ftd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Chase Brown": 558
+          },
+          "bkey": "ftd|first touchdown scorer|Chase Brown",
+          "result": null,
+          "pl": null
+        },
+        "The Workhorse": {
+          "legs": [
+            "Chase Brown"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Chase Brown": -125
+          },
+          "bkey": "|anytime touchdown|Chase Brown",
+          "result": null,
+          "pl": null
+        }
+      }
     },
     "NBA Board": {
       "2026-11-10": {

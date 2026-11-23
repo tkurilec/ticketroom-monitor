@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 23:40:28 GMT",
-    "checked_at": "2026-11-23T23:41:12.954339+00:00"
+    "last_modified": "Mon, 23 Nov 2026 23:55:20 GMT",
+    "checked_at": "2026-11-23T23:56:13.571027+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "0ead9448f187bf46c03b8e4835f8820f0cf9271d3b2c2f2e363dd73465a9e7ce",
@@ -46,19 +46,75 @@
       "t:Levante v Elche: Elche under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 23:40:28 GMT",
-    "checked_at": "2026-11-23T23:41:13.302321+00:00"
+    "last_modified": "Mon, 23 Nov 2026 23:55:20 GMT",
+    "checked_at": "2026-11-23T23:56:14.509362+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "04bd1ec7d64f63ef1ae3a962e3a270b7cab488cf9f96abc3b3a7701e94cb3d82",
+    "confirmed": [
+      {
+        "name": "Bell Cow",
+        "legs": [
+          "Mitchell Tinsley"
+        ],
+        "rr": false,
+        "info": {
+          "Mitchell Tinsley": "Bengals vs Commanders \u00b7 Mon Nov 23 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Mitchell Tinsley": 1400
+        }
+      },
+      {
+        "name": "The Opening Act",
+        "legs": [
+          "Chase Brown"
+        ],
+        "rr": false,
+        "info": {
+          "Chase Brown": "Bengals vs Commanders \u00b7 Mon Nov 23 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Chase Brown": 558
+        },
+        "market": "first touchdown scorer",
+        "kind": "ftd"
+      },
+      {
+        "name": "The Workhorse",
+        "legs": [
+          "Chase Brown"
+        ],
+        "rr": false,
+        "info": {
+          "Chase Brown": "Bengals vs Commanders \u00b7 Mon Nov 23 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Chase Brown": -125
+        }
+      }
+    ],
+    "announced": {
+      "Bell Cow": [
+        "Mitchell Tinsley"
+      ],
+      "The Opening Act": [
+        "Chase Brown"
+      ],
+      "The Workhorse": [
+        "Chase Brown"
+      ]
+    },
+    "abets": [
+      "ftd|first touchdown scorer|Chase Brown",
+      "|anytime touchdown|Chase Brown",
+      "|anytime touchdown|Mitchell Tinsley"
+    ],
     "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 23:40:28 GMT",
-    "checked_at": "2026-11-23T23:41:13.483841+00:00"
+    "last_modified": "Mon, 23 Nov 2026 23:55:20 GMT",
+    "checked_at": "2026-11-23T23:56:16.248942+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "d4446b82924f6a8c23fba3b29b2bd7eced55ef0ef072b0cc75e3a8f0db9b3bdd",
@@ -109,7 +165,7 @@
     "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 23:40:28 GMT",
-    "checked_at": "2026-11-23T23:41:15.061156+00:00"
+    "last_modified": "Mon, 23 Nov 2026 23:55:20 GMT",
+    "checked_at": "2026-11-23T23:56:16.778960+00:00"
   }
 }
