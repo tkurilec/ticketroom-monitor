@@ -4496,6 +4496,20 @@
           "bkey": "|first basket|Josh Green",
           "result": null,
           "pl": null
+        },
+        "Opening Tip": {
+          "legs": [
+            "Charles Bassey"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Charles Bassey": 700
+          },
+          "bkey": "|first basket|Charles Bassey",
+          "result": null,
+          "pl": null
         }
       }
     }

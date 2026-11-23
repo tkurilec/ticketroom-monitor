@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 01:07:02 GMT",
-    "checked_at": "2026-11-23T01:07:12.420943+00:00"
+    "last_modified": "Mon, 23 Nov 2026 01:10:05 GMT",
+    "checked_at": "2026-11-23T01:10:34.935377+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e25a04be1c4d79761bd959695bf6bad93011f96f0425e5bddf941997edbc5c1c",
@@ -299,8 +299,8 @@
       "t:Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 01:07:02 GMT",
-    "checked_at": "2026-11-23T01:07:14.543119+00:00"
+    "last_modified": "Mon, 23 Nov 2026 01:10:05 GMT",
+    "checked_at": "2026-11-23T01:10:37.142295+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "34fe5830f3f2e1434c45c28973cdddaae67d84bf98c96fb14e237d19bf3b001e",
@@ -576,11 +576,11 @@
       "a:Xavier Worthy"
     ],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 01:07:02 GMT",
-    "checked_at": "2026-11-23T01:07:15.452786+00:00"
+    "last_modified": "Mon, 23 Nov 2026 01:10:05 GMT",
+    "checked_at": "2026-11-23T01:10:37.899091+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "054965c022fc75fcb69a9833403b4a80eb8aa3220c7747f9428a93fb938956e6",
+    "hash": "ceb424458953afd7d00395707eb36a22bb1352c8143cfb060e6d62e1ef4a012c",
     "confirmed": [
       {
         "name": "Center Circle",
@@ -628,6 +628,21 @@
         }
       },
       {
+        "name": "Opening Tip",
+        "legs": [
+          "Charles Bassey"
+        ],
+        "rr": false,
+        "info": {
+          "Charles Bassey": "Warriors vs Celtics \u00b7 Sun Nov 22 \u00b7 8:30 PM ET"
+        },
+        "odds": {
+          "Charles Bassey": 700
+        },
+        "units": 0.6,
+        "group": "7"
+      },
+      {
         "name": "Win the Tip",
         "legs": [
           "Josh Green"
@@ -655,10 +670,14 @@
       ],
       "Win the Tip": [
         "Josh Green"
+      ],
+      "Opening Tip": [
+        "Charles Bassey"
       ]
     },
     "abets": [
       "downtown|over 1.5 threes|Bobby Portis Jr.",
+      "|first basket|Charles Bassey",
       "|first basket|Josh Green",
       "|first basket|Klay Thompson",
       "|first basket|Onyeka Okongwu"
@@ -666,7 +685,7 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 01:07:02 GMT",
-    "checked_at": "2026-11-23T01:07:16.057921+00:00"
+    "last_modified": "Mon, 23 Nov 2026 01:10:05 GMT",
+    "checked_at": "2026-11-23T01:10:39.820884+00:00"
   }
 }
