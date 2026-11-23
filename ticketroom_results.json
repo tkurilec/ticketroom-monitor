@@ -2687,93 +2687,6 @@
       "2026-11-23": {}
     },
     "NBA Board": {
-      "2026-11-09": {
-        "First Basket: CLE@CHA": {
-          "legs": [
-            "Evan Mobley",
-            "Jarrett Allen"
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "Jarrett Allen": 550,
-            "Evan Mobley": 500
-          },
-          "bkey": "fb2|first basket|Evan Mobley,Jarrett Allen",
-          "result": "won",
-          "pl": 2.25,
-          "legs_hit": 1
-        },
-        "First Basket: WAS@DET": {
-          "legs": [
-            "Alex Sarr",
-            "Anthony Davis"
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "Anthony Davis": 550,
-            "Alex Sarr": 700
-          },
-          "bkey": "fb2|first basket|Alex Sarr,Anthony Davis",
-          "result": "lost",
-          "pl": -1,
-          "legs_hit": 0
-        },
-        "First Basket: LAL@ATL": {
-          "legs": [
-            "Luka Doncic",
-            "Walker Kessler"
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "Luka Doncic": 360,
-            "Walker Kessler": 600
-          },
-          "bkey": "fb2|first basket|Luka Doncic,Walker Kessler",
-          "result": "lost",
-          "pl": -1,
-          "legs_hit": 0
-        },
-        "First Basket: SAS@PHX": {
-          "legs": [
-            "De'Aaron Fox",
-            "Victor Wembanyama"
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "Victor Wembanyama": 290,
-            "De'Aaron Fox": 650
-          },
-          "bkey": "fb2|first basket|De'Aaron Fox,Victor Wembanyama",
-          "result": "won",
-          "pl": 2.75,
-          "legs_hit": 1
-        },
-        "First Basket: DEN@HOU": {
-          "legs": [
-            "Jamal Murray",
-            "Nikola Jokic"
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "Nikola Jokic": 500,
-            "Jamal Murray": 440
-          },
-          "bkey": "fb2|first basket|Jamal Murray,Nikola Jokic",
-          "result": "won",
-          "pl": 1.7,
-          "legs_hit": 1
-        }
-      },
       "2026-11-10": {
         "First Basket: MIL@NYK": {
           "legs": [
@@ -4468,8 +4381,9 @@
             "Onyeka Okongwu": 800
           },
           "bkey": "|first basket|Onyeka Okongwu",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "First Bucket": {
           "legs": [
@@ -4482,8 +4396,9 @@
             "Klay Thompson": 850
           },
           "bkey": "|first basket|Klay Thompson",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Framing Crew": {
           "legs": [
@@ -4496,8 +4411,9 @@
             "Bobby Portis Jr.": -120
           },
           "bkey": "downtown|over 1.5 threes|Bobby Portis Jr.",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Win the Tip": {
           "legs": [
@@ -4510,8 +4426,9 @@
             "Josh Green": 1500
           },
           "bkey": "|first basket|Josh Green",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Opening Tip": {
           "legs": [
@@ -4524,10 +4441,12 @@
             "Charles Bassey": 700
           },
           "bkey": "|first basket|Charles Bassey",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         }
-      }
+      },
+      "2026-11-23": {}
     }
   },
   "recap_sent": "2026-11-22",

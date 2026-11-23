@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 05:20:51 GMT",
-    "checked_at": "2026-11-23T05:21:11.315869+00:00"
+    "last_modified": "Mon, 23 Nov 2026 11:01:53 GMT",
+    "checked_at": "2026-11-23T11:02:11.507567+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "0ead9448f187bf46c03b8e4835f8820f0cf9271d3b2c2f2e363dd73465a9e7ce",
@@ -44,8 +44,8 @@
     "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 05:21:10 GMT",
-    "checked_at": "2026-11-23T05:21:11.814936+00:00"
+    "last_modified": "Mon, 23 Nov 2026 11:01:53 GMT",
+    "checked_at": "2026-11-23T11:02:12.046801+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -55,40 +55,18 @@
     "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 05:21:10 GMT",
-    "checked_at": "2026-11-23T05:21:11.970044+00:00"
+    "last_modified": "Mon, 23 Nov 2026 11:01:53 GMT",
+    "checked_at": "2026-11-23T11:02:12.216569+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Center Circle": [
-        "Onyeka Okongwu"
-      ],
-      "First Bucket": [
-        "Klay Thompson"
-      ],
-      "Framing Crew": [
-        "Bobby Portis Jr."
-      ],
-      "Win the Tip": [
-        "Josh Green"
-      ],
-      "Opening Tip": [
-        "Charles Bassey"
-      ]
-    },
-    "abets": [
-      "downtown|over 1.5 threes|Bobby Portis Jr.",
-      "|first basket|Charles Bassey",
-      "|first basket|Josh Green",
-      "|first basket|Klay Thompson",
-      "|first basket|Onyeka Okongwu"
-    ],
-    "slate": "2026-11-22",
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 05:21:11 GMT",
-    "checked_at": "2026-11-23T05:21:12.525744+00:00"
+    "last_modified": "Mon, 23 Nov 2026 11:01:53 GMT",
+    "checked_at": "2026-11-23T11:02:12.482646+00:00"
   }
 }
