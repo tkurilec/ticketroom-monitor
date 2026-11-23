@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 21:50:01 GMT",
-    "checked_at": "2026-11-23T21:54:13.635440+00:00"
+    "last_modified": "Mon, 23 Nov 2026 23:40:28 GMT",
+    "checked_at": "2026-11-23T23:41:12.954339+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "0ead9448f187bf46c03b8e4835f8820f0cf9271d3b2c2f2e363dd73465a9e7ce",
@@ -46,8 +46,8 @@
       "t:Levante v Elche: Elche under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 21:50:01 GMT",
-    "checked_at": "2026-11-23T21:54:14.257338+00:00"
+    "last_modified": "Mon, 23 Nov 2026 23:40:28 GMT",
+    "checked_at": "2026-11-23T23:41:13.302321+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -57,18 +57,59 @@
     "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 21:50:01 GMT",
-    "checked_at": "2026-11-23T21:54:14.579026+00:00"
+    "last_modified": "Mon, 23 Nov 2026 23:40:28 GMT",
+    "checked_at": "2026-11-23T23:41:13.483841+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "d4446b82924f6a8c23fba3b29b2bd7eced55ef0ef072b0cc75e3a8f0db9b3bdd",
+    "confirmed": [
+      {
+        "name": "Back Iron",
+        "legs": [
+          "LeBron James"
+        ],
+        "rr": false,
+        "market": "under 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "LeBron James": "76ers vs Trail Blazers \u00b7 Mon Nov 23 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "LeBron James": -158
+        }
+      },
+      {
+        "name": "Keystone",
+        "legs": [
+          "Sidy Cissoko"
+        ],
+        "rr": false,
+        "market": "over 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Sidy Cissoko": "Trail Blazers vs 76ers \u00b7 Mon Nov 23 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "Sidy Cissoko": 196
+        }
+      }
+    ],
+    "announced": {
+      "Back Iron": [
+        "LeBron James"
+      ],
+      "Keystone": [
+        "Sidy Cissoko"
+      ]
+    },
+    "abets": [
+      "downtown|over 1.5 threes|Sidy Cissoko",
+      "downtown|under 1.5 threes|LeBron James"
+    ],
     "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 21:50:01 GMT",
-    "checked_at": "2026-11-23T21:54:14.902932+00:00"
+    "last_modified": "Mon, 23 Nov 2026 23:40:28 GMT",
+    "checked_at": "2026-11-23T23:41:15.061156+00:00"
   }
 }
