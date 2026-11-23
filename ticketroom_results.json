@@ -1077,6 +1077,20 @@
           "bkey": "|anytime goalscorer|Robert Lewandowski",
           "result": null,
           "pl": null
+        },
+        "Danger Man": {
+          "legs": [
+            "Brian White"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 2,
+          "odds": {
+            "Brian White": -106
+          },
+          "bkey": "|anytime goalscorer|Brian White",
+          "result": null,
+          "pl": null
         }
       }
     },

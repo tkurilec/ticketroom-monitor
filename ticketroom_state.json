@@ -7,11 +7,11 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 00:30:50 GMT",
-    "checked_at": "2026-11-23T00:31:12.544037+00:00"
+    "last_modified": "Mon, 23 Nov 2026 00:40:07 GMT",
+    "checked_at": "2026-11-23T00:40:16.442946+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "dea3ba87230f15f73b8a29eaf8ffc43d009f832a01476b046d1b77cd9ffacecc",
+    "hash": "e25a04be1c4d79761bd959695bf6bad93011f96f0425e5bddf941997edbc5c1c",
     "confirmed": [
       {
         "name": "Back Post",
@@ -53,6 +53,20 @@
         }
       },
       {
+        "name": "Danger Man",
+        "legs": [
+          "Brian White"
+        ],
+        "rr": false,
+        "info": {
+          "Brian White": "Vancouver Whitecaps vs Real Salt Lake \u00b7 Sun Nov 22 \u00b7 8:30 PM ET"
+        },
+        "odds": {
+          "Brian White": -106
+        },
+        "units": 2
+      },
+      {
         "name": "Far Post",
         "legs": [
           "Orri Oskarsson"
@@ -89,6 +103,19 @@
         },
         "odds": {
           "Alexander Isak": -100
+        }
+      },
+      {
+        "name": "Near Post",
+        "legs": [
+          "Brian White"
+        ],
+        "rr": false,
+        "info": {
+          "Brian White": "Vancouver Whitecaps vs Real Salt Lake \u00b7 Sun Nov 22 \u00b7 8:30 PM ET"
+        },
+        "odds": {
+          "Brian White": -106
         }
       },
       {
@@ -236,6 +263,12 @@
       ],
       "Back Post": [
         "Robert Lewandowski"
+      ],
+      "Danger Man": [
+        "Brian White"
+      ],
+      "Near Post": [
+        "Brian White"
       ]
     },
     "abets": [
@@ -243,6 +276,7 @@
       "|anytime goalscorer|Alexander Isak",
       "|anytime goalscorer|Amine Gouiri",
       "|anytime goalscorer|Ante Budimir",
+      "|anytime goalscorer|Brian White",
       "|anytime goalscorer|Goncalo Ramos",
       "|anytime goalscorer|Hany Mukhtar",
       "|anytime goalscorer|Lamine Yamal Nasraqui Ebana",
@@ -264,8 +298,8 @@
       "t:Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 00:30:50 GMT",
-    "checked_at": "2026-11-23T00:31:14.329096+00:00"
+    "last_modified": "Mon, 23 Nov 2026 00:40:07 GMT",
+    "checked_at": "2026-11-23T00:40:20.127500+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "34fe5830f3f2e1434c45c28973cdddaae67d84bf98c96fb14e237d19bf3b001e",
@@ -541,8 +575,8 @@
       "a:Xavier Worthy"
     ],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 00:30:50 GMT",
-    "checked_at": "2026-11-23T00:31:15.333372+00:00"
+    "last_modified": "Mon, 23 Nov 2026 00:40:07 GMT",
+    "checked_at": "2026-11-23T00:40:21.693052+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "054965c022fc75fcb69a9833403b4a80eb8aa3220c7747f9428a93fb938956e6",
@@ -631,7 +665,7 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 00:30:50 GMT",
-    "checked_at": "2026-11-23T00:31:15.977230+00:00"
+    "last_modified": "Mon, 23 Nov 2026 00:40:07 GMT",
+    "checked_at": "2026-11-23T00:40:23.105118+00:00"
   }
 }
