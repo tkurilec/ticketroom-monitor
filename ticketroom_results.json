@@ -2469,8 +2469,9 @@
             "Travis Hunter": 650
           },
           "bkey": "|anytime touchdown|Travis Hunter",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Bell Cow": {
           "legs": [
@@ -2483,8 +2484,9 @@
             "D'Andre Swift": -150
           },
           "bkey": "|anytime touchdown|D'Andre Swift",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.6666666666666665,
+          "legs_hit": 1
         },
         "First Read": {
           "legs": [
@@ -2497,8 +2499,9 @@
             "Sam LaPorta": 225
           },
           "bkey": "|anytime touchdown|Sam LaPorta",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Goal Line Back": {
           "legs": [
@@ -2511,8 +2514,9 @@
             "Bhayshul Tuten": -111
           },
           "bkey": "|anytime touchdown|Bhayshul Tuten",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Hard Count": {
           "legs": [
@@ -2525,8 +2529,9 @@
             "Greg Dortch": 1500
           },
           "bkey": "|anytime touchdown|Greg Dortch",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Hurry Up": {
           "legs": [
@@ -2539,8 +2544,9 @@
             "Isaac TeSlaa": 475
           },
           "bkey": "|anytime touchdown|Isaac TeSlaa",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Inside the Ten": {
           "legs": [
@@ -2553,8 +2559,9 @@
             "Kenny Gainwell": 375
           },
           "bkey": "|anytime touchdown|Kenny Gainwell",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Move the Chains": {
           "legs": [
@@ -2567,8 +2574,9 @@
             "Xavier Worthy": 360
           },
           "bkey": "|anytime touchdown|Xavier Worthy",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 3.5999999999999996,
+          "legs_hit": 1
         },
         "Short Yardage": {
           "legs": [
@@ -2581,8 +2589,9 @@
             "Chris Rodriguez Jr.": 250
           },
           "bkey": "|anytime touchdown|Chris Rodriguez Jr.",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Strike First": {
           "legs": [
@@ -2595,8 +2604,9 @@
             "Jahmyr Gibbs": 270
           },
           "bkey": "ftd|first touchdown scorer|Jahmyr Gibbs",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "The Checkdown": {
           "legs": [
@@ -2609,8 +2619,9 @@
             "Jameson Williams": 228
           },
           "bkey": "|anytime touchdown|Jameson Williams",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 2.28,
+          "legs_hit": 1
         },
         "The Workhorse": {
           "legs": [
@@ -2623,8 +2634,9 @@
             "James Cook": -186
           },
           "bkey": "|anytime touchdown|James Cook",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.5376344086021505,
+          "legs_hit": 1
         },
         "Two Minute Drill": {
           "legs": [
@@ -2637,8 +2649,9 @@
             "Brian Thomas Jr.": 575
           },
           "bkey": "|anytime touchdown|Brian Thomas Jr.",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 5.75,
+          "legs_hit": 1
         },
         "Red Zone Target": {
           "legs": [
@@ -2651,8 +2664,9 @@
             "J.K. Dobbins": 250
           },
           "bkey": "|anytime touchdown|J.K. Dobbins",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "The Sneak": {
           "legs": [
@@ -2665,10 +2679,12 @@
             "Deebo Samuel Sr.": 350
           },
           "bkey": "|anytime touchdown|Deebo Samuel Sr.",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         }
-      }
+      },
+      "2026-11-23": {}
     },
     "NBA Board": {
       "2026-11-09": {

@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 05:00:25 GMT",
-    "checked_at": "2026-11-23T05:00:27.432702+00:00"
+    "last_modified": "Mon, 23 Nov 2026 05:20:51 GMT",
+    "checked_at": "2026-11-23T05:21:11.315869+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "0ead9448f187bf46c03b8e4835f8820f0cf9271d3b2c2f2e363dd73465a9e7ce",
@@ -44,87 +44,19 @@
     "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 05:00:25 GMT",
-    "checked_at": "2026-11-23T05:00:27.923141+00:00"
+    "last_modified": "Mon, 23 Nov 2026 05:21:10 GMT",
+    "checked_at": "2026-11-23T05:21:11.814936+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Audible": [
-        "Travis Hunter"
-      ],
-      "Bell Cow": [
-        "D'Andre Swift"
-      ],
-      "First Read": [
-        "Sam LaPorta"
-      ],
-      "Goal Line Back": [
-        "Bhayshul Tuten"
-      ],
-      "Hard Count": [
-        "Greg Dortch"
-      ],
-      "Hurry Up": [
-        "Isaac TeSlaa"
-      ],
-      "Inside the Ten": [
-        "Kenny Gainwell"
-      ],
-      "Move the Chains": [
-        "Xavier Worthy"
-      ],
-      "Short Yardage": [
-        "Chris Rodriguez Jr."
-      ],
-      "Strike First": [
-        "Jahmyr Gibbs"
-      ],
-      "The Checkdown": [
-        "Jameson Williams"
-      ],
-      "The Workhorse": [
-        "James Cook"
-      ],
-      "Two Minute Drill": [
-        "Brian Thomas Jr."
-      ],
-      "Red Zone Target": [
-        "J.K. Dobbins"
-      ],
-      "The Sneak": [
-        "Deebo Samuel Sr."
-      ]
-    },
-    "abets": [
-      "ftd|first touchdown scorer|Jahmyr Gibbs",
-      "|anytime touchdown|Bhayshul Tuten",
-      "|anytime touchdown|Brian Thomas Jr.",
-      "|anytime touchdown|Chris Rodriguez Jr.",
-      "|anytime touchdown|D'Andre Swift",
-      "|anytime touchdown|Deebo Samuel Sr.",
-      "|anytime touchdown|Greg Dortch",
-      "|anytime touchdown|Isaac TeSlaa",
-      "|anytime touchdown|J.K. Dobbins",
-      "|anytime touchdown|James Cook",
-      "|anytime touchdown|Jameson Williams",
-      "|anytime touchdown|Kenny Gainwell",
-      "|anytime touchdown|Sam LaPorta",
-      "|anytime touchdown|Travis Hunter",
-      "|anytime touchdown|Xavier Worthy"
-    ],
-    "slate": "2026-11-22",
-    "hits": [
-      "a:Brian Thomas Jr.",
-      "a:D'Andre Swift",
-      "a:James Cook",
-      "a:Jameson Williams",
-      "a:Xavier Worthy"
-    ],
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-23",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 05:00:25 GMT",
-    "checked_at": "2026-11-23T05:00:28.104964+00:00"
+    "last_modified": "Mon, 23 Nov 2026 05:21:10 GMT",
+    "checked_at": "2026-11-23T05:21:11.970044+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -156,7 +88,7 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 05:00:25 GMT",
-    "checked_at": "2026-11-23T05:00:29.237183+00:00"
+    "last_modified": "Mon, 23 Nov 2026 05:21:11 GMT",
+    "checked_at": "2026-11-23T05:21:12.525744+00:00"
   }
 }
