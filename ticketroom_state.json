@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 23:39:46 GMT",
-    "checked_at": "2026-11-22T23:40:17.168581+00:00"
+    "last_modified": "Mon, 23 Nov 2026 00:04:43 GMT",
+    "checked_at": "2026-11-23T00:05:14.426914+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "dea3ba87230f15f73b8a29eaf8ffc43d009f832a01476b046d1b77cd9ffacecc",
@@ -264,11 +264,11 @@
       "t:Nashville SC v FC Cincinnati: FC Cincinnati under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 23:39:46 GMT",
-    "checked_at": "2026-11-22T23:40:20.295760+00:00"
+    "last_modified": "Mon, 23 Nov 2026 00:04:43 GMT",
+    "checked_at": "2026-11-23T00:05:17.609936+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "919046561b9ff42d638716c5c617b540fd316f0f1981af2d000612b8b61a6851",
+    "hash": "34fe5830f3f2e1434c45c28973cdddaae67d84bf98c96fb14e237d19bf3b001e",
     "confirmed": [
       {
         "name": "Audible",
@@ -429,6 +429,19 @@
         }
       },
       {
+        "name": "The Sneak",
+        "legs": [
+          "Deebo Samuel Sr."
+        ],
+        "rr": false,
+        "info": {
+          "Deebo Samuel Sr.": "49ers vs Vikings \u00b7 Sun Nov 22 \u00b7 8:20 PM ET"
+        },
+        "odds": {
+          "Deebo Samuel Sr.": 350
+        }
+      },
+      {
         "name": "The Workhorse",
         "legs": [
           "James Cook"
@@ -497,6 +510,9 @@
       ],
       "Red Zone Target": [
         "J.K. Dobbins"
+      ],
+      "The Sneak": [
+        "Deebo Samuel Sr."
       ]
     },
     "abets": [
@@ -505,6 +521,7 @@
       "|anytime touchdown|Brian Thomas Jr.",
       "|anytime touchdown|Chris Rodriguez Jr.",
       "|anytime touchdown|D'Andre Swift",
+      "|anytime touchdown|Deebo Samuel Sr.",
       "|anytime touchdown|Greg Dortch",
       "|anytime touchdown|Isaac TeSlaa",
       "|anytime touchdown|J.K. Dobbins",
@@ -523,8 +540,8 @@
       "a:Xavier Worthy"
     ],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 23:39:46 GMT",
-    "checked_at": "2026-11-22T23:40:22.036652+00:00"
+    "last_modified": "Mon, 23 Nov 2026 00:04:43 GMT",
+    "checked_at": "2026-11-23T00:05:20.475694+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "054965c022fc75fcb69a9833403b4a80eb8aa3220c7747f9428a93fb938956e6",
@@ -613,7 +630,7 @@
     "slate": "2026-11-22",
     "hits": [],
     "ltd": null,
-    "last_modified": "Sun, 22 Nov 2026 23:39:46 GMT",
-    "checked_at": "2026-11-22T23:40:24.269938+00:00"
+    "last_modified": "Mon, 23 Nov 2026 00:04:43 GMT",
+    "checked_at": "2026-11-23T00:05:21.401498+00:00"
   }
 }

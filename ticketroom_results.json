@@ -2639,6 +2639,20 @@
           "bkey": "|anytime touchdown|J.K. Dobbins",
           "result": null,
           "pl": null
+        },
+        "The Sneak": {
+          "legs": [
+            "Deebo Samuel Sr."
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Deebo Samuel Sr.": 350
+          },
+          "bkey": "|anytime touchdown|Deebo Samuel Sr.",
+          "result": null,
+          "pl": null
         }
       }
     },
