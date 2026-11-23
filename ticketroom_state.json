@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 11:01:53 GMT",
-    "checked_at": "2026-11-23T11:02:11.507567+00:00"
+    "last_modified": "Mon, 23 Nov 2026 21:50:01 GMT",
+    "checked_at": "2026-11-23T21:54:13.635440+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "0ead9448f187bf46c03b8e4835f8820f0cf9271d3b2c2f2e363dd73465a9e7ce",
@@ -42,10 +42,12 @@
       "totals||Levante v Elche: Elche under 1.5 goals,Monza v Fiorentina: Monza under 1.5 goals"
     ],
     "slate": "2026-11-23",
-    "hits": [],
+    "hits": [
+      "t:Levante v Elche: Elche under 1.5 goals"
+    ],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 11:01:53 GMT",
-    "checked_at": "2026-11-23T11:02:12.046801+00:00"
+    "last_modified": "Mon, 23 Nov 2026 21:50:01 GMT",
+    "checked_at": "2026-11-23T21:54:14.257338+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -55,8 +57,8 @@
     "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 11:01:53 GMT",
-    "checked_at": "2026-11-23T11:02:12.216569+00:00"
+    "last_modified": "Mon, 23 Nov 2026 21:50:01 GMT",
+    "checked_at": "2026-11-23T21:54:14.579026+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -66,7 +68,7 @@
     "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 11:01:53 GMT",
-    "checked_at": "2026-11-23T11:02:12.482646+00:00"
+    "last_modified": "Mon, 23 Nov 2026 21:50:01 GMT",
+    "checked_at": "2026-11-23T21:54:14.902932+00:00"
   }
 }
