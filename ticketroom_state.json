@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 21:15:51 GMT",
-    "checked_at": "2026-11-24T21:16:14.235626+00:00"
+    "last_modified": "Tue, 24 Nov 2026 23:36:05 GMT",
+    "checked_at": "2026-11-24T23:40:16.763852+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "ec5e9a0c54f44afc6cc74f6e1b7f8e1d0383f89c964e97c207e648b9a62c3fe4",
@@ -81,8 +81,8 @@
       "t:RB Leipzig v Lens: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 21:15:51 GMT",
-    "checked_at": "2026-11-24T21:16:14.871517+00:00"
+    "last_modified": "Tue, 24 Nov 2026 23:36:05 GMT",
+    "checked_at": "2026-11-24T23:40:17.190208+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -92,18 +92,40 @@
     "slate": "2026-11-25",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 21:15:51 GMT",
-    "checked_at": "2026-11-24T21:16:15.189302+00:00"
+    "last_modified": "Tue, 24 Nov 2026 23:36:05 GMT",
+    "checked_at": "2026-11-24T23:40:17.600607+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "064a82b6e965c79a9d54e6e6935196bdf512db297674bd8ebe375c2614f1bdab",
+    "confirmed": [
+      {
+        "name": "Win the Tip",
+        "legs": [
+          "John Collins"
+        ],
+        "rr": false,
+        "info": {
+          "John Collins": "Pistons vs Magic \u00b7 Tue Nov 24 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "John Collins": 850
+        },
+        "units": 0.6,
+        "group": "1"
+      }
+    ],
+    "announced": {
+      "Win the Tip": [
+        "John Collins"
+      ]
+    },
+    "abets": [
+      "|first basket|John Collins"
+    ],
     "slate": "2026-11-24",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 21:15:51 GMT",
-    "checked_at": "2026-11-24T21:16:15.473634+00:00"
+    "last_modified": "Tue, 24 Nov 2026 23:36:05 GMT",
+    "checked_at": "2026-11-24T23:40:19.089230+00:00"
   }
 }

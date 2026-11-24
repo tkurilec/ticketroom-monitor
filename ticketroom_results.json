@@ -4662,7 +4662,22 @@
           "legs_hit": 0
         }
       },
-      "2026-11-24": {}
+      "2026-11-24": {
+        "Win the Tip": {
+          "legs": [
+            "John Collins"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "John Collins": 850
+          },
+          "bkey": "|first basket|John Collins",
+          "result": null,
+          "pl": null
+        }
+      }
     }
   },
   "recap_sent": "2026-11-24",
