@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 23:59:35 GMT",
-    "checked_at": "2026-11-24T00:00:24.820713+00:00"
+    "last_modified": "Tue, 24 Nov 2026 00:05:41 GMT",
+    "checked_at": "2026-11-24T00:06:12.115498+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "0ead9448f187bf46c03b8e4835f8820f0cf9271d3b2c2f2e363dd73465a9e7ce",
@@ -46,8 +46,8 @@
       "t:Levante v Elche: Elche under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 23:59:35 GMT",
-    "checked_at": "2026-11-24T00:00:25.581976+00:00"
+    "last_modified": "Tue, 24 Nov 2026 00:05:41 GMT",
+    "checked_at": "2026-11-24T00:06:12.837454+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "4e82019e7ba40ffbbd9b2432cc682fae92f91082753d2bc3ebc6143b3f7e36f6",
@@ -130,11 +130,11 @@
     "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 23:59:35 GMT",
-    "checked_at": "2026-11-24T00:00:27.314820+00:00"
+    "last_modified": "Tue, 24 Nov 2026 00:05:41 GMT",
+    "checked_at": "2026-11-24T00:06:13.191888+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "d4446b82924f6a8c23fba3b29b2bd7eced55ef0ef072b0cc75e3a8f0db9b3bdd",
+    "hash": "c9b4bb6d7d2a05ed84f9b4096d63e6a9d7752248330bf637ada7c8b8f5962eed",
     "confirmed": [
       {
         "name": "Back Iron",
@@ -152,6 +152,21 @@
         }
       },
       {
+        "name": "Groundbreaking",
+        "legs": [
+          "Mikel Brown Jr."
+        ],
+        "rr": false,
+        "market": "over 2.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Mikel Brown Jr.": "Nets vs Timberwolves \u00b7 Mon Nov 23 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Mikel Brown Jr.": 162
+        }
+      },
+      {
         "name": "Keystone",
         "legs": [
           "Sidy Cissoko"
@@ -165,6 +180,21 @@
         "odds": {
           "Sidy Cissoko": 196
         }
+      },
+      {
+        "name": "The Opener",
+        "legs": [
+          "Day'Ron Sharpe"
+        ],
+        "rr": false,
+        "info": {
+          "Day'Ron Sharpe": "Nets vs Timberwolves \u00b7 Mon Nov 23 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Day'Ron Sharpe": 1200
+        },
+        "units": 0.6,
+        "group": "5"
       }
     ],
     "announced": {
@@ -173,16 +203,24 @@
       ],
       "Keystone": [
         "Sidy Cissoko"
+      ],
+      "Groundbreaking": [
+        "Mikel Brown Jr."
+      ],
+      "The Opener": [
+        "Day'Ron Sharpe"
       ]
     },
     "abets": [
       "downtown|over 1.5 threes|Sidy Cissoko",
-      "downtown|under 1.5 threes|LeBron James"
+      "downtown|over 2.5 threes|Mikel Brown Jr.",
+      "downtown|under 1.5 threes|LeBron James",
+      "|first basket|Day'Ron Sharpe"
     ],
     "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 23:59:35 GMT",
-    "checked_at": "2026-11-24T00:00:27.823164+00:00"
+    "last_modified": "Tue, 24 Nov 2026 00:05:41 GMT",
+    "checked_at": "2026-11-24T00:06:15.040313+00:00"
   }
 }
