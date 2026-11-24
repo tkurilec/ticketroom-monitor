@@ -2726,6 +2726,20 @@
           "bkey": "|anytime touchdown|Chase Brown",
           "result": null,
           "pl": null
+        },
+        "Goal Line Back": {
+          "legs": [
+            "Van Jefferson"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Van Jefferson": 900
+          },
+          "bkey": "|anytime touchdown|Van Jefferson",
+          "result": null,
+          "pl": null
         }
       }
     },

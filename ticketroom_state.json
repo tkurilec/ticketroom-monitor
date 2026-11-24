@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 23:55:20 GMT",
-    "checked_at": "2026-11-23T23:56:13.571027+00:00"
+    "last_modified": "Mon, 23 Nov 2026 23:59:35 GMT",
+    "checked_at": "2026-11-24T00:00:24.820713+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "0ead9448f187bf46c03b8e4835f8820f0cf9271d3b2c2f2e363dd73465a9e7ce",
@@ -46,11 +46,11 @@
       "t:Levante v Elche: Elche under 1.5 goals"
     ],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 23:55:20 GMT",
-    "checked_at": "2026-11-23T23:56:14.509362+00:00"
+    "last_modified": "Mon, 23 Nov 2026 23:59:35 GMT",
+    "checked_at": "2026-11-24T00:00:25.581976+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "04bd1ec7d64f63ef1ae3a962e3a270b7cab488cf9f96abc3b3a7701e94cb3d82",
+    "hash": "4e82019e7ba40ffbbd9b2432cc682fae92f91082753d2bc3ebc6143b3f7e36f6",
     "confirmed": [
       {
         "name": "Bell Cow",
@@ -63,6 +63,19 @@
         },
         "odds": {
           "Mitchell Tinsley": 1400
+        }
+      },
+      {
+        "name": "Goal Line Back",
+        "legs": [
+          "Van Jefferson"
+        ],
+        "rr": false,
+        "info": {
+          "Van Jefferson": "Commanders vs Bengals \u00b7 Mon Nov 23 \u00b7 8:15 PM ET"
+        },
+        "odds": {
+          "Van Jefferson": 900
         }
       },
       {
@@ -103,18 +116,22 @@
       ],
       "The Workhorse": [
         "Chase Brown"
+      ],
+      "Goal Line Back": [
+        "Van Jefferson"
       ]
     },
     "abets": [
       "ftd|first touchdown scorer|Chase Brown",
       "|anytime touchdown|Chase Brown",
-      "|anytime touchdown|Mitchell Tinsley"
+      "|anytime touchdown|Mitchell Tinsley",
+      "|anytime touchdown|Van Jefferson"
     ],
     "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 23:55:20 GMT",
-    "checked_at": "2026-11-23T23:56:16.248942+00:00"
+    "last_modified": "Mon, 23 Nov 2026 23:59:35 GMT",
+    "checked_at": "2026-11-24T00:00:27.314820+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "d4446b82924f6a8c23fba3b29b2bd7eced55ef0ef072b0cc75e3a8f0db9b3bdd",
@@ -165,7 +182,7 @@
     "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
-    "last_modified": "Mon, 23 Nov 2026 23:55:20 GMT",
-    "checked_at": "2026-11-23T23:56:16.778960+00:00"
+    "last_modified": "Mon, 23 Nov 2026 23:59:35 GMT",
+    "checked_at": "2026-11-24T00:00:27.823164+00:00"
   }
 }
