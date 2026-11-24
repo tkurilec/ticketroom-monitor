@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 07:07:04 GMT",
-    "checked_at": "2026-11-24T07:07:12.391535+00:00"
+    "last_modified": "Tue, 24 Nov 2026 11:03:08 GMT",
+    "checked_at": "2026-11-24T11:03:13.101804+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "13df6fda6f7d40c5204f97779bc8c6806ed390de1127f0012bd888211914d6cd",
@@ -44,8 +44,8 @@
     "slate": "2026-11-24",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 07:07:04 GMT",
-    "checked_at": "2026-11-24T07:07:12.992638+00:00"
+    "last_modified": "Tue, 24 Nov 2026 11:03:08 GMT",
+    "checked_at": "2026-11-24T11:03:13.496630+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -55,88 +55,18 @@
     "slate": "2026-11-25",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 07:07:04 GMT",
-    "checked_at": "2026-11-24T07:07:14.106888+00:00"
+    "last_modified": "Tue, 24 Nov 2026 11:03:08 GMT",
+    "checked_at": "2026-11-24T11:03:13.652164+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Back Iron": [
-        "LeBron James"
-      ],
-      "Keystone": [
-        "Sidy Cissoko"
-      ],
-      "Groundbreaking": [
-        "Mikel Brown Jr."
-      ],
-      "The Opener": [
-        "Day'Ron Sharpe"
-      ],
-      "Bucket One": [
-        "Ivica Zubac"
-      ],
-      "First Bucket": [
-        "Jakob Poeltl"
-      ],
-      "Opening Tip": [
-        "Kyle Kuzma"
-      ],
-      "Win the Tip": [
-        "Myles Turner"
-      ],
-      "Floor Plan": [
-        "Jaylon Tyson"
-      ],
-      "First Points": [
-        "Oso Ighodaro"
-      ],
-      "Tip Drill": [
-        "Jeremiah Fears"
-      ],
-      "Brick and Mortar": [
-        "Keaton Wagler"
-      ],
-      "Break the Seal": [
-        "Brook Lopez"
-      ],
-      "Open Floor": [
-        "Ace Bailey"
-      ],
-      "Tip-Off Call": [
-        "Mo Bamba"
-      ],
-      "Final Inspection": [
-        "Keyonte George"
-      ]
-    },
-    "abets": [
-      "downtown|over 1.5 threes|Jaylon Tyson",
-      "downtown|over 1.5 threes|Keaton Wagler",
-      "downtown|over 1.5 threes|Sidy Cissoko",
-      "downtown|over 2.5 threes|Keyonte George",
-      "downtown|over 2.5 threes|Mikel Brown Jr.",
-      "downtown|under 1.5 threes|LeBron James",
-      "|first basket|Ace Bailey",
-      "|first basket|Brook Lopez",
-      "|first basket|Day'Ron Sharpe",
-      "|first basket|Ivica Zubac",
-      "|first basket|Jakob Poeltl",
-      "|first basket|Jeremiah Fears",
-      "|first basket|Kelly Oubre Jr.",
-      "|first basket|Kyle Kuzma",
-      "|first basket|Mo Bamba",
-      "|first basket|Myles Turner",
-      "|first basket|Oso Ighodaro"
-    ],
-    "slate": "2026-11-23",
-    "hits": [
-      "a:Jakob Poeltl",
-      "dt:Mikel Brown Jr."
-    ],
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-24",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 07:07:04 GMT",
-    "checked_at": "2026-11-24T07:07:15.359826+00:00"
+    "last_modified": "Tue, 24 Nov 2026 11:03:08 GMT",
+    "checked_at": "2026-11-24T11:03:13.817328+00:00"
   }
 }

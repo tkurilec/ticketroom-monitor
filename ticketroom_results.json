@@ -2734,93 +2734,6 @@
       "2026-11-25": {}
     },
     "NBA Board": {
-      "2026-11-10": {
-        "First Basket: MIL@NYK": {
-          "legs": [
-            "Jalen Brunson",
-            "Karl-Anthony Towns"
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "Jalen Brunson": 390,
-            "Karl-Anthony Towns": 500
-          },
-          "bkey": "fb2|first basket|Jalen Brunson,Karl-Anthony Towns",
-          "result": "lost",
-          "pl": -1,
-          "legs_hit": 0
-        },
-        "First Basket: BOS@PHI": {
-          "legs": [
-            "Jaylen Brown",
-            "Joel Embiid"
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "Joel Embiid": 550,
-            "Jaylen Brown": 500
-          },
-          "bkey": "fb2|first basket|Jaylen Brown,Joel Embiid",
-          "result": "lost",
-          "pl": -1,
-          "legs_hit": 0
-        },
-        "First Basket: MIA@UTA": {
-          "legs": [
-            "Bam Adebayo",
-            "Giannis Antetokounmpo"
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "Bam Adebayo": 500,
-            "Giannis Antetokounmpo": 340
-          },
-          "bkey": "fb2|first basket|Bam Adebayo,Giannis Antetokounmpo",
-          "result": "lost",
-          "pl": -1,
-          "legs_hit": 0
-        },
-        "First Basket: ORL@SAC": {
-          "legs": [
-            "Franz Wagner",
-            "Wendell Carter Jr."
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "Franz Wagner": 460,
-            "Wendell Carter Jr.": 650
-          },
-          "bkey": "fb2|first basket|Franz Wagner,Wendell Carter Jr.",
-          "result": "lost",
-          "pl": -1,
-          "legs_hit": 0
-        },
-        "First Basket: OKC@POR": {
-          "legs": [
-            "Damian Lillard",
-            "Donovan Clingan"
-          ],
-          "kind": "fb2",
-          "rr": false,
-          "units": 1,
-          "odds": {
-            "Damian Lillard": 600,
-            "Donovan Clingan": 950
-          },
-          "bkey": "fb2|first basket|Damian Lillard,Donovan Clingan",
-          "result": "won",
-          "pl": 2.5,
-          "legs_hit": 1
-        }
-      },
       "2026-11-11": {
         "First Basket: CLE@NYK": {
           "legs": [
@@ -4505,8 +4418,9 @@
             "LeBron James": -158
           },
           "bkey": "downtown|under 1.5 threes|LeBron James",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Keystone": {
           "legs": [
@@ -4519,8 +4433,9 @@
             "Sidy Cissoko": 196
           },
           "bkey": "downtown|over 1.5 threes|Sidy Cissoko",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Groundbreaking": {
           "legs": [
@@ -4533,8 +4448,9 @@
             "Mikel Brown Jr.": 162
           },
           "bkey": "downtown|over 2.5 threes|Mikel Brown Jr.",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.62,
+          "legs_hit": 1
         },
         "The Opener": {
           "legs": [
@@ -4547,8 +4463,9 @@
             "Day'Ron Sharpe": 1200
           },
           "bkey": "|first basket|Day'Ron Sharpe",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Bucket One": {
           "legs": [
@@ -4561,8 +4478,9 @@
             "Kelly Oubre Jr.": 1000
           },
           "bkey": "|first basket|Kelly Oubre Jr.",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "First Bucket": {
           "legs": [
@@ -4575,8 +4493,9 @@
             "Jakob Poeltl": 700
           },
           "bkey": "|first basket|Jakob Poeltl",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 2.8000000000000003,
+          "legs_hit": 1
         },
         "Opening Tip": {
           "legs": [
@@ -4589,8 +4508,9 @@
             "Ivica Zubac": 700
           },
           "bkey": "|first basket|Ivica Zubac",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "Win the Tip": {
           "legs": [
@@ -4603,8 +4523,9 @@
             "Myles Turner": 1200
           },
           "bkey": "|first basket|Myles Turner",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.2,
+          "legs_hit": 0
         },
         "Floor Plan": {
           "legs": [
@@ -4617,8 +4538,9 @@
             "Jaylon Tyson": -115
           },
           "bkey": "downtown|over 1.5 threes|Jaylon Tyson",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "First Points": {
           "legs": [
@@ -4631,8 +4553,9 @@
             "Oso Ighodaro": 1300
           },
           "bkey": "|first basket|Oso Ighodaro",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "Tip Drill": {
           "legs": [
@@ -4645,8 +4568,9 @@
             "Jeremiah Fears": 950
           },
           "bkey": "|first basket|Jeremiah Fears",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "Brick and Mortar": {
           "legs": [
@@ -4659,8 +4583,9 @@
             "Keaton Wagler": 200
           },
           "bkey": "downtown|over 1.5 threes|Keaton Wagler",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Break the Seal": {
           "legs": [
@@ -4673,8 +4598,9 @@
             "Brook Lopez": 850
           },
           "bkey": "|first basket|Brook Lopez",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         },
         "Open Floor": {
           "legs": [
@@ -4687,8 +4613,9 @@
             "Mo Bamba": 1200
           },
           "bkey": "|first basket|Mo Bamba",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "Tip-Off Call": {
           "legs": [
@@ -4701,8 +4628,9 @@
             "Ace Bailey": 950
           },
           "bkey": "|first basket|Ace Bailey",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "Final Inspection": {
           "legs": [
@@ -4715,10 +4643,12 @@
             "Keyonte George": 172
           },
           "bkey": "downtown|over 2.5 threes|Keyonte George",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         }
-      }
+      },
+      "2026-11-24": {}
     }
   },
   "recap_sent": "2026-11-23",
