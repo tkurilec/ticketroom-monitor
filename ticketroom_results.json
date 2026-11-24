@@ -4642,6 +4642,20 @@
           "bkey": "|first basket|Jeremiah Fears",
           "result": null,
           "pl": null
+        },
+        "Brick and Mortar": {
+          "legs": [
+            "Keaton Wagler"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Keaton Wagler": 200
+          },
+          "bkey": "downtown|over 1.5 threes|Keaton Wagler",
+          "result": null,
+          "pl": null
         }
       }
     }
