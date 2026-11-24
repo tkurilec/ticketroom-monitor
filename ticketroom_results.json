@@ -4698,6 +4698,20 @@
           "bkey": "|first basket|Ace Bailey",
           "result": null,
           "pl": null
+        },
+        "Final Inspection": {
+          "legs": [
+            "Keyonte George"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Keyonte George": 172
+          },
+          "bkey": "downtown|over 2.5 threes|Keyonte George",
+          "result": null,
+          "pl": null
         }
       }
     }
