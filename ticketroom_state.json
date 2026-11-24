@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 02:41:10 GMT",
-    "checked_at": "2026-11-24T02:41:21.465909+00:00"
+    "last_modified": "Tue, 24 Nov 2026 02:50:45 GMT",
+    "checked_at": "2026-11-24T02:51:11.836133+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "13df6fda6f7d40c5204f97779bc8c6806ed390de1127f0012bd888211914d6cd",
@@ -44,8 +44,8 @@
     "slate": "2026-11-24",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 02:41:10 GMT",
-    "checked_at": "2026-11-24T02:41:22.327902+00:00"
+    "last_modified": "Tue, 24 Nov 2026 02:50:45 GMT",
+    "checked_at": "2026-11-24T02:51:12.263713+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "4e82019e7ba40ffbbd9b2432cc682fae92f91082753d2bc3ebc6143b3f7e36f6",
@@ -128,11 +128,11 @@
     "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 02:41:10 GMT",
-    "checked_at": "2026-11-24T02:41:22.593911+00:00"
+    "last_modified": "Tue, 24 Nov 2026 02:50:45 GMT",
+    "checked_at": "2026-11-24T02:51:12.460407+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "9e32df78755ba7b1fc8c48fb24b9a515cf3ad155733f713dbdda7acc4fe41a3a",
+    "hash": "54807e3e4afd536843f1766c20f28a87a6e692ce609a37fd671d6171570c617f",
     "confirmed": [
       {
         "name": "Back Iron",
@@ -345,6 +345,21 @@
         "group": "6"
       },
       {
+        "name": "Tip-Off Call",
+        "legs": [
+          "Mo Bamba"
+        ],
+        "rr": false,
+        "info": {
+          "Mo Bamba": "Jazz vs Lakers \u00b7 Mon Nov 23 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "Mo Bamba": 1100
+        },
+        "units": 0.3,
+        "group": "10"
+      },
+      {
         "name": "Win the Tip",
         "legs": [
           "Myles Turner"
@@ -404,7 +419,7 @@
         "Ace Bailey"
       ],
       "Tip-Off Call": [
-        "Ace Bailey"
+        "Mo Bamba"
       ],
       "Final Inspection": [
         "Keyonte George"
@@ -435,7 +450,7 @@
       "dt:Mikel Brown Jr."
     ],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 02:41:10 GMT",
-    "checked_at": "2026-11-24T02:41:25.291243+00:00"
+    "last_modified": "Tue, 24 Nov 2026 02:50:45 GMT",
+    "checked_at": "2026-11-24T02:51:14.013312+00:00"
   }
 }
