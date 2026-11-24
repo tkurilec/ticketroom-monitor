@@ -7,47 +7,45 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 00:05:41 GMT",
-    "checked_at": "2026-11-24T00:10:24.785714+00:00"
+    "last_modified": "Tue, 24 Nov 2026 00:10:29 GMT",
+    "checked_at": "2026-11-24T00:11:12.476331+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "0ead9448f187bf46c03b8e4835f8820f0cf9271d3b2c2f2e363dd73465a9e7ce",
+    "hash": "13df6fda6f7d40c5204f97779bc8c6806ed390de1127f0012bd888211914d6cd",
     "confirmed": [
       {
-        "name": "Ninety Minutes",
+        "name": "The Totals Board",
         "legs": [
-          "Levante v Elche: Elche under 1.5 goals",
-          "Monza v Fiorentina: Monza under 1.5 goals"
+          "Manchester City v Napoli: Napoli to score",
+          "RB Leipzig v Lens: Both teams to score"
         ],
         "rr": false,
         "market": "",
         "kind": "totals",
         "info": {
-          "Monza v Fiorentina: Monza under 1.5 goals": "Mon Nov 23 \u00b7 2:45 PM ET",
-          "Levante v Elche: Elche under 1.5 goals": "Mon Nov 23 \u00b7 3:00 PM ET"
+          "RB Leipzig v Lens: Both teams to score": "Tue Nov 24 \u00b7 3:00 PM ET",
+          "Manchester City v Napoli: Napoli to score": "Tue Nov 24 \u00b7 3:00 PM ET"
         },
         "odds": {
-          "Monza v Fiorentina: Monza under 1.5 goals": -190,
-          "Levante v Elche: Elche under 1.5 goals": -200
+          "RB Leipzig v Lens: Both teams to score": -190,
+          "Manchester City v Napoli: Napoli to score": -190
         }
       }
     ],
     "announced": {
-      "Ninety Minutes": [
-        "Levante v Elche: Elche under 1.5 goals",
-        "Monza v Fiorentina: Monza under 1.5 goals"
+      "The Totals Board": [
+        "Manchester City v Napoli: Napoli to score",
+        "RB Leipzig v Lens: Both teams to score"
       ]
     },
     "abets": [
-      "totals||Levante v Elche: Elche under 1.5 goals,Monza v Fiorentina: Monza under 1.5 goals"
+      "totals||Manchester City v Napoli: Napoli to score,RB Leipzig v Lens: Both teams to score"
     ],
-    "slate": "2026-11-23",
-    "hits": [
-      "t:Levante v Elche: Elche under 1.5 goals"
-    ],
+    "slate": "2026-11-24",
+    "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 00:05:41 GMT",
-    "checked_at": "2026-11-24T00:10:25.231746+00:00"
+    "last_modified": "Tue, 24 Nov 2026 00:10:29 GMT",
+    "checked_at": "2026-11-24T00:11:14.052083+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "4e82019e7ba40ffbbd9b2432cc682fae92f91082753d2bc3ebc6143b3f7e36f6",
@@ -130,11 +128,11 @@
     "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 00:05:41 GMT",
-    "checked_at": "2026-11-24T00:10:25.456366+00:00"
+    "last_modified": "Tue, 24 Nov 2026 00:10:29 GMT",
+    "checked_at": "2026-11-24T00:11:14.233278+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "cf4204dab4ea4717a254be2347b56660ce18c46bb0c342da11a120bad24cbf54",
+    "hash": "230e351aa68b721f87b0fe2468005a6d714769005c29e66370fea5d27dca2f2f",
     "confirmed": [
       {
         "name": "Back Iron",
@@ -154,17 +152,17 @@
       {
         "name": "Bucket One",
         "legs": [
-          "Kelly Oubre Jr."
+          "Day'Ron Sharpe"
         ],
         "rr": false,
         "info": {
-          "Kelly Oubre Jr.": "Pacers vs Thunder \u00b7 Mon Nov 23 \u00b7 7:30 PM ET"
+          "Day'Ron Sharpe": "Nets vs Timberwolves \u00b7 Mon Nov 23 \u00b7 7:30 PM ET"
         },
         "odds": {
-          "Kelly Oubre Jr.": 1000
+          "Day'Ron Sharpe": 1200
         },
-        "units": 0.3,
-        "group": "4"
+        "units": 0.6,
+        "group": "5"
       },
       {
         "name": "First Bucket",
@@ -221,25 +219,10 @@
           "Ivica Zubac": "Pacers vs Thunder \u00b7 Mon Nov 23 \u00b7 7:30 PM ET"
         },
         "odds": {
-          "Ivica Zubac": 700
-        },
-        "units": 0.3,
-        "group": "4"
-      },
-      {
-        "name": "The Opener",
-        "legs": [
-          "Day'Ron Sharpe"
-        ],
-        "rr": false,
-        "info": {
-          "Day'Ron Sharpe": "Nets vs Timberwolves \u00b7 Mon Nov 23 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "Day'Ron Sharpe": 1200
+          "Ivica Zubac": 650
         },
         "units": 0.6,
-        "group": "5"
+        "group": "4"
       },
       {
         "name": "Win the Tip",
@@ -271,7 +254,7 @@
         "Day'Ron Sharpe"
       ],
       "Bucket One": [
-        "Kelly Oubre Jr."
+        "Day'Ron Sharpe"
       ],
       "First Bucket": [
         "Jakob Poeltl"
@@ -296,7 +279,7 @@
     "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 00:05:41 GMT",
-    "checked_at": "2026-11-24T00:10:26.737297+00:00"
+    "last_modified": "Tue, 24 Nov 2026 00:10:29 GMT",
+    "checked_at": "2026-11-24T00:11:14.826562+00:00"
   }
 }
