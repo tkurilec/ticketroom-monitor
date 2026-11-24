@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 23:36:05 GMT",
-    "checked_at": "2026-11-24T23:40:16.763852+00:00"
+    "last_modified": "Tue, 24 Nov 2026 23:41:27 GMT",
+    "checked_at": "2026-11-24T23:42:14.746538+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "ec5e9a0c54f44afc6cc74f6e1b7f8e1d0383f89c964e97c207e648b9a62c3fe4",
@@ -81,8 +81,8 @@
       "t:RB Leipzig v Lens: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 23:36:05 GMT",
-    "checked_at": "2026-11-24T23:40:17.190208+00:00"
+    "last_modified": "Tue, 24 Nov 2026 23:41:27 GMT",
+    "checked_at": "2026-11-24T23:42:15.411234+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -92,12 +92,27 @@
     "slate": "2026-11-25",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 23:36:05 GMT",
-    "checked_at": "2026-11-24T23:40:17.600607+00:00"
+    "last_modified": "Tue, 24 Nov 2026 23:41:27 GMT",
+    "checked_at": "2026-11-24T23:42:15.557863+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "064a82b6e965c79a9d54e6e6935196bdf512db297674bd8ebe375c2614f1bdab",
+    "hash": "1c1d678e688c57701acb7cbf1470ddc07e4a9378aadfb948986fb418c07bfa7f",
     "confirmed": [
+      {
+        "name": "Brick and Mortar",
+        "legs": [
+          "Isaiah Joe"
+        ],
+        "rr": false,
+        "market": "over 2.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Isaiah Joe": "Pistons vs Magic \u00b7 Tue Nov 24 \u00b7 7:00 PM ET"
+        },
+        "odds": {
+          "Isaiah Joe": 132
+        }
+      },
       {
         "name": "Win the Tip",
         "legs": [
@@ -117,15 +132,19 @@
     "announced": {
       "Win the Tip": [
         "John Collins"
+      ],
+      "Brick and Mortar": [
+        "Isaiah Joe"
       ]
     },
     "abets": [
+      "downtown|over 2.5 threes|Isaiah Joe",
       "|first basket|John Collins"
     ],
     "slate": "2026-11-24",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 23:36:05 GMT",
-    "checked_at": "2026-11-24T23:40:19.089230+00:00"
+    "last_modified": "Tue, 24 Nov 2026 23:41:27 GMT",
+    "checked_at": "2026-11-24T23:42:16.968227+00:00"
   }
 }
