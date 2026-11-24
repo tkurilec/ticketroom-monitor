@@ -4670,6 +4670,34 @@
           "bkey": "|first basket|Brook Lopez",
           "result": null,
           "pl": null
+        },
+        "Open Floor": {
+          "legs": [
+            "Mo Bamba"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Mo Bamba": 1200
+          },
+          "bkey": "|first basket|Mo Bamba",
+          "result": null,
+          "pl": null
+        },
+        "Tip-Off Call": {
+          "legs": [
+            "Ace Bailey"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Ace Bailey": 950
+          },
+          "bkey": "|first basket|Ace Bailey",
+          "result": null,
+          "pl": null
         }
       }
     }

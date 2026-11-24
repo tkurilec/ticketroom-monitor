@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 01:26:13 GMT",
-    "checked_at": "2026-11-24T01:26:24.001396+00:00"
+    "last_modified": "Tue, 24 Nov 2026 02:36:36 GMT",
+    "checked_at": "2026-11-24T02:40:19.230165+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "13df6fda6f7d40c5204f97779bc8c6806ed390de1127f0012bd888211914d6cd",
@@ -44,8 +44,8 @@
     "slate": "2026-11-24",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 01:26:13 GMT",
-    "checked_at": "2026-11-24T01:26:24.769687+00:00"
+    "last_modified": "Tue, 24 Nov 2026 02:36:36 GMT",
+    "checked_at": "2026-11-24T02:40:20.069153+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "4e82019e7ba40ffbbd9b2432cc682fae92f91082753d2bc3ebc6143b3f7e36f6",
@@ -128,11 +128,11 @@
     "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 01:26:13 GMT",
-    "checked_at": "2026-11-24T01:26:25.164258+00:00"
+    "last_modified": "Tue, 24 Nov 2026 02:36:36 GMT",
+    "checked_at": "2026-11-24T02:40:20.814447+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "3796644b81997cf8c59cc946b7ac172bcdaae0153fd43428675711e8ade815e3",
+    "hash": "e5aaa54956f1fad031258e1b74fe7c518c1c9eaac809eed81f79c9fc0e141ed1",
     "confirmed": [
       {
         "name": "Back Iron",
@@ -270,6 +270,21 @@
         }
       },
       {
+        "name": "Open Floor",
+        "legs": [
+          "Mo Bamba"
+        ],
+        "rr": false,
+        "info": {
+          "Mo Bamba": "Jazz vs Lakers \u00b7 Mon Nov 23 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "Mo Bamba": 1200
+        },
+        "units": 0.3,
+        "group": "10"
+      },
+      {
         "name": "Opening Tip",
         "legs": [
           "Kyle Kuzma"
@@ -313,6 +328,21 @@
         },
         "units": 0.3,
         "group": "6"
+      },
+      {
+        "name": "Tip-Off Call",
+        "legs": [
+          "Ace Bailey"
+        ],
+        "rr": false,
+        "info": {
+          "Ace Bailey": "Jazz vs Lakers \u00b7 Mon Nov 23 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "Ace Bailey": 950
+        },
+        "units": 0.3,
+        "group": "10"
       },
       {
         "name": "Win the Tip",
@@ -369,6 +399,12 @@
       ],
       "Break the Seal": [
         "Brook Lopez"
+      ],
+      "Open Floor": [
+        "Mo Bamba"
+      ],
+      "Tip-Off Call": [
+        "Ace Bailey"
       ]
     },
     "abets": [
@@ -377,6 +413,7 @@
       "downtown|over 1.5 threes|Sidy Cissoko",
       "downtown|over 2.5 threes|Mikel Brown Jr.",
       "downtown|under 1.5 threes|LeBron James",
+      "|first basket|Ace Bailey",
       "|first basket|Brook Lopez",
       "|first basket|Day'Ron Sharpe",
       "|first basket|Ivica Zubac",
@@ -384,6 +421,7 @@
       "|first basket|Jeremiah Fears",
       "|first basket|Kelly Oubre Jr.",
       "|first basket|Kyle Kuzma",
+      "|first basket|Mo Bamba",
       "|first basket|Myles Turner",
       "|first basket|Oso Ighodaro"
     ],
@@ -393,7 +431,7 @@
       "dt:Mikel Brown Jr."
     ],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 01:26:13 GMT",
-    "checked_at": "2026-11-24T01:26:28.871029+00:00"
+    "last_modified": "Tue, 24 Nov 2026 02:36:36 GMT",
+    "checked_at": "2026-11-24T02:40:24.519338+00:00"
   }
 }
