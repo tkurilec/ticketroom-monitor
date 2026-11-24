@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Tue, 24 Nov 2026 00:05:41 GMT",
-    "checked_at": "2026-11-24T00:06:12.115498+00:00"
+    "checked_at": "2026-11-24T00:10:24.785714+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "0ead9448f187bf46c03b8e4835f8820f0cf9271d3b2c2f2e363dd73465a9e7ce",
@@ -47,7 +47,7 @@
     ],
     "ltd": null,
     "last_modified": "Tue, 24 Nov 2026 00:05:41 GMT",
-    "checked_at": "2026-11-24T00:06:12.837454+00:00"
+    "checked_at": "2026-11-24T00:10:25.231746+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "4e82019e7ba40ffbbd9b2432cc682fae92f91082753d2bc3ebc6143b3f7e36f6",
@@ -131,10 +131,10 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Tue, 24 Nov 2026 00:05:41 GMT",
-    "checked_at": "2026-11-24T00:06:13.191888+00:00"
+    "checked_at": "2026-11-24T00:10:25.456366+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "c9b4bb6d7d2a05ed84f9b4096d63e6a9d7752248330bf637ada7c8b8f5962eed",
+    "hash": "cf4204dab4ea4717a254be2347b56660ce18c46bb0c342da11a120bad24cbf54",
     "confirmed": [
       {
         "name": "Back Iron",
@@ -150,6 +150,36 @@
         "odds": {
           "LeBron James": -158
         }
+      },
+      {
+        "name": "Bucket One",
+        "legs": [
+          "Kelly Oubre Jr."
+        ],
+        "rr": false,
+        "info": {
+          "Kelly Oubre Jr.": "Pacers vs Thunder \u00b7 Mon Nov 23 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Kelly Oubre Jr.": 1000
+        },
+        "units": 0.3,
+        "group": "4"
+      },
+      {
+        "name": "First Bucket",
+        "legs": [
+          "Jakob Poeltl"
+        ],
+        "rr": false,
+        "info": {
+          "Jakob Poeltl": "Raptors vs Bucks \u00b7 Mon Nov 23 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Jakob Poeltl": 700
+        },
+        "units": 0.4,
+        "group": "3"
       },
       {
         "name": "Groundbreaking",
@@ -182,6 +212,21 @@
         }
       },
       {
+        "name": "Opening Tip",
+        "legs": [
+          "Ivica Zubac"
+        ],
+        "rr": false,
+        "info": {
+          "Ivica Zubac": "Pacers vs Thunder \u00b7 Mon Nov 23 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Ivica Zubac": 700
+        },
+        "units": 0.3,
+        "group": "4"
+      },
+      {
         "name": "The Opener",
         "legs": [
           "Day'Ron Sharpe"
@@ -195,6 +240,21 @@
         },
         "units": 0.6,
         "group": "5"
+      },
+      {
+        "name": "Win the Tip",
+        "legs": [
+          "Myles Turner"
+        ],
+        "rr": false,
+        "info": {
+          "Myles Turner": "Bucks vs Raptors \u00b7 Mon Nov 23 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Myles Turner": 1200
+        },
+        "units": 0.2,
+        "group": "3"
       }
     ],
     "announced": {
@@ -209,18 +269,34 @@
       ],
       "The Opener": [
         "Day'Ron Sharpe"
+      ],
+      "Bucket One": [
+        "Kelly Oubre Jr."
+      ],
+      "First Bucket": [
+        "Jakob Poeltl"
+      ],
+      "Opening Tip": [
+        "Ivica Zubac"
+      ],
+      "Win the Tip": [
+        "Myles Turner"
       ]
     },
     "abets": [
       "downtown|over 1.5 threes|Sidy Cissoko",
       "downtown|over 2.5 threes|Mikel Brown Jr.",
       "downtown|under 1.5 threes|LeBron James",
-      "|first basket|Day'Ron Sharpe"
+      "|first basket|Day'Ron Sharpe",
+      "|first basket|Ivica Zubac",
+      "|first basket|Jakob Poeltl",
+      "|first basket|Kelly Oubre Jr.",
+      "|first basket|Myles Turner"
     ],
     "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
     "last_modified": "Tue, 24 Nov 2026 00:05:41 GMT",
-    "checked_at": "2026-11-24T00:06:15.040313+00:00"
+    "checked_at": "2026-11-24T00:10:26.737297+00:00"
   }
 }

@@ -4559,6 +4559,62 @@
           "bkey": "|first basket|Day'Ron Sharpe",
           "result": null,
           "pl": null
+        },
+        "Bucket One": {
+          "legs": [
+            "Kelly Oubre Jr."
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Kelly Oubre Jr.": 1000
+          },
+          "bkey": "|first basket|Kelly Oubre Jr.",
+          "result": null,
+          "pl": null
+        },
+        "First Bucket": {
+          "legs": [
+            "Jakob Poeltl"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.4,
+          "odds": {
+            "Jakob Poeltl": 700
+          },
+          "bkey": "|first basket|Jakob Poeltl",
+          "result": null,
+          "pl": null
+        },
+        "Opening Tip": {
+          "legs": [
+            "Ivica Zubac"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Ivica Zubac": 700
+          },
+          "bkey": "|first basket|Ivica Zubac",
+          "result": null,
+          "pl": null
+        },
+        "Win the Tip": {
+          "legs": [
+            "Myles Turner"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "Myles Turner": 1200
+          },
+          "bkey": "|first basket|Myles Turner",
+          "result": null,
+          "pl": null
         }
       }
     }
