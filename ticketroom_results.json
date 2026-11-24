@@ -4600,6 +4600,20 @@
           "bkey": "|first basket|Myles Turner",
           "result": null,
           "pl": null
+        },
+        "Floor Plan": {
+          "legs": [
+            "Jaylon Tyson"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jaylon Tyson": -115
+          },
+          "bkey": "downtown|over 1.5 threes|Jaylon Tyson",
+          "result": null,
+          "pl": null
         }
       }
     }

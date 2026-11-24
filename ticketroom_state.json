@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 00:20:48 GMT",
-    "checked_at": "2026-11-24T00:21:12.977142+00:00"
+    "last_modified": "Tue, 24 Nov 2026 00:41:00 GMT",
+    "checked_at": "2026-11-24T00:41:11.812494+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "13df6fda6f7d40c5204f97779bc8c6806ed390de1127f0012bd888211914d6cd",
@@ -44,8 +44,8 @@
     "slate": "2026-11-24",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 00:20:48 GMT",
-    "checked_at": "2026-11-24T00:21:13.812449+00:00"
+    "last_modified": "Tue, 24 Nov 2026 00:40:59 GMT",
+    "checked_at": "2026-11-24T00:41:12.273703+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "4e82019e7ba40ffbbd9b2432cc682fae92f91082753d2bc3ebc6143b3f7e36f6",
@@ -128,11 +128,11 @@
     "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 00:20:48 GMT",
-    "checked_at": "2026-11-24T00:21:14.194441+00:00"
+    "last_modified": "Tue, 24 Nov 2026 00:40:59 GMT",
+    "checked_at": "2026-11-24T00:41:12.489575+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "8204b435d22c93807b40a1d2615b1424856a867eb68e2c5a26711466f5df7472",
+    "hash": "577028ffdddf2dbff281bd62212b952ab3e3928687c03984014fbfcc2a4c6825",
     "confirmed": [
       {
         "name": "Back Iron",
@@ -178,6 +178,21 @@
         },
         "units": 0.4,
         "group": "3"
+      },
+      {
+        "name": "Floor Plan",
+        "legs": [
+          "Jaylon Tyson"
+        ],
+        "rr": false,
+        "market": "over 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Jaylon Tyson": "Cavaliers vs Bulls \u00b7 Mon Nov 23 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Jaylon Tyson": -115
+        }
       },
       {
         "name": "Groundbreaking",
@@ -279,9 +294,13 @@
       ],
       "Win the Tip": [
         "Myles Turner"
+      ],
+      "Floor Plan": [
+        "Jaylon Tyson"
       ]
     },
     "abets": [
+      "downtown|over 1.5 threes|Jaylon Tyson",
       "downtown|over 1.5 threes|Sidy Cissoko",
       "downtown|over 2.5 threes|Mikel Brown Jr.",
       "downtown|under 1.5 threes|LeBron James",
@@ -295,7 +314,7 @@
     "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 00:20:48 GMT",
-    "checked_at": "2026-11-24T00:21:15.791558+00:00"
+    "last_modified": "Tue, 24 Nov 2026 00:40:59 GMT",
+    "checked_at": "2026-11-24T00:41:14.174916+00:00"
   }
 }
