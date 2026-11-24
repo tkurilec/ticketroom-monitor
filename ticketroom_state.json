@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 01:06:35 GMT",
-    "checked_at": "2026-11-24T01:07:11.770876+00:00"
+    "last_modified": "Tue, 24 Nov 2026 01:26:13 GMT",
+    "checked_at": "2026-11-24T01:26:24.001396+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "13df6fda6f7d40c5204f97779bc8c6806ed390de1127f0012bd888211914d6cd",
@@ -44,8 +44,8 @@
     "slate": "2026-11-24",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 01:06:35 GMT",
-    "checked_at": "2026-11-24T01:07:12.492117+00:00"
+    "last_modified": "Tue, 24 Nov 2026 01:26:13 GMT",
+    "checked_at": "2026-11-24T01:26:24.769687+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "4e82019e7ba40ffbbd9b2432cc682fae92f91082753d2bc3ebc6143b3f7e36f6",
@@ -128,11 +128,11 @@
     "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 01:06:35 GMT",
-    "checked_at": "2026-11-24T01:07:12.881177+00:00"
+    "last_modified": "Tue, 24 Nov 2026 01:26:13 GMT",
+    "checked_at": "2026-11-24T01:26:25.164258+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "1f75fcb628d68c711356081b140b325704352723f5b816111374584e657553a0",
+    "hash": "3796644b81997cf8c59cc946b7ac172bcdaae0153fd43428675711e8ade815e3",
     "confirmed": [
       {
         "name": "Back Iron",
@@ -148,6 +148,21 @@
         "odds": {
           "LeBron James": -158
         }
+      },
+      {
+        "name": "Break the Seal",
+        "legs": [
+          "Brook Lopez"
+        ],
+        "rr": false,
+        "info": {
+          "Brook Lopez": "Clippers vs Rockets \u00b7 Mon Nov 23 \u00b7 8:30 PM ET"
+        },
+        "odds": {
+          "Brook Lopez": 850
+        },
+        "units": 0.6,
+        "group": "8"
       },
       {
         "name": "Brick and Mortar",
@@ -351,6 +366,9 @@
       ],
       "Brick and Mortar": [
         "Keaton Wagler"
+      ],
+      "Break the Seal": [
+        "Brook Lopez"
       ]
     },
     "abets": [
@@ -359,6 +377,7 @@
       "downtown|over 1.5 threes|Sidy Cissoko",
       "downtown|over 2.5 threes|Mikel Brown Jr.",
       "downtown|under 1.5 threes|LeBron James",
+      "|first basket|Brook Lopez",
       "|first basket|Day'Ron Sharpe",
       "|first basket|Ivica Zubac",
       "|first basket|Jakob Poeltl",
@@ -370,10 +389,11 @@
     ],
     "slate": "2026-11-23",
     "hits": [
-      "a:Jakob Poeltl"
+      "a:Jakob Poeltl",
+      "dt:Mikel Brown Jr."
     ],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 01:06:35 GMT",
-    "checked_at": "2026-11-24T01:07:16.061364+00:00"
+    "last_modified": "Tue, 24 Nov 2026 01:26:13 GMT",
+    "checked_at": "2026-11-24T01:26:28.871029+00:00"
   }
 }

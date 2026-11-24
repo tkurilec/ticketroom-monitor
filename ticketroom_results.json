@@ -4656,6 +4656,20 @@
           "bkey": "downtown|over 1.5 threes|Keaton Wagler",
           "result": null,
           "pl": null
+        },
+        "Break the Seal": {
+          "legs": [
+            "Brook Lopez"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Brook Lopez": 850
+          },
+          "bkey": "|first basket|Brook Lopez",
+          "result": null,
+          "pl": null
         }
       }
     }
