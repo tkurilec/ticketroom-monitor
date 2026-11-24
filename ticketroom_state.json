@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 04:51:31 GMT",
-    "checked_at": "2026-11-24T05:00:21.935324+00:00"
+    "last_modified": "Tue, 24 Nov 2026 07:07:04 GMT",
+    "checked_at": "2026-11-24T07:07:12.391535+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "13df6fda6f7d40c5204f97779bc8c6806ed390de1127f0012bd888211914d6cd",
@@ -44,37 +44,19 @@
     "slate": "2026-11-24",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 04:51:31 GMT",
-    "checked_at": "2026-11-24T05:00:22.597541+00:00"
+    "last_modified": "Tue, 24 Nov 2026 07:07:04 GMT",
+    "checked_at": "2026-11-24T07:07:12.992638+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Bell Cow": [
-        "Mitchell Tinsley"
-      ],
-      "The Opening Act": [
-        "Chase Brown"
-      ],
-      "The Workhorse": [
-        "Chase Brown"
-      ],
-      "Goal Line Back": [
-        "Van Jefferson"
-      ]
-    },
-    "abets": [
-      "ftd|first touchdown scorer|Chase Brown",
-      "|anytime touchdown|Chase Brown",
-      "|anytime touchdown|Mitchell Tinsley",
-      "|anytime touchdown|Van Jefferson"
-    ],
-    "slate": "2026-11-23",
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-25",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 04:51:31 GMT",
-    "checked_at": "2026-11-24T05:00:22.833672+00:00"
+    "last_modified": "Tue, 24 Nov 2026 07:07:04 GMT",
+    "checked_at": "2026-11-24T07:07:14.106888+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -154,7 +136,7 @@
       "dt:Mikel Brown Jr."
     ],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 04:51:31 GMT",
-    "checked_at": "2026-11-24T05:00:24.689018+00:00"
+    "last_modified": "Tue, 24 Nov 2026 07:07:04 GMT",
+    "checked_at": "2026-11-24T07:07:15.359826+00:00"
   }
 }

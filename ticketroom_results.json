@@ -2681,8 +2681,9 @@
             "Mitchell Tinsley": 1400
           },
           "bkey": "|anytime touchdown|Mitchell Tinsley",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "The Opening Act": {
           "legs": [
@@ -2695,8 +2696,9 @@
             "Chase Brown": 558
           },
           "bkey": "ftd|first touchdown scorer|Chase Brown",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "The Workhorse": {
           "legs": [
@@ -2709,8 +2711,9 @@
             "Chase Brown": -125
           },
           "bkey": "|anytime touchdown|Chase Brown",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Goal Line Back": {
           "legs": [
@@ -2723,10 +2726,12 @@
             "Van Jefferson": 900
           },
           "bkey": "|anytime touchdown|Van Jefferson",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         }
-      }
+      },
+      "2026-11-25": {}
     },
     "NBA Board": {
       "2026-11-10": {
