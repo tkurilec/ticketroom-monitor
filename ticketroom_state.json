@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 21:10:57 GMT",
-    "checked_at": "2026-11-24T21:14:13.472488+00:00"
+    "last_modified": "Tue, 24 Nov 2026 21:15:51 GMT",
+    "checked_at": "2026-11-24T21:16:14.235626+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "ec5e9a0c54f44afc6cc74f6e1b7f8e1d0383f89c964e97c207e648b9a62c3fe4",
@@ -77,11 +77,12 @@
     ],
     "slate": "2026-11-24",
     "hits": [
-      "t:Manchester City v Napoli: Napoli to score"
+      "t:Manchester City v Napoli: Napoli to score",
+      "t:RB Leipzig v Lens: Both teams to score"
     ],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 21:10:58 GMT",
-    "checked_at": "2026-11-24T21:14:14.161682+00:00"
+    "last_modified": "Tue, 24 Nov 2026 21:15:51 GMT",
+    "checked_at": "2026-11-24T21:16:14.871517+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -91,8 +92,8 @@
     "slate": "2026-11-25",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 21:10:57 GMT",
-    "checked_at": "2026-11-24T21:14:14.265698+00:00"
+    "last_modified": "Tue, 24 Nov 2026 21:15:51 GMT",
+    "checked_at": "2026-11-24T21:16:15.189302+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -102,7 +103,7 @@
     "slate": "2026-11-24",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 21:10:57 GMT",
-    "checked_at": "2026-11-24T21:14:14.531499+00:00"
+    "last_modified": "Tue, 24 Nov 2026 21:15:51 GMT",
+    "checked_at": "2026-11-24T21:16:15.473634+00:00"
   }
 }
