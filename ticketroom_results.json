@@ -4614,6 +4614,34 @@
           "bkey": "downtown|over 1.5 threes|Jaylon Tyson",
           "result": null,
           "pl": null
+        },
+        "First Points": {
+          "legs": [
+            "Oso Ighodaro"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Oso Ighodaro": 1300
+          },
+          "bkey": "|first basket|Oso Ighodaro",
+          "result": null,
+          "pl": null
+        },
+        "Tip Drill": {
+          "legs": [
+            "Jeremiah Fears"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Jeremiah Fears": 950
+          },
+          "bkey": "|first basket|Jeremiah Fears",
+          "result": null,
+          "pl": null
         }
       }
     }

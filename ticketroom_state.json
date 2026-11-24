@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 00:40:59 GMT",
-    "checked_at": "2026-11-24T00:44:11.994781+00:00"
+    "last_modified": "Tue, 24 Nov 2026 00:50:25 GMT",
+    "checked_at": "2026-11-24T00:50:29.879606+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "13df6fda6f7d40c5204f97779bc8c6806ed390de1127f0012bd888211914d6cd",
@@ -44,8 +44,8 @@
     "slate": "2026-11-24",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 00:40:59 GMT",
-    "checked_at": "2026-11-24T00:44:12.492584+00:00"
+    "last_modified": "Tue, 24 Nov 2026 00:50:25 GMT",
+    "checked_at": "2026-11-24T00:50:30.328061+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "4e82019e7ba40ffbbd9b2432cc682fae92f91082753d2bc3ebc6143b3f7e36f6",
@@ -128,11 +128,11 @@
     "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 00:40:59 GMT",
-    "checked_at": "2026-11-24T00:44:12.661623+00:00"
+    "last_modified": "Tue, 24 Nov 2026 00:50:25 GMT",
+    "checked_at": "2026-11-24T00:50:30.527368+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "577028ffdddf2dbff281bd62212b952ab3e3928687c03984014fbfcc2a4c6825",
+    "hash": "a48d2271041c3fee9f024117dba811386ab2871608f4ea562b309aad7e34808f",
     "confirmed": [
       {
         "name": "Back Iron",
@@ -178,6 +178,21 @@
         },
         "units": 0.4,
         "group": "3"
+      },
+      {
+        "name": "First Points",
+        "legs": [
+          "Oso Ighodaro"
+        ],
+        "rr": false,
+        "info": {
+          "Oso Ighodaro": "Suns vs Pelicans \u00b7 Mon Nov 23 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Oso Ighodaro": 1300
+        },
+        "units": 0.3,
+        "group": "6"
       },
       {
         "name": "Floor Plan",
@@ -255,6 +270,21 @@
         "group": "5"
       },
       {
+        "name": "Tip Drill",
+        "legs": [
+          "Jeremiah Fears"
+        ],
+        "rr": false,
+        "info": {
+          "Jeremiah Fears": "Pelicans vs Suns \u00b7 Mon Nov 23 \u00b7 8:00 PM ET"
+        },
+        "odds": {
+          "Jeremiah Fears": 950
+        },
+        "units": 0.3,
+        "group": "6"
+      },
+      {
         "name": "Win the Tip",
         "legs": [
           "Myles Turner"
@@ -297,6 +327,12 @@
       ],
       "Floor Plan": [
         "Jaylon Tyson"
+      ],
+      "First Points": [
+        "Oso Ighodaro"
+      ],
+      "Tip Drill": [
+        "Jeremiah Fears"
       ]
     },
     "abets": [
@@ -307,16 +343,18 @@
       "|first basket|Day'Ron Sharpe",
       "|first basket|Ivica Zubac",
       "|first basket|Jakob Poeltl",
+      "|first basket|Jeremiah Fears",
       "|first basket|Kelly Oubre Jr.",
       "|first basket|Kyle Kuzma",
-      "|first basket|Myles Turner"
+      "|first basket|Myles Turner",
+      "|first basket|Oso Ighodaro"
     ],
     "slate": "2026-11-23",
     "hits": [
       "a:Jakob Poeltl"
     ],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 00:41:00 GMT",
-    "checked_at": "2026-11-24T00:44:13.894181+00:00"
+    "last_modified": "Tue, 24 Nov 2026 00:50:25 GMT",
+    "checked_at": "2026-11-24T00:50:32.631439+00:00"
   }
 }
