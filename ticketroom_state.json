@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 00:10:29 GMT",
-    "checked_at": "2026-11-24T00:11:12.476331+00:00"
+    "last_modified": "Tue, 24 Nov 2026 00:20:48 GMT",
+    "checked_at": "2026-11-24T00:21:12.977142+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "13df6fda6f7d40c5204f97779bc8c6806ed390de1127f0012bd888211914d6cd",
@@ -44,8 +44,8 @@
     "slate": "2026-11-24",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 00:10:29 GMT",
-    "checked_at": "2026-11-24T00:11:14.052083+00:00"
+    "last_modified": "Tue, 24 Nov 2026 00:20:48 GMT",
+    "checked_at": "2026-11-24T00:21:13.812449+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "4e82019e7ba40ffbbd9b2432cc682fae92f91082753d2bc3ebc6143b3f7e36f6",
@@ -128,11 +128,11 @@
     "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 00:10:29 GMT",
-    "checked_at": "2026-11-24T00:11:14.233278+00:00"
+    "last_modified": "Tue, 24 Nov 2026 00:20:48 GMT",
+    "checked_at": "2026-11-24T00:21:14.194441+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "230e351aa68b721f87b0fe2468005a6d714769005c29e66370fea5d27dca2f2f",
+    "hash": "8204b435d22c93807b40a1d2615b1424856a867eb68e2c5a26711466f5df7472",
     "confirmed": [
       {
         "name": "Back Iron",
@@ -152,17 +152,17 @@
       {
         "name": "Bucket One",
         "legs": [
-          "Day'Ron Sharpe"
+          "Ivica Zubac"
         ],
         "rr": false,
         "info": {
-          "Day'Ron Sharpe": "Nets vs Timberwolves \u00b7 Mon Nov 23 \u00b7 7:30 PM ET"
+          "Ivica Zubac": "Pacers vs Thunder \u00b7 Mon Nov 23 \u00b7 7:30 PM ET"
         },
         "odds": {
-          "Day'Ron Sharpe": 1200
+          "Ivica Zubac": 650
         },
         "units": 0.6,
-        "group": "5"
+        "group": "4"
       },
       {
         "name": "First Bucket",
@@ -212,17 +212,32 @@
       {
         "name": "Opening Tip",
         "legs": [
-          "Ivica Zubac"
+          "Kyle Kuzma"
         ],
         "rr": false,
         "info": {
-          "Ivica Zubac": "Pacers vs Thunder \u00b7 Mon Nov 23 \u00b7 7:30 PM ET"
+          "Kyle Kuzma": "Bucks vs Raptors \u00b7 Mon Nov 23 \u00b7 7:30 PM ET"
         },
         "odds": {
-          "Ivica Zubac": 650
+          "Kyle Kuzma": 1300
+        },
+        "units": 0.2,
+        "group": "3"
+      },
+      {
+        "name": "The Opener",
+        "legs": [
+          "Day'Ron Sharpe"
+        ],
+        "rr": false,
+        "info": {
+          "Day'Ron Sharpe": "Nets vs Timberwolves \u00b7 Mon Nov 23 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Day'Ron Sharpe": 1200
         },
         "units": 0.6,
-        "group": "4"
+        "group": "5"
       },
       {
         "name": "Win the Tip",
@@ -254,13 +269,13 @@
         "Day'Ron Sharpe"
       ],
       "Bucket One": [
-        "Day'Ron Sharpe"
+        "Ivica Zubac"
       ],
       "First Bucket": [
         "Jakob Poeltl"
       ],
       "Opening Tip": [
-        "Ivica Zubac"
+        "Kyle Kuzma"
       ],
       "Win the Tip": [
         "Myles Turner"
@@ -274,12 +289,13 @@
       "|first basket|Ivica Zubac",
       "|first basket|Jakob Poeltl",
       "|first basket|Kelly Oubre Jr.",
+      "|first basket|Kyle Kuzma",
       "|first basket|Myles Turner"
     ],
     "slate": "2026-11-23",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 00:10:29 GMT",
-    "checked_at": "2026-11-24T00:11:14.826562+00:00"
+    "last_modified": "Tue, 24 Nov 2026 00:20:48 GMT",
+    "checked_at": "2026-11-24T00:21:15.791558+00:00"
   }
 }
