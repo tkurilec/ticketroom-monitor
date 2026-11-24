@@ -7,8 +7,8 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 00:41:00 GMT",
-    "checked_at": "2026-11-24T00:41:11.812494+00:00"
+    "last_modified": "Tue, 24 Nov 2026 00:40:59 GMT",
+    "checked_at": "2026-11-24T00:44:11.994781+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "13df6fda6f7d40c5204f97779bc8c6806ed390de1127f0012bd888211914d6cd",
@@ -45,7 +45,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Tue, 24 Nov 2026 00:40:59 GMT",
-    "checked_at": "2026-11-24T00:41:12.273703+00:00"
+    "checked_at": "2026-11-24T00:44:12.492584+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "4e82019e7ba40ffbbd9b2432cc682fae92f91082753d2bc3ebc6143b3f7e36f6",
@@ -129,7 +129,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": "Tue, 24 Nov 2026 00:40:59 GMT",
-    "checked_at": "2026-11-24T00:41:12.489575+00:00"
+    "checked_at": "2026-11-24T00:44:12.661623+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "577028ffdddf2dbff281bd62212b952ab3e3928687c03984014fbfcc2a4c6825",
@@ -312,9 +312,11 @@
       "|first basket|Myles Turner"
     ],
     "slate": "2026-11-23",
-    "hits": [],
+    "hits": [
+      "a:Jakob Poeltl"
+    ],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 00:40:59 GMT",
-    "checked_at": "2026-11-24T00:41:14.174916+00:00"
+    "last_modified": "Tue, 24 Nov 2026 00:41:00 GMT",
+    "checked_at": "2026-11-24T00:44:13.894181+00:00"
   }
 }
