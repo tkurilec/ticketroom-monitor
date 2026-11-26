@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-26T18:31:20.300204+00:00"
+    "checked_at": "2026-11-26T18:44:12.313471+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -19,7 +19,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-26T18:31:20.609868+00:00"
+    "checked_at": "2026-11-26T18:44:12.701235+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "348f4302d8bb0073b9b023898d1306d8d178edb6061253a21b86e4c6b20dd495",
@@ -83,10 +83,12 @@
       "|anytime touchdown|Isaac TeSlaa"
     ],
     "slate": "2026-11-26",
-    "hits": [],
+    "hits": [
+      "ftd:Jahmyr Gibbs"
+    ],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-26T18:31:22.070296+00:00"
+    "checked_at": "2026-11-26T18:44:13.102951+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -107,6 +109,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-26T18:31:22.287941+00:00"
+    "checked_at": "2026-11-26T18:44:13.358098+00:00"
   }
 }
