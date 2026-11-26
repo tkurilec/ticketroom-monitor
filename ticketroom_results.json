@@ -1,389 +1,6 @@
 {
   "boards": {
     "Soccer Board": {
-      "2026-11-07": {
-        "The Score Sheet": {
-          "legs": [
-            "Chicago Fire FC v Columbus Crew: Both teams to score",
-            "Minnesota United FC v San Jose Earthquakes: Both teams to score",
-            "Nottingham Forest v Manchester City: Nottingham Forest to score",
-            "SC Paderborn 07 v Eintracht Frankfurt: Both teams to score"
-          ],
-          "kind": "totals",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Nottingham Forest v Manchester City: Nottingham Forest to score": -250,
-            "Chicago Fire FC v Columbus Crew: Both teams to score": -207,
-            "Minnesota United FC v San Jose Earthquakes: Both teams to score": -213,
-            "SC Paderborn 07 v Eintracht Frankfurt: Both teams to score": -205
-          },
-          "bkey": "totals||Chicago Fire FC v Columbus Crew: Both teams to score,Minnesota United FC v San Jose Earthquakes: Both teams to score,Nottingham Forest v Manchester City: Nottingham Forest to score,SC Paderborn 07 v Eintracht Frankfurt: Both teams to score",
-          "result": "won",
-          "pl": 3.5394870143843304,
-          "legs_hit": 4
-        },
-        "Smashed Home": {
-          "legs": [
-            "Fabio Silva"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Fabio Silva": 105
-          },
-          "bkey": "|anytime goalscorer|Fabio Silva",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "Bottom Corner": {
-          "legs": [
-            "Romulo"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Romulo": -106
-          },
-          "bkey": "|anytime goalscorer|Romulo",
-          "result": "won",
-          "pl": 0.9433962264150944,
-          "legs_hit": 1
-        },
-        "Near Post": {
-          "legs": [
-            "Christopher Nkunku"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Christopher Nkunku": 105
-          },
-          "bkey": "|anytime goalscorer|Christopher Nkunku",
-          "result": "won",
-          "pl": 1.0499999999999998,
-          "legs_hit": 1
-        },
-        "Six-Yard Box": {
-          "legs": [
-            "Harry Kane"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Harry Kane": -197
-          },
-          "bkey": "|anytime goalscorer|Harry Kane",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "Ghosts In": {
-          "legs": [
-            "Kai Havertz"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Kai Havertz": -104
-          },
-          "bkey": "|anytime goalscorer|Kai Havertz",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "Full Stake": {
-          "legs": [
-            "Erling Haaland"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 2,
-          "odds": {
-            "Erling Haaland": -135
-          },
-          "bkey": "|anytime goalscorer|Erling Haaland",
-          "result": "lost",
-          "pl": -2,
-          "legs_hit": 0
-        },
-        "Through on Goal": {
-          "legs": [
-            "Deniz Undav"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Deniz Undav": -104
-          },
-          "bkey": "|anytime goalscorer|Deniz Undav",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "Far Post": {
-          "legs": [
-            "Lassine Sinayoko"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Lassine Sinayoko": 120
-          },
-          "bkey": "|anytime goalscorer|Lassine Sinayoko",
-          "result": "won",
-          "pl": 1.2000000000000002,
-          "legs_hit": 1
-        },
-        "The Poacher": {
-          "legs": [
-            "Kylian Mbappe"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Kylian Mbappe": -210
-          },
-          "bkey": "|anytime goalscorer|Kylian Mbappe",
-          "result": "won",
-          "pl": 0.4761904761904763,
-          "legs_hit": 1
-        },
-        "Back Post": {
-          "legs": [
-            "Donyell Malen"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Donyell Malen": -192
-          },
-          "bkey": "|anytime goalscorer|Donyell Malen",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "Rebound": {
-          "legs": [
-            "Desire Doue"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Desire Doue": -115
-          },
-          "bkey": "|anytime goalscorer|Desire Doue",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "The Nine": {
-          "legs": [
-            "Ferran Torres"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Ferran Torres": -160
-          },
-          "bkey": "|anytime goalscorer|Ferran Torres",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "Target Man": {
-          "legs": [
-            "Lionel Messi"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Lionel Messi": -225
-          },
-          "bkey": "|anytime goalscorer|Lionel Messi",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "Finds the Gap": {
-          "legs": [
-            "Robert Lewandowski"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Robert Lewandowski": 115
-          },
-          "bkey": "|anytime goalscorer|Robert Lewandowski",
-          "result": "won",
-          "pl": 1.15,
-          "legs_hit": 1
-        },
-        "Gets Across": {
-          "legs": [
-            "Luis Suarez"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Luis Suarez": -108
-          },
-          "bkey": "|anytime goalscorer|Luis Suarez",
-          "result": "won",
-          "pl": 0.925925925925926,
-          "legs_hit": 1
-        },
-        "Penalty Spot": {
-          "legs": [
-            "Bruno Damiani"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Bruno Damiani": -100
-          },
-          "bkey": "|anytime goalscorer|Bruno Damiani",
-          "result": "won",
-          "pl": 1.0,
-          "legs_hit": 1
-        },
-        "Poked Home": {
-          "legs": [
-            "Rayan Elloumi"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Rayan Elloumi": 120
-          },
-          "bkey": "|anytime goalscorer|Rayan Elloumi",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "Rounds the Keeper": {
-          "legs": [
-            "Sam Surridge"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Sam Surridge": 112
-          },
-          "bkey": "|anytime goalscorer|Sam Surridge",
-          "result": "won",
-          "pl": 1.12,
-          "legs_hit": 1
-        },
-        "Side Netting": {
-          "legs": [
-            "Antoine Griezmann"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Antoine Griezmann": 110
-          },
-          "bkey": "|anytime goalscorer|Antoine Griezmann",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "In Behind": {
-          "legs": [
-            "Vincent Janssen"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Vincent Janssen": 110
-          },
-          "bkey": "|anytime goalscorer|Vincent Janssen",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "First Time": {
-          "legs": [
-            "Marcus Ingvartsen"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Marcus Ingvartsen": -118
-          },
-          "bkey": "|anytime goalscorer|Marcus Ingvartsen",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "Runs the Channel": {
-          "legs": [
-            "Anders Dreyer"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Anders Dreyer": -115
-          },
-          "bkey": "|anytime goalscorer|Anders Dreyer",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "Stoops to Conquer": {
-          "legs": [
-            "Sergi Solans"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Sergi Solans": 104
-          },
-          "bkey": "|anytime goalscorer|Sergi Solans",
-          "result": "won",
-          "pl": 1.04,
-          "legs_hit": 1
-        },
-        "One-Two": {
-          "legs": [
-            "Kelvin Yeboah"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Kelvin Yeboah": 108
-          },
-          "bkey": "|anytime goalscorer|Kelvin Yeboah",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        }
-      },
       "2026-11-08": {
         "Back of the Net": {
           "legs": [
@@ -1093,7 +710,8 @@
           "pl": -2,
           "legs_hit": 0
         }
-      }
+      },
+      "2026-11-26": {}
     },
     "NFL Board": {
       "2026-11-02": {
@@ -2747,7 +2365,51 @@
           "legs_hit": 0
         }
       },
-      "2026-11-25": {}
+      "2026-11-25": {},
+      "2026-11-26": {
+        "Goal Line Back": {
+          "legs": [
+            "Isaac TeSlaa"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Isaac TeSlaa": 441
+          },
+          "bkey": "|anytime touchdown|Isaac TeSlaa",
+          "result": null,
+          "pl": null
+        },
+        "Scoreboard Starter": {
+          "legs": [
+            "Jahmyr Gibbs"
+          ],
+          "kind": "ftd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jahmyr Gibbs": 360
+          },
+          "bkey": "ftd|first touchdown scorer|Jahmyr Gibbs",
+          "result": null,
+          "pl": null
+        },
+        "The Workhorse": {
+          "legs": [
+            "D'Andre Swift"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "D'Andre Swift": -115
+          },
+          "bkey": "|anytime touchdown|D'Andre Swift",
+          "result": null,
+          "pl": null
+        }
+      }
     },
     "NBA Board": {
       "2026-11-11": {

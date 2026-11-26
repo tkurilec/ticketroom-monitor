@@ -7,128 +7,90 @@
     "slate": null,
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 23:41:27 GMT",
-    "checked_at": "2026-11-24T23:42:14.746538+00:00"
+    "last_modified": null,
+    "checked_at": "2026-11-26T18:31:20.300204+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "ec5e9a0c54f44afc6cc74f6e1b7f8e1d0383f89c964e97c207e648b9a62c3fe4",
-    "confirmed": [
-      {
-        "name": "Target Man",
-        "legs": [
-          "Erling Haaland"
-        ],
-        "rr": false,
-        "info": {
-          "Erling Haaland": "Manchester City vs Napoli \u00b7 Tue Nov 24 \u00b7 3:00 PM ET"
-        },
-        "odds": {
-          "Erling Haaland": -226
-        }
-      },
-      {
-        "name": "The Talisman",
-        "legs": [
-          "Erling Haaland"
-        ],
-        "rr": false,
-        "info": {
-          "Erling Haaland": "Manchester City vs Napoli \u00b7 Tue Nov 24 \u00b7 3:00 PM ET"
-        },
-        "odds": {
-          "Erling Haaland": -226
-        },
-        "units": 2
-      },
-      {
-        "name": "The Totals Board",
-        "legs": [
-          "Manchester City v Napoli: Napoli to score",
-          "RB Leipzig v Lens: Both teams to score"
-        ],
-        "rr": false,
-        "market": "",
-        "kind": "totals",
-        "info": {
-          "RB Leipzig v Lens: Both teams to score": "Tue Nov 24 \u00b7 3:00 PM ET",
-          "Manchester City v Napoli: Napoli to score": "Tue Nov 24 \u00b7 3:00 PM ET"
-        },
-        "odds": {
-          "RB Leipzig v Lens: Both teams to score": -190,
-          "Manchester City v Napoli: Napoli to score": -190
-        }
-      }
-    ],
-    "announced": {
-      "The Totals Board": [
-        "Manchester City v Napoli: Napoli to score",
-        "RB Leipzig v Lens: Both teams to score"
-      ],
-      "Target Man": [
-        "Erling Haaland"
-      ],
-      "The Talisman": [
-        "Erling Haaland"
-      ]
-    },
-    "abets": [
-      "totals||Manchester City v Napoli: Napoli to score,RB Leipzig v Lens: Both teams to score",
-      "|anytime goalscorer|Erling Haaland"
-    ],
-    "slate": "2026-11-24",
-    "hits": [
-      "t:Manchester City v Napoli: Napoli to score",
-      "t:RB Leipzig v Lens: Both teams to score"
-    ],
-    "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 23:41:27 GMT",
-    "checked_at": "2026-11-24T23:42:15.411234+00:00"
-  },
-  "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
     "announced": {},
     "abets": [],
-    "slate": "2026-11-25",
+    "slate": "2026-11-26",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 23:41:27 GMT",
-    "checked_at": "2026-11-24T23:42:15.557863+00:00"
+    "last_modified": null,
+    "checked_at": "2026-11-26T18:31:20.609868+00:00"
   },
-  "https://theticketroom.live/nba/": {
-    "hash": "1c1d678e688c57701acb7cbf1470ddc07e4a9378aadfb948986fb418c07bfa7f",
+  "https://theticketroom.live/nfl/": {
+    "hash": "348f4302d8bb0073b9b023898d1306d8d178edb6061253a21b86e4c6b20dd495",
     "confirmed": [
       {
-        "name": "Brick and Mortar",
+        "name": "Goal Line Back",
         "legs": [
-          "Isaiah Joe"
+          "Isaac TeSlaa"
         ],
         "rr": false,
-        "market": "over 2.5 threes",
-        "kind": "downtown",
         "info": {
-          "Isaiah Joe": "Pistons vs Magic \u00b7 Tue Nov 24 \u00b7 7:00 PM ET"
+          "Isaac TeSlaa": "Lions vs Bears \u00b7 Thu Nov 26 \u00b7 1:00 PM ET"
         },
         "odds": {
-          "Isaiah Joe": 132
+          "Isaac TeSlaa": 441
         }
       },
       {
-        "name": "Win the Tip",
+        "name": "Scoreboard Starter",
         "legs": [
-          "John Collins"
+          "Jahmyr Gibbs"
         ],
         "rr": false,
         "info": {
-          "John Collins": "Pistons vs Magic \u00b7 Tue Nov 24 \u00b7 7:00 PM ET"
+          "Jahmyr Gibbs": "Lions vs Bears \u00b7 Thu Nov 26 \u00b7 1:00 PM ET"
         },
         "odds": {
-          "John Collins": 850
+          "Jahmyr Gibbs": 360
         },
-        "units": 0.6,
-        "group": "1"
+        "market": "first touchdown scorer",
+        "kind": "ftd"
+      },
+      {
+        "name": "The Workhorse",
+        "legs": [
+          "D'Andre Swift"
+        ],
+        "rr": false,
+        "info": {
+          "D'Andre Swift": "Bears vs Lions \u00b7 Thu Nov 26 \u00b7 1:00 PM ET"
+        },
+        "odds": {
+          "D'Andre Swift": -115
+        }
       }
     ],
+    "announced": {
+      "Goal Line Back": [
+        "Isaac TeSlaa"
+      ],
+      "Scoreboard Starter": [
+        "Jahmyr Gibbs"
+      ],
+      "The Workhorse": [
+        "D'Andre Swift"
+      ]
+    },
+    "abets": [
+      "ftd|first touchdown scorer|Jahmyr Gibbs",
+      "|anytime touchdown|D'Andre Swift",
+      "|anytime touchdown|Isaac TeSlaa"
+    ],
+    "slate": "2026-11-26",
+    "hits": [],
+    "ltd": null,
+    "last_modified": null,
+    "checked_at": "2026-11-26T18:31:22.070296+00:00"
+  },
+  "https://theticketroom.live/nba/": {
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Win the Tip": [
         "John Collins"
@@ -144,7 +106,7 @@
     "slate": "2026-11-24",
     "hits": [],
     "ltd": null,
-    "last_modified": "Tue, 24 Nov 2026 23:41:27 GMT",
-    "checked_at": "2026-11-24T23:42:16.968227+00:00"
+    "last_modified": null,
+    "checked_at": "2026-11-26T18:31:22.287941+00:00"
   }
 }
