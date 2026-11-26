@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-26T18:44:12.313471+00:00"
+    "checked_at": "2026-11-26T20:15:17.930996+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -19,10 +19,10 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-26T18:44:12.701235+00:00"
+    "checked_at": "2026-11-26T20:15:18.179110+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "348f4302d8bb0073b9b023898d1306d8d178edb6061253a21b86e4c6b20dd495",
+    "hash": "2c2c7a073d5e042ca277303484d71bac33ac8ad755a7ab5a05392c46ba9c1eaf",
     "confirmed": [
       {
         "name": "Goal Line Back",
@@ -53,6 +53,19 @@
         "kind": "ftd"
       },
       {
+        "name": "The Checkdown",
+        "legs": [
+          "Zach Ertz"
+        ],
+        "rr": false,
+        "info": {
+          "Zach Ertz": "Eagles vs Cowboys \u00b7 Thu Nov 26 \u00b7 4:30 PM ET"
+        },
+        "odds": {
+          "Zach Ertz": 1500
+        }
+      },
+      {
         "name": "The Workhorse",
         "legs": [
           "D'Andre Swift"
@@ -75,12 +88,16 @@
       ],
       "The Workhorse": [
         "D'Andre Swift"
+      ],
+      "The Checkdown": [
+        "Zach Ertz"
       ]
     },
     "abets": [
       "ftd|first touchdown scorer|Jahmyr Gibbs",
       "|anytime touchdown|D'Andre Swift",
-      "|anytime touchdown|Isaac TeSlaa"
+      "|anytime touchdown|Isaac TeSlaa",
+      "|anytime touchdown|Zach Ertz"
     ],
     "slate": "2026-11-26",
     "hits": [
@@ -88,7 +105,7 @@
     ],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-26T18:44:13.102951+00:00"
+    "checked_at": "2026-11-26T20:15:19.938798+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -109,6 +126,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-26T18:44:13.358098+00:00"
+    "checked_at": "2026-11-26T20:15:20.174835+00:00"
   }
 }

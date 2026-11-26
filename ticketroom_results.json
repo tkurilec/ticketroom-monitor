@@ -2408,6 +2408,20 @@
           "bkey": "|anytime touchdown|D'Andre Swift",
           "result": null,
           "pl": null
+        },
+        "The Checkdown": {
+          "legs": [
+            "Zach Ertz"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Zach Ertz": 1500
+          },
+          "bkey": "|anytime touchdown|Zach Ertz",
+          "result": null,
+          "pl": null
         }
       }
     },
