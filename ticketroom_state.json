@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T02:06:13.925672+00:00"
+    "checked_at": "2026-11-27T05:00:22.088923+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e1fa617c2f3988dd54e1a5c9024205359fa09318723441c186f4d5392d155509",
@@ -49,105 +49,11 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T02:06:14.692939+00:00"
+    "checked_at": "2026-11-27T05:00:23.092259+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "d83f35d33c8a3cbaea680037b5d81a57bcd306070d2edf556fb71c3a163241b2",
-    "confirmed": [
-      {
-        "name": "Bell Cow",
-        "legs": [
-          "James Cook"
-        ],
-        "rr": false,
-        "info": {
-          "James Cook": "Bills vs Chiefs \u00b7 Thu Nov 26 \u00b7 8:20 PM ET"
-        },
-        "odds": {
-          "James Cook": -105
-        }
-      },
-      {
-        "name": "Goal Line Back",
-        "legs": [
-          "Isaac TeSlaa"
-        ],
-        "rr": false,
-        "info": {
-          "Isaac TeSlaa": "Lions vs Bears \u00b7 Thu Nov 26 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "Isaac TeSlaa": 441
-        }
-      },
-      {
-        "name": "Red Zone Target",
-        "legs": [
-          "Keon Coleman"
-        ],
-        "rr": false,
-        "info": {
-          "Keon Coleman": "Bills vs Chiefs \u00b7 Thu Nov 26 \u00b7 8:20 PM ET"
-        },
-        "odds": {
-          "Keon Coleman": 445
-        }
-      },
-      {
-        "name": "Scoreboard Starter",
-        "legs": [
-          "Jahmyr Gibbs"
-        ],
-        "rr": false,
-        "info": {
-          "Jahmyr Gibbs": "Lions vs Bears \u00b7 Thu Nov 26 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "Jahmyr Gibbs": 360
-        },
-        "market": "first touchdown scorer",
-        "kind": "ftd"
-      },
-      {
-        "name": "Short Yardage",
-        "legs": [
-          "Xavier Worthy"
-        ],
-        "rr": false,
-        "info": {
-          "Xavier Worthy": "Chiefs vs Bills \u00b7 Thu Nov 26 \u00b7 8:20 PM ET"
-        },
-        "odds": {
-          "Xavier Worthy": 484
-        }
-      },
-      {
-        "name": "The Checkdown",
-        "legs": [
-          "Zach Ertz"
-        ],
-        "rr": false,
-        "info": {
-          "Zach Ertz": "Eagles vs Cowboys \u00b7 Thu Nov 26 \u00b7 4:30 PM ET"
-        },
-        "odds": {
-          "Zach Ertz": 1500
-        }
-      },
-      {
-        "name": "The Workhorse",
-        "legs": [
-          "D'Andre Swift"
-        ],
-        "rr": false,
-        "info": {
-          "D'Andre Swift": "Bears vs Lions \u00b7 Thu Nov 26 \u00b7 1:00 PM ET"
-        },
-        "odds": {
-          "D'Andre Swift": -115
-        }
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Goal Line Back": [
         "Isaac TeSlaa"
@@ -188,7 +94,7 @@
     ],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T02:06:15.377707+00:00"
+    "checked_at": "2026-11-27T05:00:23.261980+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -209,6 +115,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T02:06:15.543214+00:00"
+    "checked_at": "2026-11-27T05:00:23.419535+00:00"
   }
 }
