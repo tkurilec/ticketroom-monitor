@@ -2422,6 +2422,48 @@
           "bkey": "|anytime touchdown|Zach Ertz",
           "result": null,
           "pl": null
+        },
+        "Bell Cow": {
+          "legs": [
+            "James Cook"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "James Cook": -105
+          },
+          "bkey": "|anytime touchdown|James Cook",
+          "result": null,
+          "pl": null
+        },
+        "Red Zone Target": {
+          "legs": [
+            "Keon Coleman"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Keon Coleman": 445
+          },
+          "bkey": "|anytime touchdown|Keon Coleman",
+          "result": null,
+          "pl": null
+        },
+        "Short Yardage": {
+          "legs": [
+            "Xavier Worthy"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Xavier Worthy": 484
+          },
+          "bkey": "|anytime touchdown|Xavier Worthy",
+          "result": null,
+          "pl": null
         }
       }
     },

@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-26T20:27:14.658613+00:00"
+    "checked_at": "2026-11-27T00:05:15.153285+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -19,11 +19,24 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-26T20:27:14.930012+00:00"
+    "checked_at": "2026-11-27T00:05:15.350452+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "2c2c7a073d5e042ca277303484d71bac33ac8ad755a7ab5a05392c46ba9c1eaf",
+    "hash": "d83f35d33c8a3cbaea680037b5d81a57bcd306070d2edf556fb71c3a163241b2",
     "confirmed": [
+      {
+        "name": "Bell Cow",
+        "legs": [
+          "James Cook"
+        ],
+        "rr": false,
+        "info": {
+          "James Cook": "Bills vs Chiefs \u00b7 Thu Nov 26 \u00b7 8:20 PM ET"
+        },
+        "odds": {
+          "James Cook": -105
+        }
+      },
       {
         "name": "Goal Line Back",
         "legs": [
@@ -35,6 +48,19 @@
         },
         "odds": {
           "Isaac TeSlaa": 441
+        }
+      },
+      {
+        "name": "Red Zone Target",
+        "legs": [
+          "Keon Coleman"
+        ],
+        "rr": false,
+        "info": {
+          "Keon Coleman": "Bills vs Chiefs \u00b7 Thu Nov 26 \u00b7 8:20 PM ET"
+        },
+        "odds": {
+          "Keon Coleman": 445
         }
       },
       {
@@ -51,6 +77,19 @@
         },
         "market": "first touchdown scorer",
         "kind": "ftd"
+      },
+      {
+        "name": "Short Yardage",
+        "legs": [
+          "Xavier Worthy"
+        ],
+        "rr": false,
+        "info": {
+          "Xavier Worthy": "Chiefs vs Bills \u00b7 Thu Nov 26 \u00b7 8:20 PM ET"
+        },
+        "odds": {
+          "Xavier Worthy": 484
+        }
       },
       {
         "name": "The Checkdown",
@@ -91,12 +130,24 @@
       ],
       "The Checkdown": [
         "Zach Ertz"
+      ],
+      "Bell Cow": [
+        "James Cook"
+      ],
+      "Red Zone Target": [
+        "Keon Coleman"
+      ],
+      "Short Yardage": [
+        "Xavier Worthy"
       ]
     },
     "abets": [
       "ftd|first touchdown scorer|Jahmyr Gibbs",
       "|anytime touchdown|D'Andre Swift",
       "|anytime touchdown|Isaac TeSlaa",
+      "|anytime touchdown|James Cook",
+      "|anytime touchdown|Keon Coleman",
+      "|anytime touchdown|Xavier Worthy",
       "|anytime touchdown|Zach Ertz"
     ],
     "slate": "2026-11-26",
@@ -106,7 +157,7 @@
     ],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-26T20:27:15.509096+00:00"
+    "checked_at": "2026-11-27T00:05:17.086510+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -127,6 +178,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-26T20:27:15.693615+00:00"
+    "checked_at": "2026-11-27T00:05:17.239083+00:00"
   }
 }
