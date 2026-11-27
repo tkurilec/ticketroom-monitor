@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T01:29:13.808241+00:00"
+    "checked_at": "2026-11-27T02:06:13.925672+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e1fa617c2f3988dd54e1a5c9024205359fa09318723441c186f4d5392d155509",
@@ -49,7 +49,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T01:29:15.671643+00:00"
+    "checked_at": "2026-11-27T02:06:14.692939+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "d83f35d33c8a3cbaea680037b5d81a57bcd306070d2edf556fb71c3a163241b2",
@@ -183,11 +183,12 @@
     "slate": "2026-11-26",
     "hits": [
       "a:D'Andre Swift",
+      "a:James Cook",
       "ftd:Jahmyr Gibbs"
     ],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T01:29:15.974700+00:00"
+    "checked_at": "2026-11-27T02:06:15.377707+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -208,6 +209,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T01:29:16.190233+00:00"
+    "checked_at": "2026-11-27T02:06:15.543214+00:00"
   }
 }
