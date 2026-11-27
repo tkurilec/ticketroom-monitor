@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T05:27:15.937706+00:00"
+    "checked_at": "2026-11-27T11:08:15.287108+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e1fa617c2f3988dd54e1a5c9024205359fa09318723441c186f4d5392d155509",
@@ -49,7 +49,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T05:27:16.528070+00:00"
+    "checked_at": "2026-11-27T11:08:16.279666+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -60,27 +60,17 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T05:27:17.098495+00:00"
+    "checked_at": "2026-11-27T11:08:16.481325+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Win the Tip": [
-        "John Collins"
-      ],
-      "Brick and Mortar": [
-        "Isaiah Joe"
-      ]
-    },
-    "abets": [
-      "downtown|over 2.5 threes|Isaiah Joe",
-      "|first basket|John Collins"
-    ],
-    "slate": "2026-11-24",
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-27",
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T05:27:17.264768+00:00"
+    "checked_at": "2026-11-27T11:08:16.862433+00:00"
   }
 }
