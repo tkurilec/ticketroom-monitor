@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T19:16:11.567071+00:00"
+    "checked_at": "2026-11-27T20:01:12.205961+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "ab411fcd93c0a3c84184a9f74ea951372985cb7376f3ab99b94145c4b0550319",
@@ -80,10 +80,12 @@
       "|anytime goalscorer|Yassir Zabiri"
     ],
     "slate": "2026-11-27",
-    "hits": [],
+    "hits": [
+      "t:Venezia v Bologna: Venezia to score"
+    ],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T19:16:13.919410+00:00"
+    "checked_at": "2026-11-27T20:01:13.249945+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "841b86512518ce571e43d56326c652010b87bdce25401f89a8b7f5a2f411f1e5",
@@ -201,7 +203,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T19:16:14.572645+00:00"
+    "checked_at": "2026-11-27T20:01:13.568974+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -212,6 +214,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T19:16:15.082586+00:00"
+    "checked_at": "2026-11-27T20:01:13.851461+00:00"
   }
 }
