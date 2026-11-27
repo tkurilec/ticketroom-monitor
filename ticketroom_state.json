@@ -8,18 +8,48 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T00:05:15.153285+00:00"
+    "checked_at": "2026-11-27T01:29:13.808241+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
-    "slate": "2026-11-26",
+    "hash": "e1fa617c2f3988dd54e1a5c9024205359fa09318723441c186f4d5392d155509",
+    "confirmed": [
+      {
+        "name": "Scoreline Special",
+        "legs": [
+          "Real Salt Lake v Vancouver Whitecaps: Both teams to score",
+          "Venezia v Bologna: Venezia to score",
+          "Werder Bremen v Borussia M\u00f6nchengladbach: Werder Bremen under 2.5 goals"
+        ],
+        "rr": false,
+        "market": "",
+        "kind": "totals",
+        "info": {
+          "Venezia v Bologna: Venezia to score": "Fri Nov 27 \u00b7 2:45 PM ET",
+          "Werder Bremen v Borussia M\u00f6nchengladbach: Werder Bremen under 2.5 goals": "Fri Nov 27 \u00b7 2:30 PM ET",
+          "Real Salt Lake v Vancouver Whitecaps: Both teams to score": "Fri Nov 27 \u00b7 10:00 PM ET"
+        },
+        "odds": {
+          "Venezia v Bologna: Venezia to score": -255,
+          "Werder Bremen v Borussia M\u00f6nchengladbach: Werder Bremen under 2.5 goals": -230,
+          "Real Salt Lake v Vancouver Whitecaps: Both teams to score": -250
+        }
+      }
+    ],
+    "announced": {
+      "Scoreline Special": [
+        "Real Salt Lake v Vancouver Whitecaps: Both teams to score",
+        "Venezia v Bologna: Venezia to score",
+        "Werder Bremen v Borussia M\u00f6nchengladbach: Werder Bremen under 2.5 goals"
+      ]
+    },
+    "abets": [
+      "totals||Real Salt Lake v Vancouver Whitecaps: Both teams to score,Venezia v Bologna: Venezia to score,Werder Bremen v Borussia M\u00f6nchengladbach: Werder Bremen under 2.5 goals"
+    ],
+    "slate": "2026-11-27",
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T00:05:15.350452+00:00"
+    "checked_at": "2026-11-27T01:29:15.671643+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "d83f35d33c8a3cbaea680037b5d81a57bcd306070d2edf556fb71c3a163241b2",
@@ -157,7 +187,7 @@
     ],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T00:05:17.086510+00:00"
+    "checked_at": "2026-11-27T01:29:15.974700+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -178,6 +208,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T00:05:17.239083+00:00"
+    "checked_at": "2026-11-27T01:29:16.190233+00:00"
   }
 }
