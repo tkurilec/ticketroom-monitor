@@ -2424,7 +2424,92 @@
           "legs_hit": 0
         }
       },
-      "2026-11-27": {}
+      "2026-11-27": {
+        "Bell Cow": {
+          "legs": [
+            "Nate Adkins"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Nate Adkins": 1100
+          },
+          "bkey": "|anytime touchdown|Nate Adkins",
+          "result": null,
+          "pl": null
+        },
+        "First Dance": {
+          "legs": [
+            "Jonah Coleman"
+          ],
+          "kind": "ftd",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Jonah Coleman": 333
+          },
+          "bkey": "ftd|first touchdown scorer|Jonah Coleman",
+          "result": null,
+          "pl": null
+        },
+        "Goal Line Back": {
+          "legs": [
+            "Troy Franklin"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Troy Franklin": 1149
+          },
+          "bkey": "|anytime touchdown|Troy Franklin",
+          "result": null,
+          "pl": null
+        },
+        "Red Zone Target": {
+          "legs": [
+            "Adam Trautman"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Adam Trautman": 1567
+          },
+          "bkey": "|anytime touchdown|Adam Trautman",
+          "result": null,
+          "pl": null
+        },
+        "Short Yardage": {
+          "legs": [
+            "Dallen Bentley"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Dallen Bentley": 2400
+          },
+          "bkey": "|anytime touchdown|Dallen Bentley",
+          "result": null,
+          "pl": null
+        },
+        "The Workhorse": {
+          "legs": [
+            "Courtland Sutton"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Courtland Sutton": 390
+          },
+          "bkey": "|anytime touchdown|Courtland Sutton",
+          "result": null,
+          "pl": null
+        }
+      }
     },
     "NBA Board": {
       "2026-11-12": {

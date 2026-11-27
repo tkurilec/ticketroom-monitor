@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T18:44:24.343620+00:00"
+    "checked_at": "2026-11-27T18:45:26.997145+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "53dfa4a1c03d9fe1852731357655757eb397821d59cf2214776e9b561c8fffbd",
@@ -66,18 +66,125 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T18:44:26.974483+00:00"
+    "checked_at": "2026-11-27T18:45:28.033575+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
-    "announced": {},
-    "abets": [],
+    "hash": "841b86512518ce571e43d56326c652010b87bdce25401f89a8b7f5a2f411f1e5",
+    "confirmed": [
+      {
+        "name": "Bell Cow",
+        "legs": [
+          "Nate Adkins"
+        ],
+        "rr": false,
+        "info": {
+          "Nate Adkins": "Broncos vs Steelers \u00b7 Fri Nov 27 \u00b7 3:00 PM ET"
+        },
+        "odds": {
+          "Nate Adkins": 1100
+        }
+      },
+      {
+        "name": "First Dance",
+        "legs": [
+          "Jonah Coleman"
+        ],
+        "rr": false,
+        "info": {
+          "Jonah Coleman": "Broncos vs Steelers \u00b7 Fri Nov 27 \u00b7 3:00 PM ET"
+        },
+        "odds": {
+          "Jonah Coleman": 333
+        },
+        "market": "first touchdown scorer",
+        "kind": "ftd"
+      },
+      {
+        "name": "Goal Line Back",
+        "legs": [
+          "Troy Franklin"
+        ],
+        "rr": false,
+        "info": {
+          "Troy Franklin": "Broncos vs Steelers \u00b7 Fri Nov 27 \u00b7 3:00 PM ET"
+        },
+        "odds": {
+          "Troy Franklin": 1149
+        }
+      },
+      {
+        "name": "Red Zone Target",
+        "legs": [
+          "Adam Trautman"
+        ],
+        "rr": false,
+        "info": {
+          "Adam Trautman": "Broncos vs Steelers \u00b7 Fri Nov 27 \u00b7 3:00 PM ET"
+        },
+        "odds": {
+          "Adam Trautman": 1567
+        }
+      },
+      {
+        "name": "Short Yardage",
+        "legs": [
+          "Dallen Bentley"
+        ],
+        "rr": false,
+        "info": {
+          "Dallen Bentley": "Broncos vs Steelers \u00b7 Fri Nov 27 \u00b7 3:00 PM ET"
+        },
+        "odds": {
+          "Dallen Bentley": 2400
+        }
+      },
+      {
+        "name": "The Workhorse",
+        "legs": [
+          "Courtland Sutton"
+        ],
+        "rr": false,
+        "info": {
+          "Courtland Sutton": "Broncos vs Steelers \u00b7 Fri Nov 27 \u00b7 3:00 PM ET"
+        },
+        "odds": {
+          "Courtland Sutton": 390
+        }
+      }
+    ],
+    "announced": {
+      "Bell Cow": [
+        "Nate Adkins"
+      ],
+      "First Dance": [
+        "Jonah Coleman"
+      ],
+      "Goal Line Back": [
+        "Troy Franklin"
+      ],
+      "Red Zone Target": [
+        "Adam Trautman"
+      ],
+      "Short Yardage": [
+        "Dallen Bentley"
+      ],
+      "The Workhorse": [
+        "Courtland Sutton"
+      ]
+    },
+    "abets": [
+      "ftd|first touchdown scorer|Jonah Coleman",
+      "|anytime touchdown|Adam Trautman",
+      "|anytime touchdown|Courtland Sutton",
+      "|anytime touchdown|Dallen Bentley",
+      "|anytime touchdown|Nate Adkins",
+      "|anytime touchdown|Troy Franklin"
+    ],
     "slate": "2026-11-27",
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T18:44:27.146601+00:00"
+    "checked_at": "2026-11-27T18:45:29.419627+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -88,6 +195,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T18:44:27.526233+00:00"
+    "checked_at": "2026-11-27T18:45:29.656780+00:00"
   }
 }
