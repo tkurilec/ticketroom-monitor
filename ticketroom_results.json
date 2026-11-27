@@ -2315,8 +2315,9 @@
             "Isaac TeSlaa": 441
           },
           "bkey": "|anytime touchdown|Isaac TeSlaa",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Scoreboard Starter": {
           "legs": [
@@ -2329,8 +2330,9 @@
             "Jahmyr Gibbs": 360
           },
           "bkey": "ftd|first touchdown scorer|Jahmyr Gibbs",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 3.5999999999999996,
+          "legs_hit": 1
         },
         "The Workhorse": {
           "legs": [
@@ -2343,8 +2345,9 @@
             "D'Andre Swift": -115
           },
           "bkey": "|anytime touchdown|D'Andre Swift",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.8695652173913042,
+          "legs_hit": 1
         },
         "The Checkdown": {
           "legs": [
@@ -2357,8 +2360,9 @@
             "Zach Ertz": 1500
           },
           "bkey": "|anytime touchdown|Zach Ertz",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Bell Cow": {
           "legs": [
@@ -2371,8 +2375,9 @@
             "James Cook": -105
           },
           "bkey": "|anytime touchdown|James Cook",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.9523809523809523,
+          "legs_hit": 1
         },
         "Red Zone Target": {
           "legs": [
@@ -2385,8 +2390,9 @@
             "Keon Coleman": 445
           },
           "bkey": "|anytime touchdown|Keon Coleman",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Short Yardage": {
           "legs": [
@@ -2399,10 +2405,12 @@
             "Xavier Worthy": 484
           },
           "bkey": "|anytime touchdown|Xavier Worthy",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         }
-      }
+      },
+      "2026-11-27": {}
     },
     "NBA Board": {
       "2026-11-11": {

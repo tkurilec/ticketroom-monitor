@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T05:00:22.088923+00:00"
+    "checked_at": "2026-11-27T05:27:15.937706+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "e1fa617c2f3988dd54e1a5c9024205359fa09318723441c186f4d5392d155509",
@@ -49,52 +49,18 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T05:00:23.092259+00:00"
+    "checked_at": "2026-11-27T05:27:16.528070+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Goal Line Back": [
-        "Isaac TeSlaa"
-      ],
-      "Scoreboard Starter": [
-        "Jahmyr Gibbs"
-      ],
-      "The Workhorse": [
-        "D'Andre Swift"
-      ],
-      "The Checkdown": [
-        "Zach Ertz"
-      ],
-      "Bell Cow": [
-        "James Cook"
-      ],
-      "Red Zone Target": [
-        "Keon Coleman"
-      ],
-      "Short Yardage": [
-        "Xavier Worthy"
-      ]
-    },
-    "abets": [
-      "ftd|first touchdown scorer|Jahmyr Gibbs",
-      "|anytime touchdown|D'Andre Swift",
-      "|anytime touchdown|Isaac TeSlaa",
-      "|anytime touchdown|James Cook",
-      "|anytime touchdown|Keon Coleman",
-      "|anytime touchdown|Xavier Worthy",
-      "|anytime touchdown|Zach Ertz"
-    ],
-    "slate": "2026-11-26",
-    "hits": [
-      "a:D'Andre Swift",
-      "a:James Cook",
-      "ftd:Jahmyr Gibbs"
-    ],
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-27",
+    "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T05:00:23.261980+00:00"
+    "checked_at": "2026-11-27T05:27:17.098495+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -115,6 +81,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-27T05:00:23.419535+00:00"
+    "checked_at": "2026-11-27T05:27:17.264768+00:00"
   }
 }
