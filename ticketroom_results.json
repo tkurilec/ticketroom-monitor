@@ -661,6 +661,20 @@
           "bkey": "|anytime goalscorer|Niclas Fullkrug",
           "result": null,
           "pl": null
+        },
+        "The Poacher": {
+          "legs": [
+            "Yassir Zabiri"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Yassir Zabiri": 105
+          },
+          "bkey": "|anytime goalscorer|Yassir Zabiri",
+          "result": null,
+          "pl": null
         }
       }
     },
