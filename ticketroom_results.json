@@ -647,6 +647,20 @@
           "bkey": "totals||Real Salt Lake v Vancouver Whitecaps: Both teams to score,Venezia v Bologna: Venezia to score,Werder Bremen v Borussia Mönchengladbach: Werder Bremen under 2.5 goals",
           "result": null,
           "pl": null
+        },
+        "Six-Yard Box": {
+          "legs": [
+            "Niclas Fullkrug"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Niclas Fullkrug": -126
+          },
+          "bkey": "|anytime goalscorer|Niclas Fullkrug",
+          "result": null,
+          "pl": null
         }
       }
     },
