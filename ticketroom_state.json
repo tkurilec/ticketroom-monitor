@@ -8,86 +8,11 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T04:32:21.407975+00:00"
+    "checked_at": "2026-11-28T05:00:23.383946+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "d5a9913e0b8571583429daf442948a7c5278dfbd2ef06362cfd4782cd018907e",
-    "confirmed": [
-      {
-        "name": "Nailed On",
-        "legs": [
-          "Lionel Messi"
-        ],
-        "rr": false,
-        "info": {
-          "Lionel Messi": "Inter Miami CF vs Columbus Crew \u00b7 Fri Nov 27 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Lionel Messi": -112
-        },
-        "units": 2
-      },
-      {
-        "name": "Scoreline Special",
-        "legs": [
-          "Real Salt Lake v Vancouver Whitecaps: Both teams to score",
-          "Venezia v Bologna: Venezia to score",
-          "Werder Bremen v Borussia M\u00f6nchengladbach: Werder Bremen under 2.5 goals"
-        ],
-        "rr": false,
-        "market": "",
-        "kind": "totals",
-        "info": {
-          "Venezia v Bologna: Venezia to score": "Fri Nov 27 \u00b7 2:45 PM ET",
-          "Werder Bremen v Borussia M\u00f6nchengladbach: Werder Bremen under 2.5 goals": "Fri Nov 27 \u00b7 2:30 PM ET",
-          "Real Salt Lake v Vancouver Whitecaps: Both teams to score": "Fri Nov 27 \u00b7 10:00 PM ET"
-        },
-        "odds": {
-          "Venezia v Bologna: Venezia to score": -255,
-          "Werder Bremen v Borussia M\u00f6nchengladbach: Werder Bremen under 2.5 goals": -230,
-          "Real Salt Lake v Vancouver Whitecaps: Both teams to score": -250
-        }
-      },
-      {
-        "name": "Six-Yard Box",
-        "legs": [
-          "Niclas Fullkrug"
-        ],
-        "rr": false,
-        "info": {
-          "Niclas Fullkrug": "Werder Bremen vs Borussia M\u00f6nchengladbach \u00b7 Fri Nov 27 \u00b7 2:30 PM ET"
-        },
-        "odds": {
-          "Niclas Fullkrug": -126
-        }
-      },
-      {
-        "name": "Target Man",
-        "legs": [
-          "Lionel Messi"
-        ],
-        "rr": false,
-        "info": {
-          "Lionel Messi": "Inter Miami CF vs Columbus Crew \u00b7 Fri Nov 27 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Lionel Messi": -112
-        }
-      },
-      {
-        "name": "The Poacher",
-        "legs": [
-          "Yassir Zabiri"
-        ],
-        "rr": false,
-        "info": {
-          "Yassir Zabiri": "Racing Santander vs Levante \u00b7 Fri Nov 27 \u00b7 3:00 PM ET"
-        },
-        "odds": {
-          "Yassir Zabiri": 105
-        }
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Scoreline Special": [
         "Real Salt Lake v Vancouver Whitecaps: Both teams to score",
@@ -121,92 +46,11 @@
     ],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T04:32:23.539088+00:00"
+    "checked_at": "2026-11-28T05:00:23.611144+00:00"
   },
   "https://theticketroom.live/nfl/": {
-    "hash": "841b86512518ce571e43d56326c652010b87bdce25401f89a8b7f5a2f411f1e5",
-    "confirmed": [
-      {
-        "name": "Bell Cow",
-        "legs": [
-          "Nate Adkins"
-        ],
-        "rr": false,
-        "info": {
-          "Nate Adkins": "Broncos vs Steelers \u00b7 Fri Nov 27 \u00b7 3:00 PM ET"
-        },
-        "odds": {
-          "Nate Adkins": 1100
-        }
-      },
-      {
-        "name": "First Dance",
-        "legs": [
-          "Jonah Coleman"
-        ],
-        "rr": false,
-        "info": {
-          "Jonah Coleman": "Broncos vs Steelers \u00b7 Fri Nov 27 \u00b7 3:00 PM ET"
-        },
-        "odds": {
-          "Jonah Coleman": 333
-        },
-        "market": "first touchdown scorer",
-        "kind": "ftd"
-      },
-      {
-        "name": "Goal Line Back",
-        "legs": [
-          "Troy Franklin"
-        ],
-        "rr": false,
-        "info": {
-          "Troy Franklin": "Broncos vs Steelers \u00b7 Fri Nov 27 \u00b7 3:00 PM ET"
-        },
-        "odds": {
-          "Troy Franklin": 1149
-        }
-      },
-      {
-        "name": "Red Zone Target",
-        "legs": [
-          "Adam Trautman"
-        ],
-        "rr": false,
-        "info": {
-          "Adam Trautman": "Broncos vs Steelers \u00b7 Fri Nov 27 \u00b7 3:00 PM ET"
-        },
-        "odds": {
-          "Adam Trautman": 1567
-        }
-      },
-      {
-        "name": "Short Yardage",
-        "legs": [
-          "Dallen Bentley"
-        ],
-        "rr": false,
-        "info": {
-          "Dallen Bentley": "Broncos vs Steelers \u00b7 Fri Nov 27 \u00b7 3:00 PM ET"
-        },
-        "odds": {
-          "Dallen Bentley": 2400
-        }
-      },
-      {
-        "name": "The Workhorse",
-        "legs": [
-          "Courtland Sutton"
-        ],
-        "rr": false,
-        "info": {
-          "Courtland Sutton": "Broncos vs Steelers \u00b7 Fri Nov 27 \u00b7 3:00 PM ET"
-        },
-        "odds": {
-          "Courtland Sutton": 390
-        }
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Bell Cow": [
         "Nate Adkins"
@@ -239,192 +83,11 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T04:32:24.077925+00:00"
+    "checked_at": "2026-11-28T05:00:23.785033+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "ce38026446f4f44e5001bb8108637cba1198a8dc7271ef8ccaea83eda5a5f683",
-    "confirmed": [
-      {
-        "name": "Break the Seal",
-        "legs": [
-          "Day'Ron Sharpe"
-        ],
-        "rr": false,
-        "info": {
-          "Day'Ron Sharpe": "Nets vs Raptors \u00b7 Fri Nov 27 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "Day'Ron Sharpe": 1200
-        },
-        "units": 0.2,
-        "group": "3"
-      },
-      {
-        "name": "Builder Grade",
-        "legs": [
-          "Bobby Portis Jr."
-        ],
-        "rr": false,
-        "market": "over 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Bobby Portis Jr.": "Heat vs Knicks \u00b7 Fri Nov 27 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Bobby Portis Jr.": 200
-        }
-      },
-      {
-        "name": "Cinder Block",
-        "legs": [
-          "Egor Demin"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Egor Demin": "Nets vs Raptors \u00b7 Fri Nov 27 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "Egor Demin": 124
-        }
-      },
-      {
-        "name": "First Points",
-        "legs": [
-          "Jakob Poeltl"
-        ],
-        "rr": false,
-        "info": {
-          "Jakob Poeltl": "Raptors vs Nets \u00b7 Fri Nov 27 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "Jakob Poeltl": 750
-        },
-        "units": 0.4,
-        "group": "3"
-      },
-      {
-        "name": "Front Rim",
-        "legs": [
-          "Cooper Flagg"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Cooper Flagg": "Mavericks vs Suns \u00b7 Fri Nov 27 \u00b7 9:00 PM ET"
-        },
-        "odds": {
-          "Cooper Flagg": 102
-        }
-      },
-      {
-        "name": "Load-Bearing Wall",
-        "legs": [
-          "Luguentz Dort"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Luguentz Dort": "Hawks vs Celtics \u00b7 Fri Nov 27 \u00b7 8:00 PM ET"
-        },
-        "odds": {
-          "Luguentz Dort": 124
-        }
-      },
-      {
-        "name": "Mortar Mix",
-        "legs": [
-          "Kyrie Irving"
-        ],
-        "rr": false,
-        "market": "under 2.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Kyrie Irving": "Mavericks vs Suns \u00b7 Fri Nov 27 \u00b7 9:00 PM ET"
-        },
-        "odds": {
-          "Kyrie Irving": 140
-        }
-      },
-      {
-        "name": "Open Floor",
-        "legs": [
-          "Matisse Thybulle"
-        ],
-        "rr": false,
-        "info": {
-          "Matisse Thybulle": "Lakers vs Spurs \u00b7 Fri Nov 27 \u00b7 9:30 PM ET"
-        },
-        "odds": {
-          "Matisse Thybulle": 2200
-        },
-        "units": 0.6,
-        "group": "9"
-      },
-      {
-        "name": "Red Clay",
-        "legs": [
-          "LaMelo Ball"
-        ],
-        "rr": false,
-        "market": "under 3.5 threes",
-        "kind": "downtown",
-        "info": {
-          "LaMelo Ball": "Timberwolves vs Grizzlies \u00b7 Fri Nov 27 \u00b7 8:30 PM ET"
-        },
-        "odds": {
-          "LaMelo Ball": -160
-        }
-      },
-      {
-        "name": "The Opener",
-        "legs": [
-          "Myles Turner"
-        ],
-        "rr": false,
-        "info": {
-          "Myles Turner": "Bucks vs Pistons \u00b7 Fri Nov 27 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "Myles Turner": 1000
-        },
-        "units": 0.3,
-        "group": "2"
-      },
-      {
-        "name": "Tip Drill",
-        "legs": [
-          "Kyle Kuzma"
-        ],
-        "rr": false,
-        "info": {
-          "Kyle Kuzma": "Bucks vs Pistons \u00b7 Fri Nov 27 \u00b7 7:30 PM ET"
-        },
-        "odds": {
-          "Kyle Kuzma": 1200
-        },
-        "units": 0.3,
-        "group": "2"
-      },
-      {
-        "name": "Under Construction",
-        "legs": [
-          "Mikal Bridges"
-        ],
-        "rr": false,
-        "market": "under 1.5 threes",
-        "kind": "downtown",
-        "info": {
-          "Mikal Bridges": "Knicks vs Heat \u00b7 Fri Nov 27 \u00b7 7:00 PM ET"
-        },
-        "odds": {
-          "Mikal Bridges": -104
-        }
-      }
-    ],
+    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
+    "confirmed": [],
     "announced": {
       "Builder Grade": [
         "Bobby Portis Jr."
@@ -484,6 +147,6 @@
     ],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T04:32:26.763152+00:00"
+    "checked_at": "2026-11-28T05:00:25.622283+00:00"
   }
 }
