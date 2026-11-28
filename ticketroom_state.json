@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T05:44:15.616315+00:00"
+    "checked_at": "2026-11-28T11:06:20.585584+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "4a000639830aee1dc47c7a8b5fbea883f44e1ecf8651c4aa96458649b9064f67",
@@ -53,7 +53,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T05:44:17.727613+00:00"
+    "checked_at": "2026-11-28T11:06:21.287098+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -90,70 +90,17 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T05:44:18.286147+00:00"
+    "checked_at": "2026-11-28T11:06:21.453212+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Builder Grade": [
-        "Bobby Portis Jr."
-      ],
-      "Under Construction": [
-        "Mikal Bridges"
-      ],
-      "Break the Seal": [
-        "Day'Ron Sharpe"
-      ],
-      "First Points": [
-        "Jakob Poeltl"
-      ],
-      "The Opener": [
-        "Myles Turner"
-      ],
-      "Tip Drill": [
-        "Kyle Kuzma"
-      ],
-      "Cinder Block": [
-        "Egor Demin"
-      ],
-      "Load-Bearing Wall": [
-        "Luguentz Dort"
-      ],
-      "Red Clay": [
-        "LaMelo Ball"
-      ],
-      "Front Rim": [
-        "Cooper Flagg"
-      ],
-      "Mortar Mix": [
-        "Kyrie Irving"
-      ],
-      "Open Floor": [
-        "Matisse Thybulle"
-      ]
-    },
-    "abets": [
-      "downtown|over 1.5 threes|Bobby Portis Jr.",
-      "downtown|under 1.5 threes|Cooper Flagg",
-      "downtown|under 1.5 threes|Egor Demin",
-      "downtown|under 1.5 threes|Luguentz Dort",
-      "downtown|under 1.5 threes|Mikal Bridges",
-      "downtown|under 2.5 threes|Kyrie Irving",
-      "downtown|under 3.5 threes|LaMelo Ball",
-      "|first basket|Day'Ron Sharpe",
-      "|first basket|Jakob Poeltl",
-      "|first basket|Kyle Kuzma",
-      "|first basket|Matisse Thybulle",
-      "|first basket|Myles Turner"
-    ],
-    "slate": "2026-11-27",
-    "hits": [
-      "dt:Cooper Flagg",
-      "dt:Egor Demin"
-    ],
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-28",
+    "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T05:44:18.921861+00:00"
+    "checked_at": "2026-11-28T11:06:21.769343+00:00"
   }
 }

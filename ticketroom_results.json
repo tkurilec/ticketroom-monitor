@@ -2534,83 +2534,6 @@
       }
     },
     "NBA Board": {
-      "2026-11-12": {
-        "Early Offense": {
-          "legs": [
-            "John Collins"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.2,
-          "odds": {
-            "John Collins": 750
-          },
-          "bkey": "|first basket|John Collins",
-          "result": "lost",
-          "pl": -0.2,
-          "legs_hit": 0
-        },
-        "Off the Tip": {
-          "legs": [
-            "Anthony Davis"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.4,
-          "odds": {
-            "Anthony Davis": 500
-          },
-          "bkey": "|first basket|Anthony Davis",
-          "result": "lost",
-          "pl": -0.4,
-          "legs_hit": 0
-        },
-        "Top of the Key": {
-          "legs": [
-            "Collin Murray-Boyles"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.6,
-          "odds": {
-            "Collin Murray-Boyles": 1400
-          },
-          "bkey": "|first basket|Collin Murray-Boyles",
-          "result": "lost",
-          "pl": -0.6,
-          "legs_hit": 0
-        },
-        "Ice Breaker": {
-          "legs": [
-            "Kyrie Irving"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.6,
-          "odds": {
-            "Kyrie Irving": 1100
-          },
-          "bkey": "|first basket|Kyrie Irving",
-          "result": "lost",
-          "pl": -0.6,
-          "legs_hit": 0
-        },
-        "Lead the Break": {
-          "legs": [
-            "Oso Ighodaro"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 0.6,
-          "odds": {
-            "Oso Ighodaro": 950
-          },
-          "bkey": "|first basket|Oso Ighodaro",
-          "result": "lost",
-          "pl": -0.6,
-          "legs_hit": 0
-        }
-      },
       "2026-11-13": {
         "Early Offense": {
           "legs": [
@@ -4388,8 +4311,9 @@
             "Bobby Portis Jr.": 200
           },
           "bkey": "downtown|over 1.5 threes|Bobby Portis Jr.",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Under Construction": {
           "legs": [
@@ -4402,8 +4326,9 @@
             "Mikal Bridges": -104
           },
           "bkey": "downtown|under 1.5 threes|Mikal Bridges",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Break the Seal": {
           "legs": [
@@ -4416,8 +4341,9 @@
             "Day'Ron Sharpe": 1200
           },
           "bkey": "|first basket|Day'Ron Sharpe",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.2,
+          "legs_hit": 0
         },
         "First Points": {
           "legs": [
@@ -4430,8 +4356,9 @@
             "Jakob Poeltl": 750
           },
           "bkey": "|first basket|Jakob Poeltl",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.4,
+          "legs_hit": 0
         },
         "The Opener": {
           "legs": [
@@ -4444,8 +4371,9 @@
             "Myles Turner": 1000
           },
           "bkey": "|first basket|Myles Turner",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "Tip Drill": {
           "legs": [
@@ -4458,8 +4386,9 @@
             "Kyle Kuzma": 1200
           },
           "bkey": "|first basket|Kyle Kuzma",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.3,
+          "legs_hit": 0
         },
         "Cinder Block": {
           "legs": [
@@ -4472,8 +4401,9 @@
             "Egor Demin": 124
           },
           "bkey": "downtown|under 1.5 threes|Egor Demin",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.2400000000000002,
+          "legs_hit": 1
         },
         "Load-Bearing Wall": {
           "legs": [
@@ -4486,8 +4416,9 @@
             "Luguentz Dort": 124
           },
           "bkey": "downtown|under 1.5 threes|Luguentz Dort",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Red Clay": {
           "legs": [
@@ -4500,8 +4431,9 @@
             "LaMelo Ball": -160
           },
           "bkey": "downtown|under 3.5 threes|LaMelo Ball",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Front Rim": {
           "legs": [
@@ -4514,8 +4446,9 @@
             "Cooper Flagg": 102
           },
           "bkey": "downtown|under 1.5 threes|Cooper Flagg",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.02,
+          "legs_hit": 1
         },
         "Mortar Mix": {
           "legs": [
@@ -4528,8 +4461,9 @@
             "Kyrie Irving": 140
           },
           "bkey": "downtown|under 2.5 threes|Kyrie Irving",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Open Floor": {
           "legs": [
@@ -4542,10 +4476,12 @@
             "Matisse Thybulle": 2200
           },
           "bkey": "|first basket|Matisse Thybulle",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -0.6,
+          "legs_hit": 0
         }
-      }
+      },
+      "2026-11-28": {}
     }
   },
   "recap_sent": "2026-11-27",
