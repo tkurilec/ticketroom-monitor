@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T03:04:18.031409+00:00"
+    "checked_at": "2026-11-28T04:32:21.407975+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "d5a9913e0b8571583429daf442948a7c5278dfbd2ef06362cfd4782cd018907e",
@@ -121,7 +121,7 @@
     ],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T03:04:19.605412+00:00"
+    "checked_at": "2026-11-28T04:32:23.539088+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "841b86512518ce571e43d56326c652010b87bdce25401f89a8b7f5a2f411f1e5",
@@ -239,7 +239,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T03:04:20.059824+00:00"
+    "checked_at": "2026-11-28T04:32:24.077925+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "ce38026446f4f44e5001bb8108637cba1198a8dc7271ef8ccaea83eda5a5f683",
@@ -479,10 +479,11 @@
     ],
     "slate": "2026-11-27",
     "hits": [
+      "dt:Cooper Flagg",
       "dt:Egor Demin"
     ],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T03:04:24.080601+00:00"
+    "checked_at": "2026-11-28T04:32:26.763152+00:00"
   }
 }
