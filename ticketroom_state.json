@@ -8,45 +8,52 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T05:00:23.383946+00:00"
+    "checked_at": "2026-11-28T05:44:15.616315+00:00"
   },
   "https://theticketroom.live/soccer/": {
-    "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
-    "confirmed": [],
+    "hash": "4a000639830aee1dc47c7a8b5fbea883f44e1ecf8651c4aa96458649b9064f67",
+    "confirmed": [
+      {
+        "name": "Ninety Minutes",
+        "legs": [
+          "FC Cincinnati v Nashville SC: Both teams to score",
+          "Leeds United v Coventry City: Leeds United under 2.5 goals",
+          "Portland Timbers v FC Dallas: Both teams to score",
+          "Real Betis v Rayo Vallecano: Rayo Vallecano to score"
+        ],
+        "rr": false,
+        "market": "",
+        "kind": "totals",
+        "info": {
+          "Portland Timbers v FC Dallas: Both teams to score": "Sat Nov 28 \u00b7 10:30 PM ET",
+          "FC Cincinnati v Nashville SC: Both teams to score": "Sat Nov 28 \u00b7 6:30 PM ET",
+          "Real Betis v Rayo Vallecano: Rayo Vallecano to score": "Sat Nov 28 \u00b7 8:00 AM ET",
+          "Leeds United v Coventry City: Leeds United under 2.5 goals": "Sat Nov 28 \u00b7 10:00 AM ET"
+        },
+        "odds": {
+          "Portland Timbers v FC Dallas: Both teams to score": -214,
+          "FC Cincinnati v Nashville SC: Both teams to score": -204,
+          "Real Betis v Rayo Vallecano: Rayo Vallecano to score": -250,
+          "Leeds United v Coventry City: Leeds United under 2.5 goals": -218
+        }
+      }
+    ],
     "announced": {
-      "Scoreline Special": [
-        "Real Salt Lake v Vancouver Whitecaps: Both teams to score",
-        "Venezia v Bologna: Venezia to score",
-        "Werder Bremen v Borussia M\u00f6nchengladbach: Werder Bremen under 2.5 goals"
-      ],
-      "Six-Yard Box": [
-        "Niclas Fullkrug"
-      ],
-      "The Poacher": [
-        "Yassir Zabiri"
-      ],
-      "Nailed On": [
-        "Lionel Messi"
-      ],
-      "Target Man": [
-        "Lionel Messi"
+      "Ninety Minutes": [
+        "FC Cincinnati v Nashville SC: Both teams to score",
+        "Leeds United v Coventry City: Leeds United under 2.5 goals",
+        "Portland Timbers v FC Dallas: Both teams to score",
+        "Real Betis v Rayo Vallecano: Rayo Vallecano to score"
       ]
     },
     "abets": [
-      "totals||Real Salt Lake v Vancouver Whitecaps: Both teams to score,Venezia v Bologna: Venezia to score,Werder Bremen v Borussia M\u00f6nchengladbach: Werder Bremen under 2.5 goals",
-      "|anytime goalscorer|Lionel Messi",
-      "|anytime goalscorer|Niclas Fullkrug",
-      "|anytime goalscorer|Yassir Zabiri"
+      "totals||FC Cincinnati v Nashville SC: Both teams to score,Leeds United v Coventry City: Leeds United under 2.5 goals,Portland Timbers v FC Dallas: Both teams to score,Real Betis v Rayo Vallecano: Rayo Vallecano to score"
     ],
-    "slate": "2026-11-27",
-    "hits": [
-      "a:Niclas Fullkrug",
-      "a:Yassir Zabiri",
-      "t:Venezia v Bologna: Venezia to score"
-    ],
+    "slate": "2026-11-28",
+    "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T05:00:23.611144+00:00"
+    "checked_at": "2026-11-28T05:44:17.727613+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -83,7 +90,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T05:00:23.785033+00:00"
+    "checked_at": "2026-11-28T05:44:18.286147+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -147,6 +154,6 @@
     ],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T05:00:25.622283+00:00"
+    "checked_at": "2026-11-28T05:44:18.921861+00:00"
   }
 }

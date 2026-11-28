@@ -1,38 +1,6 @@
 {
   "boards": {
     "Soccer Board": {
-      "2026-11-12": {
-        "Nailed On": {
-          "legs": [
-            "Harry Kane"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": 2,
-          "odds": {
-            "Harry Kane": -185
-          },
-          "bkey": "|anytime goalscorer|Harry Kane",
-          "result": "won",
-          "pl": 1.0810810810810811,
-          "legs_hit": 1
-        },
-        "The Poacher": {
-          "legs": [
-            "Ferran Torres"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Ferran Torres": -115
-          },
-          "bkey": "|anytime goalscorer|Ferran Torres",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        }
-      },
       "2026-11-13": {
         "Both Barrels": {
           "legs": [
@@ -645,8 +613,9 @@
             "Real Salt Lake v Vancouver Whitecaps: Both teams to score": -250
           },
           "bkey": "totals||Real Salt Lake v Vancouver Whitecaps: Both teams to score,Venezia v Bologna: Venezia to score,Werder Bremen v Borussia Mönchengladbach: Werder Bremen under 2.5 goals",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 1
         },
         "Six-Yard Box": {
           "legs": [
@@ -659,8 +628,9 @@
             "Niclas Fullkrug": -126
           },
           "bkey": "|anytime goalscorer|Niclas Fullkrug",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 0.7936507936507935,
+          "legs_hit": 1
         },
         "The Poacher": {
           "legs": [
@@ -673,8 +643,9 @@
             "Yassir Zabiri": 105
           },
           "bkey": "|anytime goalscorer|Yassir Zabiri",
-          "result": null,
-          "pl": null
+          "result": "won",
+          "pl": 1.0499999999999998,
+          "legs_hit": 1
         },
         "Nailed On": {
           "legs": [
@@ -687,6 +658,29 @@
             "Lionel Messi": -112
           },
           "bkey": "|anytime goalscorer|Lionel Messi",
+          "result": "lost",
+          "pl": -2,
+          "legs_hit": 0
+        }
+      },
+      "2026-11-28": {
+        "Ninety Minutes": {
+          "legs": [
+            "FC Cincinnati v Nashville SC: Both teams to score",
+            "Leeds United v Coventry City: Leeds United under 2.5 goals",
+            "Portland Timbers v FC Dallas: Both teams to score",
+            "Real Betis v Rayo Vallecano: Rayo Vallecano to score"
+          ],
+          "kind": "totals",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Portland Timbers v FC Dallas: Both teams to score": -214,
+            "FC Cincinnati v Nashville SC: Both teams to score": -204,
+            "Real Betis v Rayo Vallecano: Rayo Vallecano to score": -250,
+            "Leeds United v Coventry City: Leeds United under 2.5 goals": -218
+          },
+          "bkey": "totals||FC Cincinnati v Nashville SC: Both teams to score,Leeds United v Coventry City: Leeds United under 2.5 goals,Portland Timbers v FC Dallas: Both teams to score,Real Betis v Rayo Vallecano: Rayo Vallecano to score",
           "result": null,
           "pl": null
         }
