@@ -4508,6 +4508,34 @@
           "bkey": "downtown|under 3.5 threes|LaMelo Ball",
           "result": null,
           "pl": null
+        },
+        "Front Rim": {
+          "legs": [
+            "Cooper Flagg"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Cooper Flagg": 102
+          },
+          "bkey": "downtown|under 1.5 threes|Cooper Flagg",
+          "result": null,
+          "pl": null
+        },
+        "Mortar Mix": {
+          "legs": [
+            "Kyrie Irving"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Kyrie Irving": 140
+          },
+          "bkey": "downtown|under 2.5 threes|Kyrie Irving",
+          "result": null,
+          "pl": null
         }
       }
     }

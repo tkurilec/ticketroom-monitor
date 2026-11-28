@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T01:39:16.041806+00:00"
+    "checked_at": "2026-11-28T02:05:14.998966+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "d5a9913e0b8571583429daf442948a7c5278dfbd2ef06362cfd4782cd018907e",
@@ -121,7 +121,7 @@
     ],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T01:39:16.881755+00:00"
+    "checked_at": "2026-11-28T02:05:16.137428+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "841b86512518ce571e43d56326c652010b87bdce25401f89a8b7f5a2f411f1e5",
@@ -239,10 +239,10 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T01:39:17.159529+00:00"
+    "checked_at": "2026-11-28T02:05:16.386060+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "4bb5b4c0dd9671ac9c2fae6e29c678dcabc1b66fe5bf846ad86e3709eacf35ec",
+    "hash": "e3f90232468b545d03f5c4034c04d68da1fe1e3a1c4263880ed46ddd6312be25",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -305,6 +305,21 @@
         "group": "3"
       },
       {
+        "name": "Front Rim",
+        "legs": [
+          "Cooper Flagg"
+        ],
+        "rr": false,
+        "market": "under 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Cooper Flagg": "Mavericks vs Suns \u00b7 Fri Nov 27 \u00b7 9:00 PM ET"
+        },
+        "odds": {
+          "Cooper Flagg": 102
+        }
+      },
+      {
         "name": "Load-Bearing Wall",
         "legs": [
           "Luguentz Dort"
@@ -317,6 +332,21 @@
         },
         "odds": {
           "Luguentz Dort": 124
+        }
+      },
+      {
+        "name": "Mortar Mix",
+        "legs": [
+          "Kyrie Irving"
+        ],
+        "rr": false,
+        "market": "under 2.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Kyrie Irving": "Mavericks vs Suns \u00b7 Fri Nov 27 \u00b7 9:00 PM ET"
+        },
+        "odds": {
+          "Kyrie Irving": 140
         }
       },
       {
@@ -407,13 +437,21 @@
       ],
       "Red Clay": [
         "LaMelo Ball"
+      ],
+      "Front Rim": [
+        "Cooper Flagg"
+      ],
+      "Mortar Mix": [
+        "Kyrie Irving"
       ]
     },
     "abets": [
       "downtown|over 1.5 threes|Bobby Portis Jr.",
+      "downtown|under 1.5 threes|Cooper Flagg",
       "downtown|under 1.5 threes|Egor Demin",
       "downtown|under 1.5 threes|Luguentz Dort",
       "downtown|under 1.5 threes|Mikal Bridges",
+      "downtown|under 2.5 threes|Kyrie Irving",
       "downtown|under 3.5 threes|LaMelo Ball",
       "|first basket|Day'Ron Sharpe",
       "|first basket|Jakob Poeltl",
@@ -424,6 +462,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T01:39:19.417442+00:00"
+    "checked_at": "2026-11-28T02:05:18.376099+00:00"
   }
 }
