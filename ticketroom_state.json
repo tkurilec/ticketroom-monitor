@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T11:06:20.585584+00:00"
+    "checked_at": "2026-11-28T11:18:15.211293+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "4a000639830aee1dc47c7a8b5fbea883f44e1ecf8651c4aa96458649b9064f67",
@@ -53,44 +53,18 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T11:06:21.287098+00:00"
+    "checked_at": "2026-11-28T11:18:16.193715+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
     "confirmed": [],
-    "announced": {
-      "Bell Cow": [
-        "Nate Adkins"
-      ],
-      "First Dance": [
-        "Jonah Coleman"
-      ],
-      "Goal Line Back": [
-        "Troy Franklin"
-      ],
-      "Red Zone Target": [
-        "Adam Trautman"
-      ],
-      "Short Yardage": [
-        "Dallen Bentley"
-      ],
-      "The Workhorse": [
-        "Courtland Sutton"
-      ]
-    },
-    "abets": [
-      "ftd|first touchdown scorer|Jonah Coleman",
-      "|anytime touchdown|Adam Trautman",
-      "|anytime touchdown|Courtland Sutton",
-      "|anytime touchdown|Dallen Bentley",
-      "|anytime touchdown|Nate Adkins",
-      "|anytime touchdown|Troy Franklin"
-    ],
-    "slate": "2026-11-27",
+    "announced": {},
+    "abets": [],
+    "slate": "2026-11-29",
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T11:06:21.453212+00:00"
+    "checked_at": "2026-11-28T11:18:16.571175+00:00"
   },
   "https://theticketroom.live/nba/": {
     "hash": "e877e920951994f6c538755b8adad47603b8294030b748861fc09dba237e9df0",
@@ -101,6 +75,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T11:06:21.769343+00:00"
+    "checked_at": "2026-11-28T11:18:16.737954+00:00"
   }
 }

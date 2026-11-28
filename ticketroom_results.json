@@ -778,381 +778,6 @@
           "pl": 0.9090909090909092
         }
       },
-      "2026-11-01": {
-        "Audible": {
-          "legs": [
-            "Jameson Williams"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Jameson Williams": 215
-          },
-          "bkey": "|anytime touchdown|Jameson Williams",
-          "result": "won",
-          "pl": 2.15,
-          "legs_hit": 1
-        },
-        "Back Shoulder": {
-          "legs": [
-            "Mason Taylor"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Mason Taylor": 375
-          },
-          "bkey": "|anytime touchdown|Mason Taylor",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "Bell Cow": {
-          "legs": [
-            "Kyren Williams"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Kyren Williams": -130
-          },
-          "bkey": "|anytime touchdown|Kyren Williams",
-          "result": "won",
-          "pl": 0.7692307692307692,
-          "legs_hit": 1
-        },
-        "First Read": {
-          "legs": [
-            "Aaron Jones"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Aaron Jones": 247
-          },
-          "bkey": "|anytime touchdown|Aaron Jones",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "First on the Board": {
-          "legs": [
-            "Derrick Henry"
-          ],
-          "kind": "ftd",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Derrick Henry": 475
-          },
-          "bkey": "ftd|first touchdown scorer|Derrick Henry",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "Goal Line Back": {
-          "legs": [
-            "Bhayshul Tuten"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Bhayshul Tuten": -110
-          },
-          "bkey": "|anytime touchdown|Bhayshul Tuten",
-          "result": "won",
-          "pl": 0.9090909090909092,
-          "legs_hit": 1
-        },
-        "Hard Count": {
-          "legs": [
-            "Jakobi Meyers"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Jakobi Meyers": 231
-          },
-          "bkey": "|anytime touchdown|Jakobi Meyers",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "Hurry Up": {
-          "legs": [
-            "Chris Rodriguez Jr."
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Chris Rodriguez Jr.": 295
-          },
-          "bkey": "|anytime touchdown|Chris Rodriguez Jr.",
-          "result": "won",
-          "pl": 2.95,
-          "legs_hit": 1
-        },
-        "Inside the Ten": {
-          "legs": [
-            "Sam LaPorta"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Sam LaPorta": 230
-          },
-          "bkey": "|anytime touchdown|Sam LaPorta",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "Jump Ball": {
-          "legs": [
-            "Reggie Virgil"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Reggie Virgil": 1500
-          },
-          "bkey": "|anytime touchdown|Reggie Virgil",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "Move the Chains": {
-          "legs": [
-            "Jeremiyah Love"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Jeremiyah Love": 151
-          },
-          "bkey": "|anytime touchdown|Jeremiyah Love",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "Post Corner": {
-          "legs": [
-            "Tyler Allgeier"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Tyler Allgeier": 347
-          },
-          "bkey": "|anytime touchdown|Tyler Allgeier",
-          "result": "won",
-          "pl": 3.4700000000000006,
-          "legs_hit": 1
-        },
-        "Quick Slant": {
-          "legs": [
-            "Rico Dowdle"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Rico Dowdle": 295
-          },
-          "bkey": "|anytime touchdown|Rico Dowdle",
-          "result": "won",
-          "pl": 2.95,
-          "legs_hit": 1
-        },
-        "Red Zone Target": {
-          "legs": [
-            "Amon-Ra St. Brown"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Amon-Ra St. Brown": 130
-          },
-          "bkey": "|anytime touchdown|Amon-Ra St. Brown",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "Screen Pass": {
-          "legs": [
-            "Kevin Coleman Jr."
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Kevin Coleman Jr.": 1400
-          },
-          "bkey": "|anytime touchdown|Kevin Coleman Jr.",
-          "result": "won",
-          "pl": 14.0,
-          "legs_hit": 1
-        },
-        "Seam Route": {
-          "legs": [
-            "Bam Knight"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Bam Knight": 325
-          },
-          "bkey": "|anytime touchdown|Bam Knight",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "Short Yardage": {
-          "legs": [
-            "Ashton Jeanty"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Ashton Jeanty": -105
-          },
-          "bkey": "|anytime touchdown|Ashton Jeanty",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "Spin Move": {
-          "legs": [
-            "Josh Cuevas"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Josh Cuevas": 950
-          },
-          "bkey": "|anytime touchdown|Josh Cuevas",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "Stiff Arm": {
-          "legs": [
-            "Mitchell Tinsley"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {},
-          "bkey": "|anytime touchdown|Mitchell Tinsley",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "The Checkdown": {
-          "legs": [
-            "Jonathan Taylor"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Jonathan Taylor": -100
-          },
-          "bkey": "|anytime touchdown|Jonathan Taylor",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "The Sneak": {
-          "legs": [
-            "Omarion Hampton"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Omarion Hampton": 205
-          },
-          "bkey": "|anytime touchdown|Omarion Hampton",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "The Workhorse": {
-          "legs": [
-            "James Cook"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "James Cook": -155
-          },
-          "bkey": "|anytime touchdown|James Cook",
-          "result": "won",
-          "pl": 0.6451612903225805,
-          "legs_hit": 1
-        },
-        "Toe Tap": {
-          "legs": [
-            "Jauan Jennings"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Jauan Jennings": 600
-          },
-          "bkey": "|anytime touchdown|Jauan Jennings",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "Two Minute Drill": {
-          "legs": [
-            "J.K. Dobbins"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "J.K. Dobbins": 205
-          },
-          "bkey": "|anytime touchdown|J.K. Dobbins",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        },
-        "Wheel Route": {
-          "legs": [
-            "Keon Coleman"
-          ],
-          "kind": "",
-          "rr": false,
-          "units": null,
-          "odds": {
-            "Keon Coleman": 340
-          },
-          "bkey": "|anytime touchdown|Keon Coleman",
-          "result": "lost",
-          "pl": -1.0,
-          "legs_hit": 0
-        }
-      },
       "2026-11-05": {
         "Short Yardage": {
           "legs": [
@@ -2458,8 +2083,9 @@
             "Nate Adkins": 1100
           },
           "bkey": "|anytime touchdown|Nate Adkins",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "First Dance": {
           "legs": [
@@ -2472,8 +2098,9 @@
             "Jonah Coleman": 333
           },
           "bkey": "ftd|first touchdown scorer|Jonah Coleman",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Goal Line Back": {
           "legs": [
@@ -2486,8 +2113,9 @@
             "Troy Franklin": 1149
           },
           "bkey": "|anytime touchdown|Troy Franklin",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Red Zone Target": {
           "legs": [
@@ -2500,8 +2128,9 @@
             "Adam Trautman": 1567
           },
           "bkey": "|anytime touchdown|Adam Trautman",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "Short Yardage": {
           "legs": [
@@ -2514,8 +2143,9 @@
             "Dallen Bentley": 2400
           },
           "bkey": "|anytime touchdown|Dallen Bentley",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         },
         "The Workhorse": {
           "legs": [
@@ -2528,10 +2158,12 @@
             "Courtland Sutton": 390
           },
           "bkey": "|anytime touchdown|Courtland Sutton",
-          "result": null,
-          "pl": null
+          "result": "lost",
+          "pl": -1.0,
+          "legs_hit": 0
         }
-      }
+      },
+      "2026-11-29": {}
     },
     "NBA Board": {
       "2026-11-13": {
