@@ -4536,6 +4536,20 @@
           "bkey": "downtown|under 2.5 threes|Kyrie Irving",
           "result": null,
           "pl": null
+        },
+        "Open Floor": {
+          "legs": [
+            "Matisse Thybulle"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.6,
+          "odds": {
+            "Matisse Thybulle": 2200
+          },
+          "bkey": "|first basket|Matisse Thybulle",
+          "result": null,
+          "pl": null
         }
       }
     }

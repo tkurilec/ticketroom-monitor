@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T02:05:14.998966+00:00"
+    "checked_at": "2026-11-28T02:23:12.802316+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "d5a9913e0b8571583429daf442948a7c5278dfbd2ef06362cfd4782cd018907e",
@@ -121,7 +121,7 @@
     ],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T02:05:16.137428+00:00"
+    "checked_at": "2026-11-28T02:23:13.770581+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "841b86512518ce571e43d56326c652010b87bdce25401f89a8b7f5a2f411f1e5",
@@ -239,10 +239,10 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T02:05:16.386060+00:00"
+    "checked_at": "2026-11-28T02:23:14.048828+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e3f90232468b545d03f5c4034c04d68da1fe1e3a1c4263880ed46ddd6312be25",
+    "hash": "ce38026446f4f44e5001bb8108637cba1198a8dc7271ef8ccaea83eda5a5f683",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -350,6 +350,21 @@
         }
       },
       {
+        "name": "Open Floor",
+        "legs": [
+          "Matisse Thybulle"
+        ],
+        "rr": false,
+        "info": {
+          "Matisse Thybulle": "Lakers vs Spurs \u00b7 Fri Nov 27 \u00b7 9:30 PM ET"
+        },
+        "odds": {
+          "Matisse Thybulle": 2200
+        },
+        "units": 0.6,
+        "group": "9"
+      },
+      {
         "name": "Red Clay",
         "legs": [
           "LaMelo Ball"
@@ -443,6 +458,9 @@
       ],
       "Mortar Mix": [
         "Kyrie Irving"
+      ],
+      "Open Floor": [
+        "Matisse Thybulle"
       ]
     },
     "abets": [
@@ -456,12 +474,13 @@
       "|first basket|Day'Ron Sharpe",
       "|first basket|Jakob Poeltl",
       "|first basket|Kyle Kuzma",
+      "|first basket|Matisse Thybulle",
       "|first basket|Myles Turner"
     ],
     "slate": "2026-11-27",
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T02:05:18.376099+00:00"
+    "checked_at": "2026-11-28T02:23:16.476045+00:00"
   }
 }
