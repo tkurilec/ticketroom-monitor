@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T00:07:11.710901+00:00"
+    "checked_at": "2026-11-28T00:10:16.007608+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "ab411fcd93c0a3c84184a9f74ea951372985cb7376f3ab99b94145c4b0550319",
@@ -87,7 +87,7 @@
     ],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T00:07:13.266858+00:00"
+    "checked_at": "2026-11-28T00:10:17.128594+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "841b86512518ce571e43d56326c652010b87bdce25401f89a8b7f5a2f411f1e5",
@@ -205,11 +205,26 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T00:07:13.691665+00:00"
+    "checked_at": "2026-11-28T00:10:17.596700+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "e6654106a9dbbfb9c4b1dfe31b551fafc1df5e61498ad4dbedb76a9033bd8331",
+    "hash": "9e292d1c176bed6010fb36b9a3e9f6081d49f5a82f933844ce14e572239311bc",
     "confirmed": [
+      {
+        "name": "Break the Seal",
+        "legs": [
+          "Day'Ron Sharpe"
+        ],
+        "rr": false,
+        "info": {
+          "Day'Ron Sharpe": "Nets vs Raptors \u00b7 Fri Nov 27 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Day'Ron Sharpe": 1200
+        },
+        "units": 0.2,
+        "group": "3"
+      },
       {
         "name": "Builder Grade",
         "legs": [
@@ -224,6 +239,51 @@
         "odds": {
           "Bobby Portis Jr.": 200
         }
+      },
+      {
+        "name": "First Points",
+        "legs": [
+          "Jakob Poeltl"
+        ],
+        "rr": false,
+        "info": {
+          "Jakob Poeltl": "Raptors vs Nets \u00b7 Fri Nov 27 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Jakob Poeltl": 750
+        },
+        "units": 0.4,
+        "group": "3"
+      },
+      {
+        "name": "The Opener",
+        "legs": [
+          "Myles Turner"
+        ],
+        "rr": false,
+        "info": {
+          "Myles Turner": "Bucks vs Pistons \u00b7 Fri Nov 27 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Myles Turner": 1000
+        },
+        "units": 0.3,
+        "group": "2"
+      },
+      {
+        "name": "Tip Drill",
+        "legs": [
+          "Kyle Kuzma"
+        ],
+        "rr": false,
+        "info": {
+          "Kyle Kuzma": "Bucks vs Pistons \u00b7 Fri Nov 27 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Kyle Kuzma": 1200
+        },
+        "units": 0.3,
+        "group": "2"
       },
       {
         "name": "Under Construction",
@@ -247,16 +307,32 @@
       ],
       "Under Construction": [
         "Mikal Bridges"
+      ],
+      "Break the Seal": [
+        "Day'Ron Sharpe"
+      ],
+      "First Points": [
+        "Jakob Poeltl"
+      ],
+      "The Opener": [
+        "Myles Turner"
+      ],
+      "Tip Drill": [
+        "Kyle Kuzma"
       ]
     },
     "abets": [
       "downtown|over 1.5 threes|Bobby Portis Jr.",
-      "downtown|under 1.5 threes|Mikal Bridges"
+      "downtown|under 1.5 threes|Mikal Bridges",
+      "|first basket|Day'Ron Sharpe",
+      "|first basket|Jakob Poeltl",
+      "|first basket|Kyle Kuzma",
+      "|first basket|Myles Turner"
     ],
     "slate": "2026-11-27",
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T00:07:15.622507+00:00"
+    "checked_at": "2026-11-28T00:10:19.429007+00:00"
   }
 }

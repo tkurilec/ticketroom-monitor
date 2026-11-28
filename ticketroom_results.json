@@ -4396,6 +4396,62 @@
           "bkey": "downtown|under 1.5 threes|Mikal Bridges",
           "result": null,
           "pl": null
+        },
+        "Break the Seal": {
+          "legs": [
+            "Day'Ron Sharpe"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.2,
+          "odds": {
+            "Day'Ron Sharpe": 1200
+          },
+          "bkey": "|first basket|Day'Ron Sharpe",
+          "result": null,
+          "pl": null
+        },
+        "First Points": {
+          "legs": [
+            "Jakob Poeltl"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.4,
+          "odds": {
+            "Jakob Poeltl": 750
+          },
+          "bkey": "|first basket|Jakob Poeltl",
+          "result": null,
+          "pl": null
+        },
+        "The Opener": {
+          "legs": [
+            "Myles Turner"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Myles Turner": 1000
+          },
+          "bkey": "|first basket|Myles Turner",
+          "result": null,
+          "pl": null
+        },
+        "Tip Drill": {
+          "legs": [
+            "Kyle Kuzma"
+          ],
+          "kind": "",
+          "rr": false,
+          "units": 0.3,
+          "odds": {
+            "Kyle Kuzma": 1200
+          },
+          "bkey": "|first basket|Kyle Kuzma",
+          "result": null,
+          "pl": null
         }
       }
     }
