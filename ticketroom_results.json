@@ -4480,6 +4480,20 @@
           "bkey": "downtown|under 1.5 threes|Egor Demin",
           "result": null,
           "pl": null
+        },
+        "Load-Bearing Wall": {
+          "legs": [
+            "Luguentz Dort"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Luguentz Dort": 124
+          },
+          "bkey": "downtown|under 1.5 threes|Luguentz Dort",
+          "result": null,
+          "pl": null
         }
       }
     }
