@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T00:24:11.859356+00:00"
+    "checked_at": "2026-11-28T00:35:24.490982+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "d5a9913e0b8571583429daf442948a7c5278dfbd2ef06362cfd4782cd018907e",
@@ -121,7 +121,7 @@
     ],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T00:24:14.856126+00:00"
+    "checked_at": "2026-11-28T00:35:25.835567+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "841b86512518ce571e43d56326c652010b87bdce25401f89a8b7f5a2f411f1e5",
@@ -239,10 +239,10 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T00:24:15.237960+00:00"
+    "checked_at": "2026-11-28T00:35:26.129337+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "9e292d1c176bed6010fb36b9a3e9f6081d49f5a82f933844ce14e572239311bc",
+    "hash": "53c04e24c891986b149f4d479d42fd170698d030fb436ae21d9022d482b1deb2",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -272,6 +272,21 @@
         },
         "odds": {
           "Bobby Portis Jr.": 200
+        }
+      },
+      {
+        "name": "Cinder Block",
+        "legs": [
+          "Egor Demin"
+        ],
+        "rr": false,
+        "market": "under 1.5 threes",
+        "kind": "downtown",
+        "info": {
+          "Egor Demin": "Nets vs Raptors \u00b7 Fri Nov 27 \u00b7 7:30 PM ET"
+        },
+        "odds": {
+          "Egor Demin": 124
         }
       },
       {
@@ -353,10 +368,14 @@
       ],
       "Tip Drill": [
         "Kyle Kuzma"
+      ],
+      "Cinder Block": [
+        "Egor Demin"
       ]
     },
     "abets": [
       "downtown|over 1.5 threes|Bobby Portis Jr.",
+      "downtown|under 1.5 threes|Egor Demin",
       "downtown|under 1.5 threes|Mikal Bridges",
       "|first basket|Day'Ron Sharpe",
       "|first basket|Jakob Poeltl",
@@ -367,6 +386,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T00:24:16.099311+00:00"
+    "checked_at": "2026-11-28T00:35:27.941874+00:00"
   }
 }

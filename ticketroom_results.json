@@ -4466,6 +4466,20 @@
           "bkey": "|first basket|Kyle Kuzma",
           "result": null,
           "pl": null
+        },
+        "Cinder Block": {
+          "legs": [
+            "Egor Demin"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Egor Demin": 124
+          },
+          "bkey": "downtown|under 1.5 threes|Egor Demin",
+          "result": null,
+          "pl": null
         }
       }
     }
