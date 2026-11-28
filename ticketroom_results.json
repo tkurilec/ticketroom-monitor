@@ -4368,7 +4368,36 @@
           "legs_hit": 0
         }
       },
-      "2026-11-27": {}
+      "2026-11-27": {
+        "Builder Grade": {
+          "legs": [
+            "Bobby Portis Jr."
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Bobby Portis Jr.": 200
+          },
+          "bkey": "downtown|over 1.5 threes|Bobby Portis Jr.",
+          "result": null,
+          "pl": null
+        },
+        "Under Construction": {
+          "legs": [
+            "Mikal Bridges"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "Mikal Bridges": -104
+          },
+          "bkey": "downtown|under 1.5 threes|Mikal Bridges",
+          "result": null,
+          "pl": null
+        }
+      }
     }
   },
   "recap_sent": "2026-11-27",
