@@ -8,7 +8,7 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T01:08:22.817616+00:00"
+    "checked_at": "2026-11-28T01:39:16.041806+00:00"
   },
   "https://theticketroom.live/soccer/": {
     "hash": "d5a9913e0b8571583429daf442948a7c5278dfbd2ef06362cfd4782cd018907e",
@@ -121,7 +121,7 @@
     ],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T01:08:24.350226+00:00"
+    "checked_at": "2026-11-28T01:39:16.881755+00:00"
   },
   "https://theticketroom.live/nfl/": {
     "hash": "841b86512518ce571e43d56326c652010b87bdce25401f89a8b7f5a2f411f1e5",
@@ -239,10 +239,10 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T01:08:24.690257+00:00"
+    "checked_at": "2026-11-28T01:39:17.159529+00:00"
   },
   "https://theticketroom.live/nba/": {
-    "hash": "9ce6967aa7e1dd1da0b2c5eafaa855abfd7881deef52bdf53b347694bb18a9de",
+    "hash": "4bb5b4c0dd9671ac9c2fae6e29c678dcabc1b66fe5bf846ad86e3709eacf35ec",
     "confirmed": [
       {
         "name": "Break the Seal",
@@ -320,6 +320,21 @@
         }
       },
       {
+        "name": "Red Clay",
+        "legs": [
+          "LaMelo Ball"
+        ],
+        "rr": false,
+        "market": "under 3.5 threes",
+        "kind": "downtown",
+        "info": {
+          "LaMelo Ball": "Timberwolves vs Grizzlies \u00b7 Fri Nov 27 \u00b7 8:30 PM ET"
+        },
+        "odds": {
+          "LaMelo Ball": -160
+        }
+      },
+      {
         "name": "The Opener",
         "legs": [
           "Myles Turner"
@@ -389,6 +404,9 @@
       ],
       "Load-Bearing Wall": [
         "Luguentz Dort"
+      ],
+      "Red Clay": [
+        "LaMelo Ball"
       ]
     },
     "abets": [
@@ -396,6 +414,7 @@
       "downtown|under 1.5 threes|Egor Demin",
       "downtown|under 1.5 threes|Luguentz Dort",
       "downtown|under 1.5 threes|Mikal Bridges",
+      "downtown|under 3.5 threes|LaMelo Ball",
       "|first basket|Day'Ron Sharpe",
       "|first basket|Jakob Poeltl",
       "|first basket|Kyle Kuzma",
@@ -405,6 +424,6 @@
     "hits": [],
     "ltd": null,
     "last_modified": null,
-    "checked_at": "2026-11-28T01:08:26.886418+00:00"
+    "checked_at": "2026-11-28T01:39:19.417442+00:00"
   }
 }

@@ -4494,6 +4494,20 @@
           "bkey": "downtown|under 1.5 threes|Luguentz Dort",
           "result": null,
           "pl": null
+        },
+        "Red Clay": {
+          "legs": [
+            "LaMelo Ball"
+          ],
+          "kind": "downtown",
+          "rr": false,
+          "units": null,
+          "odds": {
+            "LaMelo Ball": -160
+          },
+          "bkey": "downtown|under 3.5 threes|LaMelo Ball",
+          "result": null,
+          "pl": null
         }
       }
     }
